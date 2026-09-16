@@ -1,0 +1,649 @@
+{
+  "version": "1.0.0",
+  "level": "N5",
+  "totalCount": 10,
+  "grammar": [
+    {
+      "id": "n5_001",
+      "pattern": "〜は〜です",
+      "patternReading": "〜は〜です",
+      "meaning": "~은/는 ~입니다",
+      "jlpt": "N5",
+      "category": "기본문형",
+      "order": 1,
+      "explanation": {
+        "summary": "명사 문장의 기본형. 주어를 나타내는 'は'와 정중한 단정을 나타내는 'です'의 조합",
+        "detail": "'は'는 주제를 나타내는 조사로, 한국어의 '은/는'에 해당합니다. 'です'는 '~입니다'라는 정중한 단정의 의미입니다.",
+        "koreanComparison": "한국어 '~은/는 ~입니다'와 거의 동일한 구조입니다. 다만 일본어는 주어 생략이 더 자연스럽습니다.",
+        "commonMistakes": [
+          "'가/이'에 해당하는 'が'와 혼동하지 않도록 주의",
+          "형용사 문장에서는 'です' 앞에 명사가 오지 않음"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": { "form": "〜は〜です", "meaning": "~은/는 ~입니다" },
+        "polite_negative": { "form": "〜は〜ではありません", "meaning": "~은/는 ~이/가 아닙니다" },
+        "polite_past": { "form": "〜は〜でした", "meaning": "~은/는 ~이었습니다" },
+        "polite_past_negative": { "form": "〜は〜ではありませんでした", "meaning": "~은/는 ~이/가 아니었습니다" },
+        "casual_positive": { "form": "〜は〜だ", "meaning": "~은/는 ~이다" },
+        "casual_negative": { "form": "〜は〜じゃない", "meaning": "~은/는 ~이/가 아니다" }
+      },
+      "examples": [
+        {
+          "ja": "私は学生です。",
+          "reading": "わたしはがくせいです。",
+          "ko": "저는 학생입니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは先生です。",
+          "reading": "たなかさんはせんせいです。",
+          "ko": "다나카 씨는 선생님입니다.",
+          "audio": null
+        },
+        {
+          "ja": "これは本です。",
+          "reading": "これはほんです。",
+          "ko": "이것은 책입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "山田さん＿＿会社員です。",
+          "options": ["は", "が", "を", "に"],
+          "answer": "は",
+          "explanation": "주제를 나타내는 조사 'は'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "저는 회사원입니다.",
+          "answer": "私は会社員です。",
+          "acceptableAnswers": ["わたしはかいしゃいんです。"]
+        }
+      ],
+      "relatedGrammar": ["n5_002"],
+      "relatedKanji": ["私", "学", "生"],
+      "tags": ["기초", "명사문", "조사"]
+    },
+    {
+      "id": "n5_002",
+      "pattern": "〜ではありません",
+      "patternReading": "〜ではありません",
+      "meaning": "~이/가 아닙니다",
+      "jlpt": "N5",
+      "category": "부정",
+      "order": 2,
+      "explanation": {
+        "summary": "명사 문장의 부정형. 'です'의 부정 표현",
+        "detail": "'ではありません'은 'です'의 정중한 부정형입니다. 구어체에서는 'じゃありません' 또는 'じゃないです'도 자주 사용됩니다.",
+        "koreanComparison": "한국어 '~이/가 아닙니다'와 동일한 의미입니다.",
+        "commonMistakes": [
+          "'ではありません'과 'じゃありません'은 같은 의미 (じゃ가 더 구어적)",
+          "동사의 부정형 'ません'과 혼동하지 않기"
+        ]
+      },
+      "conjugation": {
+        "polite_negative": { "form": "〜ではありません", "meaning": "~이/가 아닙니다" },
+        "polite_negative_casual": { "form": "〜じゃありません", "meaning": "~이/가 아닙니다 (구어)" },
+        "polite_past_negative": { "form": "〜ではありませんでした", "meaning": "~이/가 아니었습니다" },
+        "casual_negative": { "form": "〜じゃない", "meaning": "~이/가 아니야" }
+      },
+      "examples": [
+        {
+          "ja": "私は学生ではありません。",
+          "reading": "わたしはがくせいではありません。",
+          "ko": "저는 학생이 아닙니다.",
+          "audio": null
+        },
+        {
+          "ja": "これは私の本じゃありません。",
+          "reading": "これはわたしのほんじゃありません。",
+          "ko": "이것은 제 책이 아닙니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは医者ではありません。先生です。",
+          "reading": "たなかさんはいしゃではありません。せんせいです。",
+          "ko": "다나카 씨는 의사가 아닙니다. 선생님입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "これは辞書＿＿＿＿＿＿。本です。",
+          "options": ["ではありません", "です", "でした", "ます"],
+          "answer": "ではありません",
+          "explanation": "뒤에 '本です(책입니다)'가 오므로, 앞은 부정형이 적절합니다."
+        },
+        {
+          "type": "convert",
+          "question": "私は日本人です。→ 부정문으로",
+          "answer": "私は日本人ではありません。",
+          "acceptableAnswers": ["私は日本人じゃありません。", "私は日本人じゃないです。"]
+        }
+      ],
+      "relatedGrammar": ["n5_001"],
+      "relatedKanji": ["学", "生", "本"],
+      "tags": ["기초", "부정", "명사문"]
+    },
+    {
+      "id": "n5_003",
+      "pattern": "〜があります／います",
+      "patternReading": "〜があります／います",
+      "meaning": "~이/가 있습니다",
+      "jlpt": "N5",
+      "category": "존재",
+      "order": 3,
+      "explanation": {
+        "summary": "존재를 나타내는 표현. 무생물에는 'あります', 생물에는 'います' 사용",
+        "detail": "'あります'는 무생물(책, 건물 등)의 존재를, 'います'는 생물(사람, 동물 등)의 존재를 나타냅니다. 장소는 'に' 조사로 표시합니다.",
+        "koreanComparison": "한국어는 '있다' 하나로 표현하지만, 일본어는 생물/무생물을 구분합니다.",
+        "commonMistakes": [
+          "식물은 무생물로 취급하여 'あります' 사용",
+          "로봇, 인형 등 움직이지 않는 것은 'あります'",
+          "택시(승객이 탄)는 'います'로 쓰기도 함"
+        ]
+      },
+      "conjugation": {
+        "polite_positive_inanimate": { "form": "あります", "meaning": "있습니다 (무생물)" },
+        "polite_positive_animate": { "form": "います", "meaning": "있습니다 (생물)" },
+        "polite_negative_inanimate": { "form": "ありません", "meaning": "없습니다 (무생물)" },
+        "polite_negative_animate": { "form": "いません", "meaning": "없습니다 (생물)" },
+        "casual_positive_inanimate": { "form": "ある", "meaning": "있어 (무생물)" },
+        "casual_positive_animate": { "form": "いる", "meaning": "있어 (생물)" }
+      },
+      "examples": [
+        {
+          "ja": "机の上に本があります。",
+          "reading": "つくえのうえにほんがあります。",
+          "ko": "책상 위에 책이 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "教室に学生がいます。",
+          "reading": "きょうしつにがくせいがいます。",
+          "ko": "교실에 학생이 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "庭に猫がいます。",
+          "reading": "にわにねこがいます。",
+          "ko": "정원에 고양이가 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "公園に犬が＿＿＿。",
+          "options": ["あります", "います", "です", "ます"],
+          "answer": "います",
+          "explanation": "犬(개)는 생물이므로 'います'를 사용합니다."
+        },
+        {
+          "type": "choice",
+          "question": "部屋にテレビが＿＿＿。",
+          "options": ["あります", "います", "です", "ます"],
+          "answer": "あります",
+          "explanation": "テレビ(TV)는 무생물이므로 'あります'를 사용합니다."
+        }
+      ],
+      "relatedGrammar": ["n5_001", "n5_005"],
+      "relatedKanji": ["机", "上", "本", "教", "室"],
+      "tags": ["기초", "존재", "あります", "います"]
+    },
+    {
+      "id": "n5_004",
+      "pattern": "〜を〜ます",
+      "patternReading": "〜を〜ます",
+      "meaning": "~을/를 ~합니다",
+      "jlpt": "N5",
+      "category": "동사",
+      "order": 4,
+      "explanation": {
+        "summary": "타동사 문장의 기본형. 목적어를 나타내는 'を'와 동사의 정중형 'ます'",
+        "detail": "'を'는 동작의 대상(목적어)을 나타내는 조사입니다. 동사의 'ます형'은 정중한 표현입니다.",
+        "koreanComparison": "한국어 '~을/를 ~합니다'와 동일한 구조입니다.",
+        "commonMistakes": [
+          "'を'는 'お'로 발음하지만 조사로 쓸 때는 'を'로 표기",
+          "자동사에는 'を' 사용 불가 (예: 行きます에는 を가 아닌 に/へ)"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": { "form": "〜ます", "meaning": "~합니다" },
+        "polite_negative": { "form": "〜ません", "meaning": "~하지 않습니다" },
+        "polite_past": { "form": "〜ました", "meaning": "~했습니다" },
+        "polite_past_negative": { "form": "〜ませんでした", "meaning": "~하지 않았습니다" }
+      },
+      "examples": [
+        {
+          "ja": "本を読みます。",
+          "reading": "ほんをよみます。",
+          "ko": "책을 읽습니다.",
+          "audio": null
+        },
+        {
+          "ja": "朝ごはんを食べます。",
+          "reading": "あさごはんをたべます。",
+          "ko": "아침밥을 먹습니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本語を勉強します。",
+          "reading": "にほんごをべんきょうします。",
+          "ko": "일본어를 공부합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "コーヒー＿＿飲みます。",
+          "options": ["を", "は", "が", "に"],
+          "answer": "を",
+          "explanation": "飲みます(마십니다)의 목적어이므로 'を'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "음악을 듣습니다.",
+          "answer": "音楽を聞きます。",
+          "acceptableAnswers": ["おんがくをききます。"]
+        }
+      ],
+      "relatedGrammar": ["n5_001", "n5_009"],
+      "relatedKanji": ["本", "読", "食", "勉", "強"],
+      "tags": ["기초", "동사", "조사", "목적어"]
+    },
+    {
+      "id": "n5_005",
+      "pattern": "〜に行きます／来ます／帰ります",
+      "patternReading": "〜にいきます／きます／かえります",
+      "meaning": "~에 갑니다/옵니다/돌아갑니다",
+      "jlpt": "N5",
+      "category": "이동",
+      "order": 5,
+      "explanation": {
+        "summary": "이동의 목적지를 나타내는 표현. 장소 + に + 이동동사",
+        "detail": "'に'는 이동의 도착점(목적지)을 나타냅니다. '行きます(갑니다)', '来ます(옵니다)', '帰ります(돌아갑니다)' 등의 이동 동사와 함께 사용합니다.",
+        "koreanComparison": "한국어 '~에 가다'와 동일합니다. 'へ'도 같은 의미로 사용 가능합니다.",
+        "commonMistakes": [
+          "'に'와 'へ'는 이동 동사와 함께 쓸 때 거의 같은 의미",
+          "'で'(수단/장소)와 혼동하지 않기"
+        ]
+      },
+      "conjugation": {
+        "go_polite": { "form": "行きます", "meaning": "갑니다" },
+        "come_polite": { "form": "来ます", "meaning": "옵니다" },
+        "return_polite": { "form": "帰ります", "meaning": "돌아갑니다" },
+        "go_negative": { "form": "行きません", "meaning": "가지 않습니다" },
+        "go_past": { "form": "行きました", "meaning": "갔습니다" }
+      },
+      "examples": [
+        {
+          "ja": "学校に行きます。",
+          "reading": "がっこうにいきます。",
+          "ko": "학교에 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本に来ました。",
+          "reading": "にほんにきました。",
+          "ko": "일본에 왔습니다.",
+          "audio": null
+        },
+        {
+          "ja": "家に帰ります。",
+          "reading": "いえにかえります。",
+          "ko": "집에 돌아갑니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "明日、東京＿＿行きます。",
+          "options": ["に", "を", "で", "は"],
+          "answer": "に",
+          "explanation": "이동의 목적지를 나타내므로 'に'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "어제 회사에 갔습니다.",
+          "answer": "昨日、会社に行きました。",
+          "acceptableAnswers": ["きのう、かいしゃにいきました。"]
+        }
+      ],
+      "relatedGrammar": ["n5_003", "n5_004"],
+      "relatedKanji": ["行", "来", "帰", "学", "校"],
+      "tags": ["기초", "이동", "동사", "조사"]
+    },
+    {
+      "id": "n5_006",
+      "pattern": "〜たいです",
+      "patternReading": "〜たいです",
+      "meaning": "~고 싶습니다",
+      "jlpt": "N5",
+      "category": "희망",
+      "order": 6,
+      "explanation": {
+        "summary": "화자의 희망/욕구를 나타내는 표현. 동사 ます형 어간 + たい",
+        "detail": "'たい'는 동사의 ます형에서 'ます'를 빼고 붙입니다. 1인칭(나)의 희망만 표현하며, 타인의 희망은 '〜たがっています'를 사용합니다.",
+        "koreanComparison": "한국어 '~고 싶다'와 동일합니다.",
+        "commonMistakes": [
+          "3인칭에게는 'たい'를 직접 사용하지 않음",
+          "'たい'는 い형용사처럼 활용 (たくない, たかった)"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": { "form": "〜たいです", "meaning": "~고 싶습니다" },
+        "polite_negative": { "form": "〜たくないです", "meaning": "~고 싶지 않습니다" },
+        "polite_past": { "form": "〜たかったです", "meaning": "~고 싶었습니다" },
+        "casual_positive": { "form": "〜たい", "meaning": "~고 싶어" },
+        "casual_negative": { "form": "〜たくない", "meaning": "~고 싶지 않아" }
+      },
+      "examples": [
+        {
+          "ja": "日本に行きたいです。",
+          "reading": "にほんにいきたいです。",
+          "ko": "일본에 가고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "寿司を食べたいです。",
+          "reading": "すしをたべたいです。",
+          "ko": "초밥을 먹고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "新しい車を買いたいです。",
+          "reading": "あたらしいくるまをかいたいです。",
+          "ko": "새 차를 사고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲みます → 희망형으로",
+          "answer": "飲みたいです",
+          "acceptableAnswers": ["のみたいです"]
+        },
+        {
+          "type": "translate",
+          "question": "영화를 보고 싶습니다.",
+          "answer": "映画を見たいです。",
+          "acceptableAnswers": ["えいがをみたいです。"]
+        }
+      ],
+      "relatedGrammar": ["n5_004", "n5_007"],
+      "relatedKanji": ["行", "食", "買", "見"],
+      "tags": ["희망", "동사", "1인칭"]
+    },
+    {
+      "id": "n5_007",
+      "pattern": "〜てください",
+      "patternReading": "〜てください",
+      "meaning": "~해 주세요",
+      "jlpt": "N5",
+      "category": "의뢰",
+      "order": 7,
+      "explanation": {
+        "summary": "정중한 의뢰/부탁을 나타내는 표현. 동사 て형 + ください",
+        "detail": "'てください'는 상대방에게 정중하게 부탁할 때 사용합니다. 동사를 て형으로 바꾸고 'ください'를 붙입니다.",
+        "koreanComparison": "한국어 '~해 주세요'와 동일합니다.",
+        "commonMistakes": [
+          "て형 변환 규칙 숙지 필요 (5단/1단/불규칙 동사)",
+          "더 정중하게는 'ていただけませんか'"
+        ]
+      },
+      "conjugation": {
+        "group1_u": { "form": "買う → 買ってください", "meaning": "사 주세요" },
+        "group1_ku": { "form": "書く → 書いてください", "meaning": "써 주세요" },
+        "group1_gu": { "form": "泳ぐ → 泳いでください", "meaning": "수영해 주세요" },
+        "group1_su": { "form": "話す → 話してください", "meaning": "말해 주세요" },
+        "group1_tsu": { "form": "待つ → 待ってください", "meaning": "기다려 주세요" },
+        "group1_nu": { "form": "死ぬ → 死んでください", "meaning": "죽어 주세요" },
+        "group1_bu": { "form": "遊ぶ → 遊んでください", "meaning": "놀아 주세요" },
+        "group1_mu": { "form": "読む → 読んでください", "meaning": "읽어 주세요" },
+        "group1_ru": { "form": "帰る → 帰ってください", "meaning": "돌아가 주세요" },
+        "group2": { "form": "食べる → 食べてください", "meaning": "먹어 주세요" },
+        "irregular_suru": { "form": "する → してください", "meaning": "해 주세요" },
+        "irregular_kuru": { "form": "来る → 来てください", "meaning": "와 주세요" }
+      },
+      "examples": [
+        {
+          "ja": "ここに名前を書いてください。",
+          "reading": "ここになまえをかいてください。",
+          "ko": "여기에 이름을 써 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "写真を撮ってください。",
+          "reading": "しゃしんをとってください。",
+          "ko": "사진을 찍어 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "ちょっと待ってください。",
+          "reading": "ちょっとまってください。",
+          "ko": "잠깐 기다려 주세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "見ます → 의뢰형으로",
+          "answer": "見てください",
+          "acceptableAnswers": ["みてください"]
+        },
+        {
+          "type": "fill_blank",
+          "question": "日本語で＿＿＿＿ください。(話す)",
+          "options": ["話して", "話し", "話す", "話した"],
+          "answer": "話して",
+          "explanation": "話す의 て형은 話して입니다."
+        }
+      ],
+      "relatedGrammar": ["n5_008", "n5_004"],
+      "relatedKanji": ["書", "写", "真", "待"],
+      "tags": ["의뢰", "て형", "정중"]
+    },
+    {
+      "id": "n5_008",
+      "pattern": "〜ている",
+      "patternReading": "〜ている",
+      "meaning": "~하고 있다 / ~해 있다",
+      "jlpt": "N5",
+      "category": "진행/상태",
+      "order": 8,
+      "explanation": {
+        "summary": "동작의 진행 또는 결과 상태를 나타내는 표현. 동사 て형 + いる",
+        "detail": "'ている'은 두 가지 의미가 있습니다: 1) 동작의 진행 (~하고 있다), 2) 결과 상태의 지속 (~해 있다). 동사의 종류에 따라 의미가 달라집니다.",
+        "koreanComparison": "한국어 '~하고 있다'와 비슷하지만, 상태 지속의 의미도 포함합니다.",
+        "commonMistakes": [
+          "住んでいます(살고 있습니다)는 진행이 아닌 상태",
+          "知っています(알고 있습니다)는 상태 (진행형 아님)",
+          "구어체에서는 'てる'로 축약"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": { "form": "〜ています", "meaning": "~하고 있습니다" },
+        "polite_negative": { "form": "〜ていません", "meaning": "~하고 있지 않습니다" },
+        "casual_positive": { "form": "〜ている/てる", "meaning": "~하고 있어" },
+        "casual_negative": { "form": "〜ていない/てない", "meaning": "~하고 있지 않아" }
+      },
+      "examples": [
+        {
+          "ja": "今、本を読んでいます。",
+          "reading": "いま、ほんをよんでいます。",
+          "ko": "지금 책을 읽고 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは東京に住んでいます。",
+          "reading": "たなかさんはとうきょうにすんでいます。",
+          "ko": "다나카 씨는 도쿄에 살고 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "窓が開いています。",
+          "reading": "まどがあいています。",
+          "ko": "창문이 열려 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "食べます → 진행형으로",
+          "answer": "食べています",
+          "acceptableAnswers": ["たべています"]
+        },
+        {
+          "type": "choice",
+          "question": "「結婚しています」의 의미는?",
+          "options": ["결혼하고 있는 중이다", "결혼한 상태이다", "결혼할 것이다", "결혼했었다"],
+          "answer": "결혼한 상태이다",
+          "explanation": "結婚する는 순간 동사이므로 'ている'은 결과 상태를 나타냅니다."
+        }
+      ],
+      "relatedGrammar": ["n5_007", "n5_009"],
+      "relatedKanji": ["読", "住", "開"],
+      "tags": ["진행", "상태", "て형"]
+    },
+    {
+      "id": "n5_009",
+      "pattern": "〜た（過去形）",
+      "patternReading": "〜た（かこけい）",
+      "meaning": "~했다",
+      "jlpt": "N5",
+      "category": "과거",
+      "order": 9,
+      "explanation": {
+        "summary": "동사의 과거형. 'た'는 동사 て형에서 'て'를 'た'로, 'で'를 'だ'로 바꿈",
+        "detail": "동사의 た형(과거형)은 て형 변환 규칙과 같습니다. 'て→た', 'で→だ'로 바꾸면 됩니다. 정중형은 'ました'를 사용합니다.",
+        "koreanComparison": "한국어 '~했다'와 동일합니다.",
+        "commonMistakes": [
+          "た형은 て형 변환을 알면 쉽게 만들 수 있음",
+          "정중형(ました)과 보통형(た)의 사용 구분"
+        ]
+      },
+      "conjugation": {
+        "group1_u": { "form": "買う → 買った", "meaning": "샀다" },
+        "group1_ku": { "form": "書く → 書いた", "meaning": "썼다" },
+        "group1_gu": { "form": "泳ぐ → 泳いだ", "meaning": "수영했다" },
+        "group1_su": { "form": "話す → 話した", "meaning": "말했다" },
+        "group1_tsu": { "form": "待つ → 待った", "meaning": "기다렸다" },
+        "group1_mu": { "form": "読む → 読んだ", "meaning": "읽었다" },
+        "group2": { "form": "食べる → 食べた", "meaning": "먹었다" },
+        "irregular_suru": { "form": "する → した", "meaning": "했다" },
+        "irregular_kuru": { "form": "来る → 来た", "meaning": "왔다" },
+        "polite": { "form": "〜ました", "meaning": "~했습니다" }
+      },
+      "examples": [
+        {
+          "ja": "昨日、映画を見ました。",
+          "reading": "きのう、えいがをみました。",
+          "ko": "어제 영화를 봤습니다.",
+          "audio": null
+        },
+        {
+          "ja": "朝ごはんを食べた。",
+          "reading": "あさごはんをたべた。",
+          "ko": "아침밥을 먹었다.",
+          "audio": null
+        },
+        {
+          "ja": "友達が日本から来ました。",
+          "reading": "ともだちがにほんからきました。",
+          "ko": "친구가 일본에서 왔습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲みます → 과거형으로",
+          "answer": "飲みました",
+          "acceptableAnswers": ["のみました"]
+        },
+        {
+          "type": "convert",
+          "question": "行く → た형으로",
+          "answer": "行った",
+          "acceptableAnswers": ["いった"]
+        }
+      ],
+      "relatedGrammar": ["n5_004", "n5_007"],
+      "relatedKanji": ["昨", "日", "映", "画", "見"],
+      "tags": ["과거", "동사", "활용"]
+    },
+    {
+      "id": "n5_010",
+      "pattern": "〜から（理由）",
+      "patternReading": "〜から（りゆう）",
+      "meaning": "~때문에, ~이니까",
+      "jlpt": "N5",
+      "category": "이유",
+      "order": 10,
+      "explanation": {
+        "summary": "이유/원인을 나타내는 표현. 문장 + から",
+        "detail": "'から'는 이유를 나타내는 접속조사입니다. 정중형(です/ます) 뒤에도, 보통형 뒤에도 붙을 수 있습니다. 'ので'보다 직접적이고 주관적인 이유를 나타냅니다.",
+        "koreanComparison": "한국어 '~때문에', '~이니까', '~이라서'와 유사합니다.",
+        "commonMistakes": [
+          "'から'는 주관적, 'ので'는 객관적 이유 (N4에서 배움)",
+          "문말에 'から'가 오면 '~거든요'의 뉘앙스"
+        ]
+      },
+      "conjugation": {
+        "with_desu": { "form": "〜ですから", "meaning": "~이니까 (정중)" },
+        "with_masu": { "form": "〜ますから", "meaning": "~하니까 (정중)" },
+        "with_da": { "form": "〜だから", "meaning": "~이니까 (보통)" },
+        "with_plain": { "form": "〜から", "meaning": "~하니까" },
+        "sentence_end": { "form": "〜からです", "meaning": "~때문입니다" }
+      },
+      "examples": [
+        {
+          "ja": "暑いですから、窓を開けてください。",
+          "reading": "あついですから、まどをあけてください。",
+          "ko": "더우니까 창문을 열어 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "時間がないから、タクシーで行きます。",
+          "reading": "じかんがないから、タクシーでいきます。",
+          "ko": "시간이 없어서 택시로 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "どうして遅刻しましたか。—電車が遅れたからです。",
+          "reading": "どうしておそくしましたか。—でんしゃがおくれたからです。",
+          "ko": "왜 지각했습니까? —전철이 늦어서입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "疲れた＿＿、早く寝ます。",
+          "options": ["から", "ので", "けど", "が"],
+          "answer": "から",
+          "explanation": "이유를 나타내는 'から'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "바쁘니까 갈 수 없습니다.",
+          "answer": "忙しいですから、行けません。",
+          "acceptableAnswers": ["いそがしいですから、いけません。", "忙しいから、行けません。"]
+        }
+      ],
+      "relatedGrammar": ["n5_001", "n5_004"],
+      "relatedKanji": ["暑", "窓", "開", "時", "間"],
+      "tags": ["이유", "접속", "から"]
+    }
+  ]
+}

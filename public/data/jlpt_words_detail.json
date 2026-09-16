@@ -1,0 +1,375 @@
+{
+  "version": "1.0.0",
+  "totalCount": 10,
+  "words": [
+    {
+      "id": "w001",
+      "word": "食べる",
+      "reading": "たべる",
+      "meaning": "먹다",
+      "meaningDetail": "음식을 입에 넣고 씹어서 삼키다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "2그룹",
+      "pitch": [0, 1, 1],
+      "examples": [
+        {
+          "ja": "朝ごはんを食べます。",
+          "reading": "あさごはんをたべます。",
+          "ko": "아침밥을 먹습니다."
+        },
+        {
+          "ja": "何を食べたいですか。",
+          "reading": "なにをたべたいですか。",
+          "ko": "뭘 먹고 싶어요?"
+        }
+      ],
+      "conjugations": [
+        { "form": "ます형", "value": "食べます", "reading": "たべます" },
+        { "form": "て형", "value": "食べて", "reading": "たべて" },
+        { "form": "た형", "value": "食べた", "reading": "たべた" },
+        { "form": "ない형", "value": "食べない", "reading": "たべない" },
+        { "form": "가능형", "value": "食べられる", "reading": "たべられる" }
+      ],
+      "relatedWords": [
+        { "word": "飲む", "reading": "のむ", "meaning": "마시다", "relation": "관련어" },
+        { "word": "食事", "reading": "しょくじ", "meaning": "식사", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "食", "reading": "た(べる)", "meaning": "먹을 식" }
+      ],
+      "tags": ["기본동사", "2그룹", "식사"],
+      "frequency": 50
+    },
+    {
+      "id": "w002",
+      "word": "行く",
+      "reading": "いく",
+      "meaning": "가다",
+      "meaningDetail": "어떤 장소로 이동하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [0, 1],
+      "examples": [
+        {
+          "ja": "学校に行きます。",
+          "reading": "がっこうにいきます。",
+          "ko": "학교에 갑니다."
+        },
+        {
+          "ja": "一緒に行きましょう。",
+          "reading": "いっしょにいきましょう。",
+          "ko": "같이 갑시다."
+        }
+      ],
+      "conjugations": [
+        { "form": "ます형", "value": "行きます", "reading": "いきます" },
+        { "form": "て형", "value": "行って", "reading": "いって" },
+        { "form": "た형", "value": "行った", "reading": "いった" },
+        { "form": "ない형", "value": "行かない", "reading": "いかない" },
+        { "form": "가능형", "value": "行ける", "reading": "いける" }
+      ],
+      "relatedWords": [
+        { "word": "来る", "reading": "くる", "meaning": "오다", "relation": "반의어" },
+        { "word": "帰る", "reading": "かえる", "meaning": "돌아가다", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "行", "reading": "い(く)", "meaning": "갈 행" }
+      ],
+      "tags": ["기본동사", "1그룹", "이동"],
+      "frequency": 30
+    },
+    {
+      "id": "w003",
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "크다",
+      "meaningDetail": "크기, 규모, 정도가 크다",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 0, 1, 1],
+      "examples": [
+        {
+          "ja": "大きい犬がいます。",
+          "reading": "おおきいいぬがいます。",
+          "ko": "큰 개가 있습니다."
+        },
+        {
+          "ja": "声が大きいですね。",
+          "reading": "こえがおおきいですね。",
+          "ko": "목소리가 크네요."
+        }
+      ],
+      "conjugations": [
+        { "form": "~です", "value": "大きいです", "reading": "おおきいです" },
+        { "form": "과거형", "value": "大きかった", "reading": "おおきかった" },
+        { "form": "부정형", "value": "大きくない", "reading": "おおきくない" },
+        { "form": "て형", "value": "大きくて", "reading": "おおきくて" },
+        { "form": "명사수식", "value": "大きい+명사", "reading": "おおきい+명사" }
+      ],
+      "relatedWords": [
+        { "word": "小さい", "reading": "ちいさい", "meaning": "작다", "relation": "반의어" },
+        { "word": "広い", "reading": "ひろい", "meaning": "넓다", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "大", "reading": "おお(きい)", "meaning": "큰 대" }
+      ],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 80
+    },
+    {
+      "id": "w004",
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "조용하다",
+      "meaningDetail": "소리나 움직임이 없이 고요하다",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {
+          "ja": "図書館は静かです。",
+          "reading": "としょかんはしずかです。",
+          "ko": "도서관은 조용합니다."
+        },
+        {
+          "ja": "静かな場所が好きです。",
+          "reading": "しずかなばしょがすきです。",
+          "ko": "조용한 장소를 좋아합니다."
+        }
+      ],
+      "conjugations": [
+        { "form": "~です", "value": "静かです", "reading": "しずかです" },
+        { "form": "과거형", "value": "静かだった", "reading": "しずかだった" },
+        { "form": "부정형", "value": "静かではない", "reading": "しずかではない" },
+        { "form": "て형", "value": "静かで", "reading": "しずかで" },
+        { "form": "명사수식", "value": "静かな+명사", "reading": "しずかな+명사" }
+      ],
+      "relatedWords": [
+        { "word": "うるさい", "reading": "うるさい", "meaning": "시끄럽다", "relation": "반의어" },
+        { "word": "穏やか", "reading": "おだやか", "meaning": "온화하다", "relation": "유의어" }
+      ],
+      "kanji": [
+        { "char": "静", "reading": "しず(か)", "meaning": "고요할 정" }
+      ],
+      "tags": ["기본형용사", "な형용사", "상태"],
+      "frequency": 150
+    },
+    {
+      "id": "w005",
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "시간",
+      "meaningDetail": "시각의 경과, 특정 시점 사이의 길이",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {
+          "ja": "時間がありません。",
+          "reading": "じかんがありません。",
+          "ko": "시간이 없습니다."
+        },
+        {
+          "ja": "何時間かかりますか。",
+          "reading": "なんじかんかかりますか。",
+          "ko": "몇 시간 걸려요?"
+        }
+      ],
+      "relatedWords": [
+        { "word": "時計", "reading": "とけい", "meaning": "시계", "relation": "관련어" },
+        { "word": "時刻", "reading": "じこく", "meaning": "시각", "relation": "유의어" }
+      ],
+      "kanji": [
+        { "char": "時", "reading": "じ", "meaning": "때 시" },
+        { "char": "間", "reading": "かん", "meaning": "사이 간" }
+      ],
+      "tags": ["기본명사", "시간", "일상"],
+      "frequency": 25
+    },
+    {
+      "id": "w006",
+      "word": "勉強する",
+      "reading": "べんきょうする",
+      "meaning": "공부하다",
+      "meaningDetail": "학문이나 기술을 배우다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "3그룹",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {
+          "ja": "毎日日本語を勉強しています。",
+          "reading": "まいにちにほんごをべんきょうしています。",
+          "ko": "매일 일본어를 공부하고 있습니다."
+        },
+        {
+          "ja": "一緒に勉強しませんか。",
+          "reading": "いっしょにべんきょうしませんか。",
+          "ko": "같이 공부하지 않을래요?"
+        }
+      ],
+      "conjugations": [
+        { "form": "ます형", "value": "勉強します", "reading": "べんきょうします" },
+        { "form": "て형", "value": "勉強して", "reading": "べんきょうして" },
+        { "form": "た형", "value": "勉強した", "reading": "べんきょうした" },
+        { "form": "ない형", "value": "勉強しない", "reading": "べんきょうしない" },
+        { "form": "가능형", "value": "勉強できる", "reading": "べんきょうできる" }
+      ],
+      "relatedWords": [
+        { "word": "学ぶ", "reading": "まなぶ", "meaning": "배우다", "relation": "유의어" },
+        { "word": "練習", "reading": "れんしゅう", "meaning": "연습", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "勉", "reading": "べん", "meaning": "힘쓸 면" },
+        { "char": "強", "reading": "きょう", "meaning": "강할 강" }
+      ],
+      "tags": ["する동사", "3그룹", "학습"],
+      "frequency": 100
+    },
+    {
+      "id": "w007",
+      "word": "分かる",
+      "reading": "わかる",
+      "meaning": "알다, 이해하다",
+      "meaningDetail": "의미를 파악하거나 내용을 이해하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {
+          "ja": "日本語が分かりますか。",
+          "reading": "にほんごがわかりますか。",
+          "ko": "일본어를 알아요?"
+        },
+        {
+          "ja": "よく分かりました。",
+          "reading": "よくわかりました。",
+          "ko": "잘 알겠습니다."
+        }
+      ],
+      "conjugations": [
+        { "form": "ます형", "value": "分かります", "reading": "わかります" },
+        { "form": "て형", "value": "分かって", "reading": "わかって" },
+        { "form": "た형", "value": "分かった", "reading": "わかった" },
+        { "form": "ない형", "value": "分からない", "reading": "わからない" }
+      ],
+      "relatedWords": [
+        { "word": "理解する", "reading": "りかいする", "meaning": "이해하다", "relation": "유의어" },
+        { "word": "知る", "reading": "しる", "meaning": "알다", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "分", "reading": "わ(かる)", "meaning": "나눌 분" }
+      ],
+      "tags": ["기본동사", "1그룹", "인지"],
+      "frequency": 45
+    },
+    {
+      "id": "w008",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "친구",
+      "meaningDetail": "서로 친하게 사귀는 사람",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {
+          "ja": "友達と映画を見ます。",
+          "reading": "ともだちとえいがをみます。",
+          "ko": "친구와 영화를 봅니다."
+        },
+        {
+          "ja": "新しい友達ができました。",
+          "reading": "あたらしいともだちができました。",
+          "ko": "새로운 친구가 생겼습니다."
+        }
+      ],
+      "relatedWords": [
+        { "word": "親友", "reading": "しんゆう", "meaning": "절친", "relation": "관련어" },
+        { "word": "仲間", "reading": "なかま", "meaning": "동료", "relation": "유의어" }
+      ],
+      "kanji": [
+        { "char": "友", "reading": "とも", "meaning": "벗 우" },
+        { "char": "達", "reading": "だち", "meaning": "이룰 달" }
+      ],
+      "tags": ["기본명사", "인간관계", "일상"],
+      "frequency": 90
+    },
+    {
+      "id": "w009",
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "좋아하다",
+      "meaningDetail": "어떤 것에 대해 호감을 느끼다",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [1, 0],
+      "examples": [
+        {
+          "ja": "日本料理が好きです。",
+          "reading": "にほんりょうりがすきです。",
+          "ko": "일본 요리를 좋아합니다."
+        },
+        {
+          "ja": "どんな音楽が好きですか。",
+          "reading": "どんなおんがくがすきですか。",
+          "ko": "어떤 음악을 좋아해요?"
+        }
+      ],
+      "conjugations": [
+        { "form": "~です", "value": "好きです", "reading": "すきです" },
+        { "form": "과거형", "value": "好きだった", "reading": "すきだった" },
+        { "form": "부정형", "value": "好きではない", "reading": "すきではない" },
+        { "form": "명사수식", "value": "好きな+명사", "reading": "すきな+명사" }
+      ],
+      "relatedWords": [
+        { "word": "嫌い", "reading": "きらい", "meaning": "싫어하다", "relation": "반의어" },
+        { "word": "愛", "reading": "あい", "meaning": "사랑", "relation": "관련어" }
+      ],
+      "kanji": [
+        { "char": "好", "reading": "す(き)", "meaning": "좋을 호" }
+      ],
+      "tags": ["기본형용사", "な형용사", "감정"],
+      "frequency": 60
+    },
+    {
+      "id": "w010",
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "매일",
+      "meaningDetail": "하루하루, 날마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {
+          "ja": "毎日運動しています。",
+          "reading": "まいにちうんどうしています。",
+          "ko": "매일 운동하고 있습니다."
+        },
+        {
+          "ja": "毎日何時に起きますか。",
+          "reading": "まいにちなんじにおきますか。",
+          "ko": "매일 몇 시에 일어나요?"
+        }
+      ],
+      "relatedWords": [
+        { "word": "毎週", "reading": "まいしゅう", "meaning": "매주", "relation": "관련어" },
+        { "word": "毎月", "reading": "まいつき", "meaning": "매달", "relation": "관련어" },
+        { "word": "日々", "reading": "ひび", "meaning": "나날이", "relation": "유의어" }
+      ],
+      "kanji": [
+        { "char": "毎", "reading": "まい", "meaning": "매양 매" },
+        { "char": "日", "reading": "にち", "meaning": "날 일" }
+      ],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 35
+    }
+  ]
+}
