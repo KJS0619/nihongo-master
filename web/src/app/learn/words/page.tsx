@@ -4,7 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { JlptWord, JlptWordData, JlptLevel, WordPOS, POS_OPTIONS } from "@/types/word";
 import { WordDetailModal } from "@/components/WordDetailModal";
-import { loadReviewData, addItemsToReview } from "@/services/reviewService";
+import { loadReviewData, loadReviewDataSync, addItemsToReview } from "@/services/reviewService";
 
 export default function WordsLearnPage() {
   const [wordData, setWordData] = useState<JlptWord[]>([]);
@@ -16,10 +16,10 @@ export default function WordsLearnPage() {
   const [addedToReview, setAddedToReview] = useState(false);
 
   // 전체를 복습에 추가
-  const handleAddAllToReview = () => {
-    const data = loadReviewData();
+  const handleAddAllToReview = async () => {
+    const data = await loadReviewData();
     const items = filteredWords.map(w => ({ id: w.id, type: "word" as const }));
-    addItemsToReview(data, items);
+    await addItemsToReview(data, items);
     setAddedToReview(true);
     setTimeout(() => setAddedToReview(false), 2000);
   };

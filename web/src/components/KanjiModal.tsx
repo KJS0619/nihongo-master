@@ -4,7 +4,7 @@ import { useEffect, useCallback, useState } from "react";
 import { Kanji, JLPT_COLORS } from "@/types/kanji";
 import { StrokePlayer } from "./StrokePlayer";
 import { DrawingCanvas } from "./DrawingCanvas";
-import { loadReviewData, addItemToReview } from "@/services/reviewService";
+import { loadReviewData, loadReviewDataSync, addItemToReview } from "@/services/reviewService";
 import clsx from "clsx";
 
 interface KanjiDiffEntry {
@@ -33,15 +33,18 @@ export function KanjiModal({ kanji, onClose }: KanjiModalProps) {
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
-    const data = loadReviewData();
-    const key = `kanji:${kanji.literal}`;
-    setIsInReview(!!data.progress[key]);
+    async function checkReviewStatus() {
+      const data = await loadReviewData();
+      const key = `kanji:${kanji.literal}`;
+      setIsInReview(!!data.progress[key]);
+    }
+    checkReviewStatus();
   }, [kanji.literal]);
 
   // 복습에 추가
-  const handleAddToReview = () => {
-    const data = loadReviewData();
-    addItemToReview(data, kanji.literal, "kanji");
+  const handleAddToReview = async () => {
+    const data = await loadReviewData();
+    await addItemToReview(data, kanji.literal, "kanji");
     setIsInReview(true);
     setJustAdded(true);
     setTimeout(() => setJustAdded(false), 2000);

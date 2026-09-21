@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { JlptWord } from "@/types/word";
-import { loadReviewData, addItemToReview, getProgress } from "@/services/reviewService";
+import { loadReviewData, loadReviewDataSync, addItemToReview, getProgress } from "@/services/reviewService";
 
 interface WordDetailModalProps {
   word: JlptWord;
@@ -23,15 +23,18 @@ export function WordDetailModal({ word, onClose }: WordDetailModalProps) {
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
-    const data = loadReviewData();
-    const key = `word:${word.id}`;
-    setIsInReview(!!data.progress[key]);
+    async function checkReviewStatus() {
+      const data = await loadReviewData();
+      const key = `word:${word.id}`;
+      setIsInReview(!!data.progress[key]);
+    }
+    checkReviewStatus();
   }, [word.id]);
 
   // 복습에 추가
-  const handleAddToReview = () => {
-    const data = loadReviewData();
-    addItemToReview(data, word.id, "word");
+  const handleAddToReview = async () => {
+    const data = await loadReviewData();
+    await addItemToReview(data, word.id, "word");
     setIsInReview(true);
     setJustAdded(true);
     setTimeout(() => setJustAdded(false), 2000);

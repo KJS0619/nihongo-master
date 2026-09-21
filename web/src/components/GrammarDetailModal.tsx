@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Grammar } from "@/types/grammar";
-import { loadReviewData, addItemToReview } from "@/services/reviewService";
+import { loadReviewData, loadReviewDataSync, addItemToReview } from "@/services/reviewService";
 
 interface GrammarDetailModalProps {
   grammar: Grammar;
@@ -22,15 +22,18 @@ export function GrammarDetailModal({ grammar, onClose }: GrammarDetailModalProps
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
-    const data = loadReviewData();
-    const key = `grammar:${grammar.id}`;
-    setIsInReview(!!data.progress[key]);
+    async function checkReviewStatus() {
+      const data = await loadReviewData();
+      const key = `grammar:${grammar.id}`;
+      setIsInReview(!!data.progress[key]);
+    }
+    checkReviewStatus();
   }, [grammar.id]);
 
   // 복습에 추가
-  const handleAddToReview = () => {
-    const data = loadReviewData();
-    addItemToReview(data, grammar.id, "grammar");
+  const handleAddToReview = async () => {
+    const data = await loadReviewData();
+    await addItemToReview(data, grammar.id, "grammar");
     setIsInReview(true);
     setJustAdded(true);
     setTimeout(() => setJustAdded(false), 2000);

@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { ReviewItemType, ReviewStats } from "@/types/review";
 import {
   loadReviewData,
+  loadReviewDataSync,
   refreshStats,
   getDueCount,
   getWeeklyData,
@@ -32,24 +33,27 @@ export default function ReviewPage() {
 
   // 데이터 로드
   useEffect(() => {
-    const data = loadReviewData();
-    const refreshed = refreshStats(data);
+    async function loadData() {
+      const data = await loadReviewData();
+      const refreshed = await refreshStats(data);
 
-    setStats(refreshed.stats);
-    setDueCounts({
-      word: getDueCount(refreshed, "word"),
-      grammar: getDueCount(refreshed, "grammar"),
-      kanji: getDueCount(refreshed, "kanji"),
-    });
-    setWeeklyData(getWeeklyData(refreshed));
+      setStats(refreshed.stats);
+      setDueCounts({
+        word: getDueCount(refreshed, "word"),
+        grammar: getDueCount(refreshed, "grammar"),
+        kanji: getDueCount(refreshed, "kanji"),
+      });
+      setWeeklyData(getWeeklyData(refreshed));
+    }
+    loadData();
   }, []);
 
   // 세션 완료 핸들러
-  const handleSessionComplete = (completed: number, correct: number) => {
+  const handleSessionComplete = async (completed: number, correct: number) => {
     setActiveSession(null);
 
     // 통계 새로고침
-    const data = loadReviewData();
+    const data = await loadReviewData();
     setStats(data.stats);
     setDueCounts({
       word: getDueCount(data, "word"),
@@ -61,7 +65,7 @@ export default function ReviewPage() {
 
   // 샘플 아이템 추가 (데모용)
   const handleAddSampleItems = async () => {
-    const data = loadReviewData();
+    const data = await loadReviewData();
 
     // 단어 데이터에서 처음 5개 추가
     try {
@@ -80,7 +84,7 @@ export default function ReviewPage() {
         type: "grammar" as ReviewItemType,
       }));
 
-      const updated = addItemsToReview(data, [...wordItems, ...grammarItems]);
+      const updated = await addItemsToReview(data, [...wordItems, ...grammarItems]);
 
       setStats(updated.stats);
       setDueCounts({

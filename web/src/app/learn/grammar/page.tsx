@@ -4,7 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { Grammar, GrammarData, JlptGrammarLevel, GrammarCategory } from "@/types/grammar";
 import { GrammarDetailModal } from "@/components/GrammarDetailModal";
-import { loadReviewData, addItemsToReview } from "@/services/reviewService";
+import { loadReviewData, loadReviewDataSync, addItemsToReview } from "@/services/reviewService";
 
 export default function GrammarLearnPage() {
   const [grammarData, setGrammarData] = useState<Grammar[]>([]);
@@ -16,10 +16,10 @@ export default function GrammarLearnPage() {
   const [addedToReview, setAddedToReview] = useState(false);
 
   // 전체를 복습에 추가
-  const handleAddAllToReview = () => {
-    const data = loadReviewData();
+  const handleAddAllToReview = async () => {
+    const data = await loadReviewData();
     const items = filteredGrammar.map(g => ({ id: g.id, type: "grammar" as const }));
-    addItemsToReview(data, items);
+    await addItemsToReview(data, items);
     setAddedToReview(true);
     setTimeout(() => setAddedToReview(false), 2000);
   };

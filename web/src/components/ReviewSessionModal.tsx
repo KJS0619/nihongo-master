@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import { ReviewSessionItem, ReviewDifficulty, ReviewItemType } from "@/types/review";
 import {
   loadReviewData,
+  loadReviewDataSync,
   saveReviewResult,
   getDueItems,
 } from "@/services/reviewService";
@@ -30,7 +31,7 @@ export function ReviewSessionModal({ type, onClose, onComplete }: ReviewSessionM
   useEffect(() => {
     async function loadItems() {
       setIsLoading(true);
-      const reviewData = loadReviewData();
+      const reviewData = await loadReviewData();
       const dueItems = getDueItems(reviewData, type);
 
       if (dueItems.length === 0) {
@@ -143,12 +144,12 @@ export function ReviewSessionModal({ type, onClose, onComplete }: ReviewSessionM
   }, []);
 
   // 난이도 선택
-  const handleDifficulty = useCallback((difficulty: ReviewDifficulty) => {
+  const handleDifficulty = useCallback(async (difficulty: ReviewDifficulty) => {
     if (items.length === 0) return;
 
     const currentItem = items[currentIndex];
-    const reviewData = loadReviewData();
-    saveReviewResult(reviewData, currentItem.id, currentItem.type, difficulty);
+    const reviewData = await loadReviewData();
+    await saveReviewResult(reviewData, currentItem.id, currentItem.type, difficulty);
 
     setCompletedCount(prev => prev + 1);
     if (difficulty !== "again") {
