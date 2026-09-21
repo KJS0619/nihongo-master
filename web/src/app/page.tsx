@@ -63,7 +63,6 @@ export default function Home() {
       ...prev,
       learnedKanji: learnedKanji.length,
       learnedWords: customWords.length,
-      totalWords: customWords.length,
       streak,
       todayReview,
     }));
