@@ -1,0 +1,541 @@
+[
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "정해진 약속이나 기준",
+    "category": "명사",
+    "examples": [
+      {"ja": "規則を守る。", "ko": "규칙을 지키다."},
+      {"ja": "学校の規則だ。", "ko": "학교 규칙이다."}
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "판단의 근거가 되는 표준",
+    "category": "명사",
+    "examples": [
+      {"ja": "基準を設ける。", "ko": "기준을 세우다."},
+      {"ja": "合格基準を満たす。", "ko": "합격 기준을 충족하다."}
+    ]
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "meaningDetail": "좋은 결과를 바람",
+    "category": "명사",
+    "examples": [
+      {"ja": "期待に応える。", "ko": "기대에 부응하다."},
+      {"ja": "期待が高まる。", "ko": "기대가 높아지다."}
+    ]
+  },
+  {
+    "word": "季節",
+    "reading": "きせつ",
+    "meaning": "계절",
+    "meaningDetail": "봄, 여름, 가을, 겨울",
+    "category": "명사",
+    "examples": [
+      {"ja": "季節が変わる。", "ko": "계절이 바뀌다."},
+      {"ja": "季節の変わり目だ。", "ko": "환절기다."}
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "meaningDetail": "반드시 해야 할 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "義務を果たす。", "ko": "의무를 다하다."},
+      {"ja": "義務教育を受ける。", "ko": "의무교육을 받다."}
+    ]
+  },
+  {
+    "word": "逆",
+    "reading": "ぎゃく",
+    "meaning": "반대",
+    "meaningDetail": "반대 방향이나 상태",
+    "category": "명사",
+    "examples": [
+      {"ja": "逆の意見だ。", "ko": "반대 의견이다."},
+      {"ja": "逆に考える。", "ko": "반대로 생각하다."}
+    ]
+  },
+  {
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaning": "휴가",
+    "meaningDetail": "일을 쉬는 기간",
+    "category": "명사",
+    "examples": [
+      {"ja": "休暇を取る。", "ko": "휴가를 내다."},
+      {"ja": "夏休暇を楽しむ。", "ko": "여름 휴가를 즐기다."}
+    ]
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "급료, 월급",
+    "meaningDetail": "일한 대가로 받는 돈",
+    "category": "명사",
+    "examples": [
+      {"ja": "給料をもらう。", "ko": "급료를 받다."},
+      {"ja": "給料日が待ち遠しい。", "ko": "월급날이 기다려진다."}
+    ]
+  },
+  {
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "meaningDetail": "가르쳐 기름",
+    "category": "명사",
+    "examples": [
+      {"ja": "教育を受ける。", "ko": "교육을 받다."},
+      {"ja": "子供の教育に力を入れる。", "ko": "아이 교육에 힘쓰다."}
+    ]
+  },
+  {
+    "word": "共通",
+    "reading": "きょうつう",
+    "meaning": "공통",
+    "meaningDetail": "여러 곳에 같이 해당됨",
+    "category": "명사",
+    "examples": [
+      {"ja": "共通の話題がある。", "ko": "공통 화제가 있다."},
+      {"ja": "共通点を見つける。", "ko": "공통점을 찾다."}
+    ]
+  },
+  {
+    "word": "興味",
+    "reading": "きょうみ",
+    "meaning": "흥미",
+    "meaningDetail": "재미를 느끼는 관심",
+    "category": "명사",
+    "examples": [
+      {"ja": "興味がある。", "ko": "흥미가 있다."},
+      {"ja": "興味を持つ。", "ko": "흥미를 가지다."}
+    ]
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "meaningDetail": "허락함",
+    "category": "명사",
+    "examples": [
+      {"ja": "許可を得る。", "ko": "허가를 받다."},
+      {"ja": "許可なく入れない。", "ko": "허가 없이 들어갈 수 없다."}
+    ]
+  },
+  {
+    "word": "距離",
+    "reading": "きょり",
+    "meaning": "거리",
+    "meaningDetail": "두 지점 사이의 길이",
+    "category": "명사",
+    "examples": [
+      {"ja": "距離を測る。", "ko": "거리를 재다."},
+      {"ja": "長い距離を走る。", "ko": "긴 거리를 달리다."}
+    ]
+  },
+  {
+    "word": "記録",
+    "reading": "きろく",
+    "meaning": "기록",
+    "meaningDetail": "남겨둔 정보나 성적",
+    "category": "명사",
+    "examples": [
+      {"ja": "記録を破る。", "ko": "기록을 깨다."},
+      {"ja": "日記を記録する。", "ko": "일기를 기록하다."}
+    ]
+  },
+  {
+    "word": "金属",
+    "reading": "きんぞく",
+    "meaning": "금속",
+    "meaningDetail": "철, 구리 등의 물질",
+    "category": "명사",
+    "examples": [
+      {"ja": "金属でできている。", "ko": "금속으로 되어 있다."},
+      {"ja": "金属アレルギーがある。", "ko": "금속 알레르기가 있다."}
+    ]
+  },
+  {
+    "word": "空間",
+    "reading": "くうかん",
+    "meaning": "공간",
+    "meaningDetail": "비어 있는 곳",
+    "category": "명사",
+    "examples": [
+      {"ja": "広い空間が必要だ。", "ko": "넓은 공간이 필요하다."},
+      {"ja": "空間を活用する。", "ko": "공간을 활용하다."}
+    ]
+  },
+  {
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "meaning": "우연",
+    "meaningDetail": "뜻하지 않게 일어남",
+    "category": "명사",
+    "examples": [
+      {"ja": "偶然に出会った。", "ko": "우연히 만났다."},
+      {"ja": "偶然の一致だ。", "ko": "우연의 일치다."}
+    ]
+  },
+  {
+    "word": "苦労",
+    "reading": "くろう",
+    "meaning": "고생",
+    "meaningDetail": "힘들고 어려운 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "苦労をかける。", "ko": "고생을 끼치다."},
+      {"ja": "苦労が報われる。", "ko": "고생이 보상받다."}
+    ]
+  },
+  {
+    "word": "経営",
+    "reading": "けいえい",
+    "meaning": "경영",
+    "meaningDetail": "사업을 운영함",
+    "category": "명사",
+    "examples": [
+      {"ja": "会社を経営する。", "ko": "회사를 경영하다."},
+      {"ja": "経営が厳しい。", "ko": "경영이 어렵다."}
+    ]
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "경험",
+    "meaningDetail": "실제로 겪음",
+    "category": "명사",
+    "examples": [
+      {"ja": "経験を積む。", "ko": "경험을 쌓다."},
+      {"ja": "いい経験になった。", "ko": "좋은 경험이 됐다."}
+    ]
+  },
+  {
+    "word": "計算",
+    "reading": "けいさん",
+    "meaning": "계산",
+    "meaningDetail": "수를 셈함",
+    "category": "명사",
+    "examples": [
+      {"ja": "計算が合わない。", "ko": "계산이 맞지 않다."},
+      {"ja": "計算を間違える。", "ko": "계산을 틀리다."}
+    ]
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaning": "경치",
+    "meaningDetail": "눈에 보이는 자연의 모습",
+    "category": "명사",
+    "examples": [
+      {"ja": "景色がきれいだ。", "ko": "경치가 아름답다."},
+      {"ja": "窓から景色を眺める。", "ko": "창문에서 경치를 바라보다."}
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "meaningDetail": "어떤 일의 끝에 나타나는 상태",
+    "category": "명사",
+    "examples": [
+      {"ja": "結果を待つ。", "ko": "결과를 기다리다."},
+      {"ja": "いい結果が出た。", "ko": "좋은 결과가 나왔다."}
+    ]
+  },
+  {
+    "word": "結論",
+    "reading": "けつろん",
+    "meaning": "결론",
+    "meaningDetail": "최종적인 판단",
+    "category": "명사",
+    "examples": [
+      {"ja": "結論を出す。", "ko": "결론을 내다."},
+      {"ja": "結論に達する。", "ko": "결론에 도달하다."}
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "권리",
+    "meaningDetail": "어떤 일을 할 수 있는 자격",
+    "category": "명사",
+    "examples": [
+      {"ja": "権利を主張する。", "ko": "권리를 주장하다."},
+      {"ja": "投票の権利がある。", "ko": "투표할 권리가 있다."}
+    ]
+  },
+  {
+    "word": "現金",
+    "reading": "げんきん",
+    "meaning": "현금",
+    "meaningDetail": "실제 돈",
+    "category": "명사",
+    "examples": [
+      {"ja": "現金で払う。", "ko": "현금으로 지불하다."},
+      {"ja": "現金が足りない。", "ko": "현금이 부족하다."}
+    ]
+  },
+  {
+    "word": "現在",
+    "reading": "げんざい",
+    "meaning": "현재",
+    "meaningDetail": "지금",
+    "category": "명사",
+    "examples": [
+      {"ja": "現在の状況だ。", "ko": "현재 상황이다."},
+      {"ja": "現在進行中だ。", "ko": "현재 진행 중이다."}
+    ]
+  },
+  {
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "현상",
+    "meaningDetail": "눈에 보이는 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "自然現象を観察する。", "ko": "자연 현상을 관찰하다."},
+      {"ja": "不思議な現象だ。", "ko": "신기한 현상이다."}
+    ]
+  },
+  {
+    "word": "現代",
+    "reading": "げんだい",
+    "meaning": "현대",
+    "meaningDetail": "지금의 시대",
+    "category": "명사",
+    "examples": [
+      {"ja": "現代社会の問題だ。", "ko": "현대 사회의 문제다."},
+      {"ja": "現代アートが好きだ。", "ko": "현대 미술을 좋아한다."}
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "어떤 일이 일어난 이유",
+    "category": "명사",
+    "examples": [
+      {"ja": "原因を調べる。", "ko": "원인을 조사하다."},
+      {"ja": "事故の原因は何か。", "ko": "사고의 원인은 무엇인가."}
+    ]
+  },
+  {
+    "word": "言語",
+    "reading": "げんご",
+    "meaning": "언어",
+    "meaningDetail": "말이나 글",
+    "category": "명사",
+    "examples": [
+      {"ja": "言語を学ぶ。", "ko": "언어를 배우다."},
+      {"ja": "プログラミング言語だ。", "ko": "프로그래밍 언어다."}
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "meaningDetail": "나타나는 결과",
+    "category": "명사",
+    "examples": [
+      {"ja": "効果がある。", "ko": "효과가 있다."},
+      {"ja": "効果を発揮する。", "ko": "효과를 발휘하다."}
+    ]
+  },
+  {
+    "word": "行動",
+    "reading": "こうどう",
+    "meaning": "행동",
+    "meaningDetail": "몸을 움직여 하는 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "行動を起こす。", "ko": "행동을 일으키다."},
+      {"ja": "責任ある行動をする。", "ko": "책임 있는 행동을 하다."}
+    ]
+  },
+  {
+    "word": "講義",
+    "reading": "こうぎ",
+    "meaning": "강의",
+    "meaningDetail": "대학 등에서 하는 수업",
+    "category": "명사",
+    "examples": [
+      {"ja": "講義を受ける。", "ko": "강의를 듣다."},
+      {"ja": "講義が始まる。", "ko": "강의가 시작되다."}
+    ]
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "공장",
+    "meaningDetail": "물건을 만드는 곳",
+    "category": "명사",
+    "examples": [
+      {"ja": "工場で働く。", "ko": "공장에서 일하다."},
+      {"ja": "工場を見学する。", "ko": "공장을 견학하다."}
+    ]
+  },
+  {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "meaning": "교섭, 협상",
+    "meaningDetail": "조건 등을 의논함",
+    "category": "명사",
+    "examples": [
+      {"ja": "交渉がまとまった。", "ko": "협상이 타결됐다."},
+      {"ja": "給料の交渉をする。", "ko": "급료 협상을 하다."}
+    ]
+  },
+  {
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "구조",
+    "meaningDetail": "만들어진 짜임새",
+    "category": "명사",
+    "examples": [
+      {"ja": "建物の構造を調べる。", "ko": "건물 구조를 조사하다."},
+      {"ja": "社会構造が変わる。", "ko": "사회 구조가 변하다."}
+    ]
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "meaning": "교통",
+    "meaningDetail": "사람이나 물건이 오고 감",
+    "category": "명사",
+    "examples": [
+      {"ja": "交通が便利だ。", "ko": "교통이 편리하다."},
+      {"ja": "交通渋滞が起きる。", "ko": "교통 체증이 일어나다."}
+    ]
+  },
+  {
+    "word": "心",
+    "reading": "こころ",
+    "meaning": "마음",
+    "meaningDetail": "정신, 감정",
+    "category": "명사",
+    "examples": [
+      {"ja": "心が落ち着く。", "ko": "마음이 안정되다."},
+      {"ja": "心を込めて作る。", "ko": "마음을 담아 만들다."}
+    ]
+  },
+  {
+    "word": "個人",
+    "reading": "こじん",
+    "meaning": "개인",
+    "meaningDetail": "한 사람",
+    "category": "명사",
+    "examples": [
+      {"ja": "個人情報を守る。", "ko": "개인 정보를 보호하다."},
+      {"ja": "個人の意見だ。", "ko": "개인 의견이다."}
+    ]
+  },
+  {
+    "word": "国籍",
+    "reading": "こくせき",
+    "meaning": "국적",
+    "meaningDetail": "속해 있는 나라",
+    "category": "명사",
+    "examples": [
+      {"ja": "国籍を取得する。", "ko": "국적을 취득하다."},
+      {"ja": "国籍が違う。", "ko": "국적이 다르다."}
+    ]
+  },
+  {
+    "word": "国際",
+    "reading": "こくさい",
+    "meaning": "국제",
+    "meaningDetail": "여러 나라에 관계됨",
+    "category": "명사",
+    "examples": [
+      {"ja": "国際交流をする。", "ko": "국제 교류를 하다."},
+      {"ja": "国際問題が起きる。", "ko": "국제 문제가 일어나다."}
+    ]
+  },
+  {
+    "word": "骨",
+    "reading": "ほね",
+    "meaning": "뼈",
+    "meaningDetail": "몸을 지탱하는 단단한 부분",
+    "category": "명사",
+    "examples": [
+      {"ja": "骨を折る。", "ko": "뼈가 부러지다."},
+      {"ja": "骨が丈夫だ。", "ko": "뼈가 튼튼하다."}
+    ]
+  },
+  {
+    "word": "根",
+    "reading": "ね",
+    "meaning": "뿌리",
+    "meaningDetail": "식물이 땅에 박은 부분",
+    "category": "명사",
+    "examples": [
+      {"ja": "根を張る。", "ko": "뿌리를 내리다."},
+      {"ja": "問題の根を探る。", "ko": "문제의 근원을 찾다."}
+    ]
+  },
+  {
+    "word": "才能",
+    "reading": "さいのう",
+    "meaning": "재능",
+    "meaningDetail": "타고난 능력",
+    "category": "명사",
+    "examples": [
+      {"ja": "才能がある。", "ko": "재능이 있다."},
+      {"ja": "才能を伸ばす。", "ko": "재능을 키우다."}
+    ]
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "meaningDetail": "만드는 데 쓰는 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "材料を準備する。", "ko": "재료를 준비하다."},
+      {"ja": "新鮮な材料を使う。", "ko": "신선한 재료를 쓰다."}
+    ]
+  },
+  {
+    "word": "作業",
+    "reading": "さぎょう",
+    "meaning": "작업",
+    "meaningDetail": "일을 함",
+    "category": "명사",
+    "examples": [
+      {"ja": "作業を始める。", "ko": "작업을 시작하다."},
+      {"ja": "作業中だ。", "ko": "작업 중이다."}
+    ]
+  },
+  {
+    "word": "作品",
+    "reading": "さくひん",
+    "meaning": "작품",
+    "meaningDetail": "만들어낸 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "作品を展示する。", "ko": "작품을 전시하다."},
+      {"ja": "素晴らしい作品だ。", "ko": "훌륭한 작품이다."}
+    ]
+  },
+  {
+    "word": "支援",
+    "reading": "しえん",
+    "meaning": "지원",
+    "meaningDetail": "도와주는 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "支援を受ける。", "ko": "지원을 받다."},
+      {"ja": "被災者を支援する。", "ko": "이재민을 지원하다."}
+    ]
+  }
+]

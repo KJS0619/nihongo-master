@@ -1,0 +1,482 @@
+[
+  {
+    "word": "告訴",
+    "reading": "こくそ",
+    "meaning": "고소",
+    "meaningDetail": "소송",
+    "category": "명사",
+    "examples": [
+      { "ja": "告訴を取り下げる。", "ko": "고소를 취하하다." }
+    ]
+  },
+  {
+    "word": "訴訟",
+    "reading": "そしょう",
+    "meaning": "소송",
+    "meaningDetail": "재판",
+    "category": "명사",
+    "examples": [
+      { "ja": "訴訟を起こす。", "ko": "소송을 일으키다." }
+    ]
+  },
+  {
+    "word": "違反",
+    "reading": "いはん",
+    "meaning": "위반",
+    "meaningDetail": "어김",
+    "category": "명사",
+    "examples": [
+      { "ja": "交通違反で捕まる。", "ko": "교통 위반으로 잡히다." }
+    ]
+  },
+  {
+    "word": "詐欺",
+    "reading": "さぎ",
+    "meaning": "사기",
+    "meaningDetail": "기만",
+    "category": "명사",
+    "examples": [
+      { "ja": "詐欺に遭う。", "ko": "사기를 당하다." }
+    ]
+  },
+  {
+    "word": "窃盗",
+    "reading": "せっとう",
+    "meaning": "절도",
+    "meaningDetail": "도둑질",
+    "category": "명사",
+    "examples": [
+      { "ja": "窃盗罪で逮捕される。", "ko": "절도죄로 체포되다." }
+    ]
+  },
+  {
+    "word": "強盗",
+    "reading": "ごうとう",
+    "meaning": "강도",
+    "meaningDetail": "도둑",
+    "category": "명사",
+    "examples": [
+      { "ja": "強盗に襲われる。", "ko": "강도를 당하다." }
+    ]
+  },
+  {
+    "word": "殺人",
+    "reading": "さつじん",
+    "meaning": "살인",
+    "meaningDetail": "살해",
+    "category": "명사",
+    "examples": [
+      { "ja": "殺人事件が起きる。", "ko": "살인 사건이 일어나다." }
+    ]
+  },
+  {
+    "word": "暴力",
+    "reading": "ぼうりょく",
+    "meaning": "폭력",
+    "meaningDetail": "난폭",
+    "category": "명사",
+    "examples": [
+      { "ja": "暴力を振るう。", "ko": "폭력을 휘두르다." }
+    ]
+  },
+  {
+    "word": "脅迫",
+    "reading": "きょうはく",
+    "meaning": "협박",
+    "meaningDetail": "위협",
+    "category": "명사",
+    "examples": [
+      { "ja": "脅迫を受ける。", "ko": "협박을 받다." }
+    ]
+  },
+  {
+    "word": "襲撃",
+    "reading": "しゅうげき",
+    "meaning": "습격",
+    "meaningDetail": "공격",
+    "category": "명사",
+    "examples": [
+      { "ja": "襲撃を受ける。", "ko": "습격을 당하다." }
+    ]
+  },
+  {
+    "word": "攻撃",
+    "reading": "こうげき",
+    "meaning": "공격",
+    "meaningDetail": "습격",
+    "category": "명사",
+    "examples": [
+      { "ja": "攻撃を開始する。", "ko": "공격을 개시하다." }
+    ]
+  },
+  {
+    "word": "防御",
+    "reading": "ぼうぎょ",
+    "meaning": "방어",
+    "meaningDetail": "수비",
+    "category": "명사",
+    "examples": [
+      { "ja": "防御を固める。", "ko": "방어를 굳히다." }
+    ]
+  },
+  {
+    "word": "戦闘",
+    "reading": "せんとう",
+    "meaning": "전투",
+    "meaningDetail": "싸움",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦闘が続く。", "ko": "전투가 계속되다." }
+    ]
+  },
+  {
+    "word": "戦争",
+    "reading": "せんそう",
+    "meaning": "전쟁",
+    "meaningDetail": "싸움",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦争が終わる。", "ko": "전쟁이 끝나다." }
+    ]
+  },
+  {
+    "word": "紛争",
+    "reading": "ふんそう",
+    "meaning": "분쟁",
+    "meaningDetail": "갈등",
+    "category": "명사",
+    "examples": [
+      { "ja": "紛争を解決する。", "ko": "분쟁을 해결하다." }
+    ]
+  },
+  {
+    "word": "競争",
+    "reading": "きょうそう",
+    "meaning": "경쟁",
+    "meaningDetail": "겨룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "競争が激しい。", "ko": "경쟁이 치열하다." }
+    ]
+  },
+  {
+    "word": "勝負",
+    "reading": "しょうぶ",
+    "meaning": "승부",
+    "meaningDetail": "겨룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "勝負を決める。", "ko": "승부를 가리다." }
+    ]
+  },
+  {
+    "word": "勝利",
+    "reading": "しょうり",
+    "meaning": "승리",
+    "meaningDetail": "이김",
+    "category": "명사",
+    "examples": [
+      { "ja": "勝利を収める。", "ko": "승리를 거두다." }
+    ]
+  },
+  {
+    "word": "敗北",
+    "reading": "はいぼく",
+    "meaning": "패배",
+    "meaningDetail": "짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "敗北を認める。", "ko": "패배를 인정하다." }
+    ]
+  },
+  {
+    "word": "優勝",
+    "reading": "ゆうしょう",
+    "meaning": "우승",
+    "meaningDetail": "1등",
+    "category": "명사",
+    "examples": [
+      { "ja": "優勝を目指す。", "ko": "우승을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "準優勝",
+    "reading": "じゅんゆうしょう",
+    "meaning": "준우승",
+    "meaningDetail": "2등",
+    "category": "명사",
+    "examples": [
+      { "ja": "準優勝で終わる。", "ko": "준우승으로 끝나다." }
+    ]
+  },
+  {
+    "word": "挑戦",
+    "reading": "ちょうせん",
+    "meaning": "도전",
+    "meaningDetail": "시도",
+    "category": "명사",
+    "examples": [
+      { "ja": "新たな挑戦をする。", "ko": "새로운 도전을 하다." }
+    ]
+  },
+  {
+    "word": "征服",
+    "reading": "せいふく",
+    "meaning": "정복",
+    "meaningDetail": "지배",
+    "category": "명사",
+    "examples": [
+      { "ja": "世界征服を企てる。", "ko": "세계 정복을 기획하다." }
+    ]
+  },
+  {
+    "word": "降伏",
+    "reading": "こうふく",
+    "meaning": "항복",
+    "meaningDetail": "굴복",
+    "category": "명사",
+    "examples": [
+      { "ja": "無条件降伏をする。", "ko": "무조건 항복을 하다." }
+    ]
+  },
+  {
+    "word": "和解",
+    "reading": "わかい",
+    "meaning": "화해",
+    "meaningDetail": "타협",
+    "category": "명사",
+    "examples": [
+      { "ja": "和解が成立する。", "ko": "화해가 성립하다." }
+    ]
+  },
+  {
+    "word": "休戦",
+    "reading": "きゅうせん",
+    "meaning": "휴전",
+    "meaningDetail": "정전",
+    "category": "명사",
+    "examples": [
+      { "ja": "休戦協定を結ぶ。", "ko": "휴전 협정을 맺다." }
+    ]
+  },
+  {
+    "word": "停戦",
+    "reading": "ていせん",
+    "meaning": "정전",
+    "meaningDetail": "휴전",
+    "category": "명사",
+    "examples": [
+      { "ja": "停戦が発効する。", "ko": "정전이 발효되다." }
+    ]
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "평화",
+    "meaningDetail": "안정",
+    "category": "명사",
+    "examples": [
+      { "ja": "平和を守る。", "ko": "평화를 지키다." }
+    ]
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "안전",
+    "meaningDetail": "무사",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を確保する。", "ko": "안전을 확보하다." }
+    ]
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "위험",
+    "meaningDetail": "위태로움",
+    "category": "명사",
+    "examples": [
+      { "ja": "危険を冒す。", "ko": "위험을 무릅쓰다." }
+    ]
+  },
+  {
+    "word": "脅威",
+    "reading": "きょうい",
+    "meaning": "위협",
+    "meaningDetail": "위험",
+    "category": "명사",
+    "examples": [
+      { "ja": "脅威に直面する。", "ko": "위협에 직면하다." }
+    ]
+  },
+  {
+    "word": "警戒",
+    "reading": "けいかい",
+    "meaning": "경계",
+    "meaningDetail": "주의",
+    "category": "명사",
+    "examples": [
+      { "ja": "警戒を強める。", "ko": "경계를 강화하다." }
+    ]
+  },
+  {
+    "word": "警備",
+    "reading": "けいび",
+    "meaning": "경비",
+    "meaningDetail": "경호",
+    "category": "명사",
+    "examples": [
+      { "ja": "警備を厳重にする。", "ko": "경비를 엄중히 하다." }
+    ]
+  },
+  {
+    "word": "監視",
+    "reading": "かんし",
+    "meaning": "감시",
+    "meaningDetail": "주시",
+    "category": "명사",
+    "examples": [
+      { "ja": "監視カメラを設置する。", "ko": "감시 카메라를 설치하다." }
+    ]
+  },
+  {
+    "word": "巡回",
+    "reading": "じゅんかい",
+    "meaning": "순회",
+    "meaningDetail": "순찰",
+    "category": "명사",
+    "examples": [
+      { "ja": "巡回警備を行う。", "ko": "순회 경비를 하다." }
+    ]
+  },
+  {
+    "word": "捜査",
+    "reading": "そうさ",
+    "meaning": "수사",
+    "meaningDetail": "조사",
+    "category": "명사",
+    "examples": [
+      { "ja": "捜査を進める。", "ko": "수사를 진행하다." }
+    ]
+  },
+  {
+    "word": "捜索",
+    "reading": "そうさく",
+    "meaning": "수색",
+    "meaningDetail": "탐색",
+    "category": "명사",
+    "examples": [
+      { "ja": "捜索活動を行う。", "ko": "수색 활동을 하다." }
+    ]
+  },
+  {
+    "word": "追跡",
+    "reading": "ついせき",
+    "meaning": "추적",
+    "meaningDetail": "쫓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "追跡調査を行う。", "ko": "추적 조사를 하다." }
+    ]
+  },
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaning": "조사",
+    "meaningDetail": "탐구",
+    "category": "명사",
+    "examples": [
+      { "ja": "調査結果を発表する。", "ko": "조사 결과를 발표하다." }
+    ]
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "분석",
+    "meaningDetail": "해석",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석하다." }
+    ]
+  },
+  {
+    "word": "解析",
+    "reading": "かいせき",
+    "meaning": "해석",
+    "meaningDetail": "분석",
+    "category": "명사",
+    "examples": [
+      { "ja": "解析結果を報告する。", "ko": "해석 결과를 보고하다." }
+    ]
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaning": "검토",
+    "meaningDetail": "고려",
+    "category": "명사",
+    "examples": [
+      { "ja": "検討を重ねる。", "ko": "검토를 거듭하다." }
+    ]
+  },
+  {
+    "word": "検証",
+    "reading": "けんしょう",
+    "meaning": "검증",
+    "meaningDetail": "확인",
+    "category": "명사",
+    "examples": [
+      { "ja": "検証作業を行う。", "ko": "검증 작업을 하다." }
+    ]
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "meaning": "실험",
+    "meaningDetail": "시험",
+    "category": "명사",
+    "examples": [
+      { "ja": "実験を繰り返す。", "ko": "실험을 반복하다." }
+    ]
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "시험",
+    "meaningDetail": "테스트",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験に合格する。", "ko": "시험에 합격하다." }
+    ]
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaning": "관찰",
+    "meaningDetail": "살핌",
+    "category": "명사",
+    "examples": [
+      { "ja": "観察を続ける。", "ko": "관찰을 계속하다." }
+    ]
+  },
+  {
+    "word": "観測",
+    "reading": "かんそく",
+    "meaning": "관측",
+    "meaningDetail": "측정",
+    "category": "명사",
+    "examples": [
+      { "ja": "天体観測をする。", "ko": "천체 관측을 하다." }
+    ]
+  },
+  {
+    "word": "測定",
+    "reading": "そくてい",
+    "meaning": "측정",
+    "meaningDetail": "계측",
+    "category": "명사",
+    "examples": [
+      { "ja": "温度を測定する。", "ko": "온도를 측정하다." }
+    ]
+  }
+]

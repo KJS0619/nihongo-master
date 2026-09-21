@@ -1,0 +1,4169 @@
+[
+  {
+    "id": "n5_add_001",
+    "word": "黒板",
+    "reading": "こくばん",
+    "meaning": "칠판",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "黒板",
+        "reading": "こくばん",
+        "ko": "칠판"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 800
+  },
+  {
+    "id": "n5_add_002",
+    "word": "宿舎",
+    "reading": "しゅくしゃ",
+    "meaning": "기숙사",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "宿舎",
+        "reading": "しゅくしゃ",
+        "ko": "기숙사"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 801
+  },
+  {
+    "id": "n5_add_003",
+    "word": "教会",
+    "reading": "きょうかい",
+    "meaning": "교회",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "教会",
+        "reading": "きょうかい",
+        "ko": "교회"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 802
+  },
+  {
+    "id": "n5_add_004",
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "파출소",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "交番",
+        "reading": "こうばん",
+        "ko": "파출소"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 803
+  },
+  {
+    "id": "n5_add_005",
+    "word": "薬局",
+    "reading": "やっきょく",
+    "meaning": "약국",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "薬局",
+        "reading": "やっきょく",
+        "ko": "약국"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 804
+  },
+  {
+    "id": "n5_add_006",
+    "word": "海岸",
+    "reading": "かいがん",
+    "meaning": "해안",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "海岸",
+        "reading": "かいがん",
+        "ko": "해안"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 805
+  },
+  {
+    "id": "n5_add_007",
+    "word": "田舎",
+    "reading": "いなか",
+    "meaning": "시골",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "田舎",
+        "reading": "いなか",
+        "ko": "시골"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 806
+  },
+  {
+    "id": "n5_add_008",
+    "word": "空",
+    "reading": "そら",
+    "meaning": "하늘",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "空",
+        "reading": "そら",
+        "ko": "하늘"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 807
+  },
+  {
+    "id": "n5_add_009",
+    "word": "星",
+    "reading": "ほし",
+    "meaning": "별",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "星",
+        "reading": "ほし",
+        "ko": "별"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 808
+  },
+  {
+    "id": "n5_add_010",
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "바람",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "風",
+        "reading": "かぜ",
+        "ko": "바람"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 809
+  },
+  {
+    "id": "n5_add_011",
+    "word": "住所録",
+    "reading": "じゅうしょろく",
+    "meaning": "주소록",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "住所録",
+        "reading": "じゅうしょろく",
+        "ko": "주소록"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 810
+  },
+  {
+    "id": "n5_add_012",
+    "word": "年賀状",
+    "reading": "ねんがじょう",
+    "meaning": "연하장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "年賀状",
+        "reading": "ねんがじょう",
+        "ko": "연하장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 811
+  },
+  {
+    "id": "n5_add_013",
+    "word": "葉書",
+    "reading": "はがき",
+    "meaning": "엽서",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "葉書",
+        "reading": "はがき",
+        "ko": "엽서"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 812
+  },
+  {
+    "id": "n5_add_014",
+    "word": "切手",
+    "reading": "きって",
+    "meaning": "우표",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "切手",
+        "reading": "きって",
+        "ko": "우표"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 813
+  },
+  {
+    "id": "n5_add_015",
+    "word": "領収書",
+    "reading": "りょうしゅうしょ",
+    "meaning": "영수증",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "領収書",
+        "reading": "りょうしゅうしょ",
+        "ko": "영수증"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 814
+  },
+  {
+    "id": "n5_add_016",
+    "word": "お釣り",
+    "reading": "おつり",
+    "meaning": "거스름돈",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お釣り",
+        "reading": "おつり",
+        "ko": "거스름돈"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 815
+  },
+  {
+    "id": "n5_add_017",
+    "word": "小銭",
+    "reading": "こぜに",
+    "meaning": "잔돈",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "小銭",
+        "reading": "こぜに",
+        "ko": "잔돈"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 816
+  },
+  {
+    "id": "n5_add_018",
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "과자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お菓子",
+        "reading": "おかし",
+        "ko": "과자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 817
+  },
+  {
+    "id": "n5_add_019",
+    "word": "飴",
+    "reading": "あめ",
+    "meaning": "사탕",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "飴",
+        "reading": "あめ",
+        "ko": "사탕"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 818
+  },
+  {
+    "id": "n5_add_020",
+    "word": "味噌",
+    "reading": "みそ",
+    "meaning": "된장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "味噌",
+        "reading": "みそ",
+        "ko": "된장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 819
+  },
+  {
+    "id": "n5_add_021",
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "meaning": "간장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "醤油",
+        "reading": "しょうゆ",
+        "ko": "간장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 820
+  },
+  {
+    "id": "n5_add_022",
+    "word": "胡椒",
+    "reading": "こしょう",
+    "meaning": "후추",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "胡椒",
+        "reading": "こしょう",
+        "ko": "후추"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 821
+  },
+  {
+    "id": "n5_add_023",
+    "word": "油",
+    "reading": "あぶら",
+    "meaning": "기름",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "油",
+        "reading": "あぶら",
+        "ko": "기름"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 822
+  },
+  {
+    "id": "n5_add_024",
+    "word": "小麦粉",
+    "reading": "こむぎこ",
+    "meaning": "밀가루",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "小麦粉",
+        "reading": "こむぎこ",
+        "ko": "밀가루"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 823
+  },
+  {
+    "id": "n5_add_025",
+    "word": "玉ねぎ",
+    "reading": "たまねぎ",
+    "meaning": "양파",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "玉ねぎ",
+        "reading": "たまねぎ",
+        "ko": "양파"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 824
+  },
+  {
+    "id": "n5_add_026",
+    "word": "じゃがいも",
+    "reading": "じゃがいも",
+    "meaning": "감자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "じゃがいも",
+        "reading": "じゃがいも",
+        "ko": "감자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 825
+  },
+  {
+    "id": "n5_add_027",
+    "word": "豆",
+    "reading": "まめ",
+    "meaning": "콩",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "豆",
+        "reading": "まめ",
+        "ko": "콩"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 826
+  },
+  {
+    "id": "n5_add_028",
+    "word": "きのこ",
+    "reading": "きのこ",
+    "meaning": "버섯",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "きのこ",
+        "reading": "きのこ",
+        "ko": "버섯"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 827
+  },
+  {
+    "id": "n5_add_029",
+    "word": "海苔",
+    "reading": "のり",
+    "meaning": "김",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "海苔",
+        "reading": "のり",
+        "ko": "김"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 828
+  },
+  {
+    "id": "n5_add_030",
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "돼지고기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "豚肉",
+        "reading": "ぶたにく",
+        "ko": "돼지고기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 829
+  },
+  {
+    "id": "n5_add_031",
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "닭고기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "鶏肉",
+        "reading": "とりにく",
+        "ko": "닭고기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 830
+  },
+  {
+    "id": "n5_add_032",
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "소고기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "牛肉",
+        "reading": "ぎゅうにく",
+        "ko": "소고기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 831
+  },
+  {
+    "id": "n5_add_033",
+    "word": "刺身",
+    "reading": "さしみ",
+    "meaning": "회",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "刺身",
+        "reading": "さしみ",
+        "ko": "회"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 832
+  },
+  {
+    "id": "n5_add_034",
+    "word": "寿司",
+    "reading": "すし",
+    "meaning": "초밥",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "寿司",
+        "reading": "すし",
+        "ko": "초밥"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 833
+  },
+  {
+    "id": "n5_add_035",
+    "word": "うどん",
+    "reading": "うどん",
+    "meaning": "우동",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "うどん",
+        "reading": "うどん",
+        "ko": "우동"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 834
+  },
+  {
+    "id": "n5_add_036",
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "메밀국수",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "そば",
+        "reading": "そば",
+        "ko": "메밀국수"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 835
+  },
+  {
+    "id": "n5_add_037",
+    "word": "ラーメン",
+    "reading": "らーめん",
+    "meaning": "라멘",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ラーメン",
+        "reading": "らーめん",
+        "ko": "라멘"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 836
+  },
+  {
+    "id": "n5_add_038",
+    "word": "焼き鳥",
+    "reading": "やきとり",
+    "meaning": "닭꼬치구이",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "焼き鳥",
+        "reading": "やきとり",
+        "ko": "닭꼬치구이"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 837
+  },
+  {
+    "id": "n5_add_039",
+    "word": "匂い",
+    "reading": "におい",
+    "meaning": "냄새",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "匂い",
+        "reading": "におい",
+        "ko": "냄새"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 838
+  },
+  {
+    "id": "n5_add_040",
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "음식",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "食べ物",
+        "reading": "たべもの",
+        "ko": "음식"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 839
+  },
+  {
+    "id": "n5_add_041",
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "음료",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "飲み物",
+        "reading": "のみもの",
+        "ko": "음료"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 840
+  },
+  {
+    "id": "n5_add_042",
+    "word": "洗面所",
+    "reading": "せんめんじょ",
+    "meaning": "세면장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "洗面所",
+        "reading": "せんめんじょ",
+        "ko": "세면장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 841
+  },
+  {
+    "id": "n5_add_043",
+    "word": "歯磨き",
+    "reading": "はみがき",
+    "meaning": "양치질",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "歯磨き",
+        "reading": "はみがき",
+        "ko": "양치질"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 842
+  },
+  {
+    "id": "n5_add_044",
+    "word": "歯ブラシ",
+    "reading": "はぶらし",
+    "meaning": "칫솔",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "歯ブラシ",
+        "reading": "はぶらし",
+        "ko": "칫솔"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 843
+  },
+  {
+    "id": "n5_add_045",
+    "word": "タオル",
+    "reading": "たおる",
+    "meaning": "수건",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "タオル",
+        "reading": "たおる",
+        "ko": "수건"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 844
+  },
+  {
+    "id": "n5_add_046",
+    "word": "毛布",
+    "reading": "もうふ",
+    "meaning": "담요",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "毛布",
+        "reading": "もうふ",
+        "ko": "담요"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 845
+  },
+  {
+    "id": "n5_add_047",
+    "word": "指輪",
+    "reading": "ゆびわ",
+    "meaning": "반지",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "指輪",
+        "reading": "ゆびわ",
+        "ko": "반지"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 846
+  },
+  {
+    "id": "n5_add_048",
+    "word": "腕時計",
+    "reading": "うでどけい",
+    "meaning": "손목시계",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "腕時計",
+        "reading": "うでどけい",
+        "ko": "손목시계"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 847
+  },
+  {
+    "id": "n5_add_049",
+    "word": "ネックレス",
+    "reading": "ねっくれす",
+    "meaning": "목걸이",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ネックレス",
+        "reading": "ねっくれす",
+        "ko": "목걸이"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 848
+  },
+  {
+    "id": "n5_add_050",
+    "word": "指",
+    "reading": "ゆび",
+    "meaning": "손가락",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "指",
+        "reading": "ゆび",
+        "ko": "손가락"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 849
+  },
+  {
+    "id": "n5_add_051",
+    "word": "腕",
+    "reading": "うで",
+    "meaning": "팔",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "腕",
+        "reading": "うで",
+        "ko": "팔"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 850
+  },
+  {
+    "id": "n5_add_052",
+    "word": "胸",
+    "reading": "むね",
+    "meaning": "가슴",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "胸",
+        "reading": "むね",
+        "ko": "가슴"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 851
+  },
+  {
+    "id": "n5_add_053",
+    "word": "髪",
+    "reading": "かみ",
+    "meaning": "머리카락",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "髪",
+        "reading": "かみ",
+        "ko": "머리카락"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 852
+  },
+  {
+    "id": "n5_add_054",
+    "word": "喉",
+    "reading": "のど",
+    "meaning": "목구멍",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "喉",
+        "reading": "のど",
+        "ko": "목구멍"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 853
+  },
+  {
+    "id": "n5_add_055",
+    "word": "番",
+    "reading": "ばん",
+    "meaning": "차례",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "番",
+        "reading": "ばん",
+        "ko": "차례"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 854
+  },
+  {
+    "id": "n5_add_056",
+    "word": "番号札",
+    "reading": "ばんごうふだ",
+    "meaning": "번호표",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "番号札",
+        "reading": "ばんごうふだ",
+        "ko": "번호표"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 855
+  },
+  {
+    "id": "n5_add_057",
+    "word": "旅行者",
+    "reading": "りょこうしゃ",
+    "meaning": "여행자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "旅行者",
+        "reading": "りょこうしゃ",
+        "ko": "여행자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 856
+  },
+  {
+    "id": "n5_add_058",
+    "word": "案内所",
+    "reading": "あんないじょ",
+    "meaning": "안내소",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "案内所",
+        "reading": "あんないじょ",
+        "ko": "안내소"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 857
+  },
+  {
+    "id": "n5_add_059",
+    "word": "改札口",
+    "reading": "かいさつぐち",
+    "meaning": "개찰구",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "改札口",
+        "reading": "かいさつぐち",
+        "ko": "개찰구"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 858
+  },
+  {
+    "id": "n5_add_060",
+    "word": "乗り場",
+    "reading": "のりば",
+    "meaning": "승강장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "乗り場",
+        "reading": "のりば",
+        "ko": "승강장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 859
+  },
+  {
+    "id": "n5_add_061",
+    "word": "特急",
+    "reading": "とっきゅう",
+    "meaning": "특급열차",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "特急",
+        "reading": "とっきゅう",
+        "ko": "특급열차"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 860
+  },
+  {
+    "id": "n5_add_062",
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "도구",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "道具",
+        "reading": "どうぐ",
+        "ko": "도구"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 861
+  },
+  {
+    "id": "n5_add_063",
+    "word": "箱",
+    "reading": "はこ",
+    "meaning": "상자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "箱",
+        "reading": "はこ",
+        "ko": "상자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 862
+  },
+  {
+    "id": "n5_add_064",
+    "word": "袋",
+    "reading": "ふくろ",
+    "meaning": "봉지",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "袋",
+        "reading": "ふくろ",
+        "ko": "봉지"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 863
+  },
+  {
+    "id": "n5_add_065",
+    "word": "ごみ箱",
+    "reading": "ごみばこ",
+    "meaning": "쓰레기통",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ごみ箱",
+        "reading": "ごみばこ",
+        "ko": "쓰레기통"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 864
+  },
+  {
+    "id": "n5_add_066",
+    "word": "電池",
+    "reading": "でんち",
+    "meaning": "건전지",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "電池",
+        "reading": "でんち",
+        "ko": "건전지"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 865
+  },
+  {
+    "id": "n5_add_067",
+    "word": "電報",
+    "reading": "でんぽう",
+    "meaning": "전보",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "電報",
+        "reading": "でんぽう",
+        "ko": "전보"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 866
+  },
+  {
+    "id": "n5_add_068",
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "프로그램",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "番組",
+        "reading": "ばんぐみ",
+        "ko": "프로그램"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 867
+  },
+  {
+    "id": "n5_add_069",
+    "word": "ニュース",
+    "reading": "にゅーす",
+    "meaning": "뉴스",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ニュース",
+        "reading": "にゅーす",
+        "ko": "뉴스"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 868
+  },
+  {
+    "id": "n5_add_070",
+    "word": "漫画",
+    "reading": "まんが",
+    "meaning": "만화",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "漫画",
+        "reading": "まんが",
+        "ko": "만화"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 869
+  },
+  {
+    "id": "n5_add_071",
+    "word": "ピアノ",
+    "reading": "ぴあの",
+    "meaning": "피아노",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ピアノ",
+        "reading": "ぴあの",
+        "ko": "피아노"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 870
+  },
+  {
+    "id": "n5_add_072",
+    "word": "ギター",
+    "reading": "ぎたー",
+    "meaning": "기타",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ギター",
+        "reading": "ぎたー",
+        "ko": "기타"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 871
+  },
+  {
+    "id": "n5_add_073",
+    "word": "手帳",
+    "reading": "てちょう",
+    "meaning": "수첩",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "手帳",
+        "reading": "てちょう",
+        "ko": "수첩"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 872
+  },
+  {
+    "id": "n5_add_074",
+    "word": "予定表",
+    "reading": "よていひょう",
+    "meaning": "일정표",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "予定表",
+        "reading": "よていひょう",
+        "ko": "일정표"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 873
+  },
+  {
+    "id": "n5_add_075",
+    "word": "日記",
+    "reading": "にっき",
+    "meaning": "일기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "日記",
+        "reading": "にっき",
+        "ko": "일기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 874
+  },
+  {
+    "id": "n5_add_076",
+    "word": "写真機",
+    "reading": "しゃしんき",
+    "meaning": "사진기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "写真機",
+        "reading": "しゃしんき",
+        "ko": "사진기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 875
+  },
+  {
+    "id": "n5_add_077",
+    "word": "練習場",
+    "reading": "れんしゅうじょう",
+    "meaning": "연습장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "練習場",
+        "reading": "れんしゅうじょう",
+        "ko": "연습장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 876
+  },
+  {
+    "id": "n5_add_078",
+    "word": "一度",
+    "reading": "いちど",
+    "meaning": "한 번",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "一度",
+        "reading": "いちど",
+        "ko": "한 번"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 877
+  },
+  {
+    "id": "n5_add_079",
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning": "같음",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "同じ",
+        "reading": "おなじ",
+        "ko": "같음"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 878
+  },
+  {
+    "id": "n5_add_080",
+    "word": "別",
+    "reading": "べつ",
+    "meaning": "별도",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "別",
+        "reading": "べつ",
+        "ko": "별도"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 879
+  },
+  {
+    "id": "n5_add_081",
+    "word": "町",
+    "reading": "まち",
+    "meaning": "마을, 시내",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "町",
+        "reading": "まち",
+        "ko": "마을, 시내"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 880
+  },
+  {
+    "id": "n5_add_082",
+    "word": "村",
+    "reading": "むら",
+    "meaning": "마을",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "村",
+        "reading": "むら",
+        "ko": "마을"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 881
+  },
+  {
+    "id": "n5_add_083",
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "건물",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "建物",
+        "reading": "たてもの",
+        "ko": "건물"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 882
+  },
+  {
+    "id": "n5_add_084",
+    "word": "屋上",
+    "reading": "おくじょう",
+    "meaning": "옥상",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "屋上",
+        "reading": "おくじょう",
+        "ko": "옥상"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 883
+  },
+  {
+    "id": "n5_add_085",
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "입구",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "入口",
+        "reading": "いりぐち",
+        "ko": "입구"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 884
+  },
+  {
+    "id": "n5_add_086",
+    "word": "右側",
+    "reading": "みぎがわ",
+    "meaning": "오른쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "右側",
+        "reading": "みぎがわ",
+        "ko": "오른쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 885
+  },
+  {
+    "id": "n5_add_087",
+    "word": "左側",
+    "reading": "ひだりがわ",
+    "meaning": "왼쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "左側",
+        "reading": "ひだりがわ",
+        "ko": "왼쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 886
+  },
+  {
+    "id": "n5_add_088",
+    "word": "真ん中",
+    "reading": "まんなか",
+    "meaning": "한가운데",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "真ん中",
+        "reading": "まんなか",
+        "ko": "한가운데"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 887
+  },
+  {
+    "id": "n5_add_089",
+    "word": "向こう",
+    "reading": "むこう",
+    "meaning": "저쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "向こう",
+        "reading": "むこう",
+        "ko": "저쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 888
+  },
+  {
+    "id": "n5_add_090",
+    "word": "周り",
+    "reading": "まわり",
+    "meaning": "주위",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "周り",
+        "reading": "まわり",
+        "ko": "주위"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 889
+  },
+  {
+    "id": "n5_add_091",
+    "word": "再来年",
+    "reading": "さらいねん",
+    "meaning": "내후년",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "再来年",
+        "reading": "さらいねん",
+        "ko": "내후년"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 890
+  },
+  {
+    "id": "n5_add_092",
+    "word": "一昨年",
+    "reading": "おととし",
+    "meaning": "재작년",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "一昨年",
+        "reading": "おととし",
+        "ko": "재작년"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 891
+  },
+  {
+    "id": "n5_add_093",
+    "word": "今夜",
+    "reading": "こんや",
+    "meaning": "오늘 밤",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "今夜",
+        "reading": "こんや",
+        "ko": "오늘 밤"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 892
+  },
+  {
+    "id": "n5_add_094",
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "저녁 무렵",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "夕方",
+        "reading": "ゆうがた",
+        "ko": "저녁 무렵"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 893
+  },
+  {
+    "id": "n5_add_095",
+    "word": "昼間",
+    "reading": "ひるま",
+    "meaning": "낮 동안",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "昼間",
+        "reading": "ひるま",
+        "ko": "낮 동안"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 894
+  },
+  {
+    "id": "n5_add_096",
+    "word": "一日",
+    "reading": "いちにち",
+    "meaning": "하루",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "一日",
+        "reading": "いちにち",
+        "ko": "하루"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 895
+  },
+  {
+    "id": "n5_add_097",
+    "word": "二日",
+    "reading": "ふつか",
+    "meaning": "이틀, 2일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "二日",
+        "reading": "ふつか",
+        "ko": "이틀, 2일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 896
+  },
+  {
+    "id": "n5_add_098",
+    "word": "三日",
+    "reading": "みっか",
+    "meaning": "사흘, 3일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "三日",
+        "reading": "みっか",
+        "ko": "사흘, 3일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 897
+  },
+  {
+    "id": "n5_add_099",
+    "word": "四日",
+    "reading": "よっか",
+    "meaning": "나흘, 4일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "四日",
+        "reading": "よっか",
+        "ko": "나흘, 4일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 898
+  },
+  {
+    "id": "n5_add_100",
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "닷새, 5일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "五日",
+        "reading": "いつか",
+        "ko": "닷새, 5일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 899
+  },
+  {
+    "id": "n5_add_101",
+    "word": "六日",
+    "reading": "むいか",
+    "meaning": "엿새, 6일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "六日",
+        "reading": "むいか",
+        "ko": "엿새, 6일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 900
+  },
+  {
+    "id": "n5_add_102",
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "이레, 7일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "七日",
+        "reading": "なのか",
+        "ko": "이레, 7일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 901
+  },
+  {
+    "id": "n5_add_103",
+    "word": "八日",
+    "reading": "ようか",
+    "meaning": "여드레, 8일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "八日",
+        "reading": "ようか",
+        "ko": "여드레, 8일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 902
+  },
+  {
+    "id": "n5_add_104",
+    "word": "九日",
+    "reading": "ここのか",
+    "meaning": "아흐레, 9일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "九日",
+        "reading": "ここのか",
+        "ko": "아흐레, 9일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 903
+  },
+  {
+    "id": "n5_add_105",
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "열흘, 10일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "十日",
+        "reading": "とおか",
+        "ko": "열흘, 10일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 904
+  },
+  {
+    "id": "n5_add_106",
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "백",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "百",
+        "reading": "ひゃく",
+        "ko": "백"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 905
+  },
+  {
+    "id": "n5_add_107",
+    "word": "千",
+    "reading": "せん",
+    "meaning": "천",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "千",
+        "reading": "せん",
+        "ko": "천"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 906
+  },
+  {
+    "id": "n5_add_108",
+    "word": "万",
+    "reading": "まん",
+    "meaning": "만",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "万",
+        "reading": "まん",
+        "ko": "만"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 907
+  },
+  {
+    "id": "n5_add_109",
+    "word": "歳",
+    "reading": "さい",
+    "meaning": "살",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "歳",
+        "reading": "さい",
+        "ko": "살"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 908
+  },
+  {
+    "id": "n5_add_110",
+    "word": "分",
+    "reading": "ふん",
+    "meaning": "분",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "分",
+        "reading": "ふん",
+        "ko": "분"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 909
+  },
+  {
+    "id": "n5_add_111",
+    "word": "半",
+    "reading": "はん",
+    "meaning": "반",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "半",
+        "reading": "はん",
+        "ko": "반"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 910
+  },
+  {
+    "id": "n5_add_112",
+    "word": "足",
+    "reading": "そく",
+    "meaning": "켤레",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "足",
+        "reading": "そく",
+        "ko": "켤레"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 911
+  },
+  {
+    "id": "n5_add_113",
+    "word": "階",
+    "reading": "かい",
+    "meaning": "층",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "階",
+        "reading": "かい",
+        "ko": "층"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 912
+  },
+  {
+    "id": "n5_add_114",
+    "word": "家内",
+    "reading": "かない",
+    "meaning": "아내",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "家内",
+        "reading": "かない",
+        "ko": "아내"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 913
+  },
+  {
+    "id": "n5_add_115",
+    "word": "主人",
+    "reading": "しゅじん",
+    "meaning": "남편",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "主人",
+        "reading": "しゅじん",
+        "ko": "남편"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 914
+  },
+  {
+    "id": "n5_add_116",
+    "word": "両親",
+    "reading": "りょうしん",
+    "meaning": "부모님",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "両親",
+        "reading": "りょうしん",
+        "ko": "부모님"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 915
+  },
+  {
+    "id": "n5_add_117",
+    "word": "夫婦",
+    "reading": "ふうふ",
+    "meaning": "부부",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "夫婦",
+        "reading": "ふうふ",
+        "ko": "부부"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 916
+  },
+  {
+    "id": "n5_add_118",
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "형제자매",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "兄弟",
+        "reading": "きょうだい",
+        "ko": "형제자매"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 917
+  },
+  {
+    "id": "n5_add_119",
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "형",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お兄さん",
+        "reading": "おにいさん",
+        "ko": "형"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 918
+  },
+  {
+    "id": "n5_add_120",
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "누나, 언니",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お姉さん",
+        "reading": "おねえさん",
+        "ko": "누나, 언니"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 919
+  },
+  {
+    "id": "n5_add_121",
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "아버지",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お父さん",
+        "reading": "おとうさん",
+        "ko": "아버지"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 920
+  },
+  {
+    "id": "n5_add_122",
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "어머니",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "お母さん",
+        "reading": "おかあさん",
+        "ko": "어머니"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 921
+  },
+  {
+    "id": "n5_add_123",
+    "word": "おじいさん",
+    "reading": "おじいさん",
+    "meaning": "할아버지",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "おじいさん",
+        "reading": "おじいさん",
+        "ko": "할아버지"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 922
+  },
+  {
+    "id": "n5_add_124",
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "할머니",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "おばあさん",
+        "reading": "おばあさん",
+        "ko": "할머니"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 923
+  },
+  {
+    "id": "n5_add_125",
+    "word": "赤ちゃん",
+    "reading": "あかちゃん",
+    "meaning": "아기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "赤ちゃん",
+        "reading": "あかちゃん",
+        "ko": "아기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 924
+  },
+  {
+    "id": "n5_add_126",
+    "word": "赤ん坊",
+    "reading": "あかんぼう",
+    "meaning": "갓난아기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "赤ん坊",
+        "reading": "あかんぼう",
+        "ko": "갓난아기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 925
+  },
+  {
+    "id": "n5_add_127",
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": "어른",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "大人",
+        "reading": "おとな",
+        "ko": "어른"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 926
+  },
+  {
+    "id": "n5_add_128",
+    "word": "夫",
+    "reading": "おっと",
+    "meaning": "남편",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "夫",
+        "reading": "おっと",
+        "ko": "남편"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 927
+  },
+  {
+    "id": "n5_add_129",
+    "word": "妻",
+    "reading": "つま",
+    "meaning": "아내",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "妻",
+        "reading": "つま",
+        "ko": "아내"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 928
+  },
+  {
+    "id": "n5_add_130",
+    "word": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "초등학교",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "小学校",
+        "reading": "しょうがっこう",
+        "ko": "초등학교"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 929
+  },
+  {
+    "id": "n5_add_131",
+    "word": "中学校",
+    "reading": "ちゅうがっこう",
+    "meaning": "중학교",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "中学校",
+        "reading": "ちゅうがっこう",
+        "ko": "중학교"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 930
+  },
+  {
+    "id": "n5_add_132",
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "대학교",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "大学",
+        "reading": "だいがく",
+        "ko": "대학교"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 931
+  },
+  {
+    "id": "n5_add_133",
+    "word": "大学生",
+    "reading": "だいがくせい",
+    "meaning": "대학생",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "大学生",
+        "reading": "だいがくせい",
+        "ko": "대학생"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 932
+  },
+  {
+    "id": "n5_add_134",
+    "word": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "시청",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "市役所",
+        "reading": "しやくしょ",
+        "ko": "시청"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 933
+  },
+  {
+    "id": "n5_add_135",
+    "word": "消防署",
+    "reading": "しょうぼうしょ",
+    "meaning": "소방서",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "消防署",
+        "reading": "しょうぼうしょ",
+        "ko": "소방서"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 934
+  },
+  {
+    "id": "n5_add_136",
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning": "대사관",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "大使館",
+        "reading": "たいしかん",
+        "ko": "대사관"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 935
+  },
+  {
+    "id": "n5_add_137",
+    "word": "温泉",
+    "reading": "おんせん",
+    "meaning": "온천",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "温泉",
+        "reading": "おんせん",
+        "ko": "온천"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 936
+  },
+  {
+    "id": "n5_add_138",
+    "word": "池",
+    "reading": "いけ",
+    "meaning": "연못",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "池",
+        "reading": "いけ",
+        "ko": "연못"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 937
+  },
+  {
+    "id": "n5_add_139",
+    "word": "竹",
+    "reading": "たけ",
+    "meaning": "대나무",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "竹",
+        "reading": "たけ",
+        "ko": "대나무"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 938
+  },
+  {
+    "id": "n5_add_140",
+    "word": "石",
+    "reading": "いし",
+    "meaning": "돌",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "石",
+        "reading": "いし",
+        "ko": "돌"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 939
+  },
+  {
+    "id": "n5_add_141",
+    "word": "羊",
+    "reading": "ひつじ",
+    "meaning": "양",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "羊",
+        "reading": "ひつじ",
+        "ko": "양"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 940
+  },
+  {
+    "id": "n5_add_142",
+    "word": "うさぎ",
+    "reading": "うさぎ",
+    "meaning": "토끼",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "うさぎ",
+        "reading": "うさぎ",
+        "ko": "토끼"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 941
+  },
+  {
+    "id": "n5_add_143",
+    "word": "ねずみ",
+    "reading": "ねずみ",
+    "meaning": "쥐",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "ねずみ",
+        "reading": "ねずみ",
+        "ko": "쥐"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 942
+  },
+  {
+    "id": "n5_add_144",
+    "word": "亀",
+    "reading": "かめ",
+    "meaning": "거북이",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "亀",
+        "reading": "かめ",
+        "ko": "거북이"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 943
+  },
+  {
+    "id": "n5_add_145",
+    "word": "狐",
+    "reading": "きつね",
+    "meaning": "여우",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "狐",
+        "reading": "きつね",
+        "ko": "여우"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 944
+  },
+  {
+    "id": "n5_add_146",
+    "word": "郵便番号",
+    "reading": "ゆうびんばんごう",
+    "meaning": "우편번호",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "郵便番号",
+        "reading": "ゆうびんばんごう",
+        "ko": "우편번호"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 945
+  },
+  {
+    "id": "n5_add_147",
+    "word": "本屋",
+    "reading": "ほんや",
+    "meaning": "서점",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "本屋",
+        "reading": "ほんや",
+        "ko": "서점"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 946
+  },
+  {
+    "id": "n5_add_148",
+    "word": "花屋",
+    "reading": "はなや",
+    "meaning": "꽃집",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "花屋",
+        "reading": "はなや",
+        "ko": "꽃집"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 947
+  },
+  {
+    "id": "n5_add_149",
+    "word": "パン屋",
+    "reading": "ぱんや",
+    "meaning": "빵집",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "パン屋",
+        "reading": "ぱんや",
+        "ko": "빵집"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 948
+  },
+  {
+    "id": "n5_add_150",
+    "word": "肉屋",
+    "reading": "にくや",
+    "meaning": "정육점",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "肉屋",
+        "reading": "にくや",
+        "ko": "정육점"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 949
+  },
+  {
+    "id": "n5_add_151",
+    "word": "果物屋",
+    "reading": "くだものや",
+    "meaning": "과일가게",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "果物屋",
+        "reading": "くだものや",
+        "ko": "과일가게"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 950
+  },
+  {
+    "id": "n5_add_152",
+    "word": "八百屋",
+    "reading": "やおや",
+    "meaning": "채소가게",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "八百屋",
+        "reading": "やおや",
+        "ko": "채소가게"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 951
+  },
+  {
+    "id": "n5_add_153",
+    "word": "自動販売機",
+    "reading": "じどうはんばいき",
+    "meaning": "자판기",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "自動販売機",
+        "reading": "じどうはんばいき",
+        "ko": "자판기"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 952
+  },
+  {
+    "id": "n5_add_154",
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "주차장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "駐車場",
+        "reading": "ちゅうしゃじょう",
+        "ko": "주차장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 953
+  },
+  {
+    "id": "n5_add_155",
+    "word": "公衆電話",
+    "reading": "こうしゅうでんわ",
+    "meaning": "공중전화",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "公衆電話",
+        "reading": "こうしゅうでんわ",
+        "ko": "공중전화"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 954
+  },
+  {
+    "id": "n5_add_156",
+    "word": "洗面台",
+    "reading": "せんめんだい",
+    "meaning": "세면대",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "洗面台",
+        "reading": "せんめんだい",
+        "ko": "세면대"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 955
+  },
+  {
+    "id": "n5_add_157",
+    "word": "物置",
+    "reading": "ものおき",
+    "meaning": "창고",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "物置",
+        "reading": "ものおき",
+        "ko": "창고"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 956
+  },
+  {
+    "id": "n5_add_158",
+    "word": "押し入れ",
+    "reading": "おしいれ",
+    "meaning": "벽장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "押し入れ",
+        "reading": "おしいれ",
+        "ko": "벽장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 957
+  },
+  {
+    "id": "n5_add_159",
+    "word": "畳",
+    "reading": "たたみ",
+    "meaning": "다다미",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "畳",
+        "reading": "たたみ",
+        "ko": "다다미"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 958
+  },
+  {
+    "id": "n5_add_160",
+    "word": "布",
+    "reading": "ぬの",
+    "meaning": "천",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "布",
+        "reading": "ぬの",
+        "ko": "천"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 959
+  },
+  {
+    "id": "n5_add_161",
+    "word": "糸",
+    "reading": "いと",
+    "meaning": "실",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "糸",
+        "reading": "いと",
+        "ko": "실"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 960
+  },
+  {
+    "id": "n5_add_162",
+    "word": "針",
+    "reading": "はり",
+    "meaning": "바늘",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "針",
+        "reading": "はり",
+        "ko": "바늘"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 961
+  },
+  {
+    "id": "n5_add_163",
+    "word": "はさみ",
+    "reading": "はさみ",
+    "meaning": "가위",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "はさみ",
+        "reading": "はさみ",
+        "ko": "가위"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 962
+  },
+  {
+    "id": "n5_add_164",
+    "word": "定規",
+    "reading": "じょうぎ",
+    "meaning": "자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "定規",
+        "reading": "じょうぎ",
+        "ko": "자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 963
+  },
+  {
+    "id": "n5_add_165",
+    "word": "のり",
+    "reading": "のり",
+    "meaning": "풀",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "のり",
+        "reading": "のり",
+        "ko": "풀"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 964
+  },
+  {
+    "id": "n5_add_166",
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "한자",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "漢字",
+        "reading": "かんじ",
+        "ko": "한자"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 965
+  },
+  {
+    "id": "n5_add_167",
+    "word": "遠足",
+    "reading": "えんそく",
+    "meaning": "소풍",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "遠足",
+        "reading": "えんそく",
+        "ko": "소풍"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 966
+  },
+  {
+    "id": "n5_add_168",
+    "word": "運動会",
+    "reading": "うんどうかい",
+    "meaning": "운동회",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "運動会",
+        "reading": "うんどうかい",
+        "ko": "운동회"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 967
+  },
+  {
+    "id": "n5_add_169",
+    "word": "文化祭",
+    "reading": "ぶんかさい",
+    "meaning": "문화제",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "文化祭",
+        "reading": "ぶんかさい",
+        "ko": "문화제"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 968
+  },
+  {
+    "id": "n5_add_170",
+    "word": "試験日",
+    "reading": "しけんび",
+    "meaning": "시험일",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "試験日",
+        "reading": "しけんび",
+        "ko": "시험일"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 969
+  },
+  {
+    "id": "n5_add_171",
+    "word": "故郷",
+    "reading": "ふるさと",
+    "meaning": "고향",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "故郷",
+        "reading": "ふるさと",
+        "ko": "고향"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 970
+  },
+  {
+    "id": "n5_add_172",
+    "word": "地図帳",
+    "reading": "ちずちょう",
+    "meaning": "지도책",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "地図帳",
+        "reading": "ちずちょう",
+        "ko": "지도책"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 971
+  },
+  {
+    "id": "n5_add_173",
+    "word": "方角",
+    "reading": "ほうがく",
+    "meaning": "방향",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "方角",
+        "reading": "ほうがく",
+        "ko": "방향"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 972
+  },
+  {
+    "id": "n5_add_174",
+    "word": "北",
+    "reading": "きた",
+    "meaning": "북쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "北",
+        "reading": "きた",
+        "ko": "북쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 973
+  },
+  {
+    "id": "n5_add_175",
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "남쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "南",
+        "reading": "みなみ",
+        "ko": "남쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 974
+  },
+  {
+    "id": "n5_add_176",
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "동쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "東",
+        "reading": "ひがし",
+        "ko": "동쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 975
+  },
+  {
+    "id": "n5_add_177",
+    "word": "西",
+    "reading": "にし",
+    "meaning": "서쪽",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "西",
+        "reading": "にし",
+        "ko": "서쪽"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 976
+  },
+  {
+    "id": "n5_add_178",
+    "word": "東口",
+    "reading": "ひがしぐち",
+    "meaning": "동쪽 출구",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "東口",
+        "reading": "ひがしぐち",
+        "ko": "동쪽 출구"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 977
+  },
+  {
+    "id": "n5_add_179",
+    "word": "西口",
+    "reading": "にしぐち",
+    "meaning": "서쪽 출구",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "西口",
+        "reading": "にしぐち",
+        "ko": "서쪽 출구"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 978
+  },
+  {
+    "id": "n5_add_180",
+    "word": "港町",
+    "reading": "みなとまち",
+    "meaning": "항구 도시",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "港町",
+        "reading": "みなとまち",
+        "ko": "항구 도시"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 979
+  },
+  {
+    "id": "n5_add_181",
+    "word": "畜産",
+    "reading": "ちくさん",
+    "meaning": "축산",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "畜産",
+        "reading": "ちくさん",
+        "ko": "축산"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 980
+  },
+  {
+    "id": "n5_add_182",
+    "word": "牧場",
+    "reading": "ぼくじょう",
+    "meaning": "목장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "牧場",
+        "reading": "ぼくじょう",
+        "ko": "목장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 981
+  },
+  {
+    "id": "n5_add_183",
+    "word": "農場",
+    "reading": "のうじょう",
+    "meaning": "농장",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "農場",
+        "reading": "のうじょう",
+        "ko": "농장"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 982
+  },
+  {
+    "id": "n5_add_184",
+    "word": "花びら",
+    "reading": "はなびら",
+    "meaning": "꽃잎",
+    "jlpt": "N5",
+    "category": "명사",
+    "examples": [
+      {
+        "ja": "花びら",
+        "reading": "はなびら",
+        "ko": "꽃잎"
+      }
+    ],
+    "tags": [
+      "N5",
+      "명사",
+      "보강"
+    ],
+    "frequency": 983
+  },
+  {
+    "id": "n5_add_185",
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning": "뒤집어쓰다, 샤워하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "examples": [
+      {
+        "ja": "浴びる",
+        "reading": "あびる",
+        "ko": "뒤집어쓰다, 샤워하다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 984
+  },
+  {
+    "id": "n5_add_186",
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "보여주다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "examples": [
+      {
+        "ja": "見せる",
+        "reading": "みせる",
+        "ko": "보여주다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 985
+  },
+  {
+    "id": "n5_add_187",
+    "word": "滑る",
+    "reading": "すべる",
+    "meaning": "미끄러지다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "examples": [
+      {
+        "ja": "滑る",
+        "reading": "すべる",
+        "ko": "미끄러지다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 986
+  },
+  {
+    "id": "n5_add_188",
+    "word": "やめる",
+    "reading": "やめる",
+    "meaning": "그만두다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "examples": [
+      {
+        "ja": "やめる",
+        "reading": "やめる",
+        "ko": "그만두다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 987
+  },
+  {
+    "id": "n5_add_189",
+    "word": "覚める",
+    "reading": "さめる",
+    "meaning": "깨다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "examples": [
+      {
+        "ja": "覚める",
+        "reading": "さめる",
+        "ko": "깨다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 988
+  },
+  {
+    "id": "n5_add_190",
+    "word": "散歩する",
+    "reading": "さんぽする",
+    "meaning": "산책하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "examples": [
+      {
+        "ja": "散歩する",
+        "reading": "さんぽする",
+        "ko": "산책하다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 989
+  },
+  {
+    "id": "n5_add_191",
+    "word": "掃除する",
+    "reading": "そうじする",
+    "meaning": "청소하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "examples": [
+      {
+        "ja": "掃除する",
+        "reading": "そうじする",
+        "ko": "청소하다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 990
+  },
+  {
+    "id": "n5_add_192",
+    "word": "料理する",
+    "reading": "りょうりする",
+    "meaning": "요리하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "examples": [
+      {
+        "ja": "料理する",
+        "reading": "りょうりする",
+        "ko": "요리하다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 991
+  },
+  {
+    "id": "n5_add_193",
+    "word": "電話する",
+    "reading": "でんわする",
+    "meaning": "전화하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "examples": [
+      {
+        "ja": "電話する",
+        "reading": "でんわする",
+        "ko": "전화하다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "동사",
+      "보강"
+    ],
+    "frequency": 992
+  },
+  {
+    "id": "n5_add_194",
+    "word": "四角い",
+    "reading": "しかくい",
+    "meaning": "네모나다",
+    "jlpt": "N5",
+    "category": "い형용사",
+    "examples": [
+      {
+        "ja": "四角い",
+        "reading": "しかくい",
+        "ko": "네모나다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "い형용사",
+      "보강"
+    ],
+    "frequency": 993
+  },
+  {
+    "id": "n5_add_195",
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meaning": "갖고 싶다",
+    "jlpt": "N5",
+    "category": "い형용사",
+    "examples": [
+      {
+        "ja": "欲しい",
+        "reading": "ほしい",
+        "ko": "갖고 싶다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "い형용사",
+      "보강"
+    ],
+    "frequency": 994
+  },
+  {
+    "id": "n5_add_196",
+    "word": "美しい",
+    "reading": "うつくしい",
+    "meaning": "아름답다",
+    "jlpt": "N5",
+    "category": "い형용사",
+    "examples": [
+      {
+        "ja": "美しい",
+        "reading": "うつくしい",
+        "ko": "아름답다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "い형용사",
+      "보강"
+    ],
+    "frequency": 995
+  },
+  {
+    "id": "n5_add_197",
+    "word": "可愛い",
+    "reading": "かわいい",
+    "meaning": "귀엽다",
+    "jlpt": "N5",
+    "category": "い형용사",
+    "examples": [
+      {
+        "ja": "可愛い",
+        "reading": "かわいい",
+        "ko": "귀엽다"
+      }
+    ],
+    "tags": [
+      "N5",
+      "い형용사",
+      "보강"
+    ],
+    "frequency": 996
+  },
+  {
+    "id": "n5_add_198",
+    "word": "大事",
+    "reading": "だいじ",
+    "meaning": "소중함, 중요함",
+    "jlpt": "N5",
+    "category": "な형용사",
+    "examples": [
+      {
+        "ja": "大事",
+        "reading": "だいじ",
+        "ko": "소중함, 중요함"
+      }
+    ],
+    "tags": [
+      "N5",
+      "な형용사",
+      "보강"
+    ],
+    "frequency": 997
+  }
+]

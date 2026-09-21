@@ -1,0 +1,497 @@
+[
+  {
+    "word": "直す",
+    "reading": "なおす",
+    "meaning": "고치다",
+    "meaningDetail": "수리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "時計を直す。", "ko": "시계를 고치다." }
+    ]
+  },
+  {
+    "word": "直る",
+    "reading": "なおる",
+    "meaning": "고쳐지다",
+    "meaningDetail": "수리되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "機械が直る。", "ko": "기계가 고쳐지다." }
+    ]
+  },
+  {
+    "word": "整える",
+    "reading": "ととのえる",
+    "meaning": "정돈하다",
+    "meaningDetail": "준비하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "身だしなみを整える。", "ko": "몸단장을 정돈하다." }
+    ]
+  },
+  {
+    "word": "整う",
+    "reading": "ととのう",
+    "meaning": "정돈되다",
+    "meaningDetail": "갖춰지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "準備が整う。", "ko": "준비가 갖춰지다." }
+    ]
+  },
+  {
+    "word": "揃える",
+    "reading": "そろえる",
+    "meaning": "갖추다",
+    "meaningDetail": "맞추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "道具を揃える。", "ko": "도구를 갖추다." }
+    ]
+  },
+  {
+    "word": "揃う",
+    "reading": "そろう",
+    "meaning": "갖춰지다",
+    "meaningDetail": "모이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "メンバーが揃う。", "ko": "멤버가 모이다." }
+    ]
+  },
+  {
+    "word": "備える",
+    "reading": "そなえる",
+    "meaning": "대비하다",
+    "meaningDetail": "갖추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비하다." }
+    ]
+  },
+  {
+    "word": "備わる",
+    "reading": "そなわる",
+    "meaning": "갖춰지다",
+    "meaningDetail": "구비되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "機能が備わる。", "ko": "기능이 갖춰지다." }
+    ]
+  },
+  {
+    "word": "満たす",
+    "reading": "みたす",
+    "meaning": "채우다",
+    "meaningDetail": "충족시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족시키다." }
+    ]
+  },
+  {
+    "word": "満ちる",
+    "reading": "みちる",
+    "meaning": "차다",
+    "meaningDetail": "가득하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "希望に満ちる。", "ko": "희망에 차다." }
+    ]
+  },
+  {
+    "word": "満足する",
+    "reading": "まんぞくする",
+    "meaning": "만족하다",
+    "meaningDetail": "흡족하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果に満足する。", "ko": "결과에 만족하다." }
+    ]
+  },
+  {
+    "word": "納得する",
+    "reading": "なっとくする",
+    "meaning": "납득하다",
+    "meaningDetail": "수긍하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "説明に納得する。", "ko": "설명에 납득하다." }
+    ]
+  },
+  {
+    "word": "理解する",
+    "reading": "りかいする",
+    "meaning": "이해하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意味を理解する。", "ko": "의미를 이해하다." }
+    ]
+  },
+  {
+    "word": "把握する",
+    "reading": "はあくする",
+    "meaning": "파악하다",
+    "meaningDetail": "이해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악하다." }
+    ]
+  },
+  {
+    "word": "認識する",
+    "reading": "にんしきする",
+    "meaning": "인식하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を認識する。", "ko": "문제를 인식하다." }
+    ]
+  },
+  {
+    "word": "意識する",
+    "reading": "いしきする",
+    "meaning": "의식하다",
+    "meaningDetail": "자각하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "周囲を意識する。", "ko": "주위를 의식하다." }
+    ]
+  },
+  {
+    "word": "自覚する",
+    "reading": "じかくする",
+    "meaning": "자각하다",
+    "meaningDetail": "깨닫다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "責任を自覚する。", "ko": "책임을 자각하다." }
+    ]
+  },
+  {
+    "word": "反省する",
+    "reading": "はんせいする",
+    "meaning": "반성하다",
+    "meaningDetail": "돌아보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "行動を反省する。", "ko": "행동을 반성하다." }
+    ]
+  },
+  {
+    "word": "後悔する",
+    "reading": "こうかいする",
+    "meaning": "후회하다",
+    "meaningDetail": "뉘우치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "決断を後悔する。", "ko": "결단을 후회하다." }
+    ]
+  },
+  {
+    "word": "悔やむ",
+    "reading": "くやむ",
+    "meaning": "후회하다",
+    "meaningDetail": "아쉬워하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過去を悔やむ。", "ko": "과거를 후회하다." }
+    ]
+  },
+  {
+    "word": "悔いる",
+    "reading": "くいる",
+    "meaning": "뉘우치다",
+    "meaningDetail": "후회하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "行いを悔いる。", "ko": "행동을 뉘우치다." }
+    ]
+  },
+  {
+    "word": "恨む",
+    "reading": "うらむ",
+    "meaning": "원망하다",
+    "meaningDetail": "미워하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "運命を恨む。", "ko": "운명을 원망하다." }
+    ]
+  },
+  {
+    "word": "憎む",
+    "reading": "にくむ",
+    "meaning": "미워하다",
+    "meaningDetail": "증오하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵を憎む。", "ko": "적을 미워하다." }
+    ]
+  },
+  {
+    "word": "妬む",
+    "reading": "ねたむ",
+    "meaning": "시기하다",
+    "meaningDetail": "질투하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功を妬む。", "ko": "성공을 시기하다." }
+    ]
+  },
+  {
+    "word": "嫉妬する",
+    "reading": "しっとする",
+    "meaning": "질투하다",
+    "meaningDetail": "시기하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "恋人に嫉妬する。", "ko": "연인에게 질투하다." }
+    ]
+  },
+  {
+    "word": "羨む",
+    "reading": "うらやむ",
+    "meaning": "부러워하다",
+    "meaningDetail": "선망하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "他人を羨む。", "ko": "남을 부러워하다." }
+    ]
+  },
+  {
+    "word": "慕う",
+    "reading": "したう",
+    "meaning": "그리워하다",
+    "meaningDetail": "사모하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "故郷を慕う。", "ko": "고향을 그리워하다." }
+    ]
+  },
+  {
+    "word": "憧れる",
+    "reading": "あこがれる",
+    "meaning": "동경하다",
+    "meaningDetail": "그리워하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "海外生活に憧れる。", "ko": "해외 생활을 동경하다." }
+    ]
+  },
+  {
+    "word": "尊敬する",
+    "reading": "そんけいする",
+    "meaning": "존경하다",
+    "meaningDetail": "우러러보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "先生を尊敬する。", "ko": "선생님을 존경하다." }
+    ]
+  },
+  {
+    "word": "敬う",
+    "reading": "うやまう",
+    "meaning": "공경하다",
+    "meaningDetail": "존경하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "年長者を敬う。", "ko": "어른을 공경하다." }
+    ]
+  },
+  {
+    "word": "崇拝する",
+    "reading": "すうはいする",
+    "meaning": "숭배하다",
+    "meaningDetail": "숭상하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "神を崇拝する。", "ko": "신을 숭배하다." }
+    ]
+  },
+  {
+    "word": "軽蔑する",
+    "reading": "けいべつする",
+    "meaning": "경멸하다",
+    "meaningDetail": "업신여기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "卑怯な行為を軽蔑する。", "ko": "비겁한 행위를 경멸하다." }
+    ]
+  },
+  {
+    "word": "侮る",
+    "reading": "あなどる",
+    "meaning": "업신여기다",
+    "meaningDetail": "경시하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "相手を侮る。", "ko": "상대방을 업신여기다." }
+    ]
+  },
+  {
+    "word": "馬鹿にする",
+    "reading": "ばかにする",
+    "meaning": "바보취급하다",
+    "meaningDetail": "무시하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人を馬鹿にする。", "ko": "사람을 바보취급하다." }
+    ]
+  },
+  {
+    "word": "見下す",
+    "reading": "みくだす",
+    "meaning": "깔보다",
+    "meaningDetail": "얕보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "他人を見下す。", "ko": "남을 깔보다." }
+    ]
+  },
+  {
+    "word": "見上げる",
+    "reading": "みあげる",
+    "meaning": "올려다보다",
+    "meaningDetail": "존경하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "空を見上げる。", "ko": "하늘을 올려다보다." }
+    ]
+  },
+  {
+    "word": "見守る",
+    "reading": "みまもる",
+    "meaning": "지켜보다",
+    "meaningDetail": "주시하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成長を見守る。", "ko": "성장을 지켜보다." }
+    ]
+  },
+  {
+    "word": "見届ける",
+    "reading": "みとどける",
+    "meaning": "끝까지 보다",
+    "meaningDetail": "확인하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "結末を見届ける。", "ko": "결말을 끝까지 보다." }
+    ]
+  },
+  {
+    "word": "見送る",
+    "reading": "みおくる",
+    "meaning": "배웅하다",
+    "meaningDetail": "보류하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "客を見送る。", "ko": "손님을 배웅하다." }
+    ]
+  },
+  {
+    "word": "見逃す",
+    "reading": "みのがす",
+    "meaning": "놓치다",
+    "meaningDetail": "묵인하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チャンスを見逃す。", "ko": "기회를 놓치다." }
+    ]
+  },
+  {
+    "word": "見落とす",
+    "reading": "みおとす",
+    "meaning": "간과하다",
+    "meaningDetail": "놓치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ミスを見落とす。", "ko": "실수를 간과하다." }
+    ]
+  },
+  {
+    "word": "見過ごす",
+    "reading": "みすごす",
+    "meaning": "묵과하다",
+    "meaningDetail": "간과하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "問題を見過ごす。", "ko": "문제를 묵과하다." }
+    ]
+  },
+  {
+    "word": "見つめる",
+    "reading": "みつめる",
+    "meaning": "응시하다",
+    "meaningDetail": "바라보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "相手の目を見つめる。", "ko": "상대방의 눈을 응시하다." }
+    ]
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "meaning": "발견되다",
+    "meaningDetail": "찾아지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鍵が見つかる。", "ko": "열쇠가 발견되다." }
+    ]
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaning": "발견하다",
+    "meaningDetail": "찾다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事を見つける。", "ko": "일을 찾다." }
+    ]
+  }
+]

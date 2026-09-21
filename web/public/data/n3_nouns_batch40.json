@@ -1,0 +1,482 @@
+[
+  {
+    "word": "欠陥",
+    "reading": "けっかん",
+    "meaning": "결함",
+    "meaningDetail": "흠",
+    "category": "명사",
+    "examples": [
+      { "ja": "欠陥が見つかる。", "ko": "결함이 발견되다." }
+    ]
+  },
+  {
+    "word": "欠点",
+    "reading": "けってん",
+    "meaning": "결점",
+    "meaningDetail": "약점",
+    "category": "명사",
+    "examples": [
+      { "ja": "欠点を補う。", "ko": "결점을 보완하다." }
+    ]
+  },
+  {
+    "word": "弱点",
+    "reading": "じゃくてん",
+    "meaning": "약점",
+    "meaningDetail": "단점",
+    "category": "명사",
+    "examples": [
+      { "ja": "弱点を克服する。", "ko": "약점을 극복하다." }
+    ]
+  },
+  {
+    "word": "長所",
+    "reading": "ちょうしょ",
+    "meaning": "장점",
+    "meaningDetail": "강점",
+    "category": "명사",
+    "examples": [
+      { "ja": "長所を伸ばす。", "ko": "장점을 살리다." }
+    ]
+  },
+  {
+    "word": "短所",
+    "reading": "たんしょ",
+    "meaning": "단점",
+    "meaningDetail": "결점",
+    "category": "명사",
+    "examples": [
+      { "ja": "短所を直す。", "ko": "단점을 고치다." }
+    ]
+  },
+  {
+    "word": "利点",
+    "reading": "りてん",
+    "meaning": "이점",
+    "meaningDetail": "장점",
+    "category": "명사",
+    "examples": [
+      { "ja": "利点がある。", "ko": "이점이 있다." }
+    ]
+  },
+  {
+    "word": "難点",
+    "reading": "なんてん",
+    "meaning": "난점",
+    "meaningDetail": "문제점",
+    "category": "명사",
+    "examples": [
+      { "ja": "難点を指摘する。", "ko": "난점을 지적하다." }
+    ]
+  },
+  {
+    "word": "特長",
+    "reading": "とくちょう",
+    "meaning": "특장",
+    "meaningDetail": "장점",
+    "category": "명사",
+    "examples": [
+      { "ja": "特長を生かす。", "ko": "특장을 살리다." }
+    ]
+  },
+  {
+    "word": "強み",
+    "reading": "つよみ",
+    "meaning": "강점",
+    "meaningDetail": "장점",
+    "category": "명사",
+    "examples": [
+      { "ja": "強みを発揮する。", "ko": "강점을 발휘하다." }
+    ]
+  },
+  {
+    "word": "弱み",
+    "reading": "よわみ",
+    "meaning": "약점",
+    "meaningDetail": "단점",
+    "category": "명사",
+    "examples": [
+      { "ja": "弱みを見せる。", "ko": "약점을 보이다." }
+    ]
+  },
+  {
+    "word": "優位",
+    "reading": "ゆうい",
+    "meaning": "우위",
+    "meaningDetail": "앞섬",
+    "category": "명사",
+    "examples": [
+      { "ja": "優位に立つ。", "ko": "우위에 서다." }
+    ]
+  },
+  {
+    "word": "劣位",
+    "reading": "れつい",
+    "meaning": "열위",
+    "meaningDetail": "뒤처짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "劣位にある。", "ko": "열위에 있다." }
+    ]
+  },
+  {
+    "word": "優勢",
+    "reading": "ゆうせい",
+    "meaning": "우세",
+    "meaningDetail": "앞섬",
+    "category": "명사",
+    "examples": [
+      { "ja": "優勢を保つ。", "ko": "우세를 유지하다." }
+    ]
+  },
+  {
+    "word": "劣勢",
+    "reading": "れっせい",
+    "meaning": "열세",
+    "meaningDetail": "뒤처짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "劣勢に立たされる。", "ko": "열세에 놓이다." }
+    ]
+  },
+  {
+    "word": "優先",
+    "reading": "ゆうせん",
+    "meaning": "우선",
+    "meaningDetail": "먼저",
+    "category": "명사",
+    "examples": [
+      { "ja": "優先順位をつける。", "ko": "우선순위를 정하다." }
+    ]
+  },
+  {
+    "word": "優秀",
+    "reading": "ゆうしゅう",
+    "meaning": "우수",
+    "meaningDetail": "뛰어남",
+    "category": "명사",
+    "examples": [
+      { "ja": "優秀な成績を収める。", "ko": "우수한 성적을 거두다." }
+    ]
+  },
+  {
+    "word": "秀才",
+    "reading": "しゅうさい",
+    "meaning": "수재",
+    "meaningDetail": "뛰어난 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "秀才と呼ばれる。", "ko": "수재라 불리다." }
+    ]
+  },
+  {
+    "word": "天才",
+    "reading": "てんさい",
+    "meaning": "천재",
+    "meaningDetail": "뛰어난 재능",
+    "category": "명사",
+    "examples": [
+      { "ja": "天才的な能力。", "ko": "천재적인 능력." }
+    ]
+  },
+  {
+    "word": "才能",
+    "reading": "さいのう",
+    "meaning": "재능",
+    "meaningDetail": "재주",
+    "category": "명사",
+    "examples": [
+      { "ja": "才能を発揮する。", "ko": "재능을 발휘하다." }
+    ]
+  },
+  {
+    "word": "才覚",
+    "reading": "さいかく",
+    "meaning": "재각",
+    "meaningDetail": "수완",
+    "category": "명사",
+    "examples": [
+      { "ja": "商売の才覚がある。", "ko": "장사 수완이 있다." }
+    ]
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "테크닉",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術を磨く。", "ko": "기술을 연마하다." }
+    ]
+  },
+  {
+    "word": "技能",
+    "reading": "ぎのう",
+    "meaning": "기능",
+    "meaningDetail": "솜씨",
+    "category": "명사",
+    "examples": [
+      { "ja": "技能を習得する。", "ko": "기능을 습득하다." }
+    ]
+  },
+  {
+    "word": "技法",
+    "reading": "ぎほう",
+    "meaning": "기법",
+    "meaningDetail": "테크닉",
+    "category": "명사",
+    "examples": [
+      { "ja": "技法を学ぶ。", "ko": "기법을 배우다." }
+    ]
+  },
+  {
+    "word": "手法",
+    "reading": "しゅほう",
+    "meaning": "수법",
+    "meaningDetail": "방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい手法を用いる。", "ko": "새로운 수법을 쓰다." }
+    ]
+  },
+  {
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "방법",
+    "meaningDetail": "수단",
+    "category": "명사",
+    "examples": [
+      { "ja": "方法を考える。", "ko": "방법을 생각하다." }
+    ]
+  },
+  {
+    "word": "手段",
+    "reading": "しゅだん",
+    "meaning": "수단",
+    "meaningDetail": "방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "手段を選ぶ。", "ko": "수단을 고르다." }
+    ]
+  },
+  {
+    "word": "手順",
+    "reading": "てじゅん",
+    "meaning": "순서",
+    "meaningDetail": "절차",
+    "category": "명사",
+    "examples": [
+      { "ja": "手順を説明する。", "ko": "순서를 설명하다." }
+    ]
+  },
+  {
+    "word": "順序",
+    "reading": "じゅんじょ",
+    "meaning": "순서",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "順序を守る。", "ko": "순서를 지키다." }
+    ]
+  },
+  {
+    "word": "順番",
+    "reading": "じゅんばん",
+    "meaning": "순번",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "順番を待つ。", "ko": "순번을 기다리다." }
+    ]
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "번호",
+    "meaningDetail": "넘버",
+    "category": "명사",
+    "examples": [
+      { "ja": "番号を確認する。", "ko": "번호를 확인하다." }
+    ]
+  },
+  {
+    "word": "記号",
+    "reading": "きごう",
+    "meaning": "기호",
+    "meaningDetail": "마크",
+    "category": "명사",
+    "examples": [
+      { "ja": "記号を使う。", "ko": "기호를 사용하다." }
+    ]
+  },
+  {
+    "word": "符号",
+    "reading": "ふごう",
+    "meaning": "부호",
+    "meaningDetail": "기호",
+    "category": "명사",
+    "examples": [
+      { "ja": "符号を入力する。", "ko": "부호를 입력하다." }
+    ]
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "신호",
+    "meaningDetail": "사인",
+    "category": "명사",
+    "examples": [
+      { "ja": "信号を送る。", "ko": "신호를 보내다." }
+    ]
+  },
+  {
+    "word": "合図",
+    "reading": "あいず",
+    "meaning": "신호",
+    "meaningDetail": "사인",
+    "category": "명사",
+    "examples": [
+      { "ja": "合図を出す。", "ko": "신호를 내다." }
+    ]
+  },
+  {
+    "word": "指標",
+    "reading": "しひょう",
+    "meaning": "지표",
+    "meaningDetail": "기준",
+    "category": "명사",
+    "examples": [
+      { "ja": "指標を設定する。", "ko": "지표를 설정하다." }
+    ]
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "meaningDetail": "목적",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を立てる。", "ko": "목표를 세우다." }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "meaningDetail": "의도",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的を達成する。", "ko": "목적을 달성하다." }
+    ]
+  },
+  {
+    "word": "目安",
+    "reading": "めやす",
+    "meaning": "기준",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "目安を決める。", "ko": "기준을 정하다." }
+    ]
+  },
+  {
+    "word": "目処",
+    "reading": "めど",
+    "meaning": "목표",
+    "meaningDetail": "전망",
+    "category": "명사",
+    "examples": [
+      { "ja": "目処が立つ。", "ko": "목표가 서다." }
+    ]
+  },
+  {
+    "word": "見込み",
+    "reading": "みこみ",
+    "meaning": "전망",
+    "meaningDetail": "예상",
+    "category": "명사",
+    "examples": [
+      { "ja": "見込みがある。", "ko": "전망이 있다." }
+    ]
+  },
+  {
+    "word": "見通し",
+    "reading": "みとおし",
+    "meaning": "전망",
+    "meaningDetail": "예측",
+    "category": "명사",
+    "examples": [
+      { "ja": "見通しが暗い。", "ko": "전망이 어둡다." }
+    ]
+  },
+  {
+    "word": "見積もり",
+    "reading": "みつもり",
+    "meaning": "견적",
+    "meaningDetail": "추산",
+    "category": "명사",
+    "examples": [
+      { "ja": "見積もりを出す。", "ko": "견적을 내다." }
+    ]
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "예산",
+    "meaningDetail": "경비",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を組む。", "ko": "예산을 짜다." }
+    ]
+  },
+  {
+    "word": "決算",
+    "reading": "けっさん",
+    "meaning": "결산",
+    "meaningDetail": "정산",
+    "category": "명사",
+    "examples": [
+      { "ja": "決算を行う。", "ko": "결산을 하다." }
+    ]
+  },
+  {
+    "word": "精算",
+    "reading": "せいさん",
+    "meaning": "정산",
+    "meaningDetail": "계산",
+    "category": "명사",
+    "examples": [
+      { "ja": "精算を済ませる。", "ko": "정산을 마치다." }
+    ]
+  },
+  {
+    "word": "清算",
+    "reading": "せいさん",
+    "meaning": "청산",
+    "meaningDetail": "마무리",
+    "category": "명사",
+    "examples": [
+      { "ja": "過去を清算する。", "ko": "과거를 청산하다." }
+    ]
+  },
+  {
+    "word": "支出",
+    "reading": "ししゅつ",
+    "meaning": "지출",
+    "meaningDetail": "씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "支出を抑える。", "ko": "지출을 줄이다." }
+    ]
+  },
+  {
+    "word": "収入",
+    "reading": "しゅうにゅう",
+    "meaning": "수입",
+    "meaningDetail": "소득",
+    "category": "명사",
+    "examples": [
+      { "ja": "収入が増える。", "ko": "수입이 늘다." }
+    ]
+  }
+]

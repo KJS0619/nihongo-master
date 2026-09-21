@@ -1,0 +1,482 @@
+[
+  {
+    "word": "購入",
+    "reading": "こうにゅう",
+    "meaning": "구입",
+    "meaningDetail": "구매",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を購入する。", "ko": "상품을 구입하다." }
+    ]
+  },
+  {
+    "word": "購買",
+    "reading": "こうばい",
+    "meaning": "구매",
+    "meaningDetail": "구입",
+    "category": "명사",
+    "examples": [
+      { "ja": "購買力が高い。", "ko": "구매력이 높다." }
+    ]
+  },
+  {
+    "word": "販売",
+    "reading": "はんばい",
+    "meaning": "판매",
+    "meaningDetail": "영업",
+    "category": "명사",
+    "examples": [
+      { "ja": "新製品を販売する。", "ko": "신제품을 판매하다." }
+    ]
+  },
+  {
+    "word": "売却",
+    "reading": "ばいきゃく",
+    "meaning": "매각",
+    "meaningDetail": "판매",
+    "category": "명사",
+    "examples": [
+      { "ja": "土地を売却する。", "ko": "토지를 매각하다." }
+    ]
+  },
+  {
+    "word": "売上",
+    "reading": "うりあげ",
+    "meaning": "매출",
+    "meaningDetail": "판매액",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上を伸ばす。", "ko": "매출을 올리다." }
+    ]
+  },
+  {
+    "word": "収益",
+    "reading": "しゅうえき",
+    "meaning": "수익",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "収益を上げる。", "ko": "수익을 올리다." }
+    ]
+  },
+  {
+    "word": "利益",
+    "reading": "りえき",
+    "meaning": "이익",
+    "meaningDetail": "수익",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益を追求する。", "ko": "이익을 추구하다." }
+    ]
+  },
+  {
+    "word": "利潤",
+    "reading": "りじゅん",
+    "meaning": "이윤",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "利潤を確保する。", "ko": "이윤을 확보하다." }
+    ]
+  },
+  {
+    "word": "損失",
+    "reading": "そんしつ",
+    "meaning": "손실",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "損失を被る。", "ko": "손실을 입다." }
+    ]
+  },
+  {
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "손해",
+    "meaningDetail": "손실",
+    "category": "명사",
+    "examples": [
+      { "ja": "損害を受ける。", "ko": "손해를 입다." }
+    ]
+  },
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "被害を受ける。", "ko": "피해를 입다." }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "재해",
+    "meaningDetail": "재난",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비하다." }
+    ]
+  },
+  {
+    "word": "天災",
+    "reading": "てんさい",
+    "meaning": "천재",
+    "meaningDetail": "자연재해",
+    "category": "명사",
+    "examples": [
+      { "ja": "天災が起こる。", "ko": "천재가 일어나다." }
+    ]
+  },
+  {
+    "word": "人災",
+    "reading": "じんさい",
+    "meaning": "인재",
+    "meaningDetail": "인위적 재해",
+    "category": "명사",
+    "examples": [
+      { "ja": "人災を防ぐ。", "ko": "인재를 방지하다." }
+    ]
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "meaningDetail": "재난",
+    "category": "명사",
+    "examples": [
+      { "ja": "事故を起こす。", "ko": "사고를 내다." }
+    ]
+  },
+  {
+    "word": "事件",
+    "reading": "じけん",
+    "meaning": "사건",
+    "meaningDetail": "사고",
+    "category": "명사",
+    "examples": [
+      { "ja": "事件を解決する。", "ko": "사건을 해결하다." }
+    ]
+  },
+  {
+    "word": "事態",
+    "reading": "じたい",
+    "meaning": "사태",
+    "meaningDetail": "상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "事態が悪化する。", "ko": "사태가 악화되다." }
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "meaningDetail": "정세",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악하다." }
+    ]
+  },
+  {
+    "word": "現状",
+    "reading": "げんじょう",
+    "meaning": "현상",
+    "meaningDetail": "현재 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "現状を維持する。", "ko": "현상을 유지하다." }
+    ]
+  },
+  {
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "현상",
+    "meaningDetail": "현상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "現象を分析する。", "ko": "현상을 분석하다." }
+    ]
+  },
+  {
+    "word": "事象",
+    "reading": "じしょう",
+    "meaning": "사상",
+    "meaningDetail": "현상",
+    "category": "명사",
+    "examples": [
+      { "ja": "事象を観察する。", "ko": "사상을 관찰하다." }
+    ]
+  },
+  {
+    "word": "兆候",
+    "reading": "ちょうこう",
+    "meaning": "조후",
+    "meaningDetail": "징조",
+    "category": "명사",
+    "examples": [
+      { "ja": "回復の兆候が見える。", "ko": "회복의 조후가 보이다." }
+    ]
+  },
+  {
+    "word": "徴候",
+    "reading": "ちょうこう",
+    "meaning": "징후",
+    "meaningDetail": "조짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気の徴候がある。", "ko": "병의 징후가 있다." }
+    ]
+  },
+  {
+    "word": "兆し",
+    "reading": "きざし",
+    "meaning": "조짐",
+    "meaningDetail": "기미",
+    "category": "명사",
+    "examples": [
+      { "ja": "春の兆しが見える。", "ko": "봄의 조짐이 보이다." }
+    ]
+  },
+  {
+    "word": "予兆",
+    "reading": "よちょう",
+    "meaning": "예조",
+    "meaningDetail": "조짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "地震の予兆がある。", "ko": "지진의 예조가 있다." }
+    ]
+  },
+  {
+    "word": "前兆",
+    "reading": "ぜんちょう",
+    "meaning": "전조",
+    "meaningDetail": "조짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害の前兆を感じる。", "ko": "재해의 전조를 느끼다." }
+    ]
+  },
+  {
+    "word": "警告",
+    "reading": "けいこく",
+    "meaning": "경고",
+    "meaningDetail": "주의",
+    "category": "명사",
+    "examples": [
+      { "ja": "警告を発する。", "ko": "경고를 발하다." }
+    ]
+  },
+  {
+    "word": "警報",
+    "reading": "けいほう",
+    "meaning": "경보",
+    "meaningDetail": "알람",
+    "category": "명사",
+    "examples": [
+      { "ja": "警報が鳴る。", "ko": "경보가 울리다." }
+    ]
+  },
+  {
+    "word": "注意報",
+    "reading": "ちゅういほう",
+    "meaning": "주의보",
+    "meaningDetail": "경고",
+    "category": "명사",
+    "examples": [
+      { "ja": "注意報が出る。", "ko": "주의보가 나오다." }
+    ]
+  },
+  {
+    "word": "速報",
+    "reading": "そくほう",
+    "meaning": "속보",
+    "meaningDetail": "빠른 보도",
+    "category": "명사",
+    "examples": [
+      { "ja": "ニュース速報が流れる。", "ko": "뉴스 속보가 흐르다." }
+    ]
+  },
+  {
+    "word": "報道",
+    "reading": "ほうどう",
+    "meaning": "보도",
+    "meaningDetail": "뉴스",
+    "category": "명사",
+    "examples": [
+      { "ja": "報道を見る。", "ko": "보도를 보다." }
+    ]
+  },
+  {
+    "word": "報告",
+    "reading": "ほうこく",
+    "meaning": "보고",
+    "meaningDetail": "리포트",
+    "category": "명사",
+    "examples": [
+      { "ja": "報告を行う。", "ko": "보고를 하다." }
+    ]
+  },
+  {
+    "word": "連絡",
+    "reading": "れんらく",
+    "meaning": "연락",
+    "meaningDetail": "통지",
+    "category": "명사",
+    "examples": [
+      { "ja": "連絡を取る。", "ko": "연락을 취하다." }
+    ]
+  },
+  {
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "통지",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "通知を受ける。", "ko": "통지를 받다." }
+    ]
+  },
+  {
+    "word": "通報",
+    "reading": "つうほう",
+    "meaning": "통보",
+    "meaningDetail": "신고",
+    "category": "명사",
+    "examples": [
+      { "ja": "警察に通報する。", "ko": "경찰에 통보하다." }
+    ]
+  },
+  {
+    "word": "通達",
+    "reading": "つうたつ",
+    "meaning": "통달",
+    "meaningDetail": "통지",
+    "category": "명사",
+    "examples": [
+      { "ja": "通達を出す。", "ko": "통달을 내다." }
+    ]
+  },
+  {
+    "word": "伝達",
+    "reading": "でんたつ",
+    "meaning": "전달",
+    "meaningDetail": "전송",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を伝達する。", "ko": "정보를 전달하다." }
+    ]
+  },
+  {
+    "word": "伝言",
+    "reading": "でんごん",
+    "meaning": "전언",
+    "meaningDetail": "메시지",
+    "category": "명사",
+    "examples": [
+      { "ja": "伝言を残す。", "ko": "전언을 남기다." }
+    ]
+  },
+  {
+    "word": "メッセージ",
+    "reading": "めっせーじ",
+    "meaning": "메시지",
+    "meaningDetail": "전언",
+    "category": "명사",
+    "examples": [
+      { "ja": "メッセージを送る。", "ko": "메시지를 보내다." }
+    ]
+  },
+  {
+    "word": "内容",
+    "reading": "ないよう",
+    "meaning": "내용",
+    "meaningDetail": "콘텐츠",
+    "category": "명사",
+    "examples": [
+      { "ja": "内容を確認する。", "ko": "내용을 확인하다." }
+    ]
+  },
+  {
+    "word": "概要",
+    "reading": "がいよう",
+    "meaning": "개요",
+    "meaningDetail": "요약",
+    "category": "명사",
+    "examples": [
+      { "ja": "概要を説明する。", "ko": "개요를 설명하다." }
+    ]
+  },
+  {
+    "word": "要旨",
+    "reading": "ようし",
+    "meaning": "요지",
+    "meaningDetail": "요점",
+    "category": "명사",
+    "examples": [
+      { "ja": "要旨をまとめる。", "ko": "요지를 정리하다." }
+    ]
+  },
+  {
+    "word": "要点",
+    "reading": "ようてん",
+    "meaning": "요점",
+    "meaningDetail": "포인트",
+    "category": "명사",
+    "examples": [
+      { "ja": "要点を押さえる。", "ko": "요점을 잡다." }
+    ]
+  },
+  {
+    "word": "ポイント",
+    "reading": "ぽいんと",
+    "meaning": "포인트",
+    "meaningDetail": "요점",
+    "category": "명사",
+    "examples": [
+      { "ja": "ポイントを説明する。", "ko": "포인트를 설명하다." }
+    ]
+  },
+  {
+    "word": "焦点",
+    "reading": "しょうてん",
+    "meaning": "초점",
+    "meaningDetail": "포커스",
+    "category": "명사",
+    "examples": [
+      { "ja": "焦点を当てる。", "ko": "초점을 맞추다." }
+    ]
+  },
+  {
+    "word": "視点",
+    "reading": "してん",
+    "meaning": "시점",
+    "meaningDetail": "관점",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい視点で見る。", "ko": "새로운 시점에서 보다." }
+    ]
+  },
+  {
+    "word": "観点",
+    "reading": "かんてん",
+    "meaning": "관점",
+    "meaningDetail": "시각",
+    "category": "명사",
+    "examples": [
+      { "ja": "別の観点から考える。", "ko": "다른 관점에서 생각하다." }
+    ]
+  },
+  {
+    "word": "論点",
+    "reading": "ろんてん",
+    "meaning": "논점",
+    "meaningDetail": "쟁점",
+    "category": "명사",
+    "examples": [
+      { "ja": "論点を整理する。", "ko": "논점을 정리하다." }
+    ]
+  }
+]

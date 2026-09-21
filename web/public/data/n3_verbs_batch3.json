@@ -1,0 +1,590 @@
+[
+  {
+    "word": "握る",
+    "reading": "にぎる",
+    "meaning": "쥐다, 잡다",
+    "meaningDetail": "손으로 꽉 잡다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "手を握る。", "ko": "손을 잡다."},
+      {"ja": "おにぎりを握る。", "ko": "주먹밥을 쥐다(만들다)."}
+    ]
+  },
+  {
+    "word": "逃げる",
+    "reading": "にげる",
+    "meaning": "도망치다, 피하다",
+    "meaningDetail": "위험이나 책임에서 벗어나다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "敵から逃げる。", "ko": "적으로부터 도망치다."},
+      {"ja": "現実から逃げる。", "ko": "현실로부터 도피하다."}
+    ]
+  },
+  {
+    "word": "濡れる",
+    "reading": "ぬれる",
+    "meaning": "젖다",
+    "meaningDetail": "물에 의해 축축해지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "雨で濡れた。", "ko": "비에 젖었다."},
+      {"ja": "服が濡れている。", "ko": "옷이 젖어 있다."}
+    ]
+  },
+  {
+    "word": "塗る",
+    "reading": "ぬる",
+    "meaning": "바르다, 칠하다",
+    "meaningDetail": "표면에 덮어 씌우다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "壁にペンキを塗る。", "ko": "벽에 페인트를 칠하다."},
+      {"ja": "パンにバターを塗る。", "ko": "빵에 버터를 바르다."}
+    ]
+  },
+  {
+    "word": "盗む",
+    "reading": "ぬすむ",
+    "meaning": "훔치다",
+    "meaningDetail": "남의 것을 몰래 가져가다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "財布を盗まれた。", "ko": "지갑을 도둑맞았다."},
+      {"ja": "人の心を盗む。", "ko": "사람의 마음을 훔치다."}
+    ]
+  },
+  {
+    "word": "願う",
+    "reading": "ねがう",
+    "meaning": "바라다, 기원하다",
+    "meaningDetail": "간절히 원하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "幸せを願う。", "ko": "행복을 바라다."},
+      {"ja": "成功を願っています。", "ko": "성공을 기원합니다."}
+    ]
+  },
+  {
+    "word": "狙う",
+    "reading": "ねらう",
+    "meaning": "노리다, 겨냥하다",
+    "meaningDetail": "목표로 삼다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "優勝を狙う。", "ko": "우승을 노리다."},
+      {"ja": "的を狙う。", "ko": "과녁을 겨냥하다."}
+    ]
+  },
+  {
+    "word": "残す",
+    "reading": "のこす",
+    "meaning": "남기다",
+    "meaningDetail": "없어지지 않게 두다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "記録を残す。", "ko": "기록을 남기다."},
+      {"ja": "ご飯を残す。", "ko": "밥을 남기다."}
+    ]
+  },
+  {
+    "word": "残る",
+    "reading": "のこる",
+    "meaning": "남다",
+    "meaningDetail": "없어지지 않고 있다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "記憶に残る。", "ko": "기억에 남다."},
+      {"ja": "時間が残っている。", "ko": "시간이 남아 있다."}
+    ]
+  },
+  {
+    "word": "延びる",
+    "reading": "のびる",
+    "meaning": "늘어나다, 연장되다",
+    "meaningDetail": "길이나 기간이 길어지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "髪が延びた。", "ko": "머리카락이 길어졌다."},
+      {"ja": "期限が延びた。", "ko": "기한이 연장됐다."}
+    ]
+  },
+  {
+    "word": "伸ばす",
+    "reading": "のばす",
+    "meaning": "늘리다, 펴다",
+    "meaningDetail": "길게 하거나 능력을 향상시키다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "腕を伸ばす。", "ko": "팔을 펴다."},
+      {"ja": "実力を伸ばす。", "ko": "실력을 늘리다."}
+    ]
+  },
+  {
+    "word": "述べる",
+    "reading": "のべる",
+    "meaning": "말하다, 진술하다",
+    "meaningDetail": "의견이나 생각을 표현하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "意見を述べる。", "ko": "의견을 말하다."},
+      {"ja": "感想を述べる。", "ko": "감상을 말하다."}
+    ]
+  },
+  {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "meaning": "갈아타다",
+    "meaningDetail": "다른 교통수단으로 바꾸다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "電車を乗り換える。", "ko": "전철을 갈아타다."},
+      {"ja": "次の駅で乗り換えてください。", "ko": "다음 역에서 갈아타세요."}
+    ]
+  },
+  {
+    "word": "測る",
+    "reading": "はかる",
+    "meaning": "측정하다, 재다",
+    "meaningDetail": "수치를 알아내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "体温を測る。", "ko": "체온을 재다."},
+      {"ja": "距離を測る。", "ko": "거리를 측정하다."}
+    ]
+  },
+  {
+    "word": "図る",
+    "reading": "はかる",
+    "meaning": "꾀하다, 도모하다",
+    "meaningDetail": "계획하여 실행하려 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "利益を図る。", "ko": "이익을 도모하다."},
+      {"ja": "解決を図る。", "ko": "해결을 꾀하다."}
+    ]
+  },
+  {
+    "word": "励む",
+    "reading": "はげむ",
+    "meaning": "힘쓰다, 노력하다",
+    "meaningDetail": "열심히 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "勉強に励む。", "ko": "공부에 힘쓰다."},
+      {"ja": "仕事に励む。", "ko": "일에 노력하다."}
+    ]
+  },
+  {
+    "word": "挟む",
+    "reading": "はさむ",
+    "meaning": "끼우다, 사이에 넣다",
+    "meaningDetail": "두 것 사이에 넣다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "本にしおりを挟む。", "ko": "책에 책갈피를 끼우다."},
+      {"ja": "休憩を挟む。", "ko": "휴식을 넣다."}
+    ]
+  },
+  {
+    "word": "外す",
+    "reading": "はずす",
+    "meaning": "벗기다, 떼다",
+    "meaningDetail": "붙어있는 것을 떼다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "眼鏡を外す。", "ko": "안경을 벗다."},
+      {"ja": "席を外す。", "ko": "자리를 비우다."}
+    ]
+  },
+  {
+    "word": "果たす",
+    "reading": "はたす",
+    "meaning": "이루다, 완수하다",
+    "meaningDetail": "책임이나 목표를 달성하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "約束を果たす。", "ko": "약속을 이행하다."},
+      {"ja": "役割を果たす。", "ko": "역할을 다하다."}
+    ]
+  },
+  {
+    "word": "発揮する",
+    "reading": "はっきする",
+    "meaning": "발휘하다",
+    "meaningDetail": "능력을 충분히 나타내다",
+    "category": "동사",
+    "verbType": "suru",
+    "examples": [
+      {"ja": "実力を発揮する。", "ko": "실력을 발휘하다."},
+      {"ja": "リーダーシップを発揮する。", "ko": "리더십을 발휘하다."}
+    ]
+  },
+  {
+    "word": "放す",
+    "reading": "はなす",
+    "meaning": "놓아주다, 풀어주다",
+    "meaningDetail": "잡고 있던 것을 놓다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "手を放す。", "ko": "손을 놓다."},
+      {"ja": "鳥を放す。", "ko": "새를 놓아주다."}
+    ]
+  },
+  {
+    "word": "払う",
+    "reading": "はらう",
+    "meaning": "지불하다, 털다",
+    "meaningDetail": "돈을 내거나 먼지를 털다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "お金を払う。", "ko": "돈을 지불하다."},
+      {"ja": "埃を払う。", "ko": "먼지를 털다."}
+    ]
+  },
+  {
+    "word": "貼る",
+    "reading": "はる",
+    "meaning": "붙이다",
+    "meaningDetail": "표면에 부착하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ポスターを貼る。", "ko": "포스터를 붙이다."},
+      {"ja": "切手を貼る。", "ko": "우표를 붙이다."}
+    ]
+  },
+  {
+    "word": "反応する",
+    "reading": "はんのうする",
+    "meaning": "반응하다",
+    "meaningDetail": "자극에 대해 응하다",
+    "category": "동사",
+    "verbType": "suru",
+    "examples": [
+      {"ja": "薬に反応する。", "ko": "약에 반응하다."},
+      {"ja": "すぐに反応する。", "ko": "바로 반응하다."}
+    ]
+  },
+  {
+    "word": "引っ越す",
+    "reading": "ひっこす",
+    "meaning": "이사하다",
+    "meaningDetail": "사는 곳을 옮기다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "来月引っ越す。", "ko": "다음 달 이사한다."},
+      {"ja": "東京に引っ越した。", "ko": "도쿄로 이사했다."}
+    ]
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "당기다, 끌다",
+    "meaningDetail": "자기 쪽으로 잡아당기다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ドアを引く。", "ko": "문을 당기다."},
+      {"ja": "注目を引く。", "ko": "주목을 끌다."}
+    ]
+  },
+  {
+    "word": "響く",
+    "reading": "ひびく",
+    "meaning": "울리다, 영향을 주다",
+    "meaningDetail": "소리가 퍼지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "声が響く。", "ko": "목소리가 울리다."},
+      {"ja": "心に響く。", "ko": "마음에 와닿다."}
+    ]
+  },
+  {
+    "word": "広がる",
+    "reading": "ひろがる",
+    "meaning": "퍼지다, 넓어지다",
+    "meaningDetail": "범위가 커지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "噂が広がる。", "ko": "소문이 퍼지다."},
+      {"ja": "視野が広がる。", "ko": "시야가 넓어지다."}
+    ]
+  },
+  {
+    "word": "広げる",
+    "reading": "ひろげる",
+    "meaning": "펼치다, 넓히다",
+    "meaningDetail": "범위를 크게 하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "地図を広げる。", "ko": "지도를 펼치다."},
+      {"ja": "事業を広げる。", "ko": "사업을 넓히다."}
+    ]
+  },
+  {
+    "word": "拾う",
+    "reading": "ひろう",
+    "meaning": "줍다",
+    "meaningDetail": "바닥에 있는 것을 집다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ゴミを拾う。", "ko": "쓰레기를 줍다."},
+      {"ja": "財布を拾った。", "ko": "지갑을 주웠다."}
+    ]
+  },
+  {
+    "word": "増える",
+    "reading": "ふえる",
+    "meaning": "늘다, 증가하다",
+    "meaningDetail": "수나 양이 많아지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "人口が増える。", "ko": "인구가 늘다."},
+      {"ja": "体重が増えた。", "ko": "체중이 늘었다."}
+    ]
+  },
+  {
+    "word": "増やす",
+    "reading": "ふやす",
+    "meaning": "늘리다, 증가시키다",
+    "meaningDetail": "수나 양을 많게 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "収入を増やす。", "ko": "수입을 늘리다."},
+      {"ja": "友達を増やす。", "ko": "친구를 늘리다."}
+    ]
+  },
+  {
+    "word": "振る",
+    "reading": "ふる",
+    "meaning": "흔들다",
+    "meaningDetail": "좌우로 움직이다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "手を振る。", "ko": "손을 흔들다."},
+      {"ja": "頭を振る。", "ko": "고개를 젓다."}
+    ]
+  },
+  {
+    "word": "触れる",
+    "reading": "ふれる",
+    "meaning": "닿다, 접촉하다",
+    "meaningDetail": "가볍게 대다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "手が触れる。", "ko": "손이 닿다."},
+      {"ja": "話題に触れる。", "ko": "화제에 언급하다."}
+    ]
+  },
+  {
+    "word": "減らす",
+    "reading": "へらす",
+    "meaning": "줄이다",
+    "meaningDetail": "수나 양을 적게 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "費用を減らす。", "ko": "비용을 줄이다."},
+      {"ja": "体重を減らす。", "ko": "체중을 줄이다."}
+    ]
+  },
+  {
+    "word": "減る",
+    "reading": "へる",
+    "meaning": "줄다",
+    "meaningDetail": "수나 양이 적어지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "人数が減る。", "ko": "인원이 줄다."},
+      {"ja": "お腹が減った。", "ko": "배가 고프다."}
+    ]
+  },
+  {
+    "word": "干す",
+    "reading": "ほす",
+    "meaning": "말리다",
+    "meaningDetail": "햇볕이나 바람에 건조시키다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "洗濯物を干す。", "ko": "빨래를 널다."},
+      {"ja": "布団を干す。", "ko": "이불을 말리다."}
+    ]
+  },
+  {
+    "word": "褒める",
+    "reading": "ほめる",
+    "meaning": "칭찬하다",
+    "meaningDetail": "좋은 점을 말하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "子供を褒める。", "ko": "아이를 칭찬하다."},
+      {"ja": "努力を褒める。", "ko": "노력을 칭찬하다."}
+    ]
+  },
+  {
+    "word": "掘る",
+    "reading": "ほる",
+    "meaning": "파다",
+    "meaningDetail": "땅을 파내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "穴を掘る。", "ko": "구멍을 파다."},
+      {"ja": "井戸を掘る。", "ko": "우물을 파다."}
+    ]
+  },
+  {
+    "word": "巻く",
+    "reading": "まく",
+    "meaning": "감다, 말다",
+    "meaningDetail": "빙글빙글 두르다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "包帯を巻く。", "ko": "붕대를 감다."},
+      {"ja": "マフラーを巻く。", "ko": "머플러를 두르다."}
+    ]
+  },
+  {
+    "word": "混ぜる",
+    "reading": "まぜる",
+    "meaning": "섞다",
+    "meaningDetail": "여러 가지를 합치다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "卵を混ぜる。", "ko": "달걀을 섞다."},
+      {"ja": "色を混ぜる。", "ko": "색을 섞다."}
+    ]
+  },
+  {
+    "word": "学ぶ",
+    "reading": "まなぶ",
+    "meaning": "배우다",
+    "meaningDetail": "지식이나 기술을 습득하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "日本語を学ぶ。", "ko": "일본어를 배우다."},
+      {"ja": "経験から学ぶ。", "ko": "경험에서 배우다."}
+    ]
+  },
+  {
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "지키다",
+    "meaningDetail": "보호하거나 규칙을 따르다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "約束を守る。", "ko": "약속을 지키다."},
+      {"ja": "家族を守る。", "ko": "가족을 지키다."}
+    ]
+  },
+  {
+    "word": "迷う",
+    "reading": "まよう",
+    "meaning": "헤매다, 망설이다",
+    "meaningDetail": "길을 잃거나 결정하지 못하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "道に迷う。", "ko": "길을 헤매다."},
+      {"ja": "選択に迷う。", "ko": "선택에 망설이다."}
+    ]
+  },
+  {
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "닦다, 갈다",
+    "meaningDetail": "문질러서 깨끗하게 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "歯を磨く。", "ko": "이를 닦다."},
+      {"ja": "技術を磨く。", "ko": "기술을 갈고 닦다."}
+    ]
+  },
+  {
+    "word": "認める",
+    "reading": "みとめる",
+    "meaning": "인정하다, 허가하다",
+    "meaningDetail": "사실로 받아들이다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "間違いを認める。", "ko": "잘못을 인정하다."},
+      {"ja": "実力を認める。", "ko": "실력을 인정하다."}
+    ]
+  },
+  {
+    "word": "向かう",
+    "reading": "むかう",
+    "meaning": "향하다",
+    "meaningDetail": "어떤 방향으로 가다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "空港に向かう。", "ko": "공항으로 향하다."},
+      {"ja": "目標に向かう。", "ko": "목표를 향하다."}
+    ]
+  },
+  {
+    "word": "向ける",
+    "reading": "むける",
+    "meaning": "향하게 하다",
+    "meaningDetail": "방향을 돌리다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "顔を向ける。", "ko": "얼굴을 돌리다."},
+      {"ja": "関心を向ける。", "ko": "관심을 기울이다."}
+    ]
+  },
+  {
+    "word": "迎える",
+    "reading": "むかえる",
+    "meaning": "맞이하다",
+    "meaningDetail": "사람이나 때를 맞다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "客を迎える。", "ko": "손님을 맞이하다."},
+      {"ja": "新年を迎える。", "ko": "새해를 맞이하다."}
+    ]
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "word": "繁栄する",
+    "reading": "はんえいする",
+    "meaning": "번영하다",
+    "meaningDetail": "융성하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "国が繁栄する。", "ko": "나라가 번영하다." }
+    ]
+  },
+  {
+    "word": "繁盛する",
+    "reading": "はんじょうする",
+    "meaning": "번창하다",
+    "meaningDetail": "성황하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "店が繁盛する。", "ko": "가게가 번창하다." }
+    ]
+  },
+  {
+    "word": "栄える",
+    "reading": "さかえる",
+    "meaning": "번영하다",
+    "meaningDetail": "융성하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "町が栄える。", "ko": "마을이 번영하다." }
+    ]
+  },
+  {
+    "word": "崩壊する",
+    "reading": "ほうかいする",
+    "meaning": "붕괴하다",
+    "meaningDetail": "무너지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "政権が崩壊する。", "ko": "정권이 붕괴하다." }
+    ]
+  },
+  {
+    "word": "崩れる",
+    "reading": "くずれる",
+    "meaning": "무너지다",
+    "meaningDetail": "붕괴하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山が崩れる。", "ko": "산이 무너지다." }
+    ]
+  },
+  {
+    "word": "倒れる",
+    "reading": "たおれる",
+    "meaning": "쓰러지다",
+    "meaningDetail": "넘어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "木が倒れる。", "ko": "나무가 쓰러지다." }
+    ]
+  },
+  {
+    "word": "倒す",
+    "reading": "たおす",
+    "meaning": "쓰러뜨리다",
+    "meaningDetail": "넘어뜨리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵を倒す。", "ko": "적을 쓰러뜨리다." }
+    ]
+  },
+  {
+    "word": "倒産する",
+    "reading": "とうさんする",
+    "meaning": "도산하다",
+    "meaningDetail": "파산하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "企業が倒産する。", "ko": "기업이 도산하다." }
+    ]
+  },
+  {
+    "word": "破産する",
+    "reading": "はさんする",
+    "meaning": "파산하다",
+    "meaningDetail": "도산하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "自己破産する。", "ko": "자기 파산하다." }
+    ]
+  },
+  {
+    "word": "復興する",
+    "reading": "ふっこうする",
+    "meaning": "부흥하다",
+    "meaningDetail": "재건하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "地域が復興する。", "ko": "지역이 부흥하다." }
+    ]
+  },
+  {
+    "word": "再建する",
+    "reading": "さいけんする",
+    "meaning": "재건하다",
+    "meaningDetail": "복구하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社を再建する。", "ko": "회사를 재건하다." }
+    ]
+  },
+  {
+    "word": "復旧する",
+    "reading": "ふっきゅうする",
+    "meaning": "복구하다",
+    "meaningDetail": "회복하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "システムを復旧する。", "ko": "시스템을 복구하다." }
+    ]
+  },
+  {
+    "word": "復活する",
+    "reading": "ふっかつする",
+    "meaning": "부활하다",
+    "meaningDetail": "소생하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人気が復活する。", "ko": "인기가 부활하다." }
+    ]
+  },
+  {
+    "word": "回復する",
+    "reading": "かいふくする",
+    "meaning": "회복하다",
+    "meaningDetail": "복구하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "健康が回復する。", "ko": "건강이 회복하다." }
+    ]
+  },
+  {
+    "word": "蘇る",
+    "reading": "よみがえる",
+    "meaning": "되살아나다",
+    "meaningDetail": "부활하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "記憶が蘇る。", "ko": "기억이 되살아나다." }
+    ]
+  },
+  {
+    "word": "治る",
+    "reading": "なおる",
+    "meaning": "낫다",
+    "meaningDetail": "치유되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気が治る。", "ko": "병이 낫다." }
+    ]
+  },
+  {
+    "word": "治す",
+    "reading": "なおす",
+    "meaning": "고치다",
+    "meaningDetail": "치료하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "風邪を治す。", "ko": "감기를 고치다." }
+    ]
+  },
+  {
+    "word": "治療する",
+    "reading": "ちりょうする",
+    "meaning": "치료하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患者を治療する。", "ko": "환자를 치료하다." }
+    ]
+  },
+  {
+    "word": "診断する",
+    "reading": "しんだんする",
+    "meaning": "진단하다",
+    "meaningDetail": "검사하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気を診断する。", "ko": "병을 진단하다." }
+    ]
+  },
+  {
+    "word": "診察する",
+    "reading": "しんさつする",
+    "meaning": "진찰하다",
+    "meaningDetail": "검진하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患者を診察する。", "ko": "환자를 진찰하다." }
+    ]
+  },
+  {
+    "word": "検査する",
+    "reading": "けんさする",
+    "meaning": "검사하다",
+    "meaningDetail": "조사하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "血液を検査する。", "ko": "혈액을 검사하다." }
+    ]
+  },
+  {
+    "word": "手術する",
+    "reading": "しゅじゅつする",
+    "meaning": "수술하다",
+    "meaningDetail": "시술하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "胃を手術する。", "ko": "위를 수술하다." }
+    ]
+  },
+  {
+    "word": "注射する",
+    "reading": "ちゅうしゃする",
+    "meaning": "주사하다",
+    "meaningDetail": "투약하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ワクチンを注射する。", "ko": "백신을 주사하다." }
+    ]
+  },
+  {
+    "word": "処方する",
+    "reading": "しょほうする",
+    "meaning": "처방하다",
+    "meaningDetail": "약을 주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "薬を処方する。", "ko": "약을 처방하다." }
+    ]
+  },
+  {
+    "word": "服用する",
+    "reading": "ふくようする",
+    "meaning": "복용하다",
+    "meaningDetail": "약을 먹다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "薬を服用する。", "ko": "약을 복용하다." }
+    ]
+  },
+  {
+    "word": "入院する",
+    "reading": "にゅういんする",
+    "meaning": "입원하다",
+    "meaningDetail": "병원에 들어가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病院に入院する。", "ko": "병원에 입원하다." }
+    ]
+  },
+  {
+    "word": "退院する",
+    "reading": "たいいんする",
+    "meaning": "퇴원하다",
+    "meaningDetail": "병원에서 나오다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "無事に退院する。", "ko": "무사히 퇴원하다." }
+    ]
+  },
+  {
+    "word": "看病する",
+    "reading": "かんびょうする",
+    "meaning": "간병하다",
+    "meaningDetail": "간호하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病人を看病する。", "ko": "환자를 간병하다." }
+    ]
+  },
+  {
+    "word": "介護する",
+    "reading": "かいごする",
+    "meaning": "간호하다",
+    "meaningDetail": "돌보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "高齢者を介護する。", "ko": "고령자를 간호하다." }
+    ]
+  },
+  {
+    "word": "世話する",
+    "reading": "せわする",
+    "meaning": "돌보다",
+    "meaningDetail": "보살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "子供の世話をする。", "ko": "아이를 돌보다." }
+    ]
+  },
+  {
+    "word": "援助する",
+    "reading": "えんじょする",
+    "meaning": "원조하다",
+    "meaningDetail": "돕다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "発展途上国を援助する。", "ko": "개발도상국을 원조하다." }
+    ]
+  },
+  {
+    "word": "支援する",
+    "reading": "しえんする",
+    "meaning": "지원하다",
+    "meaningDetail": "돕다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "被災者を支援する。", "ko": "피해자를 지원하다." }
+    ]
+  },
+  {
+    "word": "応援する",
+    "reading": "おうえんする",
+    "meaning": "응원하다",
+    "meaningDetail": "지지하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "チームを応援する。", "ko": "팀을 응원하다." }
+    ]
+  },
+  {
+    "word": "救う",
+    "reading": "すくう",
+    "meaning": "구하다",
+    "meaningDetail": "구원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "命を救う。", "ko": "목숨을 구하다." }
+    ]
+  },
+  {
+    "word": "救助する",
+    "reading": "きゅうじょする",
+    "meaning": "구조하다",
+    "meaningDetail": "구출하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "遭難者を救助する。", "ko": "조난자를 구조하다." }
+    ]
+  },
+  {
+    "word": "救出する",
+    "reading": "きゅうしゅつする",
+    "meaning": "구출하다",
+    "meaningDetail": "구조하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人質を救出する。", "ko": "인질을 구출하다." }
+    ]
+  },
+  {
+    "word": "救済する",
+    "reading": "きゅうさいする",
+    "meaning": "구제하다",
+    "meaningDetail": "도움주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "貧困者を救済する。", "ko": "빈곤자를 구제하다." }
+    ]
+  },
+  {
+    "word": "寄付する",
+    "reading": "きふする",
+    "meaning": "기부하다",
+    "meaningDetail": "헌납하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "お金を寄付する。", "ko": "돈을 기부하다." }
+    ]
+  },
+  {
+    "word": "寄贈する",
+    "reading": "きぞうする",
+    "meaning": "기증하다",
+    "meaningDetail": "기부하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "本を図書館に寄贈する。", "ko": "책을 도서관에 기증하다." }
+    ]
+  },
+  {
+    "word": "奉仕する",
+    "reading": "ほうしする",
+    "meaning": "봉사하다",
+    "meaningDetail": "헌신하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "社会に奉仕する。", "ko": "사회에 봉사하다." }
+    ]
+  },
+  {
+    "word": "貢献する",
+    "reading": "こうけんする",
+    "meaning": "공헌하다",
+    "meaningDetail": "기여하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "社会に貢献する。", "ko": "사회에 공헌하다." }
+    ]
+  },
+  {
+    "word": "尽くす",
+    "reading": "つくす",
+    "meaning": "다하다",
+    "meaningDetail": "헌신하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "力を尽くす。", "ko": "힘을 다하다." }
+    ]
+  },
+  {
+    "word": "犠牲になる",
+    "reading": "ぎせいになる",
+    "meaning": "희생되다",
+    "meaningDetail": "희생당하다",
+    "category": "동사",
+    "verbType": "なる동사",
+    "examples": [
+      { "ja": "事故の犠牲になる。", "ko": "사고의 희생이 되다." }
+    ]
+  },
+  {
+    "word": "捧げる",
+    "reading": "ささげる",
+    "meaning": "바치다",
+    "meaningDetail": "헌신하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "人生を捧げる。", "ko": "인생을 바치다." }
+    ]
+  }
+]

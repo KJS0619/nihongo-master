@@ -1,0 +1,1624 @@
+{
+  "version": "1.0.0",
+  "totalCount": 60,
+  "words": [
+    {
+      "id": "adj001",
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaning": "새롭다",
+      "meaningDetail": "새로 만들어지거나 생긴 것",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "新しい車を買いました。", "reading": "あたらしいくるまをかいました。", "ko": "새 차를 샀습니다."},
+        {"ja": "この本は新しいです。", "reading": "このほんはあたらしいです。", "ko": "이 책은 새 것입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "新しいです", "reading": "あたらしいです"},
+        {"form": "과거형", "value": "新しかった", "reading": "あたらしかった"},
+        {"form": "부정형", "value": "新しくない", "reading": "あたらしくない"},
+        {"form": "て형", "value": "新しくて", "reading": "あたらしくて"},
+        {"form": "명사수식", "value": "新しい+명사", "reading": "あたらしい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "古い", "reading": "ふるい", "meaning": "오래되다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "新", "reading": "あたら(しい)", "meaning": "새 신"}],
+      "tags": ["기본형용사", "い형용사", "상태"],
+      "frequency": 30
+    },
+    {
+      "id": "adj002",
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "오래되다",
+      "meaningDetail": "오래 전에 만들어진 것",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この家は古いです。", "reading": "このいえはふるいです。", "ko": "이 집은 오래됐습니다."},
+        {"ja": "古い映画が好きです。", "reading": "ふるいえいががすきです。", "ko": "오래된 영화를 좋아합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "古いです", "reading": "ふるいです"},
+        {"form": "과거형", "value": "古かった", "reading": "ふるかった"},
+        {"form": "부정형", "value": "古くない", "reading": "ふるくない"},
+        {"form": "て형", "value": "古くて", "reading": "ふるくて"},
+        {"form": "명사수식", "value": "古い+명사", "reading": "ふるい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "新しい", "reading": "あたらしい", "meaning": "새롭다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "古", "reading": "ふる(い)", "meaning": "옛 고"}],
+      "tags": ["기본형용사", "い형용사", "상태"],
+      "frequency": 85
+    },
+    {
+      "id": "adj003",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "높다, 비싸다",
+      "meaningDetail": "높이가 높거나 가격이 비싼",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "あの山は高いです。", "reading": "あのやまはたかいです。", "ko": "저 산은 높습니다."},
+        {"ja": "この時計は高いです。", "reading": "このとけいはたかいです。", "ko": "이 시계는 비쌉니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "高いです", "reading": "たかいです"},
+        {"form": "과거형", "value": "高かった", "reading": "たかかった"},
+        {"form": "부정형", "value": "高くない", "reading": "たかくない"},
+        {"form": "て형", "value": "高くて", "reading": "たかくて"},
+        {"form": "명사수식", "value": "高い+명사", "reading": "たかい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "低い", "reading": "ひくい", "meaning": "낮다", "relation": "반의어"},
+        {"word": "安い", "reading": "やすい", "meaning": "싸다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "高", "reading": "たか(い)", "meaning": "높을 고"}],
+      "tags": ["기본형용사", "い형용사", "크기", "가격"],
+      "frequency": 25
+    },
+    {
+      "id": "adj004",
+      "word": "低い",
+      "reading": "ひくい",
+      "meaning": "낮다",
+      "meaningDetail": "높이가 낮은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この机は低いです。", "reading": "このつくえはひくいです。", "ko": "이 책상은 낮습니다."},
+        {"ja": "声が低いです。", "reading": "こえがひくいです。", "ko": "목소리가 낮습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "低いです", "reading": "ひくいです"},
+        {"form": "과거형", "value": "低かった", "reading": "ひくかった"},
+        {"form": "부정형", "value": "低くない", "reading": "ひくくない"},
+        {"form": "て형", "value": "低くて", "reading": "ひくくて"},
+        {"form": "명사수식", "value": "低い+명사", "reading": "ひくい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "高い", "reading": "たかい", "meaning": "높다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "低", "reading": "ひく(い)", "meaning": "낮을 저"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 120
+    },
+    {
+      "id": "adj005",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "싸다",
+      "meaningDetail": "가격이 싼",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この店は安いです。", "reading": "このみせはやすいです。", "ko": "이 가게는 쌉니다."},
+        {"ja": "安いのを買いました。", "reading": "やすいのをかいました。", "ko": "싼 걸 샀습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "安いです", "reading": "やすいです"},
+        {"form": "과거형", "value": "安かった", "reading": "やすかった"},
+        {"form": "부정형", "value": "安くない", "reading": "やすくない"},
+        {"form": "て형", "value": "安くて", "reading": "やすくて"},
+        {"form": "명사수식", "value": "安い+명사", "reading": "やすい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "高い", "reading": "たかい", "meaning": "비싸다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "安", "reading": "やす(い)", "meaning": "편안할 안"}],
+      "tags": ["기본형용사", "い형용사", "가격"],
+      "frequency": 45
+    },
+    {
+      "id": "adj006",
+      "word": "長い",
+      "reading": "ながい",
+      "meaning": "길다",
+      "meaningDetail": "길이가 긴",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "髪が長いです。", "reading": "かみがながいです。", "ko": "머리카락이 깁니다."},
+        {"ja": "長い時間待ちました。", "reading": "ながいじかんまちました。", "ko": "오랜 시간 기다렸습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "長いです", "reading": "ながいです"},
+        {"form": "과거형", "value": "長かった", "reading": "ながかった"},
+        {"form": "부정형", "value": "長くない", "reading": "ながくない"},
+        {"form": "て형", "value": "長くて", "reading": "ながくて"},
+        {"form": "명사수식", "value": "長い+명사", "reading": "ながい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "短い", "reading": "みじかい", "meaning": "짧다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "長", "reading": "なが(い)", "meaning": "길 장"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 50
+    },
+    {
+      "id": "adj007",
+      "word": "短い",
+      "reading": "みじかい",
+      "meaning": "짧다",
+      "meaningDetail": "길이가 짧은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "スカートが短いです。", "reading": "すかーとがみじかいです。", "ko": "치마가 짧습니다."},
+        {"ja": "時間が短いです。", "reading": "じかんがみじかいです。", "ko": "시간이 짧습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "短いです", "reading": "みじかいです"},
+        {"form": "과거형", "value": "短かった", "reading": "みじかかった"},
+        {"form": "부정형", "value": "短くない", "reading": "みじかくない"},
+        {"form": "て형", "value": "短くて", "reading": "みじかくて"},
+        {"form": "명사수식", "value": "短い+명사", "reading": "みじかい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "長い", "reading": "ながい", "meaning": "길다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "短", "reading": "みじか(い)", "meaning": "짧을 단"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 100
+    },
+    {
+      "id": "adj008",
+      "word": "広い",
+      "reading": "ひろい",
+      "meaning": "넓다",
+      "meaningDetail": "면적이 넓은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この部屋は広いです。", "reading": "このへやはひろいです。", "ko": "이 방은 넓습니다."},
+        {"ja": "広い公園があります。", "reading": "ひろいこうえんがあります。", "ko": "넓은 공원이 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "広いです", "reading": "ひろいです"},
+        {"form": "과거형", "value": "広かった", "reading": "ひろかった"},
+        {"form": "부정형", "value": "広くない", "reading": "ひろくない"},
+        {"form": "て형", "value": "広くて", "reading": "ひろくて"},
+        {"form": "명사수식", "value": "広い+명사", "reading": "ひろい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "狭い", "reading": "せまい", "meaning": "좁다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "広", "reading": "ひろ(い)", "meaning": "넓을 광"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 75
+    },
+    {
+      "id": "adj009",
+      "word": "狭い",
+      "reading": "せまい",
+      "meaning": "좁다",
+      "meaningDetail": "면적이 좁은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この道は狭いです。", "reading": "このみちはせまいです。", "ko": "이 길은 좁습니다."},
+        {"ja": "部屋が狭いです。", "reading": "へやがせまいです。", "ko": "방이 좁습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "狭いです", "reading": "せまいです"},
+        {"form": "과거형", "value": "狭かった", "reading": "せまかった"},
+        {"form": "부정형", "value": "狭くない", "reading": "せまくない"},
+        {"form": "て형", "value": "狭くて", "reading": "せまくて"},
+        {"form": "명사수식", "value": "狭い+명사", "reading": "せまい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "広い", "reading": "ひろい", "meaning": "넓다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "狭", "reading": "せま(い)", "meaning": "좁을 협"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 130
+    },
+    {
+      "id": "adj010",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "작다",
+      "meaningDetail": "크기가 작은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 0, 1, 0],
+      "examples": [
+        {"ja": "小さい犬がいます。", "reading": "ちいさいいぬがいます。", "ko": "작은 개가 있습니다."},
+        {"ja": "声が小さいです。", "reading": "こえがちいさいです。", "ko": "목소리가 작습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "小さいです", "reading": "ちいさいです"},
+        {"form": "과거형", "value": "小さかった", "reading": "ちいさかった"},
+        {"form": "부정형", "value": "小さくない", "reading": "ちいさくない"},
+        {"form": "て형", "value": "小さくて", "reading": "ちいさくて"},
+        {"form": "명사수식", "value": "小さい+명사", "reading": "ちいさい+명사"}
+      ],
+      "relatedWords": [
+        {"word": "大きい", "reading": "おおきい", "meaning": "크다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "小", "reading": "ちい(さい)", "meaning": "작을 소"}],
+      "tags": ["기본형용사", "い형용사", "크기"],
+      "frequency": 35
+    },
+    {
+      "id": "adj011",
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "많다",
+      "meaningDetail": "수나 양이 많은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "人が多いです。", "reading": "ひとがおおいです。", "ko": "사람이 많습니다."},
+        {"ja": "仕事が多いです。", "reading": "しごとがおおいです。", "ko": "일이 많습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "多いです", "reading": "おおいです"},
+        {"form": "과거형", "value": "多かった", "reading": "おおかった"},
+        {"form": "부정형", "value": "多くない", "reading": "おおくない"},
+        {"form": "て형", "value": "多くて", "reading": "おおくて"}
+      ],
+      "relatedWords": [
+        {"word": "少ない", "reading": "すくない", "meaning": "적다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "多", "reading": "おお(い)", "meaning": "많을 다"}],
+      "tags": ["기본형용사", "い형용사", "양"],
+      "frequency": 40
+    },
+    {
+      "id": "adj012",
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "적다",
+      "meaningDetail": "수나 양이 적은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "時間が少ないです。", "reading": "じかんがすくないです。", "ko": "시간이 적습니다."},
+        {"ja": "お金が少ないです。", "reading": "おかねがすくないです。", "ko": "돈이 적습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "少ないです", "reading": "すくないです"},
+        {"form": "과거형", "value": "少なかった", "reading": "すくなかった"},
+        {"form": "부정형", "value": "少なくない", "reading": "すくなくない"},
+        {"form": "て형", "value": "少なくて", "reading": "すくなくて"}
+      ],
+      "relatedWords": [
+        {"word": "多い", "reading": "おおい", "meaning": "많다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "少", "reading": "すく(ない)", "meaning": "적을 소"}],
+      "tags": ["기본형용사", "い형용사", "양"],
+      "frequency": 90
+    },
+    {
+      "id": "adj013",
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "덥다",
+      "meaningDetail": "기온이 높은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "今日は暑いですね。", "reading": "きょうはあついですね。", "ko": "오늘은 덥네요."},
+        {"ja": "夏は暑いです。", "reading": "なつはあついです。", "ko": "여름은 덥습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "暑いです", "reading": "あついです"},
+        {"form": "과거형", "value": "暑かった", "reading": "あつかった"},
+        {"form": "부정형", "value": "暑くない", "reading": "あつくない"},
+        {"form": "て형", "value": "暑くて", "reading": "あつくて"}
+      ],
+      "relatedWords": [
+        {"word": "寒い", "reading": "さむい", "meaning": "춥다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "暑", "reading": "あつ(い)", "meaning": "더울 서"}],
+      "tags": ["기본형용사", "い형용사", "날씨"],
+      "frequency": 60
+    },
+    {
+      "id": "adj014",
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "춥다",
+      "meaningDetail": "기온이 낮은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "今日は寒いです。", "reading": "きょうはさむいです。", "ko": "오늘은 춥습니다."},
+        {"ja": "冬は寒いです。", "reading": "ふゆはさむいです。", "ko": "겨울은 춥습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "寒いです", "reading": "さむいです"},
+        {"form": "과거형", "value": "寒かった", "reading": "さむかった"},
+        {"form": "부정형", "value": "寒くない", "reading": "さむくない"},
+        {"form": "て형", "value": "寒くて", "reading": "さむくて"}
+      ],
+      "relatedWords": [
+        {"word": "暑い", "reading": "あつい", "meaning": "덥다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "寒", "reading": "さむ(い)", "meaning": "찰 한"}],
+      "tags": ["기본형용사", "い형용사", "날씨"],
+      "frequency": 65
+    },
+    {
+      "id": "adj015",
+      "word": "熱い",
+      "reading": "あつい",
+      "meaning": "뜨겁다",
+      "meaningDetail": "온도가 높은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "このコーヒーは熱いです。", "reading": "このこーひーはあついです。", "ko": "이 커피는 뜨겁습니다."},
+        {"ja": "熱いお茶をください。", "reading": "あついおちゃをください。", "ko": "뜨거운 차 주세요."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "熱いです", "reading": "あついです"},
+        {"form": "과거형", "value": "熱かった", "reading": "あつかった"},
+        {"form": "부정형", "value": "熱くない", "reading": "あつくない"},
+        {"form": "て형", "value": "熱くて", "reading": "あつくて"}
+      ],
+      "relatedWords": [
+        {"word": "冷たい", "reading": "つめたい", "meaning": "차갑다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "熱", "reading": "あつ(い)", "meaning": "더울 열"}],
+      "tags": ["기본형용사", "い형용사", "온도"],
+      "frequency": 95
+    },
+    {
+      "id": "adj016",
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "차갑다",
+      "meaningDetail": "온도가 낮은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "冷たい水を飲みます。", "reading": "つめたいみずをのみます。", "ko": "차가운 물을 마십니다."},
+        {"ja": "手が冷たいです。", "reading": "てがつめたいです。", "ko": "손이 차갑습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "冷たいです", "reading": "つめたいです"},
+        {"form": "과거형", "value": "冷たかった", "reading": "つめたかった"},
+        {"form": "부정형", "value": "冷たくない", "reading": "つめたくない"},
+        {"form": "て형", "value": "冷たくて", "reading": "つめたくて"}
+      ],
+      "relatedWords": [
+        {"word": "熱い", "reading": "あつい", "meaning": "뜨겁다", "relation": "반의어"},
+        {"word": "温かい", "reading": "あたたかい", "meaning": "따뜻하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "冷", "reading": "つめ(たい)", "meaning": "찰 랭"}],
+      "tags": ["기본형용사", "い형용사", "온도"],
+      "frequency": 105
+    },
+    {
+      "id": "adj017",
+      "word": "温かい",
+      "reading": "あたたかい",
+      "meaning": "따뜻하다",
+      "meaningDetail": "온도가 따뜻한",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "今日は温かいですね。", "reading": "きょうはあたたかいですね。", "ko": "오늘은 따뜻하네요."},
+        {"ja": "温かいスープを飲みます。", "reading": "あたたかいすーぷをのみます。", "ko": "따뜻한 스프를 마십니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "温かいです", "reading": "あたたかいです"},
+        {"form": "과거형", "value": "温かかった", "reading": "あたたかかった"},
+        {"form": "부정형", "value": "温かくない", "reading": "あたたかくない"},
+        {"form": "て형", "value": "温かくて", "reading": "あたたかくて"}
+      ],
+      "relatedWords": [
+        {"word": "涼しい", "reading": "すずしい", "meaning": "시원하다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "温", "reading": "あたた(かい)", "meaning": "따뜻할 온"}],
+      "tags": ["기본형용사", "い형용사", "온도"],
+      "frequency": 80
+    },
+    {
+      "id": "adj018",
+      "word": "涼しい",
+      "reading": "すずしい",
+      "meaning": "시원하다",
+      "meaningDetail": "날씨가 시원한",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "秋は涼しいです。", "reading": "あきはすずしいです。", "ko": "가을은 시원합니다."},
+        {"ja": "涼しい風が吹いています。", "reading": "すずしいかぜがふいています。", "ko": "시원한 바람이 불고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "涼しいです", "reading": "すずしいです"},
+        {"form": "과거형", "value": "涼しかった", "reading": "すずしかった"},
+        {"form": "부정형", "value": "涼しくない", "reading": "すずしくない"},
+        {"form": "て형", "value": "涼しくて", "reading": "すずしくて"}
+      ],
+      "relatedWords": [
+        {"word": "暑い", "reading": "あつい", "meaning": "덥다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "涼", "reading": "すず(しい)", "meaning": "서늘할 량"}],
+      "tags": ["기본형용사", "い형용사", "날씨"],
+      "frequency": 115
+    },
+    {
+      "id": "adj019",
+      "word": "いい",
+      "reading": "いい",
+      "meaning": "좋다",
+      "meaningDetail": "상태나 품질이 좋은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "天気がいいですね。", "reading": "てんきがいいですね。", "ko": "날씨가 좋네요."},
+        {"ja": "いい考えですね。", "reading": "いいかんがえですね。", "ko": "좋은 생각이네요."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "いいです", "reading": "いいです"},
+        {"form": "과거형", "value": "よかった", "reading": "よかった"},
+        {"form": "부정형", "value": "よくない", "reading": "よくない"},
+        {"form": "て형", "value": "よくて", "reading": "よくて"}
+      ],
+      "relatedWords": [
+        {"word": "悪い", "reading": "わるい", "meaning": "나쁘다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "い형용사", "평가"],
+      "frequency": 10
+    },
+    {
+      "id": "adj020",
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "나쁘다",
+      "meaningDetail": "상태나 품질이 나쁜",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "天気が悪いです。", "reading": "てんきがわるいです。", "ko": "날씨가 나쁩니다."},
+        {"ja": "体の調子が悪いです。", "reading": "からだのちょうしがわるいです。", "ko": "몸 상태가 안 좋습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "悪いです", "reading": "わるいです"},
+        {"form": "과거형", "value": "悪かった", "reading": "わるかった"},
+        {"form": "부정형", "value": "悪くない", "reading": "わるくない"},
+        {"form": "て형", "value": "悪くて", "reading": "わるくて"}
+      ],
+      "relatedWords": [
+        {"word": "いい", "reading": "いい", "meaning": "좋다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "悪", "reading": "わる(い)", "meaning": "악할 악"}],
+      "tags": ["기본형용사", "い형용사", "평가"],
+      "frequency": 55
+    },
+    {
+      "id": "adj021",
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaning": "바쁘다",
+      "meaningDetail": "할 일이 많은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "今日は忙しいです。", "reading": "きょうはいそがしいです。", "ko": "오늘은 바쁩니다."},
+        {"ja": "忙しい毎日です。", "reading": "いそがしいまいにちです。", "ko": "바쁜 매일입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "忙しいです", "reading": "いそがしいです"},
+        {"form": "과거형", "value": "忙しかった", "reading": "いそがしかった"},
+        {"form": "부정형", "value": "忙しくない", "reading": "いそがしくない"},
+        {"form": "て형", "value": "忙しくて", "reading": "いそがしくて"}
+      ],
+      "relatedWords": [
+        {"word": "暇", "reading": "ひま", "meaning": "한가하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "忙", "reading": "いそが(しい)", "meaning": "바쁠 망"}],
+      "tags": ["기본형용사", "い형용사", "상태"],
+      "frequency": 70
+    },
+    {
+      "id": "adj022",
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "맛있다",
+      "meaningDetail": "맛이 좋은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "この料理はおいしいです。", "reading": "このりょうりはおいしいです。", "ko": "이 요리는 맛있습니다."},
+        {"ja": "おいしいレストランを知っていますか。", "reading": "おいしいれすとらんをしっていますか。", "ko": "맛있는 레스토랑을 알아요?"}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "おいしいです", "reading": "おいしいです"},
+        {"form": "과거형", "value": "おいしかった", "reading": "おいしかった"},
+        {"form": "부정형", "value": "おいしくない", "reading": "おいしくない"},
+        {"form": "て형", "value": "おいしくて", "reading": "おいしくて"}
+      ],
+      "relatedWords": [
+        {"word": "まずい", "reading": "まずい", "meaning": "맛없다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "い형용사", "맛"],
+      "frequency": 45
+    },
+    {
+      "id": "adj023",
+      "word": "まずい",
+      "reading": "まずい",
+      "meaning": "맛없다",
+      "meaningDetail": "맛이 나쁜",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この料理はまずいです。", "reading": "このりょうりはまずいです。", "ko": "이 요리는 맛없습니다."},
+        {"ja": "まずいコーヒーでした。", "reading": "まずいこーひーでした。", "ko": "맛없는 커피였습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "まずいです", "reading": "まずいです"},
+        {"form": "과거형", "value": "まずかった", "reading": "まずかった"},
+        {"form": "부정형", "value": "まずくない", "reading": "まずくない"},
+        {"form": "て형", "value": "まずくて", "reading": "まずくて"}
+      ],
+      "relatedWords": [
+        {"word": "おいしい", "reading": "おいしい", "meaning": "맛있다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "い형용사", "맛"],
+      "frequency": 140
+    },
+    {
+      "id": "adj024",
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "달다",
+      "meaningDetail": "단 맛이 나는",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "このケーキは甘いです。", "reading": "このけーきはあまいです。", "ko": "이 케이크는 답니다."},
+        {"ja": "甘いものが好きです。", "reading": "あまいものがすきです。", "ko": "단 것을 좋아합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "甘いです", "reading": "あまいです"},
+        {"form": "과거형", "value": "甘かった", "reading": "あまかった"},
+        {"form": "부정형", "value": "甘くない", "reading": "あまくない"},
+        {"form": "て형", "value": "甘くて", "reading": "あまくて"}
+      ],
+      "relatedWords": [
+        {"word": "辛い", "reading": "からい", "meaning": "맵다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "甘", "reading": "あま(い)", "meaning": "달 감"}],
+      "tags": ["기본형용사", "い형용사", "맛"],
+      "frequency": 110
+    },
+    {
+      "id": "adj025",
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "맵다",
+      "meaningDetail": "매운 맛이 나는",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この料理は辛いです。", "reading": "このりょうりはからいです。", "ko": "이 요리는 맵습니다."},
+        {"ja": "辛いものは食べられません。", "reading": "からいものはたべられません。", "ko": "매운 것은 못 먹습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "辛いです", "reading": "からいです"},
+        {"form": "과거형", "value": "辛かった", "reading": "からかった"},
+        {"form": "부정형", "value": "辛くない", "reading": "からくない"},
+        {"form": "て형", "value": "辛くて", "reading": "からくて"}
+      ],
+      "relatedWords": [
+        {"word": "甘い", "reading": "あまい", "meaning": "달다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "辛", "reading": "から(い)", "meaning": "매울 신"}],
+      "tags": ["기본형용사", "い형용사", "맛"],
+      "frequency": 125
+    },
+    {
+      "id": "adj026",
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaning": "재미있다",
+      "meaningDetail": "흥미롭고 재미있는",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "この映画は面白いです。", "reading": "このえいがはおもしろいです。", "ko": "이 영화는 재미있습니다."},
+        {"ja": "面白い話を聞きました。", "reading": "おもしろいはなしをききました。", "ko": "재미있는 이야기를 들었습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "面白いです", "reading": "おもしろいです"},
+        {"form": "과거형", "value": "面白かった", "reading": "おもしろかった"},
+        {"form": "부정형", "value": "面白くない", "reading": "おもしろくない"},
+        {"form": "て형", "value": "面白くて", "reading": "おもしろくて"}
+      ],
+      "relatedWords": [
+        {"word": "つまらない", "reading": "つまらない", "meaning": "재미없다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "面", "reading": "おも", "meaning": "낯 면"}, {"char": "白", "reading": "しろ(い)", "meaning": "흰 백"}],
+      "tags": ["기본형용사", "い형용사", "감정"],
+      "frequency": 50
+    },
+    {
+      "id": "adj027",
+      "word": "つまらない",
+      "reading": "つまらない",
+      "meaning": "재미없다",
+      "meaningDetail": "흥미가 없는",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "この本はつまらないです。", "reading": "このほんはつまらないです。", "ko": "이 책은 재미없습니다."},
+        {"ja": "つまらない授業でした。", "reading": "つまらないじゅぎょうでした。", "ko": "재미없는 수업이었습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "つまらないです", "reading": "つまらないです"},
+        {"form": "과거형", "value": "つまらなかった", "reading": "つまらなかった"},
+        {"form": "부정형", "value": "つまらなくない", "reading": "つまらなくない"},
+        {"form": "て형", "value": "つまらなくて", "reading": "つまらなくて"}
+      ],
+      "relatedWords": [
+        {"word": "面白い", "reading": "おもしろい", "meaning": "재미있다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "い형용사", "감정"],
+      "frequency": 135
+    },
+    {
+      "id": "adj028",
+      "word": "楽しい",
+      "reading": "たのしい",
+      "meaning": "즐겁다",
+      "meaningDetail": "기분이 좋고 즐거운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "旅行は楽しかったです。", "reading": "りょこうはたのしかったです。", "ko": "여행은 즐거웠습니다."},
+        {"ja": "楽しい時間でした。", "reading": "たのしいじかんでした。", "ko": "즐거운 시간이었습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "楽しいです", "reading": "たのしいです"},
+        {"form": "과거형", "value": "楽しかった", "reading": "たのしかった"},
+        {"form": "부정형", "value": "楽しくない", "reading": "たのしくない"},
+        {"form": "て형", "value": "楽しくて", "reading": "たのしくて"}
+      ],
+      "relatedWords": [
+        {"word": "悲しい", "reading": "かなしい", "meaning": "슬프다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "楽", "reading": "たの(しい)", "meaning": "즐거울 락"}],
+      "tags": ["기본형용사", "い형용사", "감정"],
+      "frequency": 55
+    },
+    {
+      "id": "adj029",
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "어렵다",
+      "meaningDetail": "하기가 어려운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 1, 0],
+      "examples": [
+        {"ja": "日本語は難しいです。", "reading": "にほんごはむずかしいです。", "ko": "일본어는 어렵습니다."},
+        {"ja": "この問題は難しいです。", "reading": "このもんだいはむずかしいです。", "ko": "이 문제는 어렵습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "難しいです", "reading": "むずかしいです"},
+        {"form": "과거형", "value": "難しかった", "reading": "むずかしかった"},
+        {"form": "부정형", "value": "難しくない", "reading": "むずかしくない"},
+        {"form": "て형", "value": "難しくて", "reading": "むずかしくて"}
+      ],
+      "relatedWords": [
+        {"word": "易しい", "reading": "やさしい", "meaning": "쉽다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "難", "reading": "むずか(しい)", "meaning": "어려울 난"}],
+      "tags": ["기본형용사", "い형용사", "난이도"],
+      "frequency": 60
+    },
+    {
+      "id": "adj030",
+      "word": "易しい",
+      "reading": "やさしい",
+      "meaning": "쉽다",
+      "meaningDetail": "하기가 쉬운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "この問題は易しいです。", "reading": "このもんだいはやさしいです。", "ko": "이 문제는 쉽습니다."},
+        {"ja": "易しい日本語で話してください。", "reading": "やさしいにほんごではなしてください。", "ko": "쉬운 일본어로 말해 주세요."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "易しいです", "reading": "やさしいです"},
+        {"form": "과거형", "value": "易しかった", "reading": "やさしかった"},
+        {"form": "부정형", "value": "易しくない", "reading": "やさしくない"},
+        {"form": "て형", "value": "易しくて", "reading": "やさしくて"}
+      ],
+      "relatedWords": [
+        {"word": "難しい", "reading": "むずかしい", "meaning": "어렵다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "易", "reading": "やさ(しい)", "meaning": "쉬울 이"}],
+      "tags": ["기본형용사", "い형용사", "난이도"],
+      "frequency": 120
+    },
+    {
+      "id": "adj031",
+      "word": "若い",
+      "reading": "わかい",
+      "meaning": "젊다",
+      "meaningDetail": "나이가 어린",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "若い人が多いです。", "reading": "わかいひとがおおいです。", "ko": "젊은 사람이 많습니다."},
+        {"ja": "まだ若いですね。", "reading": "まだわかいですね。", "ko": "아직 젊네요."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "若いです", "reading": "わかいです"},
+        {"form": "과거형", "value": "若かった", "reading": "わかかった"},
+        {"form": "부정형", "value": "若くない", "reading": "わかくない"},
+        {"form": "て형", "value": "若くて", "reading": "わかくて"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "若", "reading": "わか(い)", "meaning": "젊을 약"}],
+      "tags": ["기본형용사", "い형용사", "나이"],
+      "frequency": 90
+    },
+    {
+      "id": "adj032",
+      "word": "早い",
+      "reading": "はやい",
+      "meaning": "빠르다, 이르다",
+      "meaningDetail": "속도가 빠르거나 시간이 이른",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "電車は早いです。", "reading": "でんしゃははやいです。", "ko": "전철은 빠릅니다."},
+        {"ja": "朝は早いです。", "reading": "あさははやいです。", "ko": "아침은 이릅니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "早いです", "reading": "はやいです"},
+        {"form": "과거형", "value": "早かった", "reading": "はやかった"},
+        {"form": "부정형", "value": "早くない", "reading": "はやくない"},
+        {"form": "て형", "value": "早くて", "reading": "はやくて"}
+      ],
+      "relatedWords": [
+        {"word": "遅い", "reading": "おそい", "meaning": "느리다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "早", "reading": "はや(い)", "meaning": "이를 조"}],
+      "tags": ["기본형용사", "い형용사", "속도"],
+      "frequency": 35
+    },
+    {
+      "id": "adj033",
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "느리다, 늦다",
+      "meaningDetail": "속도가 느리거나 시간이 늦은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "歩くのが遅いです。", "reading": "あるくのがおそいです。", "ko": "걷는 게 느립니다."},
+        {"ja": "帰りが遅いです。", "reading": "かえりがおそいです。", "ko": "귀가가 늦습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "遅いです", "reading": "おそいです"},
+        {"form": "과거형", "value": "遅かった", "reading": "おそかった"},
+        {"form": "부정형", "value": "遅くない", "reading": "おそくない"},
+        {"form": "て형", "value": "遅くて", "reading": "おそくて"}
+      ],
+      "relatedWords": [
+        {"word": "早い", "reading": "はやい", "meaning": "빠르다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "遅", "reading": "おそ(い)", "meaning": "늦을 지"}],
+      "tags": ["기본형용사", "い형용사", "속도"],
+      "frequency": 85
+    },
+    {
+      "id": "adj034",
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "가깝다",
+      "meaningDetail": "거리가 가까운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "駅が近いです。", "reading": "えきがちかいです。", "ko": "역이 가깝습니다."},
+        {"ja": "学校の近くに住んでいます。", "reading": "がっこうのちかくにすんでいます。", "ko": "학교 근처에 살고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "近いです", "reading": "ちかいです"},
+        {"form": "과거형", "value": "近かった", "reading": "ちかかった"},
+        {"form": "부정형", "value": "近くない", "reading": "ちかくない"},
+        {"form": "て형", "value": "近くて", "reading": "ちかくて"}
+      ],
+      "relatedWords": [
+        {"word": "遠い", "reading": "とおい", "meaning": "멀다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "近", "reading": "ちか(い)", "meaning": "가까울 근"}],
+      "tags": ["기본형용사", "い형용사", "거리"],
+      "frequency": 65
+    },
+    {
+      "id": "adj035",
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "멀다",
+      "meaningDetail": "거리가 먼",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "駅は遠いです。", "reading": "えきはとおいです。", "ko": "역은 멉니다."},
+        {"ja": "ここから遠いですか。", "reading": "ここからとおいですか。", "ko": "여기서 멀어요?"}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "遠いです", "reading": "とおいです"},
+        {"form": "과거형", "value": "遠かった", "reading": "とおかった"},
+        {"form": "부정형", "value": "遠くない", "reading": "とおくない"},
+        {"form": "て형", "value": "遠くて", "reading": "とおくて"}
+      ],
+      "relatedWords": [
+        {"word": "近い", "reading": "ちかい", "meaning": "가깝다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "遠", "reading": "とお(い)", "meaning": "멀 원"}],
+      "tags": ["기본형용사", "い형용사", "거리"],
+      "frequency": 75
+    },
+    {
+      "id": "adj036",
+      "word": "白い",
+      "reading": "しろい",
+      "meaning": "하얗다",
+      "meaningDetail": "흰 색의",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "白い雪が降っています。", "reading": "しろいゆきがふっています。", "ko": "하얀 눈이 내리고 있습니다."},
+        {"ja": "白いシャツを着ています。", "reading": "しろいしゃつをきています。", "ko": "흰 셔츠를 입고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "白いです", "reading": "しろいです"},
+        {"form": "과거형", "value": "白かった", "reading": "しろかった"},
+        {"form": "부정형", "value": "白くない", "reading": "しろくない"},
+        {"form": "て형", "value": "白くて", "reading": "しろくて"}
+      ],
+      "relatedWords": [
+        {"word": "黒い", "reading": "くろい", "meaning": "검다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "白", "reading": "しろ(い)", "meaning": "흰 백"}],
+      "tags": ["기본형용사", "い형용사", "색깔"],
+      "frequency": 70
+    },
+    {
+      "id": "adj037",
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "검다",
+      "meaningDetail": "검은 색의",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "黒い髪です。", "reading": "くろいかみです。", "ko": "검은 머리카락입니다."},
+        {"ja": "黒い服を着ています。", "reading": "くろいふくをきています。", "ko": "검은 옷을 입고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "黒いです", "reading": "くろいです"},
+        {"form": "과거형", "value": "黒かった", "reading": "くろかった"},
+        {"form": "부정형", "value": "黒くない", "reading": "くろくない"},
+        {"form": "て형", "value": "黒くて", "reading": "くろくて"}
+      ],
+      "relatedWords": [
+        {"word": "白い", "reading": "しろい", "meaning": "하얗다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "黒", "reading": "くろ(い)", "meaning": "검을 흑"}],
+      "tags": ["기본형용사", "い형용사", "색깔"],
+      "frequency": 80
+    },
+    {
+      "id": "adj038",
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "빨갛다",
+      "meaningDetail": "빨간 색의",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "赤いりんごを買いました。", "reading": "あかいりんごをかいました。", "ko": "빨간 사과를 샀습니다."},
+        {"ja": "信号が赤いです。", "reading": "しんごうがあかいです。", "ko": "신호등이 빨갛습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "赤いです", "reading": "あかいです"},
+        {"form": "과거형", "value": "赤かった", "reading": "あかかった"},
+        {"form": "부정형", "value": "赤くない", "reading": "あかくない"},
+        {"form": "て형", "value": "赤くて", "reading": "あかくて"}
+      ],
+      "relatedWords": [
+        {"word": "青い", "reading": "あおい", "meaning": "파랗다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "赤", "reading": "あか(い)", "meaning": "붉을 적"}],
+      "tags": ["기본형용사", "い형용사", "색깔"],
+      "frequency": 85
+    },
+    {
+      "id": "adj039",
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "파랗다",
+      "meaningDetail": "파란 색의",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "空が青いです。", "reading": "そらがあおいです。", "ko": "하늘이 파랗습니다."},
+        {"ja": "青い海を見ました。", "reading": "あおいうみをみました。", "ko": "파란 바다를 봤습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "青いです", "reading": "あおいです"},
+        {"form": "과거형", "value": "青かった", "reading": "あおかった"},
+        {"form": "부정형", "value": "青くない", "reading": "あおくない"},
+        {"form": "て형", "value": "青くて", "reading": "あおくて"}
+      ],
+      "relatedWords": [
+        {"word": "赤い", "reading": "あかい", "meaning": "빨갛다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "青", "reading": "あお(い)", "meaning": "푸를 청"}],
+      "tags": ["기본형용사", "い형용사", "색깔"],
+      "frequency": 90
+    },
+    {
+      "id": "adj040",
+      "word": "強い",
+      "reading": "つよい",
+      "meaning": "강하다",
+      "meaningDetail": "힘이 센",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "風が強いです。", "reading": "かぜがつよいです。", "ko": "바람이 강합니다."},
+        {"ja": "このチームは強いです。", "reading": "このちーむはつよいです。", "ko": "이 팀은 강합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "強いです", "reading": "つよいです"},
+        {"form": "과거형", "value": "強かった", "reading": "つよかった"},
+        {"form": "부정형", "value": "強くない", "reading": "つよくない"},
+        {"form": "て형", "value": "強くて", "reading": "つよくて"}
+      ],
+      "relatedWords": [
+        {"word": "弱い", "reading": "よわい", "meaning": "약하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "強", "reading": "つよ(い)", "meaning": "강할 강"}],
+      "tags": ["기본형용사", "い형용사", "상태"],
+      "frequency": 70
+    },
+    {
+      "id": "adj041",
+      "word": "弱い",
+      "reading": "よわい",
+      "meaning": "약하다",
+      "meaningDetail": "힘이 약한",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "体が弱いです。", "reading": "からだがよわいです。", "ko": "몸이 약합니다."},
+        {"ja": "火が弱いです。", "reading": "ひがよわいです。", "ko": "불이 약합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "弱いです", "reading": "よわいです"},
+        {"form": "과거형", "value": "弱かった", "reading": "よわかった"},
+        {"form": "부정형", "value": "弱くない", "reading": "よわくない"},
+        {"form": "て형", "value": "弱くて", "reading": "よわくて"}
+      ],
+      "relatedWords": [
+        {"word": "強い", "reading": "つよい", "meaning": "강하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "弱", "reading": "よわ(い)", "meaning": "약할 약"}],
+      "tags": ["기본형용사", "い형용사", "상태"],
+      "frequency": 110
+    },
+    {
+      "id": "adj042",
+      "word": "重い",
+      "reading": "おもい",
+      "meaning": "무겁다",
+      "meaningDetail": "무게가 무거운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "この荷物は重いです。", "reading": "このにもつはおもいです。", "ko": "이 짐은 무겁습니다."},
+        {"ja": "重いものを持ちました。", "reading": "おもいものをもちました。", "ko": "무거운 것을 들었습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "重いです", "reading": "おもいです"},
+        {"form": "과거형", "value": "重かった", "reading": "おもかった"},
+        {"form": "부정형", "value": "重くない", "reading": "おもくない"},
+        {"form": "て형", "value": "重くて", "reading": "おもくて"}
+      ],
+      "relatedWords": [
+        {"word": "軽い", "reading": "かるい", "meaning": "가볍다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "重", "reading": "おも(い)", "meaning": "무거울 중"}],
+      "tags": ["기본형용사", "い형용사", "무게"],
+      "frequency": 95
+    },
+    {
+      "id": "adj043",
+      "word": "軽い",
+      "reading": "かるい",
+      "meaning": "가볍다",
+      "meaningDetail": "무게가 가벼운",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "このかばんは軽いです。", "reading": "このかばんはかるいです。", "ko": "이 가방은 가볍습니다."},
+        {"ja": "軽い運動をします。", "reading": "かるいうんどうをします。", "ko": "가벼운 운동을 합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "軽いです", "reading": "かるいです"},
+        {"form": "과거형", "value": "軽かった", "reading": "かるかった"},
+        {"form": "부정형", "value": "軽くない", "reading": "かるくない"},
+        {"form": "て형", "value": "軽くて", "reading": "かるくて"}
+      ],
+      "relatedWords": [
+        {"word": "重い", "reading": "おもい", "meaning": "무겁다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "軽", "reading": "かる(い)", "meaning": "가벼울 경"}],
+      "tags": ["기본형용사", "い형용사", "무게"],
+      "frequency": 105
+    },
+    {
+      "id": "adj044",
+      "word": "明るい",
+      "reading": "あかるい",
+      "meaning": "밝다",
+      "meaningDetail": "빛이 밝은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "部屋が明るいです。", "reading": "へやがあかるいです。", "ko": "방이 밝습니다."},
+        {"ja": "明るい性格です。", "reading": "あかるいせいかくです。", "ko": "밝은 성격입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "明るいです", "reading": "あかるいです"},
+        {"form": "과거형", "value": "明るかった", "reading": "あかるかった"},
+        {"form": "부정형", "value": "明るくない", "reading": "あかるくない"},
+        {"form": "て형", "value": "明るくて", "reading": "あかるくて"}
+      ],
+      "relatedWords": [
+        {"word": "暗い", "reading": "くらい", "meaning": "어둡다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "明", "reading": "あか(るい)", "meaning": "밝을 명"}],
+      "tags": ["기본형용사", "い형용사", "밝기"],
+      "frequency": 80
+    },
+    {
+      "id": "adj045",
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "어둡다",
+      "meaningDetail": "빛이 적은",
+      "jlpt": "N5",
+      "category": "い형용사",
+      "adjectiveType": "い형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "部屋が暗いです。", "reading": "へやがくらいです。", "ko": "방이 어둡습니다."},
+        {"ja": "夜は暗いです。", "reading": "よるはくらいです。", "ko": "밤은 어둡습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "暗いです", "reading": "くらいです"},
+        {"form": "과거형", "value": "暗かった", "reading": "くらかった"},
+        {"form": "부정형", "value": "暗くない", "reading": "くらくない"},
+        {"form": "て형", "value": "暗くて", "reading": "くらくて"}
+      ],
+      "relatedWords": [
+        {"word": "明るい", "reading": "あかるい", "meaning": "밝다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "暗", "reading": "くら(い)", "meaning": "어두울 암"}],
+      "tags": ["기본형용사", "い형용사", "밝기"],
+      "frequency": 100
+    },
+    {
+      "id": "adj046",
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "건강하다, 활기차다",
+      "meaningDetail": "건강하고 활기찬 상태",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "お元気ですか。", "reading": "おげんきですか。", "ko": "건강하세요?"},
+        {"ja": "元気な子供です。", "reading": "げんきなこどもです。", "ko": "건강한 아이입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "元気です", "reading": "げんきです"},
+        {"form": "과거형", "value": "元気だった", "reading": "げんきだった"},
+        {"form": "부정형", "value": "元気ではない", "reading": "げんきではない"},
+        {"form": "명사수식", "value": "元気な+명사", "reading": "げんきな+명사"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "元", "reading": "げん", "meaning": "으뜸 원"}, {"char": "気", "reading": "き", "meaning": "기운 기"}],
+      "tags": ["기본형용사", "な형용사", "건강"],
+      "frequency": 20
+    },
+    {
+      "id": "adj047",
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "유명하다",
+      "meaningDetail": "많은 사람에게 알려진",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "この店は有名です。", "reading": "このみせはゆうめいです。", "ko": "이 가게는 유명합니다."},
+        {"ja": "有名な歌手です。", "reading": "ゆうめいなかしゅです。", "ko": "유명한 가수입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "有名です", "reading": "ゆうめいです"},
+        {"form": "과거형", "value": "有名だった", "reading": "ゆうめいだった"},
+        {"form": "부정형", "value": "有名ではない", "reading": "ゆうめいではない"},
+        {"form": "명사수식", "value": "有名な+명사", "reading": "ゆうめいな+명사"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "有", "reading": "ゆう", "meaning": "있을 유"}, {"char": "名", "reading": "めい", "meaning": "이름 명"}],
+      "tags": ["기본형용사", "な형용사", "평판"],
+      "frequency": 75
+    },
+    {
+      "id": "adj048",
+      "word": "便利",
+      "reading": "べんり",
+      "meaning": "편리하다",
+      "meaningDetail": "사용하기 편한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "この辞書は便利です。", "reading": "このじしょはべんりです。", "ko": "이 사전은 편리합니다."},
+        {"ja": "便利な場所にあります。", "reading": "べんりなばしょにあります。", "ko": "편리한 장소에 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "便利です", "reading": "べんりです"},
+        {"form": "과거형", "value": "便利だった", "reading": "べんりだった"},
+        {"form": "부정형", "value": "便利ではない", "reading": "べんりではない"},
+        {"form": "명사수식", "value": "便利な+명사", "reading": "べんりな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "不便", "reading": "ふべん", "meaning": "불편하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "便", "reading": "べん", "meaning": "편할 편"}, {"char": "利", "reading": "り", "meaning": "이로울 리"}],
+      "tags": ["기본형용사", "な형용사", "편의"],
+      "frequency": 90
+    },
+    {
+      "id": "adj049",
+      "word": "不便",
+      "reading": "ふべん",
+      "meaning": "불편하다",
+      "meaningDetail": "사용하기 불편한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ここは不便です。", "reading": "ここはふべんです。", "ko": "여기는 불편합니다."},
+        {"ja": "不便な場所に住んでいます。", "reading": "ふべんなばしょにすんでいます。", "ko": "불편한 장소에 살고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "不便です", "reading": "ふべんです"},
+        {"form": "과거형", "value": "不便だった", "reading": "ふべんだった"},
+        {"form": "부정형", "value": "不便ではない", "reading": "ふべんではない"},
+        {"form": "명사수식", "value": "不便な+명사", "reading": "ふべんな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "便利", "reading": "べんり", "meaning": "편리하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "不", "reading": "ふ", "meaning": "아닐 불"}, {"char": "便", "reading": "べん", "meaning": "편할 편"}],
+      "tags": ["기본형용사", "な형용사", "편의"],
+      "frequency": 130
+    },
+    {
+      "id": "adj050",
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaning": "소중하다",
+      "meaningDetail": "중요하고 귀중한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "健康は大切です。", "reading": "けんこうはたいせつです。", "ko": "건강은 소중합니다."},
+        {"ja": "大切なものを忘れました。", "reading": "たいせつなものをわすれました。", "ko": "소중한 것을 잊었습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "大切です", "reading": "たいせつです"},
+        {"form": "과거형", "value": "大切だった", "reading": "たいせつだった"},
+        {"form": "부정형", "value": "大切ではない", "reading": "たいせつではない"},
+        {"form": "명사수식", "value": "大切な+명사", "reading": "たいせつな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "大事", "reading": "だいじ", "meaning": "중요하다", "relation": "유의어"}
+      ],
+      "kanji": [{"char": "大", "reading": "たい", "meaning": "큰 대"}, {"char": "切", "reading": "せつ", "meaning": "끊을 절"}],
+      "tags": ["기본형용사", "な형용사", "가치"],
+      "frequency": 65
+    },
+    {
+      "id": "adj051",
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "싫어하다",
+      "meaningDetail": "좋아하지 않는",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "野菜が嫌いです。", "reading": "やさいがきらいです。", "ko": "채소를 싫어합니다."},
+        {"ja": "嫌いな食べ物はありますか。", "reading": "きらいなたべものはありますか。", "ko": "싫어하는 음식이 있어요?"}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "嫌いです", "reading": "きらいです"},
+        {"form": "과거형", "value": "嫌いだった", "reading": "きらいだった"},
+        {"form": "부정형", "value": "嫌いではない", "reading": "きらいではない"},
+        {"form": "명사수식", "value": "嫌いな+명사", "reading": "きらいな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "好き", "reading": "すき", "meaning": "좋아하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "嫌", "reading": "きら(い)", "meaning": "싫을 혐"}],
+      "tags": ["기본형용사", "な형용사", "감정"],
+      "frequency": 85
+    },
+    {
+      "id": "adj052",
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "잘하다",
+      "meaningDetail": "기술이 뛰어난",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "日本語が上手ですね。", "reading": "にほんごがじょうずですね。", "ko": "일본어를 잘하시네요."},
+        {"ja": "料理が上手な人です。", "reading": "りょうりがじょうずなひとです。", "ko": "요리를 잘하는 사람입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "上手です", "reading": "じょうずです"},
+        {"form": "과거형", "value": "上手だった", "reading": "じょうずだった"},
+        {"form": "부정형", "value": "上手ではない", "reading": "じょうずではない"},
+        {"form": "명사수식", "value": "上手な+명사", "reading": "じょうずな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "下手", "reading": "へた", "meaning": "서투르다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "上", "reading": "じょう", "meaning": "위 상"}, {"char": "手", "reading": "ず", "meaning": "손 수"}],
+      "tags": ["기본형용사", "な형용사", "능력"],
+      "frequency": 55
+    },
+    {
+      "id": "adj053",
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "서투르다",
+      "meaningDetail": "기술이 부족한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "私は歌が下手です。", "reading": "わたしはうたがへたです。", "ko": "저는 노래를 못 합니다."},
+        {"ja": "下手な絵を描きました。", "reading": "へたなえをかきました。", "ko": "서툰 그림을 그렸습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "下手です", "reading": "へたです"},
+        {"form": "과거형", "value": "下手だった", "reading": "へただった"},
+        {"form": "부정형", "value": "下手ではない", "reading": "へたではない"},
+        {"form": "명사수식", "value": "下手な+명사", "reading": "へたな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "上手", "reading": "じょうず", "meaning": "잘하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "下", "reading": "へ", "meaning": "아래 하"}, {"char": "手", "reading": "た", "meaning": "손 수"}],
+      "tags": ["기본형용사", "な형용사", "능력"],
+      "frequency": 115
+    },
+    {
+      "id": "adj054",
+      "word": "綺麗",
+      "reading": "きれい",
+      "meaning": "예쁘다, 깨끗하다",
+      "meaningDetail": "아름답거나 깨끗한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "花がきれいです。", "reading": "はながきれいです。", "ko": "꽃이 예쁩니다."},
+        {"ja": "部屋をきれいにしました。", "reading": "へやをきれいにしました。", "ko": "방을 깨끗이 했습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "きれいです", "reading": "きれいです"},
+        {"form": "과거형", "value": "きれいだった", "reading": "きれいだった"},
+        {"form": "부정형", "value": "きれいではない", "reading": "きれいではない"},
+        {"form": "명사수식", "value": "きれいな+명사", "reading": "きれいな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "汚い", "reading": "きたない", "meaning": "더럽다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "な형용사", "외관"],
+      "frequency": 40
+    },
+    {
+      "id": "adj055",
+      "word": "暇",
+      "reading": "ひま",
+      "meaning": "한가하다",
+      "meaningDetail": "할 일이 없는",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "今日は暇です。", "reading": "きょうはひまです。", "ko": "오늘은 한가합니다."},
+        {"ja": "暇な時間がありますか。", "reading": "ひまなじかんがありますか。", "ko": "한가한 시간이 있어요?"}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "暇です", "reading": "ひまです"},
+        {"form": "과거형", "value": "暇だった", "reading": "ひまだった"},
+        {"form": "부정형", "value": "暇ではない", "reading": "ひまではない"},
+        {"form": "명사수식", "value": "暇な+명사", "reading": "ひまな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "忙しい", "reading": "いそがしい", "meaning": "바쁘다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "暇", "reading": "ひま", "meaning": "한가 가"}],
+      "tags": ["기본형용사", "な형용사", "시간"],
+      "frequency": 100
+    },
+    {
+      "id": "adj056",
+      "word": "丈夫",
+      "reading": "じょうぶ",
+      "meaning": "튼튼하다",
+      "meaningDetail": "건강하고 강한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "体が丈夫です。", "reading": "からだがじょうぶです。", "ko": "몸이 튼튼합니다."},
+        {"ja": "丈夫な靴を買いました。", "reading": "じょうぶなくつをかいました。", "ko": "튼튼한 신발을 샀습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "丈夫です", "reading": "じょうぶです"},
+        {"form": "과거형", "value": "丈夫だった", "reading": "じょうぶだった"},
+        {"form": "부정형", "value": "丈夫ではない", "reading": "じょうぶではない"},
+        {"form": "명사수식", "value": "丈夫な+명사", "reading": "じょうぶな+명사"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "丈", "reading": "じょう", "meaning": "길이 장"}, {"char": "夫", "reading": "ぶ", "meaning": "지아비 부"}],
+      "tags": ["기본형용사", "な형용사", "상태"],
+      "frequency": 110
+    },
+    {
+      "id": "adj057",
+      "word": "賑やか",
+      "reading": "にぎやか",
+      "meaning": "번화하다, 활기차다",
+      "meaningDetail": "사람이 많고 활기찬",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "この町は賑やかです。", "reading": "このまちはにぎやかです。", "ko": "이 마을은 번화합니다."},
+        {"ja": "賑やかな場所が好きです。", "reading": "にぎやかなばしょがすきです。", "ko": "번화한 장소를 좋아합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "賑やかです", "reading": "にぎやかです"},
+        {"form": "과거형", "value": "賑やかだった", "reading": "にぎやかだった"},
+        {"form": "부정형", "value": "賑やかではない", "reading": "にぎやかではない"},
+        {"form": "명사수식", "value": "賑やかな+명사", "reading": "にぎやかな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "静か", "reading": "しずか", "meaning": "조용하다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "賑", "reading": "にぎ(やか)", "meaning": "번화할 진"}],
+      "tags": ["기본형용사", "な형용사", "분위기"],
+      "frequency": 120
+    },
+    {
+      "id": "adj058",
+      "word": "色々",
+      "reading": "いろいろ",
+      "meaning": "여러 가지",
+      "meaningDetail": "다양한 종류의",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "色々な国に行きたいです。", "reading": "いろいろなくににいきたいです。", "ko": "여러 나라에 가고 싶습니다."},
+        {"ja": "色々ありがとうございます。", "reading": "いろいろありがとうございます。", "ko": "여러모로 감사합니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "色々です", "reading": "いろいろです"},
+        {"form": "명사수식", "value": "色々な+명사", "reading": "いろいろな+명사"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "色", "reading": "いろ", "meaning": "빛 색"}],
+      "tags": ["기본형용사", "な형용사", "다양성"],
+      "frequency": 45
+    },
+    {
+      "id": "adj059",
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "힘들다, 대단하다",
+      "meaningDetail": "어렵거나 중요한",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "仕事が大変です。", "reading": "しごとがたいへんです。", "ko": "일이 힘듭니다."},
+        {"ja": "大変な問題です。", "reading": "たいへんなもんだいです。", "ko": "심각한 문제입니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "大変です", "reading": "たいへんです"},
+        {"form": "과거형", "value": "大変だった", "reading": "たいへんだった"},
+        {"form": "부정형", "value": "大変ではない", "reading": "たいへんではない"},
+        {"form": "명사수식", "value": "大変な+명사", "reading": "たいへんな+명사"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "大", "reading": "たい", "meaning": "큰 대"}, {"char": "変", "reading": "へん", "meaning": "변할 변"}],
+      "tags": ["기본형용사", "な형용사", "정도"],
+      "frequency": 50
+    },
+    {
+      "id": "adj060",
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "간단하다",
+      "meaningDetail": "복잡하지 않은",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "adjectiveType": "な형용사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "この問題は簡単です。", "reading": "このもんだいはかんたんです。", "ko": "이 문제는 간단합니다."},
+        {"ja": "簡単な料理を作ります。", "reading": "かんたんなりょうりをつくります。", "ko": "간단한 요리를 만듭니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "簡単です", "reading": "かんたんです"},
+        {"form": "과거형", "value": "簡単だった", "reading": "かんたんだった"},
+        {"form": "부정형", "value": "簡単ではない", "reading": "かんたんではない"},
+        {"form": "명사수식", "value": "簡単な+명사", "reading": "かんたんな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "難しい", "reading": "むずかしい", "meaning": "어렵다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "簡", "reading": "かん", "meaning": "간략할 간"}, {"char": "単", "reading": "たん", "meaning": "홑 단"}],
+      "tags": ["기본형용사", "な형용사", "난이도"],
+      "frequency": 70
+    }
+  ]
+}

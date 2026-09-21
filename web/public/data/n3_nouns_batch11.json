@@ -1,0 +1,492 @@
+[
+  {
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "meaningDetail": "가르치고 기르다",
+    "category": "명사",
+    "examples": [
+      { "ja": "教育を受ける。", "ko": "교육을 받는다." }
+    ]
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "수업",
+    "meaningDetail": "가르치는 시간",
+    "category": "명사",
+    "examples": [
+      { "ja": "授業を受ける。", "ko": "수업을 받는다." }
+    ]
+  },
+  {
+    "word": "講義",
+    "reading": "こうぎ",
+    "meaning": "강의",
+    "meaningDetail": "대학 수업",
+    "category": "명사",
+    "examples": [
+      { "ja": "講義に出席する。", "ko": "강의에 출석한다." }
+    ]
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "시험",
+    "meaningDetail": "테스트",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験を受ける。", "ko": "시험을 본다." }
+    ]
+  },
+  {
+    "word": "成績",
+    "reading": "せいせき",
+    "meaning": "성적",
+    "meaningDetail": "결과, 점수",
+    "category": "명사",
+    "examples": [
+      { "ja": "成績が上がった。", "ko": "성적이 올랐다." }
+    ]
+  },
+  {
+    "word": "学年",
+    "reading": "がくねん",
+    "meaning": "학년",
+    "meaningDetail": "학교 학년",
+    "category": "명사",
+    "examples": [
+      { "ja": "学年が変わる。", "ko": "학년이 바뀐다." }
+    ]
+  },
+  {
+    "word": "学期",
+    "reading": "がっき",
+    "meaning": "학기",
+    "meaningDetail": "수업 기간",
+    "category": "명사",
+    "examples": [
+      { "ja": "新学期が始まる。", "ko": "새 학기가 시작된다." }
+    ]
+  },
+  {
+    "word": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "졸업",
+    "meaningDetail": "학교를 마침",
+    "category": "명사",
+    "examples": [
+      { "ja": "大学を卒業する。", "ko": "대학을 졸업한다." }
+    ]
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "입학",
+    "meaningDetail": "학교에 들어감",
+    "category": "명사",
+    "examples": [
+      { "ja": "入学式に参加する。", "ko": "입학식에 참가한다." }
+    ]
+  },
+  {
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "meaning": "취직",
+    "meaningDetail": "직업을 구함",
+    "category": "명사",
+    "examples": [
+      { "ja": "就職活動をする。", "ko": "취직 활동을 한다." }
+    ]
+  },
+  {
+    "word": "転職",
+    "reading": "てんしょく",
+    "meaning": "이직",
+    "meaningDetail": "직업을 바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "転職を考える。", "ko": "이직을 생각한다." }
+    ]
+  },
+  {
+    "word": "退職",
+    "reading": "たいしょく",
+    "meaning": "퇴직",
+    "meaningDetail": "직장을 그만둠",
+    "category": "명사",
+    "examples": [
+      { "ja": "定年退職する。", "ko": "정년 퇴직한다." }
+    ]
+  },
+  {
+    "word": "昇進",
+    "reading": "しょうしん",
+    "meaning": "승진",
+    "meaningDetail": "직위가 오름",
+    "category": "명사",
+    "examples": [
+      { "ja": "昇進が決まった。", "ko": "승진이 결정됐다." }
+    ]
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "급료, 월급",
+    "meaningDetail": "일한 대가",
+    "category": "명사",
+    "examples": [
+      { "ja": "給料が上がった。", "ko": "급료가 올랐다." }
+    ]
+  },
+  {
+    "word": "残業",
+    "reading": "ざんぎょう",
+    "meaning": "잔업, 야근",
+    "meaningDetail": "정해진 시간 이후 일함",
+    "category": "명사",
+    "examples": [
+      { "ja": "残業が多い。", "ko": "야근이 많다." }
+    ]
+  },
+  {
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaning": "휴가",
+    "meaningDetail": "쉬는 기간",
+    "category": "명사",
+    "examples": [
+      { "ja": "休暇を取る。", "ko": "휴가를 얻다." }
+    ]
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "meaning": "출장",
+    "meaningDetail": "업무로 출타",
+    "category": "명사",
+    "examples": [
+      { "ja": "出張で大阪に行く。", "ko": "출장으로 오사카에 간다." }
+    ]
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "회사",
+    "meaningDetail": "기업",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社に通う。", "ko": "회사에 다닌다." }
+    ]
+  },
+  {
+    "word": "企業",
+    "reading": "きぎょう",
+    "meaning": "기업",
+    "meaningDetail": "사업체",
+    "category": "명사",
+    "examples": [
+      { "ja": "大企業で働く。", "ko": "대기업에서 일한다." }
+    ]
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "공장",
+    "meaningDetail": "물건을 만드는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "工場で生産する。", "ko": "공장에서 생산한다." }
+    ]
+  },
+  {
+    "word": "事務所",
+    "reading": "じむしょ",
+    "meaning": "사무소",
+    "meaningDetail": "업무를 보는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "事務所に出勤する。", "ko": "사무소에 출근한다." }
+    ]
+  },
+  {
+    "word": "支店",
+    "reading": "してん",
+    "meaning": "지점",
+    "meaningDetail": "본점의 분점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支店を開く。", "ko": "지점을 연다." }
+    ]
+  },
+  {
+    "word": "本社",
+    "reading": "ほんしゃ",
+    "meaning": "본사",
+    "meaningDetail": "중심 사무소",
+    "category": "명사",
+    "examples": [
+      { "ja": "本社に異動する。", "ko": "본사로 이동한다." }
+    ]
+  },
+  {
+    "word": "部署",
+    "reading": "ぶしょ",
+    "meaning": "부서",
+    "meaningDetail": "조직의 일부",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい部署に配属された。", "ko": "새 부서에 배속됐다." }
+    ]
+  },
+  {
+    "word": "社員",
+    "reading": "しゃいん",
+    "meaning": "사원",
+    "meaningDetail": "회사 직원",
+    "category": "명사",
+    "examples": [
+      { "ja": "社員が増えた。", "ko": "사원이 늘었다." }
+    ]
+  },
+  {
+    "word": "同僚",
+    "reading": "どうりょう",
+    "meaning": "동료",
+    "meaningDetail": "함께 일하는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "同僚と食事する。", "ko": "동료와 식사한다." }
+    ]
+  },
+  {
+    "word": "上司",
+    "reading": "じょうし",
+    "meaning": "상사",
+    "meaningDetail": "위에 있는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "上司に報告する。", "ko": "상사에게 보고한다." }
+    ]
+  },
+  {
+    "word": "部下",
+    "reading": "ぶか",
+    "meaning": "부하",
+    "meaningDetail": "아래 직원",
+    "category": "명사",
+    "examples": [
+      { "ja": "部下を指導する。", "ko": "부하를 지도한다." }
+    ]
+  },
+  {
+    "word": "顧客",
+    "reading": "こきゃく",
+    "meaning": "고객",
+    "meaningDetail": "손님",
+    "category": "명사",
+    "examples": [
+      { "ja": "顧客を大切にする。", "ko": "고객을 소중히 한다." }
+    ]
+  },
+  {
+    "word": "取引先",
+    "reading": "とりひきさき",
+    "meaning": "거래처",
+    "meaningDetail": "거래하는 상대",
+    "category": "명사",
+    "examples": [
+      { "ja": "取引先と会う。", "ko": "거래처와 만난다." }
+    ]
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "서류",
+    "meaningDetail": "문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "書類を準備する。", "ko": "서류를 준비한다." }
+    ]
+  },
+  {
+    "word": "報告書",
+    "reading": "ほうこくしょ",
+    "meaning": "보고서",
+    "meaningDetail": "결과를 보고하는 문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "報告書を作成する。", "ko": "보고서를 작성한다." }
+    ]
+  },
+  {
+    "word": "企画",
+    "reading": "きかく",
+    "meaning": "기획",
+    "meaningDetail": "계획을 세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい企画を考える。", "ko": "새로운 기획을 생각한다." }
+    ]
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "계획",
+    "meaningDetail": "미리 정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を立てる。", "ko": "계획을 세운다." }
+    ]
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "예산",
+    "meaningDetail": "쓸 돈을 미리 정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を組む。", "ko": "예산을 짠다." }
+    ]
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "meaningDetail": "이루려는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を設定する。", "ko": "목표를 설정한다." }
+    ]
+  },
+  {
+    "word": "戦略",
+    "reading": "せんりゃく",
+    "meaning": "전략",
+    "meaningDetail": "계획적인 방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦略を練る。", "ko": "전략을 세운다." }
+    ]
+  },
+  {
+    "word": "実績",
+    "reading": "じっせき",
+    "meaning": "실적",
+    "meaningDetail": "실제 이룬 성과",
+    "category": "명사",
+    "examples": [
+      { "ja": "実績を上げる。", "ko": "실적을 올린다." }
+    ]
+  },
+  {
+    "word": "業績",
+    "reading": "ぎょうせき",
+    "meaning": "업적",
+    "meaningDetail": "사업 성과",
+    "category": "명사",
+    "examples": [
+      { "ja": "業績が好調だ。", "ko": "업적이 호조다." }
+    ]
+  },
+  {
+    "word": "成果",
+    "reading": "せいか",
+    "meaning": "성과",
+    "meaningDetail": "좋은 결과",
+    "category": "명사",
+    "examples": [
+      { "ja": "成果を出す。", "ko": "성과를 낸다." }
+    ]
+  },
+  {
+    "word": "課題",
+    "reading": "かだい",
+    "meaning": "과제",
+    "meaningDetail": "해야 할 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "課題を解決する。", "ko": "과제를 해결한다." }
+    ]
+  },
+  {
+    "word": "問題点",
+    "reading": "もんだいてん",
+    "meaning": "문제점",
+    "meaningDetail": "문제가 되는 부분",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題点を指摘する。", "ko": "문제점을 지적한다." }
+    ]
+  },
+  {
+    "word": "解決策",
+    "reading": "かいけつさく",
+    "meaning": "해결책",
+    "meaningDetail": "해결하는 방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "解決策を探す。", "ko": "해결책을 찾는다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "대응 방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を立てる。", "ko": "대책을 세운다." }
+    ]
+  },
+  {
+    "word": "措置",
+    "reading": "そち",
+    "meaning": "조치",
+    "meaningDetail": "대응하는 행동",
+    "category": "명사",
+    "examples": [
+      { "ja": "適切な措置を取る。", "ko": "적절한 조치를 취한다." }
+    ]
+  },
+  {
+    "word": "手順",
+    "reading": "てじゅん",
+    "meaning": "순서, 절차",
+    "meaningDetail": "하는 순서",
+    "category": "명사",
+    "examples": [
+      { "ja": "手順を説明する。", "ko": "순서를 설명한다." }
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "절차, 수속",
+    "meaningDetail": "필요한 과정",
+    "category": "명사",
+    "examples": [
+      { "ja": "手続きを済ませる。", "ko": "수속을 마친다." }
+    ]
+  },
+  {
+    "word": "作業",
+    "reading": "さぎょう",
+    "meaning": "작업",
+    "meaningDetail": "하는 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "作業を進める。", "ko": "작업을 진행한다." }
+    ]
+  },
+  {
+    "word": "業務",
+    "reading": "ぎょうむ",
+    "meaning": "업무",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "業務を担当する。", "ko": "업무를 담당한다." }
+    ]
+  }
+]

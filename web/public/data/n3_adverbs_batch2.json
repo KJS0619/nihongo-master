@@ -1,0 +1,482 @@
+[
+  {
+    "word": "直ちに",
+    "reading": "ただちに",
+    "meaning": "즉시, 바로",
+    "meaningDetail": "곧바로",
+    "category": "부사",
+    "examples": [
+      { "ja": "直ちに対応する。", "ko": "즉시 대응한다." }
+    ]
+  },
+  {
+    "word": "速やかに",
+    "reading": "すみやかに",
+    "meaning": "신속하게",
+    "meaningDetail": "빠르게",
+    "category": "부사",
+    "examples": [
+      { "ja": "速やかに報告する。", "ko": "신속하게 보고한다." }
+    ]
+  },
+  {
+    "word": "徐々に",
+    "reading": "じょじょに",
+    "meaning": "서서히",
+    "meaningDetail": "조금씩",
+    "category": "부사",
+    "examples": [
+      { "ja": "徐々に回復する。", "ko": "서서히 회복한다." }
+    ]
+  },
+  {
+    "word": "一気に",
+    "reading": "いっきに",
+    "meaning": "단숨에",
+    "meaningDetail": "한꺼번에",
+    "category": "부사",
+    "examples": [
+      { "ja": "一気に飲む。", "ko": "단숨에 마신다." }
+    ]
+  },
+  {
+    "word": "徹底的に",
+    "reading": "てっていてきに",
+    "meaning": "철저하게",
+    "meaningDetail": "완전히",
+    "category": "부사",
+    "examples": [
+      { "ja": "徹底的に調べる。", "ko": "철저하게 조사한다." }
+    ]
+  },
+  {
+    "word": "積極的に",
+    "reading": "せっきょくてきに",
+    "meaning": "적극적으로",
+    "meaningDetail": "능동적으로",
+    "category": "부사",
+    "examples": [
+      { "ja": "積極的に参加する。", "ko": "적극적으로 참가한다." }
+    ]
+  },
+  {
+    "word": "消極的に",
+    "reading": "しょうきょくてきに",
+    "meaning": "소극적으로",
+    "meaningDetail": "수동적으로",
+    "category": "부사",
+    "examples": [
+      { "ja": "消極的な態度だ。", "ko": "소극적인 태도다." }
+    ]
+  },
+  {
+    "word": "具体的に",
+    "reading": "ぐたいてきに",
+    "meaning": "구체적으로",
+    "meaningDetail": "상세하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "具体的に説明する。", "ko": "구체적으로 설명한다." }
+    ]
+  },
+  {
+    "word": "抽象的に",
+    "reading": "ちゅうしょうてきに",
+    "meaning": "추상적으로",
+    "meaningDetail": "막연하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "抽象的な表現だ。", "ko": "추상적인 표현이다." }
+    ]
+  },
+  {
+    "word": "意外に",
+    "reading": "いがいに",
+    "meaning": "의외로",
+    "meaningDetail": "예상과 다르게",
+    "category": "부사",
+    "examples": [
+      { "ja": "意外に簡単だった。", "ko": "의외로 간단했다." }
+    ]
+  },
+  {
+    "word": "案外",
+    "reading": "あんがい",
+    "meaning": "의외로",
+    "meaningDetail": "생각보다",
+    "category": "부사",
+    "examples": [
+      { "ja": "案外早く終わった。", "ko": "의외로 빨리 끝났다." }
+    ]
+  },
+  {
+    "word": "当然",
+    "reading": "とうぜん",
+    "meaning": "당연히",
+    "meaningDetail": "말할 것도 없이",
+    "category": "부사",
+    "examples": [
+      { "ja": "当然のことだ。", "ko": "당연한 일이다." }
+    ]
+  },
+  {
+    "word": "明らかに",
+    "reading": "あきらかに",
+    "meaning": "분명히",
+    "meaningDetail": "명백히",
+    "category": "부사",
+    "examples": [
+      { "ja": "明らかに違う。", "ko": "분명히 다르다." }
+    ]
+  },
+  {
+    "word": "単に",
+    "reading": "たんに",
+    "meaning": "단순히",
+    "meaningDetail": "그저",
+    "category": "부사",
+    "examples": [
+      { "ja": "単に忘れただけだ。", "ko": "단순히 잊었을 뿐이다." }
+    ]
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "meaning": "특히",
+    "meaningDetail": "특별히",
+    "category": "부사",
+    "examples": [
+      { "ja": "特に注意する。", "ko": "특히 주의한다." }
+    ]
+  },
+  {
+    "word": "別に",
+    "reading": "べつに",
+    "meaning": "별로",
+    "meaningDetail": "딱히",
+    "category": "부사",
+    "examples": [
+      { "ja": "別に問題ない。", "ko": "별로 문제없다." }
+    ]
+  },
+  {
+    "word": "相当",
+    "reading": "そうとう",
+    "meaning": "상당히",
+    "meaningDetail": "꽤",
+    "category": "부사",
+    "examples": [
+      { "ja": "相当疲れた。", "ko": "상당히 피곤했다." }
+    ]
+  },
+  {
+    "word": "非常に",
+    "reading": "ひじょうに",
+    "meaning": "매우",
+    "meaningDetail": "대단히",
+    "category": "부사",
+    "examples": [
+      { "ja": "非常に重要だ。", "ko": "매우 중요하다." }
+    ]
+  },
+  {
+    "word": "極めて",
+    "reading": "きわめて",
+    "meaning": "극히, 매우",
+    "meaningDetail": "아주",
+    "category": "부사",
+    "examples": [
+      { "ja": "極めて難しい。", "ko": "극히 어렵다." }
+    ]
+  },
+  {
+    "word": "ようやく",
+    "reading": "ようやく",
+    "meaning": "겨우, 간신히",
+    "meaningDetail": "드디어",
+    "category": "부사",
+    "examples": [
+      { "ja": "ようやく終わった。", "ko": "겨우 끝났다." }
+    ]
+  },
+  {
+    "word": "やっと",
+    "reading": "やっと",
+    "meaning": "겨우, 드디어",
+    "meaningDetail": "간신히",
+    "category": "부사",
+    "examples": [
+      { "ja": "やっと見つけた。", "ko": "겨우 찾았다." }
+    ]
+  },
+  {
+    "word": "ついに",
+    "reading": "ついに",
+    "meaning": "마침내, 드디어",
+    "meaningDetail": "결국",
+    "category": "부사",
+    "examples": [
+      { "ja": "ついに成功した。", "ko": "마침내 성공했다." }
+    ]
+  },
+  {
+    "word": "とうとう",
+    "reading": "とうとう",
+    "meaning": "결국, 마침내",
+    "meaningDetail": "드디어",
+    "category": "부사",
+    "examples": [
+      { "ja": "とうとう諦めた。", "ko": "결국 포기했다." }
+    ]
+  },
+  {
+    "word": "少なくとも",
+    "reading": "すくなくとも",
+    "meaning": "적어도",
+    "meaningDetail": "최소한",
+    "category": "부사",
+    "examples": [
+      { "ja": "少なくとも1時間かかる。", "ko": "적어도 1시간 걸린다." }
+    ]
+  },
+  {
+    "word": "せめて",
+    "reading": "せめて",
+    "meaning": "최소한, 적어도",
+    "meaningDetail": "최소",
+    "category": "부사",
+    "examples": [
+      { "ja": "せめてこれだけは。", "ko": "최소한 이것만은." }
+    ]
+  },
+  {
+    "word": "少々",
+    "reading": "しょうしょう",
+    "meaning": "조금, 약간",
+    "meaningDetail": "잠깐",
+    "category": "부사",
+    "examples": [
+      { "ja": "少々お待ちください。", "ko": "잠시 기다려주세요." }
+    ]
+  },
+  {
+    "word": "たっぷり",
+    "reading": "たっぷり",
+    "meaning": "충분히, 듬뿍",
+    "meaningDetail": "넉넉히",
+    "category": "부사",
+    "examples": [
+      { "ja": "たっぷり食べる。", "ko": "듬뿍 먹는다." }
+    ]
+  },
+  {
+    "word": "あっさり",
+    "reading": "あっさり",
+    "meaning": "담백하게, 쉽게",
+    "meaningDetail": "간단하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "あっさり認める。", "ko": "쉽게 인정한다." }
+    ]
+  },
+  {
+    "word": "すっかり",
+    "reading": "すっかり",
+    "meaning": "완전히",
+    "meaningDetail": "전부",
+    "category": "부사",
+    "examples": [
+      { "ja": "すっかり忘れた。", "ko": "완전히 잊었다." }
+    ]
+  },
+  {
+    "word": "すっきり",
+    "reading": "すっきり",
+    "meaning": "시원하게, 깔끔하게",
+    "meaningDetail": "개운하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "すっきりした。", "ko": "시원해졌다." }
+    ]
+  },
+  {
+    "word": "ぴったり",
+    "reading": "ぴったり",
+    "meaning": "딱 맞게",
+    "meaningDetail": "정확히",
+    "category": "부사",
+    "examples": [
+      { "ja": "サイズがぴったりだ。", "ko": "사이즈가 딱 맞다." }
+    ]
+  },
+  {
+    "word": "ばったり",
+    "reading": "ばったり",
+    "meaning": "우연히",
+    "meaningDetail": "뜻밖에",
+    "category": "부사",
+    "examples": [
+      { "ja": "ばったり会う。", "ko": "우연히 만난다." }
+    ]
+  },
+  {
+    "word": "じっと",
+    "reading": "じっと",
+    "meaning": "가만히",
+    "meaningDetail": "움직이지 않고",
+    "category": "부사",
+    "examples": [
+      { "ja": "じっと見る。", "ko": "가만히 본다." }
+    ]
+  },
+  {
+    "word": "ぐっすり",
+    "reading": "ぐっすり",
+    "meaning": "푹, 깊이",
+    "meaningDetail": "깊게 잠들다",
+    "category": "부사",
+    "examples": [
+      { "ja": "ぐっすり眠る。", "ko": "푹 잔다." }
+    ]
+  },
+  {
+    "word": "しっかり",
+    "reading": "しっかり",
+    "meaning": "단단히, 확실히",
+    "meaningDetail": "제대로",
+    "category": "부사",
+    "examples": [
+      { "ja": "しっかり握る。", "ko": "단단히 잡는다." }
+    ]
+  },
+  {
+    "word": "きっちり",
+    "reading": "きっちり",
+    "meaning": "정확히, 꼼꼼히",
+    "meaningDetail": "확실하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "きっちり計算する。", "ko": "정확히 계산한다." }
+    ]
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "천천히",
+    "meaningDetail": "느리게",
+    "category": "부사",
+    "examples": [
+      { "ja": "ゆっくり歩く。", "ko": "천천히 걷는다." }
+    ]
+  },
+  {
+    "word": "のんびり",
+    "reading": "のんびり",
+    "meaning": "여유롭게, 느긋하게",
+    "meaningDetail": "한가하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "のんびり過ごす。", "ko": "여유롭게 보낸다." }
+    ]
+  },
+  {
+    "word": "ぼんやり",
+    "reading": "ぼんやり",
+    "meaning": "멍하니",
+    "meaningDetail": "흐릿하게",
+    "category": "부사",
+    "examples": [
+      { "ja": "ぼんやり考える。", "ko": "멍하니 생각한다." }
+    ]
+  },
+  {
+    "word": "うっかり",
+    "reading": "うっかり",
+    "meaning": "깜빡, 실수로",
+    "meaningDetail": "무심코",
+    "category": "부사",
+    "examples": [
+      { "ja": "うっかり忘れる。", "ko": "깜빡 잊는다." }
+    ]
+  },
+  {
+    "word": "うんざり",
+    "reading": "うんざり",
+    "meaning": "지겹게",
+    "meaningDetail": "질리다",
+    "category": "부사",
+    "examples": [
+      { "ja": "うんざりする。", "ko": "지긋지긋하다." }
+    ]
+  },
+  {
+    "word": "がっかり",
+    "reading": "がっかり",
+    "meaning": "실망하여",
+    "meaningDetail": "낙담하여",
+    "category": "부사",
+    "examples": [
+      { "ja": "がっかりした。", "ko": "실망했다." }
+    ]
+  },
+  {
+    "word": "びっくり",
+    "reading": "びっくり",
+    "meaning": "깜짝",
+    "meaningDetail": "놀라서",
+    "category": "부사",
+    "examples": [
+      { "ja": "びっくりした。", "ko": "깜짝 놀랐다." }
+    ]
+  },
+  {
+    "word": "そっくり",
+    "reading": "そっくり",
+    "meaning": "꼭 닮게",
+    "meaningDetail": "똑같이",
+    "category": "부사",
+    "examples": [
+      { "ja": "母にそっくりだ。", "ko": "어머니와 꼭 닮았다." }
+    ]
+  },
+  {
+    "word": "ぐるぐる",
+    "reading": "ぐるぐる",
+    "meaning": "빙글빙글",
+    "meaningDetail": "돌고 도는 모양",
+    "category": "부사",
+    "examples": [
+      { "ja": "ぐるぐる回る。", "ko": "빙글빙글 돈다." }
+    ]
+  },
+  {
+    "word": "どんどん",
+    "reading": "どんどん",
+    "meaning": "자꾸, 점점",
+    "meaningDetail": "연속해서",
+    "category": "부사",
+    "examples": [
+      { "ja": "どんどん増える。", "ko": "자꾸 늘어난다." }
+    ]
+  },
+  {
+    "word": "ばらばら",
+    "reading": "ばらばら",
+    "meaning": "뿔뿔이",
+    "meaningDetail": "흩어져서",
+    "category": "부사",
+    "examples": [
+      { "ja": "ばらばらに散る。", "ko": "뿔뿔이 흩어진다." }
+    ]
+  },
+  {
+    "word": "ぼろぼろ",
+    "reading": "ぼろぼろ",
+    "meaning": "헐어서, 엉망으로",
+    "meaningDetail": "다 떨어져서",
+    "category": "부사",
+    "examples": [
+      { "ja": "靴がぼろぼろだ。", "ko": "신발이 헐었다." }
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+    {
+      "id": "n5_w076",
+      "word": "便利",
+      "reading": "べんり",
+      "meaning": "편리하다",
+      "meaningDetail": "사용하기 쉽고 도움이 되다",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "この店は便利です。", "reading": "このみせはべんりです。", "ko": "이 가게는 편리합니다."},
+        {"ja": "便利な場所に住んでいます。", "reading": "べんりなばしょにすんでいます。", "ko": "편리한 곳에 살고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "便利です", "reading": "べんりです"},
+        {"form": "명사수식", "value": "便利な+명사", "reading": "べんりな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "不便", "reading": "ふべん", "meaning": "불편하다", "relation": "반의어"}
+      ],
+      "kanji": [
+        {"char": "便", "reading": "べん", "meaning": "편할 편"},
+        {"char": "利", "reading": "り", "meaning": "이로울 리"}
+      ],
+      "tags": ["기본형용사", "な형용사", "평가"],
+      "frequency": 76
+    },
+    {
+      "id": "n5_w077",
+      "word": "きれい",
+      "reading": "きれい",
+      "meaning": "깨끗하다, 예쁘다",
+      "meaningDetail": "청결하거나 아름다운",
+      "jlpt": "N5",
+      "category": "な형용사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "部屋がきれいです。", "reading": "へやがきれいです。", "ko": "방이 깨끗합니다."},
+        {"ja": "きれいな花ですね。", "reading": "きれいなはなですね。", "ko": "예쁜 꽃이네요."}
+      ],
+      "conjugations": [
+        {"form": "~です", "value": "きれいです", "reading": "きれいです"},
+        {"form": "명사수식", "value": "きれいな+명사", "reading": "きれいな+명사"}
+      ],
+      "relatedWords": [
+        {"word": "汚い", "reading": "きたない", "meaning": "더럽다", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본형용사", "な형용사", "외관"],
+      "frequency": 77
+    },
+    {
+      "id": "n5_w078",
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "매일",
+      "meaningDetail": "하루하루, 날마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "毎日運動しています。", "reading": "まいにちうんどうしています。", "ko": "매일 운동하고 있습니다."},
+        {"ja": "毎日何時に起きますか。", "reading": "まいにちなんじにおきますか。", "ko": "매일 몇 시에 일어나요?"}
+      ],
+      "relatedWords": [
+        {"word": "毎週", "reading": "まいしゅう", "meaning": "매주", "relation": "관련어"},
+        {"word": "毎月", "reading": "まいつき", "meaning": "매달", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "毎", "reading": "まい", "meaning": "매양 매"},
+        {"char": "日", "reading": "にち", "meaning": "날 일"}
+      ],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 78
+    },
+    {
+      "id": "n5_w079",
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "항상, 늘",
+      "meaningDetail": "언제나",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "いつもありがとうございます。", "reading": "いつもありがとうございます。", "ko": "항상 감사합니다."},
+        {"ja": "いつもここで食べます。", "reading": "いつもここでたべます。", "ko": "항상 여기서 먹습니다."}
+      ],
+      "relatedWords": [
+        {"word": "時々", "reading": "ときどき", "meaning": "가끔", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "빈도"],
+      "frequency": 79
+    },
+    {
+      "id": "n5_w080",
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "가끔",
+      "meaningDetail": "때때로",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "時々映画を見ます。", "reading": "ときどきえいがをみます。", "ko": "가끔 영화를 봅니다."},
+        {"ja": "時々料理を作ります。", "reading": "ときどきりょうりをつくります。", "ko": "가끔 요리를 합니다."}
+      ],
+      "relatedWords": [
+        {"word": "いつも", "reading": "いつも", "meaning": "항상", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "時", "reading": "とき", "meaning": "때 시"}],
+      "tags": ["기본부사", "빈도"],
+      "frequency": 80
+    },
+    {
+      "id": "n5_w081",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "많이",
+      "meaningDetail": "수량이 많은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "たくさん食べました。", "reading": "たくさんたべました。", "ko": "많이 먹었습니다."},
+        {"ja": "たくさんの人がいます。", "reading": "たくさんのひとがいます。", "ko": "많은 사람이 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "少し", "reading": "すこし", "meaning": "조금", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "수량"],
+      "frequency": 81
+    },
+    {
+      "id": "n5_w082",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "조금",
+      "meaningDetail": "양이 적은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "少し待ってください。", "reading": "すこしまってください。", "ko": "조금 기다려 주세요."},
+        {"ja": "日本語が少し分かります。", "reading": "にほんごがすこしわかります。", "ko": "일본어를 조금 알아요."}
+      ],
+      "relatedWords": [
+        {"word": "たくさん", "reading": "たくさん", "meaning": "많이", "relation": "반의어"},
+        {"word": "ちょっと", "reading": "ちょっと", "meaning": "조금", "relation": "유의어"}
+      ],
+      "kanji": [{"char": "少", "reading": "すこ(し)", "meaning": "적을 소"}],
+      "tags": ["기본부사", "수량"],
+      "frequency": 82
+    },
+    {
+      "id": "n5_w083",
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "매우, 아주",
+      "meaningDetail": "정도가 높은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "とてもおいしいです。", "reading": "とてもおいしいです。", "ko": "매우 맛있습니다."},
+        {"ja": "今日はとても暑いです。", "reading": "きょうはとてもあついです。", "ko": "오늘은 매우 덥습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "정도"],
+      "frequency": 83
+    },
+    {
+      "id": "n5_w084",
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "잘, 자주",
+      "meaningDetail": "빈도가 높거나 능숙하게",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "よく分かりました。", "reading": "よくわかりました。", "ko": "잘 알겠습니다."},
+        {"ja": "よく映画を見ます。", "reading": "よくえいがをみます。", "ko": "자주 영화를 봅니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "정도", "빈도"],
+      "frequency": 84
+    },
+    {
+      "id": "n5_w085",
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "아직",
+      "meaningDetail": "예상한 시점에 이르지 않은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "まだ食べていません。", "reading": "まだたべていません。", "ko": "아직 안 먹었습니다."},
+        {"ja": "まだ来ていません。", "reading": "まだきていません。", "ko": "아직 안 왔습니다."}
+      ],
+      "relatedWords": [
+        {"word": "もう", "reading": "もう", "meaning": "벌써", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "시간"],
+      "frequency": 85
+    },
+    {
+      "id": "n5_w086",
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "벌써, 이미",
+      "meaningDetail": "예상보다 빠르게",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "もう食べました。", "reading": "もうたべました。", "ko": "벌써 먹었습니다."},
+        {"ja": "もう帰りますか。", "reading": "もうかえりますか。", "ko": "벌써 돌아가요?"}
+      ],
+      "relatedWords": [
+        {"word": "まだ", "reading": "まだ", "meaning": "아직", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "시간"],
+      "frequency": 86
+    },
+    {
+      "id": "n5_w087",
+      "word": "一",
+      "reading": "いち",
+      "meaning": "1, 하나",
+      "meaningDetail": "숫자 1",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "一つください。", "reading": "ひとつください。", "ko": "하나 주세요."},
+        {"ja": "一時に会いましょう。", "reading": "いちじにあいましょう。", "ko": "1시에 만납시다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "一", "reading": "いち", "meaning": "한 일"}],
+      "tags": ["숫자", "기본명사"],
+      "frequency": 87
+    },
+    {
+      "id": "n5_w088",
+      "word": "二",
+      "reading": "に",
+      "meaning": "2, 둘",
+      "meaningDetail": "숫자 2",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "二つあります。", "reading": "ふたつあります。", "ko": "두 개 있습니다."},
+        {"ja": "二人で行きます。", "reading": "ふたりでいきます。", "ko": "둘이서 갑니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "二", "reading": "に", "meaning": "두 이"}],
+      "tags": ["숫자", "기본명사"],
+      "frequency": 88
+    },
+    {
+      "id": "n5_w089",
+      "word": "三",
+      "reading": "さん",
+      "meaning": "3, 셋",
+      "meaningDetail": "숫자 3",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0],
+      "examples": [
+        {"ja": "三つください。", "reading": "みっつください。", "ko": "세 개 주세요."},
+        {"ja": "三人で食べます。", "reading": "さんにんでたべます。", "ko": "셋이서 먹습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "三", "reading": "さん", "meaning": "석 삼"}],
+      "tags": ["숫자", "기본명사"],
+      "frequency": 89
+    },
+    {
+      "id": "n5_w090",
+      "word": "日本",
+      "reading": "にほん",
+      "meaning": "일본",
+      "meaningDetail": "일본 국가",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "日本に行きます。", "reading": "にほんにいきます。", "ko": "일본에 갑니다."},
+        {"ja": "日本語を勉強しています。", "reading": "にほんごをべんきょうしています。", "ko": "일본어를 공부하고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "日本語", "reading": "にほんご", "meaning": "일본어", "relation": "관련어"},
+        {"word": "日本人", "reading": "にほんじん", "meaning": "일본인", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "日", "reading": "に", "meaning": "날 일"},
+        {"char": "本", "reading": "ほん", "meaning": "책 본"}
+      ],
+      "tags": ["기본명사", "국가"],
+      "frequency": 90
+    },
+    {
+      "id": "n5_w091",
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "일본어",
+      "meaningDetail": "일본의 언어",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "日本語を話します。", "reading": "にほんごをはなします。", "ko": "일본어를 말합니다."},
+        {"ja": "日本語は難しいですか。", "reading": "にほんごはむずかしいですか。", "ko": "일본어는 어려워요?"}
+      ],
+      "relatedWords": [
+        {"word": "英語", "reading": "えいご", "meaning": "영어", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "日", "reading": "に", "meaning": "날 일"},
+        {"char": "本", "reading": "ほん", "meaning": "책 본"},
+        {"char": "語", "reading": "ご", "meaning": "말씀 어"}
+      ],
+      "tags": ["기본명사", "언어"],
+      "frequency": 91
+    },
+    {
+      "id": "n5_w092",
+      "word": "水",
+      "reading": "みず",
+      "meaning": "물",
+      "meaningDetail": "H2O, 액체 상태의 물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0],
+      "examples": [
+        {"ja": "水を飲みます。", "reading": "みずをのみます。", "ko": "물을 마십니다."},
+        {"ja": "水がほしいです。", "reading": "みずがほしいです。", "ko": "물이 갖고 싶어요."}
+      ],
+      "relatedWords": [
+        {"word": "お茶", "reading": "おちゃ", "meaning": "차", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "水", "reading": "みず", "meaning": "물 수"}],
+      "tags": ["기본명사", "음료"],
+      "frequency": 92
+    },
+    {
+      "id": "n5_w093",
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "차 (음료)",
+      "meaningDetail": "녹차 등의 차 음료",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "お茶を飲みましょう。", "reading": "おちゃをのみましょう。", "ko": "차를 마십시다."},
+        {"ja": "お茶をどうぞ。", "reading": "おちゃをどうぞ。", "ko": "차 드세요."}
+      ],
+      "relatedWords": [
+        {"word": "コーヒー", "reading": "コーヒー", "meaning": "커피", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "茶", "reading": "ちゃ", "meaning": "차 다"}],
+      "tags": ["기본명사", "음료"],
+      "frequency": 93
+    },
+    {
+      "id": "n5_w094",
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "밥, 식사",
+      "meaningDetail": "쌀밥 또는 식사",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ご飯を食べます。", "reading": "ごはんをたべます。", "ko": "밥을 먹습니다."},
+        {"ja": "ご飯を作りました。", "reading": "ごはんをつくりました。", "ko": "밥을 지었습니다."}
+      ],
+      "relatedWords": [
+        {"word": "パン", "reading": "パン", "meaning": "빵", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "飯", "reading": "はん", "meaning": "밥 반"}],
+      "tags": ["기본명사", "음식"],
+      "frequency": 94
+    },
+    {
+      "id": "n5_w095",
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "고기",
+      "meaningDetail": "동물의 살",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "肉を食べます。", "reading": "にくをたべます。", "ko": "고기를 먹습니다."},
+        {"ja": "肉と魚どちらが好きですか。", "reading": "にくとさかなどちらがすきですか。", "ko": "고기와 생선 중 뭘 좋아해요?"}
+      ],
+      "relatedWords": [
+        {"word": "魚", "reading": "さかな", "meaning": "생선", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "肉", "reading": "にく", "meaning": "고기 육"}],
+      "tags": ["기본명사", "음식"],
+      "frequency": 95
+    },
+    {
+      "id": "n5_w096",
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "생선, 물고기",
+      "meaningDetail": "물에 사는 동물 또는 그 고기",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "魚が好きです。", "reading": "さかながすきです。", "ko": "생선을 좋아합니다."},
+        {"ja": "魚を食べましょう。", "reading": "さかなをたべましょう。", "ko": "생선을 먹읍시다."}
+      ],
+      "relatedWords": [
+        {"word": "肉", "reading": "にく", "meaning": "고기", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "魚", "reading": "さかな", "meaning": "물고기 어"}],
+      "tags": ["기본명사", "음식"],
+      "frequency": 96
+    },
+    {
+      "id": "n5_w097",
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "채소",
+      "meaningDetail": "식용 식물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "野菜を食べます。", "reading": "やさいをたべます。", "ko": "채소를 먹습니다."},
+        {"ja": "野菜が嫌いです。", "reading": "やさいがきらいです。", "ko": "채소를 싫어합니다."}
+      ],
+      "relatedWords": [
+        {"word": "果物", "reading": "くだもの", "meaning": "과일", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "野", "reading": "や", "meaning": "들 야"},
+        {"char": "菜", "reading": "さい", "meaning": "나물 채"}
+      ],
+      "tags": ["기본명사", "음식"],
+      "frequency": 97
+    },
+    {
+      "id": "n5_w098",
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "과일",
+      "meaningDetail": "식용 열매",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "果物を食べます。", "reading": "くだものをたべます。", "ko": "과일을 먹습니다."},
+        {"ja": "どんな果物が好きですか。", "reading": "どんなくだものがすきですか。", "ko": "어떤 과일을 좋아해요?"}
+      ],
+      "relatedWords": [
+        {"word": "りんご", "reading": "りんご", "meaning": "사과", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "果", "reading": "くだ", "meaning": "열매 과"},
+        {"char": "物", "reading": "もの", "meaning": "물건 물"}
+      ],
+      "tags": ["기본명사", "음식"],
+      "frequency": 98
+    },
+    {
+      "id": "n5_w099",
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "개",
+      "meaningDetail": "가축 동물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "犬がいます。", "reading": "いぬがいます。", "ko": "개가 있습니다."},
+        {"ja": "犬が好きです。", "reading": "いぬがすきです。", "ko": "개를 좋아합니다."}
+      ],
+      "relatedWords": [
+        {"word": "猫", "reading": "ねこ", "meaning": "고양이", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "犬", "reading": "いぬ", "meaning": "개 견"}],
+      "tags": ["기본명사", "동물"],
+      "frequency": 99
+    },
+    {
+      "id": "n5_w100",
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "고양이",
+      "meaningDetail": "가축 동물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "猫がいます。", "reading": "ねこがいます。", "ko": "고양이가 있습니다."},
+        {"ja": "猫が好きです。", "reading": "ねこがすきです。", "ko": "고양이를 좋아합니다."}
+      ],
+      "relatedWords": [
+        {"word": "犬", "reading": "いぬ", "meaning": "개", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "猫", "reading": "ねこ", "meaning": "고양이 묘"}],
+      "tags": ["기본명사", "동물"],
+      "frequency": 100
+    }
+]

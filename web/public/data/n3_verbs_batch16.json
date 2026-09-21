@@ -1,0 +1,541 @@
+[
+  {
+    "word": "投資する",
+    "reading": "とうしする",
+    "meaning": "투자하다",
+    "meaningDetail": "돈을 넣다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "株に投資する。", "ko": "주식에 투자하다." }
+    ]
+  },
+  {
+    "word": "融資する",
+    "reading": "ゆうしする",
+    "meaning": "융자하다",
+    "meaningDetail": "빌려주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "銀行から融資する。", "ko": "은행에서 융자하다." }
+    ]
+  },
+  {
+    "word": "出資する",
+    "reading": "しゅっしする",
+    "meaning": "출자하다",
+    "meaningDetail": "돈을 내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事業に出資する。", "ko": "사업에 출자하다." }
+    ]
+  },
+  {
+    "word": "貯金する",
+    "reading": "ちょきんする",
+    "meaning": "저금하다",
+    "meaningDetail": "모으다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "毎月貯金する。", "ko": "매달 저금하다." }
+    ]
+  },
+  {
+    "word": "節約する",
+    "reading": "せつやくする",
+    "meaning": "절약하다",
+    "meaningDetail": "아끼다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "電気を節約する。", "ko": "전기를 절약하다." }
+    ]
+  },
+  {
+    "word": "浪費する",
+    "reading": "ろうひする",
+    "meaning": "낭비하다",
+    "meaningDetail": "헤프게 쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "時間を浪費する。", "ko": "시간을 낭비하다." }
+    ]
+  },
+  {
+    "word": "消費する",
+    "reading": "しょうひする",
+    "meaning": "소비하다",
+    "meaningDetail": "쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "エネルギーを消費する。", "ko": "에너지를 소비하다." }
+    ]
+  },
+  {
+    "word": "生産する",
+    "reading": "せいさんする",
+    "meaning": "생산하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を生産する。", "ko": "제품을 생산하다." }
+    ]
+  },
+  {
+    "word": "製造する",
+    "reading": "せいぞうする",
+    "meaning": "제조하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "部品を製造する。", "ko": "부품을 제조하다." }
+    ]
+  },
+  {
+    "word": "加工する",
+    "reading": "かこうする",
+    "meaning": "가공하다",
+    "meaningDetail": "손질하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原料を加工する。", "ko": "원료를 가공하다." }
+    ]
+  },
+  {
+    "word": "組み立てる",
+    "reading": "くみたてる",
+    "meaning": "조립하다",
+    "meaningDetail": "짜 맞추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "機械を組み立てる。", "ko": "기계를 조립하다." }
+    ]
+  },
+  {
+    "word": "分解する",
+    "reading": "ぶんかいする",
+    "meaning": "분해하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械を分解する。", "ko": "기계를 분해하다." }
+    ]
+  },
+  {
+    "word": "修理する",
+    "reading": "しゅうりする",
+    "meaning": "수리하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "車を修理する。", "ko": "차를 수리하다." }
+    ]
+  },
+  {
+    "word": "修繕する",
+    "reading": "しゅうぜんする",
+    "meaning": "수선하다",
+    "meaningDetail": "손보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "建物を修繕する。", "ko": "건물을 수선하다." }
+    ]
+  },
+  {
+    "word": "点検する",
+    "reading": "てんけんする",
+    "meaning": "점검하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "設備を点検する。", "ko": "설비를 점검하다." }
+    ]
+  },
+  {
+    "word": "検査する",
+    "reading": "けんさする",
+    "meaning": "검사하다",
+    "meaningDetail": "조사하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "品質を検査する。", "ko": "품질을 검사하다." }
+    ]
+  },
+  {
+    "word": "検討する",
+    "reading": "けんとうする",
+    "meaning": "검토하다",
+    "meaningDetail": "살펴보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "案を検討する。", "ko": "안을 검토하다." }
+    ]
+  },
+  {
+    "word": "審査する",
+    "reading": "しんさする",
+    "meaning": "심사하다",
+    "meaningDetail": "평가하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類を審査する。", "ko": "서류를 심사하다." }
+    ]
+  },
+  {
+    "word": "診断する",
+    "reading": "しんだんする",
+    "meaning": "진단하다",
+    "meaningDetail": "판별하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気を診断する。", "ko": "병을 진단하다." }
+    ]
+  },
+  {
+    "word": "治療する",
+    "reading": "ちりょうする",
+    "meaning": "치료하다",
+    "meaningDetail": "낫게 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患者を治療する。", "ko": "환자를 치료하다." }
+    ]
+  },
+  {
+    "word": "手術する",
+    "reading": "しゅじゅつする",
+    "meaning": "수술하다",
+    "meaningDetail": "째다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "心臓を手術する。", "ko": "심장을 수술하다." }
+    ]
+  },
+  {
+    "word": "入院する",
+    "reading": "にゅういんする",
+    "meaning": "입원하다",
+    "meaningDetail": "병원에 들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病院に入院する。", "ko": "병원에 입원하다." }
+    ]
+  },
+  {
+    "word": "退院する",
+    "reading": "たいいんする",
+    "meaning": "퇴원하다",
+    "meaningDetail": "병원에서 나오다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病院を退院する。", "ko": "병원을 퇴원하다." }
+    ]
+  },
+  {
+    "word": "通院する",
+    "reading": "つういんする",
+    "meaning": "통원하다",
+    "meaningDetail": "병원에 다니다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "毎週通院する。", "ko": "매주 통원하다." }
+    ]
+  },
+  {
+    "word": "回復する",
+    "reading": "かいふくする",
+    "meaning": "회복하다",
+    "meaningDetail": "낫다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "体力が回復する。", "ko": "체력이 회복하다." }
+    ]
+  },
+  {
+    "word": "悪化する",
+    "reading": "あっかする",
+    "meaning": "악화하다",
+    "meaningDetail": "나빠지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状態が悪化する。", "ko": "상태가 악화하다." }
+    ]
+  },
+  {
+    "word": "改良する",
+    "reading": "かいりょうする",
+    "meaning": "개량하다",
+    "meaningDetail": "좋게 고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "品種を改良する。", "ko": "품종을 개량하다." }
+    ]
+  },
+  {
+    "word": "開発する",
+    "reading": "かいはつする",
+    "meaning": "개발하다",
+    "meaningDetail": "새로 만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新製品を開発する。", "ko": "신제품을 개발하다." }
+    ]
+  },
+  {
+    "word": "研究する",
+    "reading": "けんきゅうする",
+    "meaning": "연구하다",
+    "meaningDetail": "탐구하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "テーマを研究する。", "ko": "주제를 연구하다." }
+    ]
+  },
+  {
+    "word": "実験する",
+    "reading": "じっけんする",
+    "meaning": "실험하다",
+    "meaningDetail": "시험하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "仮説を実験する。", "ko": "가설을 실험하다." }
+    ]
+  },
+  {
+    "word": "分析する",
+    "reading": "ぶんせきする",
+    "meaning": "분석하다",
+    "meaningDetail": "나누어 살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석하다." }
+    ]
+  },
+  {
+    "word": "調査する",
+    "reading": "ちょうさする",
+    "meaning": "조사하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原因を調査する。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "観察する",
+    "reading": "かんさつする",
+    "meaning": "관찰하다",
+    "meaningDetail": "살펴보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "自然を観察する。", "ko": "자연을 관찰하다." }
+    ]
+  },
+  {
+    "word": "測定する",
+    "reading": "そくていする",
+    "meaning": "측정하다",
+    "meaningDetail": "재다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "温度を測定する。", "ko": "온도를 측정하다." }
+    ]
+  },
+  {
+    "word": "計測する",
+    "reading": "けいそくする",
+    "meaning": "계측하다",
+    "meaningDetail": "재다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "距離を計測する。", "ko": "거리를 계측하다." }
+    ]
+  },
+  {
+    "word": "記録する",
+    "reading": "きろくする",
+    "meaning": "기록하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果を記録する。", "ko": "결과를 기록하다." }
+    ]
+  },
+  {
+    "word": "登録する",
+    "reading": "とうろくする",
+    "meaning": "등록하다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会員に登録する。", "ko": "회원으로 등록하다." }
+    ]
+  },
+  {
+    "word": "申請する",
+    "reading": "しんせいする",
+    "meaning": "신청하다",
+    "meaningDetail": "청구하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ビザを申請する。", "ko": "비자를 신청하다." }
+    ]
+  },
+  {
+    "word": "申告する",
+    "reading": "しんこくする",
+    "meaning": "신고하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "税金を申告する。", "ko": "세금을 신고하다." }
+    ]
+  },
+  {
+    "word": "届け出る",
+    "reading": "とどけでる",
+    "meaning": "신고하다",
+    "meaningDetail": "제출하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "届け出を出す。", "ko": "신고를 내다." }
+    ]
+  },
+  {
+    "word": "提出する",
+    "reading": "ていしゅつする",
+    "meaning": "제출하다",
+    "meaningDetail": "내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類を提出する。", "ko": "서류를 제출하다." }
+    ]
+  },
+  {
+    "word": "提供する",
+    "reading": "ていきょうする",
+    "meaning": "제공하다",
+    "meaningDetail": "주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "サービスを提供する。", "ko": "서비스를 제공하다." }
+    ]
+  },
+  {
+    "word": "供給する",
+    "reading": "きょうきゅうする",
+    "meaning": "공급하다",
+    "meaningDetail": "대다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "水を供給する。", "ko": "물을 공급하다." }
+    ]
+  },
+  {
+    "word": "配布する",
+    "reading": "はいふする",
+    "meaning": "배포하다",
+    "meaningDetail": "나누어 주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資料を配布する。", "ko": "자료를 배포하다." }
+    ]
+  },
+  {
+    "word": "配達する",
+    "reading": "はいたつする",
+    "meaning": "배달하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を配達する。", "ko": "짐을 배달하다." }
+    ]
+  },
+  {
+    "word": "輸送する",
+    "reading": "ゆそうする",
+    "meaning": "수송하다",
+    "meaningDetail": "나르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "貨物を輸送する。", "ko": "화물을 수송하다." }
+    ]
+  },
+  {
+    "word": "輸出する",
+    "reading": "ゆしゅつする",
+    "meaning": "수출하다",
+    "meaningDetail": "팔아 보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を輸出する。", "ko": "제품을 수출하다." }
+    ]
+  },
+  {
+    "word": "輸入する",
+    "reading": "ゆにゅうする",
+    "meaning": "수입하다",
+    "meaningDetail": "사 들이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原料を輸入する。", "ko": "원료를 수입하다." }
+    ]
+  },
+  {
+    "word": "取引する",
+    "reading": "とりひきする",
+    "meaning": "거래하다",
+    "meaningDetail": "사고팔다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社と取引する。", "ko": "회사와 거래하다." }
+    ]
+  }
+]

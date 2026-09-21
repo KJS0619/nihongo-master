@@ -1,0 +1,497 @@
+[
+  {
+    "word": "占める",
+    "reading": "しめる",
+    "meaning": "차지하다",
+    "meaningDetail": "점유하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "大部分を占める。", "ko": "대부분을 차지하다." }
+    ]
+  },
+  {
+    "word": "占う",
+    "reading": "うらなう",
+    "meaning": "점치다",
+    "meaningDetail": "예언하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "運勢を占う。", "ko": "운세를 점치다." }
+    ]
+  },
+  {
+    "word": "支配する",
+    "reading": "しはいする",
+    "meaning": "지배하다",
+    "meaningDetail": "통치하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "市場を支配する。", "ko": "시장을 지배하다." }
+    ]
+  },
+  {
+    "word": "統治する",
+    "reading": "とうちする",
+    "meaning": "통치하다",
+    "meaningDetail": "다스리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "国を統治する。", "ko": "나라를 통치하다." }
+    ]
+  },
+  {
+    "word": "統制する",
+    "reading": "とうせいする",
+    "meaning": "통제하다",
+    "meaningDetail": "제어하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "価格を統制する。", "ko": "가격을 통제하다." }
+    ]
+  },
+  {
+    "word": "制御する",
+    "reading": "せいぎょする",
+    "meaning": "제어하다",
+    "meaningDetail": "조절하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械を制御する。", "ko": "기계를 제어하다." }
+    ]
+  },
+  {
+    "word": "制限する",
+    "reading": "せいげんする",
+    "meaning": "제한하다",
+    "meaningDetail": "한정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "速度を制限する。", "ko": "속도를 제한하다." }
+    ]
+  },
+  {
+    "word": "規制する",
+    "reading": "きせいする",
+    "meaning": "규제하다",
+    "meaningDetail": "통제하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "交通を規制する。", "ko": "교통을 규제하다." }
+    ]
+  },
+  {
+    "word": "禁止する",
+    "reading": "きんしする",
+    "meaning": "금지하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "喫煙を禁止する。", "ko": "흡연을 금지하다." }
+    ]
+  },
+  {
+    "word": "禁じる",
+    "reading": "きんじる",
+    "meaning": "금하다",
+    "meaningDetail": "금지하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "立ち入りを禁じる。", "ko": "출입을 금하다." }
+    ]
+  },
+  {
+    "word": "許可する",
+    "reading": "きょかする",
+    "meaning": "허가하다",
+    "meaningDetail": "허락하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "営業を許可する。", "ko": "영업을 허가하다." }
+    ]
+  },
+  {
+    "word": "許す",
+    "reading": "ゆるす",
+    "meaning": "용서하다",
+    "meaningDetail": "허락하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過ちを許す。", "ko": "잘못을 용서하다." }
+    ]
+  },
+  {
+    "word": "認可する",
+    "reading": "にんかする",
+    "meaning": "인가하다",
+    "meaningDetail": "승인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "設立を認可する。", "ko": "설립을 인가하다." }
+    ]
+  },
+  {
+    "word": "承認する",
+    "reading": "しょうにんする",
+    "meaning": "승인하다",
+    "meaningDetail": "인정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "予算を承認する。", "ko": "예산을 승인하다." }
+    ]
+  },
+  {
+    "word": "承諾する",
+    "reading": "しょうだくする",
+    "meaning": "승낙하다",
+    "meaningDetail": "동의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "依頼を承諾する。", "ko": "의뢰를 승낙하다." }
+    ]
+  },
+  {
+    "word": "拒否する",
+    "reading": "きょひする",
+    "meaning": "거부하다",
+    "meaningDetail": "거절하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "要求を拒否する。", "ko": "요구를 거부하다." }
+    ]
+  },
+  {
+    "word": "拒む",
+    "reading": "こばむ",
+    "meaning": "거절하다",
+    "meaningDetail": "거부하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "申し出を拒む。", "ko": "신청을 거절하다." }
+    ]
+  },
+  {
+    "word": "断る",
+    "reading": "ことわる",
+    "meaning": "거절하다",
+    "meaningDetail": "사양하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "招待を断る。", "ko": "초대를 거절하다." }
+    ]
+  },
+  {
+    "word": "辞退する",
+    "reading": "じたいする",
+    "meaning": "사퇴하다",
+    "meaningDetail": "사양하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "賞を辞退する。", "ko": "상을 사양하다." }
+    ]
+  },
+  {
+    "word": "辞職する",
+    "reading": "じしょくする",
+    "meaning": "사직하다",
+    "meaningDetail": "퇴직하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "職を辞職する。", "ko": "직을 사직하다." }
+    ]
+  },
+  {
+    "word": "退職する",
+    "reading": "たいしょくする",
+    "meaning": "퇴직하다",
+    "meaningDetail": "그만두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社を退職する。", "ko": "회사를 퇴직하다." }
+    ]
+  },
+  {
+    "word": "解雇する",
+    "reading": "かいこする",
+    "meaning": "해고하다",
+    "meaningDetail": "해임하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "従業員を解雇する。", "ko": "종업원을 해고하다." }
+    ]
+  },
+  {
+    "word": "雇う",
+    "reading": "やとう",
+    "meaning": "고용하다",
+    "meaningDetail": "채용하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人を雇う。", "ko": "사람을 고용하다." }
+    ]
+  },
+  {
+    "word": "採用する",
+    "reading": "さいようする",
+    "meaning": "채용하다",
+    "meaningDetail": "고용하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新人を採用する。", "ko": "신입을 채용하다." }
+    ]
+  },
+  {
+    "word": "任命する",
+    "reading": "にんめいする",
+    "meaning": "임명하다",
+    "meaningDetail": "지명하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "委員長に任命する。", "ko": "위원장에 임명하다." }
+    ]
+  },
+  {
+    "word": "指名する",
+    "reading": "しめいする",
+    "meaning": "지명하다",
+    "meaningDetail": "지정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "後継者を指名する。", "ko": "후계자를 지명하다." }
+    ]
+  },
+  {
+    "word": "指定する",
+    "reading": "していする",
+    "meaning": "지정하다",
+    "meaningDetail": "정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "場所を指定する。", "ko": "장소를 지정하다." }
+    ]
+  },
+  {
+    "word": "指示する",
+    "reading": "しじする",
+    "meaning": "지시하다",
+    "meaningDetail": "명령하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "方針を指示する。", "ko": "방침을 지시하다." }
+    ]
+  },
+  {
+    "word": "指摘する",
+    "reading": "してきする",
+    "meaning": "지적하다",
+    "meaningDetail": "가리키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を指摘する。", "ko": "문제를 지적하다." }
+    ]
+  },
+  {
+    "word": "指導する",
+    "reading": "しどうする",
+    "meaning": "지도하다",
+    "meaningDetail": "가르치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "学生を指導する。", "ko": "학생을 지도하다." }
+    ]
+  },
+  {
+    "word": "教育する",
+    "reading": "きょういくする",
+    "meaning": "교육하다",
+    "meaningDetail": "가르치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "子供を教育する。", "ko": "아이를 교육하다." }
+    ]
+  },
+  {
+    "word": "訓練する",
+    "reading": "くんれんする",
+    "meaning": "훈련하다",
+    "meaningDetail": "연습하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "選手を訓練する。", "ko": "선수를 훈련하다." }
+    ]
+  },
+  {
+    "word": "鍛える",
+    "reading": "きたえる",
+    "meaning": "단련하다",
+    "meaningDetail": "훈련하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "体を鍛える。", "ko": "몸을 단련하다." }
+    ]
+  },
+  {
+    "word": "養う",
+    "reading": "やしなう",
+    "meaning": "기르다",
+    "meaningDetail": "양육하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "家族を養う。", "ko": "가족을 부양하다." }
+    ]
+  },
+  {
+    "word": "育てる",
+    "reading": "そだてる",
+    "meaning": "키우다",
+    "meaningDetail": "양육하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "植物を育てる。", "ko": "식물을 키우다." }
+    ]
+  },
+  {
+    "word": "育む",
+    "reading": "はぐくむ",
+    "meaning": "기르다",
+    "meaningDetail": "양육하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "才能を育む。", "ko": "재능을 기르다." }
+    ]
+  },
+  {
+    "word": "成長する",
+    "reading": "せいちょうする",
+    "meaning": "성장하다",
+    "meaningDetail": "자라다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "子供が成長する。", "ko": "아이가 성장하다." }
+    ]
+  },
+  {
+    "word": "発達する",
+    "reading": "はったつする",
+    "meaning": "발달하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "技術が発達する。", "ko": "기술이 발달하다." }
+    ]
+  },
+  {
+    "word": "進化する",
+    "reading": "しんかする",
+    "meaning": "진화하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "生物が進化する。", "ko": "생물이 진화하다." }
+    ]
+  },
+  {
+    "word": "進歩する",
+    "reading": "しんぽする",
+    "meaning": "진보하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "医学が進歩する。", "ko": "의학이 진보하다." }
+    ]
+  },
+  {
+    "word": "進展する",
+    "reading": "しんてんする",
+    "meaning": "진전하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事態が進展する。", "ko": "사태가 진전하다." }
+    ]
+  },
+  {
+    "word": "前進する",
+    "reading": "ぜんしんする",
+    "meaning": "전진하다",
+    "meaningDetail": "나아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "一歩前進する。", "ko": "한 발 전진하다." }
+    ]
+  },
+  {
+    "word": "後退する",
+    "reading": "こうたいする",
+    "meaning": "후퇴하다",
+    "meaningDetail": "물러나다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "景気が後退する。", "ko": "경기가 후퇴하다." }
+    ]
+  },
+  {
+    "word": "退化する",
+    "reading": "たいかする",
+    "meaning": "퇴화하다",
+    "meaningDetail": "쇠퇴하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機能が退化する。", "ko": "기능이 퇴화하다." }
+    ]
+  },
+  {
+    "word": "衰退する",
+    "reading": "すいたいする",
+    "meaning": "쇠퇴하다",
+    "meaningDetail": "몰락하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "産業が衰退する。", "ko": "산업이 쇠퇴하다." }
+    ]
+  }
+]

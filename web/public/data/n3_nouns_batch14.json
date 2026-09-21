@@ -1,0 +1,492 @@
+[
+  {
+    "word": "延期",
+    "reading": "えんき",
+    "meaning": "연기",
+    "meaningDetail": "미룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "試合が延期になる。", "ko": "시합이 연기된다." }
+    ]
+  },
+  {
+    "word": "縮小",
+    "reading": "しゅくしょう",
+    "meaning": "축소",
+    "meaningDetail": "줄임",
+    "category": "명사",
+    "examples": [
+      { "ja": "規模を縮小する。", "ko": "규모를 축소한다." }
+    ]
+  },
+  {
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaning": "확대",
+    "meaningDetail": "넓힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "事業を拡大する。", "ko": "사업을 확대한다." }
+    ]
+  },
+  {
+    "word": "増加",
+    "reading": "ぞうか",
+    "meaning": "증가",
+    "meaningDetail": "늘어남",
+    "category": "명사",
+    "examples": [
+      { "ja": "人口が増加する。", "ko": "인구가 증가한다." }
+    ]
+  },
+  {
+    "word": "減少",
+    "reading": "げんしょう",
+    "meaning": "감소",
+    "meaningDetail": "줄어듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上が減少する。", "ko": "매출이 감소한다." }
+    ]
+  },
+  {
+    "word": "上昇",
+    "reading": "じょうしょう",
+    "meaning": "상승",
+    "meaningDetail": "오름",
+    "category": "명사",
+    "examples": [
+      { "ja": "温度が上昇する。", "ko": "온도가 상승한다." }
+    ]
+  },
+  {
+    "word": "下降",
+    "reading": "かこう",
+    "meaning": "하강",
+    "meaningDetail": "내려감",
+    "category": "명사",
+    "examples": [
+      { "ja": "気温が下降する。", "ko": "기온이 하강한다." }
+    ]
+  },
+  {
+    "word": "発生",
+    "reading": "はっせい",
+    "meaning": "발생",
+    "meaningDetail": "생겨남",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題が発生する。", "ko": "문제가 발생한다." }
+    ]
+  },
+  {
+    "word": "消滅",
+    "reading": "しょうめつ",
+    "meaning": "소멸",
+    "meaningDetail": "없어짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "種が消滅する。", "ko": "종이 소멸한다." }
+    ]
+  },
+  {
+    "word": "出現",
+    "reading": "しゅつげん",
+    "meaning": "출현",
+    "meaningDetail": "나타남",
+    "category": "명사",
+    "examples": [
+      { "ja": "新種が出現する。", "ko": "신종이 출현한다." }
+    ]
+  },
+  {
+    "word": "消失",
+    "reading": "しょうしつ",
+    "meaning": "소실",
+    "meaningDetail": "사라짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "データが消失する。", "ko": "데이터가 소실된다." }
+    ]
+  },
+  {
+    "word": "存在",
+    "reading": "そんざい",
+    "meaning": "존재",
+    "meaningDetail": "있음",
+    "category": "명사",
+    "examples": [
+      { "ja": "存在を確認する。", "ko": "존재를 확인한다." }
+    ]
+  },
+  {
+    "word": "関係",
+    "reading": "かんけい",
+    "meaning": "관계",
+    "meaningDetail": "사이",
+    "category": "명사",
+    "examples": [
+      { "ja": "関係を築く。", "ko": "관계를 쌓는다." }
+    ]
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "meaningDetail": "미침",
+    "category": "명사",
+    "examples": [
+      { "ja": "影響を与える。", "ko": "영향을 준다." }
+    ]
+  },
+  {
+    "word": "作用",
+    "reading": "さよう",
+    "meaning": "작용",
+    "meaningDetail": "효과",
+    "category": "명사",
+    "examples": [
+      { "ja": "副作用がある。", "ko": "부작용이 있다." }
+    ]
+  },
+  {
+    "word": "反応",
+    "reading": "はんのう",
+    "meaning": "반응",
+    "meaningDetail": "응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "反応を見る。", "ko": "반응을 본다." }
+    ]
+  },
+  {
+    "word": "対応",
+    "reading": "たいおう",
+    "meaning": "대응",
+    "meaningDetail": "응대",
+    "category": "명사",
+    "examples": [
+      { "ja": "適切に対応する。", "ko": "적절히 대응한다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "대처 방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を考える。", "ko": "대책을 생각한다." }
+    ]
+  },
+  {
+    "word": "処理",
+    "reading": "しょり",
+    "meaning": "처리",
+    "meaningDetail": "다룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを処理する。", "ko": "데이터를 처리한다." }
+    ]
+  },
+  {
+    "word": "管理",
+    "reading": "かんり",
+    "meaning": "관리",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質を管理する。", "ko": "품질을 관리한다." }
+    ]
+  },
+  {
+    "word": "運営",
+    "reading": "うんえい",
+    "meaning": "운영",
+    "meaningDetail": "경영",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を運営する。", "ko": "회사를 운영한다." }
+    ]
+  },
+  {
+    "word": "経営",
+    "reading": "けいえい",
+    "meaning": "경영",
+    "meaningDetail": "관리 운영",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を経営する。", "ko": "회사를 경영한다." }
+    ]
+  },
+  {
+    "word": "製造",
+    "reading": "せいぞう",
+    "meaning": "제조",
+    "meaningDetail": "만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を製造する。", "ko": "제품을 제조한다." }
+    ]
+  },
+  {
+    "word": "生産",
+    "reading": "せいさん",
+    "meaning": "생산",
+    "meaningDetail": "만들어 냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を生産する。", "ko": "상품을 생산한다." }
+    ]
+  },
+  {
+    "word": "消費",
+    "reading": "しょうひ",
+    "meaning": "소비",
+    "meaningDetail": "사용함",
+    "category": "명사",
+    "examples": [
+      { "ja": "エネルギーを消費する。", "ko": "에너지를 소비한다." }
+    ]
+  },
+  {
+    "word": "供給",
+    "reading": "きょうきゅう",
+    "meaning": "공급",
+    "meaningDetail": "제공",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力を供給する。", "ko": "전력을 공급한다." }
+    ]
+  },
+  {
+    "word": "需要",
+    "reading": "じゅよう",
+    "meaning": "수요",
+    "meaningDetail": "필요",
+    "category": "명사",
+    "examples": [
+      { "ja": "需要が増える。", "ko": "수요가 늘어난다." }
+    ]
+  },
+  {
+    "word": "輸送",
+    "reading": "ゆそう",
+    "meaning": "수송",
+    "meaningDetail": "운반",
+    "category": "명사",
+    "examples": [
+      { "ja": "荷物を輸送する。", "ko": "짐을 수송한다." }
+    ]
+  },
+  {
+    "word": "流通",
+    "reading": "りゅうつう",
+    "meaning": "유통",
+    "meaningDetail": "돌아다님",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品が流通する。", "ko": "상품이 유통된다." }
+    ]
+  },
+  {
+    "word": "配送",
+    "reading": "はいそう",
+    "meaning": "배송",
+    "meaningDetail": "배달",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を配送する。", "ko": "상품을 배송한다." }
+    ]
+  },
+  {
+    "word": "宣伝",
+    "reading": "せんでん",
+    "meaning": "선전",
+    "meaningDetail": "광고",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を宣伝する。", "ko": "상품을 선전한다." }
+    ]
+  },
+  {
+    "word": "広告",
+    "reading": "こうこく",
+    "meaning": "광고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "広告を出す。", "ko": "광고를 낸다." }
+    ]
+  },
+  {
+    "word": "紹介",
+    "reading": "しょうかい",
+    "meaning": "소개",
+    "meaningDetail": "알려줌",
+    "category": "명사",
+    "examples": [
+      { "ja": "友人を紹介する。", "ko": "친구를 소개한다." }
+    ]
+  },
+  {
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "설명",
+    "meaningDetail": "풀이함",
+    "category": "명사",
+    "examples": [
+      { "ja": "内容を説明する。", "ko": "내용을 설명한다." }
+    ]
+  },
+  {
+    "word": "解説",
+    "reading": "かいせつ",
+    "meaning": "해설",
+    "meaningDetail": "풀어서 설명함",
+    "category": "명사",
+    "examples": [
+      { "ja": "記事を解説する。", "ko": "기사를 해설한다." }
+    ]
+  },
+  {
+    "word": "表示",
+    "reading": "ひょうじ",
+    "meaning": "표시",
+    "meaningDetail": "나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格を表示する。", "ko": "가격을 표시한다." }
+    ]
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "발표",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果を発表する。", "ko": "결과를 발표한다." }
+    ]
+  },
+  {
+    "word": "公開",
+    "reading": "こうかい",
+    "meaning": "공개",
+    "meaningDetail": "드러냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を公開する。", "ko": "정보를 공개한다." }
+    ]
+  },
+  {
+    "word": "公表",
+    "reading": "こうひょう",
+    "meaning": "공표",
+    "meaningDetail": "발표함",
+    "category": "명사",
+    "examples": [
+      { "ja": "数字を公表する。", "ko": "숫자를 공표한다." }
+    ]
+  },
+  {
+    "word": "発行",
+    "reading": "はっこう",
+    "meaning": "발행",
+    "meaningDetail": "내어놓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "雑誌を発行する。", "ko": "잡지를 발행한다." }
+    ]
+  },
+  {
+    "word": "出版",
+    "reading": "しゅっぱん",
+    "meaning": "출판",
+    "meaningDetail": "책을 펴냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "本を出版する。", "ko": "책을 출판한다." }
+    ]
+  },
+  {
+    "word": "掲載",
+    "reading": "けいさい",
+    "meaning": "게재",
+    "meaningDetail": "실음",
+    "category": "명사",
+    "examples": [
+      { "ja": "記事を掲載する。", "ko": "기사를 게재한다." }
+    ]
+  },
+  {
+    "word": "引用",
+    "reading": "いんよう",
+    "meaning": "인용",
+    "meaningDetail": "빌려 씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "文章を引用する。", "ko": "문장을 인용한다." }
+    ]
+  },
+  {
+    "word": "参考",
+    "reading": "さんこう",
+    "meaning": "참고",
+    "meaningDetail": "참조함",
+    "category": "명사",
+    "examples": [
+      { "ja": "参考にする。", "ko": "참고로 한다." }
+    ]
+  },
+  {
+    "word": "参照",
+    "reading": "さんしょう",
+    "meaning": "참조",
+    "meaningDetail": "참고함",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を参照する。", "ko": "자료를 참조한다." }
+    ]
+  },
+  {
+    "word": "活用",
+    "reading": "かつよう",
+    "meaning": "활용",
+    "meaningDetail": "이용함",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を活用する。", "ko": "자원을 활용한다." }
+    ]
+  },
+  {
+    "word": "応用",
+    "reading": "おうよう",
+    "meaning": "응용",
+    "meaningDetail": "적용함",
+    "category": "명사",
+    "examples": [
+      { "ja": "理論を応用する。", "ko": "이론을 응용한다." }
+    ]
+  },
+  {
+    "word": "適用",
+    "reading": "てきよう",
+    "meaning": "적용",
+    "meaningDetail": "적합하게 씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を適用する。", "ko": "법률을 적용한다." }
+    ]
+  },
+  {
+    "word": "採点",
+    "reading": "さいてん",
+    "meaning": "채점",
+    "meaningDetail": "점수를 매김",
+    "category": "명사",
+    "examples": [
+      { "ja": "テストを採点する。", "ko": "테스트를 채점한다." }
+    ]
+  }
+]

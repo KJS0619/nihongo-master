@@ -1,0 +1,492 @@
+[
+  {
+    "word": "興味",
+    "reading": "きょうみ",
+    "meaning": "흥미",
+    "meaningDetail": "관심",
+    "category": "명사",
+    "examples": [
+      { "ja": "興味を持つ。", "ko": "흥미를 갖는다." }
+    ]
+  },
+  {
+    "word": "関心",
+    "reading": "かんしん",
+    "meaning": "관심",
+    "meaningDetail": "마음이 끌림",
+    "category": "명사",
+    "examples": [
+      { "ja": "関心を示す。", "ko": "관심을 보인다." }
+    ]
+  },
+  {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "meaning": "주목",
+    "meaningDetail": "눈을 돌림",
+    "category": "명사",
+    "examples": [
+      { "ja": "注目を集める。", "ko": "주목을 끈다." }
+    ]
+  },
+  {
+    "word": "集中",
+    "reading": "しゅうちゅう",
+    "meaning": "집중",
+    "meaningDetail": "한곳에 모음",
+    "category": "명사",
+    "examples": [
+      { "ja": "集中力がある。", "ko": "집중력이 있다." }
+    ]
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaning": "주의",
+    "meaningDetail": "조심함",
+    "category": "명사",
+    "examples": [
+      { "ja": "注意を払う。", "ko": "주의를 기울인다." }
+    ]
+  },
+  {
+    "word": "警告",
+    "reading": "けいこく",
+    "meaning": "경고",
+    "meaningDetail": "주의를 줌",
+    "category": "명사",
+    "examples": [
+      { "ja": "警告を受ける。", "ko": "경고를 받는다." }
+    ]
+  },
+  {
+    "word": "忠告",
+    "reading": "ちゅうこく",
+    "meaning": "충고",
+    "meaningDetail": "조언",
+    "category": "명사",
+    "examples": [
+      { "ja": "忠告に従う。", "ko": "충고에 따른다." }
+    ]
+  },
+  {
+    "word": "助言",
+    "reading": "じょげん",
+    "meaning": "조언",
+    "meaningDetail": "도움말",
+    "category": "명사",
+    "examples": [
+      { "ja": "助言を求める。", "ko": "조언을 구한다." }
+    ]
+  },
+  {
+    "word": "指導",
+    "reading": "しどう",
+    "meaning": "지도",
+    "meaningDetail": "가르침",
+    "category": "명사",
+    "examples": [
+      { "ja": "指導を受ける。", "ko": "지도를 받는다." }
+    ]
+  },
+  {
+    "word": "指示",
+    "reading": "しじ",
+    "meaning": "지시",
+    "meaningDetail": "명령",
+    "category": "명사",
+    "examples": [
+      { "ja": "指示に従う。", "ko": "지시에 따른다." }
+    ]
+  },
+  {
+    "word": "命令",
+    "reading": "めいれい",
+    "meaning": "명령",
+    "meaningDetail": "시킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "命令を出す。", "ko": "명령을 내린다." }
+    ]
+  },
+  {
+    "word": "規制",
+    "reading": "きせい",
+    "meaning": "규제",
+    "meaningDetail": "제한함",
+    "category": "명사",
+    "examples": [
+      { "ja": "規制を緩和する。", "ko": "규제를 완화한다." }
+    ]
+  },
+  {
+    "word": "制限",
+    "reading": "せいげん",
+    "meaning": "제한",
+    "meaningDetail": "한정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "制限を設ける。", "ko": "제한을 둔다." }
+    ]
+  },
+  {
+    "word": "禁止",
+    "reading": "きんし",
+    "meaning": "금지",
+    "meaningDetail": "못하게 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "喫煙を禁止する。", "ko": "흡연을 금지한다." }
+    ]
+  },
+  {
+    "word": "解禁",
+    "reading": "かいきん",
+    "meaning": "해금",
+    "meaningDetail": "금지를 풂",
+    "category": "명사",
+    "examples": [
+      { "ja": "解禁される。", "ko": "해금된다." }
+    ]
+  },
+  {
+    "word": "自由",
+    "reading": "じゆう",
+    "meaning": "자유",
+    "meaningDetail": "구속이 없음",
+    "category": "명사",
+    "examples": [
+      { "ja": "自由を求める。", "ko": "자유를 구한다." }
+    ]
+  },
+  {
+    "word": "権力",
+    "reading": "けんりょく",
+    "meaning": "권력",
+    "meaningDetail": "힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "権力を握る。", "ko": "권력을 잡는다." }
+    ]
+  },
+  {
+    "word": "支配",
+    "reading": "しはい",
+    "meaning": "지배",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "支配下に置く。", "ko": "지배 아래 둔다." }
+    ]
+  },
+  {
+    "word": "統治",
+    "reading": "とうち",
+    "meaning": "통치",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "国を統治する。", "ko": "나라를 통치한다." }
+    ]
+  },
+  {
+    "word": "政策",
+    "reading": "せいさく",
+    "meaning": "정책",
+    "meaningDetail": "정부의 방침",
+    "category": "명사",
+    "examples": [
+      { "ja": "政策を実行する。", "ko": "정책을 실행한다." }
+    ]
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "방침",
+    "meaningDetail": "방향",
+    "category": "명사",
+    "examples": [
+      { "ja": "方針を決める。", "ko": "방침을 정한다." }
+    ]
+  },
+  {
+    "word": "原則",
+    "reading": "げんそく",
+    "meaning": "원칙",
+    "meaningDetail": "기본 규칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "原則を守る。", "ko": "원칙을 지킨다." }
+    ]
+  },
+  {
+    "word": "例外",
+    "reading": "れいがい",
+    "meaning": "예외",
+    "meaningDetail": "특별한 경우",
+    "category": "명사",
+    "examples": [
+      { "ja": "例外を認める。", "ko": "예외를 인정한다." }
+    ]
+  },
+  {
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "경향",
+    "meaningDetail": "흐름",
+    "category": "명사",
+    "examples": [
+      { "ja": "傾向を分析する。", "ko": "경향을 분석한다." }
+    ]
+  },
+  {
+    "word": "動向",
+    "reading": "どうこう",
+    "meaning": "동향",
+    "meaningDetail": "움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "市場の動向を見る。", "ko": "시장 동향을 본다." }
+    ]
+  },
+  {
+    "word": "現状",
+    "reading": "げんじょう",
+    "meaning": "현상",
+    "meaningDetail": "지금 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "現状を把握する。", "ko": "현상을 파악한다." }
+    ]
+  },
+  {
+    "word": "将来",
+    "reading": "しょうらい",
+    "meaning": "장래",
+    "meaningDetail": "앞날",
+    "category": "명사",
+    "examples": [
+      { "ja": "将来を考える。", "ko": "장래를 생각한다." }
+    ]
+  },
+  {
+    "word": "見通し",
+    "reading": "みとおし",
+    "meaning": "전망",
+    "meaningDetail": "예측",
+    "category": "명사",
+    "examples": [
+      { "ja": "見通しが立つ。", "ko": "전망이 서다." }
+    ]
+  },
+  {
+    "word": "展望",
+    "reading": "てんぼう",
+    "meaning": "전망",
+    "meaningDetail": "내다봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "展望を語る。", "ko": "전망을 말한다." }
+    ]
+  },
+  {
+    "word": "予想",
+    "reading": "よそう",
+    "meaning": "예상",
+    "meaningDetail": "미리 생각함",
+    "category": "명사",
+    "examples": [
+      { "ja": "予想が当たる。", "ko": "예상이 맞다." }
+    ]
+  },
+  {
+    "word": "予測",
+    "reading": "よそく",
+    "meaning": "예측",
+    "meaningDetail": "미리 짐작함",
+    "category": "명사",
+    "examples": [
+      { "ja": "予測が難しい。", "ko": "예측이 어렵다." }
+    ]
+  },
+  {
+    "word": "推測",
+    "reading": "すいそく",
+    "meaning": "추측",
+    "meaningDetail": "짐작함",
+    "category": "명사",
+    "examples": [
+      { "ja": "推測にすぎない。", "ko": "추측에 불과하다." }
+    ]
+  },
+  {
+    "word": "推定",
+    "reading": "すいてい",
+    "meaning": "추정",
+    "meaningDetail": "미루어 정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "推定される。", "ko": "추정된다." }
+    ]
+  },
+  {
+    "word": "想定",
+    "reading": "そうてい",
+    "meaning": "상정",
+    "meaningDetail": "가정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "最悪を想定する。", "ko": "최악을 상정한다." }
+    ]
+  },
+  {
+    "word": "仮定",
+    "reading": "かてい",
+    "meaning": "가정",
+    "meaningDetail": "임시로 정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "仮定の話だ。", "ko": "가정의 이야기다." }
+    ]
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "전제",
+    "meaningDetail": "앞서 조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "前提条件を確認する。", "ko": "전제 조건을 확인한다." }
+    ]
+  },
+  {
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meaning": "근거",
+    "meaningDetail": "이유",
+    "category": "명사",
+    "examples": [
+      { "ja": "根拠を示す。", "ko": "근거를 제시한다." }
+    ]
+  },
+  {
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaning": "증명",
+    "meaningDetail": "밝힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "身分を証明する。", "ko": "신분을 증명한다." }
+    ]
+  },
+  {
+    "word": "立証",
+    "reading": "りっしょう",
+    "meaning": "입증",
+    "meaningDetail": "증명함",
+    "category": "명사",
+    "examples": [
+      { "ja": "無実を立証する。", "ko": "무죄를 입증한다." }
+    ]
+  },
+  {
+    "word": "認定",
+    "reading": "にんてい",
+    "meaning": "인정",
+    "meaningDetail": "인정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を認定する。", "ko": "자격을 인정한다." }
+    ]
+  },
+  {
+    "word": "評定",
+    "reading": "ひょうてい",
+    "meaning": "평정",
+    "meaningDetail": "평가 결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "成績を評定する。", "ko": "성적을 평정한다." }
+    ]
+  },
+  {
+    "word": "基盤",
+    "reading": "きばん",
+    "meaning": "기반",
+    "meaningDetail": "바탕",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済の基盤を築く。", "ko": "경제 기반을 쌓는다." }
+    ]
+  },
+  {
+    "word": "土台",
+    "reading": "どだい",
+    "meaning": "토대",
+    "meaningDetail": "기초",
+    "category": "명사",
+    "examples": [
+      { "ja": "土台を作る。", "ko": "토대를 만든다." }
+    ]
+  },
+  {
+    "word": "基礎",
+    "reading": "きそ",
+    "meaning": "기초",
+    "meaningDetail": "바탕",
+    "category": "명사",
+    "examples": [
+      { "ja": "基礎を学ぶ。", "ko": "기초를 배운다." }
+    ]
+  },
+  {
+    "word": "応用",
+    "reading": "おうよう",
+    "meaning": "응용",
+    "meaningDetail": "활용",
+    "category": "명사",
+    "examples": [
+      { "ja": "応用力がある。", "ko": "응용력이 있다." }
+    ]
+  },
+  {
+    "word": "発展",
+    "reading": "はってん",
+    "meaning": "발전",
+    "meaningDetail": "성장",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済が発展する。", "ko": "경제가 발전한다." }
+    ]
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "진보",
+    "meaningDetail": "나아감",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術が進歩する。", "ko": "기술이 진보한다." }
+    ]
+  },
+  {
+    "word": "向上",
+    "reading": "こうじょう",
+    "meaning": "향상",
+    "meaningDetail": "나아짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "能力が向上する。", "ko": "능력이 향상된다." }
+    ]
+  },
+  {
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "성장",
+    "meaningDetail": "자람",
+    "category": "명사",
+    "examples": [
+      { "ja": "子供が成長する。", "ko": "아이가 성장한다." }
+    ]
+  }
+]

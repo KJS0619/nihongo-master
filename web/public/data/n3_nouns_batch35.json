@@ -1,0 +1,482 @@
+[
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "까닭",
+    "category": "명사",
+    "examples": [
+      { "ja": "原因を調べる。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "meaningDetail": "성과",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果が出る。", "ko": "결과가 나오다." }
+    ]
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "meaningDetail": "작용",
+    "category": "명사",
+    "examples": [
+      { "ja": "影響を与える。", "ko": "영향을 주다." }
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "meaningDetail": "효험",
+    "category": "명사",
+    "examples": [
+      { "ja": "効果が現れる。", "ko": "효과가 나타나다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "방안",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を立てる。", "ko": "대책을 세우다." }
+    ]
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "방침",
+    "meaningDetail": "정책",
+    "category": "명사",
+    "examples": [
+      { "ja": "方針を決める。", "ko": "방침을 정하다." }
+    ]
+  },
+  {
+    "word": "方向",
+    "reading": "ほうこう",
+    "meaning": "방향",
+    "meaningDetail": "향하는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "方向を変える。", "ko": "방향을 바꾸다." }
+    ]
+  },
+  {
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "경향",
+    "meaningDetail": "추세",
+    "category": "명사",
+    "examples": [
+      { "ja": "傾向が見られる。", "ko": "경향이 보이다." }
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "meaningDetail": "형편",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악하다." }
+    ]
+  },
+  {
+    "word": "状態",
+    "reading": "じょうたい",
+    "meaning": "상태",
+    "meaningDetail": "모습",
+    "category": "명사",
+    "examples": [
+      { "ja": "状態を確認する。", "ko": "상태를 확인하다." }
+    ]
+  },
+  {
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "현상",
+    "meaningDetail": "나타남",
+    "category": "명사",
+    "examples": [
+      { "ja": "現象を観察する。", "ko": "현상을 관찰하다." }
+    ]
+  },
+  {
+    "word": "事態",
+    "reading": "じたい",
+    "meaning": "사태",
+    "meaningDetail": "상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "事態が悪化する。", "ko": "사태가 악화되다." }
+    ]
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meaning": "변화",
+    "meaningDetail": "바뀜",
+    "category": "명사",
+    "examples": [
+      { "ja": "変化に対応する。", "ko": "변화에 대응하다." }
+    ]
+  },
+  {
+    "word": "発展",
+    "reading": "はってん",
+    "meaning": "발전",
+    "meaningDetail": "진보",
+    "category": "명사",
+    "examples": [
+      { "ja": "発展を遂げる。", "ko": "발전을 이루다." }
+    ]
+  },
+  {
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "성장",
+    "meaningDetail": "자람",
+    "category": "명사",
+    "examples": [
+      { "ja": "成長を続ける。", "ko": "성장을 계속하다." }
+    ]
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "진보",
+    "meaningDetail": "발전",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術が進歩する。", "ko": "기술이 진보하다." }
+    ]
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "나아짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "改善を図る。", "ko": "개선을 도모하다." }
+    ]
+  },
+  {
+    "word": "改革",
+    "reading": "かいかく",
+    "meaning": "개혁",
+    "meaningDetail": "혁신",
+    "category": "명사",
+    "examples": [
+      { "ja": "改革を進める。", "ko": "개혁을 추진하다." }
+    ]
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "변경",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "変更を加える。", "ko": "변경을 가하다." }
+    ]
+  },
+  {
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaning": "수정",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "修正を行う。", "ko": "수정을 하다." }
+    ]
+  },
+  {
+    "word": "補正",
+    "reading": "ほせい",
+    "meaning": "보정",
+    "meaningDetail": "바로잡음",
+    "category": "명사",
+    "examples": [
+      { "ja": "補正を入れる。", "ko": "보정을 넣다." }
+    ]
+  },
+  {
+    "word": "訂正",
+    "reading": "ていせい",
+    "meaning": "정정",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "訂正を求める。", "ko": "정정을 요구하다." }
+    ]
+  },
+  {
+    "word": "追加",
+    "reading": "ついか",
+    "meaning": "추가",
+    "meaningDetail": "더함",
+    "category": "명사",
+    "examples": [
+      { "ja": "追加を行う。", "ko": "추가를 하다." }
+    ]
+  },
+  {
+    "word": "削除",
+    "reading": "さくじょ",
+    "meaning": "삭제",
+    "meaningDetail": "지움",
+    "category": "명사",
+    "examples": [
+      { "ja": "削除を実行する。", "ko": "삭제를 실행하다." }
+    ]
+  },
+  {
+    "word": "挿入",
+    "reading": "そうにゅう",
+    "meaning": "삽입",
+    "meaningDetail": "끼워넣음",
+    "category": "명사",
+    "examples": [
+      { "ja": "画像を挿入する。", "ko": "이미지를 삽입하다." }
+    ]
+  },
+  {
+    "word": "置換",
+    "reading": "ちかん",
+    "meaning": "치환",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "文字を置換する。", "ko": "문자를 치환하다." }
+    ]
+  },
+  {
+    "word": "設置",
+    "reading": "せっち",
+    "meaning": "설치",
+    "meaningDetail": "둠",
+    "category": "명사",
+    "examples": [
+      { "ja": "設備を設置する。", "ko": "설비를 설치하다." }
+    ]
+  },
+  {
+    "word": "配置",
+    "reading": "はいち",
+    "meaning": "배치",
+    "meaningDetail": "배열",
+    "category": "명사",
+    "examples": [
+      { "ja": "人員を配置する。", "ko": "인원을 배치하다." }
+    ]
+  },
+  {
+    "word": "移動",
+    "reading": "いどう",
+    "meaning": "이동",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "移動が多い。", "ko": "이동이 많다." }
+    ]
+  },
+  {
+    "word": "移転",
+    "reading": "いてん",
+    "meaning": "이전",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "事務所を移転する。", "ko": "사무실을 이전하다." }
+    ]
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "운동",
+    "meaningDetail": "활동",
+    "category": "명사",
+    "examples": [
+      { "ja": "運動を続ける。", "ko": "운동을 계속하다." }
+    ]
+  },
+  {
+    "word": "活動",
+    "reading": "かつどう",
+    "meaning": "활동",
+    "meaningDetail": "행동",
+    "category": "명사",
+    "examples": [
+      { "ja": "活動を始める。", "ko": "활동을 시작하다." }
+    ]
+  },
+  {
+    "word": "行動",
+    "reading": "こうどう",
+    "meaning": "행동",
+    "meaningDetail": "움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "行動に移す。", "ko": "행동에 옮기다." }
+    ]
+  },
+  {
+    "word": "動作",
+    "reading": "どうさ",
+    "meaning": "동작",
+    "meaningDetail": "움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "動作を確認する。", "ko": "동작을 확인하다." }
+    ]
+  },
+  {
+    "word": "反応",
+    "reading": "はんのう",
+    "meaning": "반응",
+    "meaningDetail": "응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "反応を示す。", "ko": "반응을 보이다." }
+    ]
+  },
+  {
+    "word": "反映",
+    "reading": "はんえい",
+    "meaning": "반영",
+    "meaningDetail": "비춤",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見を反映する。", "ko": "의견을 반영하다." }
+    ]
+  },
+  {
+    "word": "適用",
+    "reading": "てきよう",
+    "meaning": "적용",
+    "meaningDetail": "적용함",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を適用する。", "ko": "법률을 적용하다." }
+    ]
+  },
+  {
+    "word": "応用",
+    "reading": "おうよう",
+    "meaning": "응용",
+    "meaningDetail": "활용",
+    "category": "명사",
+    "examples": [
+      { "ja": "応用が利く。", "ko": "응용이 가능하다." }
+    ]
+  },
+  {
+    "word": "利用",
+    "reading": "りよう",
+    "meaning": "이용",
+    "meaningDetail": "사용",
+    "category": "명사",
+    "examples": [
+      { "ja": "施設を利用する。", "ko": "시설을 이용하다." }
+    ]
+  },
+  {
+    "word": "活用",
+    "reading": "かつよう",
+    "meaning": "활용",
+    "meaningDetail": "이용",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を活用する。", "ko": "자원을 활용하다." }
+    ]
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaning": "채용",
+    "meaningDetail": "고용",
+    "category": "명사",
+    "examples": [
+      { "ja": "新人を採用する。", "ko": "신입을 채용하다." }
+    ]
+  },
+  {
+    "word": "雇用",
+    "reading": "こよう",
+    "meaning": "고용",
+    "meaningDetail": "취업",
+    "category": "명사",
+    "examples": [
+      { "ja": "雇用を創出する。", "ko": "고용을 창출하다." }
+    ]
+  },
+  {
+    "word": "解雇",
+    "reading": "かいこ",
+    "meaning": "해고",
+    "meaningDetail": "퇴직",
+    "category": "명사",
+    "examples": [
+      { "ja": "社員を解雇する。", "ko": "직원을 해고하다." }
+    ]
+  },
+  {
+    "word": "退職",
+    "reading": "たいしょく",
+    "meaning": "퇴직",
+    "meaningDetail": "그만둠",
+    "category": "명사",
+    "examples": [
+      { "ja": "退職を決める。", "ko": "퇴직을 결정하다." }
+    ]
+  },
+  {
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "meaning": "취직",
+    "meaningDetail": "직장",
+    "category": "명사",
+    "examples": [
+      { "ja": "就職が決まる。", "ko": "취직이 결정되다." }
+    ]
+  },
+  {
+    "word": "転職",
+    "reading": "てんしょく",
+    "meaning": "전직",
+    "meaningDetail": "이직",
+    "category": "명사",
+    "examples": [
+      { "ja": "転職を考える。", "ko": "전직을 생각하다." }
+    ]
+  },
+  {
+    "word": "昇進",
+    "reading": "しょうしん",
+    "meaning": "승진",
+    "meaningDetail": "진급",
+    "category": "명사",
+    "examples": [
+      { "ja": "昇進が決まる。", "ko": "승진이 결정되다." }
+    ]
+  },
+  {
+    "word": "降格",
+    "reading": "こうかく",
+    "meaning": "강등",
+    "meaningDetail": "내림",
+    "category": "명사",
+    "examples": [
+      { "ja": "降格される。", "ko": "강등되다." }
+    ]
+  }
+]

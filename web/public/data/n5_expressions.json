@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "w_n5_ex_001",
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning": "고마워요, 어쨌든",
+    "meaningDetail": "감사나 인사를 간단히 표현",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "どうもありがとう。", "reading": "どうもありがとう。", "ko": "정말 고마워."},
+      {"ja": "どうも、すみません。", "reading": "どうも、すみません。", "ko": "정말 죄송합니다."}
+    ],
+    "relatedWords": [
+      {"word": "ありがとう", "reading": "ありがとう", "meaning": "고마워", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_002",
+    "word": "ありがとう",
+    "reading": "ありがとう",
+    "meaning": "고마워",
+    "meaningDetail": "감사를 표현하는 말",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "ありがとう。", "reading": "ありがとう。", "ko": "고마워."},
+      {"ja": "ありがとうございます。", "reading": "ありがとうございます。", "ko": "감사합니다."}
+    ],
+    "relatedWords": [
+      {"word": "どうも", "reading": "どうも", "meaning": "고마워요", "relation": "유의어"},
+      {"word": "すみません", "reading": "すみません", "meaning": "죄송합니다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 98
+  },
+  {
+    "id": "w_n5_ex_003",
+    "word": "すみません",
+    "reading": "すみません",
+    "meaning": "죄송합니다, 실례합니다",
+    "meaningDetail": "사과하거나 주의를 끌 때 사용",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "すみません、遅れました。", "reading": "すみません、おくれました。", "ko": "죄송합니다, 늦었습니다."},
+      {"ja": "すみません、ちょっといいですか。", "reading": "すみません、ちょっといいですか。", "ko": "실례합니다, 잠깐 괜찮으세요?"}
+    ],
+    "relatedWords": [
+      {"word": "ごめんなさい", "reading": "ごめんなさい", "meaning": "미안합니다", "relation": "유의어"},
+      {"word": "失礼します", "reading": "しつれいします", "meaning": "실례합니다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_004",
+    "word": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meaning": "미안합니다",
+    "meaningDetail": "사과할 때 사용하는 표현",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "ごめんなさい、忘れました。", "reading": "ごめんなさい、わすれました。", "ko": "미안합니다, 잊어버렸습니다."},
+      {"ja": "ごめんなさい。", "reading": "ごめんなさい。", "ko": "미안합니다."}
+    ],
+    "relatedWords": [
+      {"word": "すみません", "reading": "すみません", "meaning": "죄송합니다", "relation": "유의어"},
+      {"word": "申し訳ありません", "reading": "もうしわけありません", "meaning": "죄송합니다(격식)", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_005",
+    "word": "おはよう",
+    "reading": "おはよう",
+    "meaning": "좋은 아침",
+    "meaningDetail": "아침 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "おはよう。", "reading": "おはよう。", "ko": "좋은 아침."},
+      {"ja": "おはようございます。", "reading": "おはようございます。", "ko": "안녕하세요(아침)."}
+    ],
+    "relatedWords": [
+      {"word": "こんにちは", "reading": "こんにちは", "meaning": "안녕하세요(낮)", "relation": "관련어"},
+      {"word": "こんばんは", "reading": "こんばんは", "meaning": "안녕하세요(저녁)", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_006",
+    "word": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "안녕하세요(낮)",
+    "meaningDetail": "낮 시간대의 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "こんにちは。", "reading": "こんにちは。", "ko": "안녕하세요."},
+      {"ja": "こんにちは、お元気ですか。", "reading": "こんにちは、おげんきですか。", "ko": "안녕하세요, 잘 지내세요?"}
+    ],
+    "relatedWords": [
+      {"word": "おはよう", "reading": "おはよう", "meaning": "좋은 아침", "relation": "관련어"},
+      {"word": "こんばんは", "reading": "こんばんは", "meaning": "안녕하세요(저녁)", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_007",
+    "word": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "안녕하세요(저녁)",
+    "meaningDetail": "저녁 시간대의 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "こんばんは。", "reading": "こんばんは。", "ko": "안녕하세요(저녁)."},
+      {"ja": "こんばんは、いい夜ですね。", "reading": "こんばんは、いいよるですね。", "ko": "안녕하세요, 좋은 밤이네요."}
+    ],
+    "relatedWords": [
+      {"word": "おはよう", "reading": "おはよう", "meaning": "좋은 아침", "relation": "관련어"},
+      {"word": "こんにちは", "reading": "こんにちは", "meaning": "안녕하세요(낮)", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_008",
+    "word": "さようなら",
+    "reading": "さようなら",
+    "meaning": "안녕히 가세요/계세요",
+    "meaningDetail": "작별 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "さようなら。", "reading": "さようなら。", "ko": "안녕히 가세요."},
+      {"ja": "さようなら、また会いましょう。", "reading": "さようなら、またあいましょう。", "ko": "안녕히 가세요, 또 만나요."}
+    ],
+    "relatedWords": [
+      {"word": "じゃあね", "reading": "じゃあね", "meaning": "그럼 안녕", "relation": "유의어"},
+      {"word": "また", "reading": "また", "meaning": "또", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "인사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_009",
+    "word": "いただきます",
+    "reading": "いただきます",
+    "meaning": "잘 먹겠습니다",
+    "meaningDetail": "식사 전 감사 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "いただきます。", "reading": "いただきます。", "ko": "잘 먹겠습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ごちそうさま", "reading": "ごちそうさま", "meaning": "잘 먹었습니다", "relation": "관련어"},
+      {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "식사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_010",
+    "word": "ごちそうさま",
+    "reading": "ごちそうさま",
+    "meaning": "잘 먹었습니다",
+    "meaningDetail": "식사 후 감사 인사",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "ごちそうさまでした。", "reading": "ごちそうさまでした。", "ko": "잘 먹었습니다."}
+    ],
+    "relatedWords": [
+      {"word": "いただきます", "reading": "いただきます", "meaning": "잘 먹겠습니다", "relation": "관련어"},
+      {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "식사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_011",
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "네, 예",
+    "meaningDetail": "긍정의 대답",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "はい、そうです。", "reading": "はい、そうです。", "ko": "네, 그렇습니다."},
+      {"ja": "はい、わかりました。", "reading": "はい、わかりました。", "ko": "네, 알겠습니다."}
+    ],
+    "relatedWords": [
+      {"word": "いいえ", "reading": "いいえ", "meaning": "아니요", "relation": "반의어"},
+      {"word": "ええ", "reading": "ええ", "meaning": "네", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "N5"],
+    "frequency": 98
+  },
+  {
+    "id": "w_n5_ex_012",
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "아니요",
+    "meaningDetail": "부정의 대답",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "いいえ、違います。", "reading": "いいえ、ちがいます。", "ko": "아니요, 다릅니다."},
+      {"ja": "いいえ、大丈夫です。", "reading": "いいえ、だいじょうぶです。", "ko": "아니요, 괜찮습니다."}
+    ],
+    "relatedWords": [
+      {"word": "はい", "reading": "はい", "meaning": "네", "relation": "반의어"},
+      {"word": "ううん", "reading": "ううん", "meaning": "아니(구어)", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_ex_013",
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "어서, 부디",
+    "meaningDetail": "권유하거나 허락할 때 사용",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "どうぞ、お入りください。", "reading": "どうぞ、おはいりください。", "ko": "어서 들어오세요."},
+      {"ja": "どうぞ、召し上がってください。", "reading": "どうぞ、めしあがってください。", "ko": "부디 드세요."}
+    ],
+    "relatedWords": [
+      {"word": "お願いします", "reading": "おねがいします", "meaning": "부탁합니다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_014",
+    "word": "おめでとう",
+    "reading": "おめでとう",
+    "meaning": "축하해",
+    "meaningDetail": "축하할 때 사용하는 말",
+    "jlpt": "N5",
+    "category": "감탄사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "誕生日おめでとう。", "reading": "たんじょうびおめでとう。", "ko": "생일 축하해."},
+      {"ja": "おめでとうございます。", "reading": "おめでとうございます。", "ko": "축하합니다."}
+    ],
+    "relatedWords": [
+      {"word": "誕生日", "reading": "たんじょうび", "meaning": "생일", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["감탄사", "축하", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_ex_015",
+    "word": "お元気ですか",
+    "reading": "おげんきですか",
+    "meaning": "잘 지내세요?",
+    "meaningDetail": "안부를 묻는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "お元気ですか。", "reading": "おげんきですか。", "ko": "잘 지내세요?"},
+      {"ja": "はい、元気です。", "reading": "はい、げんきです。", "ko": "네, 잘 지냅니다."}
+    ],
+    "relatedWords": [
+      {"word": "元気", "reading": "げんき", "meaning": "건강한", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "元", "reading": "げん", "meaning": "으뜸 원"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_016",
+    "word": "初めまして",
+    "reading": "はじめまして",
+    "meaning": "처음 뵙겠습니다",
+    "meaningDetail": "처음 만났을 때 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "初めまして、田中です。", "reading": "はじめまして、たなかです。", "ko": "처음 뵙겠습니다, 다나카입니다."},
+      {"ja": "初めまして、どうぞよろしく。", "reading": "はじめまして、どうぞよろしく。", "ko": "처음 뵙겠습니다, 잘 부탁드립니다."}
+    ],
+    "relatedWords": [
+      {"word": "よろしくお願いします", "reading": "よろしくおねがいします", "meaning": "잘 부탁합니다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "初", "reading": "はじ(め)", "meaning": "처음 초"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_017",
+    "word": "よろしくお願いします",
+    "reading": "よろしくおねがいします",
+    "meaning": "잘 부탁합니다",
+    "meaningDetail": "협조를 부탁하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "よろしくお願いします。", "reading": "よろしくおねがいします。", "ko": "잘 부탁합니다."},
+      {"ja": "どうぞよろしくお願いします。", "reading": "どうぞよろしくおねがいします。", "ko": "부디 잘 부탁드립니다."}
+    ],
+    "relatedWords": [
+      {"word": "初めまして", "reading": "はじめまして", "meaning": "처음 뵙겠습니다", "relation": "관련어"},
+      {"word": "お願いします", "reading": "おねがいします", "meaning": "부탁합니다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "願", "reading": "ねが(い)", "meaning": "원할 원"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_018",
+    "word": "失礼します",
+    "reading": "しつれいします",
+    "meaning": "실례합니다",
+    "meaningDetail": "방에 들어가거나 나갈 때, 또는 결례할 때 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "失礼します。", "reading": "しつれいします。", "ko": "실례합니다."},
+      {"ja": "お先に失礼します。", "reading": "おさきにしつれいします。", "ko": "먼저 실례합니다."}
+    ],
+    "relatedWords": [
+      {"word": "すみません", "reading": "すみません", "meaning": "죄송합니다", "relation": "유의어"},
+      {"word": "失礼", "reading": "しつれい", "meaning": "실례", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "失", "reading": "しつ", "meaning": "잃을 실"},
+      {"char": "礼", "reading": "れい", "meaning": "예도 례"}
+    ],
+    "tags": ["표현", "인사", "비즈니스", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_019",
+    "word": "お疲れ様",
+    "reading": "おつかれさま",
+    "meaning": "수고하셨습니다",
+    "meaningDetail": "상대방의 노고를 치하하는 말",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "お疲れ様でした。", "reading": "おつかれさまでした。", "ko": "수고하셨습니다."},
+      {"ja": "今日もお疲れ様。", "reading": "きょうもおつかれさま。", "ko": "오늘도 수고했어."}
+    ],
+    "relatedWords": [
+      {"word": "疲れる", "reading": "つかれる", "meaning": "피곤하다", "relation": "관련어"},
+      {"word": "ご苦労様", "reading": "ごくろうさま", "meaning": "수고하셨습니다", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "疲", "reading": "つか(れ)", "meaning": "피곤할 피"},
+      {"char": "様", "reading": "さま", "meaning": "모양 양"}
+    ],
+    "tags": ["표현", "비즈니스", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_020",
+    "word": "ちょっと待ってください",
+    "reading": "ちょっとまってください",
+    "meaning": "잠깐 기다려 주세요",
+    "meaningDetail": "잠시 기다려 달라고 요청",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [1, 0, 0, 0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "ちょっと待ってください。", "reading": "ちょっとまってください。", "ko": "잠깐 기다려 주세요."},
+      {"ja": "ちょっと待って。", "reading": "ちょっとまって。", "ko": "잠깐만."}
+    ],
+    "relatedWords": [
+      {"word": "待つ", "reading": "まつ", "meaning": "기다리다", "relation": "관련어"},
+      {"word": "ちょっと", "reading": "ちょっと", "meaning": "조금", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "待", "reading": "ま(って)", "meaning": "기다릴 대"}],
+    "tags": ["표현", "일상", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_ex_021",
+    "word": "いってきます",
+    "reading": "いってきます",
+    "meaning": "다녀오겠습니다",
+    "meaningDetail": "외출할 때 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "いってきます。", "reading": "いってきます。", "ko": "다녀오겠습니다."}
+    ],
+    "relatedWords": [
+      {"word": "いってらっしゃい", "reading": "いってらっしゃい", "meaning": "다녀오세요", "relation": "관련어"},
+      {"word": "行く", "reading": "いく", "meaning": "가다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "行", "reading": "い(って)", "meaning": "갈 행"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_022",
+    "word": "いってらっしゃい",
+    "reading": "いってらっしゃい",
+    "meaning": "다녀오세요",
+    "meaningDetail": "외출하는 사람에게 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "いってらっしゃい。", "reading": "いってらっしゃい。", "ko": "다녀오세요."}
+    ],
+    "relatedWords": [
+      {"word": "いってきます", "reading": "いってきます", "meaning": "다녀오겠습니다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_ex_023",
+    "word": "ただいま",
+    "reading": "ただいま",
+    "meaning": "다녀왔습니다",
+    "meaningDetail": "외출에서 돌아왔을 때 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "ただいま。", "reading": "ただいま。", "ko": "다녀왔습니다."}
+    ],
+    "relatedWords": [
+      {"word": "おかえり", "reading": "おかえり", "meaning": "어서 와", "relation": "관련어"},
+      {"word": "帰る", "reading": "かえる", "meaning": "돌아가다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_024",
+    "word": "おかえり",
+    "reading": "おかえり",
+    "meaning": "어서 와",
+    "meaningDetail": "외출에서 돌아온 사람에게 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "おかえり。", "reading": "おかえり。", "ko": "어서 와."},
+      {"ja": "おかえりなさい。", "reading": "おかえりなさい。", "ko": "어서 오세요."}
+    ],
+    "relatedWords": [
+      {"word": "ただいま", "reading": "ただいま", "meaning": "다녀왔습니다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "帰", "reading": "かえ(り)", "meaning": "돌아갈 귀"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_ex_025",
+    "word": "おやすみなさい",
+    "reading": "おやすみなさい",
+    "meaning": "안녕히 주무세요",
+    "meaningDetail": "잠자리에 들 때 하는 인사",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "おやすみなさい。", "reading": "おやすみなさい。", "ko": "안녕히 주무세요."},
+      {"ja": "おやすみ。", "reading": "おやすみ。", "ko": "잘 자."}
+    ],
+    "relatedWords": [
+      {"word": "寝る", "reading": "ねる", "meaning": "자다", "relation": "관련어"},
+      {"word": "休む", "reading": "やすむ", "meaning": "쉬다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "休", "reading": "やす(み)", "meaning": "쉴 휴"}],
+    "tags": ["표현", "인사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_026",
+    "word": "今日は何曜日ですか",
+    "reading": "きょうはなんようびですか",
+    "meaning": "오늘은 무슨 요일입니까?",
+    "meaningDetail": "요일을 묻는 표현",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "今日は何曜日ですか。", "reading": "きょうはなんようびですか。", "ko": "오늘은 무슨 요일입니까?"},
+      {"ja": "今日は月曜日です。", "reading": "きょうはげつようびです。", "ko": "오늘은 월요일입니다."}
+    ],
+    "relatedWords": [
+      {"word": "曜日", "reading": "ようび", "meaning": "요일", "relation": "관련어"},
+      {"word": "今日", "reading": "きょう", "meaning": "오늘", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "今", "reading": "きょ(う)", "meaning": "이제 금"},
+      {"char": "日", "reading": "び", "meaning": "날 일"},
+      {"char": "何", "reading": "なん", "meaning": "무엇 하"},
+      {"char": "曜", "reading": "よう", "meaning": "빛날 요"}
+    ],
+    "tags": ["표현", "시간", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_ex_027",
+    "word": "いくらですか",
+    "reading": "いくらですか",
+    "meaning": "얼마입니까?",
+    "meaningDetail": "가격을 묻는 표현",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "これはいくらですか。", "reading": "これはいくらですか。", "ko": "이것은 얼마입니까?"},
+      {"ja": "全部でいくらですか。", "reading": "ぜんぶでいくらですか。", "ko": "전부 얼마입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "いくら", "reading": "いくら", "meaning": "얼마", "relation": "관련어"},
+      {"word": "円", "reading": "えん", "meaning": "엔", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["표현", "쇼핑", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_028",
+    "word": "今何時ですか",
+    "reading": "いまなんじですか",
+    "meaning": "지금 몇 시입니까?",
+    "meaningDetail": "시간을 묻는 표현",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [1, 0, 0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "今何時ですか。", "reading": "いまなんじですか。", "ko": "지금 몇 시입니까?"},
+      {"ja": "今3時です。", "reading": "いまさんじです。", "ko": "지금 3시입니다."}
+    ],
+    "relatedWords": [
+      {"word": "今", "reading": "いま", "meaning": "지금", "relation": "관련어"},
+      {"word": "時", "reading": "じ", "meaning": "시", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "今", "reading": "いま", "meaning": "이제 금"},
+      {"char": "何", "reading": "なん", "meaning": "무엇 하"},
+      {"char": "時", "reading": "じ", "meaning": "때 시"}
+    ],
+    "tags": ["표현", "시간", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_029",
+    "word": "どこですか",
+    "reading": "どこですか",
+    "meaning": "어디입니까?",
+    "meaningDetail": "장소를 묻는 표현",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [1, 0, 1, 1, 1],
+    "examples": [
+      {"ja": "トイレはどこですか。", "reading": "といれはどこですか。", "ko": "화장실은 어디입니까?"},
+      {"ja": "駅はどこですか。", "reading": "えきはどこですか。", "ko": "역은 어디입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "どこ", "reading": "どこ", "meaning": "어디", "relation": "관련어"},
+      {"word": "ここ", "reading": "ここ", "meaning": "여기", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["표현", "장소", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_030",
+    "word": "何ですか",
+    "reading": "なんですか",
+    "meaning": "뭐입니까?",
+    "meaningDetail": "정체를 묻는 표현",
+    "jlpt": "N5",
+    "category": "표현",
+    "pitch": [1, 0, 1, 1, 1],
+    "examples": [
+      {"ja": "これは何ですか。", "reading": "これはなんですか。", "ko": "이것은 뭐입니까?"},
+      {"ja": "名前は何ですか。", "reading": "なまえはなんですか。", "ko": "이름이 뭐예요?"}
+    ],
+    "relatedWords": [
+      {"word": "何", "reading": "なに", "meaning": "무엇", "relation": "관련어"},
+      {"word": "どれ", "reading": "どれ", "meaning": "어느 것", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "何", "reading": "なん", "meaning": "무엇 하"}],
+    "tags": ["표현", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_031",
+    "word": "~てください",
+    "reading": "~てください",
+    "meaning": "~해 주세요",
+    "meaningDetail": "정중하게 요청하는 표현",
+    "jlpt": "N5",
+    "category": "문법",
+    "pitch": [0, 0, 0, 0, 1],
+    "examples": [
+      {"ja": "見てください。", "reading": "みてください。", "ko": "봐 주세요."},
+      {"ja": "教えてください。", "reading": "おしえてください。", "ko": "알려 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "お願いします", "reading": "おねがいします", "meaning": "부탁합니다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["문법", "요청", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_032",
+    "word": "~たいです",
+    "reading": "~たいです",
+    "meaning": "~하고 싶습니다",
+    "meaningDetail": "희망을 나타내는 표현",
+    "jlpt": "N5",
+    "category": "문법",
+    "pitch": [0, 0, 1, 1],
+    "examples": [
+      {"ja": "日本に行きたいです。", "reading": "にほんにいきたいです。", "ko": "일본에 가고 싶습니다."},
+      {"ja": "食べたいです。", "reading": "たべたいです。", "ko": "먹고 싶습니다."}
+    ],
+    "relatedWords": [
+      {"word": "したい", "reading": "したい", "meaning": "하고 싶다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["문법", "희망", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_033",
+    "word": "~ましょう",
+    "reading": "~ましょう",
+    "meaning": "~합시다",
+    "meaningDetail": "권유하는 표현",
+    "jlpt": "N5",
+    "category": "문법",
+    "pitch": [0, 0, 1, 1],
+    "examples": [
+      {"ja": "行きましょう。", "reading": "いきましょう。", "ko": "갑시다."},
+      {"ja": "一緒に食べましょう。", "reading": "いっしょにたべましょう。", "ko": "함께 먹읍시다."}
+    ],
+    "relatedWords": [
+      {"word": "一緒に", "reading": "いっしょに", "meaning": "함께", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["문법", "권유", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_034",
+    "word": "~ませんか",
+    "reading": "~ませんか",
+    "meaning": "~하지 않겠습니까?",
+    "meaningDetail": "정중하게 권유하는 표현",
+    "jlpt": "N5",
+    "category": "문법",
+    "pitch": [0, 0, 0, 1, 1],
+    "examples": [
+      {"ja": "一緒に行きませんか。", "reading": "いっしょにいきませんか。", "ko": "함께 가지 않겠습니까?"},
+      {"ja": "映画を見ませんか。", "reading": "えいがをみませんか。", "ko": "영화를 보지 않겠습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "~ましょう", "reading": "~ましょう", "meaning": "~합시다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["문법", "권유", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_ex_035",
+    "word": "できる",
+    "reading": "できる",
+    "meaning": "할 수 있다",
+    "meaningDetail": "능력이나 가능성을 나타냄",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日本語ができます。", "reading": "にほんごができます。", "ko": "일본어를 할 수 있습니다."},
+      {"ja": "運転ができますか。", "reading": "うんてんができますか。", "ko": "운전할 수 있습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "できます", "reading": "できます"},
+      {"form": "て형", "value": "できて", "reading": "できて"},
+      {"form": "た형", "value": "できた", "reading": "できた"},
+      {"form": "ない형", "value": "できない", "reading": "できない"}
+    ],
+    "relatedWords": [
+      {"word": "可能", "reading": "かのう", "meaning": "가능", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "2그룹", "가능", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_ex_036",
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "있다(사물)",
+    "meaningDetail": "사물이나 무생물의 존재를 나타냄",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "机の上に本があります。", "reading": "つくえのうえにほんがあります。", "ko": "책상 위에 책이 있습니다."},
+      {"ja": "時間がありますか。", "reading": "じかんがありますか。", "ko": "시간이 있습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "あります", "reading": "あります"},
+      {"form": "て형", "value": "あって", "reading": "あって"},
+      {"form": "た형", "value": "あった", "reading": "あった"},
+      {"form": "ない형", "value": "ない", "reading": "ない"}
+    ],
+    "relatedWords": [
+      {"word": "いる", "reading": "いる", "meaning": "있다(생물)", "relation": "관련어"},
+      {"word": "ない", "reading": "ない", "meaning": "없다", "relation": "반의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "1그룹", "존재", "N5"],
+    "frequency": 98
+  },
+  {
+    "id": "w_n5_ex_037",
+    "word": "いる",
+    "reading": "いる",
+    "meaning": "있다(생물)",
+    "meaningDetail": "사람이나 동물의 존재를 나타냄",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "犬がいます。", "reading": "いぬがいます。", "ko": "개가 있습니다."},
+      {"ja": "友達がたくさんいます。", "reading": "ともだちがたくさんいます。", "ko": "친구가 많이 있습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "います", "reading": "います"},
+      {"form": "て형", "value": "いて", "reading": "いて"},
+      {"form": "た형", "value": "いた", "reading": "いた"},
+      {"form": "ない형", "value": "いない", "reading": "いない"}
+    ],
+    "relatedWords": [
+      {"word": "ある", "reading": "ある", "meaning": "있다(사물)", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "2그룹", "존재", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_038",
+    "word": "なる",
+    "reading": "なる",
+    "meaning": "되다",
+    "meaningDetail": "상태가 변화하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "先生になりたいです。", "reading": "せんせいになりたいです。", "ko": "선생님이 되고 싶습니다."},
+      {"ja": "大きくなりました。", "reading": "おおきくなりました。", "ko": "커졌습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "なります", "reading": "なります"},
+      {"form": "て형", "value": "なって", "reading": "なって"},
+      {"form": "た형", "value": "なった", "reading": "なった"},
+      {"form": "ない형", "value": "ならない", "reading": "ならない"}
+    ],
+    "relatedWords": [
+      {"word": "変わる", "reading": "かわる", "meaning": "바뀌다", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "1그룹", "변화", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_039",
+    "word": "要る",
+    "reading": "いる",
+    "meaning": "필요하다",
+    "meaningDetail": "무언가가 필요하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "お金が要ります。", "reading": "おかねがいります。", "ko": "돈이 필요합니다."},
+      {"ja": "何が要りますか。", "reading": "なにがいりますか。", "ko": "무엇이 필요합니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "要ります", "reading": "いります"},
+      {"form": "て형", "value": "要って", "reading": "いって"},
+      {"form": "た형", "value": "要った", "reading": "いった"},
+      {"form": "ない형", "value": "要らない", "reading": "いらない"}
+    ],
+    "relatedWords": [
+      {"word": "必要", "reading": "ひつよう", "meaning": "필요", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "要", "reading": "い(る)", "meaning": "중요할 요"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_ex_040",
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "만나다",
+    "meaningDetail": "누군가를 만나다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "友達に会います。", "reading": "ともだちにあいます。", "ko": "친구를 만납니다."},
+      {"ja": "また会いましょう。", "reading": "またあいましょう。", "ko": "또 만납시다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "会います", "reading": "あいます"},
+      {"form": "て형", "value": "会って", "reading": "あって"},
+      {"form": "た형", "value": "会った", "reading": "あった"},
+      {"form": "ない형", "value": "会わない", "reading": "あわない"}
+    ],
+    "relatedWords": [
+      {"word": "会議", "reading": "かいぎ", "meaning": "회의", "relation": "관련어"},
+      {"word": "出会う", "reading": "であう", "meaning": "만나다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "会", "reading": "あ(う)", "meaning": "모일 회"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_ex_041",
+    "word": "わかる",
+    "reading": "わかる",
+    "meaning": "이해하다",
+    "meaningDetail": "의미나 내용을 알다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日本語がわかります。", "reading": "にほんごがわかります。", "ko": "일본어를 이해합니다."},
+      {"ja": "わかりました。", "reading": "わかりました。", "ko": "알겠습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "わかります", "reading": "わかります"},
+      {"form": "て형", "value": "わかって", "reading": "わかって"},
+      {"form": "た형", "value": "わかった", "reading": "わかった"},
+      {"form": "ない형", "value": "わからない", "reading": "わからない"}
+    ],
+    "relatedWords": [
+      {"word": "分かる", "reading": "わかる", "meaning": "알다", "relation": "유의어"},
+      {"word": "理解する", "reading": "りかいする", "meaning": "이해하다", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_ex_042",
+    "word": "円",
+    "reading": "えん",
+    "meaning": "엔 (일본 화폐)",
+    "meaningDetail": "일본의 화폐 단위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "百円です。", "reading": "ひゃくえんです。", "ko": "100엔입니다."},
+      {"ja": "千円札をください。", "reading": "せんえんさつをください。", "ko": "천엔 지폐를 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "お金", "reading": "おかね", "meaning": "돈", "relation": "관련어"},
+      {"word": "ドル", "reading": "どる", "meaning": "달러", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "円", "reading": "えん", "meaning": "둥글 원"}],
+    "tags": ["명사", "화폐", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_ex_043",
+    "word": "枚",
+    "reading": "まい",
+    "meaning": "장 (얇은 물건 세는 단위)",
+    "meaningDetail": "종이나 옷 등을 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "切符を二枚ください。", "reading": "きっぷをにまいください。", "ko": "표 두 장 주세요."},
+      {"ja": "紙が三枚あります。", "reading": "かみがさんまいあります。", "ko": "종이가 세 장 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "本", "reading": "ほん", "meaning": "개 (긴 물건)", "relation": "관련어"},
+      {"word": "冊", "reading": "さつ", "meaning": "권 (책)", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "枚", "reading": "まい", "meaning": "장 매"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_ex_044",
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "개 (긴 물건 세는 단위)",
+    "meaningDetail": "긴 물건을 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "ペンを一本ください。", "reading": "ぺんをいっぽんください。", "ko": "펜 한 개 주세요."},
+      {"ja": "傘が三本あります。", "reading": "かさがさんぼんあります。", "ko": "우산이 세 개 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "枚", "reading": "まい", "meaning": "장", "relation": "관련어"},
+      {"word": "個", "reading": "こ", "meaning": "개", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "本", "reading": "ほん", "meaning": "근본 본"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_ex_045",
+    "word": "台",
+    "reading": "だい",
+    "meaning": "대 (기계 세는 단위)",
+    "meaningDetail": "자동차나 기계를 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "車が一台あります。", "reading": "くるまがいちだいあります。", "ko": "차가 한 대 있습니다."},
+      {"ja": "テレビを二台買いました。", "reading": "てれびをにだいかいました。", "ko": "텔레비전 두 대를 샀습니다."}
+    ],
+    "relatedWords": [
+      {"word": "本", "reading": "ほん", "meaning": "개", "relation": "관련어"},
+      {"word": "車", "reading": "くるま", "meaning": "차", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "台", "reading": "だい", "meaning": "대 대"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_ex_046",
+    "word": "冊",
+    "reading": "さつ",
+    "meaning": "권 (책 세는 단위)",
+    "meaningDetail": "책을 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "本を三冊買いました。", "reading": "ほんをさんさつかいました。", "ko": "책 세 권을 샀습니다."},
+      {"ja": "辞書を一冊持っています。", "reading": "じしょをいっさつもっています。", "ko": "사전 한 권을 가지고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "本", "reading": "ほん", "meaning": "책", "relation": "관련어"},
+      {"word": "枚", "reading": "まい", "meaning": "장", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "冊", "reading": "さつ", "meaning": "책 책"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_ex_047",
+    "word": "杯",
+    "reading": "はい",
+    "meaning": "잔 (음료 세는 단위)",
+    "meaningDetail": "컵이나 잔에 담긴 것을 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "コーヒーを一杯ください。", "reading": "こーひーをいっぱいください。", "ko": "커피 한 잔 주세요."},
+      {"ja": "ビールを三杯飲みました。", "reading": "びーるをさんばいのみました。", "ko": "맥주 세 잔을 마셨습니다."}
+    ],
+    "relatedWords": [
+      {"word": "コップ", "reading": "こっぷ", "meaning": "컵", "relation": "관련어"},
+      {"word": "飲む", "reading": "のむ", "meaning": "마시다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "杯", "reading": "はい", "meaning": "잔 배"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_ex_048",
+    "word": "匹",
+    "reading": "ひき",
+    "meaning": "마리 (작은 동물 세는 단위)",
+    "meaningDetail": "작은 동물을 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "犬が二匹います。", "reading": "いぬがにひきいます。", "ko": "개가 두 마리 있습니다."},
+      {"ja": "猫を一匹飼っています。", "reading": "ねこをいっぴきかっています。", "ko": "고양이 한 마리를 키우고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "犬", "reading": "いぬ", "meaning": "개", "relation": "관련어"},
+      {"word": "猫", "reading": "ねこ", "meaning": "고양이", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "匹", "reading": "ひき", "meaning": "필 필"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_ex_049",
+    "word": "度",
+    "reading": "ど",
+    "meaning": "도 (온도, 각도)",
+    "meaningDetail": "온도나 각도를 나타내는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "今日は30度です。", "reading": "きょうはさんじゅうどです。", "ko": "오늘은 30도입니다."},
+      {"ja": "熱が38度あります。", "reading": "ねつがさんじゅうはちどあります。", "ko": "열이 38도 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "温度", "reading": "おんど", "meaning": "온도", "relation": "관련어"},
+      {"word": "熱", "reading": "ねつ", "meaning": "열", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "度", "reading": "ど", "meaning": "법도 도"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_ex_050",
+    "word": "回",
+    "reading": "かい",
+    "meaning": "번, 회",
+    "meaningDetail": "횟수를 세는 단위",
+    "jlpt": "N5",
+    "category": "조수사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "三回言いました。", "reading": "さんかいいいました。", "ko": "세 번 말했습니다."},
+      {"ja": "一回だけ行きました。", "reading": "いっかいだけいきました。", "ko": "한 번만 갔습니다."}
+    ],
+    "relatedWords": [
+      {"word": "回", "reading": "かい", "meaning": "번", "relation": "관련어"},
+      {"word": "度", "reading": "ど", "meaning": "번", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "回", "reading": "かい", "meaning": "돌 회"}],
+    "tags": ["조수사", "N5"],
+    "frequency": 82
+  }
+]

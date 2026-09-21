@@ -1,0 +1,482 @@
+[
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "자격증",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取得する。", "ko": "자격을 취득하다." }
+    ]
+  },
+  {
+    "word": "資質",
+    "reading": "ししつ",
+    "meaning": "자질",
+    "meaningDetail": "재능",
+    "category": "명사",
+    "examples": [
+      { "ja": "資質に恵まれる。", "ko": "자질을 타고나다." }
+    ]
+  },
+  {
+    "word": "資産",
+    "reading": "しさん",
+    "meaning": "자산",
+    "meaningDetail": "재산",
+    "category": "명사",
+    "examples": [
+      { "ja": "資産を増やす。", "ko": "자산을 늘리다." }
+    ]
+  },
+  {
+    "word": "資金",
+    "reading": "しきん",
+    "meaning": "자금",
+    "meaningDetail": "돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "資金を調達する。", "ko": "자금을 조달하다." }
+    ]
+  },
+  {
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "자원",
+    "meaningDetail": "재원",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を活用する。", "ko": "자원을 활용하다." }
+    ]
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "자료",
+    "meaningDetail": "데이터",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を集める。", "ko": "자료를 모으다." }
+    ]
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "meaningDetail": "원료",
+    "category": "명사",
+    "examples": [
+      { "ja": "材料を準備する。", "ko": "재료를 준비하다." }
+    ]
+  },
+  {
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaning": "원료",
+    "meaningDetail": "재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "原料を輸入する。", "ko": "원료를 수입하다." }
+    ]
+  },
+  {
+    "word": "燃料",
+    "reading": "ねんりょう",
+    "meaning": "연료",
+    "meaningDetail": "땔감",
+    "category": "명사",
+    "examples": [
+      { "ja": "燃料を補給する。", "ko": "연료를 보급하다." }
+    ]
+  },
+  {
+    "word": "電力",
+    "reading": "でんりょく",
+    "meaning": "전력",
+    "meaningDetail": "전기",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力を消費する。", "ko": "전력을 소비하다." }
+    ]
+  },
+  {
+    "word": "動力",
+    "reading": "どうりょく",
+    "meaning": "동력",
+    "meaningDetail": "힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "動力を得る。", "ko": "동력을 얻다." }
+    ]
+  },
+  {
+    "word": "能力",
+    "reading": "のうりょく",
+    "meaning": "능력",
+    "meaningDetail": "실력",
+    "category": "명사",
+    "examples": [
+      { "ja": "能力を発揮する。", "ko": "능력을 발휘하다." }
+    ]
+  },
+  {
+    "word": "実力",
+    "reading": "じつりょく",
+    "meaning": "실력",
+    "meaningDetail": "능력",
+    "category": "명사",
+    "examples": [
+      { "ja": "実力を試す。", "ko": "실력을 시험하다." }
+    ]
+  },
+  {
+    "word": "権力",
+    "reading": "けんりょく",
+    "meaning": "권력",
+    "meaningDetail": "힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "権力を握る。", "ko": "권력을 잡다." }
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "권리",
+    "meaningDetail": "자격",
+    "category": "명사",
+    "examples": [
+      { "ja": "権利を主張する。", "ko": "권리를 주장하다." }
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "meaningDetail": "책임",
+    "category": "명사",
+    "examples": [
+      { "ja": "義務を果たす。", "ko": "의무를 다하다." }
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "meaningDetail": "의무",
+    "category": "명사",
+    "examples": [
+      { "ja": "責任を取る。", "ko": "책임을 지다." }
+    ]
+  },
+  {
+    "word": "負担",
+    "reading": "ふたん",
+    "meaning": "부담",
+    "meaningDetail": "짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "負担を軽減する。", "ko": "부담을 줄이다." }
+    ]
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaning": "역할",
+    "meaningDetail": "임무",
+    "category": "명사",
+    "examples": [
+      { "ja": "役割を担う。", "ko": "역할을 맡다." }
+    ]
+  },
+  {
+    "word": "任務",
+    "reading": "にんむ",
+    "meaning": "임무",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "任務を遂行する。", "ko": "임무를 수행하다." }
+    ]
+  },
+  {
+    "word": "職務",
+    "reading": "しょくむ",
+    "meaning": "직무",
+    "meaningDetail": "업무",
+    "category": "명사",
+    "examples": [
+      { "ja": "職務に励む。", "ko": "직무에 힘쓰다." }
+    ]
+  },
+  {
+    "word": "業務",
+    "reading": "ぎょうむ",
+    "meaning": "업무",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "業務を行う。", "ko": "업무를 하다." }
+    ]
+  },
+  {
+    "word": "事務",
+    "reading": "じむ",
+    "meaning": "사무",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "事務を処理する。", "ko": "사무를 처리하다." }
+    ]
+  },
+  {
+    "word": "総務",
+    "reading": "そうむ",
+    "meaning": "총무",
+    "meaningDetail": "사무관리",
+    "category": "명사",
+    "examples": [
+      { "ja": "総務部に配属される。", "ko": "총무부에 배속되다." }
+    ]
+  },
+  {
+    "word": "経理",
+    "reading": "けいり",
+    "meaning": "경리",
+    "meaningDetail": "회계",
+    "category": "명사",
+    "examples": [
+      { "ja": "経理を担当する。", "ko": "경리를 담당하다." }
+    ]
+  },
+  {
+    "word": "人事",
+    "reading": "じんじ",
+    "meaning": "인사",
+    "meaningDetail": "인원관리",
+    "category": "명사",
+    "examples": [
+      { "ja": "人事異動がある。", "ko": "인사이동이 있다." }
+    ]
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meaning": "영업",
+    "meaningDetail": "판매",
+    "category": "명사",
+    "examples": [
+      { "ja": "営業を担当する。", "ko": "영업을 담당하다." }
+    ]
+  },
+  {
+    "word": "広報",
+    "reading": "こうほう",
+    "meaning": "홍보",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "広報活動を行う。", "ko": "홍보활동을 하다." }
+    ]
+  },
+  {
+    "word": "宣伝",
+    "reading": "せんでん",
+    "meaning": "선전",
+    "meaningDetail": "광고",
+    "category": "명사",
+    "examples": [
+      { "ja": "宣伝をする。", "ko": "선전을 하다." }
+    ]
+  },
+  {
+    "word": "広告",
+    "reading": "こうこく",
+    "meaning": "광고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "広告を出す。", "ko": "광고를 내다." }
+    ]
+  },
+  {
+    "word": "宣言",
+    "reading": "せんげん",
+    "meaning": "선언",
+    "meaningDetail": "공표",
+    "category": "명사",
+    "examples": [
+      { "ja": "宣言を発表する。", "ko": "선언을 발표하다." }
+    ]
+  },
+  {
+    "word": "声明",
+    "reading": "せいめい",
+    "meaning": "성명",
+    "meaningDetail": "발표",
+    "category": "명사",
+    "examples": [
+      { "ja": "声明を出す。", "ko": "성명을 내다." }
+    ]
+  },
+  {
+    "word": "発言",
+    "reading": "はつげん",
+    "meaning": "발언",
+    "meaningDetail": "말함",
+    "category": "명사",
+    "examples": [
+      { "ja": "発言を求める。", "ko": "발언을 요청하다." }
+    ]
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "발표",
+    "meaningDetail": "공개",
+    "category": "명사",
+    "examples": [
+      { "ja": "発表を行う。", "ko": "발표를 하다." }
+    ]
+  },
+  {
+    "word": "発行",
+    "reading": "はっこう",
+    "meaning": "발행",
+    "meaningDetail": "출판",
+    "category": "명사",
+    "examples": [
+      { "ja": "雑誌を発行する。", "ko": "잡지를 발행하다." }
+    ]
+  },
+  {
+    "word": "発売",
+    "reading": "はつばい",
+    "meaning": "발매",
+    "meaningDetail": "판매",
+    "category": "명사",
+    "examples": [
+      { "ja": "新製品を発売する。", "ko": "신제품을 발매하다." }
+    ]
+  },
+  {
+    "word": "発送",
+    "reading": "はっそう",
+    "meaning": "발송",
+    "meaningDetail": "보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を発送する。", "ko": "상품을 발송하다." }
+    ]
+  },
+  {
+    "word": "配送",
+    "reading": "はいそう",
+    "meaning": "배송",
+    "meaningDetail": "배달",
+    "category": "명사",
+    "examples": [
+      { "ja": "配送が遅れる。", "ko": "배송이 늦어지다." }
+    ]
+  },
+  {
+    "word": "配達",
+    "reading": "はいたつ",
+    "meaning": "배달",
+    "meaningDetail": "전달",
+    "category": "명사",
+    "examples": [
+      { "ja": "配達を頼む。", "ko": "배달을 부탁하다." }
+    ]
+  },
+  {
+    "word": "配布",
+    "reading": "はいふ",
+    "meaning": "배포",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を配布する。", "ko": "자료를 배포하다." }
+    ]
+  },
+  {
+    "word": "分配",
+    "reading": "ぶんぱい",
+    "meaning": "분배",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益を分配する。", "ko": "이익을 분배하다." }
+    ]
+  },
+  {
+    "word": "供給",
+    "reading": "きょうきゅう",
+    "meaning": "공급",
+    "meaningDetail": "제공",
+    "category": "명사",
+    "examples": [
+      { "ja": "供給が不足する。", "ko": "공급이 부족하다." }
+    ]
+  },
+  {
+    "word": "需要",
+    "reading": "じゅよう",
+    "meaning": "수요",
+    "meaningDetail": "필요",
+    "category": "명사",
+    "examples": [
+      { "ja": "需要が高まる。", "ko": "수요가 높아지다." }
+    ]
+  },
+  {
+    "word": "消費",
+    "reading": "しょうひ",
+    "meaning": "소비",
+    "meaningDetail": "사용",
+    "category": "명사",
+    "examples": [
+      { "ja": "消費が増える。", "ko": "소비가 늘다." }
+    ]
+  },
+  {
+    "word": "生産",
+    "reading": "せいさん",
+    "meaning": "생산",
+    "meaningDetail": "제조",
+    "category": "명사",
+    "examples": [
+      { "ja": "生産を増やす。", "ko": "생산을 늘리다." }
+    ]
+  },
+  {
+    "word": "製造",
+    "reading": "せいぞう",
+    "meaning": "제조",
+    "meaningDetail": "만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を製造する。", "ko": "제품을 제조하다." }
+    ]
+  },
+  {
+    "word": "製品",
+    "reading": "せいひん",
+    "meaning": "제품",
+    "meaningDetail": "상품",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を開発する。", "ko": "제품을 개발하다." }
+    ]
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaning": "상품",
+    "meaningDetail": "물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を並べる。", "ko": "상품을 진열하다." }
+    ]
+  }
+]

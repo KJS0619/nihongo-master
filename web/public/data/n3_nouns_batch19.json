@@ -1,0 +1,492 @@
+[
+  {
+    "word": "創造",
+    "reading": "そうぞう",
+    "meaning": "창조",
+    "meaningDetail": "새로 만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "価値を創造する。", "ko": "가치를 창조한다." }
+    ]
+  },
+  {
+    "word": "創作",
+    "reading": "そうさく",
+    "meaning": "창작",
+    "meaningDetail": "새로 짓다",
+    "category": "명사",
+    "examples": [
+      { "ja": "創作活動をする。", "ko": "창작 활동을 한다." }
+    ]
+  },
+  {
+    "word": "発明",
+    "reading": "はつめい",
+    "meaning": "발명",
+    "meaningDetail": "새로 만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "発明品を作る。", "ko": "발명품을 만든다." }
+    ]
+  },
+  {
+    "word": "発見",
+    "reading": "はっけん",
+    "meaning": "발견",
+    "meaningDetail": "찾음",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい発見をする。", "ko": "새로운 발견을 한다." }
+    ]
+  },
+  {
+    "word": "発想",
+    "reading": "はっそう",
+    "meaning": "발상",
+    "meaningDetail": "생각해냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "発想を転換する。", "ko": "발상을 전환한다." }
+    ]
+  },
+  {
+    "word": "着想",
+    "reading": "ちゃくそう",
+    "meaning": "착상",
+    "meaningDetail": "아이디어",
+    "category": "명사",
+    "examples": [
+      { "ja": "着想を得る。", "ko": "착상을 얻다." }
+    ]
+  },
+  {
+    "word": "構想",
+    "reading": "こうそう",
+    "meaning": "구상",
+    "meaningDetail": "계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "構想を練る。", "ko": "구상을 짜다." }
+    ]
+  },
+  {
+    "word": "企画",
+    "reading": "きかく",
+    "meaning": "기획",
+    "meaningDetail": "계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "企画を立てる。", "ko": "기획을 세운다." }
+    ]
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "계획",
+    "meaningDetail": "꾀",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を実行する。", "ko": "계획을 실행한다." }
+    ]
+  },
+  {
+    "word": "立案",
+    "reading": "りつあん",
+    "meaning": "입안",
+    "meaningDetail": "안을 세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "政策を立案する。", "ko": "정책을 입안한다." }
+    ]
+  },
+  {
+    "word": "草案",
+    "reading": "そうあん",
+    "meaning": "초안",
+    "meaningDetail": "처음 안",
+    "category": "명사",
+    "examples": [
+      { "ja": "草案を作成する。", "ko": "초안을 작성한다." }
+    ]
+  },
+  {
+    "word": "原案",
+    "reading": "げんあん",
+    "meaning": "원안",
+    "meaningDetail": "최초 안",
+    "category": "명사",
+    "examples": [
+      { "ja": "原案を修正する。", "ko": "원안을 수정한다." }
+    ]
+  },
+  {
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaning": "수정",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "修正を加える。", "ko": "수정을 가한다." }
+    ]
+  },
+  {
+    "word": "訂正",
+    "reading": "ていせい",
+    "meaning": "정정",
+    "meaningDetail": "바로잡음",
+    "category": "명사",
+    "examples": [
+      { "ja": "誤りを訂正する。", "ko": "잘못을 정정한다." }
+    ]
+  },
+  {
+    "word": "補正",
+    "reading": "ほせい",
+    "meaning": "보정",
+    "meaningDetail": "보완함",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を補正する。", "ko": "예산을 보정한다." }
+    ]
+  },
+  {
+    "word": "補足",
+    "reading": "ほそく",
+    "meaning": "보충",
+    "meaningDetail": "덧붙임",
+    "category": "명사",
+    "examples": [
+      { "ja": "補足説明をする。", "ko": "보충 설명을 한다." }
+    ]
+  },
+  {
+    "word": "追加",
+    "reading": "ついか",
+    "meaning": "추가",
+    "meaningDetail": "더함",
+    "category": "명사",
+    "examples": [
+      { "ja": "項目を追加する。", "ko": "항목을 추가한다." }
+    ]
+  },
+  {
+    "word": "削除",
+    "reading": "さくじょ",
+    "meaning": "삭제",
+    "meaningDetail": "지움",
+    "category": "명사",
+    "examples": [
+      { "ja": "不要な部分を削除する。", "ko": "불필요한 부분을 삭제한다." }
+    ]
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "변경",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "予定を変更する。", "ko": "예정을 변경한다." }
+    ]
+  },
+  {
+    "word": "更新",
+    "reading": "こうしん",
+    "meaning": "갱신",
+    "meaningDetail": "새로 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "記録を更新する。", "ko": "기록을 갱신한다." }
+    ]
+  },
+  {
+    "word": "刷新",
+    "reading": "さっしん",
+    "meaning": "쇄신",
+    "meaningDetail": "새롭게 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "体制を刷新する。", "ko": "체제를 쇄신한다." }
+    ]
+  },
+  {
+    "word": "一新",
+    "reading": "いっしん",
+    "meaning": "일신",
+    "meaningDetail": "완전히 바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "気分を一新する。", "ko": "기분을 일신한다." }
+    ]
+  },
+  {
+    "word": "復旧",
+    "reading": "ふっきゅう",
+    "meaning": "복구",
+    "meaningDetail": "원래대로 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "システムを復旧する。", "ko": "시스템을 복구한다." }
+    ]
+  },
+  {
+    "word": "復活",
+    "reading": "ふっかつ",
+    "meaning": "부활",
+    "meaningDetail": "되살아남",
+    "category": "명사",
+    "examples": [
+      { "ja": "人気が復活する。", "ko": "인기가 부활한다." }
+    ]
+  },
+  {
+    "word": "再開",
+    "reading": "さいかい",
+    "meaning": "재개",
+    "meaningDetail": "다시 시작함",
+    "category": "명사",
+    "examples": [
+      { "ja": "営業を再開する。", "ko": "영업을 재개한다." }
+    ]
+  },
+  {
+    "word": "再生",
+    "reading": "さいせい",
+    "meaning": "재생",
+    "meaningDetail": "다시 살림",
+    "category": "명사",
+    "examples": [
+      { "ja": "動画を再生する。", "ko": "동영상을 재생한다." }
+    ]
+  },
+  {
+    "word": "再現",
+    "reading": "さいげん",
+    "meaning": "재현",
+    "meaningDetail": "다시 나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を再現する。", "ko": "상황을 재현한다." }
+    ]
+  },
+  {
+    "word": "再建",
+    "reading": "さいけん",
+    "meaning": "재건",
+    "meaningDetail": "다시 세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を再建する。", "ko": "회사를 재건한다." }
+    ]
+  },
+  {
+    "word": "建設",
+    "reading": "けんせつ",
+    "meaning": "건설",
+    "meaningDetail": "세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "ビルを建設する。", "ko": "빌딩을 건설한다." }
+    ]
+  },
+  {
+    "word": "建築",
+    "reading": "けんちく",
+    "meaning": "건축",
+    "meaningDetail": "짓기",
+    "category": "명사",
+    "examples": [
+      { "ja": "建築物を設計する。", "ko": "건축물을 설계한다." }
+    ]
+  },
+  {
+    "word": "設計",
+    "reading": "せっけい",
+    "meaning": "설계",
+    "meaningDetail": "계획을 세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "システムを設計する。", "ko": "시스템을 설계한다." }
+    ]
+  },
+  {
+    "word": "設置",
+    "reading": "せっち",
+    "meaning": "설치",
+    "meaningDetail": "놓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "機器を設置する。", "ko": "기기를 설치한다." }
+    ]
+  },
+  {
+    "word": "設立",
+    "reading": "せつりつ",
+    "meaning": "설립",
+    "meaningDetail": "세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を設立する。", "ko": "회사를 설립한다." }
+    ]
+  },
+  {
+    "word": "創立",
+    "reading": "そうりつ",
+    "meaning": "창립",
+    "meaningDetail": "처음 세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "学校を創立する。", "ko": "학교를 창립한다." }
+    ]
+  },
+  {
+    "word": "創業",
+    "reading": "そうぎょう",
+    "meaning": "창업",
+    "meaningDetail": "사업을 시작함",
+    "category": "명사",
+    "examples": [
+      { "ja": "創業100年を迎える。", "ko": "창업 100년을 맞는다." }
+    ]
+  },
+  {
+    "word": "起業",
+    "reading": "きぎょう",
+    "meaning": "창업",
+    "meaningDetail": "사업을 일으킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "起業を目指す。", "ko": "창업을 목표로 한다." }
+    ]
+  },
+  {
+    "word": "廃業",
+    "reading": "はいぎょう",
+    "meaning": "폐업",
+    "meaningDetail": "사업을 그만둠",
+    "category": "명사",
+    "examples": [
+      { "ja": "店を廃業する。", "ko": "가게를 폐업한다." }
+    ]
+  },
+  {
+    "word": "倒産",
+    "reading": "とうさん",
+    "meaning": "도산",
+    "meaningDetail": "망함",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社が倒産する。", "ko": "회사가 도산한다." }
+    ]
+  },
+  {
+    "word": "破産",
+    "reading": "はさん",
+    "meaning": "파산",
+    "meaningDetail": "망함",
+    "category": "명사",
+    "examples": [
+      { "ja": "破産を申請する。", "ko": "파산을 신청한다." }
+    ]
+  },
+  {
+    "word": "経営",
+    "reading": "けいえい",
+    "meaning": "경영",
+    "meaningDetail": "운영",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を経営する。", "ko": "회사를 경영한다." }
+    ]
+  },
+  {
+    "word": "運営",
+    "reading": "うんえい",
+    "meaning": "운영",
+    "meaningDetail": "운용",
+    "category": "명사",
+    "examples": [
+      { "ja": "サイトを運営する。", "ko": "사이트를 운영한다." }
+    ]
+  },
+  {
+    "word": "運用",
+    "reading": "うんよう",
+    "meaning": "운용",
+    "meaningDetail": "씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "資金を運用する。", "ko": "자금을 운용한다." }
+    ]
+  },
+  {
+    "word": "管理",
+    "reading": "かんり",
+    "meaning": "관리",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質を管理する。", "ko": "품질을 관리한다." }
+    ]
+  },
+  {
+    "word": "監督",
+    "reading": "かんとく",
+    "meaning": "감독",
+    "meaningDetail": "지휘함",
+    "category": "명사",
+    "examples": [
+      { "ja": "現場を監督する。", "ko": "현장을 감독한다." }
+    ]
+  },
+  {
+    "word": "監視",
+    "reading": "かんし",
+    "meaning": "감시",
+    "meaningDetail": "지켜봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を監視する。", "ko": "상황을 감시한다." }
+    ]
+  },
+  {
+    "word": "視察",
+    "reading": "しさつ",
+    "meaning": "시찰",
+    "meaningDetail": "살핌",
+    "category": "명사",
+    "examples": [
+      { "ja": "現地を視察する。", "ko": "현지를 시찰한다." }
+    ]
+  },
+  {
+    "word": "見学",
+    "reading": "けんがく",
+    "meaning": "견학",
+    "meaningDetail": "보고 배움",
+    "category": "명사",
+    "examples": [
+      { "ja": "工場を見学する。", "ko": "공장을 견학한다." }
+    ]
+  },
+  {
+    "word": "参観",
+    "reading": "さんかん",
+    "meaning": "참관",
+    "meaningDetail": "지켜봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "授業を参観する。", "ko": "수업을 참관한다." }
+    ]
+  },
+  {
+    "word": "観光",
+    "reading": "かんこう",
+    "meaning": "관광",
+    "meaningDetail": "구경",
+    "category": "명사",
+    "examples": [
+      { "ja": "観光客が増える。", "ko": "관광객이 늘어난다." }
+    ]
+  }
+]

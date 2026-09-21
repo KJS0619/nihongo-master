@@ -1,0 +1,482 @@
+[
+  {
+    "word": "支配",
+    "reading": "しはい",
+    "meaning": "지배",
+    "meaningDetail": "통치",
+    "category": "명사",
+    "examples": [
+      { "ja": "支配下に置く。", "ko": "지배하에 두다." }
+    ]
+  },
+  {
+    "word": "統治",
+    "reading": "とうち",
+    "meaning": "통치",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "統治体制を確立する。", "ko": "통치 체제를 확립하다." }
+    ]
+  },
+  {
+    "word": "統制",
+    "reading": "とうせい",
+    "meaning": "통제",
+    "meaningDetail": "제어",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格統制を行う。", "ko": "가격 통제를 하다." }
+    ]
+  },
+  {
+    "word": "制御",
+    "reading": "せいぎょ",
+    "meaning": "제어",
+    "meaningDetail": "조절",
+    "category": "명사",
+    "examples": [
+      { "ja": "制御システムを開発する。", "ko": "제어 시스템을 개발하다." }
+    ]
+  },
+  {
+    "word": "制限",
+    "reading": "せいげん",
+    "meaning": "제한",
+    "meaningDetail": "한계",
+    "category": "명사",
+    "examples": [
+      { "ja": "時間制限がある。", "ko": "시간 제한이 있다." }
+    ]
+  },
+  {
+    "word": "規制",
+    "reading": "きせい",
+    "meaning": "규제",
+    "meaningDetail": "통제",
+    "category": "명사",
+    "examples": [
+      { "ja": "交通規制が行われる。", "ko": "교통 규제가 행해지다." }
+    ]
+  },
+  {
+    "word": "禁止",
+    "reading": "きんし",
+    "meaning": "금지",
+    "meaningDetail": "금함",
+    "category": "명사",
+    "examples": [
+      { "ja": "喫煙禁止の場所。", "ko": "흡연 금지 장소." }
+    ]
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "meaningDetail": "허락",
+    "category": "명사",
+    "examples": [
+      { "ja": "許可を得る。", "ko": "허가를 받다." }
+    ]
+  },
+  {
+    "word": "認可",
+    "reading": "にんか",
+    "meaning": "인가",
+    "meaningDetail": "승인",
+    "category": "명사",
+    "examples": [
+      { "ja": "認可を申請する。", "ko": "인가를 신청하다." }
+    ]
+  },
+  {
+    "word": "承認",
+    "reading": "しょうにん",
+    "meaning": "승인",
+    "meaningDetail": "인정",
+    "category": "명사",
+    "examples": [
+      { "ja": "承認を求める。", "ko": "승인을 구하다." }
+    ]
+  },
+  {
+    "word": "承諾",
+    "reading": "しょうだく",
+    "meaning": "승낙",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "承諾を得る。", "ko": "승낙을 받다." }
+    ]
+  },
+  {
+    "word": "拒否",
+    "reading": "きょひ",
+    "meaning": "거부",
+    "meaningDetail": "거절",
+    "category": "명사",
+    "examples": [
+      { "ja": "入国拒否にあう。", "ko": "입국 거부를 당하다." }
+    ]
+  },
+  {
+    "word": "辞退",
+    "reading": "じたい",
+    "meaning": "사퇴",
+    "meaningDetail": "사양",
+    "category": "명사",
+    "examples": [
+      { "ja": "辞退を申し出る。", "ko": "사퇴를 신청하다." }
+    ]
+  },
+  {
+    "word": "辞職",
+    "reading": "じしょく",
+    "meaning": "사직",
+    "meaningDetail": "퇴직",
+    "category": "명사",
+    "examples": [
+      { "ja": "辞職願を出す。", "ko": "사직서를 내다." }
+    ]
+  },
+  {
+    "word": "退職",
+    "reading": "たいしょく",
+    "meaning": "퇴직",
+    "meaningDetail": "은퇴",
+    "category": "명사",
+    "examples": [
+      { "ja": "退職金をもらう。", "ko": "퇴직금을 받다." }
+    ]
+  },
+  {
+    "word": "解雇",
+    "reading": "かいこ",
+    "meaning": "해고",
+    "meaningDetail": "면직",
+    "category": "명사",
+    "examples": [
+      { "ja": "不当解雇に抗議する。", "ko": "부당 해고에 항의하다." }
+    ]
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaning": "채용",
+    "meaningDetail": "고용",
+    "category": "명사",
+    "examples": [
+      { "ja": "採用試験を受ける。", "ko": "채용 시험을 보다." }
+    ]
+  },
+  {
+    "word": "任命",
+    "reading": "にんめい",
+    "meaning": "임명",
+    "meaningDetail": "지명",
+    "category": "명사",
+    "examples": [
+      { "ja": "任命式に出席する。", "ko": "임명식에 출석하다." }
+    ]
+  },
+  {
+    "word": "指名",
+    "reading": "しめい",
+    "meaning": "지명",
+    "meaningDetail": "지정",
+    "category": "명사",
+    "examples": [
+      { "ja": "指名手配される。", "ko": "지명수배되다." }
+    ]
+  },
+  {
+    "word": "指定",
+    "reading": "してい",
+    "meaning": "지정",
+    "meaningDetail": "정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "指定席を予約する。", "ko": "지정석을 예약하다." }
+    ]
+  },
+  {
+    "word": "指示",
+    "reading": "しじ",
+    "meaning": "지시",
+    "meaningDetail": "명령",
+    "category": "명사",
+    "examples": [
+      { "ja": "指示に従う。", "ko": "지시에 따르다." }
+    ]
+  },
+  {
+    "word": "指摘",
+    "reading": "してき",
+    "meaning": "지적",
+    "meaningDetail": "가리킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "指摘を受け入れる。", "ko": "지적을 받아들이다." }
+    ]
+  },
+  {
+    "word": "指導",
+    "reading": "しどう",
+    "meaning": "지도",
+    "meaningDetail": "가르침",
+    "category": "명사",
+    "examples": [
+      { "ja": "指導を受ける。", "ko": "지도를 받다." }
+    ]
+  },
+  {
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "meaningDetail": "가르침",
+    "category": "명사",
+    "examples": [
+      { "ja": "教育制度を改革する。", "ko": "교육 제도를 개혁하다." }
+    ]
+  },
+  {
+    "word": "訓練",
+    "reading": "くんれん",
+    "meaning": "훈련",
+    "meaningDetail": "연습",
+    "category": "명사",
+    "examples": [
+      { "ja": "訓練を積む。", "ko": "훈련을 쌓다." }
+    ]
+  },
+  {
+    "word": "養成",
+    "reading": "ようせい",
+    "meaning": "양성",
+    "meaningDetail": "기름",
+    "category": "명사",
+    "examples": [
+      { "ja": "人材養成に力を入れる。", "ko": "인재 양성에 힘을 쏟다." }
+    ]
+  },
+  {
+    "word": "育成",
+    "reading": "いくせい",
+    "meaning": "육성",
+    "meaningDetail": "기름",
+    "category": "명사",
+    "examples": [
+      { "ja": "選手の育成に努める。", "ko": "선수 육성에 힘쓰다." }
+    ]
+  },
+  {
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "성장",
+    "meaningDetail": "자람",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済成長が続く。", "ko": "경제 성장이 계속되다." }
+    ]
+  },
+  {
+    "word": "発達",
+    "reading": "はったつ",
+    "meaning": "발달",
+    "meaningDetail": "발전",
+    "category": "명사",
+    "examples": [
+      { "ja": "脳の発達を促す。", "ko": "뇌의 발달을 촉진하다." }
+    ]
+  },
+  {
+    "word": "進化",
+    "reading": "しんか",
+    "meaning": "진화",
+    "meaningDetail": "발전",
+    "category": "명사",
+    "examples": [
+      { "ja": "進化の過程を学ぶ。", "ko": "진화 과정을 배우다." }
+    ]
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "진보",
+    "meaningDetail": "발전",
+    "category": "명사",
+    "examples": [
+      { "ja": "科学の進歩が著しい。", "ko": "과학의 진보가 현저하다." }
+    ]
+  },
+  {
+    "word": "進展",
+    "reading": "しんてん",
+    "meaning": "진전",
+    "meaningDetail": "전진",
+    "category": "명사",
+    "examples": [
+      { "ja": "事態の進展を見守る。", "ko": "사태의 진전을 지켜보다." }
+    ]
+  },
+  {
+    "word": "前進",
+    "reading": "ぜんしん",
+    "meaning": "전진",
+    "meaningDetail": "나아감",
+    "category": "명사",
+    "examples": [
+      { "ja": "大きな前進を遂げる。", "ko": "큰 전진을 이루다." }
+    ]
+  },
+  {
+    "word": "後退",
+    "reading": "こうたい",
+    "meaning": "후퇴",
+    "meaningDetail": "물러남",
+    "category": "명사",
+    "examples": [
+      { "ja": "景気の後退が続く。", "ko": "경기 후퇴가 계속되다." }
+    ]
+  },
+  {
+    "word": "衰退",
+    "reading": "すいたい",
+    "meaning": "쇠퇴",
+    "meaningDetail": "몰락",
+    "category": "명사",
+    "examples": [
+      { "ja": "産業の衰退が進む。", "ko": "산업의 쇠퇴가 진행되다." }
+    ]
+  },
+  {
+    "word": "繁栄",
+    "reading": "はんえい",
+    "meaning": "번영",
+    "meaningDetail": "융성",
+    "category": "명사",
+    "examples": [
+      { "ja": "繁栄を極める。", "ko": "번영을 구가하다." }
+    ]
+  },
+  {
+    "word": "繁盛",
+    "reading": "はんじょう",
+    "meaning": "번창",
+    "meaningDetail": "성황",
+    "category": "명사",
+    "examples": [
+      { "ja": "商売が繁盛する。", "ko": "장사가 번창하다." }
+    ]
+  },
+  {
+    "word": "隆盛",
+    "reading": "りゅうせい",
+    "meaning": "융성",
+    "meaningDetail": "번영",
+    "category": "명사",
+    "examples": [
+      { "ja": "文化の隆盛を迎える。", "ko": "문화의 융성을 맞이하다." }
+    ]
+  },
+  {
+    "word": "没落",
+    "reading": "ぼつらく",
+    "meaning": "몰락",
+    "meaningDetail": "쇠퇴",
+    "category": "명사",
+    "examples": [
+      { "ja": "名家の没落。", "ko": "명문가의 몰락." }
+    ]
+  },
+  {
+    "word": "破綻",
+    "reading": "はたん",
+    "meaning": "파탄",
+    "meaningDetail": "붕괴",
+    "category": "명사",
+    "examples": [
+      { "ja": "財政が破綻する。", "ko": "재정이 파탄나다." }
+    ]
+  },
+  {
+    "word": "崩壊",
+    "reading": "ほうかい",
+    "meaning": "붕괴",
+    "meaningDetail": "무너짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "建物が崩壊する。", "ko": "건물이 붕괴하다." }
+    ]
+  },
+  {
+    "word": "倒産",
+    "reading": "とうさん",
+    "meaning": "도산",
+    "meaningDetail": "파산",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社が倒産する。", "ko": "회사가 도산하다." }
+    ]
+  },
+  {
+    "word": "破産",
+    "reading": "はさん",
+    "meaning": "파산",
+    "meaningDetail": "도산",
+    "category": "명사",
+    "examples": [
+      { "ja": "破産を申請する。", "ko": "파산을 신청하다." }
+    ]
+  },
+  {
+    "word": "復興",
+    "reading": "ふっこう",
+    "meaning": "부흥",
+    "meaningDetail": "재건",
+    "category": "명사",
+    "examples": [
+      { "ja": "復興事業を進める。", "ko": "부흥 사업을 추진하다." }
+    ]
+  },
+  {
+    "word": "再建",
+    "reading": "さいけん",
+    "meaning": "재건",
+    "meaningDetail": "복구",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社の再建を図る。", "ko": "회사의 재건을 꾀하다." }
+    ]
+  },
+  {
+    "word": "復旧",
+    "reading": "ふっきゅう",
+    "meaning": "복구",
+    "meaningDetail": "회복",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力の復旧を急ぐ。", "ko": "전력 복구를 서두르다." }
+    ]
+  },
+  {
+    "word": "復活",
+    "reading": "ふっかつ",
+    "meaning": "부활",
+    "meaningDetail": "소생",
+    "category": "명사",
+    "examples": [
+      { "ja": "伝統行事が復活する。", "ko": "전통 행사가 부활하다." }
+    ]
+  },
+  {
+    "word": "回復",
+    "reading": "かいふく",
+    "meaning": "회복",
+    "meaningDetail": "복구",
+    "category": "명사",
+    "examples": [
+      { "ja": "景気が回復する。", "ko": "경기가 회복하다." }
+    ]
+  }
+]

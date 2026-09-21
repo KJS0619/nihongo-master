@@ -1,0 +1,1356 @@
+{
+  "version": "1.0.0",
+  "totalCount": 70,
+  "words": [
+    {
+      "id": "adv001",
+      "word": "今",
+      "reading": "いま",
+      "meaning": "지금",
+      "meaningDetail": "현재 이 순간",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "今何時ですか。", "reading": "いまなんじですか。", "ko": "지금 몇 시예요?"},
+        {"ja": "今行きます。", "reading": "いまいきます。", "ko": "지금 갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "今日", "reading": "きょう", "meaning": "오늘", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "今", "reading": "いま", "meaning": "이제 금"}],
+      "tags": ["기본부사", "시간"],
+      "frequency": 5
+    },
+    {
+      "id": "adv002",
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "오늘",
+      "meaningDetail": "이 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "今日は暑いですね。", "reading": "きょうはあついですね。", "ko": "오늘은 덥네요."},
+        {"ja": "今日何をしますか。", "reading": "きょうなにをしますか。", "ko": "오늘 뭘 해요?"}
+      ],
+      "relatedWords": [
+        {"word": "明日", "reading": "あした", "meaning": "내일", "relation": "관련어"},
+        {"word": "昨日", "reading": "きのう", "meaning": "어제", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "今", "reading": "きょ", "meaning": "이제 금"}, {"char": "日", "reading": "う", "meaning": "날 일"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 10
+    },
+    {
+      "id": "adv003",
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "내일",
+      "meaningDetail": "오늘 다음 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "明日会いましょう。", "reading": "あしたあいましょう。", "ko": "내일 만납시다."},
+        {"ja": "明日は休みです。", "reading": "あしたはやすみです。", "ko": "내일은 휴일입니다."}
+      ],
+      "relatedWords": [
+        {"word": "今日", "reading": "きょう", "meaning": "오늘", "relation": "관련어"},
+        {"word": "昨日", "reading": "きのう", "meaning": "어제", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "明", "reading": "あ", "meaning": "밝을 명"}, {"char": "日", "reading": "した", "meaning": "날 일"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 15
+    },
+    {
+      "id": "adv004",
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "어제",
+      "meaningDetail": "오늘 전날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "昨日映画を見ました。", "reading": "きのうえいがをみました。", "ko": "어제 영화를 봤습니다."},
+        {"ja": "昨日は雨でした。", "reading": "きのうはあめでした。", "ko": "어제는 비였습니다."}
+      ],
+      "relatedWords": [
+        {"word": "今日", "reading": "きょう", "meaning": "오늘", "relation": "관련어"},
+        {"word": "明日", "reading": "あした", "meaning": "내일", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "昨", "reading": "きの", "meaning": "어제 작"}, {"char": "日", "reading": "う", "meaning": "날 일"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 20
+    },
+    {
+      "id": "adv005",
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "매일 아침",
+      "meaningDetail": "매일 아침마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "毎朝7時に起きます。", "reading": "まいあさしちじにおきます。", "ko": "매일 아침 7시에 일어납니다."},
+        {"ja": "毎朝ジョギングをします。", "reading": "まいあさじょぎんぐをします。", "ko": "매일 아침 조깅을 합니다."}
+      ],
+      "relatedWords": [
+        {"word": "毎日", "reading": "まいにち", "meaning": "매일", "relation": "관련어"},
+        {"word": "毎晩", "reading": "まいばん", "meaning": "매일 밤", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "毎", "reading": "まい", "meaning": "매양 매"}, {"char": "朝", "reading": "あさ", "meaning": "아침 조"}],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 55
+    },
+    {
+      "id": "adv006",
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "매일 밤",
+      "meaningDetail": "매일 밤마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "毎晩本を読みます。", "reading": "まいばんほんをよみます。", "ko": "매일 밤 책을 읽습니다."},
+        {"ja": "毎晩11時に寝ます。", "reading": "まいばんじゅういちじにねます。", "ko": "매일 밤 11시에 잡니다."}
+      ],
+      "relatedWords": [
+        {"word": "毎朝", "reading": "まいあさ", "meaning": "매일 아침", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "毎", "reading": "まい", "meaning": "매양 매"}, {"char": "晩", "reading": "ばん", "meaning": "저녁 만"}],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 75
+    },
+    {
+      "id": "adv007",
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "매주",
+      "meaningDetail": "매주마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "毎週土曜日に会います。", "reading": "まいしゅうどようびにあいます。", "ko": "매주 토요일에 만납니다."},
+        {"ja": "毎週映画を見ます。", "reading": "まいしゅうえいがをみます。", "ko": "매주 영화를 봅니다."}
+      ],
+      "relatedWords": [
+        {"word": "毎月", "reading": "まいつき", "meaning": "매달", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "毎", "reading": "まい", "meaning": "매양 매"}, {"char": "週", "reading": "しゅう", "meaning": "주 주"}],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 65
+    },
+    {
+      "id": "adv008",
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "매달",
+      "meaningDetail": "매달마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "毎月お金を送ります。", "reading": "まいつきおかねをおくります。", "ko": "매달 돈을 보냅니다."},
+        {"ja": "毎月一回会います。", "reading": "まいつきいっかいあいます。", "ko": "매달 한 번 만납니다."}
+      ],
+      "relatedWords": [
+        {"word": "毎年", "reading": "まいとし", "meaning": "매년", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "毎", "reading": "まい", "meaning": "매양 매"}, {"char": "月", "reading": "つき", "meaning": "달 월"}],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 80
+    },
+    {
+      "id": "adv009",
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "매년",
+      "meaningDetail": "매년마다",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "毎年日本に行きます。", "reading": "まいとしにほんにいきます。", "ko": "매년 일본에 갑니다."},
+        {"ja": "毎年誕生日を祝います。", "reading": "まいとしたんじょうびをいわいます。", "ko": "매년 생일을 축하합니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "毎", "reading": "まい", "meaning": "매양 매"}, {"char": "年", "reading": "とし", "meaning": "해 년"}],
+      "tags": ["기본부사", "시간", "빈도"],
+      "frequency": 85
+    },
+    {
+      "id": "adv010",
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "아침",
+      "meaningDetail": "하루의 시작 시간",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "朝ご飯を食べます。", "reading": "あさごはんをたべます。", "ko": "아침밥을 먹습니다."},
+        {"ja": "朝は早いです。", "reading": "あさははやいです。", "ko": "아침은 일찍입니다."}
+      ],
+      "relatedWords": [
+        {"word": "昼", "reading": "ひる", "meaning": "낮", "relation": "관련어"},
+        {"word": "夜", "reading": "よる", "meaning": "밤", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "朝", "reading": "あさ", "meaning": "아침 조"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 30
+    },
+    {
+      "id": "adv011",
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "낮, 점심",
+      "meaningDetail": "하루의 중간 시간",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "昼ご飯を食べましょう。", "reading": "ひるごはんをたべましょう。", "ko": "점심을 먹읍시다."},
+        {"ja": "昼は暑いです。", "reading": "ひるはあついです。", "ko": "낮에는 덥습니다."}
+      ],
+      "relatedWords": [
+        {"word": "朝", "reading": "あさ", "meaning": "아침", "relation": "관련어"},
+        {"word": "夜", "reading": "よる", "meaning": "밤", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "昼", "reading": "ひる", "meaning": "낮 주"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 50
+    },
+    {
+      "id": "adv012",
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "밤",
+      "meaningDetail": "해가 진 후의 시간",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "夜は涼しいです。", "reading": "よるはすずしいです。", "ko": "밤은 시원합니다."},
+        {"ja": "夜遅くまで勉強します。", "reading": "よるおそくまでべんきょうします。", "ko": "밤 늦게까지 공부합니다."}
+      ],
+      "relatedWords": [
+        {"word": "朝", "reading": "あさ", "meaning": "아침", "relation": "관련어"},
+        {"word": "昼", "reading": "ひる", "meaning": "낮", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "夜", "reading": "よる", "meaning": "밤 야"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 40
+    },
+    {
+      "id": "adv013",
+      "word": "晩",
+      "reading": "ばん",
+      "meaning": "저녁",
+      "meaningDetail": "해질 무렵부터 밤까지",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "晩ご飯は何ですか。", "reading": "ばんごはんはなんですか。", "ko": "저녁은 뭐예요?"},
+        {"ja": "今晩映画を見ます。", "reading": "こんばんえいがをみます。", "ko": "오늘 저녁 영화를 봅니다."}
+      ],
+      "relatedWords": [
+        {"word": "夜", "reading": "よる", "meaning": "밤", "relation": "유의어"}
+      ],
+      "kanji": [{"char": "晩", "reading": "ばん", "meaning": "저녁 만"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 60
+    },
+    {
+      "id": "adv014",
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "오전",
+      "meaningDetail": "정오 이전",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "午前中に仕事をします。", "reading": "ごぜんちゅうにしごとをします。", "ko": "오전 중에 일을 합니다."},
+        {"ja": "午前10時に会いましょう。", "reading": "ごぜんじゅうじにあいましょう。", "ko": "오전 10시에 만납시다."}
+      ],
+      "relatedWords": [
+        {"word": "午後", "reading": "ごご", "meaning": "오후", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "午", "reading": "ご", "meaning": "낮 오"}, {"char": "前", "reading": "ぜん", "meaning": "앞 전"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 45
+    },
+    {
+      "id": "adv015",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "오후",
+      "meaningDetail": "정오 이후",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "午後から雨です。", "reading": "ごごからあめです。", "ko": "오후부터 비입니다."},
+        {"ja": "午後3時に帰ります。", "reading": "ごごさんじにかえります。", "ko": "오후 3시에 돌아갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "午前", "reading": "ごぜん", "meaning": "오전", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "午", "reading": "ご", "meaning": "낮 오"}, {"char": "後", "reading": "ご", "meaning": "뒤 후"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 35
+    },
+    {
+      "id": "adv016",
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "주말",
+      "meaningDetail": "토요일과 일요일",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "週末は何をしますか。", "reading": "しゅうまつはなにをしますか。", "ko": "주말에는 뭘 해요?"},
+        {"ja": "週末に旅行に行きます。", "reading": "しゅうまつにりょこうにいきます。", "ko": "주말에 여행을 갑니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "週", "reading": "しゅう", "meaning": "주 주"}, {"char": "末", "reading": "まつ", "meaning": "끝 말"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 70
+    },
+    {
+      "id": "adv017",
+      "word": "休み",
+      "reading": "やすみ",
+      "meaning": "휴일, 쉬는 날",
+      "meaningDetail": "일하지 않는 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "明日は休みです。", "reading": "あしたはやすみです。", "ko": "내일은 쉬는 날입니다."},
+        {"ja": "休みに何をしますか。", "reading": "やすみになにをしますか。", "ko": "쉬는 날에 뭘 해요?"}
+      ],
+      "relatedWords": [
+        {"word": "休む", "reading": "やすむ", "meaning": "쉬다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "休", "reading": "やす(み)", "meaning": "쉴 휴"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 55
+    },
+    {
+      "id": "adv018",
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "다음 주",
+      "meaningDetail": "이번 주 다음 주",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "来週テストがあります。", "reading": "らいしゅうてすとがあります。", "ko": "다음 주에 시험이 있습니다."},
+        {"ja": "来週会いましょう。", "reading": "らいしゅうあいましょう。", "ko": "다음 주에 만납시다."}
+      ],
+      "relatedWords": [
+        {"word": "先週", "reading": "せんしゅう", "meaning": "지난주", "relation": "반의어"},
+        {"word": "今週", "reading": "こんしゅう", "meaning": "이번 주", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "来", "reading": "らい", "meaning": "올 래"}, {"char": "週", "reading": "しゅう", "meaning": "주 주"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 50
+    },
+    {
+      "id": "adv019",
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "지난주",
+      "meaningDetail": "이번 주 이전 주",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "先週日本に行きました。", "reading": "せんしゅうにほんにいきました。", "ko": "지난주에 일본에 갔습니다."},
+        {"ja": "先週は忙しかったです。", "reading": "せんしゅうはいそがしかったです。", "ko": "지난주는 바빴습니다."}
+      ],
+      "relatedWords": [
+        {"word": "来週", "reading": "らいしゅう", "meaning": "다음 주", "relation": "반의어"},
+        {"word": "今週", "reading": "こんしゅう", "meaning": "이번 주", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "先", "reading": "せん", "meaning": "먼저 선"}, {"char": "週", "reading": "しゅう", "meaning": "주 주"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 55
+    },
+    {
+      "id": "adv020",
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "이번 주",
+      "meaningDetail": "지금 있는 주",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "今週は仕事が多いです。", "reading": "こんしゅうはしごとがおおいです。", "ko": "이번 주는 일이 많습니다."},
+        {"ja": "今週の金曜日に会いましょう。", "reading": "こんしゅうのきんようびにあいましょう。", "ko": "이번 주 금요일에 만납시다."}
+      ],
+      "relatedWords": [
+        {"word": "来週", "reading": "らいしゅう", "meaning": "다음 주", "relation": "관련어"},
+        {"word": "先週", "reading": "せんしゅう", "meaning": "지난주", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "今", "reading": "こん", "meaning": "이제 금"}, {"char": "週", "reading": "しゅう", "meaning": "주 주"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 45
+    },
+    {
+      "id": "adv021",
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "다음 달",
+      "meaningDetail": "이번 달 다음 달",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "来月日本に行きます。", "reading": "らいげつにほんにいきます。", "ko": "다음 달에 일본에 갑니다."},
+        {"ja": "来月から仕事を始めます。", "reading": "らいげつからしごとをはじめます。", "ko": "다음 달부터 일을 시작합니다."}
+      ],
+      "relatedWords": [
+        {"word": "先月", "reading": "せんげつ", "meaning": "지난달", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "来", "reading": "らい", "meaning": "올 래"}, {"char": "月", "reading": "げつ", "meaning": "달 월"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 60
+    },
+    {
+      "id": "adv022",
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "지난달",
+      "meaningDetail": "이번 달 이전 달",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "先月結婚しました。", "reading": "せんげつけっこんしました。", "ko": "지난달에 결혼했습니다."},
+        {"ja": "先月は寒かったです。", "reading": "せんげつはさむかったです。", "ko": "지난달은 추웠습니다."}
+      ],
+      "relatedWords": [
+        {"word": "来月", "reading": "らいげつ", "meaning": "다음 달", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "先", "reading": "せん", "meaning": "먼저 선"}, {"char": "月", "reading": "げつ", "meaning": "달 월"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 65
+    },
+    {
+      "id": "adv023",
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "이번 달",
+      "meaningDetail": "지금 있는 달",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "今月は忙しいです。", "reading": "こんげつはいそがしいです。", "ko": "이번 달은 바쁩니다."},
+        {"ja": "今月中に終わります。", "reading": "こんげつちゅうにおわります。", "ko": "이번 달 안에 끝납니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "今", "reading": "こん", "meaning": "이제 금"}, {"char": "月", "reading": "げつ", "meaning": "달 월"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 55
+    },
+    {
+      "id": "adv024",
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "내년",
+      "meaningDetail": "올해 다음 해",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "来年大学に入ります。", "reading": "らいねんだいがくにはいります。", "ko": "내년에 대학에 들어갑니다."},
+        {"ja": "来年また会いましょう。", "reading": "らいねんまたあいましょう。", "ko": "내년에 또 만납시다."}
+      ],
+      "relatedWords": [
+        {"word": "去年", "reading": "きょねん", "meaning": "작년", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "来", "reading": "らい", "meaning": "올 래"}, {"char": "年", "reading": "ねん", "meaning": "해 년"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 70
+    },
+    {
+      "id": "adv025",
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "작년",
+      "meaningDetail": "올해 이전 해",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "去年日本に行きました。", "reading": "きょねんにほんにいきました。", "ko": "작년에 일본에 갔습니다."},
+        {"ja": "去年結婚しました。", "reading": "きょねんけっこんしました。", "ko": "작년에 결혼했습니다."}
+      ],
+      "relatedWords": [
+        {"word": "来年", "reading": "らいねん", "meaning": "내년", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "去", "reading": "きょ", "meaning": "갈 거"}, {"char": "年", "reading": "ねん", "meaning": "해 년"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 75
+    },
+    {
+      "id": "adv026",
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "올해",
+      "meaningDetail": "지금 있는 해",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "今年は暑いですね。", "reading": "ことしはあついですね。", "ko": "올해는 덥네요."},
+        {"ja": "今年日本に行きたいです。", "reading": "ことしにほんにいきたいです。", "ko": "올해 일본에 가고 싶어요."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "今", "reading": "こ", "meaning": "이제 금"}, {"char": "年", "reading": "とし", "meaning": "해 년"}],
+      "tags": ["기본명사", "시간"],
+      "frequency": 40
+    },
+    {
+      "id": "adv027",
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "자주, 잘",
+      "meaningDetail": "빈번하게, 상태가 좋게",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "よく映画を見ます。", "reading": "よくえいがをみます。", "ko": "자주 영화를 봅니다."},
+        {"ja": "よく分かりました。", "reading": "よくわかりました。", "ko": "잘 알겠습니다."}
+      ],
+      "relatedWords": [
+        {"word": "時々", "reading": "ときどき", "meaning": "때때로", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "빈도"],
+      "frequency": 15
+    },
+    {
+      "id": "adv028",
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "때때로, 가끔",
+      "meaningDetail": "자주는 아니지만 가끔",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1, 0, 0],
+      "examples": [
+        {"ja": "時々映画を見ます。", "reading": "ときどきえいがをみます。", "ko": "때때로 영화를 봅니다."},
+        {"ja": "時々日本料理を食べます。", "reading": "ときどきにほんりょうりをたべます。", "ko": "가끔 일본 요리를 먹습니다."}
+      ],
+      "relatedWords": [
+        {"word": "よく", "reading": "よく", "meaning": "자주", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "時", "reading": "とき", "meaning": "때 시"}],
+      "tags": ["기본부사", "빈도"],
+      "frequency": 45
+    },
+    {
+      "id": "adv029",
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "항상, 언제나",
+      "meaningDetail": "모든 때에",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "いつもありがとうございます。", "reading": "いつもありがとうございます。", "ko": "항상 감사합니다."},
+        {"ja": "いつもここで食べます。", "reading": "いつもここでたべます。", "ko": "항상 여기서 먹습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "빈도"],
+      "frequency": 25
+    },
+    {
+      "id": "adv030",
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "별로, 그다지",
+      "meaningDetail": "부정과 함께 쓰여 '별로'",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "あまり好きではありません。", "reading": "あまりすきではありません。", "ko": "별로 좋아하지 않습니다."},
+        {"ja": "あまり高くないです。", "reading": "あまりたかくないです。", "ko": "그다지 비싸지 않습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "정도"],
+      "frequency": 55
+    },
+    {
+      "id": "adv031",
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "전혀",
+      "meaningDetail": "부정과 함께 쓰여 '전혀'",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "全然分かりません。", "reading": "ぜんぜんわかりません。", "ko": "전혀 모릅니다."},
+        {"ja": "全然大丈夫です。", "reading": "ぜんぜんだいじょうぶです。", "ko": "전혀 괜찮습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "全", "reading": "ぜん", "meaning": "온전할 전"}, {"char": "然", "reading": "ぜん", "meaning": "그러할 연"}],
+      "tags": ["기본부사", "정도"],
+      "frequency": 50
+    },
+    {
+      "id": "adv032",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "많이",
+      "meaningDetail": "양이 많은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "たくさん食べてください。", "reading": "たくさんたべてください。", "ko": "많이 드세요."},
+        {"ja": "本がたくさんあります。", "reading": "ほんがたくさんあります。", "ko": "책이 많이 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "少し", "reading": "すこし", "meaning": "조금", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "양"],
+      "frequency": 30
+    },
+    {
+      "id": "adv033",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "조금",
+      "meaningDetail": "양이 적은",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "少し待ってください。", "reading": "すこしまってください。", "ko": "조금 기다려 주세요."},
+        {"ja": "日本語が少し分かります。", "reading": "にほんごがすこしわかります。", "ko": "일본어를 조금 알아요."}
+      ],
+      "relatedWords": [
+        {"word": "たくさん", "reading": "たくさん", "meaning": "많이", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "少", "reading": "すこ(し)", "meaning": "적을 소"}],
+      "tags": ["기본부사", "양"],
+      "frequency": 35
+    },
+    {
+      "id": "adv034",
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "잠깐, 조금",
+      "meaningDetail": "시간이나 양이 약간",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ちょっと待ってください。", "reading": "ちょっとまってください。", "ko": "잠깐 기다려 주세요."},
+        {"ja": "ちょっといいですか。", "reading": "ちょっといいですか。", "ko": "잠깐 괜찮으세요?"}
+      ],
+      "relatedWords": [
+        {"word": "少し", "reading": "すこし", "meaning": "조금", "relation": "유의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "양", "시간"],
+      "frequency": 20
+    },
+    {
+      "id": "adv035",
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "매우, 아주",
+      "meaningDetail": "정도가 심한",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "とてもおいしいです。", "reading": "とてもおいしいです。", "ko": "매우 맛있습니다."},
+        {"ja": "今日はとても暑いです。", "reading": "きょうはとてもあついです。", "ko": "오늘은 아주 덥습니다."}
+      ],
+      "relatedWords": [
+        {"word": "大変", "reading": "たいへん", "meaning": "매우", "relation": "유의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "정도"],
+      "frequency": 25
+    },
+    {
+      "id": "adv036",
+      "word": "本当に",
+      "reading": "ほんとうに",
+      "meaning": "정말로",
+      "meaningDetail": "진심으로, 실제로",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "本当にありがとうございます。", "reading": "ほんとうにありがとうございます。", "ko": "정말로 감사합니다."},
+        {"ja": "本当に美味しいです。", "reading": "ほんとうにおいしいです。", "ko": "정말 맛있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "本", "reading": "ほん", "meaning": "근본 본"}, {"char": "当", "reading": "とう", "meaning": "마땅할 당"}],
+      "tags": ["기본부사", "정도"],
+      "frequency": 40
+    },
+    {
+      "id": "adv037",
+      "word": "たぶん",
+      "reading": "たぶん",
+      "meaning": "아마",
+      "meaningDetail": "확실하지 않지만 추측",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "たぶん明日は晴れです。", "reading": "たぶんあしたははれです。", "ko": "아마 내일은 맑을 거예요."},
+        {"ja": "たぶん来ると思います。", "reading": "たぶんくるとおもいます。", "ko": "아마 올 거라고 생각해요."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "추측"],
+      "frequency": 60
+    },
+    {
+      "id": "adv038",
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "이미, 벌써",
+      "meaningDetail": "이미 그 상태가 된",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "もう食べましたか。", "reading": "もうたべましたか。", "ko": "이미 먹었어요?"},
+        {"ja": "もう帰ります。", "reading": "もうかえります。", "ko": "이제 돌아갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "まだ", "reading": "まだ", "meaning": "아직", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "시간"],
+      "frequency": 15
+    },
+    {
+      "id": "adv039",
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "아직",
+      "meaningDetail": "아직 그 상태가 아닌",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "まだ食べていません。", "reading": "まだたべていません。", "ko": "아직 먹지 않았습니다."},
+        {"ja": "まだですか。", "reading": "まだですか。", "ko": "아직이에요?"}
+      ],
+      "relatedWords": [
+        {"word": "もう", "reading": "もう", "meaning": "이미", "relation": "반의어"}
+      ],
+      "kanji": [],
+      "tags": ["기본부사", "시간"],
+      "frequency": 20
+    },
+    {
+      "id": "adv040",
+      "word": "すぐ",
+      "reading": "すぐ",
+      "meaning": "바로, 곧",
+      "meaningDetail": "시간이 지체 없이",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "すぐ行きます。", "reading": "すぐいきます。", "ko": "바로 갑니다."},
+        {"ja": "すぐ近くにあります。", "reading": "すぐちかくにあります。", "ko": "바로 근처에 있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "시간"],
+      "frequency": 35
+    },
+    {
+      "id": "adv041",
+      "word": "また",
+      "reading": "また",
+      "meaning": "또, 다시",
+      "meaningDetail": "다시 한 번",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "また会いましょう。", "reading": "またあいましょう。", "ko": "또 만납시다."},
+        {"ja": "また来てください。", "reading": "またきてください。", "ko": "또 와 주세요."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "반복"],
+      "frequency": 20
+    },
+    {
+      "id": "adv042",
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "처음으로",
+      "meaningDetail": "처음으로 하는",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 1, 1, 0],
+      "examples": [
+        {"ja": "初めて日本に来ました。", "reading": "はじめてにほんにきました。", "ko": "처음으로 일본에 왔습니다."},
+        {"ja": "初めてお会いします。", "reading": "はじめておあいします。", "ko": "처음 뵙겠습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "初", "reading": "はじ(めて)", "meaning": "처음 초"}],
+      "tags": ["기본부사", "순서"],
+      "frequency": 50
+    },
+    {
+      "id": "adv043",
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "함께",
+      "meaningDetail": "같이",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "一緒に行きましょう。", "reading": "いっしょにいきましょう。", "ko": "함께 갑시다."},
+        {"ja": "一緒に食べませんか。", "reading": "いっしょにたべませんか。", "ko": "같이 먹지 않을래요?"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "一", "reading": "いっ", "meaning": "한 일"}, {"char": "緒", "reading": "しょ", "meaning": "실마리 서"}],
+      "tags": ["기본부사", "동반"],
+      "frequency": 30
+    },
+    {
+      "id": "adv044",
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaning": "천천히",
+      "meaningDetail": "서두르지 않고",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "ゆっくり話してください。", "reading": "ゆっくりはなしてください。", "ko": "천천히 말해 주세요."},
+        {"ja": "ゆっくり休んでください。", "reading": "ゆっくりやすんでください。", "ko": "푹 쉬세요."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "속도"],
+      "frequency": 45
+    },
+    {
+      "id": "adv045",
+      "word": "もっと",
+      "reading": "もっと",
+      "meaning": "더",
+      "meaningDetail": "보다 더",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "もっと食べてください。", "reading": "もっとたべてください。", "ko": "더 드세요."},
+        {"ja": "もっと勉強したいです。", "reading": "もっとべんきょうしたいです。", "ko": "더 공부하고 싶어요."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "정도"],
+      "frequency": 35
+    },
+    {
+      "id": "adv046",
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "가장, 제일",
+      "meaningDetail": "여럿 중에서 가장",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "一番好きな食べ物は何ですか。", "reading": "いちばんすきなたべものはなんですか。", "ko": "가장 좋아하는 음식은 뭐예요?"},
+        {"ja": "これが一番いいです。", "reading": "これがいちばんいいです。", "ko": "이게 가장 좋습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "一", "reading": "いち", "meaning": "한 일"}, {"char": "番", "reading": "ばん", "meaning": "차례 번"}],
+      "tags": ["기본부사", "정도"],
+      "frequency": 40
+    },
+    {
+      "id": "adv047",
+      "word": "だんだん",
+      "reading": "だんだん",
+      "meaning": "점점",
+      "meaningDetail": "서서히 변화해가며",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "だんだん暖かくなります。", "reading": "だんだんあたたかくなります。", "ko": "점점 따뜻해집니다."},
+        {"ja": "だんだん分かってきました。", "reading": "だんだんわかってきました。", "ko": "점점 알게 됐습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [],
+      "tags": ["기본부사", "변화"],
+      "frequency": 70
+    },
+    {
+      "id": "adv048",
+      "word": "大体",
+      "reading": "だいたい",
+      "meaning": "대략, 대충",
+      "meaningDetail": "정확하지 않게 대충",
+      "jlpt": "N5",
+      "category": "부사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "大体分かりました。", "reading": "だいたいわかりました。", "ko": "대충 알겠습니다."},
+        {"ja": "大体何時に来ますか。", "reading": "だいたいなんじにきますか。", "ko": "대략 몇 시에 와요?"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "大", "reading": "だい", "meaning": "큰 대"}, {"char": "体", "reading": "たい", "meaning": "몸 체"}],
+      "tags": ["기본부사", "정도"],
+      "frequency": 65
+    },
+    {
+      "id": "adv049",
+      "word": "春",
+      "reading": "はる",
+      "meaning": "봄",
+      "meaningDetail": "3-5월",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "春は暖かいです。", "reading": "はるはあたたかいです。", "ko": "봄은 따뜻합니다."},
+        {"ja": "春に桜が咲きます。", "reading": "はるにさくらがさきます。", "ko": "봄에 벚꽃이 핍니다."}
+      ],
+      "relatedWords": [
+        {"word": "夏", "reading": "なつ", "meaning": "여름", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "春", "reading": "はる", "meaning": "봄 춘"}],
+      "tags": ["기본명사", "계절"],
+      "frequency": 60
+    },
+    {
+      "id": "adv050",
+      "word": "夏",
+      "reading": "なつ",
+      "meaning": "여름",
+      "meaningDetail": "6-8월",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "夏は暑いです。", "reading": "なつはあついです。", "ko": "여름은 덥습니다."},
+        {"ja": "夏休みに旅行します。", "reading": "なつやすみにりょこうします。", "ko": "여름 방학에 여행합니다."}
+      ],
+      "relatedWords": [
+        {"word": "冬", "reading": "ふゆ", "meaning": "겨울", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "夏", "reading": "なつ", "meaning": "여름 하"}],
+      "tags": ["기본명사", "계절"],
+      "frequency": 50
+    },
+    {
+      "id": "adv051",
+      "word": "秋",
+      "reading": "あき",
+      "meaning": "가을",
+      "meaningDetail": "9-11월",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "秋は涼しいです。", "reading": "あきはすずしいです。", "ko": "가을은 시원합니다."},
+        {"ja": "秋に紅葉を見に行きます。", "reading": "あきにこうようをみにいきます。", "ko": "가을에 단풍을 보러 갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "春", "reading": "はる", "meaning": "봄", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "秋", "reading": "あき", "meaning": "가을 추"}],
+      "tags": ["기본명사", "계절"],
+      "frequency": 55
+    },
+    {
+      "id": "adv052",
+      "word": "冬",
+      "reading": "ふゆ",
+      "meaning": "겨울",
+      "meaningDetail": "12-2월",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "冬は寒いです。", "reading": "ふゆはさむいです。", "ko": "겨울은 춥습니다."},
+        {"ja": "冬休みに帰ります。", "reading": "ふゆやすみにかえります。", "ko": "겨울 방학에 돌아갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "夏", "reading": "なつ", "meaning": "여름", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "冬", "reading": "ふゆ", "meaning": "겨울 동"}],
+      "tags": ["기본명사", "계절"],
+      "frequency": 55
+    },
+    {
+      "id": "adv053",
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "일요일",
+      "meaningDetail": "주의 첫째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "日曜日は休みです。", "reading": "にちようびはやすみです。", "ko": "일요일은 쉬는 날입니다."},
+        {"ja": "日曜日に会いましょう。", "reading": "にちようびにあいましょう。", "ko": "일요일에 만납시다."}
+      ],
+      "relatedWords": [
+        {"word": "土曜日", "reading": "どようび", "meaning": "토요일", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "日", "reading": "にち", "meaning": "날 일"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 35
+    },
+    {
+      "id": "adv054",
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "월요일",
+      "meaningDetail": "주의 둘째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "月曜日から仕事です。", "reading": "げつようびからしごとです。", "ko": "월요일부터 일입니다."},
+        {"ja": "月曜日に会議があります。", "reading": "げつようびにかいぎがあります。", "ko": "월요일에 회의가 있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "月", "reading": "げつ", "meaning": "달 월"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 40
+    },
+    {
+      "id": "adv055",
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "화요일",
+      "meaningDetail": "주의 셋째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "火曜日にテストがあります。", "reading": "かようびにてすとがあります。", "ko": "화요일에 시험이 있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "火", "reading": "か", "meaning": "불 화"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 45
+    },
+    {
+      "id": "adv056",
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "수요일",
+      "meaningDetail": "주의 넷째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "水曜日は何をしますか。", "reading": "すいようびはなにをしますか。", "ko": "수요일에는 뭘 해요?"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "水", "reading": "すい", "meaning": "물 수"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 50
+    },
+    {
+      "id": "adv057",
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "목요일",
+      "meaningDetail": "주의 다섯째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "木曜日に病院に行きます。", "reading": "もくようびにびょういんにいきます。", "ko": "목요일에 병원에 갑니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "木", "reading": "もく", "meaning": "나무 목"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 55
+    },
+    {
+      "id": "adv058",
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "금요일",
+      "meaningDetail": "주의 여섯째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "金曜日に映画を見に行きます。", "reading": "きんようびにえいがをみにいきます。", "ko": "금요일에 영화 보러 갑니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "金", "reading": "きん", "meaning": "쇠 금"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 45
+    },
+    {
+      "id": "adv059",
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "토요일",
+      "meaningDetail": "주의 일곱째 날",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "土曜日は友達と遊びます。", "reading": "どようびはともだちとあそびます。", "ko": "토요일에는 친구와 놉니다."}
+      ],
+      "relatedWords": [
+        {"word": "日曜日", "reading": "にちようび", "meaning": "일요일", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "土", "reading": "ど", "meaning": "흙 토"}, {"char": "曜", "reading": "よう", "meaning": "빛날 요"}, {"char": "日", "reading": "び", "meaning": "날 일"}],
+      "tags": ["기본명사", "요일"],
+      "frequency": 40
+    },
+    {
+      "id": "adv060",
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "하나",
+      "meaningDetail": "숫자 1",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "りんごを一つください。", "reading": "りんごをひとつください。", "ko": "사과 하나 주세요."},
+        {"ja": "一つ質問があります。", "reading": "ひとつしつもんがあります。", "ko": "질문이 하나 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "二つ", "reading": "ふたつ", "meaning": "둘", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "一", "reading": "ひと(つ)", "meaning": "한 일"}],
+      "tags": ["기본명사", "숫자"],
+      "frequency": 25
+    },
+    {
+      "id": "adv061",
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "둘",
+      "meaningDetail": "숫자 2",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "二つ買いました。", "reading": "ふたつかいました。", "ko": "두 개 샀습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "二", "reading": "ふた(つ)", "meaning": "두 이"}],
+      "tags": ["기본명사", "숫자"],
+      "frequency": 30
+    },
+    {
+      "id": "adv062",
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "셋",
+      "meaningDetail": "숫자 3",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "三つあります。", "reading": "みっつあります。", "ko": "세 개 있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "三", "reading": "みっ(つ)", "meaning": "석 삼"}],
+      "tags": ["기본명사", "숫자"],
+      "frequency": 35
+    },
+    {
+      "id": "adv063",
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "한 명, 혼자",
+      "meaningDetail": "사람 수 1",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "一人で行きます。", "reading": "ひとりでいきます。", "ko": "혼자서 갑니다."},
+        {"ja": "一人いくらですか。", "reading": "ひとりいくらですか。", "ko": "한 명에 얼마예요?"}
+      ],
+      "relatedWords": [
+        {"word": "二人", "reading": "ふたり", "meaning": "두 명", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "一", "reading": "ひと", "meaning": "한 일"}, {"char": "人", "reading": "り", "meaning": "사람 인"}],
+      "tags": ["기본명사", "숫자"],
+      "frequency": 30
+    },
+    {
+      "id": "adv064",
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "두 명",
+      "meaningDetail": "사람 수 2",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "二人で行きましょう。", "reading": "ふたりでいきましょう。", "ko": "둘이서 갑시다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "二", "reading": "ふた", "meaning": "두 이"}, {"char": "人", "reading": "り", "meaning": "사람 인"}],
+      "tags": ["기본명사", "숫자"],
+      "frequency": 35
+    },
+    {
+      "id": "adv065",
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "위",
+      "meaningDetail": "위쪽",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "机の上にあります。", "reading": "つくえのうえにあります。", "ko": "책상 위에 있습니다."},
+        {"ja": "上を見てください。", "reading": "うえをみてください。", "ko": "위를 보세요."}
+      ],
+      "relatedWords": [
+        {"word": "下", "reading": "した", "meaning": "아래", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "上", "reading": "うえ", "meaning": "위 상"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 20
+    },
+    {
+      "id": "adv066",
+      "word": "下",
+      "reading": "した",
+      "meaning": "아래",
+      "meaningDetail": "아래쪽",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "椅子の下にあります。", "reading": "いすのしたにあります。", "ko": "의자 아래에 있습니다."},
+        {"ja": "下を見てください。", "reading": "したをみてください。", "ko": "아래를 보세요."}
+      ],
+      "relatedWords": [
+        {"word": "上", "reading": "うえ", "meaning": "위", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "下", "reading": "した", "meaning": "아래 하"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 25
+    },
+    {
+      "id": "adv067",
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "앞",
+      "meaningDetail": "앞쪽",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "駅の前で待っています。", "reading": "えきのまえでまっています。", "ko": "역 앞에서 기다리고 있습니다."},
+        {"ja": "前に進んでください。", "reading": "まえにすすんでください。", "ko": "앞으로 나아가세요."}
+      ],
+      "relatedWords": [
+        {"word": "後ろ", "reading": "うしろ", "meaning": "뒤", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "前", "reading": "まえ", "meaning": "앞 전"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 15
+    },
+    {
+      "id": "adv068",
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "뒤",
+      "meaningDetail": "뒤쪽",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "後ろを見てください。", "reading": "うしろをみてください。", "ko": "뒤를 보세요."},
+        {"ja": "後ろに立っています。", "reading": "うしろにたっています。", "ko": "뒤에 서 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "前", "reading": "まえ", "meaning": "앞", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "後", "reading": "うし(ろ)", "meaning": "뒤 후"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 45
+    },
+    {
+      "id": "adv069",
+      "word": "右",
+      "reading": "みぎ",
+      "meaning": "오른쪽",
+      "meaningDetail": "오른쪽 방향",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "右に曲がってください。", "reading": "みぎにまがってください。", "ko": "오른쪽으로 돌아가세요."},
+        {"ja": "銀行は右にあります。", "reading": "ぎんこうはみぎにあります。", "ko": "은행은 오른쪽에 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "左", "reading": "ひだり", "meaning": "왼쪽", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "右", "reading": "みぎ", "meaning": "오른쪽 우"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 50
+    },
+    {
+      "id": "adv070",
+      "word": "左",
+      "reading": "ひだり",
+      "meaning": "왼쪽",
+      "meaningDetail": "왼쪽 방향",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 0],
+      "examples": [
+        {"ja": "左に曲がってください。", "reading": "ひだりにまがってください。", "ko": "왼쪽으로 돌아가세요."},
+        {"ja": "郵便局は左にあります。", "reading": "ゆうびんきょくはひだりにあります。", "ko": "우체국은 왼쪽에 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "右", "reading": "みぎ", "meaning": "오른쪽", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "左", "reading": "ひだり", "meaning": "왼쪽 좌"}],
+      "tags": ["기본명사", "위치"],
+      "frequency": 55
+    }
+  ]
+}

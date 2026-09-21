@@ -1,0 +1,492 @@
+[
+  {
+    "word": "芸術",
+    "reading": "げいじゅつ",
+    "meaning": "예술",
+    "meaningDetail": "아름다움을 표현하는 활동",
+    "category": "명사",
+    "examples": [
+      { "ja": "芸術作品を鑑賞する。", "ko": "예술 작품을 감상한다." }
+    ]
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "음악",
+    "meaningDetail": "소리로 표현하는 예술",
+    "category": "명사",
+    "examples": [
+      { "ja": "音楽を聴く。", "ko": "음악을 듣는다." }
+    ]
+  },
+  {
+    "word": "絵画",
+    "reading": "かいが",
+    "meaning": "회화, 그림",
+    "meaningDetail": "그림",
+    "category": "명사",
+    "examples": [
+      { "ja": "絵画を収集する。", "ko": "회화를 수집한다." }
+    ]
+  },
+  {
+    "word": "彫刻",
+    "reading": "ちょうこく",
+    "meaning": "조각",
+    "meaningDetail": "깎아서 만든 예술품",
+    "category": "명사",
+    "examples": [
+      { "ja": "彫刻を作る。", "ko": "조각을 만든다." }
+    ]
+  },
+  {
+    "word": "演劇",
+    "reading": "えんげき",
+    "meaning": "연극",
+    "meaningDetail": "무대 공연",
+    "category": "명사",
+    "examples": [
+      { "ja": "演劇を観る。", "ko": "연극을 본다." }
+    ]
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "영화",
+    "meaningDetail": "필름으로 만든 작품",
+    "category": "명사",
+    "examples": [
+      { "ja": "映画を撮影する。", "ko": "영화를 촬영한다." }
+    ]
+  },
+  {
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "프로그램",
+    "meaningDetail": "방송 내용",
+    "category": "명사",
+    "examples": [
+      { "ja": "テレビ番組を見る。", "ko": "TV 프로그램을 본다." }
+    ]
+  },
+  {
+    "word": "放送",
+    "reading": "ほうそう",
+    "meaning": "방송",
+    "meaningDetail": "전파로 보내는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "生放送を見る。", "ko": "생방송을 본다." }
+    ]
+  },
+  {
+    "word": "記事",
+    "reading": "きじ",
+    "meaning": "기사",
+    "meaningDetail": "신문이나 잡지의 글",
+    "category": "명사",
+    "examples": [
+      { "ja": "記事を読む。", "ko": "기사를 읽는다." }
+    ]
+  },
+  {
+    "word": "報道",
+    "reading": "ほうどう",
+    "meaning": "보도",
+    "meaningDetail": "뉴스를 전함",
+    "category": "명사",
+    "examples": [
+      { "ja": "報道を信じる。", "ko": "보도를 믿는다." }
+    ]
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "정보",
+    "meaningDetail": "알려주는 내용",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を集める。", "ko": "정보를 모은다." }
+    ]
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "자료",
+    "meaningDetail": "참고가 되는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を準備する。", "ko": "자료를 준비한다." }
+    ]
+  },
+  {
+    "word": "データ",
+    "reading": "データ",
+    "meaning": "데이터",
+    "meaningDetail": "정보, 자료",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석한다." }
+    ]
+  },
+  {
+    "word": "統計",
+    "reading": "とうけい",
+    "meaning": "통계",
+    "meaningDetail": "숫자로 정리한 자료",
+    "category": "명사",
+    "examples": [
+      { "ja": "統計を取る。", "ko": "통계를 낸다." }
+    ]
+  },
+  {
+    "word": "数字",
+    "reading": "すうじ",
+    "meaning": "숫자",
+    "meaningDetail": "수를 나타내는 문자",
+    "category": "명사",
+    "examples": [
+      { "ja": "数字を確認する。", "ko": "숫자를 확인한다." }
+    ]
+  },
+  {
+    "word": "計算",
+    "reading": "けいさん",
+    "meaning": "계산",
+    "meaningDetail": "수를 셈함",
+    "category": "명사",
+    "examples": [
+      { "ja": "計算をする。", "ko": "계산을 한다." }
+    ]
+  },
+  {
+    "word": "結論",
+    "reading": "けつろん",
+    "meaning": "결론",
+    "meaningDetail": "마지막 판단",
+    "category": "명사",
+    "examples": [
+      { "ja": "結論を出す。", "ko": "결론을 내린다." }
+    ]
+  },
+  {
+    "word": "証拠",
+    "reading": "しょうこ",
+    "meaning": "증거",
+    "meaningDetail": "증명하는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "証拠を見つける。", "ko": "증거를 찾는다." }
+    ]
+  },
+  {
+    "word": "事実",
+    "reading": "じじつ",
+    "meaning": "사실",
+    "meaningDetail": "실제로 있었던 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "事実を確認する。", "ko": "사실을 확인한다." }
+    ]
+  },
+  {
+    "word": "真実",
+    "reading": "しんじつ",
+    "meaning": "진실",
+    "meaningDetail": "참된 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "真実を語る。", "ko": "진실을 말한다." }
+    ]
+  },
+  {
+    "word": "現実",
+    "reading": "げんじつ",
+    "meaning": "현실",
+    "meaningDetail": "실제 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "現実を受け入れる。", "ko": "현실을 받아들인다." }
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "meaningDetail": "사정, 형편",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악한다." }
+    ]
+  },
+  {
+    "word": "状態",
+    "reading": "じょうたい",
+    "meaning": "상태",
+    "meaningDetail": "있는 그대로의 모습",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康状態が良い。", "ko": "건강 상태가 좋다." }
+    ]
+  },
+  {
+    "word": "場面",
+    "reading": "ばめん",
+    "meaning": "장면",
+    "meaningDetail": "특정한 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "感動的な場面だ。", "ko": "감동적인 장면이다." }
+    ]
+  },
+  {
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning": "장소",
+    "meaningDetail": "곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "集合場所を決める。", "ko": "집합 장소를 정한다." }
+    ]
+  },
+  {
+    "word": "位置",
+    "reading": "いち",
+    "meaning": "위치",
+    "meaningDetail": "자리",
+    "category": "명사",
+    "examples": [
+      { "ja": "位置を確認する。", "ko": "위치를 확인한다." }
+    ]
+  },
+  {
+    "word": "距離",
+    "reading": "きょり",
+    "meaning": "거리",
+    "meaningDetail": "떨어진 정도",
+    "category": "명사",
+    "examples": [
+      { "ja": "距離を測る。", "ko": "거리를 재다." }
+    ]
+  },
+  {
+    "word": "範囲",
+    "reading": "はんい",
+    "meaning": "범위",
+    "meaningDetail": "한계",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験の範囲を確認する。", "ko": "시험 범위를 확인한다." }
+    ]
+  },
+  {
+    "word": "限界",
+    "reading": "げんかい",
+    "meaning": "한계",
+    "meaningDetail": "최대 범위",
+    "category": "명사",
+    "examples": [
+      { "ja": "限界を感じる。", "ko": "한계를 느낀다." }
+    ]
+  },
+  {
+    "word": "境界",
+    "reading": "きょうかい",
+    "meaning": "경계",
+    "meaningDetail": "나누는 선",
+    "category": "명사",
+    "examples": [
+      { "ja": "境界を越える。", "ko": "경계를 넘는다." }
+    ]
+  },
+  {
+    "word": "空間",
+    "reading": "くうかん",
+    "meaning": "공간",
+    "meaningDetail": "빈 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "空間を有効に使う。", "ko": "공간을 효과적으로 사용한다." }
+    ]
+  },
+  {
+    "word": "面積",
+    "reading": "めんせき",
+    "meaning": "면적",
+    "meaningDetail": "넓이",
+    "category": "명사",
+    "examples": [
+      { "ja": "面積を計算する。", "ko": "면적을 계산한다." }
+    ]
+  },
+  {
+    "word": "体積",
+    "reading": "たいせき",
+    "meaning": "체적, 부피",
+    "meaningDetail": "입체의 크기",
+    "category": "명사",
+    "examples": [
+      { "ja": "体積を求める。", "ko": "부피를 구한다." }
+    ]
+  },
+  {
+    "word": "重量",
+    "reading": "じゅうりょう",
+    "meaning": "중량",
+    "meaningDetail": "무게",
+    "category": "명사",
+    "examples": [
+      { "ja": "重量制限がある。", "ko": "중량 제한이 있다." }
+    ]
+  },
+  {
+    "word": "速度",
+    "reading": "そくど",
+    "meaning": "속도",
+    "meaningDetail": "빠르기",
+    "category": "명사",
+    "examples": [
+      { "ja": "速度を上げる。", "ko": "속도를 올린다." }
+    ]
+  },
+  {
+    "word": "角度",
+    "reading": "かくど",
+    "meaning": "각도",
+    "meaningDetail": "기울기",
+    "category": "명사",
+    "examples": [
+      { "ja": "角度を変える。", "ko": "각도를 바꾼다." }
+    ]
+  },
+  {
+    "word": "程度",
+    "reading": "ていど",
+    "meaning": "정도",
+    "meaningDetail": "수준",
+    "category": "명사",
+    "examples": [
+      { "ja": "ある程度理解できた。", "ko": "어느 정도 이해할 수 있었다." }
+    ]
+  },
+  {
+    "word": "割合",
+    "reading": "わりあい",
+    "meaning": "비율",
+    "meaningDetail": "비례",
+    "category": "명사",
+    "examples": [
+      { "ja": "男女の割合を調べる。", "ko": "남녀 비율을 조사한다." }
+    ]
+  },
+  {
+    "word": "比率",
+    "reading": "ひりつ",
+    "meaning": "비율",
+    "meaningDetail": "비교되는 수치",
+    "category": "명사",
+    "examples": [
+      { "ja": "比率を計算する。", "ko": "비율을 계산한다." }
+    ]
+  },
+  {
+    "word": "倍",
+    "reading": "ばい",
+    "meaning": "배",
+    "meaningDetail": "곱한 수",
+    "category": "명사",
+    "examples": [
+      { "ja": "2倍になった。", "ko": "2배가 됐다." }
+    ]
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "반",
+    "meaningDetail": "절반",
+    "category": "명사",
+    "examples": [
+      { "ja": "半分に分ける。", "ko": "반으로 나눈다." }
+    ]
+  },
+  {
+    "word": "全体",
+    "reading": "ぜんたい",
+    "meaning": "전체",
+    "meaningDetail": "모두",
+    "category": "명사",
+    "examples": [
+      { "ja": "全体を見る。", "ko": "전체를 본다." }
+    ]
+  },
+  {
+    "word": "一部",
+    "reading": "いちぶ",
+    "meaning": "일부",
+    "meaningDetail": "부분",
+    "category": "명사",
+    "examples": [
+      { "ja": "一部を変更する。", "ko": "일부를 변경한다." }
+    ]
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaning": "부분",
+    "meaningDetail": "전체의 일부",
+    "category": "명사",
+    "examples": [
+      { "ja": "この部分が難しい。", "ko": "이 부분이 어렵다." }
+    ]
+  },
+  {
+    "word": "要素",
+    "reading": "ようそ",
+    "meaning": "요소",
+    "meaningDetail": "구성 성분",
+    "category": "명사",
+    "examples": [
+      { "ja": "重要な要素だ。", "ko": "중요한 요소다." }
+    ]
+  },
+  {
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "구조",
+    "meaningDetail": "짜임새",
+    "category": "명사",
+    "examples": [
+      { "ja": "建物の構造を調べる。", "ko": "건물 구조를 조사한다." }
+    ]
+  },
+  {
+    "word": "仕組み",
+    "reading": "しくみ",
+    "meaning": "구조, 시스템",
+    "meaningDetail": "만들어진 방식",
+    "category": "명사",
+    "examples": [
+      { "ja": "仕組みを理解する。", "ko": "구조를 이해한다." }
+    ]
+  },
+  {
+    "word": "機能",
+    "reading": "きのう",
+    "meaning": "기능",
+    "meaningDetail": "작용, 역할",
+    "category": "명사",
+    "examples": [
+      { "ja": "この機能は便利だ。", "ko": "이 기능은 편리하다." }
+    ]
+  },
+  {
+    "word": "特徴",
+    "reading": "とくちょう",
+    "meaning": "특징",
+    "meaningDetail": "다른 것과 구별되는 점",
+    "category": "명사",
+    "examples": [
+      { "ja": "特徴を説明する。", "ko": "특징을 설명한다." }
+    ]
+  }
+]

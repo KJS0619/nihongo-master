@@ -1,0 +1,482 @@
+[
+  {
+    "word": "乗り物",
+    "reading": "のりもの",
+    "meaning": "탈것",
+    "meaningDetail": "교통수단",
+    "category": "명사",
+    "examples": [
+      { "ja": "乗り物に乗る。", "ko": "탈것을 타다." }
+    ]
+  },
+  {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "자동차",
+    "meaningDetail": "차",
+    "category": "명사",
+    "examples": [
+      { "ja": "自動車を運転する。", "ko": "자동차를 운전하다." }
+    ]
+  },
+  {
+    "word": "車両",
+    "reading": "しゃりょう",
+    "meaning": "차량",
+    "meaningDetail": "차",
+    "category": "명사",
+    "examples": [
+      { "ja": "車両が通過する。", "ko": "차량이 통과하다." }
+    ]
+  },
+  {
+    "word": "列車",
+    "reading": "れっしゃ",
+    "meaning": "열차",
+    "meaningDetail": "기차",
+    "category": "명사",
+    "examples": [
+      { "ja": "列車に乗る。", "ko": "열차를 타다." }
+    ]
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "전철",
+    "meaningDetail": "전기 기차",
+    "category": "명사",
+    "examples": [
+      { "ja": "電車で通勤する。", "ko": "전철로 출퇴근하다." }
+    ]
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "지하철",
+    "meaningDetail": "땅밑 기차",
+    "category": "명사",
+    "examples": [
+      { "ja": "地下鉄に乗る。", "ko": "지하철을 타다." }
+    ]
+  },
+  {
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "신칸센",
+    "meaningDetail": "고속철도",
+    "category": "명사",
+    "examples": [
+      { "ja": "新幹線で移動する。", "ko": "신칸센으로 이동하다." }
+    ]
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "비행기",
+    "meaningDetail": "항공기",
+    "category": "명사",
+    "examples": [
+      { "ja": "飛行機に乗る。", "ko": "비행기를 타다." }
+    ]
+  },
+  {
+    "word": "航空",
+    "reading": "こうくう",
+    "meaning": "항공",
+    "meaningDetail": "하늘길",
+    "category": "명사",
+    "examples": [
+      { "ja": "航空会社を利用する。", "ko": "항공사를 이용하다." }
+    ]
+  },
+  {
+    "word": "船",
+    "reading": "ふね",
+    "meaning": "배",
+    "meaningDetail": "선박",
+    "category": "명사",
+    "examples": [
+      { "ja": "船で旅する。", "ko": "배로 여행하다." }
+    ]
+  },
+  {
+    "word": "船舶",
+    "reading": "せんぱく",
+    "meaning": "선박",
+    "meaningDetail": "배",
+    "category": "명사",
+    "examples": [
+      { "ja": "船舶が出港する。", "ko": "선박이 출항하다." }
+    ]
+  },
+  {
+    "word": "港",
+    "reading": "みなと",
+    "meaning": "항구",
+    "meaningDetail": "포구",
+    "category": "명사",
+    "examples": [
+      { "ja": "港に到着する。", "ko": "항구에 도착하다." }
+    ]
+  },
+  {
+    "word": "空港",
+    "reading": "くうこう",
+    "meaning": "공항",
+    "meaningDetail": "비행장",
+    "category": "명사",
+    "examples": [
+      { "ja": "空港に向かう。", "ko": "공항으로 향하다." }
+    ]
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "역",
+    "meaningDetail": "정거장",
+    "category": "명사",
+    "examples": [
+      { "ja": "駅で待つ。", "ko": "역에서 기다리다." }
+    ]
+  },
+  {
+    "word": "停留所",
+    "reading": "ていりゅうじょ",
+    "meaning": "정류장",
+    "meaningDetail": "정거장",
+    "category": "명사",
+    "examples": [
+      { "ja": "バス停留所で降りる。", "ko": "버스 정류장에서 내리다." }
+    ]
+  },
+  {
+    "word": "発着",
+    "reading": "はっちゃく",
+    "meaning": "발착",
+    "meaningDetail": "출발과 도착",
+    "category": "명사",
+    "examples": [
+      { "ja": "発着時刻を確認する。", "ko": "발착 시각을 확인하다." }
+    ]
+  },
+  {
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "출발",
+    "meaningDetail": "떠남",
+    "category": "명사",
+    "examples": [
+      { "ja": "出発の準備をする。", "ko": "출발 준비를 하다." }
+    ]
+  },
+  {
+    "word": "到着",
+    "reading": "とうちゃく",
+    "meaning": "도착",
+    "meaningDetail": "다다름",
+    "category": "명사",
+    "examples": [
+      { "ja": "到着を待つ。", "ko": "도착을 기다리다." }
+    ]
+  },
+  {
+    "word": "経由",
+    "reading": "けいゆ",
+    "meaning": "경유",
+    "meaningDetail": "거쳐 감",
+    "category": "명사",
+    "examples": [
+      { "ja": "東京経由で行く。", "ko": "도쿄 경유로 가다." }
+    ]
+  },
+  {
+    "word": "目的地",
+    "reading": "もくてきち",
+    "meaning": "목적지",
+    "meaningDetail": "갈 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的地に着く。", "ko": "목적지에 도착하다." }
+    ]
+  },
+  {
+    "word": "往復",
+    "reading": "おうふく",
+    "meaning": "왕복",
+    "meaningDetail": "오고 감",
+    "category": "명사",
+    "examples": [
+      { "ja": "往復切符を買う。", "ko": "왕복 승차권을 사다." }
+    ]
+  },
+  {
+    "word": "片道",
+    "reading": "かたみち",
+    "meaning": "편도",
+    "meaningDetail": "한 방향",
+    "category": "명사",
+    "examples": [
+      { "ja": "片道切符を買う。", "ko": "편도 승차권을 사다." }
+    ]
+  },
+  {
+    "word": "乗客",
+    "reading": "じょうきゃく",
+    "meaning": "승객",
+    "meaningDetail": "타는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "乗客が乗り込む。", "ko": "승객이 타다." }
+    ]
+  },
+  {
+    "word": "運転",
+    "reading": "うんてん",
+    "meaning": "운전",
+    "meaningDetail": "조종",
+    "category": "명사",
+    "examples": [
+      { "ja": "運転免許を取る。", "ko": "운전면허를 따다." }
+    ]
+  },
+  {
+    "word": "免許",
+    "reading": "めんきょ",
+    "meaning": "면허",
+    "meaningDetail": "허가증",
+    "category": "명사",
+    "examples": [
+      { "ja": "免許を更新する。", "ko": "면허를 갱신하다." }
+    ]
+  },
+  {
+    "word": "燃料",
+    "reading": "ねんりょう",
+    "meaning": "연료",
+    "meaningDetail": "땔것",
+    "category": "명사",
+    "examples": [
+      { "ja": "燃料を補給する。", "ko": "연료를 보급하다." }
+    ]
+  },
+  {
+    "word": "ガソリン",
+    "reading": "がそりん",
+    "meaning": "휘발유",
+    "meaningDetail": "연료",
+    "category": "명사",
+    "examples": [
+      { "ja": "ガソリンを入れる。", "ko": "휘발유를 넣다." }
+    ]
+  },
+  {
+    "word": "電力",
+    "reading": "でんりょく",
+    "meaning": "전력",
+    "meaningDetail": "전기 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力を供給する。", "ko": "전력을 공급하다." }
+    ]
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "전기",
+    "meaningDetail": "전류",
+    "category": "명사",
+    "examples": [
+      { "ja": "電気を消す。", "ko": "전기를 끄다." }
+    ]
+  },
+  {
+    "word": "電池",
+    "reading": "でんち",
+    "meaning": "전지",
+    "meaningDetail": "배터리",
+    "category": "명사",
+    "examples": [
+      { "ja": "電池を入れ替える。", "ko": "전지를 교체하다." }
+    ]
+  },
+  {
+    "word": "充電",
+    "reading": "じゅうでん",
+    "meaning": "충전",
+    "meaningDetail": "전기 채움",
+    "category": "명사",
+    "examples": [
+      { "ja": "携帯を充電する。", "ko": "휴대폰을 충전하다." }
+    ]
+  },
+  {
+    "word": "通信",
+    "reading": "つうしん",
+    "meaning": "통신",
+    "meaningDetail": "연락",
+    "category": "명사",
+    "examples": [
+      { "ja": "通信手段を確保する。", "ko": "통신 수단을 확보하다." }
+    ]
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "전화",
+    "meaningDetail": "전화기",
+    "category": "명사",
+    "examples": [
+      { "ja": "電話をかける。", "ko": "전화를 걸다." }
+    ]
+  },
+  {
+    "word": "携帯",
+    "reading": "けいたい",
+    "meaning": "휴대",
+    "meaningDetail": "들고 다님",
+    "category": "명사",
+    "examples": [
+      { "ja": "携帯電話を使う。", "ko": "휴대전화를 쓰다." }
+    ]
+  },
+  {
+    "word": "メール",
+    "reading": "めーる",
+    "meaning": "메일",
+    "meaningDetail": "전자우편",
+    "category": "명사",
+    "examples": [
+      { "ja": "メールを送る。", "ko": "메일을 보내다." }
+    ]
+  },
+  {
+    "word": "インターネット",
+    "reading": "いんたーねっと",
+    "meaning": "인터넷",
+    "meaningDetail": "네트워크",
+    "category": "명사",
+    "examples": [
+      { "ja": "インターネットを使う。", "ko": "인터넷을 쓰다." }
+    ]
+  },
+  {
+    "word": "パソコン",
+    "reading": "ぱそこん",
+    "meaning": "컴퓨터",
+    "meaningDetail": "개인용 컴퓨터",
+    "category": "명사",
+    "examples": [
+      { "ja": "パソコンを使う。", "ko": "컴퓨터를 쓰다." }
+    ]
+  },
+  {
+    "word": "コンピューター",
+    "reading": "こんぴゅーたー",
+    "meaning": "컴퓨터",
+    "meaningDetail": "전자 계산기",
+    "category": "명사",
+    "examples": [
+      { "ja": "コンピューターを操作する。", "ko": "컴퓨터를 조작하다." }
+    ]
+  },
+  {
+    "word": "ソフト",
+    "reading": "そふと",
+    "meaning": "소프트웨어",
+    "meaningDetail": "프로그램",
+    "category": "명사",
+    "examples": [
+      { "ja": "ソフトをインストールする。", "ko": "소프트웨어를 설치하다." }
+    ]
+  },
+  {
+    "word": "データ",
+    "reading": "でーた",
+    "meaning": "데이터",
+    "meaningDetail": "자료",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを保存する。", "ko": "데이터를 저장하다." }
+    ]
+  },
+  {
+    "word": "ファイル",
+    "reading": "ふぁいる",
+    "meaning": "파일",
+    "meaningDetail": "서류철",
+    "category": "명사",
+    "examples": [
+      { "ja": "ファイルを開く。", "ko": "파일을 열다." }
+    ]
+  },
+  {
+    "word": "画面",
+    "reading": "がめん",
+    "meaning": "화면",
+    "meaningDetail": "스크린",
+    "category": "명사",
+    "examples": [
+      { "ja": "画面を見る。", "ko": "화면을 보다." }
+    ]
+  },
+  {
+    "word": "操作",
+    "reading": "そうさ",
+    "meaning": "조작",
+    "meaningDetail": "다루기",
+    "category": "명사",
+    "examples": [
+      { "ja": "操作方法を覚える。", "ko": "조작 방법을 익히다." }
+    ]
+  },
+  {
+    "word": "機能",
+    "reading": "きのう",
+    "meaning": "기능",
+    "meaningDetail": "역할",
+    "category": "명사",
+    "examples": [
+      { "ja": "機能を追加する。", "ko": "기능을 추가하다." }
+    ]
+  },
+  {
+    "word": "性能",
+    "reading": "せいのう",
+    "meaning": "성능",
+    "meaningDetail": "능력",
+    "category": "명사",
+    "examples": [
+      { "ja": "性能が良い。", "ko": "성능이 좋다." }
+    ]
+  },
+  {
+    "word": "装置",
+    "reading": "そうち",
+    "meaning": "장치",
+    "meaningDetail": "기기",
+    "category": "명사",
+    "examples": [
+      { "ja": "装置を設置する。", "ko": "장치를 설치하다." }
+    ]
+  },
+  {
+    "word": "機械",
+    "reading": "きかい",
+    "meaning": "기계",
+    "meaningDetail": "장치",
+    "category": "명사",
+    "examples": [
+      { "ja": "機械を動かす。", "ko": "기계를 움직이다." }
+    ]
+  },
+  {
+    "word": "器具",
+    "reading": "きぐ",
+    "meaning": "기구",
+    "meaningDetail": "도구",
+    "category": "명사",
+    "examples": [
+      { "ja": "器具を使う。", "ko": "기구를 쓰다." }
+    ]
+  }
+]

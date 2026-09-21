@@ -1,0 +1,519 @@
+[
+  {
+    "word": "感じる",
+    "reading": "かんじる",
+    "meaning": "느끼다",
+    "meaningDetail": "지각하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "喜びを感じる。", "ko": "기쁨을 느끼다." }
+    ]
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "meaning": "생각하다",
+    "meaningDetail": "사고하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "深く考える。", "ko": "깊이 생각하다." }
+    ]
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "떠올리다",
+    "meaningDetail": "기억해내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "昔を思い出す。", "ko": "옛날을 떠올리다." }
+    ]
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "잊다",
+    "meaningDetail": "기억하지 못하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "約束を忘れる。", "ko": "약속을 잊다." }
+    ]
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "기억하다",
+    "meaningDetail": "외우다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "単語を覚える。", "ko": "단어를 외우다." }
+    ]
+  },
+  {
+    "word": "理解する",
+    "reading": "りかいする",
+    "meaning": "이해하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意味を理解する。", "ko": "의미를 이해하다." }
+    ]
+  },
+  {
+    "word": "認識する",
+    "reading": "にんしきする",
+    "meaning": "인식하다",
+    "meaningDetail": "알아채다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を認識する。", "ko": "문제를 인식하다." }
+    ]
+  },
+  {
+    "word": "意識する",
+    "reading": "いしきする",
+    "meaning": "의식하다",
+    "meaningDetail": "자각하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "周りを意識する。", "ko": "주변을 의식하다." }
+    ]
+  },
+  {
+    "word": "判断する",
+    "reading": "はんだんする",
+    "meaning": "판단하다",
+    "meaningDetail": "결정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況を判断する。", "ko": "상황을 판단하다." }
+    ]
+  },
+  {
+    "word": "想像する",
+    "reading": "そうぞうする",
+    "meaning": "상상하다",
+    "meaningDetail": "꿈꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "未来を想像する。", "ko": "미래를 상상하다." }
+    ]
+  },
+  {
+    "word": "期待する",
+    "reading": "きたいする",
+    "meaning": "기대하다",
+    "meaningDetail": "바라다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成功を期待する。", "ko": "성공을 기대하다." }
+    ]
+  },
+  {
+    "word": "失望する",
+    "reading": "しつぼうする",
+    "meaning": "실망하다",
+    "meaningDetail": "낙담하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果に失望する。", "ko": "결과에 실망하다." }
+    ]
+  },
+  {
+    "word": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "기뻐하다",
+    "meaningDetail": "좋아하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "贈り物を喜ぶ。", "ko": "선물을 기뻐하다." }
+    ]
+  },
+  {
+    "word": "悲しむ",
+    "reading": "かなしむ",
+    "meaning": "슬퍼하다",
+    "meaningDetail": "서러워하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "別れを悲しむ。", "ko": "이별을 슬퍼하다." }
+    ]
+  },
+  {
+    "word": "怒る",
+    "reading": "おこる",
+    "meaning": "화내다",
+    "meaningDetail": "노하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "失敗に怒る。", "ko": "실패에 화내다." }
+    ]
+  },
+  {
+    "word": "恐れる",
+    "reading": "おそれる",
+    "meaning": "두려워하다",
+    "meaningDetail": "무서워하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "失敗を恐れる。", "ko": "실패를 두려워하다." }
+    ]
+  },
+  {
+    "word": "驚く",
+    "reading": "おどろく",
+    "meaning": "놀라다",
+    "meaningDetail": "깜짝하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ニュースに驚く。", "ko": "뉴스에 놀라다." }
+    ]
+  },
+  {
+    "word": "緊張する",
+    "reading": "きんちょうする",
+    "meaning": "긴장하다",
+    "meaningDetail": "조마조마하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "試験前に緊張する。", "ko": "시험 전에 긴장하다." }
+    ]
+  },
+  {
+    "word": "興奮する",
+    "reading": "こうふんする",
+    "meaning": "흥분하다",
+    "meaningDetail": "들뜨다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "試合に興奮する。", "ko": "시합에 흥분하다." }
+    ]
+  },
+  {
+    "word": "感動する",
+    "reading": "かんどうする",
+    "meaning": "감동하다",
+    "meaningDetail": "감명받다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "映画に感動する。", "ko": "영화에 감동하다." }
+    ]
+  },
+  {
+    "word": "感謝する",
+    "reading": "かんしゃする",
+    "meaning": "감사하다",
+    "meaningDetail": "고마워하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "助けに感謝する。", "ko": "도움에 감사하다." }
+    ]
+  },
+  {
+    "word": "後悔する",
+    "reading": "こうかいする",
+    "meaning": "후회하다",
+    "meaningDetail": "뉘우치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "決断を後悔する。", "ko": "결단을 후회하다." }
+    ]
+  },
+  {
+    "word": "反省する",
+    "reading": "はんせいする",
+    "meaning": "반성하다",
+    "meaningDetail": "되돌아보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "行動を反省する。", "ko": "행동을 반성하다." }
+    ]
+  },
+  {
+    "word": "同情する",
+    "reading": "どうじょうする",
+    "meaning": "동정하다",
+    "meaningDetail": "불쌍히 여기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "相手に同情する。", "ko": "상대를 동정하다." }
+    ]
+  },
+  {
+    "word": "共感する",
+    "reading": "きょうかんする",
+    "meaning": "공감하다",
+    "meaningDetail": "같이 느끼다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見に共感する。", "ko": "의견에 공감하다." }
+    ]
+  },
+  {
+    "word": "尊敬する",
+    "reading": "そんけいする",
+    "meaning": "존경하다",
+    "meaningDetail": "우러러보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "先生を尊敬する。", "ko": "선생님을 존경하다." }
+    ]
+  },
+  {
+    "word": "軽蔑する",
+    "reading": "けいべつする",
+    "meaning": "경멸하다",
+    "meaningDetail": "업신여기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "卑怯者を軽蔑する。", "ko": "비겁한 자를 경멸하다." }
+    ]
+  },
+  {
+    "word": "信頼する",
+    "reading": "しんらいする",
+    "meaning": "신뢰하다",
+    "meaningDetail": "믿다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "友人を信頼する。", "ko": "친구를 신뢰하다." }
+    ]
+  },
+  {
+    "word": "裏切る",
+    "reading": "うらぎる",
+    "meaning": "배신하다",
+    "meaningDetail": "등을 돌리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "仲間を裏切る。", "ko": "동료를 배신하다." }
+    ]
+  },
+  {
+    "word": "誤解する",
+    "reading": "ごかいする",
+    "meaning": "오해하다",
+    "meaningDetail": "잘못 알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意味を誤解する。", "ko": "의미를 오해하다." }
+    ]
+  },
+  {
+    "word": "納得する",
+    "reading": "なっとくする",
+    "meaning": "납득하다",
+    "meaningDetail": "수긍하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "説明に納得する。", "ko": "설명에 납득하다." }
+    ]
+  },
+  {
+    "word": "賛成する",
+    "reading": "さんせいする",
+    "meaning": "찬성하다",
+    "meaningDetail": "동의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "提案に賛成する。", "ko": "제안에 찬성하다." }
+    ]
+  },
+  {
+    "word": "反対する",
+    "reading": "はんたいする",
+    "meaning": "반대하다",
+    "meaningDetail": "거부하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画に反対する。", "ko": "계획에 반대하다." }
+    ]
+  },
+  {
+    "word": "主張する",
+    "reading": "しゅちょうする",
+    "meaning": "주장하다",
+    "meaningDetail": "내세우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を主張する。", "ko": "의견을 주장하다." }
+    ]
+  },
+  {
+    "word": "強調する",
+    "reading": "きょうちょうする",
+    "meaning": "강조하다",
+    "meaningDetail": "힘주어 말하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "重要性を強調する。", "ko": "중요성을 강조하다." }
+    ]
+  },
+  {
+    "word": "批判する",
+    "reading": "ひはんする",
+    "meaning": "비판하다",
+    "meaningDetail": "흠잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "政策を批判する。", "ko": "정책을 비판하다." }
+    ]
+  },
+  {
+    "word": "非難する",
+    "reading": "ひなんする",
+    "meaning": "비난하다",
+    "meaningDetail": "나무라다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "行為を非難する。", "ko": "행위를 비난하다." }
+    ]
+  },
+  {
+    "word": "称賛する",
+    "reading": "しょうさんする",
+    "meaning": "칭찬하다",
+    "meaningDetail": "추켜세우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "努力を称賛する。", "ko": "노력을 칭찬하다." }
+    ]
+  },
+  {
+    "word": "褒める",
+    "reading": "ほめる",
+    "meaning": "칭찬하다",
+    "meaningDetail": "좋게 말하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "子供を褒める。", "ko": "아이를 칭찬하다." }
+    ]
+  },
+  {
+    "word": "叱る",
+    "reading": "しかる",
+    "meaning": "꾸짖다",
+    "meaningDetail": "나무라다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "子供を叱る。", "ko": "아이를 꾸짖다." }
+    ]
+  },
+  {
+    "word": "励ます",
+    "reading": "はげます",
+    "meaning": "격려하다",
+    "meaningDetail": "응원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友人を励ます。", "ko": "친구를 격려하다." }
+    ]
+  },
+  {
+    "word": "慰める",
+    "reading": "なぐさめる",
+    "meaning": "위로하다",
+    "meaningDetail": "달래다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "悲しむ人を慰める。", "ko": "슬퍼하는 사람을 위로하다." }
+    ]
+  },
+  {
+    "word": "謝る",
+    "reading": "あやまる",
+    "meaning": "사과하다",
+    "meaningDetail": "미안해하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "失礼を謝る。", "ko": "실례를 사과하다." }
+    ]
+  },
+  {
+    "word": "許す",
+    "reading": "ゆるす",
+    "meaning": "용서하다",
+    "meaningDetail": "봐주다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過ちを許す。", "ko": "잘못을 용서하다." }
+    ]
+  },
+  {
+    "word": "恨む",
+    "reading": "うらむ",
+    "meaning": "원망하다",
+    "meaningDetail": "앙심 품다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "運命を恨む。", "ko": "운명을 원망하다." }
+    ]
+  },
+  {
+    "word": "羨む",
+    "reading": "うらやむ",
+    "meaning": "부러워하다",
+    "meaningDetail": "샘내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功を羨む。", "ko": "성공을 부러워하다." }
+    ]
+  },
+  {
+    "word": "憎む",
+    "reading": "にくむ",
+    "meaning": "미워하다",
+    "meaningDetail": "증오하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵を憎む。", "ko": "적을 미워하다." }
+    ]
+  }
+]

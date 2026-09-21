@@ -1,0 +1,519 @@
+[
+  {
+    "word": "愛する",
+    "reading": "あいする",
+    "meaning": "사랑하다",
+    "meaningDetail": "아끼다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "家族を愛する。", "ko": "가족을 사랑하다." }
+    ]
+  },
+  {
+    "word": "嫌う",
+    "reading": "きらう",
+    "meaning": "싫어하다",
+    "meaningDetail": "피하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "嘘を嫌う。", "ko": "거짓말을 싫어하다." }
+    ]
+  },
+  {
+    "word": "好む",
+    "reading": "このむ",
+    "meaning": "좋아하다",
+    "meaningDetail": "선호하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "静かな場所を好む。", "ko": "조용한 곳을 좋아하다." }
+    ]
+  },
+  {
+    "word": "望む",
+    "reading": "のぞむ",
+    "meaning": "바라다",
+    "meaningDetail": "원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功を望む。", "ko": "성공을 바라다." }
+    ]
+  },
+  {
+    "word": "願う",
+    "reading": "ねがう",
+    "meaning": "빌다",
+    "meaningDetail": "소원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "幸せを願う。", "ko": "행복을 빌다." }
+    ]
+  },
+  {
+    "word": "祈る",
+    "reading": "いのる",
+    "meaning": "기도하다",
+    "meaningDetail": "빌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "平和を祈る。", "ko": "평화를 기도하다." }
+    ]
+  },
+  {
+    "word": "悩む",
+    "reading": "なやむ",
+    "meaning": "고민하다",
+    "meaningDetail": "걱정하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "進路に悩む。", "ko": "진로에 고민하다." }
+    ]
+  },
+  {
+    "word": "迷う",
+    "reading": "まよう",
+    "meaning": "망설이다",
+    "meaningDetail": "헤매다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "道に迷う。", "ko": "길을 잃다." }
+    ]
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "곤란해하다",
+    "meaningDetail": "난처해하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "お金に困る。", "ko": "돈에 곤란해하다." }
+    ]
+  },
+  {
+    "word": "苦しむ",
+    "reading": "くるしむ",
+    "meaning": "괴로워하다",
+    "meaningDetail": "고통받다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気で苦しむ。", "ko": "병으로 괴로워하다." }
+    ]
+  },
+  {
+    "word": "耐える",
+    "reading": "たえる",
+    "meaning": "참다",
+    "meaningDetail": "견디다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "痛みに耐える。", "ko": "아픔을 참다." }
+    ]
+  },
+  {
+    "word": "我慢する",
+    "reading": "がまんする",
+    "meaning": "참다",
+    "meaningDetail": "인내하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "空腹を我慢する。", "ko": "배고픔을 참다." }
+    ]
+  },
+  {
+    "word": "諦める",
+    "reading": "あきらめる",
+    "meaning": "포기하다",
+    "meaningDetail": "단념하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "夢を諦める。", "ko": "꿈을 포기하다." }
+    ]
+  },
+  {
+    "word": "挫折する",
+    "reading": "ざせつする",
+    "meaning": "좌절하다",
+    "meaningDetail": "실패하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画が挫折する。", "ko": "계획이 좌절하다." }
+    ]
+  },
+  {
+    "word": "克服する",
+    "reading": "こくふくする",
+    "meaning": "극복하다",
+    "meaningDetail": "이겨내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "困難を克服する。", "ko": "어려움을 극복하다." }
+    ]
+  },
+  {
+    "word": "達成する",
+    "reading": "たっせいする",
+    "meaning": "달성하다",
+    "meaningDetail": "이루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "目標を達成する。", "ko": "목표를 달성하다." }
+    ]
+  },
+  {
+    "word": "成功する",
+    "reading": "せいこうする",
+    "meaning": "성공하다",
+    "meaningDetail": "잘되다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事業に成功する。", "ko": "사업에 성공하다." }
+    ]
+  },
+  {
+    "word": "失敗する",
+    "reading": "しっぱいする",
+    "meaning": "실패하다",
+    "meaningDetail": "안되다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "試験に失敗する。", "ko": "시험에 실패하다." }
+    ]
+  },
+  {
+    "word": "努力する",
+    "reading": "どりょくする",
+    "meaning": "노력하다",
+    "meaningDetail": "힘쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成功のために努力する。", "ko": "성공을 위해 노력하다." }
+    ]
+  },
+  {
+    "word": "頑張る",
+    "reading": "がんばる",
+    "meaning": "열심히 하다",
+    "meaningDetail": "힘내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "試験に向けて頑張る。", "ko": "시험을 위해 열심히 하다." }
+    ]
+  },
+  {
+    "word": "挑む",
+    "reading": "いどむ",
+    "meaning": "도전하다",
+    "meaningDetail": "덤비다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "難問に挑む。", "ko": "난제에 도전하다." }
+    ]
+  },
+  {
+    "word": "試みる",
+    "reading": "こころみる",
+    "meaning": "시도하다",
+    "meaningDetail": "해보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "新しい方法を試みる。", "ko": "새로운 방법을 시도하다." }
+    ]
+  },
+  {
+    "word": "模索する",
+    "reading": "もさくする",
+    "meaning": "모색하다",
+    "meaningDetail": "찾아보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "解決策を模索する。", "ko": "해결책을 모색하다." }
+    ]
+  },
+  {
+    "word": "探る",
+    "reading": "さぐる",
+    "meaning": "탐색하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "真相を探る。", "ko": "진상을 탐색하다." }
+    ]
+  },
+  {
+    "word": "調べる",
+    "reading": "しらべる",
+    "meaning": "조사하다",
+    "meaningDetail": "알아보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "原因を調べる。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "確かめる",
+    "reading": "たしかめる",
+    "meaning": "확인하다",
+    "meaningDetail": "알아보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "事実を確かめる。", "ko": "사실을 확인하다." }
+    ]
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaning": "찾다",
+    "meaningDetail": "발견하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "解決策を見つける。", "ko": "해결책을 찾다." }
+    ]
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "meaning": "발견되다",
+    "meaningDetail": "찾아지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鍵が見つかる。", "ko": "열쇠가 발견되다." }
+    ]
+  },
+  {
+    "word": "失う",
+    "reading": "うしなう",
+    "meaning": "잃다",
+    "meaningDetail": "놓치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "財産を失う。", "ko": "재산을 잃다." }
+    ]
+  },
+  {
+    "word": "得る",
+    "reading": "える",
+    "meaning": "얻다",
+    "meaningDetail": "취득하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "知識を得る。", "ko": "지식을 얻다." }
+    ]
+  },
+  {
+    "word": "獲得する",
+    "reading": "かくとくする",
+    "meaning": "획득하다",
+    "meaningDetail": "얻다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "メダルを獲得する。", "ko": "메달을 획득하다." }
+    ]
+  },
+  {
+    "word": "保つ",
+    "reading": "たもつ",
+    "meaning": "유지하다",
+    "meaningDetail": "지키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "健康を保つ。", "ko": "건강을 유지하다." }
+    ]
+  },
+  {
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "지키다",
+    "meaningDetail": "보호하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "約束を守る。", "ko": "약속을 지키다." }
+    ]
+  },
+  {
+    "word": "破る",
+    "reading": "やぶる",
+    "meaning": "깨다",
+    "meaningDetail": "위반하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ルールを破る。", "ko": "규칙을 깨다." }
+    ]
+  },
+  {
+    "word": "壊す",
+    "reading": "こわす",
+    "meaning": "부수다",
+    "meaningDetail": "망가뜨리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "機械を壊す。", "ko": "기계를 부수다." }
+    ]
+  },
+  {
+    "word": "壊れる",
+    "reading": "こわれる",
+    "meaning": "부서지다",
+    "meaningDetail": "망가지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "時計が壊れる。", "ko": "시계가 부서지다." }
+    ]
+  },
+  {
+    "word": "直す",
+    "reading": "なおす",
+    "meaning": "고치다",
+    "meaningDetail": "수리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "機械を直す。", "ko": "기계를 고치다." }
+    ]
+  },
+  {
+    "word": "直る",
+    "reading": "なおる",
+    "meaning": "고쳐지다",
+    "meaningDetail": "낫다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気が直る。", "ko": "병이 낫다." }
+    ]
+  },
+  {
+    "word": "治す",
+    "reading": "なおす",
+    "meaning": "치료하다",
+    "meaningDetail": "낫게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気を治す。", "ko": "병을 치료하다." }
+    ]
+  },
+  {
+    "word": "治る",
+    "reading": "なおる",
+    "meaning": "낫다",
+    "meaningDetail": "치유되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "傷が治る。", "ko": "상처가 낫다." }
+    ]
+  },
+  {
+    "word": "救う",
+    "reading": "すくう",
+    "meaning": "구하다",
+    "meaningDetail": "살리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "命を救う。", "ko": "목숨을 구하다." }
+    ]
+  },
+  {
+    "word": "助ける",
+    "reading": "たすける",
+    "meaning": "돕다",
+    "meaningDetail": "도와주다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "困っている人を助ける。", "ko": "곤란한 사람을 돕다." }
+    ]
+  },
+  {
+    "word": "助かる",
+    "reading": "たすかる",
+    "meaning": "살다",
+    "meaningDetail": "구조되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事故で助かる。", "ko": "사고에서 살다." }
+    ]
+  },
+  {
+    "word": "支える",
+    "reading": "ささえる",
+    "meaning": "지탱하다",
+    "meaningDetail": "받치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家族を支える。", "ko": "가족을 지탱하다." }
+    ]
+  },
+  {
+    "word": "頼る",
+    "reading": "たよる",
+    "meaning": "의지하다",
+    "meaningDetail": "기대다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友人に頼る。", "ko": "친구에게 의지하다." }
+    ]
+  },
+  {
+    "word": "任せる",
+    "reading": "まかせる",
+    "meaning": "맡기다",
+    "meaningDetail": "위임하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事を任せる。", "ko": "일을 맡기다." }
+    ]
+  },
+  {
+    "word": "引き受ける",
+    "reading": "ひきうける",
+    "meaning": "떠맡다",
+    "meaningDetail": "맡다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "責任を引き受ける。", "ko": "책임을 떠맡다." }
+    ]
+  }
+]

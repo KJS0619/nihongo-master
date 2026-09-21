@@ -1,0 +1,482 @@
+[
+  {
+    "word": "廃止",
+    "reading": "はいし",
+    "meaning": "폐지",
+    "meaningDetail": "취소",
+    "category": "명사",
+    "examples": [
+      { "ja": "制度を廃止する。", "ko": "제도를 폐지하다." }
+    ]
+  },
+  {
+    "word": "撤廃",
+    "reading": "てっぱい",
+    "meaning": "철폐",
+    "meaningDetail": "폐지",
+    "category": "명사",
+    "examples": [
+      { "ja": "関税を撤廃する。", "ko": "관세를 철폐하다." }
+    ]
+  },
+  {
+    "word": "撤回",
+    "reading": "てっかい",
+    "meaning": "철회",
+    "meaningDetail": "취소",
+    "category": "명사",
+    "examples": [
+      { "ja": "発言を撤回する。", "ko": "발언을 철회하다." }
+    ]
+  },
+  {
+    "word": "撤退",
+    "reading": "てったい",
+    "meaning": "철퇴",
+    "meaningDetail": "후퇴",
+    "category": "명사",
+    "examples": [
+      { "ja": "市場から撤退する。", "ko": "시장에서 철퇴하다." }
+    ]
+  },
+  {
+    "word": "撤去",
+    "reading": "てっきょ",
+    "meaning": "철거",
+    "meaningDetail": "제거",
+    "category": "명사",
+    "examples": [
+      { "ja": "建物を撤去する。", "ko": "건물을 철거하다." }
+    ]
+  },
+  {
+    "word": "除去",
+    "reading": "じょきょ",
+    "meaning": "제거",
+    "meaningDetail": "삭제",
+    "category": "명사",
+    "examples": [
+      { "ja": "汚れを除去する。", "ko": "오물을 제거하다." }
+    ]
+  },
+  {
+    "word": "排除",
+    "reading": "はいじょ",
+    "meaning": "배제",
+    "meaningDetail": "제거",
+    "category": "명사",
+    "examples": [
+      { "ja": "障害を排除する。", "ko": "장애를 배제하다." }
+    ]
+  },
+  {
+    "word": "排出",
+    "reading": "はいしゅつ",
+    "meaning": "배출",
+    "meaningDetail": "방출",
+    "category": "명사",
+    "examples": [
+      { "ja": "ガスを排出する。", "ko": "가스를 배출하다." }
+    ]
+  },
+  {
+    "word": "放出",
+    "reading": "ほうしゅつ",
+    "meaning": "방출",
+    "meaningDetail": "내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "エネルギーを放出する。", "ko": "에너지를 방출하다." }
+    ]
+  },
+  {
+    "word": "放棄",
+    "reading": "ほうき",
+    "meaning": "포기",
+    "meaningDetail": "버림",
+    "category": "명사",
+    "examples": [
+      { "ja": "権利を放棄する。", "ko": "권리를 포기하다." }
+    ]
+  },
+  {
+    "word": "断念",
+    "reading": "だんねん",
+    "meaning": "단념",
+    "meaningDetail": "포기",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を断念する。", "ko": "계획을 단념하다." }
+    ]
+  },
+  {
+    "word": "諦め",
+    "reading": "あきらめ",
+    "meaning": "체념",
+    "meaningDetail": "포기",
+    "category": "명사",
+    "examples": [
+      { "ja": "諦めが悪い。", "ko": "체념을 잘 못한다." }
+    ]
+  },
+  {
+    "word": "忍耐",
+    "reading": "にんたい",
+    "meaning": "인내",
+    "meaningDetail": "참음",
+    "category": "명사",
+    "examples": [
+      { "ja": "忍耐力がある。", "ko": "인내력이 있다." }
+    ]
+  },
+  {
+    "word": "辛抱",
+    "reading": "しんぼう",
+    "meaning": "인내",
+    "meaningDetail": "참음",
+    "category": "명사",
+    "examples": [
+      { "ja": "辛抱が必要だ。", "ko": "인내가 필요하다." }
+    ]
+  },
+  {
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "참음",
+    "meaningDetail": "인내",
+    "category": "명사",
+    "examples": [
+      { "ja": "我慢の限界。", "ko": "참음의 한계." }
+    ]
+  },
+  {
+    "word": "忍従",
+    "reading": "にんじゅう",
+    "meaning": "인종",
+    "meaningDetail": "참고 따름",
+    "category": "명사",
+    "examples": [
+      { "ja": "忍従の日々。", "ko": "인종의 나날." }
+    ]
+  },
+  {
+    "word": "抵抗",
+    "reading": "ていこう",
+    "meaning": "저항",
+    "meaningDetail": "반대",
+    "category": "명사",
+    "examples": [
+      { "ja": "抵抗を示す。", "ko": "저항을 보이다." }
+    ]
+  },
+  {
+    "word": "反抗",
+    "reading": "はんこう",
+    "meaning": "반항",
+    "meaningDetail": "저항",
+    "category": "명사",
+    "examples": [
+      { "ja": "反抗期を迎える。", "ko": "반항기를 맞이하다." }
+    ]
+  },
+  {
+    "word": "反発",
+    "reading": "はんぱつ",
+    "meaning": "반발",
+    "meaningDetail": "반대",
+    "category": "명사",
+    "examples": [
+      { "ja": "反発を招く。", "ko": "반발을 초래하다." }
+    ]
+  },
+  {
+    "word": "反論",
+    "reading": "はんろん",
+    "meaning": "반론",
+    "meaningDetail": "이의",
+    "category": "명사",
+    "examples": [
+      { "ja": "反論を述べる。", "ko": "반론을 펴다." }
+    ]
+  },
+  {
+    "word": "異論",
+    "reading": "いろん",
+    "meaning": "이론",
+    "meaningDetail": "다른 의견",
+    "category": "명사",
+    "examples": [
+      { "ja": "異論を唱える。", "ko": "이론을 제기하다." }
+    ]
+  },
+  {
+    "word": "異議",
+    "reading": "いぎ",
+    "meaning": "이의",
+    "meaningDetail": "반대",
+    "category": "명사",
+    "examples": [
+      { "ja": "異議を申し立てる。", "ko": "이의를 제기하다." }
+    ]
+  },
+  {
+    "word": "抗議",
+    "reading": "こうぎ",
+    "meaning": "항의",
+    "meaningDetail": "반대",
+    "category": "명사",
+    "examples": [
+      { "ja": "抗議活動を行う。", "ko": "항의 활동을 하다." }
+    ]
+  },
+  {
+    "word": "苦情",
+    "reading": "くじょう",
+    "meaning": "불평",
+    "meaningDetail": "항의",
+    "category": "명사",
+    "examples": [
+      { "ja": "苦情を申し出る。", "ko": "불평을 제기하다." }
+    ]
+  },
+  {
+    "word": "不満",
+    "reading": "ふまん",
+    "meaning": "불만",
+    "meaningDetail": "불평",
+    "category": "명사",
+    "examples": [
+      { "ja": "不満を抱く。", "ko": "불만을 품다." }
+    ]
+  },
+  {
+    "word": "不平",
+    "reading": "ふへい",
+    "meaning": "불평",
+    "meaningDetail": "불만",
+    "category": "명사",
+    "examples": [
+      { "ja": "不平を言う。", "ko": "불평을 말하다." }
+    ]
+  },
+  {
+    "word": "文句",
+    "reading": "もんく",
+    "meaning": "불평",
+    "meaningDetail": "트집",
+    "category": "명사",
+    "examples": [
+      { "ja": "文句を言う。", "ko": "불평을 말하다." }
+    ]
+  },
+  {
+    "word": "愚痴",
+    "reading": "ぐち",
+    "meaning": "투정",
+    "meaningDetail": "불평",
+    "category": "명사",
+    "examples": [
+      { "ja": "愚痴をこぼす。", "ko": "투정을 부리다." }
+    ]
+  },
+  {
+    "word": "批判",
+    "reading": "ひはん",
+    "meaning": "비판",
+    "meaningDetail": "비평",
+    "category": "명사",
+    "examples": [
+      { "ja": "批判を浴びる。", "ko": "비판을 받다." }
+    ]
+  },
+  {
+    "word": "批評",
+    "reading": "ひひょう",
+    "meaning": "비평",
+    "meaningDetail": "평론",
+    "category": "명사",
+    "examples": [
+      { "ja": "批評を書く。", "ko": "비평을 쓰다." }
+    ]
+  },
+  {
+    "word": "評論",
+    "reading": "ひょうろん",
+    "meaning": "평론",
+    "meaningDetail": "비평",
+    "category": "명사",
+    "examples": [
+      { "ja": "評論を発表する。", "ko": "평론을 발표하다." }
+    ]
+  },
+  {
+    "word": "論評",
+    "reading": "ろんぴょう",
+    "meaning": "논평",
+    "meaningDetail": "비평",
+    "category": "명사",
+    "examples": [
+      { "ja": "論評を加える。", "ko": "논평을 더하다." }
+    ]
+  },
+  {
+    "word": "論争",
+    "reading": "ろんそう",
+    "meaning": "논쟁",
+    "meaningDetail": "다툼",
+    "category": "명사",
+    "examples": [
+      { "ja": "論争が起こる。", "ko": "논쟁이 일어나다." }
+    ]
+  },
+  {
+    "word": "議論",
+    "reading": "ぎろん",
+    "meaning": "논의",
+    "meaningDetail": "토론",
+    "category": "명사",
+    "examples": [
+      { "ja": "議論を重ねる。", "ko": "논의를 거듭하다." }
+    ]
+  },
+  {
+    "word": "討論",
+    "reading": "とうろん",
+    "meaning": "토론",
+    "meaningDetail": "논쟁",
+    "category": "명사",
+    "examples": [
+      { "ja": "討論会に参加する。", "ko": "토론회에 참가하다." }
+    ]
+  },
+  {
+    "word": "論議",
+    "reading": "ろんぎ",
+    "meaning": "논의",
+    "meaningDetail": "토론",
+    "category": "명사",
+    "examples": [
+      { "ja": "論議を呼ぶ。", "ko": "논의를 일으키다." }
+    ]
+  },
+  {
+    "word": "審議",
+    "reading": "しんぎ",
+    "meaning": "심의",
+    "meaningDetail": "검토",
+    "category": "명사",
+    "examples": [
+      { "ja": "審議を行う。", "ko": "심의를 하다." }
+    ]
+  },
+  {
+    "word": "協議",
+    "reading": "きょうぎ",
+    "meaning": "협의",
+    "meaningDetail": "상의",
+    "category": "명사",
+    "examples": [
+      { "ja": "協議を進める。", "ko": "협의를 진행하다." }
+    ]
+  },
+  {
+    "word": "商談",
+    "reading": "しょうだん",
+    "meaning": "상담",
+    "meaningDetail": "협상",
+    "category": "명사",
+    "examples": [
+      { "ja": "商談を成立させる。", "ko": "상담을 성립시키다." }
+    ]
+  },
+  {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "meaning": "교섭",
+    "meaningDetail": "협상",
+    "category": "명사",
+    "examples": [
+      { "ja": "交渉を行う。", "ko": "교섭을 하다." }
+    ]
+  },
+  {
+    "word": "折衝",
+    "reading": "せっしょう",
+    "meaning": "절충",
+    "meaningDetail": "협상",
+    "category": "명사",
+    "examples": [
+      { "ja": "折衝を重ねる。", "ko": "절충을 거듭하다." }
+    ]
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaning": "타협",
+    "meaningDetail": "양보",
+    "category": "명사",
+    "examples": [
+      { "ja": "妥協点を探る。", "ko": "타협점을 찾다." }
+    ]
+  },
+  {
+    "word": "譲歩",
+    "reading": "じょうほ",
+    "meaning": "양보",
+    "meaningDetail": "타협",
+    "category": "명사",
+    "examples": [
+      { "ja": "譲歩を求める。", "ko": "양보를 요구하다." }
+    ]
+  },
+  {
+    "word": "合意",
+    "reading": "ごうい",
+    "meaning": "합의",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "合意に達する。", "ko": "합의에 도달하다." }
+    ]
+  },
+  {
+    "word": "同意",
+    "reading": "どうい",
+    "meaning": "동의",
+    "meaningDetail": "찬성",
+    "category": "명사",
+    "examples": [
+      { "ja": "同意を得る。", "ko": "동의를 얻다." }
+    ]
+  },
+  {
+    "word": "賛同",
+    "reading": "さんどう",
+    "meaning": "찬동",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "賛同を得る。", "ko": "찬동을 얻다." }
+    ]
+  },
+  {
+    "word": "賛成",
+    "reading": "さんせい",
+    "meaning": "찬성",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "賛成多数で可決する。", "ko": "찬성 다수로 가결하다." }
+    ]
+  },
+  {
+    "word": "反対",
+    "reading": "はんたい",
+    "meaning": "반대",
+    "meaningDetail": "이의",
+    "category": "명사",
+    "examples": [
+      { "ja": "反対意見を述べる。", "ko": "반대 의견을 말하다." }
+    ]
+  }
+]

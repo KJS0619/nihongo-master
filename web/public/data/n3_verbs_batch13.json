@@ -1,0 +1,541 @@
+[
+  {
+    "word": "乾く",
+    "reading": "かわく",
+    "meaning": "마르다",
+    "meaningDetail": "건조해지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "喉が乾く。", "ko": "목이 마르다." }
+    ]
+  },
+  {
+    "word": "変わる",
+    "reading": "かわる",
+    "meaning": "변하다, 바뀌다",
+    "meaningDetail": "달라지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "季節が変わる。", "ko": "계절이 바뀐다." }
+    ]
+  },
+  {
+    "word": "代わる",
+    "reading": "かわる",
+    "meaning": "대신하다",
+    "meaningDetail": "바뀌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "彼に代わって出席する。", "ko": "그 대신 출석한다." }
+    ]
+  },
+  {
+    "word": "感じる",
+    "reading": "かんじる",
+    "meaning": "느끼다",
+    "meaningDetail": "감지하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "寒さを感じる。", "ko": "추위를 느낀다." }
+    ]
+  },
+  {
+    "word": "完成する",
+    "reading": "かんせいする",
+    "meaning": "완성하다",
+    "meaningDetail": "다 만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "作品が完成する。", "ko": "작품이 완성된다." }
+    ]
+  },
+  {
+    "word": "聞こえる",
+    "reading": "きこえる",
+    "meaning": "들리다",
+    "meaningDetail": "소리가 전해지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "音楽が聞こえる。", "ko": "음악이 들린다." }
+    ]
+  },
+  {
+    "word": "効く",
+    "reading": "きく",
+    "meaning": "효과가 있다",
+    "meaningDetail": "듣다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "薬が効く。", "ko": "약이 듣는다." }
+    ]
+  },
+  {
+    "word": "刻む",
+    "reading": "きざむ",
+    "meaning": "새기다, 다지다",
+    "meaningDetail": "잘게 썰다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "野菜を刻む。", "ko": "야채를 다진다." }
+    ]
+  },
+  {
+    "word": "傷つく",
+    "reading": "きずつく",
+    "meaning": "상처받다",
+    "meaningDetail": "다치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "心が傷つく。", "ko": "마음이 상처받는다." }
+    ]
+  },
+  {
+    "word": "傷つける",
+    "reading": "きずつける",
+    "meaning": "상처 주다",
+    "meaningDetail": "다치게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "人を傷つける。", "ko": "사람에게 상처를 준다." }
+    ]
+  },
+  {
+    "word": "鍛える",
+    "reading": "きたえる",
+    "meaning": "단련하다",
+    "meaningDetail": "훈련하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "体を鍛える。", "ko": "몸을 단련한다." }
+    ]
+  },
+  {
+    "word": "気付く",
+    "reading": "きづく",
+    "meaning": "알아차리다",
+    "meaningDetail": "깨닫다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "間違いに気付く。", "ko": "실수를 알아차린다." }
+    ]
+  },
+  {
+    "word": "決まる",
+    "reading": "きまる",
+    "meaning": "정해지다",
+    "meaningDetail": "결정되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "日程が決まる。", "ko": "일정이 정해진다." }
+    ]
+  },
+  {
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "정하다",
+    "meaningDetail": "결정하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "予定を決める。", "ko": "예정을 정한다." }
+    ]
+  },
+  {
+    "word": "記録する",
+    "reading": "きろくする",
+    "meaning": "기록하다",
+    "meaningDetail": "적어 두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを記録する。", "ko": "데이터를 기록한다." }
+    ]
+  },
+  {
+    "word": "切れる",
+    "reading": "きれる",
+    "meaning": "끊어지다",
+    "meaningDetail": "잘리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電話が切れる。", "ko": "전화가 끊어진다." }
+    ]
+  },
+  {
+    "word": "崩れる",
+    "reading": "くずれる",
+    "meaning": "무너지다",
+    "meaningDetail": "허물어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "建物が崩れる。", "ko": "건물이 무너진다." }
+    ]
+  },
+  {
+    "word": "崩す",
+    "reading": "くずす",
+    "meaning": "무너뜨리다",
+    "meaningDetail": "허물다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "体調を崩す。", "ko": "몸 상태가 나빠지다." }
+    ]
+  },
+  {
+    "word": "砕く",
+    "reading": "くだく",
+    "meaning": "부수다",
+    "meaningDetail": "깨뜨리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "氷を砕く。", "ko": "얼음을 부순다." }
+    ]
+  },
+  {
+    "word": "下る",
+    "reading": "くだる",
+    "meaning": "내려가다",
+    "meaningDetail": "하강하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "山を下る。", "ko": "산을 내려간다." }
+    ]
+  },
+  {
+    "word": "配る",
+    "reading": "くばる",
+    "meaning": "나눠주다",
+    "meaningDetail": "배포하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プリントを配る。", "ko": "프린트를 나눠준다." }
+    ]
+  },
+  {
+    "word": "組み合わせる",
+    "reading": "くみあわせる",
+    "meaning": "조합하다",
+    "meaningDetail": "짝짓다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "色を組み合わせる。", "ko": "색을 조합한다." }
+    ]
+  },
+  {
+    "word": "組む",
+    "reading": "くむ",
+    "meaning": "짜다, 조직하다",
+    "meaningDetail": "팀을 이루다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チームを組む。", "ko": "팀을 짠다." }
+    ]
+  },
+  {
+    "word": "汲む",
+    "reading": "くむ",
+    "meaning": "뜨다, 긷다",
+    "meaningDetail": "물을 길어 올리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水を汲む。", "ko": "물을 긷는다." }
+    ]
+  },
+  {
+    "word": "曇る",
+    "reading": "くもる",
+    "meaning": "흐리다",
+    "meaningDetail": "구름이 끼다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "空が曇る。", "ko": "하늘이 흐리다." }
+    ]
+  },
+  {
+    "word": "比べる",
+    "reading": "くらべる",
+    "meaning": "비교하다",
+    "meaningDetail": "견주다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "価格を比べる。", "ko": "가격을 비교한다." }
+    ]
+  },
+  {
+    "word": "繰り返す",
+    "reading": "くりかえす",
+    "meaning": "반복하다",
+    "meaningDetail": "되풀이하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "同じミスを繰り返す。", "ko": "같은 실수를 반복한다." }
+    ]
+  },
+  {
+    "word": "加える",
+    "reading": "くわえる",
+    "meaning": "더하다",
+    "meaningDetail": "추가하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "調味料を加える。", "ko": "조미료를 더한다." }
+    ]
+  },
+  {
+    "word": "加わる",
+    "reading": "くわわる",
+    "meaning": "더해지다, 참가하다",
+    "meaningDetail": "합류하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "メンバーに加わる。", "ko": "멤버에 합류한다." }
+    ]
+  },
+  {
+    "word": "経験する",
+    "reading": "けいけんする",
+    "meaning": "경험하다",
+    "meaningDetail": "겪다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "困難を経験する。", "ko": "어려움을 경험한다." }
+    ]
+  },
+  {
+    "word": "経過する",
+    "reading": "けいかする",
+    "meaning": "경과하다",
+    "meaningDetail": "지나가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "時間が経過する。", "ko": "시간이 경과한다." }
+    ]
+  },
+  {
+    "word": "継続する",
+    "reading": "けいぞくする",
+    "meaning": "계속하다",
+    "meaningDetail": "이어가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "努力を継続する。", "ko": "노력을 계속한다." }
+    ]
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "끄다, 지우다",
+    "meaningDetail": "없애다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電気を消す。", "ko": "전기를 끈다." }
+    ]
+  },
+  {
+    "word": "削る",
+    "reading": "けずる",
+    "meaning": "깎다",
+    "meaningDetail": "줄이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "予算を削る。", "ko": "예산을 깎는다." }
+    ]
+  },
+  {
+    "word": "蹴る",
+    "reading": "ける",
+    "meaning": "차다",
+    "meaningDetail": "발로 차다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールを蹴る。", "ko": "공을 찬다." }
+    ]
+  },
+  {
+    "word": "検討する",
+    "reading": "けんとうする",
+    "meaning": "검토하다",
+    "meaningDetail": "살펴보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "提案を検討する。", "ko": "제안을 검토한다." }
+    ]
+  },
+  {
+    "word": "越える",
+    "reading": "こえる",
+    "meaning": "넘다",
+    "meaningDetail": "초과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山を越える。", "ko": "산을 넘는다." }
+    ]
+  },
+  {
+    "word": "超える",
+    "reading": "こえる",
+    "meaning": "초과하다",
+    "meaningDetail": "뛰어넘다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "予算を超える。", "ko": "예산을 초과한다." }
+    ]
+  },
+  {
+    "word": "凍る",
+    "reading": "こおる",
+    "meaning": "얼다",
+    "meaningDetail": "동결되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水が凍る。", "ko": "물이 언다." }
+    ]
+  },
+  {
+    "word": "焦がす",
+    "reading": "こがす",
+    "meaning": "태우다",
+    "meaningDetail": "그을리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "料理を焦がす。", "ko": "요리를 태운다." }
+    ]
+  },
+  {
+    "word": "漕ぐ",
+    "reading": "こぐ",
+    "meaning": "젓다",
+    "meaningDetail": "노를 젓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボートを漕ぐ。", "ko": "보트를 젓는다." }
+    ]
+  },
+  {
+    "word": "心がける",
+    "reading": "こころがける",
+    "meaning": "유념하다",
+    "meaningDetail": "마음에 두다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "健康を心がける。", "ko": "건강에 유념한다." }
+    ]
+  },
+  {
+    "word": "試みる",
+    "reading": "こころみる",
+    "meaning": "시도하다",
+    "meaningDetail": "해보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "新しい方法を試みる。", "ko": "새로운 방법을 시도한다." }
+    ]
+  },
+  {
+    "word": "拒む",
+    "reading": "こばむ",
+    "meaning": "거부하다",
+    "meaningDetail": "거절하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "提案を拒む。", "ko": "제안을 거부한다." }
+    ]
+  },
+  {
+    "word": "こぼす",
+    "reading": "こぼす",
+    "meaning": "흘리다, 쏟다",
+    "meaningDetail": "넘치게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水をこぼす。", "ko": "물을 쏟는다." }
+    ]
+  },
+  {
+    "word": "こぼれる",
+    "reading": "こぼれる",
+    "meaning": "흘러넘치다",
+    "meaningDetail": "쏟아지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "涙がこぼれる。", "ko": "눈물이 흐른다." }
+    ]
+  },
+  {
+    "word": "込める",
+    "reading": "こめる",
+    "meaning": "담다",
+    "meaningDetail": "넣다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "気持ちを込める。", "ko": "마음을 담는다." }
+    ]
+  },
+  {
+    "word": "込む",
+    "reading": "こむ",
+    "meaning": "붐비다",
+    "meaningDetail": "복잡하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電車が込んでいる。", "ko": "전철이 붐빈다." }
+    ]
+  },
+  {
+    "word": "転がる",
+    "reading": "ころがる",
+    "meaning": "구르다",
+    "meaningDetail": "굴러가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールが転がる。", "ko": "공이 구른다." }
+    ]
+  }
+]

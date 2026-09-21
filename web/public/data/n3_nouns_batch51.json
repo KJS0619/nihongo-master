@@ -1,0 +1,482 @@
+[
+  {
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "제안",
+    "meaningDetail": "건의",
+    "category": "명사",
+    "examples": [
+      { "ja": "提案を行う。", "ko": "제안을 하다." }
+    ]
+  },
+  {
+    "word": "提言",
+    "reading": "ていげん",
+    "meaning": "제언",
+    "meaningDetail": "조언",
+    "category": "명사",
+    "examples": [
+      { "ja": "提言をまとめる。", "ko": "제언을 정리하다." }
+    ]
+  },
+  {
+    "word": "提示",
+    "reading": "ていじ",
+    "meaning": "제시",
+    "meaningDetail": "보여줌",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を提示する。", "ko": "조건을 제시하다." }
+    ]
+  },
+  {
+    "word": "提供",
+    "reading": "ていきょう",
+    "meaning": "제공",
+    "meaningDetail": "지원",
+    "category": "명사",
+    "examples": [
+      { "ja": "サービスを提供する。", "ko": "서비스를 제공하다." }
+    ]
+  },
+  {
+    "word": "提出",
+    "reading": "ていしゅつ",
+    "meaning": "제출",
+    "meaningDetail": "내기",
+    "category": "명사",
+    "examples": [
+      { "ja": "書類を提出する。", "ko": "서류를 제출하다." }
+    ]
+  },
+  {
+    "word": "提起",
+    "reading": "ていき",
+    "meaning": "제기",
+    "meaningDetail": "제시",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題を提起する。", "ko": "문제를 제기하다." }
+    ]
+  },
+  {
+    "word": "提唱",
+    "reading": "ていしょう",
+    "meaning": "제창",
+    "meaningDetail": "주장",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい理論を提唱する。", "ko": "새로운 이론을 제창하다." }
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meaning": "주장",
+    "meaningDetail": "의견",
+    "category": "명사",
+    "examples": [
+      { "ja": "主張を述べる。", "ko": "주장을 펴다." }
+    ]
+  },
+  {
+    "word": "断言",
+    "reading": "だんげん",
+    "meaning": "단언",
+    "meaningDetail": "확언",
+    "category": "명사",
+    "examples": [
+      { "ja": "断言は避ける。", "ko": "단언은 피하다." }
+    ]
+  },
+  {
+    "word": "発言",
+    "reading": "はつげん",
+    "meaning": "발언",
+    "meaningDetail": "말",
+    "category": "명사",
+    "examples": [
+      { "ja": "発言を求める。", "ko": "발언을 요구하다." }
+    ]
+  },
+  {
+    "word": "証言",
+    "reading": "しょうげん",
+    "meaning": "증언",
+    "meaningDetail": "증거",
+    "category": "명사",
+    "examples": [
+      { "ja": "証言を行う。", "ko": "증언을 하다." }
+    ]
+  },
+  {
+    "word": "宣言",
+    "reading": "せんげん",
+    "meaning": "선언",
+    "meaningDetail": "공포",
+    "category": "명사",
+    "examples": [
+      { "ja": "独立を宣言する。", "ko": "독립을 선언하다." }
+    ]
+  },
+  {
+    "word": "宣誓",
+    "reading": "せんせい",
+    "meaning": "선서",
+    "meaningDetail": "서약",
+    "category": "명사",
+    "examples": [
+      { "ja": "宣誓を行う。", "ko": "선서를 하다." }
+    ]
+  },
+  {
+    "word": "誓い",
+    "reading": "ちかい",
+    "meaning": "맹세",
+    "meaningDetail": "서약",
+    "category": "명사",
+    "examples": [
+      { "ja": "誓いを立てる。", "ko": "맹세를 하다." }
+    ]
+  },
+  {
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "약속",
+    "meaningDetail": "합의",
+    "category": "명사",
+    "examples": [
+      { "ja": "約束を守る。", "ko": "약속을 지키다." }
+    ]
+  },
+  {
+    "word": "公約",
+    "reading": "こうやく",
+    "meaning": "공약",
+    "meaningDetail": "약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "公約を実現する。", "ko": "공약을 실현하다." }
+    ]
+  },
+  {
+    "word": "確約",
+    "reading": "かくやく",
+    "meaning": "확약",
+    "meaningDetail": "확실한 약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "確約を得る。", "ko": "확약을 받다." }
+    ]
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "예약",
+    "meaningDetail": "미리 약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "予約を入れる。", "ko": "예약을 넣다." }
+    ]
+  },
+  {
+    "word": "解約",
+    "reading": "かいやく",
+    "meaning": "해약",
+    "meaningDetail": "취소",
+    "category": "명사",
+    "examples": [
+      { "ja": "契約を解約する。", "ko": "계약을 해약하다." }
+    ]
+  },
+  {
+    "word": "締約",
+    "reading": "ていやく",
+    "meaning": "체약",
+    "meaningDetail": "계약 체결",
+    "category": "명사",
+    "examples": [
+      { "ja": "締約国が集まる。", "ko": "체약국이 모이다." }
+    ]
+  },
+  {
+    "word": "締結",
+    "reading": "ていけつ",
+    "meaning": "체결",
+    "meaningDetail": "계약",
+    "category": "명사",
+    "examples": [
+      { "ja": "条約を締結する。", "ko": "조약을 체결하다." }
+    ]
+  },
+  {
+    "word": "妥結",
+    "reading": "だけつ",
+    "meaning": "타결",
+    "meaningDetail": "합의",
+    "category": "명사",
+    "examples": [
+      { "ja": "交渉が妥結する。", "ko": "교섭이 타결되다." }
+    ]
+  },
+  {
+    "word": "決着",
+    "reading": "けっちゃく",
+    "meaning": "결착",
+    "meaningDetail": "결말",
+    "category": "명사",
+    "examples": [
+      { "ja": "決着をつける。", "ko": "결착을 짓다." }
+    ]
+  },
+  {
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "해결",
+    "meaningDetail": "풀기",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題を解決する。", "ko": "문제를 해결하다." }
+    ]
+  },
+  {
+    "word": "打開",
+    "reading": "だかい",
+    "meaning": "타개",
+    "meaningDetail": "돌파",
+    "category": "명사",
+    "examples": [
+      { "ja": "局面を打開する。", "ko": "국면을 타개하다." }
+    ]
+  },
+  {
+    "word": "突破",
+    "reading": "とっぱ",
+    "meaning": "돌파",
+    "meaningDetail": "통과",
+    "category": "명사",
+    "examples": [
+      { "ja": "障壁を突破する。", "ko": "장벽을 돌파하다." }
+    ]
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meaning": "극복",
+    "meaningDetail": "이김",
+    "category": "명사",
+    "examples": [
+      { "ja": "困難を克服する。", "ko": "곤란을 극복하다." }
+    ]
+  },
+  {
+    "word": "達成",
+    "reading": "たっせい",
+    "meaning": "달성",
+    "meaningDetail": "성취",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を達成する。", "ko": "목표를 달성하다." }
+    ]
+  },
+  {
+    "word": "成就",
+    "reading": "じょうじゅ",
+    "meaning": "성취",
+    "meaningDetail": "이룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "願いが成就する。", "ko": "소원이 성취되다." }
+    ]
+  },
+  {
+    "word": "完成",
+    "reading": "かんせい",
+    "meaning": "완성",
+    "meaningDetail": "완료",
+    "category": "명사",
+    "examples": [
+      { "ja": "作品が完成する。", "ko": "작품이 완성되다." }
+    ]
+  },
+  {
+    "word": "完了",
+    "reading": "かんりょう",
+    "meaning": "완료",
+    "meaningDetail": "끝냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "作業を完了する。", "ko": "작업을 완료하다." }
+    ]
+  },
+  {
+    "word": "終了",
+    "reading": "しゅうりょう",
+    "meaning": "종료",
+    "meaningDetail": "끝",
+    "category": "명사",
+    "examples": [
+      { "ja": "会議が終了する。", "ko": "회의가 종료되다." }
+    ]
+  },
+  {
+    "word": "修了",
+    "reading": "しゅうりょう",
+    "meaning": "수료",
+    "meaningDetail": "이수",
+    "category": "명사",
+    "examples": [
+      { "ja": "課程を修了する。", "ko": "과정을 수료하다." }
+    ]
+  },
+  {
+    "word": "履修",
+    "reading": "りしゅう",
+    "meaning": "이수",
+    "meaningDetail": "수강",
+    "category": "명사",
+    "examples": [
+      { "ja": "科目を履修する。", "ko": "과목을 이수하다." }
+    ]
+  },
+  {
+    "word": "習得",
+    "reading": "しゅうとく",
+    "meaning": "습득",
+    "meaningDetail": "배움",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術を習得する。", "ko": "기술을 습득하다." }
+    ]
+  },
+  {
+    "word": "取得",
+    "reading": "しゅとく",
+    "meaning": "취득",
+    "meaningDetail": "획득",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取得する。", "ko": "자격을 취득하다." }
+    ]
+  },
+  {
+    "word": "獲得",
+    "reading": "かくとく",
+    "meaning": "획득",
+    "meaningDetail": "얻음",
+    "category": "명사",
+    "examples": [
+      { "ja": "メダルを獲得する。", "ko": "메달을 획득하다." }
+    ]
+  },
+  {
+    "word": "確保",
+    "reading": "かくほ",
+    "meaning": "확보",
+    "meaningDetail": "보장",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を確保する。", "ko": "안전을 확보하다." }
+    ]
+  },
+  {
+    "word": "保持",
+    "reading": "ほじ",
+    "meaning": "보지",
+    "meaningDetail": "유지",
+    "category": "명사",
+    "examples": [
+      { "ja": "記録を保持する。", "ko": "기록을 보지하다." }
+    ]
+  },
+  {
+    "word": "維持",
+    "reading": "いじ",
+    "meaning": "유지",
+    "meaningDetail": "지속",
+    "category": "명사",
+    "examples": [
+      { "ja": "関係を維持する。", "ko": "관계를 유지하다." }
+    ]
+  },
+  {
+    "word": "持続",
+    "reading": "じぞく",
+    "meaning": "지속",
+    "meaningDetail": "계속",
+    "category": "명사",
+    "examples": [
+      { "ja": "持続可能な開発。", "ko": "지속 가능한 개발." }
+    ]
+  },
+  {
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaning": "계속",
+    "meaningDetail": "지속",
+    "category": "명사",
+    "examples": [
+      { "ja": "継続は力なり。", "ko": "계속은 힘이다." }
+    ]
+  },
+  {
+    "word": "連続",
+    "reading": "れんぞく",
+    "meaning": "연속",
+    "meaningDetail": "계속",
+    "category": "명사",
+    "examples": [
+      { "ja": "連続して発生する。", "ko": "연속해서 발생하다." }
+    ]
+  },
+  {
+    "word": "断続",
+    "reading": "だんぞく",
+    "meaning": "단속",
+    "meaningDetail": "끊김과 이어짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "断続的に雨が降る。", "ko": "단속적으로 비가 내리다." }
+    ]
+  },
+  {
+    "word": "中断",
+    "reading": "ちゅうだん",
+    "meaning": "중단",
+    "meaningDetail": "끊김",
+    "category": "명사",
+    "examples": [
+      { "ja": "作業を中断する。", "ko": "작업을 중단하다." }
+    ]
+  },
+  {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaning": "중지",
+    "meaningDetail": "취소",
+    "category": "명사",
+    "examples": [
+      { "ja": "イベントを中止する。", "ko": "이벤트를 중지하다." }
+    ]
+  },
+  {
+    "word": "停止",
+    "reading": "ていし",
+    "meaning": "정지",
+    "meaningDetail": "멈춤",
+    "category": "명사",
+    "examples": [
+      { "ja": "エンジンを停止する。", "ko": "엔진을 정지하다." }
+    ]
+  },
+  {
+    "word": "休止",
+    "reading": "きゅうし",
+    "meaning": "휴지",
+    "meaningDetail": "쉼",
+    "category": "명사",
+    "examples": [
+      { "ja": "活動を休止する。", "ko": "활동을 휴지하다." }
+    ]
+  }
+]

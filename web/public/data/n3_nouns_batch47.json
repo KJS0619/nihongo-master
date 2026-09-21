@@ -1,0 +1,482 @@
+[
+  {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaning": "창고",
+    "meaningDetail": "저장소",
+    "category": "명사",
+    "examples": [
+      { "ja": "倉庫に保管する。", "ko": "창고에 보관하다." }
+    ]
+  },
+  {
+    "word": "車庫",
+    "reading": "しゃこ",
+    "meaning": "차고",
+    "meaningDetail": "주차장",
+    "category": "명사",
+    "examples": [
+      { "ja": "車庫に車を入れる。", "ko": "차고에 차를 넣다." }
+    ]
+  },
+  {
+    "word": "格納庫",
+    "reading": "かくのうこ",
+    "meaning": "격납고",
+    "meaningDetail": "저장고",
+    "category": "명사",
+    "examples": [
+      { "ja": "格納庫に航空機を収める。", "ko": "격납고에 항공기를 수납하다." }
+    ]
+  },
+  {
+    "word": "地下室",
+    "reading": "ちかしつ",
+    "meaning": "지하실",
+    "meaningDetail": "지하층",
+    "category": "명사",
+    "examples": [
+      { "ja": "地下室に降りる。", "ko": "지하실로 내려가다." }
+    ]
+  },
+  {
+    "word": "屋上",
+    "reading": "おくじょう",
+    "meaning": "옥상",
+    "meaningDetail": "지붕 위",
+    "category": "명사",
+    "examples": [
+      { "ja": "屋上から眺める。", "ko": "옥상에서 바라보다." }
+    ]
+  },
+  {
+    "word": "屋根",
+    "reading": "やね",
+    "meaning": "지붕",
+    "meaningDetail": "덮개",
+    "category": "명사",
+    "examples": [
+      { "ja": "屋根を修理する。", "ko": "지붕을 수리하다." }
+    ]
+  },
+  {
+    "word": "天井",
+    "reading": "てんじょう",
+    "meaning": "천장",
+    "meaningDetail": "위쪽",
+    "category": "명사",
+    "examples": [
+      { "ja": "天井を見上げる。", "ko": "천장을 올려다보다." }
+    ]
+  },
+  {
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "마루",
+    "meaningDetail": "바닥",
+    "category": "명사",
+    "examples": [
+      { "ja": "床を掃除する。", "ko": "마루를 청소하다." }
+    ]
+  },
+  {
+    "word": "柱",
+    "reading": "はしら",
+    "meaning": "기둥",
+    "meaningDetail": "지주",
+    "category": "명사",
+    "examples": [
+      { "ja": "柱を立てる。", "ko": "기둥을 세우다." }
+    ]
+  },
+  {
+    "word": "壁",
+    "reading": "かべ",
+    "meaning": "벽",
+    "meaningDetail": "담",
+    "category": "명사",
+    "examples": [
+      { "ja": "壁を塗る。", "ko": "벽을 칠하다." }
+    ]
+  },
+  {
+    "word": "塀",
+    "reading": "へい",
+    "meaning": "담",
+    "meaningDetail": "울타리",
+    "category": "명사",
+    "examples": [
+      { "ja": "塀を越える。", "ko": "담을 넘다." }
+    ]
+  },
+  {
+    "word": "垣根",
+    "reading": "かきね",
+    "meaning": "울타리",
+    "meaningDetail": "담장",
+    "category": "명사",
+    "examples": [
+      { "ja": "垣根を植える。", "ko": "울타리를 심다." }
+    ]
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "meaning": "문",
+    "meaningDetail": "대문",
+    "category": "명사",
+    "examples": [
+      { "ja": "門を開ける。", "ko": "문을 열다." }
+    ]
+  },
+  {
+    "word": "扉",
+    "reading": "とびら",
+    "meaning": "문",
+    "meaningDetail": "문짝",
+    "category": "명사",
+    "examples": [
+      { "ja": "扉を閉める。", "ko": "문을 닫다." }
+    ]
+  },
+  {
+    "word": "戸",
+    "reading": "と",
+    "meaning": "문",
+    "meaningDetail": "창문",
+    "category": "명사",
+    "examples": [
+      { "ja": "戸を開ける。", "ko": "문을 열다." }
+    ]
+  },
+  {
+    "word": "障子",
+    "reading": "しょうじ",
+    "meaning": "장지문",
+    "meaningDetail": "창호지문",
+    "category": "명사",
+    "examples": [
+      { "ja": "障子を張り替える。", "ko": "장지문을 교체하다." }
+    ]
+  },
+  {
+    "word": "襖",
+    "reading": "ふすま",
+    "meaning": "미닫이문",
+    "meaningDetail": "방문",
+    "category": "명사",
+    "examples": [
+      { "ja": "襖を開ける。", "ko": "미닫이문을 열다." }
+    ]
+  },
+  {
+    "word": "畳",
+    "reading": "たたみ",
+    "meaning": "다다미",
+    "meaningDetail": "짚자리",
+    "category": "명사",
+    "examples": [
+      { "ja": "畳の上に座る。", "ko": "다다미 위에 앉다." }
+    ]
+  },
+  {
+    "word": "縁側",
+    "reading": "えんがわ",
+    "meaning": "툇마루",
+    "meaningDetail": "베란다",
+    "category": "명사",
+    "examples": [
+      { "ja": "縁側でくつろぐ。", "ko": "툇마루에서 쉬다." }
+    ]
+  },
+  {
+    "word": "縁",
+    "reading": "えん",
+    "meaning": "인연",
+    "meaningDetail": "관계",
+    "category": "명사",
+    "examples": [
+      { "ja": "縁を大切にする。", "ko": "인연을 소중히 하다." }
+    ]
+  },
+  {
+    "word": "運命",
+    "reading": "うんめい",
+    "meaning": "운명",
+    "meaningDetail": "숙명",
+    "category": "명사",
+    "examples": [
+      { "ja": "運命を受け入れる。", "ko": "운명을 받아들이다." }
+    ]
+  },
+  {
+    "word": "宿命",
+    "reading": "しゅくめい",
+    "meaning": "숙명",
+    "meaningDetail": "운명",
+    "category": "명사",
+    "examples": [
+      { "ja": "宿命と戦う。", "ko": "숙명과 싸우다." }
+    ]
+  },
+  {
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "meaning": "우연",
+    "meaningDetail": "뜻밖",
+    "category": "명사",
+    "examples": [
+      { "ja": "偶然の一致。", "ko": "우연의 일치." }
+    ]
+  },
+  {
+    "word": "必然",
+    "reading": "ひつぜん",
+    "meaning": "필연",
+    "meaningDetail": "당연",
+    "category": "명사",
+    "examples": [
+      { "ja": "必然的な結果。", "ko": "필연적인 결과." }
+    ]
+  },
+  {
+    "word": "奇跡",
+    "reading": "きせき",
+    "meaning": "기적",
+    "meaningDetail": "불가사의",
+    "category": "명사",
+    "examples": [
+      { "ja": "奇跡が起きる。", "ko": "기적이 일어나다." }
+    ]
+  },
+  {
+    "word": "偶像",
+    "reading": "ぐうぞう",
+    "meaning": "우상",
+    "meaningDetail": "아이돌",
+    "category": "명사",
+    "examples": [
+      { "ja": "偶像を崇拝する。", "ko": "우상을 숭배하다." }
+    ]
+  },
+  {
+    "word": "象徴",
+    "reading": "しょうちょう",
+    "meaning": "상징",
+    "meaningDetail": "심볼",
+    "category": "명사",
+    "examples": [
+      { "ja": "平和の象徴。", "ko": "평화의 상징." }
+    ]
+  },
+  {
+    "word": "代表",
+    "reading": "だいひょう",
+    "meaning": "대표",
+    "meaningDetail": "대리",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を代表する。", "ko": "회사를 대표하다." }
+    ]
+  },
+  {
+    "word": "典型",
+    "reading": "てんけい",
+    "meaning": "전형",
+    "meaningDetail": "모범",
+    "category": "명사",
+    "examples": [
+      { "ja": "典型的な例。", "ko": "전형적인 예." }
+    ]
+  },
+  {
+    "word": "模範",
+    "reading": "もはん",
+    "meaning": "모범",
+    "meaningDetail": "본보기",
+    "category": "명사",
+    "examples": [
+      { "ja": "模範を示す。", "ko": "모범을 보이다." }
+    ]
+  },
+  {
+    "word": "手本",
+    "reading": "てほん",
+    "meaning": "본보기",
+    "meaningDetail": "모범",
+    "category": "명사",
+    "examples": [
+      { "ja": "手本を見せる。", "ko": "본보기를 보이다." }
+    ]
+  },
+  {
+    "word": "見本",
+    "reading": "みほん",
+    "meaning": "견본",
+    "meaningDetail": "샘플",
+    "category": "명사",
+    "examples": [
+      { "ja": "見本を確認する。", "ko": "견본을 확인하다." }
+    ]
+  },
+  {
+    "word": "標本",
+    "reading": "ひょうほん",
+    "meaning": "표본",
+    "meaningDetail": "샘플",
+    "category": "명사",
+    "examples": [
+      { "ja": "標本を採取する。", "ko": "표본을 채취하다." }
+    ]
+  },
+  {
+    "word": "サンプル",
+    "reading": "さんぷる",
+    "meaning": "샘플",
+    "meaningDetail": "견본",
+    "category": "명사",
+    "examples": [
+      { "ja": "サンプルを配る。", "ko": "샘플을 나눠주다." }
+    ]
+  },
+  {
+    "word": "試作",
+    "reading": "しさく",
+    "meaning": "시작",
+    "meaningDetail": "시험 제작",
+    "category": "명사",
+    "examples": [
+      { "ja": "試作品を作る。", "ko": "시작품을 만들다." }
+    ]
+  },
+  {
+    "word": "試用",
+    "reading": "しよう",
+    "meaning": "시용",
+    "meaningDetail": "시험 사용",
+    "category": "명사",
+    "examples": [
+      { "ja": "試用期間を設ける。", "ko": "시용 기간을 두다." }
+    ]
+  },
+  {
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "시험",
+    "meaningDetail": "테스트",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験を受ける。", "ko": "시험을 치르다." }
+    ]
+  },
+  {
+    "word": "検定",
+    "reading": "けんてい",
+    "meaning": "검정",
+    "meaningDetail": "자격시험",
+    "category": "명사",
+    "examples": [
+      { "ja": "検定に合格する。", "ko": "검정에 합격하다." }
+    ]
+  },
+  {
+    "word": "合格",
+    "reading": "ごうかく",
+    "meaning": "합격",
+    "meaningDetail": "패스",
+    "category": "명사",
+    "examples": [
+      { "ja": "合格を目指す。", "ko": "합격을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "不合格",
+    "reading": "ふごうかく",
+    "meaning": "불합격",
+    "meaningDetail": "탈락",
+    "category": "명사",
+    "examples": [
+      { "ja": "不合格になる。", "ko": "불합격이 되다." }
+    ]
+  },
+  {
+    "word": "合否",
+    "reading": "ごうひ",
+    "meaning": "합격 여부",
+    "meaningDetail": "합불",
+    "category": "명사",
+    "examples": [
+      { "ja": "合否を発表する。", "ko": "합격 여부를 발표하다." }
+    ]
+  },
+  {
+    "word": "採点",
+    "reading": "さいてん",
+    "meaning": "채점",
+    "meaningDetail": "점수 매기기",
+    "category": "명사",
+    "examples": [
+      { "ja": "採点を行う。", "ko": "채점을 하다." }
+    ]
+  },
+  {
+    "word": "配点",
+    "reading": "はいてん",
+    "meaning": "배점",
+    "meaningDetail": "점수 배분",
+    "category": "명사",
+    "examples": [
+      { "ja": "配点を確認する。", "ko": "배점을 확인하다." }
+    ]
+  },
+  {
+    "word": "満点",
+    "reading": "まんてん",
+    "meaning": "만점",
+    "meaningDetail": "전점",
+    "category": "명사",
+    "examples": [
+      { "ja": "満点を取る。", "ko": "만점을 받다." }
+    ]
+  },
+  {
+    "word": "平均点",
+    "reading": "へいきんてん",
+    "meaning": "평균점",
+    "meaningDetail": "평균",
+    "category": "명사",
+    "examples": [
+      { "ja": "平均点を上回る。", "ko": "평균점을 웃돌다." }
+    ]
+  },
+  {
+    "word": "最高点",
+    "reading": "さいこうてん",
+    "meaning": "최고점",
+    "meaningDetail": "최고 점수",
+    "category": "명사",
+    "examples": [
+      { "ja": "最高点を記録する。", "ko": "최고점을 기록하다." }
+    ]
+  },
+  {
+    "word": "最低点",
+    "reading": "さいていてん",
+    "meaning": "최저점",
+    "meaningDetail": "최저 점수",
+    "category": "명사",
+    "examples": [
+      { "ja": "最低点を更新する。", "ko": "최저점을 갱신하다." }
+    ]
+  },
+  {
+    "word": "成績",
+    "reading": "せいせき",
+    "meaning": "성적",
+    "meaningDetail": "결과",
+    "category": "명사",
+    "examples": [
+      { "ja": "成績を上げる。", "ko": "성적을 올리다." }
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "治療",
+    "reading": "ちりょう",
+    "meaning": "치료",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "治療を受ける。", "ko": "치료를 받다." }
+    ]
+  },
+  {
+    "word": "診断",
+    "reading": "しんだん",
+    "meaning": "진단",
+    "meaningDetail": "검사",
+    "category": "명사",
+    "examples": [
+      { "ja": "診断を下す。", "ko": "진단을 내리다." }
+    ]
+  },
+  {
+    "word": "診察",
+    "reading": "しんさつ",
+    "meaning": "진찰",
+    "meaningDetail": "검진",
+    "category": "명사",
+    "examples": [
+      { "ja": "診察時間を確認する。", "ko": "진찰 시간을 확인하다." }
+    ]
+  },
+  {
+    "word": "検査",
+    "reading": "けんさ",
+    "meaning": "검사",
+    "meaningDetail": "조사",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康検査を受ける。", "ko": "건강 검사를 받다." }
+    ]
+  },
+  {
+    "word": "手術",
+    "reading": "しゅじゅつ",
+    "meaning": "수술",
+    "meaningDetail": "시술",
+    "category": "명사",
+    "examples": [
+      { "ja": "手術が成功する。", "ko": "수술이 성공하다." }
+    ]
+  },
+  {
+    "word": "注射",
+    "reading": "ちゅうしゃ",
+    "meaning": "주사",
+    "meaningDetail": "투약",
+    "category": "명사",
+    "examples": [
+      { "ja": "注射を打つ。", "ko": "주사를 맞다." }
+    ]
+  },
+  {
+    "word": "処方",
+    "reading": "しょほう",
+    "meaning": "처방",
+    "meaningDetail": "약 지급",
+    "category": "명사",
+    "examples": [
+      { "ja": "処方箋をもらう。", "ko": "처방전을 받다." }
+    ]
+  },
+  {
+    "word": "服用",
+    "reading": "ふくよう",
+    "meaning": "복용",
+    "meaningDetail": "약 섭취",
+    "category": "명사",
+    "examples": [
+      { "ja": "服用方法を確認する。", "ko": "복용 방법을 확인하다." }
+    ]
+  },
+  {
+    "word": "入院",
+    "reading": "にゅういん",
+    "meaning": "입원",
+    "meaningDetail": "병원 입실",
+    "category": "명사",
+    "examples": [
+      { "ja": "入院費がかかる。", "ko": "입원비가 들다." }
+    ]
+  },
+  {
+    "word": "退院",
+    "reading": "たいいん",
+    "meaning": "퇴원",
+    "meaningDetail": "병원 퇴실",
+    "category": "명사",
+    "examples": [
+      { "ja": "退院の日を待つ。", "ko": "퇴원 날을 기다리다." }
+    ]
+  },
+  {
+    "word": "看病",
+    "reading": "かんびょう",
+    "meaning": "간병",
+    "meaningDetail": "간호",
+    "category": "명사",
+    "examples": [
+      { "ja": "看病に疲れる。", "ko": "간병에 지치다." }
+    ]
+  },
+  {
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "간호",
+    "meaningDetail": "돌봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "介護保険に加入する。", "ko": "간호 보험에 가입하다." }
+    ]
+  },
+  {
+    "word": "福祉",
+    "reading": "ふくし",
+    "meaning": "복지",
+    "meaningDetail": "사회보장",
+    "category": "명사",
+    "examples": [
+      { "ja": "福祉制度を整備する。", "ko": "복지 제도를 정비하다." }
+    ]
+  },
+  {
+    "word": "援助",
+    "reading": "えんじょ",
+    "meaning": "원조",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済援助を行う。", "ko": "경제 원조를 하다." }
+    ]
+  },
+  {
+    "word": "支援",
+    "reading": "しえん",
+    "meaning": "지원",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "支援を受ける。", "ko": "지원을 받다." }
+    ]
+  },
+  {
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "응원",
+    "meaningDetail": "격려",
+    "category": "명사",
+    "examples": [
+      { "ja": "応援に駆けつける。", "ko": "응원하러 달려가다." }
+    ]
+  },
+  {
+    "word": "救助",
+    "reading": "きゅうじょ",
+    "meaning": "구조",
+    "meaningDetail": "구출",
+    "category": "명사",
+    "examples": [
+      { "ja": "救助活動を行う。", "ko": "구조 활동을 하다." }
+    ]
+  },
+  {
+    "word": "救出",
+    "reading": "きゅうしゅつ",
+    "meaning": "구출",
+    "meaningDetail": "구조",
+    "category": "명사",
+    "examples": [
+      { "ja": "救出作戦を実行する。", "ko": "구출 작전을 실행하다." }
+    ]
+  },
+  {
+    "word": "救済",
+    "reading": "きゅうさい",
+    "meaning": "구제",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "救済措置を講じる。", "ko": "구제 조치를 취하다." }
+    ]
+  },
+  {
+    "word": "寄付",
+    "reading": "きふ",
+    "meaning": "기부",
+    "meaningDetail": "헌납",
+    "category": "명사",
+    "examples": [
+      { "ja": "寄付を募る。", "ko": "기부를 모으다." }
+    ]
+  },
+  {
+    "word": "寄贈",
+    "reading": "きぞう",
+    "meaning": "기증",
+    "meaningDetail": "기부",
+    "category": "명사",
+    "examples": [
+      { "ja": "寄贈品を受け取る。", "ko": "기증품을 받다." }
+    ]
+  },
+  {
+    "word": "奉仕",
+    "reading": "ほうし",
+    "meaning": "봉사",
+    "meaningDetail": "헌신",
+    "category": "명사",
+    "examples": [
+      { "ja": "奉仕活動に参加する。", "ko": "봉사 활동에 참가하다." }
+    ]
+  },
+  {
+    "word": "貢献",
+    "reading": "こうけん",
+    "meaning": "공헌",
+    "meaningDetail": "기여",
+    "category": "명사",
+    "examples": [
+      { "ja": "大きな貢献を果たす。", "ko": "큰 공헌을 하다." }
+    ]
+  },
+  {
+    "word": "犠牲",
+    "reading": "ぎせい",
+    "meaning": "희생",
+    "meaningDetail": "제물",
+    "category": "명사",
+    "examples": [
+      { "ja": "犠牲者が出る。", "ko": "희생자가 나오다." }
+    ]
+  },
+  {
+    "word": "献身",
+    "reading": "けんしん",
+    "meaning": "헌신",
+    "meaningDetail": "봉사",
+    "category": "명사",
+    "examples": [
+      { "ja": "献身的な努力を続ける。", "ko": "헌신적인 노력을 계속하다." }
+    ]
+  },
+  {
+    "word": "慈善",
+    "reading": "じぜん",
+    "meaning": "자선",
+    "meaningDetail": "자비",
+    "category": "명사",
+    "examples": [
+      { "ja": "慈善事業を行う。", "ko": "자선 사업을 하다." }
+    ]
+  },
+  {
+    "word": "募金",
+    "reading": "ぼきん",
+    "meaning": "모금",
+    "meaningDetail": "기금 모음",
+    "category": "명사",
+    "examples": [
+      { "ja": "募金活動を行う。", "ko": "모금 활동을 하다." }
+    ]
+  },
+  {
+    "word": "義援金",
+    "reading": "ぎえんきん",
+    "meaning": "의연금",
+    "meaningDetail": "구호금",
+    "category": "명사",
+    "examples": [
+      { "ja": "義援金を送る。", "ko": "의연금을 보내다." }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "재해",
+    "meaningDetail": "재난",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비하다." }
+    ]
+  },
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "被害を受ける。", "ko": "피해를 받다." }
+    ]
+  },
+  {
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "손해",
+    "meaningDetail": "피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "損害を賠償する。", "ko": "손해를 배상하다." }
+    ]
+  },
+  {
+    "word": "損失",
+    "reading": "そんしつ",
+    "meaning": "손실",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "損失を補填する。", "ko": "손실을 보전하다." }
+    ]
+  },
+  {
+    "word": "被災",
+    "reading": "ひさい",
+    "meaning": "피재",
+    "meaningDetail": "재해 피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "被災地を訪問する。", "ko": "피재 지역을 방문하다." }
+    ]
+  },
+  {
+    "word": "遭難",
+    "reading": "そうなん",
+    "meaning": "조난",
+    "meaningDetail": "재난",
+    "category": "명사",
+    "examples": [
+      { "ja": "遭難信号を送る。", "ko": "조난 신호를 보내다." }
+    ]
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "meaningDetail": "사건",
+    "category": "명사",
+    "examples": [
+      { "ja": "交通事故が起きる。", "ko": "교통 사고가 일어나다." }
+    ]
+  },
+  {
+    "word": "事件",
+    "reading": "じけん",
+    "meaning": "사건",
+    "meaningDetail": "사고",
+    "category": "명사",
+    "examples": [
+      { "ja": "事件を解決する。", "ko": "사건을 해결하다." }
+    ]
+  },
+  {
+    "word": "犯罪",
+    "reading": "はんざい",
+    "meaning": "범죄",
+    "meaningDetail": "위법",
+    "category": "명사",
+    "examples": [
+      { "ja": "犯罪を防ぐ。", "ko": "범죄를 막다." }
+    ]
+  },
+  {
+    "word": "犯人",
+    "reading": "はんにん",
+    "meaning": "범인",
+    "meaningDetail": "범죄자",
+    "category": "명사",
+    "examples": [
+      { "ja": "犯人を逮捕する。", "ko": "범인을 체포하다." }
+    ]
+  },
+  {
+    "word": "容疑者",
+    "reading": "ようぎしゃ",
+    "meaning": "용의자",
+    "meaningDetail": "피의자",
+    "category": "명사",
+    "examples": [
+      { "ja": "容疑者を取り調べる。", "ko": "용의자를 심문하다." }
+    ]
+  },
+  {
+    "word": "被害者",
+    "reading": "ひがいしゃ",
+    "meaning": "피해자",
+    "meaningDetail": "희생자",
+    "category": "명사",
+    "examples": [
+      { "ja": "被害者を支援する。", "ko": "피해자를 지원하다." }
+    ]
+  },
+  {
+    "word": "証人",
+    "reading": "しょうにん",
+    "meaning": "증인",
+    "meaningDetail": "목격자",
+    "category": "명사",
+    "examples": [
+      { "ja": "証人として出廷する。", "ko": "증인으로 출정하다." }
+    ]
+  },
+  {
+    "word": "証拠",
+    "reading": "しょうこ",
+    "meaning": "증거",
+    "meaningDetail": "증명",
+    "category": "명사",
+    "examples": [
+      { "ja": "証拠を集める。", "ko": "증거를 모으다." }
+    ]
+  },
+  {
+    "word": "裁判",
+    "reading": "さいばん",
+    "meaning": "재판",
+    "meaningDetail": "심판",
+    "category": "명사",
+    "examples": [
+      { "ja": "裁判を起こす。", "ko": "재판을 일으키다." }
+    ]
+  },
+  {
+    "word": "判決",
+    "reading": "はんけつ",
+    "meaning": "판결",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "判決を言い渡す。", "ko": "판결을 선고하다." }
+    ]
+  },
+  {
+    "word": "刑罰",
+    "reading": "けいばつ",
+    "meaning": "형벌",
+    "meaningDetail": "처벌",
+    "category": "명사",
+    "examples": [
+      { "ja": "刑罰を受ける。", "ko": "형벌을 받다." }
+    ]
+  },
+  {
+    "word": "処罰",
+    "reading": "しょばつ",
+    "meaning": "처벌",
+    "meaningDetail": "형벌",
+    "category": "명사",
+    "examples": [
+      { "ja": "処罰を求める。", "ko": "처벌을 요구하다." }
+    ]
+  },
+  {
+    "word": "逮捕",
+    "reading": "たいほ",
+    "meaning": "체포",
+    "meaningDetail": "구속",
+    "category": "명사",
+    "examples": [
+      { "ja": "逮捕状を請求する。", "ko": "체포장을 청구하다." }
+    ]
+  },
+  {
+    "word": "釈放",
+    "reading": "しゃくほう",
+    "meaning": "석방",
+    "meaningDetail": "풀어줌",
+    "category": "명사",
+    "examples": [
+      { "ja": "釈放を命じる。", "ko": "석방을 명하다." }
+    ]
+  }
+]

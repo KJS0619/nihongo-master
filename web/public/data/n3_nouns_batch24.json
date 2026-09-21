@@ -1,0 +1,482 @@
+[
+  {
+    "word": "選挙",
+    "reading": "せんきょ",
+    "meaning": "선거",
+    "meaningDetail": "뽑기",
+    "category": "명사",
+    "examples": [
+      { "ja": "選挙に投票する。", "ko": "선거에 투표한다." }
+    ]
+  },
+  {
+    "word": "投票",
+    "reading": "とうひょう",
+    "meaning": "투표",
+    "meaningDetail": "뽑기",
+    "category": "명사",
+    "examples": [
+      { "ja": "投票所に行く。", "ko": "투표소에 간다." }
+    ]
+  },
+  {
+    "word": "候補",
+    "reading": "こうほ",
+    "meaning": "후보",
+    "meaningDetail": "뽑힐 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "候補者を支持する。", "ko": "후보자를 지지한다." }
+    ]
+  },
+  {
+    "word": "当選",
+    "reading": "とうせん",
+    "meaning": "당선",
+    "meaningDetail": "뽑힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "当選する。", "ko": "당선된다." }
+    ]
+  },
+  {
+    "word": "議員",
+    "reading": "ぎいん",
+    "meaning": "의원",
+    "meaningDetail": "국회의원",
+    "category": "명사",
+    "examples": [
+      { "ja": "議員になる。", "ko": "의원이 된다." }
+    ]
+  },
+  {
+    "word": "議会",
+    "reading": "ぎかい",
+    "meaning": "의회",
+    "meaningDetail": "국회",
+    "category": "명사",
+    "examples": [
+      { "ja": "議会で審議する。", "ko": "의회에서 심의한다." }
+    ]
+  },
+  {
+    "word": "国会",
+    "reading": "こっかい",
+    "meaning": "국회",
+    "meaningDetail": "의회",
+    "category": "명사",
+    "examples": [
+      { "ja": "国会で議論する。", "ko": "국회에서 논의한다." }
+    ]
+  },
+  {
+    "word": "政府",
+    "reading": "せいふ",
+    "meaning": "정부",
+    "meaningDetail": "나라 기관",
+    "category": "명사",
+    "examples": [
+      { "ja": "政府が発表する。", "ko": "정부가 발표한다." }
+    ]
+  },
+  {
+    "word": "内閣",
+    "reading": "ないかく",
+    "meaning": "내각",
+    "meaningDetail": "정부 조직",
+    "category": "명사",
+    "examples": [
+      { "ja": "内閣が総辞職する。", "ko": "내각이 총사퇴한다." }
+    ]
+  },
+  {
+    "word": "首相",
+    "reading": "しゅしょう",
+    "meaning": "수상",
+    "meaningDetail": "총리",
+    "category": "명사",
+    "examples": [
+      { "ja": "首相が演説する。", "ko": "수상이 연설한다." }
+    ]
+  },
+  {
+    "word": "大臣",
+    "reading": "だいじん",
+    "meaning": "대신",
+    "meaningDetail": "장관",
+    "category": "명사",
+    "examples": [
+      { "ja": "大臣に任命される。", "ko": "대신에 임명된다." }
+    ]
+  },
+  {
+    "word": "大統領",
+    "reading": "だいとうりょう",
+    "meaning": "대통령",
+    "meaningDetail": "국가 수장",
+    "category": "명사",
+    "examples": [
+      { "ja": "大統領が就任する。", "ko": "대통령이 취임한다." }
+    ]
+  },
+  {
+    "word": "王",
+    "reading": "おう",
+    "meaning": "왕",
+    "meaningDetail": "임금",
+    "category": "명사",
+    "examples": [
+      { "ja": "王が即位する。", "ko": "왕이 즉위한다." }
+    ]
+  },
+  {
+    "word": "皇帝",
+    "reading": "こうてい",
+    "meaning": "황제",
+    "meaningDetail": "제왕",
+    "category": "명사",
+    "examples": [
+      { "ja": "皇帝が治める。", "ko": "황제가 다스린다." }
+    ]
+  },
+  {
+    "word": "天皇",
+    "reading": "てんのう",
+    "meaning": "천황",
+    "meaningDetail": "일본 군주",
+    "category": "명사",
+    "examples": [
+      { "ja": "天皇が即位する。", "ko": "천황이 즉위한다." }
+    ]
+  },
+  {
+    "word": "国民",
+    "reading": "こくみん",
+    "meaning": "국민",
+    "meaningDetail": "나라 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "国民の義務を果たす。", "ko": "국민의 의무를 다한다." }
+    ]
+  },
+  {
+    "word": "市民",
+    "reading": "しみん",
+    "meaning": "시민",
+    "meaningDetail": "도시 주민",
+    "category": "명사",
+    "examples": [
+      { "ja": "市民に説明する。", "ko": "시민에게 설명한다." }
+    ]
+  },
+  {
+    "word": "住民",
+    "reading": "じゅうみん",
+    "meaning": "주민",
+    "meaningDetail": "살고 있는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "住民に通知する。", "ko": "주민에게 통지한다." }
+    ]
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meaning": "인구",
+    "meaningDetail": "사람 수",
+    "category": "명사",
+    "examples": [
+      { "ja": "人口が増える。", "ko": "인구가 늘어난다." }
+    ]
+  },
+  {
+    "word": "人種",
+    "reading": "じんしゅ",
+    "meaning": "인종",
+    "meaningDetail": "민족",
+    "category": "명사",
+    "examples": [
+      { "ja": "人種差別をなくす。", "ko": "인종 차별을 없앤다." }
+    ]
+  },
+  {
+    "word": "民族",
+    "reading": "みんぞく",
+    "meaning": "민족",
+    "meaningDetail": "겨레",
+    "category": "명사",
+    "examples": [
+      { "ja": "民族の文化を守る。", "ko": "민족 문화를 지킨다." }
+    ]
+  },
+  {
+    "word": "国籍",
+    "reading": "こくせき",
+    "meaning": "국적",
+    "meaningDetail": "나라 소속",
+    "category": "명사",
+    "examples": [
+      { "ja": "国籍を取得する。", "ko": "국적을 취득한다." }
+    ]
+  },
+  {
+    "word": "移民",
+    "reading": "いみん",
+    "meaning": "이민",
+    "meaningDetail": "옮겨 사는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "移民を受け入れる。", "ko": "이민을 받아들인다." }
+    ]
+  },
+  {
+    "word": "難民",
+    "reading": "なんみん",
+    "meaning": "난민",
+    "meaningDetail": "피난민",
+    "category": "명사",
+    "examples": [
+      { "ja": "難民を支援する。", "ko": "난민을 지원한다." }
+    ]
+  },
+  {
+    "word": "領土",
+    "reading": "りょうど",
+    "meaning": "영토",
+    "meaningDetail": "땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "領土を守る。", "ko": "영토를 지킨다." }
+    ]
+  },
+  {
+    "word": "国境",
+    "reading": "こっきょう",
+    "meaning": "국경",
+    "meaningDetail": "나라 경계",
+    "category": "명사",
+    "examples": [
+      { "ja": "国境を越える。", "ko": "국경을 넘는다." }
+    ]
+  },
+  {
+    "word": "首都",
+    "reading": "しゅと",
+    "meaning": "수도",
+    "meaningDetail": "나라 중심 도시",
+    "category": "명사",
+    "examples": [
+      { "ja": "首都に住む。", "ko": "수도에 산다." }
+    ]
+  },
+  {
+    "word": "都市",
+    "reading": "とし",
+    "meaning": "도시",
+    "meaningDetail": "큰 마을",
+    "category": "명사",
+    "examples": [
+      { "ja": "都市に住む。", "ko": "도시에 산다." }
+    ]
+  },
+  {
+    "word": "都会",
+    "reading": "とかい",
+    "meaning": "도회",
+    "meaningDetail": "도시",
+    "category": "명사",
+    "examples": [
+      { "ja": "都会の生活に慣れる。", "ko": "도회 생활에 익숙해진다." }
+    ]
+  },
+  {
+    "word": "地方",
+    "reading": "ちほう",
+    "meaning": "지방",
+    "meaningDetail": "지역",
+    "category": "명사",
+    "examples": [
+      { "ja": "地方に移住する。", "ko": "지방으로 이주한다." }
+    ]
+  },
+  {
+    "word": "地域",
+    "reading": "ちいき",
+    "meaning": "지역",
+    "meaningDetail": "구역",
+    "category": "명사",
+    "examples": [
+      { "ja": "地域を活性化する。", "ko": "지역을 활성화한다." }
+    ]
+  },
+  {
+    "word": "地区",
+    "reading": "ちく",
+    "meaning": "지구",
+    "meaningDetail": "구역",
+    "category": "명사",
+    "examples": [
+      { "ja": "住宅地区に住む。", "ko": "주택 지구에 산다." }
+    ]
+  },
+  {
+    "word": "区域",
+    "reading": "くいき",
+    "meaning": "구역",
+    "meaningDetail": "범위",
+    "category": "명사",
+    "examples": [
+      { "ja": "禁煙区域に入る。", "ko": "금연 구역에 들어간다." }
+    ]
+  },
+  {
+    "word": "県",
+    "reading": "けん",
+    "meaning": "현",
+    "meaningDetail": "도",
+    "category": "명사",
+    "examples": [
+      { "ja": "県庁に行く。", "ko": "현청에 간다." }
+    ]
+  },
+  {
+    "word": "市",
+    "reading": "し",
+    "meaning": "시",
+    "meaningDetail": "도시",
+    "category": "명사",
+    "examples": [
+      { "ja": "市役所に届ける。", "ko": "시청에 신고한다." }
+    ]
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "meaning": "마을",
+    "meaningDetail": "읍",
+    "category": "명사",
+    "examples": [
+      { "ja": "町を歩く。", "ko": "마을을 걷는다." }
+    ]
+  },
+  {
+    "word": "村",
+    "reading": "むら",
+    "meaning": "마을",
+    "meaningDetail": "시골",
+    "category": "명사",
+    "examples": [
+      { "ja": "村に住む。", "ko": "마을에 산다." }
+    ]
+  },
+  {
+    "word": "街",
+    "reading": "まち",
+    "meaning": "거리",
+    "meaningDetail": "시가",
+    "category": "명사",
+    "examples": [
+      { "ja": "街を歩く。", "ko": "거리를 걷는다." }
+    ]
+  },
+  {
+    "word": "通り",
+    "reading": "とおり",
+    "meaning": "거리",
+    "meaningDetail": "길",
+    "category": "명사",
+    "examples": [
+      { "ja": "通りを渡る。", "ko": "거리를 건넌다." }
+    ]
+  },
+  {
+    "word": "道路",
+    "reading": "どうろ",
+    "meaning": "도로",
+    "meaningDetail": "길",
+    "category": "명사",
+    "examples": [
+      { "ja": "道路を整備する。", "ko": "도로를 정비한다." }
+    ]
+  },
+  {
+    "word": "高速道路",
+    "reading": "こうそくどうろ",
+    "meaning": "고속도로",
+    "meaningDetail": "빠른 길",
+    "category": "명사",
+    "examples": [
+      { "ja": "高速道路を走る。", "ko": "고속도로를 달린다." }
+    ]
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning": "교차로",
+    "meaningDetail": "사거리",
+    "category": "명사",
+    "examples": [
+      { "ja": "交差点を渡る。", "ko": "교차로를 건넌다." }
+    ]
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "신호",
+    "meaningDetail": "신호등",
+    "category": "명사",
+    "examples": [
+      { "ja": "信号を守る。", "ko": "신호를 지킨다." }
+    ]
+  },
+  {
+    "word": "標識",
+    "reading": "ひょうしき",
+    "meaning": "표지판",
+    "meaningDetail": "표시",
+    "category": "명사",
+    "examples": [
+      { "ja": "標識に従う。", "ko": "표지판에 따른다." }
+    ]
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "meaning": "교통",
+    "meaningDetail": "오고 가기",
+    "category": "명사",
+    "examples": [
+      { "ja": "交通が便利だ。", "ko": "교통이 편리하다." }
+    ]
+  },
+  {
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "meaning": "정체",
+    "meaningDetail": "막힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "渋滞に巻き込まれる。", "ko": "정체에 말려든다." }
+    ]
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "meaningDetail": "문제",
+    "category": "명사",
+    "examples": [
+      { "ja": "事故が起きる。", "ko": "사고가 일어난다." }
+    ]
+  },
+  {
+    "word": "衝突",
+    "reading": "しょうとつ",
+    "meaning": "충돌",
+    "meaningDetail": "부딪힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "車が衝突する。", "ko": "차가 충돌한다." }
+    ]
+  }
+]

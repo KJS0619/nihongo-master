@@ -1,0 +1,541 @@
+[
+  {
+    "word": "販売する",
+    "reading": "はんばいする",
+    "meaning": "판매하다",
+    "meaningDetail": "팔다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を販売する。", "ko": "상품을 판매하다." }
+    ]
+  },
+  {
+    "word": "購入する",
+    "reading": "こうにゅうする",
+    "meaning": "구입하다",
+    "meaningDetail": "사다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を購入する。", "ko": "상품을 구입하다." }
+    ]
+  },
+  {
+    "word": "注文する",
+    "reading": "ちゅうもんする",
+    "meaning": "주문하다",
+    "meaningDetail": "시키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "料理を注文する。", "ko": "음식을 주문하다." }
+    ]
+  },
+  {
+    "word": "予約する",
+    "reading": "よやくする",
+    "meaning": "예약하다",
+    "meaningDetail": "미리 잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ホテルを予約する。", "ko": "호텔을 예약하다." }
+    ]
+  },
+  {
+    "word": "キャンセルする",
+    "reading": "きゃんせるする",
+    "meaning": "취소하다",
+    "meaningDetail": "없애다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "予約をキャンセルする。", "ko": "예약을 취소하다." }
+    ]
+  },
+  {
+    "word": "返品する",
+    "reading": "へんぴんする",
+    "meaning": "반품하다",
+    "meaningDetail": "돌려보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を返品する。", "ko": "상품을 반품하다." }
+    ]
+  },
+  {
+    "word": "交換する",
+    "reading": "こうかんする",
+    "meaning": "교환하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "名刺を交換する。", "ko": "명함을 교환하다." }
+    ]
+  },
+  {
+    "word": "配送する",
+    "reading": "はいそうする",
+    "meaning": "배송하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を配送する。", "ko": "상품을 배송하다." }
+    ]
+  },
+  {
+    "word": "発送する",
+    "reading": "はっそうする",
+    "meaning": "발송하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を発送する。", "ko": "짐을 발송하다." }
+    ]
+  },
+  {
+    "word": "受け取る",
+    "reading": "うけとる",
+    "meaning": "받다",
+    "meaningDetail": "수령하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を受け取る。", "ko": "짐을 받다." }
+    ]
+  },
+  {
+    "word": "受領する",
+    "reading": "じゅりょうする",
+    "meaning": "수령하다",
+    "meaningDetail": "받다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類を受領する。", "ko": "서류를 수령하다." }
+    ]
+  },
+  {
+    "word": "引き渡す",
+    "reading": "ひきわたす",
+    "meaning": "인도하다",
+    "meaningDetail": "넘겨주다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鍵を引き渡す。", "ko": "열쇠를 인도하다." }
+    ]
+  },
+  {
+    "word": "引き取る",
+    "reading": "ひきとる",
+    "meaning": "인수하다",
+    "meaningDetail": "넘겨받다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を引き取る。", "ko": "짐을 인수하다." }
+    ]
+  },
+  {
+    "word": "保管する",
+    "reading": "ほかんする",
+    "meaning": "보관하다",
+    "meaningDetail": "맡아두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を保管する。", "ko": "짐을 보관하다." }
+    ]
+  },
+  {
+    "word": "保存する",
+    "reading": "ほぞんする",
+    "meaning": "보존하다",
+    "meaningDetail": "저장하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを保存する。", "ko": "데이터를 보존하다." }
+    ]
+  },
+  {
+    "word": "保護する",
+    "reading": "ほごする",
+    "meaning": "보호하다",
+    "meaningDetail": "지키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "環境を保護する。", "ko": "환경을 보호하다." }
+    ]
+  },
+  {
+    "word": "維持する",
+    "reading": "いじする",
+    "meaning": "유지하다",
+    "meaningDetail": "지속하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "品質を維持する。", "ko": "품질을 유지하다." }
+    ]
+  },
+  {
+    "word": "継続する",
+    "reading": "けいぞくする",
+    "meaning": "계속하다",
+    "meaningDetail": "이어가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "努力を継続する。", "ko": "노력을 계속하다." }
+    ]
+  },
+  {
+    "word": "持続する",
+    "reading": "じぞくする",
+    "meaning": "지속하다",
+    "meaningDetail": "계속되다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "効果が持続する。", "ko": "효과가 지속하다." }
+    ]
+  },
+  {
+    "word": "中断する",
+    "reading": "ちゅうだんする",
+    "meaning": "중단하다",
+    "meaningDetail": "멈추다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "作業を中断する。", "ko": "작업을 중단하다." }
+    ]
+  },
+  {
+    "word": "中止する",
+    "reading": "ちゅうしする",
+    "meaning": "중지하다",
+    "meaningDetail": "그만두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "イベントを中止する。", "ko": "이벤트를 중지하다." }
+    ]
+  },
+  {
+    "word": "停止する",
+    "reading": "ていしする",
+    "meaning": "정지하다",
+    "meaningDetail": "멈추다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械が停止する。", "ko": "기계가 정지하다." }
+    ]
+  },
+  {
+    "word": "延期する",
+    "reading": "えんきする",
+    "meaning": "연기하다",
+    "meaningDetail": "미루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "日程を延期する。", "ko": "일정을 연기하다." }
+    ]
+  },
+  {
+    "word": "延長する",
+    "reading": "えんちょうする",
+    "meaning": "연장하다",
+    "meaningDetail": "늘리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "期限を延長する。", "ko": "기한을 연장하다." }
+    ]
+  },
+  {
+    "word": "短縮する",
+    "reading": "たんしゅくする",
+    "meaning": "단축하다",
+    "meaningDetail": "줄이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "時間を短縮する。", "ko": "시간을 단축하다." }
+    ]
+  },
+  {
+    "word": "拡大する",
+    "reading": "かくだいする",
+    "meaning": "확대하다",
+    "meaningDetail": "넓히다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "規模を拡大する。", "ko": "규모를 확대하다." }
+    ]
+  },
+  {
+    "word": "縮小する",
+    "reading": "しゅくしょうする",
+    "meaning": "축소하다",
+    "meaningDetail": "줄이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "規模を縮小する。", "ko": "규모를 축소하다." }
+    ]
+  },
+  {
+    "word": "増加する",
+    "reading": "ぞうかする",
+    "meaning": "증가하다",
+    "meaningDetail": "늘다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人口が増加する。", "ko": "인구가 증가하다." }
+    ]
+  },
+  {
+    "word": "減少する",
+    "reading": "げんしょうする",
+    "meaning": "감소하다",
+    "meaningDetail": "줄다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人口が減少する。", "ko": "인구가 감소하다." }
+    ]
+  },
+  {
+    "word": "上昇する",
+    "reading": "じょうしょうする",
+    "meaning": "상승하다",
+    "meaningDetail": "오르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "気温が上昇する。", "ko": "기온이 상승하다." }
+    ]
+  },
+  {
+    "word": "下降する",
+    "reading": "かこうする",
+    "meaning": "하강하다",
+    "meaningDetail": "내리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "飛行機が下降する。", "ko": "비행기가 하강하다." }
+    ]
+  },
+  {
+    "word": "低下する",
+    "reading": "ていかする",
+    "meaning": "저하하다",
+    "meaningDetail": "낮아지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "体力が低下する。", "ko": "체력이 저하하다." }
+    ]
+  },
+  {
+    "word": "向上する",
+    "reading": "こうじょうする",
+    "meaning": "향상하다",
+    "meaningDetail": "나아지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "技術が向上する。", "ko": "기술이 향상하다." }
+    ]
+  },
+  {
+    "word": "進展する",
+    "reading": "しんてんする",
+    "meaning": "진전하다",
+    "meaningDetail": "나아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "交渉が進展する。", "ko": "협상이 진전하다." }
+    ]
+  },
+  {
+    "word": "進化する",
+    "reading": "しんかする",
+    "meaning": "진화하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "技術が進化する。", "ko": "기술이 진화하다." }
+    ]
+  },
+  {
+    "word": "退化する",
+    "reading": "たいかする",
+    "meaning": "퇴화하다",
+    "meaningDetail": "기능이 줄다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機能が退化する。", "ko": "기능이 퇴화하다." }
+    ]
+  },
+  {
+    "word": "変化する",
+    "reading": "へんかする",
+    "meaning": "변화하다",
+    "meaningDetail": "바뀌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況が変化する。", "ko": "상황이 변화하다." }
+    ]
+  },
+  {
+    "word": "変動する",
+    "reading": "へんどうする",
+    "meaning": "변동하다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "価格が変動する。", "ko": "가격이 변동하다." }
+    ]
+  },
+  {
+    "word": "推移する",
+    "reading": "すいいする",
+    "meaning": "추이하다",
+    "meaningDetail": "흐르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況が推移する。", "ko": "상황이 추이하다." }
+    ]
+  },
+  {
+    "word": "移行する",
+    "reading": "いこうする",
+    "meaning": "이행하다",
+    "meaningDetail": "옮기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新システムに移行する。", "ko": "새 시스템으로 이행하다." }
+    ]
+  },
+  {
+    "word": "移転する",
+    "reading": "いてんする",
+    "meaning": "이전하다",
+    "meaningDetail": "옮기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "本社を移転する。", "ko": "본사를 이전하다." }
+    ]
+  },
+  {
+    "word": "移動する",
+    "reading": "いどうする",
+    "meaning": "이동하다",
+    "meaningDetail": "옮기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "場所を移動する。", "ko": "장소를 이동하다." }
+    ]
+  },
+  {
+    "word": "運動する",
+    "reading": "うんどうする",
+    "meaning": "운동하다",
+    "meaningDetail": "몸을 움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "毎日運動する。", "ko": "매일 운동하다." }
+    ]
+  },
+  {
+    "word": "活動する",
+    "reading": "かつどうする",
+    "meaning": "활동하다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ボランティア活動をする。", "ko": "봉사 활동을 하다." }
+    ]
+  },
+  {
+    "word": "行動する",
+    "reading": "こうどうする",
+    "meaning": "행동하다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "すぐに行動する。", "ko": "바로 행동하다." }
+    ]
+  },
+  {
+    "word": "実行する",
+    "reading": "じっこうする",
+    "meaning": "실행하다",
+    "meaningDetail": "하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画を実行する。", "ko": "계획을 실행하다." }
+    ]
+  },
+  {
+    "word": "実施する",
+    "reading": "じっしする",
+    "meaning": "실시하다",
+    "meaningDetail": "행하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "調査を実施する。", "ko": "조사를 실시하다." }
+    ]
+  },
+  {
+    "word": "実現する",
+    "reading": "じつげんする",
+    "meaning": "실현하다",
+    "meaningDetail": "이루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "夢を実現する。", "ko": "꿈을 실현하다." }
+    ]
+  },
+  {
+    "word": "達成する",
+    "reading": "たっせいする",
+    "meaning": "달성하다",
+    "meaningDetail": "이루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "目標を達成する。", "ko": "목표를 달성하다." }
+    ]
+  }
+]

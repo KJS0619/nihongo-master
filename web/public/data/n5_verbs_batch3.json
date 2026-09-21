@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "w_n5_v3_001",
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "입다",
+    "meaningDetail": "옷을 몸에 걸치다 (상의)",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "シャツを着ます。", "reading": "しゃつをきます。", "ko": "셔츠를 입습니다."},
+      {"ja": "今日は何を着ますか。", "reading": "きょうはなにをきますか。", "ko": "오늘은 무엇을 입습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "着ます", "reading": "きます"},
+      {"form": "て형", "value": "着て", "reading": "きて"},
+      {"form": "た형", "value": "着た", "reading": "きた"},
+      {"form": "ない형", "value": "着ない", "reading": "きない"}
+    ],
+    "relatedWords": [
+      {"word": "脱ぐ", "reading": "ぬぐ", "meaning": "벗다", "relation": "반의어"},
+      {"word": "履く", "reading": "はく", "meaning": "신다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "着", "reading": "き(る)", "meaning": "입을 착"}],
+    "tags": ["동사", "2그룹", "의류", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_v3_002",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "벗다",
+    "meaningDetail": "옷이나 신발을 몸에서 벗다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "靴を脱いでください。", "reading": "くつをぬいでください。", "ko": "신발을 벗어 주세요."},
+      {"ja": "コートを脱ぎます。", "reading": "こーとをぬぎます。", "ko": "코트를 벗습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "脱ぎます", "reading": "ぬぎます"},
+      {"form": "て형", "value": "脱いで", "reading": "ぬいで"},
+      {"form": "た형", "value": "脱いだ", "reading": "ぬいだ"},
+      {"form": "ない형", "value": "脱がない", "reading": "ぬがない"}
+    ],
+    "relatedWords": [
+      {"word": "着る", "reading": "きる", "meaning": "입다", "relation": "반의어"},
+      {"word": "履く", "reading": "はく", "meaning": "신다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "脱", "reading": "ぬ(ぐ)", "meaning": "벗을 탈"}],
+    "tags": ["동사", "1그룹", "의류", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_003",
+    "word": "履く",
+    "reading": "はく",
+    "meaning": "신다, 입다(하의)",
+    "meaningDetail": "신발이나 바지 등을 하체에 입다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "靴を履きます。", "reading": "くつをはきます。", "ko": "신발을 신습니다."},
+      {"ja": "ズボンを履いてください。", "reading": "ずぼんをはいてください。", "ko": "바지를 입어 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "履きます", "reading": "はきます"},
+      {"form": "て형", "value": "履いて", "reading": "はいて"},
+      {"form": "た형", "value": "履いた", "reading": "はいた"},
+      {"form": "ない형", "value": "履かない", "reading": "はかない"}
+    ],
+    "relatedWords": [
+      {"word": "脱ぐ", "reading": "ぬぐ", "meaning": "벗다", "relation": "반의어"},
+      {"word": "着る", "reading": "きる", "meaning": "입다(상의)", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "履", "reading": "は(く)", "meaning": "신을 리"}],
+    "tags": ["동사", "1그룹", "의류", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_004",
+    "word": "かぶる",
+    "reading": "かぶる",
+    "meaning": "쓰다",
+    "meaningDetail": "모자 등을 머리에 쓰다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "帽子をかぶります。", "reading": "ぼうしをかぶります。", "ko": "모자를 씁니다."},
+      {"ja": "今日は帽子をかぶっています。", "reading": "きょうはぼうしをかぶっています。", "ko": "오늘은 모자를 쓰고 있습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "かぶります", "reading": "かぶります"},
+      {"form": "て형", "value": "かぶって", "reading": "かぶって"},
+      {"form": "た형", "value": "かぶった", "reading": "かぶった"},
+      {"form": "ない형", "value": "かぶらない", "reading": "かぶらない"}
+    ],
+    "relatedWords": [
+      {"word": "帽子", "reading": "ぼうし", "meaning": "모자", "relation": "관련어"},
+      {"word": "取る", "reading": "とる", "meaning": "벗다(모자)", "relation": "반의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "1그룹", "의류", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_v3_005",
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "걸다, 쓰다(안경)",
+    "meaningDetail": "안경을 쓰거나 무언가를 걸다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "眼鏡をかけます。", "reading": "めがねをかけます。", "ko": "안경을 씁니다."},
+      {"ja": "壁に絵をかけました。", "reading": "かべにえをかけました。", "ko": "벽에 그림을 걸었습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "かけます", "reading": "かけます"},
+      {"form": "て형", "value": "かけて", "reading": "かけて"},
+      {"form": "た형", "value": "かけた", "reading": "かけた"},
+      {"form": "ない형", "value": "かけない", "reading": "かけない"}
+    ],
+    "relatedWords": [
+      {"word": "眼鏡", "reading": "めがね", "meaning": "안경", "relation": "관련어"},
+      {"word": "外す", "reading": "はずす", "meaning": "벗다", "relation": "반의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "2그룹", "의류", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_v3_006",
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "씻다, 빨다",
+    "meaningDetail": "물로 더러움을 제거하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "手を洗います。", "reading": "てをあらいます。", "ko": "손을 씻습니다."},
+      {"ja": "服を洗いました。", "reading": "ふくをあらいました。", "ko": "옷을 빨았습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "洗います", "reading": "あらいます"},
+      {"form": "て형", "value": "洗って", "reading": "あらって"},
+      {"form": "た형", "value": "洗った", "reading": "あらった"},
+      {"form": "ない형", "value": "洗わない", "reading": "あらわない"}
+    ],
+    "relatedWords": [
+      {"word": "洗濯", "reading": "せんたく", "meaning": "빨래", "relation": "관련어"},
+      {"word": "風呂", "reading": "ふろ", "meaning": "목욕", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "洗", "reading": "あら(う)", "meaning": "씻을 세"}],
+    "tags": ["동사", "1그룹", "생활", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_v3_007",
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "닦다, 갈다",
+    "meaningDetail": "문질러서 깨끗하게 하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "歯を磨きます。", "reading": "はをみがきます。", "ko": "이를 닦습니다."},
+      {"ja": "靴を磨いてください。", "reading": "くつをみがいてください。", "ko": "신발을 닦아 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "磨きます", "reading": "みがきます"},
+      {"form": "て형", "value": "磨いて", "reading": "みがいて"},
+      {"form": "た형", "value": "磨いた", "reading": "みがいた"},
+      {"form": "ない형", "value": "磨かない", "reading": "みがかない"}
+    ],
+    "relatedWords": [
+      {"word": "歯", "reading": "は", "meaning": "이", "relation": "관련어"},
+      {"word": "洗う", "reading": "あらう", "meaning": "씻다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "磨", "reading": "みが(く)", "meaning": "갈 마"}],
+    "tags": ["동사", "1그룹", "생활", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_008",
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "내리다",
+    "meaningDetail": "높은 곳에서 낮은 곳으로 이동하다, 탈것에서 내리다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "電車を降ります。", "reading": "でんしゃをおります。", "ko": "전철에서 내립니다."},
+      {"ja": "次の駅で降りてください。", "reading": "つぎのえきでおりてください。", "ko": "다음 역에서 내려 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "降ります", "reading": "おります"},
+      {"form": "て형", "value": "降りて", "reading": "おりて"},
+      {"form": "た형", "value": "降りた", "reading": "おりた"},
+      {"form": "ない형", "value": "降りない", "reading": "おりない"}
+    ],
+    "relatedWords": [
+      {"word": "乗る", "reading": "のる", "meaning": "타다", "relation": "반의어"},
+      {"word": "下りる", "reading": "おりる", "meaning": "내려가다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "降", "reading": "お(りる)", "meaning": "내릴 강"}],
+    "tags": ["동사", "2그룹", "이동", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_v3_009",
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "타다",
+    "meaningDetail": "탈것에 올라타다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "電車に乗ります。", "reading": "でんしゃにのります。", "ko": "전철을 탑니다."},
+      {"ja": "何時のバスに乗りますか。", "reading": "なんじのばすにのりますか。", "ko": "몇 시 버스를 탑니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "乗ります", "reading": "のります"},
+      {"form": "て형", "value": "乗って", "reading": "のって"},
+      {"form": "た형", "value": "乗った", "reading": "のった"},
+      {"form": "ない형", "value": "乗らない", "reading": "のらない"}
+    ],
+    "relatedWords": [
+      {"word": "降りる", "reading": "おりる", "meaning": "내리다", "relation": "반의어"},
+      {"word": "電車", "reading": "でんしゃ", "meaning": "전철", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "乗", "reading": "の(る)", "meaning": "탈 승"}],
+    "tags": ["동사", "1그룹", "이동", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_v3_010",
+    "word": "上がる",
+    "reading": "あがる",
+    "meaning": "오르다, 올라가다",
+    "meaningDetail": "아래에서 위로 이동하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "階段を上がります。", "reading": "かいだんをあがります。", "ko": "계단을 올라갑니다."},
+      {"ja": "二階に上がってください。", "reading": "にかいにあがってください。", "ko": "2층으로 올라와 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "上がります", "reading": "あがります"},
+      {"form": "て형", "value": "上がって", "reading": "あがって"},
+      {"form": "た형", "value": "上がった", "reading": "あがった"},
+      {"form": "ない형", "value": "上がらない", "reading": "あがらない"}
+    ],
+    "relatedWords": [
+      {"word": "下がる", "reading": "さがる", "meaning": "내려가다", "relation": "반의어"},
+      {"word": "上る", "reading": "のぼる", "meaning": "오르다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "上", "reading": "あ(がる)", "meaning": "위 상"}],
+    "tags": ["동사", "1그룹", "이동", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_011",
+    "word": "下がる",
+    "reading": "さがる",
+    "meaning": "내려가다, 낮아지다",
+    "meaningDetail": "위에서 아래로 이동하다, 정도가 낮아지다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "温度が下がりました。", "reading": "おんどがさがりました。", "ko": "온도가 내려갔습니다."},
+      {"ja": "少し下がってください。", "reading": "すこしさがってください。", "ko": "조금 뒤로 물러나 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "下がります", "reading": "さがります"},
+      {"form": "て형", "value": "下がって", "reading": "さがって"},
+      {"form": "た형", "value": "下がった", "reading": "さがった"},
+      {"form": "ない형", "value": "下がらない", "reading": "さがらない"}
+    ],
+    "relatedWords": [
+      {"word": "上がる", "reading": "あがる", "meaning": "올라가다", "relation": "반의어"},
+      {"word": "下りる", "reading": "おりる", "meaning": "내리다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "下", "reading": "さ(がる)", "meaning": "아래 하"}],
+    "tags": ["동사", "1그룹", "이동", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_v3_012",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "줄서다, 나란히 서다",
+    "meaningDetail": "줄을 지어 서다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "バスを待って並んでいます。", "reading": "ばすをまってならんでいます。", "ko": "버스를 기다리며 줄 서 있습니다."},
+      {"ja": "ここに並んでください。", "reading": "ここにならんでください。", "ko": "여기에 줄 서 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "並びます", "reading": "ならびます"},
+      {"form": "て형", "value": "並んで", "reading": "ならんで"},
+      {"form": "た형", "value": "並んだ", "reading": "ならんだ"},
+      {"form": "ない형", "value": "並ばない", "reading": "ならばない"}
+    ],
+    "relatedWords": [
+      {"word": "並べる", "reading": "ならべる", "meaning": "나열하다", "relation": "관련어"},
+      {"word": "列", "reading": "れつ", "meaning": "줄", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "並", "reading": "なら(ぶ)", "meaning": "나란할 병"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_v3_013",
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "나열하다, 늘어놓다",
+    "meaningDetail": "물건을 줄지어 놓다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "机を並べます。", "reading": "つくえをならべます。", "ko": "책상을 나란히 놓습니다."},
+      {"ja": "本を並べてください。", "reading": "ほんをならべてください。", "ko": "책을 늘어놓아 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "並べます", "reading": "ならべます"},
+      {"form": "て형", "value": "並べて", "reading": "ならべて"},
+      {"form": "た형", "value": "並べた", "reading": "ならべた"},
+      {"form": "ない형", "value": "並べない", "reading": "ならべない"}
+    ],
+    "relatedWords": [
+      {"word": "並ぶ", "reading": "ならぶ", "meaning": "줄서다", "relation": "관련어"},
+      {"word": "置く", "reading": "おく", "meaning": "놓다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "並", "reading": "なら(べる)", "meaning": "나란할 병"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 62
+  },
+  {
+    "id": "w_n5_v3_014",
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "놓다, 두다",
+    "meaningDetail": "물건을 어떤 장소에 놓다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "机の上に本を置きます。", "reading": "つくえのうえにほんをおきます。", "ko": "책상 위에 책을 놓습니다."},
+      {"ja": "ここに置いてください。", "reading": "ここにおいてください。", "ko": "여기에 놓아 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "置きます", "reading": "おきます"},
+      {"form": "て형", "value": "置いて", "reading": "おいて"},
+      {"form": "た형", "value": "置いた", "reading": "おいた"},
+      {"form": "ない형", "value": "置かない", "reading": "おかない"}
+    ],
+    "relatedWords": [
+      {"word": "取る", "reading": "とる", "meaning": "집다", "relation": "관련어"},
+      {"word": "持つ", "reading": "もつ", "meaning": "갖다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "置", "reading": "お(く)", "meaning": "둘 치"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_015",
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "집다, 가져가다",
+    "meaningDetail": "손으로 잡거나 가져가다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "写真を取ります。", "reading": "しゃしんをとります。", "ko": "사진을 찍습니다."},
+      {"ja": "塩を取ってください。", "reading": "しおをとってください。", "ko": "소금을 집어 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "取ります", "reading": "とります"},
+      {"form": "て형", "value": "取って", "reading": "とって"},
+      {"form": "た형", "value": "取った", "reading": "とった"},
+      {"form": "ない형", "value": "取らない", "reading": "とらない"}
+    ],
+    "relatedWords": [
+      {"word": "持つ", "reading": "もつ", "meaning": "갖다", "relation": "관련어"},
+      {"word": "撮る", "reading": "とる", "meaning": "찍다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "取", "reading": "と(る)", "meaning": "가질 취"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_v3_016",
+    "word": "撮る",
+    "reading": "とる",
+    "meaning": "찍다(사진)",
+    "meaningDetail": "카메라로 사진이나 영상을 찍다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "写真を撮ります。", "reading": "しゃしんをとります。", "ko": "사진을 찍습니다."},
+      {"ja": "一緒に写真を撮りましょう。", "reading": "いっしょにしゃしんをとりましょう。", "ko": "함께 사진을 찍읍시다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "撮ります", "reading": "とります"},
+      {"form": "て형", "value": "撮って", "reading": "とって"},
+      {"form": "た형", "value": "撮った", "reading": "とった"},
+      {"form": "ない형", "value": "撮らない", "reading": "とらない"}
+    ],
+    "relatedWords": [
+      {"word": "写真", "reading": "しゃしん", "meaning": "사진", "relation": "관련어"},
+      {"word": "カメラ", "reading": "かめら", "meaning": "카메라", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "撮", "reading": "と(る)", "meaning": "찍을 촬"}],
+    "tags": ["동사", "1그룹", "취미", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_017",
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning": "닫다",
+    "meaningDetail": "문이나 창문 등을 닫다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "ドアを閉めてください。", "reading": "どあをしめてください。", "ko": "문을 닫아 주세요."},
+      {"ja": "窓を閉めましたか。", "reading": "まどをしめましたか。", "ko": "창문을 닫았습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "閉めます", "reading": "しめます"},
+      {"form": "て형", "value": "閉めて", "reading": "しめて"},
+      {"form": "た형", "value": "閉めた", "reading": "しめた"},
+      {"form": "ない형", "value": "閉めない", "reading": "しめない"}
+    ],
+    "relatedWords": [
+      {"word": "開ける", "reading": "あける", "meaning": "열다", "relation": "반의어"},
+      {"word": "閉じる", "reading": "とじる", "meaning": "닫다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "閉", "reading": "し(める)", "meaning": "닫을 폐"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_v3_018",
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "열다",
+    "meaningDetail": "문이나 창문 등을 열다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "窓を開けてください。", "reading": "まどをあけてください。", "ko": "창문을 열어 주세요."},
+      {"ja": "ドアを開けました。", "reading": "どあをあけました。", "ko": "문을 열었습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "開けます", "reading": "あけます"},
+      {"form": "て형", "value": "開けて", "reading": "あけて"},
+      {"form": "た형", "value": "開けた", "reading": "あけた"},
+      {"form": "ない형", "value": "開けない", "reading": "あけない"}
+    ],
+    "relatedWords": [
+      {"word": "閉める", "reading": "しめる", "meaning": "닫다", "relation": "반의어"},
+      {"word": "開く", "reading": "あく", "meaning": "열리다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "開", "reading": "あ(ける)", "meaning": "열 개"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_v3_019",
+    "word": "つける",
+    "reading": "つける",
+    "meaning": "켜다, 붙이다",
+    "meaningDetail": "전원을 켜거나 무언가를 부착하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "電気をつけてください。", "reading": "でんきをつけてください。", "ko": "불을 켜 주세요."},
+      {"ja": "テレビをつけます。", "reading": "てれびをつけます。", "ko": "텔레비전을 켭니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "つけます", "reading": "つけます"},
+      {"form": "て형", "value": "つけて", "reading": "つけて"},
+      {"form": "た형", "value": "つけた", "reading": "つけた"},
+      {"form": "ない형", "value": "つけない", "reading": "つけない"}
+    ],
+    "relatedWords": [
+      {"word": "消す", "reading": "けす", "meaning": "끄다", "relation": "반의어"},
+      {"word": "点ける", "reading": "つける", "meaning": "켜다", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_v3_020",
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "끄다, 지우다",
+    "meaningDetail": "전원을 끄거나 글씨를 지우다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "電気を消してください。", "reading": "でんきをけしてください。", "ko": "불을 꺼 주세요."},
+      {"ja": "間違いを消しました。", "reading": "まちがいをけしました。", "ko": "실수를 지웠습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "消します", "reading": "けします"},
+      {"form": "て형", "value": "消して", "reading": "けして"},
+      {"form": "た형", "value": "消した", "reading": "けした"},
+      {"form": "ない형", "value": "消さない", "reading": "けさない"}
+    ],
+    "relatedWords": [
+      {"word": "つける", "reading": "つける", "meaning": "켜다", "relation": "반의어"},
+      {"word": "消しゴム", "reading": "けしごむ", "meaning": "지우개", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "消", "reading": "け(す)", "meaning": "사라질 소"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_v3_021",
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "보내다",
+    "meaningDetail": "물건이나 사람을 다른 곳으로 보내다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "メールを送ります。", "reading": "めーるをおくります。", "ko": "메일을 보냅니다."},
+      {"ja": "荷物を送りました。", "reading": "にもつをおくりました。", "ko": "짐을 보냈습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "送ります", "reading": "おくります"},
+      {"form": "て형", "value": "送って", "reading": "おくって"},
+      {"form": "た형", "value": "送った", "reading": "おくった"},
+      {"form": "ない형", "value": "送らない", "reading": "おくらない"}
+    ],
+    "relatedWords": [
+      {"word": "届く", "reading": "とどく", "meaning": "도착하다", "relation": "관련어"},
+      {"word": "受け取る", "reading": "うけとる", "meaning": "받다", "relation": "반의어"}
+    ],
+    "kanji": [{"char": "送", "reading": "おく(る)", "meaning": "보낼 송"}],
+    "tags": ["동사", "1그룹", "통신", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_022",
+    "word": "届く",
+    "reading": "とどく",
+    "meaning": "도착하다, 닿다",
+    "meaningDetail": "물건이나 소식이 목적지에 도달하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "荷物が届きました。", "reading": "にもつがとどきました。", "ko": "짐이 도착했습니다."},
+      {"ja": "手が届きません。", "reading": "てがとどきません。", "ko": "손이 닿지 않습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "届きます", "reading": "とどきます"},
+      {"form": "て형", "value": "届いて", "reading": "とどいて"},
+      {"form": "た형", "value": "届いた", "reading": "とどいた"},
+      {"form": "ない형", "value": "届かない", "reading": "とどかない"}
+    ],
+    "relatedWords": [
+      {"word": "送る", "reading": "おくる", "meaning": "보내다", "relation": "관련어"},
+      {"word": "届ける", "reading": "とどける", "meaning": "배달하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "届", "reading": "とど(く)", "meaning": "届出届"}],
+    "tags": ["동사", "1그룹", "통신", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_023",
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "빌려주다",
+    "meaningDetail": "자신의 물건을 남에게 잠시 쓰게 하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "ペンを貸してください。", "reading": "ぺんをかしてください。", "ko": "펜을 빌려 주세요."},
+      {"ja": "本を貸しましょうか。", "reading": "ほんをかしましょうか。", "ko": "책을 빌려줄까요?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "貸します", "reading": "かします"},
+      {"form": "て형", "value": "貸して", "reading": "かして"},
+      {"form": "た형", "value": "貸した", "reading": "かした"},
+      {"form": "ない형", "value": "貸さない", "reading": "かさない"}
+    ],
+    "relatedWords": [
+      {"word": "借りる", "reading": "かりる", "meaning": "빌리다", "relation": "반의어"},
+      {"word": "返す", "reading": "かえす", "meaning": "돌려주다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "貸", "reading": "か(す)", "meaning": "빌릴 대"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_024",
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "빌리다",
+    "meaningDetail": "남의 물건을 잠시 쓰다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "本を借りました。", "reading": "ほんをかりました。", "ko": "책을 빌렸습니다."},
+      {"ja": "傘を借りてもいいですか。", "reading": "かさをかりてもいいですか。", "ko": "우산을 빌려도 됩니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "借ります", "reading": "かります"},
+      {"form": "て형", "value": "借りて", "reading": "かりて"},
+      {"form": "た형", "value": "借りた", "reading": "かりた"},
+      {"form": "ない형", "value": "借りない", "reading": "かりない"}
+    ],
+    "relatedWords": [
+      {"word": "貸す", "reading": "かす", "meaning": "빌려주다", "relation": "반의어"},
+      {"word": "返す", "reading": "かえす", "meaning": "돌려주다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "借", "reading": "か(りる)", "meaning": "빌릴 차"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_025",
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "돌려주다, 반환하다",
+    "meaningDetail": "빌린 것을 원래 주인에게 돌려주다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "本を返します。", "reading": "ほんをかえします。", "ko": "책을 반납합니다."},
+      {"ja": "明日返してください。", "reading": "あしたかえしてください。", "ko": "내일 돌려주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "返します", "reading": "かえします"},
+      {"form": "て형", "value": "返して", "reading": "かえして"},
+      {"form": "た형", "value": "返した", "reading": "かえした"},
+      {"form": "ない형", "value": "返さない", "reading": "かえさない"}
+    ],
+    "relatedWords": [
+      {"word": "借りる", "reading": "かりる", "meaning": "빌리다", "relation": "관련어"},
+      {"word": "貸す", "reading": "かす", "meaning": "빌려주다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "返", "reading": "かえ(す)", "meaning": "돌아갈 반"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_026",
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "가르치다, 알려주다",
+    "meaningDetail": "지식이나 정보를 전달하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "日本語を教えています。", "reading": "にほんごをおしえています。", "ko": "일본어를 가르치고 있습니다."},
+      {"ja": "道を教えてください。", "reading": "みちをおしえてください。", "ko": "길을 알려 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "教えます", "reading": "おしえます"},
+      {"form": "て형", "value": "教えて", "reading": "おしえて"},
+      {"form": "た형", "value": "教えた", "reading": "おしえた"},
+      {"form": "ない형", "value": "教えない", "reading": "おしえない"}
+    ],
+    "relatedWords": [
+      {"word": "習う", "reading": "ならう", "meaning": "배우다", "relation": "반의어"},
+      {"word": "先生", "reading": "せんせい", "meaning": "선생님", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "教", "reading": "おし(える)", "meaning": "가르칠 교"}],
+    "tags": ["동사", "2그룹", "학습", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_v3_027",
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "배우다",
+    "meaningDetail": "누군가로부터 기술이나 지식을 배우다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日本語を習っています。", "reading": "にほんごをならっています。", "ko": "일본어를 배우고 있습니다."},
+      {"ja": "ピアノを習いたいです。", "reading": "ぴあのをならいたいです。", "ko": "피아노를 배우고 싶습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "習います", "reading": "ならいます"},
+      {"form": "て형", "value": "習って", "reading": "ならって"},
+      {"form": "た형", "value": "習った", "reading": "ならった"},
+      {"form": "ない형", "value": "習わない", "reading": "ならわない"}
+    ],
+    "relatedWords": [
+      {"word": "教える", "reading": "おしえる", "meaning": "가르치다", "relation": "반의어"},
+      {"word": "勉強する", "reading": "べんきょうする", "meaning": "공부하다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "習", "reading": "なら(う)", "meaning": "익힐 습"}],
+    "tags": ["동사", "1그룹", "학습", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_028",
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "알다",
+    "meaningDetail": "정보나 사실을 인지하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "この人を知っていますか。", "reading": "このひとをしっていますか。", "ko": "이 사람을 알고 있습니까?"},
+      {"ja": "知りませんでした。", "reading": "しりませんでした。", "ko": "몰랐습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "知ります", "reading": "しります"},
+      {"form": "て형", "value": "知って", "reading": "しって"},
+      {"form": "た형", "value": "知った", "reading": "しった"},
+      {"form": "ない형", "value": "知らない", "reading": "しらない"}
+    ],
+    "relatedWords": [
+      {"word": "分かる", "reading": "わかる", "meaning": "이해하다", "relation": "관련어"},
+      {"word": "知識", "reading": "ちしき", "meaning": "지식", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "知", "reading": "し(る)", "meaning": "알 지"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_v3_029",
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "이해하다, 알다",
+    "meaningDetail": "의미나 내용을 이해하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日本語が分かりますか。", "reading": "にほんごがわかりますか。", "ko": "일본어를 이해합니까?"},
+      {"ja": "分かりました。", "reading": "わかりました。", "ko": "알겠습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "分かります", "reading": "わかります"},
+      {"form": "て형", "value": "分かって", "reading": "わかって"},
+      {"form": "た형", "value": "分かった", "reading": "わかった"},
+      {"form": "ない형", "value": "分からない", "reading": "わからない"}
+    ],
+    "relatedWords": [
+      {"word": "知る", "reading": "しる", "meaning": "알다", "relation": "유의어"},
+      {"word": "理解する", "reading": "りかいする", "meaning": "이해하다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "分", "reading": "わ(かる)", "meaning": "나눌 분"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_v3_030",
+    "word": "思う",
+    "reading": "おもう",
+    "meaning": "생각하다",
+    "meaningDetail": "머릿속으로 무언가를 생각하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日本は美しいと思います。", "reading": "にほんはうつくしいとおもいます。", "ko": "일본은 아름답다고 생각합니다."},
+      {"ja": "どう思いますか。", "reading": "どうおもいますか。", "ko": "어떻게 생각합니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "思います", "reading": "おもいます"},
+      {"form": "て형", "value": "思って", "reading": "おもって"},
+      {"form": "た형", "value": "思った", "reading": "おもった"},
+      {"form": "ない형", "value": "思わない", "reading": "おもわない"}
+    ],
+    "relatedWords": [
+      {"word": "考える", "reading": "かんがえる", "meaning": "생각하다", "relation": "유의어"},
+      {"word": "感じる", "reading": "かんじる", "meaning": "느끼다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "思", "reading": "おも(う)", "meaning": "생각 사"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_v3_031",
+    "word": "考える",
+    "reading": "かんがえる",
+    "meaning": "생각하다, 고려하다",
+    "meaningDetail": "신중하게 검토하거나 생각하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "よく考えてから決めます。", "reading": "よくかんがえてからきめます。", "ko": "잘 생각하고 나서 정합니다."},
+      {"ja": "考えてみてください。", "reading": "かんがえてみてください。", "ko": "생각해 보세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "考えます", "reading": "かんがえます"},
+      {"form": "て형", "value": "考えて", "reading": "かんがえて"},
+      {"form": "た형", "value": "考えた", "reading": "かんがえた"},
+      {"form": "ない형", "value": "考えない", "reading": "かんがえない"}
+    ],
+    "relatedWords": [
+      {"word": "思う", "reading": "おもう", "meaning": "생각하다", "relation": "유의어"},
+      {"word": "決める", "reading": "きめる", "meaning": "정하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "考", "reading": "かんが(える)", "meaning": "생각 고"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_v3_032",
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "정하다, 결정하다",
+    "meaningDetail": "무언가를 결정하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "日程を決めます。", "reading": "にっていをきめます。", "ko": "일정을 정합니다."},
+      {"ja": "何を食べるか決めましたか。", "reading": "なにをたべるかきめましたか。", "ko": "무엇을 먹을지 정했습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "決めます", "reading": "きめます"},
+      {"form": "て형", "value": "決めて", "reading": "きめて"},
+      {"form": "た형", "value": "決めた", "reading": "きめた"},
+      {"form": "ない형", "value": "決めない", "reading": "きめない"}
+    ],
+    "relatedWords": [
+      {"word": "決まる", "reading": "きまる", "meaning": "정해지다", "relation": "관련어"},
+      {"word": "選ぶ", "reading": "えらぶ", "meaning": "고르다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "決", "reading": "き(める)", "meaning": "결정할 결"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_033",
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "부르다",
+    "meaningDetail": "사람을 부르거나 이름을 부르다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "タクシーを呼びます。", "reading": "たくしーをよびます。", "ko": "택시를 부릅니다."},
+      {"ja": "名前を呼んでください。", "reading": "なまえをよんでください。", "ko": "이름을 불러 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "呼びます", "reading": "よびます"},
+      {"form": "て형", "value": "呼んで", "reading": "よんで"},
+      {"form": "た형", "value": "呼んだ", "reading": "よんだ"},
+      {"form": "ない형", "value": "呼ばない", "reading": "よばない"}
+    ],
+    "relatedWords": [
+      {"word": "名前", "reading": "なまえ", "meaning": "이름", "relation": "관련어"},
+      {"word": "招待する", "reading": "しょうたいする", "meaning": "초대하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "呼", "reading": "よ(ぶ)", "meaning": "부를 호"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_034",
+    "word": "集める",
+    "reading": "あつめる",
+    "meaning": "모으다",
+    "meaningDetail": "여러 개를 한 곳에 모으다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "切手を集めています。", "reading": "きってをあつめています。", "ko": "우표를 모으고 있습니다."},
+      {"ja": "みんなを集めてください。", "reading": "みんなをあつめてください。", "ko": "모두를 모아 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "集めます", "reading": "あつめます"},
+      {"form": "て형", "value": "集めて", "reading": "あつめて"},
+      {"form": "た형", "value": "集めた", "reading": "あつめた"},
+      {"form": "ない형", "value": "集めない", "reading": "あつめない"}
+    ],
+    "relatedWords": [
+      {"word": "集まる", "reading": "あつまる", "meaning": "모이다", "relation": "관련어"},
+      {"word": "集中する", "reading": "しゅうちゅうする", "meaning": "집중하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "集", "reading": "あつ(める)", "meaning": "모을 집"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_v3_035",
+    "word": "集まる",
+    "reading": "あつまる",
+    "meaning": "모이다",
+    "meaningDetail": "여러 사람이나 물건이 한 곳에 모이다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "みんなが集まりました。", "reading": "みんながあつまりました。", "ko": "모두가 모였습니다."},
+      {"ja": "駅前に集まってください。", "reading": "えきまえにあつまってください。", "ko": "역 앞에 모여 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "集まります", "reading": "あつまります"},
+      {"form": "て형", "value": "集まって", "reading": "あつまって"},
+      {"form": "た형", "value": "集まった", "reading": "あつまった"},
+      {"form": "ない형", "value": "集まらない", "reading": "あつまらない"}
+    ],
+    "relatedWords": [
+      {"word": "集める", "reading": "あつめる", "meaning": "모으다", "relation": "관련어"},
+      {"word": "集会", "reading": "しゅうかい", "meaning": "집회", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "集", "reading": "あつ(まる)", "meaning": "모을 집"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_v3_036",
+    "word": "変わる",
+    "reading": "かわる",
+    "meaning": "바뀌다, 변하다",
+    "meaningDetail": "상태나 모습이 달라지다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "色が変わりました。", "reading": "いろがかわりました。", "ko": "색이 바뀌었습니다."},
+      {"ja": "天気が変わりそうです。", "reading": "てんきがかわりそうです。", "ko": "날씨가 바뀔 것 같습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "変わります", "reading": "かわります"},
+      {"form": "て형", "value": "変わって", "reading": "かわって"},
+      {"form": "た형", "value": "変わった", "reading": "かわった"},
+      {"form": "ない형", "value": "変わらない", "reading": "かわらない"}
+    ],
+    "relatedWords": [
+      {"word": "変える", "reading": "かえる", "meaning": "바꾸다", "relation": "관련어"},
+      {"word": "変化", "reading": "へんか", "meaning": "변화", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "変", "reading": "か(わる)", "meaning": "변할 변"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_037",
+    "word": "変える",
+    "reading": "かえる",
+    "meaning": "바꾸다, 변경하다",
+    "meaningDetail": "상태나 모습을 다르게 하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "予定を変えます。", "reading": "よていをかえます。", "ko": "예정을 바꿉니다."},
+      {"ja": "髪の色を変えました。", "reading": "かみのいろをかえました。", "ko": "머리 색을 바꿨습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "変えます", "reading": "かえます"},
+      {"form": "て형", "value": "変えて", "reading": "かえて"},
+      {"form": "た형", "value": "変えた", "reading": "かえた"},
+      {"form": "ない형", "value": "変えない", "reading": "かえない"}
+    ],
+    "relatedWords": [
+      {"word": "変わる", "reading": "かわる", "meaning": "바뀌다", "relation": "관련어"},
+      {"word": "替える", "reading": "かえる", "meaning": "교환하다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "変", "reading": "か(える)", "meaning": "변할 변"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_038",
+    "word": "準備する",
+    "reading": "じゅんびする",
+    "meaning": "준비하다",
+    "meaningDetail": "무언가를 위해 미리 갖추다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "旅行の準備をします。", "reading": "りょこうのじゅんびをします。", "ko": "여행 준비를 합니다."},
+      {"ja": "準備ができました。", "reading": "じゅんびができました。", "ko": "준비가 되었습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "準備します", "reading": "じゅんびします"},
+      {"form": "て형", "value": "準備して", "reading": "じゅんびして"},
+      {"form": "た형", "value": "準備した", "reading": "じゅんびした"},
+      {"form": "ない형", "value": "準備しない", "reading": "じゅんびしない"}
+    ],
+    "relatedWords": [
+      {"word": "準備", "reading": "じゅんび", "meaning": "준비", "relation": "관련어"},
+      {"word": "用意する", "reading": "よういする", "meaning": "준비하다", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "準", "reading": "じゅん", "meaning": "준할 준"},
+      {"char": "備", "reading": "び", "meaning": "갖출 비"}
+    ],
+    "tags": ["동사", "3그룹", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_039",
+    "word": "練習する",
+    "reading": "れんしゅうする",
+    "meaning": "연습하다",
+    "meaningDetail": "기술이나 능력을 향상시키기 위해 반복하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "pitch": [0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "日本語を練習します。", "reading": "にほんごをれんしゅうします。", "ko": "일본어를 연습합니다."},
+      {"ja": "毎日練習しています。", "reading": "まいにちれんしゅうしています。", "ko": "매일 연습하고 있습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "練習します", "reading": "れんしゅうします"},
+      {"form": "て형", "value": "練習して", "reading": "れんしゅうして"},
+      {"form": "た형", "value": "練習した", "reading": "れんしゅうした"},
+      {"form": "ない형", "value": "練習しない", "reading": "れんしゅうしない"}
+    ],
+    "relatedWords": [
+      {"word": "練習", "reading": "れんしゅう", "meaning": "연습", "relation": "관련어"},
+      {"word": "勉強する", "reading": "べんきょうする", "meaning": "공부하다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "練", "reading": "れん", "meaning": "연마할 련"},
+      {"char": "習", "reading": "しゅう", "meaning": "익힐 습"}
+    ],
+    "tags": ["동사", "3그룹", "학습", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_v3_040",
+    "word": "質問する",
+    "reading": "しつもんする",
+    "meaning": "질문하다",
+    "meaningDetail": "모르는 것을 물어보다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "3그룹",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "先生に質問します。", "reading": "せんせいにしつもんします。", "ko": "선생님께 질문합니다."},
+      {"ja": "質問してもいいですか。", "reading": "しつもんしてもいいですか。", "ko": "질문해도 됩니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "質問します", "reading": "しつもんします"},
+      {"form": "て형", "value": "質問して", "reading": "しつもんして"},
+      {"form": "た형", "value": "質問した", "reading": "しつもんした"},
+      {"form": "ない형", "value": "質問しない", "reading": "しつもんしない"}
+    ],
+    "relatedWords": [
+      {"word": "質問", "reading": "しつもん", "meaning": "질문", "relation": "관련어"},
+      {"word": "答える", "reading": "こたえる", "meaning": "대답하다", "relation": "반의어"}
+    ],
+    "kanji": [
+      {"char": "質", "reading": "しつ", "meaning": "바탕 질"},
+      {"char": "問", "reading": "もん", "meaning": "물을 문"}
+    ],
+    "tags": ["동사", "3그룹", "학습", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_041",
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "대답하다, 응답하다",
+    "meaningDetail": "질문에 응답하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "質問に答えます。", "reading": "しつもんにこたえます。", "ko": "질문에 대답합니다."},
+      {"ja": "日本語で答えてください。", "reading": "にほんごでこたえてください。", "ko": "일본어로 대답해 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "答えます", "reading": "こたえます"},
+      {"form": "て형", "value": "答えて", "reading": "こたえて"},
+      {"form": "た형", "value": "答えた", "reading": "こたえた"},
+      {"form": "ない형", "value": "答えない", "reading": "こたえない"}
+    ],
+    "relatedWords": [
+      {"word": "質問する", "reading": "しつもんする", "meaning": "질문하다", "relation": "반의어"},
+      {"word": "答え", "reading": "こたえ", "meaning": "대답", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "答", "reading": "こた(える)", "meaning": "대답할 답"}],
+    "tags": ["동사", "2그룹", "학습", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_v3_042",
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaning": "부탁하다, 주문하다",
+    "meaningDetail": "다른 사람에게 부탁하거나 음식 등을 주문하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "ビールを頼みました。", "reading": "びーるをたのみました。", "ko": "맥주를 주문했습니다."},
+      {"ja": "お願いがあります。頼んでもいいですか。", "reading": "おねがいがあります。たのんでもいいですか。", "ko": "부탁이 있습니다. 부탁해도 됩니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "頼みます", "reading": "たのみます"},
+      {"form": "て형", "value": "頼んで", "reading": "たのんで"},
+      {"form": "た형", "value": "頼んだ", "reading": "たのんだ"},
+      {"form": "ない형", "value": "頼まない", "reading": "たのまない"}
+    ],
+    "relatedWords": [
+      {"word": "お願いする", "reading": "おねがいする", "meaning": "부탁하다", "relation": "유의어"},
+      {"word": "注文する", "reading": "ちゅうもんする", "meaning": "주문하다", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "頼", "reading": "たの(む)", "meaning": "의뢰할 뢰"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_043",
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "meaning": "고르다, 선택하다",
+    "meaningDetail": "여러 개 중에서 하나를 고르다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "好きな色を選んでください。", "reading": "すきないろをえらんでください。", "ko": "좋아하는 색을 골라 주세요."},
+      {"ja": "どれを選びますか。", "reading": "どれをえらびますか。", "ko": "어느 것을 고르시겠습니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "選びます", "reading": "えらびます"},
+      {"form": "て형", "value": "選んで", "reading": "えらんで"},
+      {"form": "た형", "value": "選んだ", "reading": "えらんだ"},
+      {"form": "ない형", "value": "選ばない", "reading": "えらばない"}
+    ],
+    "relatedWords": [
+      {"word": "決める", "reading": "きめる", "meaning": "정하다", "relation": "관련어"},
+      {"word": "選択", "reading": "せんたく", "meaning": "선택", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "選", "reading": "えら(ぶ)", "meaning": "가릴 선"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_044",
+    "word": "助ける",
+    "reading": "たすける",
+    "meaning": "돕다, 구하다",
+    "meaningDetail": "어려운 상황에 있는 사람을 돕다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "2그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "友達を助けました。", "reading": "ともだちをたすけました。", "ko": "친구를 도왔습니다."},
+      {"ja": "助けてください。", "reading": "たすけてください。", "ko": "도와주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "助けます", "reading": "たすけます"},
+      {"form": "て형", "value": "助けて", "reading": "たすけて"},
+      {"form": "た형", "value": "助けた", "reading": "たすけた"},
+      {"form": "ない형", "value": "助けない", "reading": "たすけない"}
+    ],
+    "relatedWords": [
+      {"word": "手伝う", "reading": "てつだう", "meaning": "돕다", "relation": "유의어"},
+      {"word": "助かる", "reading": "たすかる", "meaning": "살다, 도움이 되다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "助", "reading": "たす(ける)", "meaning": "도울 조"}],
+    "tags": ["동사", "2그룹", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_v3_045",
+    "word": "手伝う",
+    "reading": "てつだう",
+    "meaning": "돕다, 거들다",
+    "meaningDetail": "일을 도와주다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "母を手伝います。", "reading": "ははをてつだいます。", "ko": "어머니를 돕습니다."},
+      {"ja": "手伝ってもいいですか。", "reading": "てつだってもいいですか。", "ko": "도와드려도 됩니까?"}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "手伝います", "reading": "てつだいます"},
+      {"form": "て형", "value": "手伝って", "reading": "てつだって"},
+      {"form": "た형", "value": "手伝った", "reading": "てつだった"},
+      {"form": "ない형", "value": "手伝わない", "reading": "てつだわない"}
+    ],
+    "relatedWords": [
+      {"word": "助ける", "reading": "たすける", "meaning": "돕다", "relation": "유의어"},
+      {"word": "手伝い", "reading": "てつだい", "meaning": "도움", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "手", "reading": "て", "meaning": "손 수"},
+      {"char": "伝", "reading": "つだ(う)", "meaning": "전할 전"}
+    ],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_046",
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "곤란해하다, 난처해하다",
+    "meaningDetail": "어려운 상황에 처하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "お金がなくて困っています。", "reading": "おかねがなくてこまっています。", "ko": "돈이 없어서 곤란합니다."},
+      {"ja": "困りました。", "reading": "こまりました。", "ko": "난감합니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "困ります", "reading": "こまります"},
+      {"form": "て형", "value": "困って", "reading": "こまって"},
+      {"form": "た형", "value": "困った", "reading": "こまった"},
+      {"form": "ない형", "value": "困らない", "reading": "こまらない"}
+    ],
+    "relatedWords": [
+      {"word": "難しい", "reading": "むずかしい", "meaning": "어렵다", "relation": "관련어"},
+      {"word": "問題", "reading": "もんだい", "meaning": "문제", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "困", "reading": "こま(る)", "meaning": "곤란할 곤"}],
+    "tags": ["동사", "1그룹", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_v3_047",
+    "word": "笑う",
+    "reading": "わらう",
+    "meaning": "웃다",
+    "meaningDetail": "기쁘거나 재미있을 때 웃음 짓다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "みんなが笑いました。", "reading": "みんながわらいました。", "ko": "모두가 웃었습니다."},
+      {"ja": "笑ってください。", "reading": "わらってください。", "ko": "웃어 주세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "笑います", "reading": "わらいます"},
+      {"form": "て형", "value": "笑って", "reading": "わらって"},
+      {"form": "た형", "value": "笑った", "reading": "わらった"},
+      {"form": "ない형", "value": "笑わない", "reading": "わらわない"}
+    ],
+    "relatedWords": [
+      {"word": "泣く", "reading": "なく", "meaning": "울다", "relation": "반의어"},
+      {"word": "笑顔", "reading": "えがお", "meaning": "웃는 얼굴", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "笑", "reading": "わら(う)", "meaning": "웃을 소"}],
+    "tags": ["동사", "1그룹", "감정", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_v3_048",
+    "word": "泣く",
+    "reading": "なく",
+    "meaning": "울다",
+    "meaningDetail": "슬프거나 감동받아 눈물을 흘리다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "映画を見て泣きました。", "reading": "えいがをみてなきました。", "ko": "영화를 보고 울었습니다."},
+      {"ja": "子供が泣いています。", "reading": "こどもがないています。", "ko": "아이가 울고 있습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "泣きます", "reading": "なきます"},
+      {"form": "て형", "value": "泣いて", "reading": "ないて"},
+      {"form": "た형", "value": "泣いた", "reading": "ないた"},
+      {"form": "ない형", "value": "泣かない", "reading": "なかない"}
+    ],
+    "relatedWords": [
+      {"word": "笑う", "reading": "わらう", "meaning": "웃다", "relation": "반의어"},
+      {"word": "涙", "reading": "なみだ", "meaning": "눈물", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "泣", "reading": "な(く)", "meaning": "울 읍"}],
+    "tags": ["동사", "1그룹", "감정", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_v3_049",
+    "word": "怒る",
+    "reading": "おこる",
+    "meaning": "화내다, 성내다",
+    "meaningDetail": "화가 나서 감정을 표현하다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "先生が怒りました。", "reading": "せんせいがおこりました。", "ko": "선생님이 화냈습니다."},
+      {"ja": "怒らないでください。", "reading": "おこらないでください。", "ko": "화내지 마세요."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "怒ります", "reading": "おこります"},
+      {"form": "て형", "value": "怒って", "reading": "おこって"},
+      {"form": "た형", "value": "怒った", "reading": "おこった"},
+      {"form": "ない형", "value": "怒らない", "reading": "おこらない"}
+    ],
+    "relatedWords": [
+      {"word": "怒り", "reading": "いかり", "meaning": "분노", "relation": "관련어"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "용서하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "怒", "reading": "おこ(る)", "meaning": "성낼 노"}],
+    "tags": ["동사", "1그룹", "감정", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_v3_050",
+    "word": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "기뻐하다",
+    "meaningDetail": "좋은 일이 있어서 기쁨을 느끼다",
+    "jlpt": "N5",
+    "category": "동사",
+    "verbType": "1그룹",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "プレゼントをもらって喜びました。", "reading": "ぷれぜんとをもらってよろこびました。", "ko": "선물을 받고 기뻐했습니다."},
+      {"ja": "みんな喜んでいます。", "reading": "みんなよろこんでいます。", "ko": "모두 기뻐하고 있습니다."}
+    ],
+    "conjugations": [
+      {"form": "ます형", "value": "喜びます", "reading": "よろこびます"},
+      {"form": "て형", "value": "喜んで", "reading": "よろこんで"},
+      {"form": "た형", "value": "喜んだ", "reading": "よろこんだ"},
+      {"form": "ない형", "value": "喜ばない", "reading": "よろこばない"}
+    ],
+    "relatedWords": [
+      {"word": "嬉しい", "reading": "うれしい", "meaning": "기쁘다", "relation": "관련어"},
+      {"word": "悲しい", "reading": "かなしい", "meaning": "슬프다", "relation": "반의어"}
+    ],
+    "kanji": [{"char": "喜", "reading": "よろこ(ぶ)", "meaning": "기쁠 희"}],
+    "tags": ["동사", "1그룹", "감정", "N5"],
+    "frequency": 68
+  }
+]

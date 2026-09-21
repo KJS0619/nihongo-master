@@ -1,0 +1,492 @@
+[
+  {
+    "word": "成果",
+    "reading": "せいか",
+    "meaning": "성과",
+    "meaningDetail": "결과물",
+    "category": "명사",
+    "examples": [
+      { "ja": "成果を上げる。", "ko": "성과를 올린다." }
+    ]
+  },
+  {
+    "word": "成績",
+    "reading": "せいせき",
+    "meaning": "성적",
+    "meaningDetail": "결과 기록",
+    "category": "명사",
+    "examples": [
+      { "ja": "成績が良い。", "ko": "성적이 좋다." }
+    ]
+  },
+  {
+    "word": "業績",
+    "reading": "ぎょうせき",
+    "meaning": "업적",
+    "meaningDetail": "이룬 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "業績を残す。", "ko": "업적을 남긴다." }
+    ]
+  },
+  {
+    "word": "実績",
+    "reading": "じっせき",
+    "meaning": "실적",
+    "meaningDetail": "실제 결과",
+    "category": "명사",
+    "examples": [
+      { "ja": "実績を積む。", "ko": "실적을 쌓는다." }
+    ]
+  },
+  {
+    "word": "功績",
+    "reading": "こうせき",
+    "meaning": "공적",
+    "meaningDetail": "공로",
+    "category": "명사",
+    "examples": [
+      { "ja": "功績を称える。", "ko": "공적을 칭송한다." }
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "meaningDetail": "결과",
+    "category": "명사",
+    "examples": [
+      { "ja": "効果が現れる。", "ko": "효과가 나타난다." }
+    ]
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "meaningDetail": "미치는 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "影響を受ける。", "ko": "영향을 받는다." }
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "meaningDetail": "끝맺음",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果を出す。", "ko": "결과를 내다." }
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "까닭",
+    "category": "명사",
+    "examples": [
+      { "ja": "原因を調べる。", "ko": "원인을 조사한다." }
+    ]
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "이유",
+    "meaningDetail": "까닭",
+    "category": "명사",
+    "examples": [
+      { "ja": "理由を説明する。", "ko": "이유를 설명한다." }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "meaningDetail": "뜻하는 바",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的を達成する。", "ko": "목적을 달성한다." }
+    ]
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "meaningDetail": "이루려는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を設定する。", "ko": "목표를 설정한다." }
+    ]
+  },
+  {
+    "word": "手段",
+    "reading": "しゅだん",
+    "meaning": "수단",
+    "meaningDetail": "방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "手段を選ぶ。", "ko": "수단을 고르다." }
+    ]
+  },
+  {
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "방법",
+    "meaningDetail": "하는 법",
+    "category": "명사",
+    "examples": [
+      { "ja": "方法を考える。", "ko": "방법을 생각한다." }
+    ]
+  },
+  {
+    "word": "手法",
+    "reading": "しゅほう",
+    "meaning": "수법",
+    "meaningDetail": "기술적 방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい手法を導入する。", "ko": "새로운 수법을 도입한다." }
+    ]
+  },
+  {
+    "word": "技法",
+    "reading": "ぎほう",
+    "meaning": "기법",
+    "meaningDetail": "기술",
+    "category": "명사",
+    "examples": [
+      { "ja": "技法を磨く。", "ko": "기법을 갈고 닦는다." }
+    ]
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "솜씨",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術を習得する。", "ko": "기술을 습득한다." }
+    ]
+  },
+  {
+    "word": "能力",
+    "reading": "のうりょく",
+    "meaning": "능력",
+    "meaningDetail": "할 수 있는 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "能力を発揮する。", "ko": "능력을 발휘한다." }
+    ]
+  },
+  {
+    "word": "才能",
+    "reading": "さいのう",
+    "meaning": "재능",
+    "meaningDetail": "타고난 능력",
+    "category": "명사",
+    "examples": [
+      { "ja": "才能がある。", "ko": "재능이 있다." }
+    ]
+  },
+  {
+    "word": "素質",
+    "reading": "そしつ",
+    "meaning": "소질",
+    "meaningDetail": "타고난 바탕",
+    "category": "명사",
+    "examples": [
+      { "ja": "素質を持つ。", "ko": "소질을 갖다." }
+    ]
+  },
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取る。", "ko": "자격을 따다." }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "필요 사항",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족한다." }
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "基準を設ける。", "ko": "기준을 마련한다." }
+    ]
+  },
+  {
+    "word": "標準",
+    "reading": "ひょうじゅん",
+    "meaning": "표준",
+    "meaningDetail": "기본 척도",
+    "category": "명사",
+    "examples": [
+      { "ja": "標準に合わせる。", "ko": "표준에 맞춘다." }
+    ]
+  },
+  {
+    "word": "水準",
+    "reading": "すいじゅん",
+    "meaning": "수준",
+    "meaningDetail": "정도",
+    "category": "명사",
+    "examples": [
+      { "ja": "水準が高い。", "ko": "수준이 높다." }
+    ]
+  },
+  {
+    "word": "程度",
+    "reading": "ていど",
+    "meaning": "정도",
+    "meaningDetail": "수준",
+    "category": "명사",
+    "examples": [
+      { "ja": "程度を超える。", "ko": "정도를 넘다." }
+    ]
+  },
+  {
+    "word": "限度",
+    "reading": "げんど",
+    "meaning": "한도",
+    "meaningDetail": "한계",
+    "category": "명사",
+    "examples": [
+      { "ja": "限度を超える。", "ko": "한도를 넘다." }
+    ]
+  },
+  {
+    "word": "限界",
+    "reading": "げんかい",
+    "meaning": "한계",
+    "meaningDetail": "끝",
+    "category": "명사",
+    "examples": [
+      { "ja": "限界に達する。", "ko": "한계에 도달한다." }
+    ]
+  },
+  {
+    "word": "境界",
+    "reading": "きょうかい",
+    "meaning": "경계",
+    "meaningDetail": "나뉨",
+    "category": "명사",
+    "examples": [
+      { "ja": "境界を越える。", "ko": "경계를 넘다." }
+    ]
+  },
+  {
+    "word": "範囲",
+    "reading": "はんい",
+    "meaning": "범위",
+    "meaningDetail": "구역",
+    "category": "명사",
+    "examples": [
+      { "ja": "範囲を広げる。", "ko": "범위를 넓힌다." }
+    ]
+  },
+  {
+    "word": "領域",
+    "reading": "りょういき",
+    "meaning": "영역",
+    "meaningDetail": "분야",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい領域に進出する。", "ko": "새로운 영역에 진출한다." }
+    ]
+  },
+  {
+    "word": "分野",
+    "reading": "ぶんや",
+    "meaning": "분야",
+    "meaningDetail": "부문",
+    "category": "명사",
+    "examples": [
+      { "ja": "専門分野を持つ。", "ko": "전문 분야를 갖다." }
+    ]
+  },
+  {
+    "word": "部門",
+    "reading": "ぶもん",
+    "meaning": "부문",
+    "meaningDetail": "분야",
+    "category": "명사",
+    "examples": [
+      { "ja": "部門を担当する。", "ko": "부문을 담당한다." }
+    ]
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaning": "부분",
+    "meaningDetail": "일부",
+    "category": "명사",
+    "examples": [
+      { "ja": "部分を修正する。", "ko": "부분을 수정한다." }
+    ]
+  },
+  {
+    "word": "全体",
+    "reading": "ぜんたい",
+    "meaning": "전체",
+    "meaningDetail": "모두",
+    "category": "명사",
+    "examples": [
+      { "ja": "全体を見渡す。", "ko": "전체를 바라보다." }
+    ]
+  },
+  {
+    "word": "一部",
+    "reading": "いちぶ",
+    "meaning": "일부",
+    "meaningDetail": "한 부분",
+    "category": "명사",
+    "examples": [
+      { "ja": "一部を変更する。", "ko": "일부를 변경한다." }
+    ]
+  },
+  {
+    "word": "大半",
+    "reading": "たいはん",
+    "meaning": "대부분",
+    "meaningDetail": "대다수",
+    "category": "명사",
+    "examples": [
+      { "ja": "大半が賛成する。", "ko": "대부분이 찬성한다." }
+    ]
+  },
+  {
+    "word": "過半",
+    "reading": "かはん",
+    "meaning": "과반",
+    "meaningDetail": "절반 이상",
+    "category": "명사",
+    "examples": [
+      { "ja": "過半数を占める。", "ko": "과반수를 차지한다." }
+    ]
+  },
+  {
+    "word": "半数",
+    "reading": "はんすう",
+    "meaning": "반수",
+    "meaningDetail": "절반",
+    "category": "명사",
+    "examples": [
+      { "ja": "半数が参加する。", "ko": "반수가 참가한다." }
+    ]
+  },
+  {
+    "word": "多数",
+    "reading": "たすう",
+    "meaning": "다수",
+    "meaningDetail": "많은 수",
+    "category": "명사",
+    "examples": [
+      { "ja": "多数決で決める。", "ko": "다수결로 정한다." }
+    ]
+  },
+  {
+    "word": "少数",
+    "reading": "しょうすう",
+    "meaning": "소수",
+    "meaningDetail": "적은 수",
+    "category": "명사",
+    "examples": [
+      { "ja": "少数派に属する。", "ko": "소수파에 속한다." }
+    ]
+  },
+  {
+    "word": "複数",
+    "reading": "ふくすう",
+    "meaning": "복수",
+    "meaningDetail": "여러 개",
+    "category": "명사",
+    "examples": [
+      { "ja": "複数の選択肢がある。", "ko": "복수의 선택지가 있다." }
+    ]
+  },
+  {
+    "word": "単数",
+    "reading": "たんすう",
+    "meaning": "단수",
+    "meaningDetail": "하나",
+    "category": "명사",
+    "examples": [
+      { "ja": "単数形を使う。", "ko": "단수형을 쓴다." }
+    ]
+  },
+  {
+    "word": "数量",
+    "reading": "すうりょう",
+    "meaning": "수량",
+    "meaningDetail": "양",
+    "category": "명사",
+    "examples": [
+      { "ja": "数量を確認する。", "ko": "수량을 확인한다." }
+    ]
+  },
+  {
+    "word": "分量",
+    "reading": "ぶんりょう",
+    "meaning": "분량",
+    "meaningDetail": "양",
+    "category": "명사",
+    "examples": [
+      { "ja": "分量を測る。", "ko": "분량을 재다." }
+    ]
+  },
+  {
+    "word": "容量",
+    "reading": "ようりょう",
+    "meaning": "용량",
+    "meaningDetail": "담을 수 있는 양",
+    "category": "명사",
+    "examples": [
+      { "ja": "容量が足りない。", "ko": "용량이 부족하다." }
+    ]
+  },
+  {
+    "word": "重量",
+    "reading": "じゅうりょう",
+    "meaning": "중량",
+    "meaningDetail": "무게",
+    "category": "명사",
+    "examples": [
+      { "ja": "重量を量る。", "ko": "중량을 재다." }
+    ]
+  },
+  {
+    "word": "体重",
+    "reading": "たいじゅう",
+    "meaning": "체중",
+    "meaningDetail": "몸무게",
+    "category": "명사",
+    "examples": [
+      { "ja": "体重を測る。", "ko": "체중을 재다." }
+    ]
+  },
+  {
+    "word": "身長",
+    "reading": "しんちょう",
+    "meaning": "신장",
+    "meaningDetail": "키",
+    "category": "명사",
+    "examples": [
+      { "ja": "身長が伸びる。", "ko": "신장이 늘다." }
+    ]
+  }
+]

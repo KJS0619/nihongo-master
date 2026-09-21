@@ -1,0 +1,578 @@
+[
+  {
+    "word": "明らか",
+    "reading": "あきらか",
+    "meaning": "분명한, 명백한",
+    "meaningDetail": "확실하고 의심할 여지가 없는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "明らかな間違いだ。", "ko": "분명한 실수다."},
+      {"ja": "事実が明らかになった。", "ko": "사실이 밝혀졌다."}
+    ]
+  },
+  {
+    "word": "浅い",
+    "reading": "あさい",
+    "meaning": "얕은",
+    "meaningDetail": "깊이가 얕거나 정도가 낮음",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "川が浅い。", "ko": "강이 얕다."},
+      {"ja": "経験が浅い。", "ko": "경험이 얕다."}
+    ]
+  },
+  {
+    "word": "鮮やか",
+    "reading": "あざやか",
+    "meaning": "선명한, 화려한",
+    "meaningDetail": "색깔이 밝고 뚜렷한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "鮮やかな色だ。", "ko": "선명한 색이다."},
+      {"ja": "鮮やかに覚えている。", "ko": "선명하게 기억하고 있다."}
+    ]
+  },
+  {
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "두꺼운",
+    "meaningDetail": "두께가 있음",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "厚い本を読む。", "ko": "두꺼운 책을 읽다."},
+      {"ja": "厚い雲がかかる。", "ko": "두꺼운 구름이 끼다."}
+    ]
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "위험한",
+    "meaningDetail": "해를 입을 가능성이 있음",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "危ないから気をつけて。", "ko": "위험하니까 조심해."},
+      {"ja": "危ない目に遭う。", "ko": "위험한 일을 겪다."}
+    ]
+  },
+  {
+    "word": "怪しい",
+    "reading": "あやしい",
+    "meaning": "수상한, 의심스러운",
+    "meaningDetail": "믿기 어렵거나 이상한",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "怪しい人がいる。", "ko": "수상한 사람이 있다."},
+      {"ja": "天気が怪しい。", "ko": "날씨가 수상하다."}
+    ]
+  },
+  {
+    "word": "荒い",
+    "reading": "あらい",
+    "meaning": "거친",
+    "meaningDetail": "성격이나 행동이 부드럽지 않음",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "気が荒い人だ。", "ko": "성격이 거친 사람이다."},
+      {"ja": "波が荒い。", "ko": "파도가 거칠다."}
+    ]
+  },
+  {
+    "word": "偉い",
+    "reading": "えらい",
+    "meaning": "훌륭한, 대단한",
+    "meaningDetail": "지위가 높거나 존경받는",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "偉い人になりたい。", "ko": "훌륭한 사람이 되고 싶다."},
+      {"ja": "よく頑張った、偉いね。", "ko": "잘 했어, 대단해."}
+    ]
+  },
+  {
+    "word": "大人しい",
+    "reading": "おとなしい",
+    "meaning": "얌전한, 온순한",
+    "meaningDetail": "조용하고 순한",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "大人しい性格だ。", "ko": "얌전한 성격이다."},
+      {"ja": "大人しくしていて。", "ko": "얌전히 있어."}
+    ]
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "무거운",
+    "meaningDetail": "무게가 많이 나감",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "荷物が重い。", "ko": "짐이 무겁다."},
+      {"ja": "責任が重い。", "ko": "책임이 무겁다."}
+    ]
+  },
+  {
+    "word": "穏やか",
+    "reading": "おだやか",
+    "meaning": "온화한, 평온한",
+    "meaningDetail": "조용하고 편안한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "穏やかな天気だ。", "ko": "온화한 날씨다."},
+      {"ja": "穏やかに話す。", "ko": "온화하게 말하다."}
+    ]
+  },
+  {
+    "word": "堅い",
+    "reading": "かたい",
+    "meaning": "딱딱한, 엄격한",
+    "meaningDetail": "단단하거나 융통성이 없음",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "パンが堅い。", "ko": "빵이 딱딱하다."},
+      {"ja": "堅い話はやめよう。", "ko": "딱딱한 얘기는 그만하자."}
+    ]
+  },
+  {
+    "word": "悲しい",
+    "reading": "かなしい",
+    "meaning": "슬픈",
+    "meaningDetail": "마음이 아프고 괴로운",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "悲しいニュースを聞いた。", "ko": "슬픈 뉴스를 들었다."},
+      {"ja": "別れが悲しい。", "ko": "이별이 슬프다."}
+    ]
+  },
+  {
+    "word": "華やか",
+    "reading": "はなやか",
+    "meaning": "화려한",
+    "meaningDetail": "밝고 아름다운",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "華やかなドレスを着る。", "ko": "화려한 드레스를 입다."},
+      {"ja": "華やかな雰囲気だ。", "ko": "화려한 분위기다."}
+    ]
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meaning": "엄격한, 혹독한",
+    "meaningDetail": "기준이 높거나 조건이 어려운",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "先生は厳しい。", "ko": "선생님은 엄격하다."},
+      {"ja": "厳しい状況だ。", "ko": "혹독한 상황이다."}
+    ]
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "더러운",
+    "meaningDetail": "깨끗하지 않은",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "部屋が汚い。", "ko": "방이 더럽다."},
+      {"ja": "汚い手を使う。", "ko": "더러운 수를 쓰다."}
+    ]
+  },
+  {
+    "word": "急",
+    "reading": "きゅう",
+    "meaning": "급한, 갑작스러운",
+    "meaningDetail": "갑자기 일어나거나 서두르는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "急な用事ができた。", "ko": "급한 일이 생겼다."},
+      {"ja": "急に雨が降った。", "ko": "갑자기 비가 내렸다."}
+    ]
+  },
+  {
+    "word": "器用",
+    "reading": "きよう",
+    "meaning": "손재주가 있는",
+    "meaningDetail": "손으로 하는 일을 잘하는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "彼は器用だ。", "ko": "그는 손재주가 좋다."},
+      {"ja": "器用に作る。", "ko": "솜씨 좋게 만들다."}
+    ]
+  },
+  {
+    "word": "苦しい",
+    "reading": "くるしい",
+    "meaning": "괴로운, 힘든",
+    "meaningDetail": "몸이나 마음이 고통스러운",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "息が苦しい。", "ko": "숨이 답답하다."},
+      {"ja": "苦しい時期を乗り越える。", "ko": "힘든 시기를 넘기다."}
+    ]
+  },
+  {
+    "word": "詳しい",
+    "reading": "くわしい",
+    "meaning": "자세한, 정통한",
+    "meaningDetail": "세부까지 잘 아는",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "詳しい説明をお願いします。", "ko": "자세한 설명을 부탁드립니다."},
+      {"ja": "彼はこの分野に詳しい。", "ko": "그는 이 분야에 정통하다."}
+    ]
+  },
+  {
+    "word": "激しい",
+    "reading": "はげしい",
+    "meaning": "격렬한, 심한",
+    "meaningDetail": "강도나 정도가 매우 센",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "激しい雨が降る。", "ko": "격렬한 비가 내리다."},
+      {"ja": "競争が激しい。", "ko": "경쟁이 치열하다."}
+    ]
+  },
+  {
+    "word": "賢い",
+    "reading": "かしこい",
+    "meaning": "영리한, 현명한",
+    "meaningDetail": "머리가 좋고 판단력이 있는",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "賢い選択をする。", "ko": "현명한 선택을 하다."},
+      {"ja": "この犬は賢い。", "ko": "이 개는 영리하다."}
+    ]
+  },
+  {
+    "word": "幸せ",
+    "reading": "しあわせ",
+    "meaning": "행복한",
+    "meaningDetail": "기쁘고 만족스러운 상태",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "幸せな家庭を築く。", "ko": "행복한 가정을 이루다."},
+      {"ja": "今、とても幸せです。", "ko": "지금 매우 행복합니다."}
+    ]
+  },
+  {
+    "word": "地味",
+    "reading": "じみ",
+    "meaning": "수수한, 눈에 띄지 않는",
+    "meaningDetail": "화려하지 않고 수수한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "地味な服を着る。", "ko": "수수한 옷을 입다."},
+      {"ja": "地味だけど確実な方法だ。", "ko": "눈에 띄지 않지만 확실한 방법이다."}
+    ]
+  },
+  {
+    "word": "純粋",
+    "reading": "じゅんすい",
+    "meaning": "순수한",
+    "meaningDetail": "섞임이 없고 깨끗한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "純粋な心を持つ。", "ko": "순수한 마음을 가지다."},
+      {"ja": "純粋に楽しむ。", "ko": "순수하게 즐기다."}
+    ]
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "튼튼한, 건강한",
+    "meaningDetail": "강하고 쉽게 부서지지 않는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "丈夫な体を作る。", "ko": "튼튼한 몸을 만들다."},
+      {"ja": "この鞄は丈夫だ。", "ko": "이 가방은 튼튼하다."}
+    ]
+  },
+  {
+    "word": "素敵",
+    "reading": "すてき",
+    "meaning": "멋진, 훌륭한",
+    "meaningDetail": "매력적이고 좋은",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "素敵なプレゼントだ。", "ko": "멋진 선물이다."},
+      {"ja": "素敵な人に会った。", "ko": "멋진 사람을 만났다."}
+    ]
+  },
+  {
+    "word": "素直",
+    "reading": "すなお",
+    "meaning": "솔직한, 순한",
+    "meaningDetail": "성격이 곧고 순종적인",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "素直に謝る。", "ko": "솔직히 사과하다."},
+      {"ja": "素直な子供だ。", "ko": "순한 아이다."}
+    ]
+  },
+  {
+    "word": "鋭い",
+    "reading": "するどい",
+    "meaning": "날카로운, 예리한",
+    "meaningDetail": "끝이 뾰족하거나 감각이 뛰어난",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "鋭いナイフだ。", "ko": "날카로운 칼이다."},
+      {"ja": "鋭い目つきをする。", "ko": "날카로운 눈빛을 하다."}
+    ]
+  },
+  {
+    "word": "正確",
+    "reading": "せいかく",
+    "meaning": "정확한",
+    "meaningDetail": "틀림이 없는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "正確な情報が必要だ。", "ko": "정확한 정보가 필요하다."},
+      {"ja": "正確に測る。", "ko": "정확하게 측정하다."}
+    ]
+  },
+  {
+    "word": "盛ん",
+    "reading": "さかん",
+    "meaning": "활발한, 성한",
+    "meaningDetail": "기세가 좋고 활발한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "議論が盛んだ。", "ko": "논의가 활발하다."},
+      {"ja": "この地域は農業が盛んだ。", "ko": "이 지역은 농업이 성하다."}
+    ]
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "좁은",
+    "meaningDetail": "폭이나 면적이 작은",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "部屋が狭い。", "ko": "방이 좁다."},
+      {"ja": "狭い道を歩く。", "ko": "좁은 길을 걷다."}
+    ]
+  },
+  {
+    "word": "騒がしい",
+    "reading": "さわがしい",
+    "meaning": "시끄러운, 떠들썩한",
+    "meaningDetail": "소란스럽고 소리가 큰",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "教室が騒がしい。", "ko": "교실이 시끄럽다."},
+      {"ja": "騒がしい場所は苦手だ。", "ko": "시끄러운 장소는 싫다."}
+    ]
+  },
+  {
+    "word": "確か",
+    "reading": "たしか",
+    "meaning": "확실한",
+    "meaningDetail": "틀림없는, 정확한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "確かな情報だ。", "ko": "확실한 정보다."},
+      {"ja": "確かにそう言った。", "ko": "확실히 그렇게 말했다."}
+    ]
+  },
+  {
+    "word": "適当",
+    "reading": "てきとう",
+    "meaning": "적당한, 대충의",
+    "meaningDetail": "알맞은 정도의, 또는 성의없는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "適当な時間に来てください。", "ko": "적당한 시간에 와 주세요."},
+      {"ja": "適当なことを言う。", "ko": "대충 말하다."}
+    ]
+  },
+  {
+    "word": "得意",
+    "reading": "とくい",
+    "meaning": "잘하는, 자랑스러운",
+    "meaningDetail": "능숙하거나 자신있는",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "英語が得意だ。", "ko": "영어를 잘한다."},
+      {"ja": "得意げな顔をする。", "ko": "자랑스러운 표정을 짓다."}
+    ]
+  },
+  {
+    "word": "独特",
+    "reading": "どくとく",
+    "meaning": "독특한",
+    "meaningDetail": "다른 것과 다른 특별한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "独特な雰囲気がある。", "ko": "독특한 분위기가 있다."},
+      {"ja": "独特のスタイルだ。", "ko": "독특한 스타일이다."}
+    ]
+  },
+  {
+    "word": "苦い",
+    "reading": "にがい",
+    "meaning": "쓴",
+    "meaningDetail": "맛이 쓴",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "薬が苦い。", "ko": "약이 쓰다."},
+      {"ja": "苦い経験をした。", "ko": "쓰라린 경험을 했다."}
+    ]
+  },
+  {
+    "word": "憎い",
+    "reading": "にくい",
+    "meaning": "미운, 밉살스러운",
+    "meaningDetail": "싫거나 증오하는",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "憎い敵だ。", "ko": "미운 적이다."},
+      {"ja": "彼が憎い。", "ko": "그가 밉다."}
+    ]
+  },
+  {
+    "word": "鈍い",
+    "reading": "にぶい",
+    "meaning": "둔한, 느린",
+    "meaningDetail": "반응이 느리거나 날카롭지 않은",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "反応が鈍い。", "ko": "반응이 둔하다."},
+      {"ja": "鈍い痛みがある。", "ko": "둔한 통증이 있다."}
+    ]
+  },
+  {
+    "word": "派手",
+    "reading": "はで",
+    "meaning": "화려한, 튀는",
+    "meaningDetail": "눈에 띄게 화려한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "派手な服を着る。", "ko": "화려한 옷을 입다."},
+      {"ja": "派手な行動を避ける。", "ko": "튀는 행동을 피하다."}
+    ]
+  },
+  {
+    "word": "激しい",
+    "reading": "はげしい",
+    "meaning": "격렬한",
+    "meaningDetail": "세차고 강한",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "激しい運動をする。", "ko": "격렬한 운동을 하다."},
+      {"ja": "激しく反対する。", "ko": "격렬하게 반대하다."}
+    ]
+  },
+  {
+    "word": "不思議",
+    "reading": "ふしぎ",
+    "meaning": "신기한, 이상한",
+    "meaningDetail": "이해하기 어렵고 기묘한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "不思議な話だ。", "ko": "신기한 이야기다."},
+      {"ja": "不思議に思う。", "ko": "신기하게 생각하다."}
+    ]
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "복잡한",
+    "meaningDetail": "여러 요소가 얽혀 이해하기 어려운",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "複雑な問題だ。", "ko": "복잡한 문제다."},
+      {"ja": "事情が複雑だ。", "ko": "사정이 복잡하다."}
+    ]
+  },
+  {
+    "word": "真面目",
+    "reading": "まじめ",
+    "meaning": "성실한, 진지한",
+    "meaningDetail": "태도가 진지하고 열심인",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "真面目に働く。", "ko": "성실하게 일하다."},
+      {"ja": "真面目な人だ。", "ko": "성실한 사람이다."}
+    ]
+  },
+  {
+    "word": "貧しい",
+    "reading": "まずしい",
+    "meaning": "가난한",
+    "meaningDetail": "재산이나 자원이 부족한",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "貧しい家庭で育つ。", "ko": "가난한 가정에서 자라다."},
+      {"ja": "貧しい国を支援する。", "ko": "가난한 나라를 지원하다."}
+    ]
+  },
+  {
+    "word": "まぶしい",
+    "reading": "まぶしい",
+    "meaning": "눈부신",
+    "meaningDetail": "빛이 강해서 보기 힘든",
+    "category": "형용사",
+    "adjectiveType": "i-adjective",
+    "examples": [
+      {"ja": "太陽がまぶしい。", "ko": "태양이 눈부시다."},
+      {"ja": "まぶしい笑顔だ。", "ko": "눈부신 미소다."}
+    ]
+  },
+  {
+    "word": "見事",
+    "reading": "みごと",
+    "meaning": "훌륭한, 멋진",
+    "meaningDetail": "매우 잘되어 감탄할 만한",
+    "category": "형용사",
+    "adjectiveType": "na-adjective",
+    "examples": [
+      {"ja": "見事な演技だった。", "ko": "훌륭한 연기였다."},
+      {"ja": "見事に成功した。", "ko": "멋지게 성공했다."}
+    ]
+  }
+]

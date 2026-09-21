@@ -1,0 +1,482 @@
+[
+  {
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaning": "평가",
+    "meaningDetail": "가치 판단",
+    "category": "명사",
+    "examples": [
+      { "ja": "高い評価を得る。", "ko": "높은 평가를 받다." }
+    ]
+  },
+  {
+    "word": "査定",
+    "reading": "さてい",
+    "meaning": "사정",
+    "meaningDetail": "감정",
+    "category": "명사",
+    "examples": [
+      { "ja": "査定を受ける。", "ko": "사정을 받다." }
+    ]
+  },
+  {
+    "word": "鑑定",
+    "reading": "かんてい",
+    "meaning": "감정",
+    "meaningDetail": "평가",
+    "category": "명사",
+    "examples": [
+      { "ja": "鑑定を依頼する。", "ko": "감정을 의뢰하다." }
+    ]
+  },
+  {
+    "word": "診断",
+    "reading": "しんだん",
+    "meaning": "진단",
+    "meaningDetail": "판정",
+    "category": "명사",
+    "examples": [
+      { "ja": "診断を受ける。", "ko": "진단을 받다." }
+    ]
+  },
+  {
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "판단",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "判断を下す。", "ko": "판단을 내리다." }
+    ]
+  },
+  {
+    "word": "決断",
+    "reading": "けつだん",
+    "meaning": "결단",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "決断を迫られる。", "ko": "결단을 강요받다." }
+    ]
+  },
+  {
+    "word": "決定",
+    "reading": "けってい",
+    "meaning": "결정",
+    "meaningDetail": "확정",
+    "category": "명사",
+    "examples": [
+      { "ja": "決定を覆す。", "ko": "결정을 뒤집다." }
+    ]
+  },
+  {
+    "word": "確定",
+    "reading": "かくてい",
+    "meaning": "확정",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "日程を確定する。", "ko": "일정을 확정하다." }
+    ]
+  },
+  {
+    "word": "認定",
+    "reading": "にんてい",
+    "meaning": "인정",
+    "meaningDetail": "승인",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を認定する。", "ko": "자격을 인정하다." }
+    ]
+  },
+  {
+    "word": "指定",
+    "reading": "してい",
+    "meaning": "지정",
+    "meaningDetail": "선정",
+    "category": "명사",
+    "examples": [
+      { "ja": "場所を指定する。", "ko": "장소를 지정하다." }
+    ]
+  },
+  {
+    "word": "選定",
+    "reading": "せんてい",
+    "meaning": "선정",
+    "meaningDetail": "선택",
+    "category": "명사",
+    "examples": [
+      { "ja": "候補を選定する。", "ko": "후보를 선정하다." }
+    ]
+  },
+  {
+    "word": "設定",
+    "reading": "せってい",
+    "meaning": "설정",
+    "meaningDetail": "세팅",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を設定する。", "ko": "목표를 설정하다." }
+    ]
+  },
+  {
+    "word": "制定",
+    "reading": "せいてい",
+    "meaning": "제정",
+    "meaningDetail": "입법",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を制定する。", "ko": "법률을 제정하다." }
+    ]
+  },
+  {
+    "word": "策定",
+    "reading": "さくてい",
+    "meaning": "책정",
+    "meaningDetail": "수립",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を策定する。", "ko": "계획을 책정하다." }
+    ]
+  },
+  {
+    "word": "改定",
+    "reading": "かいてい",
+    "meaning": "개정",
+    "meaningDetail": "수정",
+    "category": "명사",
+    "examples": [
+      { "ja": "料金を改定する。", "ko": "요금을 개정하다." }
+    ]
+  },
+  {
+    "word": "改正",
+    "reading": "かいせい",
+    "meaning": "개정",
+    "meaningDetail": "수정",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を改正する。", "ko": "법률을 개정하다." }
+    ]
+  },
+  {
+    "word": "訂正",
+    "reading": "ていせい",
+    "meaning": "정정",
+    "meaningDetail": "수정",
+    "category": "명사",
+    "examples": [
+      { "ja": "誤りを訂正する。", "ko": "오류를 정정하다." }
+    ]
+  },
+  {
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaning": "수정",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を修正する。", "ko": "계획을 수정하다." }
+    ]
+  },
+  {
+    "word": "補正",
+    "reading": "ほせい",
+    "meaning": "보정",
+    "meaningDetail": "수정",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を補正する。", "ko": "예산을 보정하다." }
+    ]
+  },
+  {
+    "word": "是正",
+    "reading": "ぜせい",
+    "meaning": "시정",
+    "meaningDetail": "개선",
+    "category": "명사",
+    "examples": [
+      { "ja": "不正を是正する。", "ko": "부정을 시정하다." }
+    ]
+  },
+  {
+    "word": "矯正",
+    "reading": "きょうせい",
+    "meaning": "교정",
+    "meaningDetail": "바로잡음",
+    "category": "명사",
+    "examples": [
+      { "ja": "姿勢を矯正する。", "ko": "자세를 교정하다." }
+    ]
+  },
+  {
+    "word": "調整",
+    "reading": "ちょうせい",
+    "meaning": "조정",
+    "meaningDetail": "조절",
+    "category": "명사",
+    "examples": [
+      { "ja": "スケジュールを調整する。", "ko": "스케줄을 조정하다." }
+    ]
+  },
+  {
+    "word": "調節",
+    "reading": "ちょうせつ",
+    "meaning": "조절",
+    "meaningDetail": "조정",
+    "category": "명사",
+    "examples": [
+      { "ja": "温度を調節する。", "ko": "온도를 조절하다." }
+    ]
+  },
+  {
+    "word": "制御",
+    "reading": "せいぎょ",
+    "meaning": "제어",
+    "meaningDetail": "컨트롤",
+    "category": "명사",
+    "examples": [
+      { "ja": "機械を制御する。", "ko": "기계를 제어하다." }
+    ]
+  },
+  {
+    "word": "操作",
+    "reading": "そうさ",
+    "meaning": "조작",
+    "meaningDetail": "다루기",
+    "category": "명사",
+    "examples": [
+      { "ja": "操作方法を学ぶ。", "ko": "조작 방법을 배우다." }
+    ]
+  },
+  {
+    "word": "操縦",
+    "reading": "そうじゅう",
+    "meaning": "조종",
+    "meaningDetail": "운전",
+    "category": "명사",
+    "examples": [
+      { "ja": "飛行機を操縦する。", "ko": "비행기를 조종하다." }
+    ]
+  },
+  {
+    "word": "運転",
+    "reading": "うんてん",
+    "meaning": "운전",
+    "meaningDetail": "드라이브",
+    "category": "명사",
+    "examples": [
+      { "ja": "車を運転する。", "ko": "차를 운전하다." }
+    ]
+  },
+  {
+    "word": "運行",
+    "reading": "うんこう",
+    "meaning": "운행",
+    "meaningDetail": "운영",
+    "category": "명사",
+    "examples": [
+      { "ja": "バスを運行する。", "ko": "버스를 운행하다." }
+    ]
+  },
+  {
+    "word": "運営",
+    "reading": "うんえい",
+    "meaning": "운영",
+    "meaningDetail": "경영",
+    "category": "명사",
+    "examples": [
+      { "ja": "事業を運営する。", "ko": "사업을 운영하다." }
+    ]
+  },
+  {
+    "word": "経営",
+    "reading": "けいえい",
+    "meaning": "경영",
+    "meaningDetail": "관리",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社を経営する。", "ko": "회사를 경영하다." }
+    ]
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meaning": "영업",
+    "meaningDetail": "비즈니스",
+    "category": "명사",
+    "examples": [
+      { "ja": "営業時間を確認する。", "ko": "영업시간을 확인하다." }
+    ]
+  },
+  {
+    "word": "開業",
+    "reading": "かいぎょう",
+    "meaning": "개업",
+    "meaningDetail": "시작",
+    "category": "명사",
+    "examples": [
+      { "ja": "店を開業する。", "ko": "가게를 개업하다." }
+    ]
+  },
+  {
+    "word": "廃業",
+    "reading": "はいぎょう",
+    "meaning": "폐업",
+    "meaningDetail": "종료",
+    "category": "명사",
+    "examples": [
+      { "ja": "廃業を決める。", "ko": "폐업을 결정하다." }
+    ]
+  },
+  {
+    "word": "休業",
+    "reading": "きゅうぎょう",
+    "meaning": "휴업",
+    "meaningDetail": "쉼",
+    "category": "명사",
+    "examples": [
+      { "ja": "一時休業する。", "ko": "일시 휴업하다." }
+    ]
+  },
+  {
+    "word": "創業",
+    "reading": "そうぎょう",
+    "meaning": "창업",
+    "meaningDetail": "설립",
+    "category": "명사",
+    "examples": [
+      { "ja": "創業50周年を迎える。", "ko": "창업 50주년을 맞이하다." }
+    ]
+  },
+  {
+    "word": "起業",
+    "reading": "きぎょう",
+    "meaning": "기업",
+    "meaningDetail": "창업",
+    "category": "명사",
+    "examples": [
+      { "ja": "起業を目指す。", "ko": "창업을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "企業",
+    "reading": "きぎょう",
+    "meaning": "기업",
+    "meaningDetail": "회사",
+    "category": "명사",
+    "examples": [
+      { "ja": "大企業に就職する。", "ko": "대기업에 취직하다." }
+    ]
+  },
+  {
+    "word": "事業",
+    "reading": "じぎょう",
+    "meaning": "사업",
+    "meaningDetail": "비즈니스",
+    "category": "명사",
+    "examples": [
+      { "ja": "事業を展開する。", "ko": "사업을 전개하다." }
+    ]
+  },
+  {
+    "word": "産業",
+    "reading": "さんぎょう",
+    "meaning": "산업",
+    "meaningDetail": "업종",
+    "category": "명사",
+    "examples": [
+      { "ja": "産業が発展する。", "ko": "산업이 발전하다." }
+    ]
+  },
+  {
+    "word": "工業",
+    "reading": "こうぎょう",
+    "meaning": "공업",
+    "meaningDetail": "제조업",
+    "category": "명사",
+    "examples": [
+      { "ja": "工業地帯が広がる。", "ko": "공업 지대가 펼쳐지다." }
+    ]
+  },
+  {
+    "word": "農業",
+    "reading": "のうぎょう",
+    "meaning": "농업",
+    "meaningDetail": "농사",
+    "category": "명사",
+    "examples": [
+      { "ja": "農業に従事する。", "ko": "농업에 종사하다." }
+    ]
+  },
+  {
+    "word": "漁業",
+    "reading": "ぎょぎょう",
+    "meaning": "어업",
+    "meaningDetail": "수산업",
+    "category": "명사",
+    "examples": [
+      { "ja": "漁業を営む。", "ko": "어업을 하다." }
+    ]
+  },
+  {
+    "word": "林業",
+    "reading": "りんぎょう",
+    "meaning": "임업",
+    "meaningDetail": "산림업",
+    "category": "명사",
+    "examples": [
+      { "ja": "林業に携わる。", "ko": "임업에 종사하다." }
+    ]
+  },
+  {
+    "word": "鉱業",
+    "reading": "こうぎょう",
+    "meaning": "광업",
+    "meaningDetail": "채굴업",
+    "category": "명사",
+    "examples": [
+      { "ja": "鉱業が盛んだ。", "ko": "광업이 활발하다." }
+    ]
+  },
+  {
+    "word": "商業",
+    "reading": "しょうぎょう",
+    "meaning": "상업",
+    "meaningDetail": "장사",
+    "category": "명사",
+    "examples": [
+      { "ja": "商業施設が増える。", "ko": "상업 시설이 늘어나다." }
+    ]
+  },
+  {
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "meaning": "무역",
+    "meaningDetail": "교역",
+    "category": "명사",
+    "examples": [
+      { "ja": "貿易を促進する。", "ko": "무역을 촉진하다." }
+    ]
+  },
+  {
+    "word": "取引",
+    "reading": "とりひき",
+    "meaning": "거래",
+    "meaningDetail": "매매",
+    "category": "명사",
+    "examples": [
+      { "ja": "取引を成立させる。", "ko": "거래를 성립시키다." }
+    ]
+  },
+  {
+    "word": "売買",
+    "reading": "ばいばい",
+    "meaning": "매매",
+    "meaningDetail": "거래",
+    "category": "명사",
+    "examples": [
+      { "ja": "土地を売買する。", "ko": "토지를 매매하다." }
+    ]
+  }
+]

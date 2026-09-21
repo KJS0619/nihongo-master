@@ -1,0 +1,495 @@
+[
+  {
+    "word": "美しい",
+    "reading": "うつくしい",
+    "meaning": "아름답다",
+    "meaningDetail": "보기 좋다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "美しい景色だ。", "ko": "아름다운 경치다." }
+    ]
+  },
+  {
+    "word": "醜い",
+    "reading": "みにくい",
+    "meaning": "추하다, 보기 흉하다",
+    "meaningDetail": "외모가 좋지 않다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "醜いアヒルの子。", "ko": "미운 오리 새끼." }
+    ]
+  },
+  {
+    "word": "激しい",
+    "reading": "はげしい",
+    "meaning": "격렬하다, 심하다",
+    "meaningDetail": "정도가 심하다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "激しい雨が降る。", "ko": "심한 비가 내린다." }
+    ]
+  },
+  {
+    "word": "穏やか",
+    "reading": "おだやか",
+    "meaning": "온화하다, 평온하다",
+    "meaningDetail": "조용하고 평화롭다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "穏やかな性格だ。", "ko": "온화한 성격이다." }
+    ]
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meaning": "엄격하다, 힘들다",
+    "meaningDetail": "엄하다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "厳しい先生だ。", "ko": "엄격한 선생님이다." }
+    ]
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "meaning": "친절하다, 상냥하다",
+    "meaningDetail": "부드럽고 따뜻하다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "優しい人だ。", "ko": "친절한 사람이다." }
+    ]
+  },
+  {
+    "word": "賢い",
+    "reading": "かしこい",
+    "meaning": "현명하다, 똑똑하다",
+    "meaningDetail": "지혜롭다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "賢い選択だ。", "ko": "현명한 선택이다." }
+    ]
+  },
+  {
+    "word": "愚か",
+    "reading": "おろか",
+    "meaning": "어리석다",
+    "meaningDetail": "바보 같다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "愚かな行動だ。", "ko": "어리석은 행동이다." }
+    ]
+  },
+  {
+    "word": "正しい",
+    "reading": "ただしい",
+    "meaning": "올바르다, 정확하다",
+    "meaningDetail": "바르다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "正しい答えだ。", "ko": "올바른 답이다." }
+    ]
+  },
+  {
+    "word": "間違い",
+    "reading": "まちがい",
+    "meaning": "잘못, 틀림",
+    "meaningDetail": "오류",
+    "category": "명사",
+    "examples": [
+      { "ja": "間違いを直す。", "ko": "잘못을 고친다." }
+    ]
+  },
+  {
+    "word": "詳しい",
+    "reading": "くわしい",
+    "meaning": "자세하다, 정통하다",
+    "meaningDetail": "상세하다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "詳しく説明する。", "ko": "자세히 설명한다." }
+    ]
+  },
+  {
+    "word": "曖昧",
+    "reading": "あいまい",
+    "meaning": "애매하다, 모호하다",
+    "meaningDetail": "확실하지 않다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "曖昧な返事だ。", "ko": "애매한 대답이다." }
+    ]
+  },
+  {
+    "word": "明らか",
+    "reading": "あきらか",
+    "meaning": "분명하다, 명백하다",
+    "meaningDetail": "확실하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "明らかな事実だ。", "ko": "분명한 사실이다." }
+    ]
+  },
+  {
+    "word": "確実",
+    "reading": "かくじつ",
+    "meaning": "확실하다",
+    "meaningDetail": "틀림없다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "確実な情報だ。", "ko": "확실한 정보다." }
+    ]
+  },
+  {
+    "word": "適切",
+    "reading": "てきせつ",
+    "meaning": "적절하다",
+    "meaningDetail": "알맞다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "適切な対応だ。", "ko": "적절한 대응이다." }
+    ]
+  },
+  {
+    "word": "不適切",
+    "reading": "ふてきせつ",
+    "meaning": "부적절하다",
+    "meaningDetail": "알맞지 않다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "不適切な発言だ。", "ko": "부적절한 발언이다." }
+    ]
+  },
+  {
+    "word": "正確",
+    "reading": "せいかく",
+    "meaning": "정확하다",
+    "meaningDetail": "틀림이 없다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "正確な時間を知りたい。", "ko": "정확한 시간을 알고 싶다." }
+    ]
+  },
+  {
+    "word": "丁寧",
+    "reading": "ていねい",
+    "meaning": "정중하다, 친절하다",
+    "meaningDetail": "예의 바르다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "丁寧な言葉遣いだ。", "ko": "정중한 말투다." }
+    ]
+  },
+  {
+    "word": "乱暴",
+    "reading": "らんぼう",
+    "meaning": "난폭하다, 거칠다",
+    "meaningDetail": "행동이 거칠다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "乱暴な運転だ。", "ko": "난폭한 운전이다." }
+    ]
+  },
+  {
+    "word": "素直",
+    "reading": "すなお",
+    "meaning": "솔직하다, 순순히",
+    "meaningDetail": "성격이 바르다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "素直に謝る。", "ko": "솔직히 사과한다." }
+    ]
+  },
+  {
+    "word": "頑固",
+    "reading": "がんこ",
+    "meaning": "완고하다, 고집스럽다",
+    "meaningDetail": "융통성이 없다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "頑固な性格だ。", "ko": "완고한 성격이다." }
+    ]
+  },
+  {
+    "word": "勤勉",
+    "reading": "きんべん",
+    "meaning": "부지런하다, 근면하다",
+    "meaningDetail": "열심히 일하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "勤勉な学生だ。", "ko": "부지런한 학생이다." }
+    ]
+  },
+  {
+    "word": "怠惰",
+    "reading": "たいだ",
+    "meaning": "게으르다",
+    "meaningDetail": "나태하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "怠惰な生活をする。", "ko": "게으른 생활을 한다." }
+    ]
+  },
+  {
+    "word": "熱心",
+    "reading": "ねっしん",
+    "meaning": "열심이다, 열성적이다",
+    "meaningDetail": "열의가 있다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "熱心に勉強する。", "ko": "열심히 공부한다." }
+    ]
+  },
+  {
+    "word": "無関心",
+    "reading": "むかんしん",
+    "meaning": "무관심하다",
+    "meaningDetail": "관심이 없다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "政治に無関心だ。", "ko": "정치에 무관심하다." }
+    ]
+  },
+  {
+    "word": "誠実",
+    "reading": "せいじつ",
+    "meaning": "성실하다",
+    "meaningDetail": "진심으로 대하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "誠実な人だ。", "ko": "성실한 사람이다." }
+    ]
+  },
+  {
+    "word": "不誠実",
+    "reading": "ふせいじつ",
+    "meaning": "불성실하다",
+    "meaningDetail": "진심이 아니다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "不誠実な態度だ。", "ko": "불성실한 태도다." }
+    ]
+  },
+  {
+    "word": "巨大",
+    "reading": "きょだい",
+    "meaning": "거대하다",
+    "meaningDetail": "매우 크다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "巨大な建物だ。", "ko": "거대한 건물이다." }
+    ]
+  },
+  {
+    "word": "微小",
+    "reading": "びしょう",
+    "meaning": "미세하다, 아주 작다",
+    "meaningDetail": "매우 작다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "微小な粒子。", "ko": "미세한 입자." }
+    ]
+  },
+  {
+    "word": "豊富",
+    "reading": "ほうふ",
+    "meaning": "풍부하다",
+    "meaningDetail": "많고 넉넉하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "経験が豊富だ。", "ko": "경험이 풍부하다." }
+    ]
+  },
+  {
+    "word": "乏しい",
+    "reading": "とぼしい",
+    "meaning": "부족하다, 모자라다",
+    "meaningDetail": "없거나 적다",
+    "category": "형용사",
+    "adjectiveType": "い형용사",
+    "examples": [
+      { "ja": "資金が乏しい。", "ko": "자금이 부족하다." }
+    ]
+  },
+  {
+    "word": "貴重",
+    "reading": "きちょう",
+    "meaning": "귀중하다, 소중하다",
+    "meaningDetail": "가치가 높다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "貴重な経験だ。", "ko": "귀중한 경험이다." }
+    ]
+  },
+  {
+    "word": "稀",
+    "reading": "まれ",
+    "meaning": "드물다",
+    "meaningDetail": "흔하지 않다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "稀なケースだ。", "ko": "드문 경우다." }
+    ]
+  },
+  {
+    "word": "頻繁",
+    "reading": "ひんぱん",
+    "meaning": "빈번하다",
+    "meaningDetail": "자주 일어나다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "頻繁に連絡する。", "ko": "빈번하게 연락한다." }
+    ]
+  },
+  {
+    "word": "緊急",
+    "reading": "きんきゅう",
+    "meaning": "긴급하다",
+    "meaningDetail": "급하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "緊急事態だ。", "ko": "긴급 사태다." }
+    ]
+  },
+  {
+    "word": "重大",
+    "reading": "じゅうだい",
+    "meaning": "중대하다",
+    "meaningDetail": "매우 중요하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "重大な問題だ。", "ko": "중대한 문제다." }
+    ]
+  },
+  {
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaning": "심각하다",
+    "meaningDetail": "사태가 심하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "深刻な状況だ。", "ko": "심각한 상황이다." }
+    ]
+  },
+  {
+    "word": "軽微",
+    "reading": "けいび",
+    "meaning": "경미하다",
+    "meaningDetail": "가볍고 작다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "軽微な被害だ。", "ko": "경미한 피해다." }
+    ]
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "위험하다",
+    "meaningDetail": "해가 될 수 있다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "危険な場所だ。", "ko": "위험한 장소다." }
+    ]
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "안전하다",
+    "meaningDetail": "위험하지 않다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "安全な道を選ぶ。", "ko": "안전한 길을 선택한다." }
+    ]
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "건강하다",
+    "meaningDetail": "몸이 튼튼하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "健康な体を保つ。", "ko": "건강한 몸을 유지한다." }
+    ]
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병, 아프다",
+    "meaningDetail": "질병",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気になる。", "ko": "병에 걸린다." }
+    ]
+  },
+  {
+    "word": "新鮮",
+    "reading": "しんせん",
+    "meaning": "신선하다",
+    "meaningDetail": "싱싱하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "新鮮な野菜だ。", "ko": "신선한 야채다." }
+    ]
+  },
+  {
+    "word": "清潔",
+    "reading": "せいけつ",
+    "meaning": "청결하다",
+    "meaningDetail": "깨끗하다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "清潔な環境だ。", "ko": "청결한 환경이다." }
+    ]
+  },
+  {
+    "word": "不潔",
+    "reading": "ふけつ",
+    "meaning": "불결하다",
+    "meaningDetail": "더럽다",
+    "category": "형용사",
+    "adjectiveType": "な형용사",
+    "examples": [
+      { "ja": "不潔な状態だ。", "ko": "불결한 상태다." }
+    ]
+  }
+]

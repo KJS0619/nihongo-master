@@ -1,0 +1,578 @@
+[
+    {
+      "id": "n5_w026",
+      "word": "持つ",
+      "reading": "もつ",
+      "meaning": "가지다, 들다",
+      "meaningDetail": "손에 쥐다, 소유하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "かばんを持っています。", "reading": "かばんをもっています。", "ko": "가방을 들고 있습니다."},
+        {"ja": "ペンを持ってきてください。", "reading": "ペンをもってきてください。", "ko": "펜을 가져와 주세요."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "持ちます", "reading": "もちます"},
+        {"form": "て형", "value": "持って", "reading": "もって"},
+        {"form": "た형", "value": "持った", "reading": "もった"},
+        {"form": "ない형", "value": "持たない", "reading": "もたない"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "持", "reading": "も(つ)", "meaning": "가질 지"}],
+      "tags": ["기본동사", "1그룹"],
+      "frequency": 26
+    },
+    {
+      "id": "n5_w027",
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "만들다",
+      "meaningDetail": "재료를 가공하여 새로운 것을 만들다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "料理を作ります。", "reading": "りょうりをつくります。", "ko": "요리를 만듭니다."},
+        {"ja": "ケーキを作りました。", "reading": "ケーキをつくりました。", "ko": "케이크를 만들었습니다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "作ります", "reading": "つくります"},
+        {"form": "て형", "value": "作って", "reading": "つくって"},
+        {"form": "た형", "value": "作った", "reading": "つくった"},
+        {"form": "ない형", "value": "作らない", "reading": "つくらない"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "作", "reading": "つく(る)", "meaning": "지을 작"}],
+      "tags": ["기본동사", "1그룹", "생활"],
+      "frequency": 27
+    },
+    {
+      "id": "n5_w028",
+      "word": "立つ",
+      "reading": "たつ",
+      "meaning": "서다",
+      "meaningDetail": "일어서다, 서 있다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "ここに立ってください。", "reading": "ここにたってください。", "ko": "여기에 서 주세요."},
+        {"ja": "みんな立ちました。", "reading": "みんなたちました。", "ko": "모두 일어섰습니다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "立ちます", "reading": "たちます"},
+        {"form": "て형", "value": "立って", "reading": "たって"},
+        {"form": "た형", "value": "立った", "reading": "たった"},
+        {"form": "ない형", "value": "立たない", "reading": "たたない"}
+      ],
+      "relatedWords": [
+        {"word": "座る", "reading": "すわる", "meaning": "앉다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "立", "reading": "た(つ)", "meaning": "설 립"}],
+      "tags": ["기본동사", "1그룹", "동작"],
+      "frequency": 28
+    },
+    {
+      "id": "n5_w029",
+      "word": "座る",
+      "reading": "すわる",
+      "meaning": "앉다",
+      "meaningDetail": "의자나 바닥에 앉다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [0, 2, 0],
+      "examples": [
+        {"ja": "椅子に座ってください。", "reading": "いすにすわってください。", "ko": "의자에 앉아 주세요."},
+        {"ja": "ここに座りましょう。", "reading": "ここにすわりましょう。", "ko": "여기에 앉읍시다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "座ります", "reading": "すわります"},
+        {"form": "て형", "value": "座って", "reading": "すわって"},
+        {"form": "た형", "value": "座った", "reading": "すわった"},
+        {"form": "ない형", "value": "座らない", "reading": "すわらない"}
+      ],
+      "relatedWords": [
+        {"word": "立つ", "reading": "たつ", "meaning": "서다", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "座", "reading": "すわ(る)", "meaning": "앉을 좌"}],
+      "tags": ["기본동사", "1그룹", "동작"],
+      "frequency": 29
+    },
+    {
+      "id": "n5_w030",
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "걷다",
+      "meaningDetail": "발로 걸어서 이동하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "駅まで歩きます。", "reading": "えきまであるきます。", "ko": "역까지 걸어갑니다."},
+        {"ja": "毎日30分歩いています。", "reading": "まいにちさんじゅっぷんあるいています。", "ko": "매일 30분 걷고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "歩きます", "reading": "あるきます"},
+        {"form": "て형", "value": "歩いて", "reading": "あるいて"},
+        {"form": "た형", "value": "歩いた", "reading": "あるいた"},
+        {"form": "ない형", "value": "歩かない", "reading": "あるかない"}
+      ],
+      "relatedWords": [
+        {"word": "走る", "reading": "はしる", "meaning": "달리다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "歩", "reading": "ある(く)", "meaning": "걸을 보"}],
+      "tags": ["기본동사", "1그룹", "이동"],
+      "frequency": 30
+    },
+    {
+      "id": "n5_w031",
+      "word": "走る",
+      "reading": "はしる",
+      "meaning": "달리다, 뛰다",
+      "meaningDetail": "빠르게 발을 움직여 이동하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "公園で走ります。", "reading": "こうえんではしります。", "ko": "공원에서 달립니다."},
+        {"ja": "電車が走っています。", "reading": "でんしゃがはしっています。", "ko": "전철이 달리고 있습니다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "走ります", "reading": "はしります"},
+        {"form": "て형", "value": "走って", "reading": "はしって"},
+        {"form": "た형", "value": "走った", "reading": "はしった"},
+        {"form": "ない형", "value": "走らない", "reading": "はしらない"}
+      ],
+      "relatedWords": [
+        {"word": "歩く", "reading": "あるく", "meaning": "걷다", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "走", "reading": "はし(る)", "meaning": "달릴 주"}],
+      "tags": ["기본동사", "1그룹", "이동"],
+      "frequency": 31
+    },
+    {
+      "id": "n5_w032",
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "수영하다",
+      "meaningDetail": "물속에서 헤엄치다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "プールで泳ぎます。", "reading": "プールでおよぎます。", "ko": "수영장에서 수영합니다."},
+        {"ja": "海で泳ぎたいです。", "reading": "うみでおよぎたいです。", "ko": "바다에서 수영하고 싶어요."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "泳ぎます", "reading": "およぎます"},
+        {"form": "て형", "value": "泳いで", "reading": "およいで"},
+        {"form": "た형", "value": "泳いだ", "reading": "およいだ"},
+        {"form": "ない형", "value": "泳がない", "reading": "およがない"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "泳", "reading": "およ(ぐ)", "meaning": "헤엄칠 영"}],
+      "tags": ["기본동사", "1그룹", "스포츠"],
+      "frequency": 32
+    },
+    {
+      "id": "n5_w033",
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "놀다",
+      "meaningDetail": "즐겁게 시간을 보내다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [0, 2, 0],
+      "examples": [
+        {"ja": "友達と遊びます。", "reading": "ともだちとあそびます。", "ko": "친구와 놉니다."},
+        {"ja": "公園で遊びましょう。", "reading": "こうえんであそびましょう。", "ko": "공원에서 놉시다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "遊びます", "reading": "あそびます"},
+        {"form": "て형", "value": "遊んで", "reading": "あそんで"},
+        {"form": "た형", "value": "遊んだ", "reading": "あそんだ"},
+        {"form": "ない형", "value": "遊ばない", "reading": "あそばない"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "遊", "reading": "あそ(ぶ)", "meaning": "놀 유"}],
+      "tags": ["기본동사", "1그룹", "여가"],
+      "frequency": 33
+    },
+    {
+      "id": "n5_w034",
+      "word": "働く",
+      "reading": "はたらく",
+      "meaning": "일하다",
+      "meaningDetail": "직업적으로 일을 하다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [0, 3, 0, 0],
+      "examples": [
+        {"ja": "会社で働いています。", "reading": "かいしゃではたらいています。", "ko": "회사에서 일하고 있습니다."},
+        {"ja": "毎日8時間働きます。", "reading": "まいにちはちじかんはたらきます。", "ko": "매일 8시간 일합니다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "働きます", "reading": "はたらきます"},
+        {"form": "て형", "value": "働いて", "reading": "はたらいて"},
+        {"form": "た형", "value": "働いた", "reading": "はたらいた"},
+        {"form": "ない형", "value": "働かない", "reading": "はたらかない"}
+      ],
+      "relatedWords": [
+        {"word": "仕事", "reading": "しごと", "meaning": "일", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "働", "reading": "はたら(く)", "meaning": "일할 동"}],
+      "tags": ["기본동사", "1그룹", "직장"],
+      "frequency": 34
+    },
+    {
+      "id": "n5_w035",
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "쉬다, 결석하다",
+      "meaningDetail": "휴식을 취하다, 출석하지 않다",
+      "jlpt": "N5",
+      "category": "동사",
+      "verbType": "1그룹",
+      "pitch": [2, 0, 0],
+      "examples": [
+        {"ja": "今日は休みます。", "reading": "きょうはやすみます。", "ko": "오늘은 쉽니다."},
+        {"ja": "ちょっと休みましょう。", "reading": "ちょっとやすみましょう。", "ko": "잠깐 쉽시다."}
+      ],
+      "conjugations": [
+        {"form": "ます형", "value": "休みます", "reading": "やすみます"},
+        {"form": "て형", "value": "休んで", "reading": "やすんで"},
+        {"form": "た형", "value": "休んだ", "reading": "やすんだ"},
+        {"form": "ない형", "value": "休まない", "reading": "やすまない"}
+      ],
+      "relatedWords": [
+        {"word": "休み", "reading": "やすみ", "meaning": "휴일", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "休", "reading": "やす(む)", "meaning": "쉴 휴"}],
+      "tags": ["기본동사", "1그룹", "일상"],
+      "frequency": 35
+    },
+    {
+      "id": "n5_w036",
+      "word": "私",
+      "reading": "わたし",
+      "meaning": "나, 저",
+      "meaningDetail": "자기 자신을 가리키는 1인칭 대명사",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "私は学生です。", "reading": "わたしはがくせいです。", "ko": "저는 학생입니다."},
+        {"ja": "私の名前は田中です。", "reading": "わたしのなまえはたなかです。", "ko": "제 이름은 다나카입니다."}
+      ],
+      "relatedWords": [
+        {"word": "僕", "reading": "ぼく", "meaning": "나 (남성)", "relation": "유의어"}
+      ],
+      "kanji": [{"char": "私", "reading": "わたし", "meaning": "사사로울 사"}],
+      "tags": ["기본명사", "인칭"],
+      "frequency": 36
+    },
+    {
+      "id": "n5_w037",
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "사람",
+      "meaningDetail": "인간",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0],
+      "examples": [
+        {"ja": "あの人は誰ですか。", "reading": "あのひとはだれですか。", "ko": "저 사람은 누구예요?"},
+        {"ja": "たくさんの人がいます。", "reading": "たくさんのひとがいます。", "ko": "많은 사람이 있습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "人", "reading": "ひと", "meaning": "사람 인"}],
+      "tags": ["기본명사", "인물"],
+      "frequency": 37
+    },
+    {
+      "id": "n5_w038",
+      "word": "男",
+      "reading": "おとこ",
+      "meaning": "남자",
+      "meaningDetail": "남성",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0],
+      "examples": [
+        {"ja": "あの男の人は先生です。", "reading": "あのおとこのひとはせんせいです。", "ko": "저 남자분은 선생님입니다."},
+        {"ja": "男の子がいます。", "reading": "おとこのこがいます。", "ko": "남자아이가 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "女", "reading": "おんな", "meaning": "여자", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "男", "reading": "おとこ", "meaning": "남자 남"}],
+      "tags": ["기본명사", "인물"],
+      "frequency": 38
+    },
+    {
+      "id": "n5_w039",
+      "word": "女",
+      "reading": "おんな",
+      "meaning": "여자",
+      "meaningDetail": "여성",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0],
+      "examples": [
+        {"ja": "あの女の人は医者です。", "reading": "あのおんなのひとはいしゃです。", "ko": "저 여자분은 의사입니다."},
+        {"ja": "女の子が走っています。", "reading": "おんなのこがはしっています。", "ko": "여자아이가 달리고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "男", "reading": "おとこ", "meaning": "남자", "relation": "반의어"}
+      ],
+      "kanji": [{"char": "女", "reading": "おんな", "meaning": "여자 녀"}],
+      "tags": ["기본명사", "인물"],
+      "frequency": 39
+    },
+    {
+      "id": "n5_w040",
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "아이, 어린이",
+      "meaningDetail": "어린 사람",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0],
+      "examples": [
+        {"ja": "子供が遊んでいます。", "reading": "こどもがあそんでいます。", "ko": "아이가 놀고 있습니다."},
+        {"ja": "子供は何人いますか。", "reading": "こどもはなんにんいますか。", "ko": "아이는 몇 명 있어요?"}
+      ],
+      "relatedWords": [
+        {"word": "大人", "reading": "おとな", "meaning": "어른", "relation": "반의어"}
+      ],
+      "kanji": [
+        {"char": "子", "reading": "こ", "meaning": "아이 자"},
+        {"char": "供", "reading": "ども", "meaning": "함께 공"}
+      ],
+      "tags": ["기본명사", "인물", "가족"],
+      "frequency": 40
+    },
+    {
+      "id": "n5_w041",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "친구",
+      "meaningDetail": "서로 친하게 사귀는 사람",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "友達と映画を見ます。", "reading": "ともだちとえいがをみます。", "ko": "친구와 영화를 봅니다."},
+        {"ja": "新しい友達ができました。", "reading": "あたらしいともだちができました。", "ko": "새로운 친구가 생겼습니다."}
+      ],
+      "relatedWords": [],
+      "kanji": [
+        {"char": "友", "reading": "とも", "meaning": "벗 우"},
+        {"char": "達", "reading": "だち", "meaning": "이를 달"}
+      ],
+      "tags": ["기본명사", "인간관계"],
+      "frequency": 41
+    },
+    {
+      "id": "n5_w042",
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "선생님",
+      "meaningDetail": "학교에서 가르치는 사람",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0, 0],
+      "examples": [
+        {"ja": "先生に質問します。", "reading": "せんせいにしつもんします。", "ko": "선생님께 질문합니다."},
+        {"ja": "田中先生は優しいです。", "reading": "たなかせんせいはやさしいです。", "ko": "다나카 선생님은 친절합니다."}
+      ],
+      "relatedWords": [
+        {"word": "学生", "reading": "がくせい", "meaning": "학생", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "先", "reading": "せん", "meaning": "먼저 선"},
+        {"char": "生", "reading": "せい", "meaning": "날 생"}
+      ],
+      "tags": ["기본명사", "직업", "학교"],
+      "frequency": 42
+    },
+    {
+      "id": "n5_w043",
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "학생",
+      "meaningDetail": "학교에서 배우는 사람",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "私は大学生です。", "reading": "わたしはだいがくせいです。", "ko": "저는 대학생입니다."},
+        {"ja": "学生は勉強します。", "reading": "がくせいはべんきょうします。", "ko": "학생은 공부합니다."}
+      ],
+      "relatedWords": [
+        {"word": "先生", "reading": "せんせい", "meaning": "선생님", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "学", "reading": "がく", "meaning": "배울 학"},
+        {"char": "生", "reading": "せい", "meaning": "날 생"}
+      ],
+      "tags": ["기본명사", "학교"],
+      "frequency": 43
+    },
+    {
+      "id": "n5_w044",
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "회사",
+      "meaningDetail": "사업을 하는 조직체",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "会社に行きます。", "reading": "かいしゃにいきます。", "ko": "회사에 갑니다."},
+        {"ja": "この会社で働いています。", "reading": "このかいしゃではたらいています。", "ko": "이 회사에서 일하고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "会社員", "reading": "かいしゃいん", "meaning": "회사원", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "会", "reading": "かい", "meaning": "모일 회"},
+        {"char": "社", "reading": "しゃ", "meaning": "모임 사"}
+      ],
+      "tags": ["기본명사", "직장"],
+      "frequency": 44
+    },
+    {
+      "id": "n5_w045",
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "학교",
+      "meaningDetail": "교육을 하는 기관",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "学校で勉強します。", "reading": "がっこうでべんきょうします。", "ko": "학교에서 공부합니다."},
+        {"ja": "学校は何時に始まりますか。", "reading": "がっこうはなんじにはじまりますか。", "ko": "학교는 몇 시에 시작해요?"}
+      ],
+      "relatedWords": [],
+      "kanji": [
+        {"char": "学", "reading": "がっ", "meaning": "배울 학"},
+        {"char": "校", "reading": "こう", "meaning": "학교 교"}
+      ],
+      "tags": ["기본명사", "학교", "장소"],
+      "frequency": 45
+    },
+    {
+      "id": "n5_w046",
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "집",
+      "meaningDetail": "사람이 사는 건물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "家に帰ります。", "reading": "いえにかえります。", "ko": "집에 돌아갑니다."},
+        {"ja": "家で休みます。", "reading": "いえでやすみます。", "ko": "집에서 쉽니다."}
+      ],
+      "relatedWords": [
+        {"word": "うち", "reading": "うち", "meaning": "집, 우리집", "relation": "유의어"}
+      ],
+      "kanji": [{"char": "家", "reading": "いえ", "meaning": "집 가"}],
+      "tags": ["기본명사", "장소", "주거"],
+      "frequency": 46
+    },
+    {
+      "id": "n5_w047",
+      "word": "部屋",
+      "reading": "へや",
+      "meaning": "방",
+      "meaningDetail": "건물 안의 공간",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 2],
+      "examples": [
+        {"ja": "部屋を掃除します。", "reading": "へやをそうじします。", "ko": "방을 청소합니다."},
+        {"ja": "この部屋は広いですね。", "reading": "このへやはひろいですね。", "ko": "이 방은 넓네요."}
+      ],
+      "relatedWords": [],
+      "kanji": [
+        {"char": "部", "reading": "へ", "meaning": "나눌 부"},
+        {"char": "屋", "reading": "や", "meaning": "집 옥"}
+      ],
+      "tags": ["기본명사", "장소", "주거"],
+      "frequency": 47
+    },
+    {
+      "id": "n5_w048",
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "역",
+      "meaningDetail": "기차나 전철이 서는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "駅まで歩きます。", "reading": "えきまであるきます。", "ko": "역까지 걸어갑니다."},
+        {"ja": "駅の近くに住んでいます。", "reading": "えきのちかくにすんでいます。", "ko": "역 근처에 살고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "電車", "reading": "でんしゃ", "meaning": "전철", "relation": "관련어"}
+      ],
+      "kanji": [{"char": "駅", "reading": "えき", "meaning": "역 역"}],
+      "tags": ["기본명사", "장소", "교통"],
+      "frequency": 48
+    },
+    {
+      "id": "n5_w049",
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "병원",
+      "meaningDetail": "병을 치료하는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0],
+      "examples": [
+        {"ja": "病院に行きます。", "reading": "びょういんにいきます。", "ko": "병원에 갑니다."},
+        {"ja": "病院で働いています。", "reading": "びょういんではたらいています。", "ko": "병원에서 일하고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "医者", "reading": "いしゃ", "meaning": "의사", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "病", "reading": "びょう", "meaning": "병 병"},
+        {"char": "院", "reading": "いん", "meaning": "집 원"}
+      ],
+      "tags": ["기본명사", "장소", "건강"],
+      "frequency": 49
+    },
+    {
+      "id": "n5_w050",
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "가게",
+      "meaningDetail": "물건을 파는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "あの店で買いました。", "reading": "あのみせでかいました。", "ko": "저 가게에서 샀습니다."},
+        {"ja": "店は何時に開きますか。", "reading": "みせはなんじにあきますか。", "ko": "가게는 몇 시에 열어요?"}
+      ],
+      "relatedWords": [],
+      "kanji": [{"char": "店", "reading": "みせ", "meaning": "가게 점"}],
+      "tags": ["기본명사", "장소", "쇼핑"],
+      "frequency": 50
+    }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "word": "逮捕する",
+    "reading": "たいほする",
+    "meaning": "체포하다",
+    "meaningDetail": "구속하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "容疑者を逮捕する。", "ko": "용의자를 체포하다." }
+    ]
+  },
+  {
+    "word": "釈放する",
+    "reading": "しゃくほうする",
+    "meaning": "석방하다",
+    "meaningDetail": "풀어주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "囚人を釈放する。", "ko": "죄수를 석방하다." }
+    ]
+  },
+  {
+    "word": "告訴する",
+    "reading": "こくそする",
+    "meaning": "고소하다",
+    "meaningDetail": "소송하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "犯人を告訴する。", "ko": "범인을 고소하다." }
+    ]
+  },
+  {
+    "word": "訴える",
+    "reading": "うったえる",
+    "meaning": "호소하다",
+    "meaningDetail": "고소하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "裁判所に訴える。", "ko": "법원에 호소하다." }
+    ]
+  },
+  {
+    "word": "裁く",
+    "reading": "さばく",
+    "meaning": "재판하다",
+    "meaningDetail": "심판하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "罪を裁く。", "ko": "죄를 재판하다." }
+    ]
+  },
+  {
+    "word": "処罰する",
+    "reading": "しょばつする",
+    "meaning": "처벌하다",
+    "meaningDetail": "벌하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "違反者を処罰する。", "ko": "위반자를 처벌하다." }
+    ]
+  },
+  {
+    "word": "罰する",
+    "reading": "ばっする",
+    "meaning": "벌하다",
+    "meaningDetail": "처벌하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "法律で罰する。", "ko": "법률로 벌하다." }
+    ]
+  },
+  {
+    "word": "違反する",
+    "reading": "いはんする",
+    "meaning": "위반하다",
+    "meaningDetail": "어기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "規則に違反する。", "ko": "규칙을 위반하다." }
+    ]
+  },
+  {
+    "word": "犯す",
+    "reading": "おかす",
+    "meaning": "범하다",
+    "meaningDetail": "저지르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "罪を犯す。", "ko": "죄를 범하다." }
+    ]
+  },
+  {
+    "word": "盗む",
+    "reading": "ぬすむ",
+    "meaning": "훔치다",
+    "meaningDetail": "도둑질하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "財布を盗む。", "ko": "지갑을 훔치다." }
+    ]
+  },
+  {
+    "word": "騙す",
+    "reading": "だます",
+    "meaning": "속이다",
+    "meaningDetail": "기만하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人を騙す。", "ko": "사람을 속이다." }
+    ]
+  },
+  {
+    "word": "詐欺る",
+    "reading": "さぎる",
+    "meaning": "사기치다",
+    "meaningDetail": "속이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "高齢者を詐欺る。", "ko": "고령자에게 사기치다." }
+    ]
+  },
+  {
+    "word": "脅す",
+    "reading": "おどす",
+    "meaning": "협박하다",
+    "meaningDetail": "위협하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "金を脅す。", "ko": "돈을 협박하다." }
+    ]
+  },
+  {
+    "word": "脅かす",
+    "reading": "おびやかす",
+    "meaning": "위협하다",
+    "meaningDetail": "협박하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "安全を脅かす。", "ko": "안전을 위협하다." }
+    ]
+  },
+  {
+    "word": "襲う",
+    "reading": "おそう",
+    "meaning": "습격하다",
+    "meaningDetail": "공격하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵が襲う。", "ko": "적이 습격하다." }
+    ]
+  },
+  {
+    "word": "攻撃する",
+    "reading": "こうげきする",
+    "meaning": "공격하다",
+    "meaningDetail": "습격하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "敵を攻撃する。", "ko": "적을 공격하다." }
+    ]
+  },
+  {
+    "word": "防御する",
+    "reading": "ぼうぎょする",
+    "meaning": "방어하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "攻撃を防御する。", "ko": "공격을 방어하다." }
+    ]
+  },
+  {
+    "word": "戦う",
+    "reading": "たたかう",
+    "meaning": "싸우다",
+    "meaningDetail": "전투하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵と戦う。", "ko": "적과 싸우다." }
+    ]
+  },
+  {
+    "word": "争う",
+    "reading": "あらそう",
+    "meaning": "다투다",
+    "meaningDetail": "싸우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "地位を争う。", "ko": "지위를 다투다." }
+    ]
+  },
+  {
+    "word": "競う",
+    "reading": "きそう",
+    "meaning": "겨루다",
+    "meaningDetail": "경쟁하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "速さを競う。", "ko": "속도를 겨루다." }
+    ]
+  },
+  {
+    "word": "競争する",
+    "reading": "きょうそうする",
+    "meaning": "경쟁하다",
+    "meaningDetail": "겨루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ライバルと競争する。", "ko": "라이벌과 경쟁하다." }
+    ]
+  },
+  {
+    "word": "勝負する",
+    "reading": "しょうぶする",
+    "meaning": "승부하다",
+    "meaningDetail": "겨루다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "真剣に勝負する。", "ko": "진지하게 승부하다." }
+    ]
+  },
+  {
+    "word": "勝つ",
+    "reading": "かつ",
+    "meaning": "이기다",
+    "meaningDetail": "승리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "試合に勝つ。", "ko": "시합에 이기다." }
+    ]
+  },
+  {
+    "word": "負ける",
+    "reading": "まける",
+    "meaning": "지다",
+    "meaningDetail": "패배하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "試合に負ける。", "ko": "시합에 지다." }
+    ]
+  },
+  {
+    "word": "敗北する",
+    "reading": "はいぼくする",
+    "meaning": "패배하다",
+    "meaningDetail": "지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "戦争に敗北する。", "ko": "전쟁에 패배하다." }
+    ]
+  },
+  {
+    "word": "勝利する",
+    "reading": "しょうりする",
+    "meaning": "승리하다",
+    "meaningDetail": "이기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "選挙に勝利する。", "ko": "선거에 승리하다." }
+    ]
+  },
+  {
+    "word": "優勝する",
+    "reading": "ゆうしょうする",
+    "meaning": "우승하다",
+    "meaningDetail": "1등하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "大会で優勝する。", "ko": "대회에서 우승하다." }
+    ]
+  },
+  {
+    "word": "準優勝する",
+    "reading": "じゅんゆうしょうする",
+    "meaning": "준우승하다",
+    "meaningDetail": "2등하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "惜しくも準優勝する。", "ko": "아쉽게 준우승하다." }
+    ]
+  },
+  {
+    "word": "挑戦する",
+    "reading": "ちょうせんする",
+    "meaning": "도전하다",
+    "meaningDetail": "시도하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新しいことに挑戦する。", "ko": "새로운 것에 도전하다." }
+    ]
+  },
+  {
+    "word": "挑む",
+    "reading": "いどむ",
+    "meaning": "도전하다",
+    "meaningDetail": "맞서다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "困難に挑む。", "ko": "곤란에 도전하다." }
+    ]
+  },
+  {
+    "word": "立ち向かう",
+    "reading": "たちむかう",
+    "meaning": "맞서다",
+    "meaningDetail": "대항하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "逆境に立ち向かう。", "ko": "역경에 맞서다." }
+    ]
+  },
+  {
+    "word": "乗り越える",
+    "reading": "のりこえる",
+    "meaning": "극복하다",
+    "meaningDetail": "넘어서다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "困難を乗り越える。", "ko": "곤란을 극복하다." }
+    ]
+  },
+  {
+    "word": "打ち勝つ",
+    "reading": "うちかつ",
+    "meaning": "이겨내다",
+    "meaningDetail": "극복하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "誘惑に打ち勝つ。", "ko": "유혹을 이겨내다." }
+    ]
+  },
+  {
+    "word": "打ち負かす",
+    "reading": "うちまかす",
+    "meaning": "격파하다",
+    "meaningDetail": "이기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "相手を打ち負かす。", "ko": "상대를 격파하다." }
+    ]
+  },
+  {
+    "word": "征服する",
+    "reading": "せいふくする",
+    "meaning": "정복하다",
+    "meaningDetail": "지배하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "山を征服する。", "ko": "산을 정복하다." }
+    ]
+  },
+  {
+    "word": "制覇する",
+    "reading": "せいはする",
+    "meaning": "제패하다",
+    "meaningDetail": "정복하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "リーグを制覇する。", "ko": "리그를 제패하다." }
+    ]
+  },
+  {
+    "word": "打倒する",
+    "reading": "だとうする",
+    "meaning": "타도하다",
+    "meaningDetail": "무너뜨리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "政権を打倒する。", "ko": "정권을 타도하다." }
+    ]
+  },
+  {
+    "word": "降伏する",
+    "reading": "こうふくする",
+    "meaning": "항복하다",
+    "meaningDetail": "굴복하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "敵に降伏する。", "ko": "적에게 항복하다." }
+    ]
+  },
+  {
+    "word": "降参する",
+    "reading": "こうさんする",
+    "meaning": "항복하다",
+    "meaningDetail": "포기하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "もう降参する。", "ko": "이제 항복하다." }
+    ]
+  },
+  {
+    "word": "屈服する",
+    "reading": "くっぷくする",
+    "meaning": "굴복하다",
+    "meaningDetail": "항복하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "圧力に屈服する。", "ko": "압력에 굴복하다." }
+    ]
+  },
+  {
+    "word": "和解する",
+    "reading": "わかいする",
+    "meaning": "화해하다",
+    "meaningDetail": "타협하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "敵と和解する。", "ko": "적과 화해하다." }
+    ]
+  },
+  {
+    "word": "仲直りする",
+    "reading": "なかなおりする",
+    "meaning": "화해하다",
+    "meaningDetail": "사이좋게 지내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "友達と仲直りする。", "ko": "친구와 화해하다." }
+    ]
+  },
+  {
+    "word": "休戦する",
+    "reading": "きゅうせんする",
+    "meaning": "휴전하다",
+    "meaningDetail": "전투 중지하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "両国が休戦する。", "ko": "양국이 휴전하다." }
+    ]
+  },
+  {
+    "word": "停戦する",
+    "reading": "ていせんする",
+    "meaning": "정전하다",
+    "meaningDetail": "휴전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "停戦協定を結ぶ。", "ko": "정전 협정을 맺다." }
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "事項",
+    "reading": "じこう",
+    "meaning": "사항",
+    "meaningDetail": "항목",
+    "category": "명사",
+    "examples": [
+      { "ja": "注意事項を確認する。", "ko": "주의사항을 확인하다." }
+    ]
+  },
+  {
+    "word": "項目",
+    "reading": "こうもく",
+    "meaning": "항목",
+    "meaningDetail": "조목",
+    "category": "명사",
+    "examples": [
+      { "ja": "項目を追加する。", "ko": "항목을 추가하다." }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "요건",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족하다." }
+    ]
+  },
+  {
+    "word": "要件",
+    "reading": "ようけん",
+    "meaning": "요건",
+    "meaningDetail": "조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "要件を確認する。", "ko": "요건을 확인하다." }
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "基準を設ける。", "ko": "기준을 마련하다." }
+    ]
+  },
+  {
+    "word": "標準",
+    "reading": "ひょうじゅん",
+    "meaning": "표준",
+    "meaningDetail": "기준",
+    "category": "명사",
+    "examples": [
+      { "ja": "標準を定める。", "ko": "표준을 정하다." }
+    ]
+  },
+  {
+    "word": "規格",
+    "reading": "きかく",
+    "meaning": "규격",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "規格を統一する。", "ko": "규격을 통일하다." }
+    ]
+  },
+  {
+    "word": "仕様",
+    "reading": "しよう",
+    "meaning": "사양",
+    "meaningDetail": "규격",
+    "category": "명사",
+    "examples": [
+      { "ja": "仕様を決める。", "ko": "사양을 정하다." }
+    ]
+  },
+  {
+    "word": "設計",
+    "reading": "せっけい",
+    "meaning": "설계",
+    "meaningDetail": "디자인",
+    "category": "명사",
+    "examples": [
+      { "ja": "設計を担当する。", "ko": "설계를 담당하다." }
+    ]
+  },
+  {
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "구조",
+    "meaningDetail": "짜임새",
+    "category": "명사",
+    "examples": [
+      { "ja": "構造を分析する。", "ko": "구조를 분석하다." }
+    ]
+  },
+  {
+    "word": "構成",
+    "reading": "こうせい",
+    "meaning": "구성",
+    "meaningDetail": "짜임",
+    "category": "명사",
+    "examples": [
+      { "ja": "構成を考える。", "ko": "구성을 생각하다." }
+    ]
+  },
+  {
+    "word": "組織",
+    "reading": "そしき",
+    "meaning": "조직",
+    "meaningDetail": "단체",
+    "category": "명사",
+    "examples": [
+      { "ja": "組織を作る。", "ko": "조직을 만들다." }
+    ]
+  },
+  {
+    "word": "組合",
+    "reading": "くみあい",
+    "meaning": "조합",
+    "meaningDetail": "단체",
+    "category": "명사",
+    "examples": [
+      { "ja": "組合に加入する。", "ko": "조합에 가입하다." }
+    ]
+  },
+  {
+    "word": "団体",
+    "reading": "だんたい",
+    "meaning": "단체",
+    "meaningDetail": "그룹",
+    "category": "명사",
+    "examples": [
+      { "ja": "団体で行動する。", "ko": "단체로 행동하다." }
+    ]
+  },
+  {
+    "word": "機関",
+    "reading": "きかん",
+    "meaning": "기관",
+    "meaningDetail": "기구",
+    "category": "명사",
+    "examples": [
+      { "ja": "機関を設置する。", "ko": "기관을 설치하다." }
+    ]
+  },
+  {
+    "word": "機構",
+    "reading": "きこう",
+    "meaning": "기구",
+    "meaningDetail": "조직",
+    "category": "명사",
+    "examples": [
+      { "ja": "機構を改革する。", "ko": "기구를 개혁하다." }
+    ]
+  },
+  {
+    "word": "部門",
+    "reading": "ぶもん",
+    "meaning": "부문",
+    "meaningDetail": "영역",
+    "category": "명사",
+    "examples": [
+      { "ja": "部門を担当する。", "ko": "부문을 담당하다." }
+    ]
+  },
+  {
+    "word": "部署",
+    "reading": "ぶしょ",
+    "meaning": "부서",
+    "meaningDetail": "부문",
+    "category": "명사",
+    "examples": [
+      { "ja": "部署を異動する。", "ko": "부서를 이동하다." }
+    ]
+  },
+  {
+    "word": "部隊",
+    "reading": "ぶたい",
+    "meaning": "부대",
+    "meaningDetail": "군대",
+    "category": "명사",
+    "examples": [
+      { "ja": "部隊を派遣する。", "ko": "부대를 파견하다." }
+    ]
+  },
+  {
+    "word": "本部",
+    "reading": "ほんぶ",
+    "meaning": "본부",
+    "meaningDetail": "본청",
+    "category": "명사",
+    "examples": [
+      { "ja": "本部に連絡する。", "ko": "본부에 연락하다." }
+    ]
+  },
+  {
+    "word": "支部",
+    "reading": "しぶ",
+    "meaning": "지부",
+    "meaningDetail": "지점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支部を設置する。", "ko": "지부를 설치하다." }
+    ]
+  },
+  {
+    "word": "本社",
+    "reading": "ほんしゃ",
+    "meaning": "본사",
+    "meaningDetail": "본점",
+    "category": "명사",
+    "examples": [
+      { "ja": "本社に出張する。", "ko": "본사에 출장가다." }
+    ]
+  },
+  {
+    "word": "支社",
+    "reading": "ししゃ",
+    "meaning": "지사",
+    "meaningDetail": "지점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支社を設立する。", "ko": "지사를 설립하다." }
+    ]
+  },
+  {
+    "word": "本店",
+    "reading": "ほんてん",
+    "meaning": "본점",
+    "meaningDetail": "본사",
+    "category": "명사",
+    "examples": [
+      { "ja": "本店で働く。", "ko": "본점에서 일하다." }
+    ]
+  },
+  {
+    "word": "支店",
+    "reading": "してん",
+    "meaning": "지점",
+    "meaningDetail": "분점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支店を開設する。", "ko": "지점을 개설하다." }
+    ]
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "공장",
+    "meaningDetail": "제조소",
+    "category": "명사",
+    "examples": [
+      { "ja": "工場を見学する。", "ko": "공장을 견학하다." }
+    ]
+  },
+  {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaning": "창고",
+    "meaningDetail": "저장소",
+    "category": "명사",
+    "examples": [
+      { "ja": "倉庫に保管する。", "ko": "창고에 보관하다." }
+    ]
+  },
+  {
+    "word": "施設",
+    "reading": "しせつ",
+    "meaning": "시설",
+    "meaningDetail": "설비",
+    "category": "명사",
+    "examples": [
+      { "ja": "施設を利用する。", "ko": "시설을 이용하다." }
+    ]
+  },
+  {
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "설비",
+    "meaningDetail": "시설",
+    "category": "명사",
+    "examples": [
+      { "ja": "設備を整える。", "ko": "설비를 갖추다." }
+    ]
+  },
+  {
+    "word": "装置",
+    "reading": "そうち",
+    "meaning": "장치",
+    "meaningDetail": "기기",
+    "category": "명사",
+    "examples": [
+      { "ja": "装置を設置する。", "ko": "장치를 설치하다." }
+    ]
+  },
+  {
+    "word": "機器",
+    "reading": "きき",
+    "meaning": "기기",
+    "meaningDetail": "기계",
+    "category": "명사",
+    "examples": [
+      { "ja": "機器を操作する。", "ko": "기기를 조작하다." }
+    ]
+  },
+  {
+    "word": "機械",
+    "reading": "きかい",
+    "meaning": "기계",
+    "meaningDetail": "기기",
+    "category": "명사",
+    "examples": [
+      { "ja": "機械を動かす。", "ko": "기계를 움직이다." }
+    ]
+  },
+  {
+    "word": "器具",
+    "reading": "きぐ",
+    "meaning": "기구",
+    "meaningDetail": "도구",
+    "category": "명사",
+    "examples": [
+      { "ja": "器具を使う。", "ko": "기구를 사용하다." }
+    ]
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "도구",
+    "meaningDetail": "연장",
+    "category": "명사",
+    "examples": [
+      { "ja": "道具を揃える。", "ko": "도구를 갖추다." }
+    ]
+  },
+  {
+    "word": "用具",
+    "reading": "ようぐ",
+    "meaning": "용구",
+    "meaningDetail": "도구",
+    "category": "명사",
+    "examples": [
+      { "ja": "用具を準備する。", "ko": "용구를 준비하다." }
+    ]
+  },
+  {
+    "word": "部品",
+    "reading": "ぶひん",
+    "meaning": "부품",
+    "meaningDetail": "파트",
+    "category": "명사",
+    "examples": [
+      { "ja": "部品を交換する。", "ko": "부품을 교환하다." }
+    ]
+  },
+  {
+    "word": "素材",
+    "reading": "そざい",
+    "meaning": "소재",
+    "meaningDetail": "재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "素材を選ぶ。", "ko": "소재를 고르다." }
+    ]
+  },
+  {
+    "word": "成分",
+    "reading": "せいぶん",
+    "meaning": "성분",
+    "meaningDetail": "구성물",
+    "category": "명사",
+    "examples": [
+      { "ja": "成分を分析する。", "ko": "성분을 분석하다." }
+    ]
+  },
+  {
+    "word": "要素",
+    "reading": "ようそ",
+    "meaning": "요소",
+    "meaningDetail": "원소",
+    "category": "명사",
+    "examples": [
+      { "ja": "要素を考慮する。", "ko": "요소를 고려하다." }
+    ]
+  },
+  {
+    "word": "要因",
+    "reading": "よういん",
+    "meaning": "요인",
+    "meaningDetail": "원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "要因を分析する。", "ko": "요인을 분석하다." }
+    ]
+  },
+  {
+    "word": "因子",
+    "reading": "いんし",
+    "meaning": "인자",
+    "meaningDetail": "요인",
+    "category": "명사",
+    "examples": [
+      { "ja": "危険因子を減らす。", "ko": "위험 인자를 줄이다." }
+    ]
+  },
+  {
+    "word": "背景",
+    "reading": "はいけい",
+    "meaning": "배경",
+    "meaningDetail": "뒷배경",
+    "category": "명사",
+    "examples": [
+      { "ja": "背景を調べる。", "ko": "배경을 조사하다." }
+    ]
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "전제",
+    "meaningDetail": "기본",
+    "category": "명사",
+    "examples": [
+      { "ja": "前提を確認する。", "ko": "전제를 확인하다." }
+    ]
+  },
+  {
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meaning": "근거",
+    "meaningDetail": "이유",
+    "category": "명사",
+    "examples": [
+      { "ja": "根拠を示す。", "ko": "근거를 제시하다." }
+    ]
+  },
+  {
+    "word": "証拠",
+    "reading": "しょうこ",
+    "meaning": "증거",
+    "meaningDetail": "증빙",
+    "category": "명사",
+    "examples": [
+      { "ja": "証拠を集める。", "ko": "증거를 모으다." }
+    ]
+  },
+  {
+    "word": "論拠",
+    "reading": "ろんきょ",
+    "meaning": "논거",
+    "meaningDetail": "근거",
+    "category": "명사",
+    "examples": [
+      { "ja": "論拠を示す。", "ko": "논거를 제시하다." }
+    ]
+  },
+  {
+    "word": "論点",
+    "reading": "ろんてん",
+    "meaning": "논점",
+    "meaningDetail": "쟁점",
+    "category": "명사",
+    "examples": [
+      { "ja": "論点を整理する。", "ko": "논점을 정리하다." }
+    ]
+  },
+  {
+    "word": "争点",
+    "reading": "そうてん",
+    "meaning": "쟁점",
+    "meaningDetail": "논점",
+    "category": "명사",
+    "examples": [
+      { "ja": "争点を明確にする。", "ko": "쟁점을 명확히 하다." }
+    ]
+  }
+]

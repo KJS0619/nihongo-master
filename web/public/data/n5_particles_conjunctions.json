@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "w_n5_pc_001",
+    "word": "でも",
+    "reading": "でも",
+    "meaning": "하지만, 그래도",
+    "meaningDetail": "앞 내용과 반대되는 내용을 이을 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "高いです。でも、おいしいです。", "reading": "たかいです。でも、おいしいです。", "ko": "비쌉니다. 하지만 맛있습니다."},
+      {"ja": "忙しいです。でも、行きます。", "reading": "いそがしいです。でも、いきます。", "ko": "바쁩니다. 그래도 갑니다."}
+    ],
+    "relatedWords": [
+      {"word": "しかし", "reading": "しかし", "meaning": "그러나", "relation": "유의어"},
+      {"word": "けど", "reading": "けど", "meaning": "그렇지만", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_pc_002",
+    "word": "しかし",
+    "reading": "しかし",
+    "meaning": "그러나, 하지만",
+    "meaningDetail": "앞 내용과 반대되는 내용을 이을 때 사용 (격식체)",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "雨です。しかし、出かけます。", "reading": "あめです。しかし、でかけます。", "ko": "비입니다. 그러나 외출합니다."},
+      {"ja": "難しいです。しかし、頑張ります。", "reading": "むずかしいです。しかし、がんばります。", "ko": "어렵습니다. 하지만 노력합니다."}
+    ],
+    "relatedWords": [
+      {"word": "でも", "reading": "でも", "meaning": "하지만", "relation": "유의어"},
+      {"word": "けれども", "reading": "けれども", "meaning": "그렇지만", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "격식체", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_pc_003",
+    "word": "そして",
+    "reading": "そして",
+    "meaning": "그리고",
+    "meaningDetail": "앞 내용에 덧붙여 말할 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "朝ご飯を食べました。そして、学校に行きました。", "reading": "あさごはんをたべました。そして、がっこうにいきました。", "ko": "아침밥을 먹었습니다. 그리고 학교에 갔습니다."},
+      {"ja": "日本語を勉強します。そして、日本に行きます。", "reading": "にほんごをべんきょうします。そして、にほんにいきます。", "ko": "일본어를 공부합니다. 그리고 일본에 갑니다."}
+    ],
+    "relatedWords": [
+      {"word": "それから", "reading": "それから", "meaning": "그리고 나서", "relation": "유의어"},
+      {"word": "また", "reading": "また", "meaning": "또", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_004",
+    "word": "それから",
+    "reading": "それから",
+    "meaning": "그리고 나서, 그 다음에",
+    "meaningDetail": "시간 순서대로 이어서 말할 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "買い物をしました。それから、映画を見ました。", "reading": "かいものをしました。それから、えいがをみました。", "ko": "쇼핑을 했습니다. 그리고 나서 영화를 봤습니다."},
+      {"ja": "まず野菜を切ります。それから、炒めます。", "reading": "まずやさいをきります。それから、いためます。", "ko": "먼저 야채를 자릅니다. 그 다음에 볶습니다."}
+    ],
+    "relatedWords": [
+      {"word": "そして", "reading": "そして", "meaning": "그리고", "relation": "유의어"},
+      {"word": "その後", "reading": "そのあと", "meaning": "그 후", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "시간", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_005",
+    "word": "だから",
+    "reading": "だから",
+    "meaning": "그래서, 그러니까",
+    "meaningDetail": "앞 내용의 이유나 원인을 나타낼 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "雨です。だから、傘を持ちます。", "reading": "あめです。だから、かさをもちます。", "ko": "비입니다. 그래서 우산을 가져갑니다."},
+      {"ja": "忙しいです。だから、行けません。", "reading": "いそがしいです。だから、いけません。", "ko": "바쁩니다. 그래서 갈 수 없습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ですから", "reading": "ですから", "meaning": "그러므로", "relation": "유의어"},
+      {"word": "それで", "reading": "それで", "meaning": "그래서", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "이유", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_006",
+    "word": "ですから",
+    "reading": "ですから",
+    "meaning": "그러므로, 따라서",
+    "meaningDetail": "앞 내용의 이유나 원인을 나타낼 때 사용 (정중)",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "日曜日です。ですから、休みです。", "reading": "にちようびです。ですから、やすみです。", "ko": "일요일입니다. 따라서 휴일입니다."},
+      {"ja": "病気です。ですから、学校に行けません。", "reading": "びょうきです。ですから、がっこうにいけません。", "ko": "아픕니다. 그러므로 학교에 갈 수 없습니다."}
+    ],
+    "relatedWords": [
+      {"word": "だから", "reading": "だから", "meaning": "그래서", "relation": "유의어"},
+      {"word": "それで", "reading": "それで", "meaning": "그래서", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "이유", "정중", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_pc_007",
+    "word": "または",
+    "reading": "または",
+    "meaning": "또는, 혹은",
+    "meaningDetail": "선택지를 나열할 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "電話またはメールで連絡してください。", "reading": "でんわまたはめーるでれんらくしてください。", "ko": "전화 또는 메일로 연락해 주세요."},
+      {"ja": "紅茶またはコーヒーはいかがですか。", "reading": "こうちゃまたはこーひーはいかがですか。", "ko": "홍차 또는 커피는 어떻습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "か", "reading": "か", "meaning": "~인가", "relation": "관련어"},
+      {"word": "それとも", "reading": "それとも", "meaning": "아니면", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "선택", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_pc_008",
+    "word": "けど",
+    "reading": "けど",
+    "meaning": "~지만",
+    "meaningDetail": "앞 내용과 반대되거나 대조적인 내용을 이을 때 사용",
+    "jlpt": "N5",
+    "category": "접속사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "高いけど、買います。", "reading": "たかいけど、かいます。", "ko": "비싸지만 삽니다."},
+      {"ja": "難しいけど、面白いです。", "reading": "むずかしいけど、おもしろいです。", "ko": "어렵지만 재미있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "けれど", "reading": "けれど", "meaning": "~지만", "relation": "유의어"},
+      {"word": "でも", "reading": "でも", "meaning": "하지만", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["접속사", "구어체", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_009",
+    "word": "まず",
+    "reading": "まず",
+    "meaning": "우선, 먼저",
+    "meaningDetail": "순서상 가장 먼저를 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "まず、名前を書いてください。", "reading": "まず、なまえをかいてください。", "ko": "우선, 이름을 써 주세요."},
+      {"ja": "まず野菜を切ります。", "reading": "まずやさいをきります。", "ko": "먼저 야채를 자릅니다."}
+    ],
+    "relatedWords": [
+      {"word": "最初に", "reading": "さいしょに", "meaning": "처음에", "relation": "유의어"},
+      {"word": "それから", "reading": "それから", "meaning": "그리고 나서", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "순서", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_pc_010",
+    "word": "もう",
+    "reading": "もう",
+    "meaning": "이미, 벌써",
+    "meaningDetail": "예상보다 일찍 완료되었음을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "もう終わりました。", "reading": "もうおわりました。", "ko": "이미 끝났습니다."},
+      {"ja": "もう食べましたか。", "reading": "もうたべましたか。", "ko": "벌써 먹었습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "まだ", "reading": "まだ", "meaning": "아직", "relation": "반의어"},
+      {"word": "もう一度", "reading": "もういちど", "meaning": "한 번 더", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "시간", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_pc_011",
+    "word": "まだ",
+    "reading": "まだ",
+    "meaning": "아직",
+    "meaningDetail": "예상한 상태에 도달하지 않았음을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "まだ食べていません。", "reading": "まだたべていません。", "ko": "아직 먹지 않았습니다."},
+      {"ja": "まだ来ていません。", "reading": "まだきていません。", "ko": "아직 오지 않았습니다."}
+    ],
+    "relatedWords": [
+      {"word": "もう", "reading": "もう", "meaning": "이미", "relation": "반의어"},
+      {"word": "まだまだ", "reading": "まだまだ", "meaning": "아직도", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "시간", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_pc_012",
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "더, 더욱",
+    "meaningDetail": "정도가 더함을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "もっと食べてください。", "reading": "もっとたべてください。", "ko": "더 먹어 주세요."},
+      {"ja": "もっと勉強したいです。", "reading": "もっとべんきょうしたいです。", "ko": "더 공부하고 싶습니다."}
+    ],
+    "relatedWords": [
+      {"word": "もう少し", "reading": "もうすこし", "meaning": "조금 더", "relation": "유의어"},
+      {"word": "たくさん", "reading": "たくさん", "meaning": "많이", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "정도", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_013",
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "조금, 잠깐",
+    "meaningDetail": "양이나 시간이 적음을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "ちょっと待ってください。", "reading": "ちょっとまってください。", "ko": "잠깐 기다려 주세요."},
+      {"ja": "ちょっと高いですね。", "reading": "ちょっとたかいですね。", "ko": "조금 비싸네요."}
+    ],
+    "relatedWords": [
+      {"word": "少し", "reading": "すこし", "meaning": "조금", "relation": "유의어"},
+      {"word": "たくさん", "reading": "たくさん", "meaning": "많이", "relation": "반의어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "정도", "구어체", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_pc_014",
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "매우, 아주",
+    "meaningDetail": "정도가 매우 심함을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "とてもおいしいです。", "reading": "とてもおいしいです。", "ko": "매우 맛있습니다."},
+      {"ja": "とても疲れました。", "reading": "とてもつかれました。", "ko": "아주 피곤합니다."}
+    ],
+    "relatedWords": [
+      {"word": "すごく", "reading": "すごく", "meaning": "엄청", "relation": "유의어"},
+      {"word": "本当に", "reading": "ほんとうに", "meaning": "정말로", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "정도", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_pc_015",
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning": "정말로, 진짜로",
+    "meaningDetail": "확실함이나 강조를 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "本当においしいです。", "reading": "ほんとうにおいしいです。", "ko": "정말로 맛있습니다."},
+      {"ja": "本当ですか。", "reading": "ほんとうですか。", "ko": "정말입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "本当", "reading": "ほんとう", "meaning": "진짜", "relation": "관련어"},
+      {"word": "とても", "reading": "とても", "meaning": "매우", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "本", "reading": "ほん", "meaning": "근본 본"},
+      {"char": "当", "reading": "とう", "meaning": "당할 당"}
+    ],
+    "tags": ["부사", "강조", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_016",
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "meaning": "함께, 같이",
+    "meaningDetail": "다른 사람과 함께 행동함을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "一緒に行きましょう。", "reading": "いっしょにいきましょう。", "ko": "함께 갑시다."},
+      {"ja": "一緒に食べませんか。", "reading": "いっしょにたべませんか。", "ko": "같이 먹을래요?"}
+    ],
+    "relatedWords": [
+      {"word": "一緒", "reading": "いっしょ", "meaning": "함께", "relation": "관련어"},
+      {"word": "共に", "reading": "ともに", "meaning": "함께", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "一", "reading": "いっ", "meaning": "하나 일"},
+      {"char": "緒", "reading": "しょ", "meaning": "실마리 서"}
+    ],
+    "tags": ["부사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_017",
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning": "왜, 어째서",
+    "meaningDetail": "이유를 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "どうして遅れましたか。", "reading": "どうしておくれましたか。", "ko": "왜 늦었습니까?"},
+      {"ja": "どうして日本語を勉強していますか。", "reading": "どうしてにほんごをべんきょうしていますか。", "ko": "왜 일본어를 공부하고 있습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "なぜ", "reading": "なぜ", "meaning": "왜", "relation": "유의어"},
+      {"word": "どうやって", "reading": "どうやって", "meaning": "어떻게", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_018",
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "어떻게",
+    "meaningDetail": "상태나 방법을 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "日本はどうですか。", "reading": "にほんはどうですか。", "ko": "일본은 어떻습니까?"},
+      {"ja": "どうしますか。", "reading": "どうしますか。", "ko": "어떻게 하시겠습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "いかが", "reading": "いかが", "meaning": "어떠세요(정중)", "relation": "유의어"},
+      {"word": "どんな", "reading": "どんな", "meaning": "어떤", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_pc_019",
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning": "어떤",
+    "meaningDetail": "종류나 특징을 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "どんな映画が好きですか。", "reading": "どんなえいががすきですか。", "ko": "어떤 영화를 좋아합니까?"},
+      {"ja": "どんな仕事をしていますか。", "reading": "どんなしごとをしていますか。", "ko": "어떤 일을 하고 있습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "どう", "reading": "どう", "meaning": "어떻게", "relation": "관련어"},
+      {"word": "何", "reading": "なに", "meaning": "무엇", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_020",
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "어느 것",
+    "meaningDetail": "세 개 이상 중 선택을 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "どれがいいですか。", "reading": "どれがいいですか。", "ko": "어느 것이 좋습니까?"},
+      {"ja": "どれを買いますか。", "reading": "どれをかいますか。", "ko": "어느 것을 삽니까?"}
+    ],
+    "relatedWords": [
+      {"word": "どちら", "reading": "どちら", "meaning": "어느 쪽", "relation": "관련어"},
+      {"word": "どの", "reading": "どの", "meaning": "어느", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_021",
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "어느",
+    "meaningDetail": "여러 개 중 특정 것을 지목할 때 사용 (+ 명사)",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "どの本がいいですか。", "reading": "どのほんがいいですか。", "ko": "어느 책이 좋습니까?"},
+      {"ja": "どの人が先生ですか。", "reading": "どのひとがせんせいですか。", "ko": "어느 사람이 선생님입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "どれ", "reading": "どれ", "meaning": "어느 것", "relation": "관련어"},
+      {"word": "この", "reading": "この", "meaning": "이", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_022",
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "어느 쪽, 어디",
+    "meaningDetail": "두 개 중 선택하거나 방향을 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "どちらがいいですか。", "reading": "どちらがいいですか。", "ko": "어느 쪽이 좋습니까?"},
+      {"ja": "お国はどちらですか。", "reading": "おくにはどちらですか。", "ko": "나라는 어디입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "どれ", "reading": "どれ", "meaning": "어느 것", "relation": "관련어"},
+      {"word": "どっち", "reading": "どっち", "meaning": "어느 쪽(구어)", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "정중", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_pc_023",
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "얼마",
+    "meaningDetail": "가격이나 양을 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "これはいくらですか。", "reading": "これはいくらですか。", "ko": "이것은 얼마입니까?"},
+      {"ja": "いくら払いましたか。", "reading": "いくらはらいましたか。", "ko": "얼마를 지불했습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "いくつ", "reading": "いくつ", "meaning": "몇 개", "relation": "관련어"},
+      {"word": "お金", "reading": "おかね", "meaning": "돈", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "쇼핑", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_024",
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "몇 개, 몇 살",
+    "meaningDetail": "수량이나 나이를 물을 때 사용",
+    "jlpt": "N5",
+    "category": "의문사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "りんごをいくつ買いますか。", "reading": "りんごをいくつかいますか。", "ko": "사과를 몇 개 삽니까?"},
+      {"ja": "おいくつですか。", "reading": "おいくつですか。", "ko": "몇 살입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "いくら", "reading": "いくら", "meaning": "얼마", "relation": "관련어"},
+      {"word": "何歳", "reading": "なんさい", "meaning": "몇 살", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["의문사", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_025",
+    "word": "この",
+    "reading": "この",
+    "meaning": "이",
+    "meaningDetail": "가까이 있는 것을 가리킬 때 사용 (+ 명사)",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "この本は面白いです。", "reading": "このほんはおもしろいです。", "ko": "이 책은 재미있습니다."},
+      {"ja": "この人は田中さんです。", "reading": "このひとはたなかさんです。", "ko": "이 사람은 다나카 씨입니다."}
+    ],
+    "relatedWords": [
+      {"word": "その", "reading": "その", "meaning": "그", "relation": "관련어"},
+      {"word": "あの", "reading": "あの", "meaning": "저", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_pc_026",
+    "word": "その",
+    "reading": "その",
+    "meaning": "그",
+    "meaningDetail": "상대방 가까이 있는 것을 가리킬 때 사용 (+ 명사)",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "その本を見せてください。", "reading": "そのほんをみせてください。", "ko": "그 책을 보여 주세요."},
+      {"ja": "その人は誰ですか。", "reading": "そのひとはだれですか。", "ko": "그 사람은 누구입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "この", "reading": "この", "meaning": "이", "relation": "관련어"},
+      {"word": "あの", "reading": "あの", "meaning": "저", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_pc_027",
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "저",
+    "meaningDetail": "멀리 있는 것을 가리킬 때 사용 (+ 명사)",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "あの山は富士山です。", "reading": "あのやまはふじさんです。", "ko": "저 산은 후지산입니다."},
+      {"ja": "あの人を知っていますか。", "reading": "あのひとをしっていますか。", "ko": "저 사람을 알고 있습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "この", "reading": "この", "meaning": "이", "relation": "관련어"},
+      {"word": "その", "reading": "その", "meaning": "그", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_028",
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning": "여기",
+    "meaningDetail": "말하는 사람 가까이의 장소",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "ここに座ってください。", "reading": "ここにすわってください。", "ko": "여기에 앉아 주세요."},
+      {"ja": "ここは図書館です。", "reading": "ここはとしょかんです。", "ko": "여기는 도서관입니다."}
+    ],
+    "relatedWords": [
+      {"word": "そこ", "reading": "そこ", "meaning": "거기", "relation": "관련어"},
+      {"word": "あそこ", "reading": "あそこ", "meaning": "저기", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "장소", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_pc_029",
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "거기",
+    "meaningDetail": "상대방 가까이의 장소",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "そこに本があります。", "reading": "そこにほんがあります。", "ko": "거기에 책이 있습니다."},
+      {"ja": "そこで待っていてください。", "reading": "そこでまっていてください。", "ko": "거기서 기다려 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "ここ", "reading": "ここ", "meaning": "여기", "relation": "관련어"},
+      {"word": "あそこ", "reading": "あそこ", "meaning": "저기", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "장소", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_030",
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "저기",
+    "meaningDetail": "말하는 사람과 듣는 사람 모두에게서 먼 장소",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "あそこにいる人は誰ですか。", "reading": "あそこにいるひとはだれですか。", "ko": "저기에 있는 사람은 누구입니까?"},
+      {"ja": "あそこで食べましょう。", "reading": "あそこでたべましょう。", "ko": "저기서 먹읍시다."}
+    ],
+    "relatedWords": [
+      {"word": "ここ", "reading": "ここ", "meaning": "여기", "relation": "관련어"},
+      {"word": "そこ", "reading": "そこ", "meaning": "거기", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "장소", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_031",
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "이쪽",
+    "meaningDetail": "말하는 사람 쪽의 방향이나 사람을 정중하게 가리킴",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "こちらへどうぞ。", "reading": "こちらへどうぞ。", "ko": "이쪽으로 오세요."},
+      {"ja": "こちらは田中さんです。", "reading": "こちらはたなかさんです。", "ko": "이쪽은 다나카 씨입니다."}
+    ],
+    "relatedWords": [
+      {"word": "そちら", "reading": "そちら", "meaning": "그쪽", "relation": "관련어"},
+      {"word": "あちら", "reading": "あちら", "meaning": "저쪽", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "정중", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_pc_032",
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "그쪽",
+    "meaningDetail": "상대방 쪽의 방향이나 상대방을 정중하게 가리킴",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "そちらは何ですか。", "reading": "そちらはなんですか。", "ko": "그쪽은 무엇입니까?"},
+      {"ja": "そちらでお待ちください。", "reading": "そちらでおまちください。", "ko": "그쪽에서 기다려 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "こちら", "reading": "こちら", "meaning": "이쪽", "relation": "관련어"},
+      {"word": "あちら", "reading": "あちら", "meaning": "저쪽", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "정중", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_pc_033",
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "저쪽",
+    "meaningDetail": "멀리 있는 방향이나 사람을 정중하게 가리킴",
+    "jlpt": "N5",
+    "category": "지시사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "あちらは出口です。", "reading": "あちらはでぐちです。", "ko": "저쪽은 출구입니다."},
+      {"ja": "あちらへ行ってください。", "reading": "あちらへいってください。", "ko": "저쪽으로 가 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "こちら", "reading": "こちら", "meaning": "이쪽", "relation": "관련어"},
+      {"word": "そちら", "reading": "そちら", "meaning": "그쪽", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["지시사", "정중", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_pc_034",
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning": "모두, 다들",
+    "meaningDetail": "그룹의 모든 사람을 가리킴",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "みんなで行きましょう。", "reading": "みんなでいきましょう。", "ko": "다 같이 갑시다."},
+      {"ja": "みんな元気ですか。", "reading": "みんなげんきですか。", "ko": "다들 잘 지내요?"}
+    ],
+    "relatedWords": [
+      {"word": "皆さん", "reading": "みなさん", "meaning": "여러분", "relation": "유의어"},
+      {"word": "全部", "reading": "ぜんぶ", "meaning": "전부", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["명사", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_035",
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meaning": "여러분",
+    "meaningDetail": "그룹의 모든 사람을 정중하게 부르는 말",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "皆さん、おはようございます。", "reading": "みなさん、おはようございます。", "ko": "여러분, 안녕하세요."},
+      {"ja": "皆さんはどう思いますか。", "reading": "みなさんはどうおもいますか。", "ko": "여러분은 어떻게 생각합니까?"}
+    ],
+    "relatedWords": [
+      {"word": "みんな", "reading": "みんな", "meaning": "모두", "relation": "유의어"},
+      {"word": "皆", "reading": "みな", "meaning": "모두", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "皆", "reading": "みな", "meaning": "다 개"}],
+    "tags": ["명사", "정중", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_036",
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "전부, 모두",
+    "meaningDetail": "모든 것을 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "全部食べました。", "reading": "ぜんぶたべました。", "ko": "전부 먹었습니다."},
+      {"ja": "全部でいくらですか。", "reading": "ぜんぶでいくらですか。", "ko": "전부 얼마입니까?"}
+    ],
+    "relatedWords": [
+      {"word": "みんな", "reading": "みんな", "meaning": "모두", "relation": "유의어"},
+      {"word": "一部", "reading": "いちぶ", "meaning": "일부", "relation": "반의어"}
+    ],
+    "kanji": [
+      {"char": "全", "reading": "ぜん", "meaning": "온전 전"},
+      {"char": "部", "reading": "ぶ", "meaning": "부분 부"}
+    ],
+    "tags": ["명사", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_pc_037",
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning": "자기, 자신",
+    "meaningDetail": "자기 자신을 가리킴",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "自分で作りました。", "reading": "じぶんでつくりました。", "ko": "직접 만들었습니다."},
+      {"ja": "自分のことは自分でしてください。", "reading": "じぶんのことはじぶんでしてください。", "ko": "자기 일은 자기가 해 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "私", "reading": "わたし", "meaning": "나", "relation": "관련어"},
+      {"word": "他人", "reading": "たにん", "meaning": "타인", "relation": "반의어"}
+    ],
+    "kanji": [
+      {"char": "自", "reading": "じ", "meaning": "스스로 자"},
+      {"char": "分", "reading": "ぶん", "meaning": "나눌 분"}
+    ],
+    "tags": ["명사", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_038",
+    "word": "今度",
+    "reading": "こんど",
+    "meaning": "이번, 다음에",
+    "meaningDetail": "이번 기회나 다음 기회를 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "今度の日曜日に行きます。", "reading": "こんどのにちようびにいきます。", "ko": "이번 일요일에 갑니다."},
+      {"ja": "今度一緒に食べましょう。", "reading": "こんどいっしょにたべましょう。", "ko": "다음에 같이 먹읍시다."}
+    ],
+    "relatedWords": [
+      {"word": "次", "reading": "つぎ", "meaning": "다음", "relation": "유의어"},
+      {"word": "前回", "reading": "ぜんかい", "meaning": "저번", "relation": "반의어"}
+    ],
+    "kanji": [
+      {"char": "今", "reading": "こん", "meaning": "이제 금"},
+      {"char": "度", "reading": "ど", "meaning": "법도 도"}
+    ],
+    "tags": ["명사", "시간", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_pc_039",
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "다음",
+    "meaningDetail": "순서상 바로 뒤를 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "次の電車に乗ります。", "reading": "つぎのでんしゃにのります。", "ko": "다음 전철을 탑니다."},
+      {"ja": "次は何をしますか。", "reading": "つぎはなにをしますか。", "ko": "다음은 무엇을 합니까?"}
+    ],
+    "relatedWords": [
+      {"word": "前", "reading": "まえ", "meaning": "전", "relation": "반의어"},
+      {"word": "今度", "reading": "こんど", "meaning": "다음에", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "次", "reading": "つぎ", "meaning": "버금 차"}],
+    "tags": ["명사", "순서", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_pc_040",
+    "word": "最初",
+    "reading": "さいしょ",
+    "meaning": "처음, 최초",
+    "meaningDetail": "시작이나 첫 번째를 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "最初は難しかったです。", "reading": "さいしょはむずかしかったです。", "ko": "처음에는 어려웠습니다."},
+      {"ja": "最初から説明してください。", "reading": "さいしょからせつめいしてください。", "ko": "처음부터 설명해 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "最後", "reading": "さいご", "meaning": "마지막", "relation": "반의어"},
+      {"word": "初め", "reading": "はじめ", "meaning": "처음", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "最", "reading": "さい", "meaning": "가장 최"},
+      {"char": "初", "reading": "しょ", "meaning": "처음 초"}
+    ],
+    "tags": ["명사", "순서", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_pc_041",
+    "word": "最後",
+    "reading": "さいご",
+    "meaning": "마지막, 최후",
+    "meaningDetail": "끝이나 마지막을 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "最後まで頑張りましょう。", "reading": "さいごまでがんばりましょう。", "ko": "끝까지 힘냅시다."},
+      {"ja": "これが最後のチャンスです。", "reading": "これがさいごのちゃんすです。", "ko": "이것이 마지막 기회입니다."}
+    ],
+    "relatedWords": [
+      {"word": "最初", "reading": "さいしょ", "meaning": "처음", "relation": "반의어"},
+      {"word": "終わり", "reading": "おわり", "meaning": "끝", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "最", "reading": "さい", "meaning": "가장 최"},
+      {"char": "後", "reading": "ご", "meaning": "뒤 후"}
+    ],
+    "tags": ["명사", "순서", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_pc_042",
+    "word": "ほか",
+    "reading": "ほか",
+    "meaning": "다른, 외에",
+    "meaningDetail": "그 외의 것을 나타냄",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "ほかに何がありますか。", "reading": "ほかになにがありますか。", "ko": "그 외에 무엇이 있습니까?"},
+      {"ja": "ほかの人に聞いてください。", "reading": "ほかのひとにきいてください。", "ko": "다른 사람에게 물어보세요."}
+    ],
+    "relatedWords": [
+      {"word": "他", "reading": "た", "meaning": "다른", "relation": "유의어"},
+      {"word": "別", "reading": "べつ", "meaning": "별도의", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "外", "reading": "ほか", "meaning": "바깥 외"}],
+    "tags": ["명사", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_pc_043",
+    "word": "やっぱり",
+    "reading": "やっぱり",
+    "meaning": "역시",
+    "meaningDetail": "예상대로임을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "やっぱりそうですね。", "reading": "やっぱりそうですね。", "ko": "역시 그렇군요."},
+      {"ja": "やっぱり日本語は難しいです。", "reading": "やっぱりにほんごはむずかしいです。", "ko": "역시 일본어는 어렵습니다."}
+    ],
+    "relatedWords": [
+      {"word": "やはり", "reading": "やはり", "meaning": "역시(정중)", "relation": "유의어"},
+      {"word": "結局", "reading": "けっきょく", "meaning": "결국", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "구어체", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_pc_044",
+    "word": "たぶん",
+    "reading": "たぶん",
+    "meaning": "아마",
+    "meaningDetail": "불확실한 추측을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "たぶん明日は雨です。", "reading": "たぶんあしたはあめです。", "ko": "아마 내일은 비입니다."},
+      {"ja": "たぶん来ると思います。", "reading": "たぶんくるとおもいます。", "ko": "아마 올 거라고 생각합니다."}
+    ],
+    "relatedWords": [
+      {"word": "きっと", "reading": "きっと", "meaning": "분명히", "relation": "관련어"},
+      {"word": "多分", "reading": "たぶん", "meaning": "아마", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "多", "reading": "た", "meaning": "많을 다"},
+      {"char": "分", "reading": "ぶん", "meaning": "나눌 분"}
+    ],
+    "tags": ["부사", "추측", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_pc_045",
+    "word": "きっと",
+    "reading": "きっと",
+    "meaning": "분명히, 틀림없이",
+    "meaningDetail": "확신을 가지고 추측할 때 사용",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "きっと大丈夫です。", "reading": "きっとだいじょうぶです。", "ko": "분명히 괜찮습니다."},
+      {"ja": "きっと来ますよ。", "reading": "きっときますよ。", "ko": "틀림없이 옵니다."}
+    ],
+    "relatedWords": [
+      {"word": "たぶん", "reading": "たぶん", "meaning": "아마", "relation": "관련어"},
+      {"word": "必ず", "reading": "かならず", "meaning": "반드시", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "추측", "확신", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_pc_046",
+    "word": "すぐ",
+    "reading": "すぐ",
+    "meaning": "바로, 곧",
+    "meaningDetail": "시간이나 거리가 가까움을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "すぐ行きます。", "reading": "すぐいきます。", "ko": "바로 갑니다."},
+      {"ja": "駅はすぐそこです。", "reading": "えきはすぐそこです。", "ko": "역은 바로 저기입니다."}
+    ],
+    "relatedWords": [
+      {"word": "もうすぐ", "reading": "もうすぐ", "meaning": "곧", "relation": "관련어"},
+      {"word": "すぐに", "reading": "すぐに", "meaning": "바로", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "시간", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_pc_047",
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "곧, 이제 곧",
+    "meaningDetail": "가까운 미래를 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "もうすぐ着きます。", "reading": "もうすぐつきます。", "ko": "곧 도착합니다."},
+      {"ja": "もうすぐ夏休みです。", "reading": "もうすぐなつやすみです。", "ko": "이제 곧 여름 방학입니다."}
+    ],
+    "relatedWords": [
+      {"word": "すぐ", "reading": "すぐ", "meaning": "바로", "relation": "관련어"},
+      {"word": "まもなく", "reading": "まもなく", "meaning": "곧", "relation": "유의어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "시간", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_pc_048",
+    "word": "そう",
+    "reading": "そう",
+    "meaning": "그렇게, 그래",
+    "meaningDetail": "앞서 언급된 내용을 가리킴",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "そうですね。", "reading": "そうですね。", "ko": "그렇네요."},
+      {"ja": "そう思います。", "reading": "そうおもいます。", "ko": "그렇게 생각합니다."}
+    ],
+    "relatedWords": [
+      {"word": "こう", "reading": "こう", "meaning": "이렇게", "relation": "관련어"},
+      {"word": "ああ", "reading": "ああ", "meaning": "저렇게", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["부사", "지시", "N5"],
+    "frequency": 95
+  },
+  {
+    "id": "w_n5_pc_049",
+    "word": "特に",
+    "reading": "とくに",
+    "meaning": "특히",
+    "meaningDetail": "특별히 강조할 때 사용",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "特に問題はありません。", "reading": "とくにもんだいはありません。", "ko": "특히 문제는 없습니다."},
+      {"ja": "特に寿司が好きです。", "reading": "とくにすしがすきです。", "ko": "특히 초밥을 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "特別", "reading": "とくべつ", "meaning": "특별", "relation": "관련어"},
+      {"word": "普通", "reading": "ふつう", "meaning": "보통", "relation": "반의어"}
+    ],
+    "kanji": [
+      {"char": "特", "reading": "とく", "meaning": "특별할 특"},
+      {"char": "に", "reading": "に", "meaning": "~에"}
+    ],
+    "tags": ["부사", "강조", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_pc_050",
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "매우, 대단히 / 힘든",
+    "meaningDetail": "정도가 심함이나 어려운 상황을 나타냄",
+    "jlpt": "N5",
+    "category": "부사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "大変おいしいです。", "reading": "たいへんおいしいです。", "ko": "매우 맛있습니다."},
+      {"ja": "仕事が大変です。", "reading": "しごとがたいへんです。", "ko": "일이 힘듭니다."}
+    ],
+    "relatedWords": [
+      {"word": "とても", "reading": "とても", "meaning": "매우", "relation": "유의어"},
+      {"word": "難しい", "reading": "むずかしい", "meaning": "어렵다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "大", "reading": "たい", "meaning": "클 대"},
+      {"char": "変", "reading": "へん", "meaning": "변할 변"}
+    ],
+    "tags": ["부사", "형용동사", "정도", "N5"],
+    "frequency": 82
+  }
+]

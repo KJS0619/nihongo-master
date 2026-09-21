@@ -1,0 +1,482 @@
+[
+  {
+    "word": "言語",
+    "reading": "げんご",
+    "meaning": "언어",
+    "meaningDetail": "말",
+    "category": "명사",
+    "examples": [
+      { "ja": "言語を学ぶ。", "ko": "언어를 배우다." }
+    ]
+  },
+  {
+    "word": "文字",
+    "reading": "もじ",
+    "meaning": "문자",
+    "meaningDetail": "글자",
+    "category": "명사",
+    "examples": [
+      { "ja": "文字を書く。", "ko": "문자를 쓰다." }
+    ]
+  },
+  {
+    "word": "単語",
+    "reading": "たんご",
+    "meaning": "단어",
+    "meaningDetail": "낱말",
+    "category": "명사",
+    "examples": [
+      { "ja": "単語を覚える。", "ko": "단어를 외우다." }
+    ]
+  },
+  {
+    "word": "語彙",
+    "reading": "ごい",
+    "meaning": "어휘",
+    "meaningDetail": "낱말 모음",
+    "category": "명사",
+    "examples": [
+      { "ja": "語彙を増やす。", "ko": "어휘를 늘리다." }
+    ]
+  },
+  {
+    "word": "文法",
+    "reading": "ぶんぽう",
+    "meaning": "문법",
+    "meaningDetail": "말의 규칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "文法を学ぶ。", "ko": "문법을 배우다." }
+    ]
+  },
+  {
+    "word": "発音",
+    "reading": "はつおん",
+    "meaning": "발음",
+    "meaningDetail": "소리 내기",
+    "category": "명사",
+    "examples": [
+      { "ja": "発音を練習する。", "ko": "발음을 연습하다." }
+    ]
+  },
+  {
+    "word": "会話",
+    "reading": "かいわ",
+    "meaning": "회화",
+    "meaningDetail": "대화",
+    "category": "명사",
+    "examples": [
+      { "ja": "会話を楽しむ。", "ko": "회화를 즐기다." }
+    ]
+  },
+  {
+    "word": "対話",
+    "reading": "たいわ",
+    "meaning": "대화",
+    "meaningDetail": "말을 주고받기",
+    "category": "명사",
+    "examples": [
+      { "ja": "対話を通じて理解する。", "ko": "대화를 통해 이해하다." }
+    ]
+  },
+  {
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "meaning": "문장",
+    "meaningDetail": "글",
+    "category": "명사",
+    "examples": [
+      { "ja": "文章を書く。", "ko": "문장을 쓰다." }
+    ]
+  },
+  {
+    "word": "段落",
+    "reading": "だんらく",
+    "meaning": "단락",
+    "meaningDetail": "문단",
+    "category": "명사",
+    "examples": [
+      { "ja": "段落を分ける。", "ko": "단락을 나누다." }
+    ]
+  },
+  {
+    "word": "表現",
+    "reading": "ひょうげん",
+    "meaning": "표현",
+    "meaningDetail": "나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "表現を工夫する。", "ko": "표현을 연구하다." }
+    ]
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "의미",
+    "meaningDetail": "뜻",
+    "category": "명사",
+    "examples": [
+      { "ja": "意味を調べる。", "ko": "의미를 찾아보다." }
+    ]
+  },
+  {
+    "word": "内容",
+    "reading": "ないよう",
+    "meaning": "내용",
+    "meaningDetail": "속내용",
+    "category": "명사",
+    "examples": [
+      { "ja": "内容を確認する。", "ko": "내용을 확인하다." }
+    ]
+  },
+  {
+    "word": "要点",
+    "reading": "ようてん",
+    "meaning": "요점",
+    "meaningDetail": "핵심",
+    "category": "명사",
+    "examples": [
+      { "ja": "要点をまとめる。", "ko": "요점을 정리하다." }
+    ]
+  },
+  {
+    "word": "概要",
+    "reading": "がいよう",
+    "meaning": "개요",
+    "meaningDetail": "대략",
+    "category": "명사",
+    "examples": [
+      { "ja": "概要を説明する。", "ko": "개요를 설명하다." }
+    ]
+  },
+  {
+    "word": "詳細",
+    "reading": "しょうさい",
+    "meaning": "상세",
+    "meaningDetail": "자세함",
+    "category": "명사",
+    "examples": [
+      { "ja": "詳細を確認する。", "ko": "상세를 확인하다." }
+    ]
+  },
+  {
+    "word": "具体",
+    "reading": "ぐたい",
+    "meaning": "구체",
+    "meaningDetail": "실제",
+    "category": "명사",
+    "examples": [
+      { "ja": "具体的に説明する。", "ko": "구체적으로 설명하다." }
+    ]
+  },
+  {
+    "word": "抽象",
+    "reading": "ちゅうしょう",
+    "meaning": "추상",
+    "meaningDetail": "관념",
+    "category": "명사",
+    "examples": [
+      { "ja": "抽象的な概念。", "ko": "추상적인 개념." }
+    ]
+  },
+  {
+    "word": "概念",
+    "reading": "がいねん",
+    "meaning": "개념",
+    "meaningDetail": "관념",
+    "category": "명사",
+    "examples": [
+      { "ja": "概念を理解する。", "ko": "개념을 이해하다." }
+    ]
+  },
+  {
+    "word": "定義",
+    "reading": "ていぎ",
+    "meaning": "정의",
+    "meaningDetail": "뜻풀이",
+    "category": "명사",
+    "examples": [
+      { "ja": "定義を確認する。", "ko": "정의를 확인하다." }
+    ]
+  },
+  {
+    "word": "分野",
+    "reading": "ぶんや",
+    "meaning": "분야",
+    "meaningDetail": "영역",
+    "category": "명사",
+    "examples": [
+      { "ja": "専門分野を持つ。", "ko": "전문 분야를 갖다." }
+    ]
+  },
+  {
+    "word": "領域",
+    "reading": "りょういき",
+    "meaning": "영역",
+    "meaningDetail": "범위",
+    "category": "명사",
+    "examples": [
+      { "ja": "領域を広げる。", "ko": "영역을 넓히다." }
+    ]
+  },
+  {
+    "word": "範囲",
+    "reading": "はんい",
+    "meaning": "범위",
+    "meaningDetail": "구역",
+    "category": "명사",
+    "examples": [
+      { "ja": "範囲を決める。", "ko": "범위를 정하다." }
+    ]
+  },
+  {
+    "word": "程度",
+    "reading": "ていど",
+    "meaning": "정도",
+    "meaningDetail": "수준",
+    "category": "명사",
+    "examples": [
+      { "ja": "程度を測る。", "ko": "정도를 재다." }
+    ]
+  },
+  {
+    "word": "水準",
+    "reading": "すいじゅん",
+    "meaning": "수준",
+    "meaningDetail": "레벨",
+    "category": "명사",
+    "examples": [
+      { "ja": "水準を上げる。", "ko": "수준을 올리다." }
+    ]
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "단계",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "段階を踏む。", "ko": "단계를 밟다." }
+    ]
+  },
+  {
+    "word": "過程",
+    "reading": "かてい",
+    "meaning": "과정",
+    "meaningDetail": "경과",
+    "category": "명사",
+    "examples": [
+      { "ja": "過程を経る。", "ko": "과정을 거치다." }
+    ]
+  },
+  {
+    "word": "手順",
+    "reading": "てじゅん",
+    "meaning": "절차",
+    "meaningDetail": "순서",
+    "category": "명사",
+    "examples": [
+      { "ja": "手順を守る。", "ko": "절차를 지키다." }
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "수속",
+    "meaningDetail": "절차",
+    "category": "명사",
+    "examples": [
+      { "ja": "手続きを行う。", "ko": "수속을 밟다." }
+    ]
+  },
+  {
+    "word": "仕組み",
+    "reading": "しくみ",
+    "meaning": "구조",
+    "meaningDetail": "짜임새",
+    "category": "명사",
+    "examples": [
+      { "ja": "仕組みを理解する。", "ko": "구조를 이해하다." }
+    ]
+  },
+  {
+    "word": "制度",
+    "reading": "せいど",
+    "meaning": "제도",
+    "meaningDetail": "체제",
+    "category": "명사",
+    "examples": [
+      { "ja": "制度を改革する。", "ko": "제도를 개혁하다." }
+    ]
+  },
+  {
+    "word": "システム",
+    "reading": "しすてむ",
+    "meaning": "시스템",
+    "meaningDetail": "체계",
+    "category": "명사",
+    "examples": [
+      { "ja": "システムを構築する。", "ko": "시스템을 구축하다." }
+    ]
+  },
+  {
+    "word": "方式",
+    "reading": "ほうしき",
+    "meaning": "방식",
+    "meaningDetail": "양식",
+    "category": "명사",
+    "examples": [
+      { "ja": "方式を採用する。", "ko": "방식을 채택하다." }
+    ]
+  },
+  {
+    "word": "形式",
+    "reading": "けいしき",
+    "meaning": "형식",
+    "meaningDetail": "양식",
+    "category": "명사",
+    "examples": [
+      { "ja": "形式を整える。", "ko": "형식을 갖추다." }
+    ]
+  },
+  {
+    "word": "様式",
+    "reading": "ようしき",
+    "meaning": "양식",
+    "meaningDetail": "스타일",
+    "category": "명사",
+    "examples": [
+      { "ja": "様式を統一する。", "ko": "양식을 통일하다." }
+    ]
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaning": "종류",
+    "meaningDetail": "가지",
+    "category": "명사",
+    "examples": [
+      { "ja": "種類が多い。", "ko": "종류가 많다." }
+    ]
+  },
+  {
+    "word": "種",
+    "reading": "たね",
+    "meaning": "씨",
+    "meaningDetail": "종자",
+    "category": "명사",
+    "examples": [
+      { "ja": "種をまく。", "ko": "씨를 뿌리다." }
+    ]
+  },
+  {
+    "word": "品種",
+    "reading": "ひんしゅ",
+    "meaning": "품종",
+    "meaningDetail": "종류",
+    "category": "명사",
+    "examples": [
+      { "ja": "品種を改良する。", "ko": "품종을 개량하다." }
+    ]
+  },
+  {
+    "word": "特徴",
+    "reading": "とくちょう",
+    "meaning": "특징",
+    "meaningDetail": "특성",
+    "category": "명사",
+    "examples": [
+      { "ja": "特徴を説明する。", "ko": "특징을 설명하다." }
+    ]
+  },
+  {
+    "word": "特性",
+    "reading": "とくせい",
+    "meaning": "특성",
+    "meaningDetail": "성질",
+    "category": "명사",
+    "examples": [
+      { "ja": "特性を生かす。", "ko": "특성을 살리다." }
+    ]
+  },
+  {
+    "word": "性質",
+    "reading": "せいしつ",
+    "meaning": "성질",
+    "meaningDetail": "본성",
+    "category": "명사",
+    "examples": [
+      { "ja": "性質を調べる。", "ko": "성질을 조사하다." }
+    ]
+  },
+  {
+    "word": "性格",
+    "reading": "せいかく",
+    "meaning": "성격",
+    "meaningDetail": "개성",
+    "category": "명사",
+    "examples": [
+      { "ja": "性格が良い。", "ko": "성격이 좋다." }
+    ]
+  },
+  {
+    "word": "個性",
+    "reading": "こせい",
+    "meaning": "개성",
+    "meaningDetail": "특색",
+    "category": "명사",
+    "examples": [
+      { "ja": "個性を大切にする。", "ko": "개성을 소중히 하다." }
+    ]
+  },
+  {
+    "word": "価値",
+    "reading": "かち",
+    "meaning": "가치",
+    "meaningDetail": "값어치",
+    "category": "명사",
+    "examples": [
+      { "ja": "価値を認める。", "ko": "가치를 인정하다." }
+    ]
+  },
+  {
+    "word": "意義",
+    "reading": "いぎ",
+    "meaning": "의의",
+    "meaningDetail": "뜻",
+    "category": "명사",
+    "examples": [
+      { "ja": "意義を考える。", "ko": "의의를 생각하다." }
+    ]
+  },
+  {
+    "word": "重要性",
+    "reading": "じゅうようせい",
+    "meaning": "중요성",
+    "meaningDetail": "중대함",
+    "category": "명사",
+    "examples": [
+      { "ja": "重要性を認識する。", "ko": "중요성을 인식하다." }
+    ]
+  },
+  {
+    "word": "必要性",
+    "reading": "ひつようせい",
+    "meaning": "필요성",
+    "meaningDetail": "필요함",
+    "category": "명사",
+    "examples": [
+      { "ja": "必要性を感じる。", "ko": "필요성을 느끼다." }
+    ]
+  },
+  {
+    "word": "可能性",
+    "reading": "かのうせい",
+    "meaning": "가능성",
+    "meaningDetail": "될 수 있음",
+    "category": "명사",
+    "examples": [
+      { "ja": "可能性を探る。", "ko": "가능성을 탐색하다." }
+    ]
+  }
+]

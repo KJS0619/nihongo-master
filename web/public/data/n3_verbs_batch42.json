@@ -1,0 +1,519 @@
+[
+  {
+    "word": "組み立てる",
+    "reading": "くみたてる",
+    "meaning": "조립하다",
+    "meaningDetail": "구성하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家具を組み立てる。", "ko": "가구를 조립하다." }
+    ]
+  },
+  {
+    "word": "取り組む",
+    "reading": "とりくむ",
+    "meaning": "몰두하다",
+    "meaningDetail": "임하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "課題に取り組む。", "ko": "과제에 몰두하다." }
+    ]
+  },
+  {
+    "word": "仕上げる",
+    "reading": "しあげる",
+    "meaning": "완성하다",
+    "meaningDetail": "마무리하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "作品を仕上げる。", "ko": "작품을 완성하다." }
+    ]
+  },
+  {
+    "word": "仕上がる",
+    "reading": "しあがる",
+    "meaning": "완성되다",
+    "meaningDetail": "마무리되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "料理が仕上がる。", "ko": "요리가 완성되다." }
+    ]
+  },
+  {
+    "word": "片付ける",
+    "reading": "かたづける",
+    "meaning": "정리하다",
+    "meaningDetail": "치우다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "部屋を片付ける。", "ko": "방을 정리하다." }
+    ]
+  },
+  {
+    "word": "片付く",
+    "reading": "かたづく",
+    "meaning": "정리되다",
+    "meaningDetail": "해결되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "問題が片付く。", "ko": "문제가 해결되다." }
+    ]
+  },
+  {
+    "word": "持ち上げる",
+    "reading": "もちあげる",
+    "meaning": "들어올리다",
+    "meaningDetail": "치켜세우다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "荷物を持ち上げる。", "ko": "짐을 들어올리다." }
+    ]
+  },
+  {
+    "word": "持ち込む",
+    "reading": "もちこむ",
+    "meaning": "반입하다",
+    "meaningDetail": "가져오다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "飲み物を持ち込む。", "ko": "음료를 반입하다." }
+    ]
+  },
+  {
+    "word": "持ち出す",
+    "reading": "もちだす",
+    "meaning": "가지고 나가다",
+    "meaningDetail": "꺼내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "話題を持ち出す。", "ko": "화제를 꺼내다." }
+    ]
+  },
+  {
+    "word": "持ち帰る",
+    "reading": "もちかえる",
+    "meaning": "가지고 돌아가다",
+    "meaningDetail": "포장하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "お土産を持ち帰る。", "ko": "선물을 가지고 돌아가다." }
+    ]
+  },
+  {
+    "word": "呼び掛ける",
+    "reading": "よびかける",
+    "meaning": "호소하다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "協力を呼び掛ける。", "ko": "협력을 호소하다." }
+    ]
+  },
+  {
+    "word": "呼び出す",
+    "reading": "よびだす",
+    "meaning": "호출하다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "救急車を呼び出す。", "ko": "구급차를 호출하다." }
+    ]
+  },
+  {
+    "word": "呼び寄せる",
+    "reading": "よびよせる",
+    "meaning": "불러들이다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家族を呼び寄せる。", "ko": "가족을 불러들이다." }
+    ]
+  },
+  {
+    "word": "呼び止める",
+    "reading": "よびとめる",
+    "meaning": "불러세우다",
+    "meaningDetail": "멈추게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "タクシーを呼び止める。", "ko": "택시를 불러세우다." }
+    ]
+  },
+  {
+    "word": "飛び込む",
+    "reading": "とびこむ",
+    "meaning": "뛰어들다",
+    "meaningDetail": "달려들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プールに飛び込む。", "ko": "수영장에 뛰어들다." }
+    ]
+  },
+  {
+    "word": "飛び出す",
+    "reading": "とびだす",
+    "meaning": "뛰어나가다",
+    "meaningDetail": "튀어나오다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "部屋を飛び出す。", "ko": "방을 뛰어나가다." }
+    ]
+  },
+  {
+    "word": "飛び越える",
+    "reading": "とびこえる",
+    "meaning": "뛰어넘다",
+    "meaningDetail": "넘다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "障害を飛び越える。", "ko": "장애물을 뛰어넘다." }
+    ]
+  },
+  {
+    "word": "飛び上がる",
+    "reading": "とびあがる",
+    "meaning": "뛰어오르다",
+    "meaningDetail": "튀어오르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "喜びで飛び上がる。", "ko": "기쁨에 뛰어오르다." }
+    ]
+  },
+  {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "meaning": "갈아타다",
+    "meaningDetail": "환승하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電車を乗り換える。", "ko": "전철을 갈아타다." }
+    ]
+  },
+  {
+    "word": "乗り込む",
+    "reading": "のりこむ",
+    "meaning": "타다",
+    "meaningDetail": "승차하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "車に乗り込む。", "ko": "차에 타다." }
+    ]
+  },
+  {
+    "word": "乗り越える",
+    "reading": "のりこえる",
+    "meaning": "극복하다",
+    "meaningDetail": "넘다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "困難を乗り越える。", "ko": "곤란을 극복하다." }
+    ]
+  },
+  {
+    "word": "乗り出す",
+    "reading": "のりだす",
+    "meaning": "나서다",
+    "meaningDetail": "시작하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事業に乗り出す。", "ko": "사업에 나서다." }
+    ]
+  },
+  {
+    "word": "乗り遅れる",
+    "reading": "のりおくれる",
+    "meaning": "늦다",
+    "meaningDetail": "놓치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電車に乗り遅れる。", "ko": "전철에 늦다." }
+    ]
+  },
+  {
+    "word": "落ち着く",
+    "reading": "おちつく",
+    "meaning": "진정되다",
+    "meaningDetail": "안정되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "気持ちが落ち着く。", "ko": "기분이 진정되다." }
+    ]
+  },
+  {
+    "word": "落ち込む",
+    "reading": "おちこむ",
+    "meaning": "우울해지다",
+    "meaningDetail": "침체되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "気分が落ち込む。", "ko": "기분이 우울해지다." }
+    ]
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "떠올리다",
+    "meaningDetail": "기억하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "昔を思い出す。", "ko": "옛날을 떠올리다." }
+    ]
+  },
+  {
+    "word": "思い付く",
+    "reading": "おもいつく",
+    "meaning": "떠오르다",
+    "meaningDetail": "생각나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "良いアイデアを思い付く。", "ko": "좋은 아이디어가 떠오르다." }
+    ]
+  },
+  {
+    "word": "思い込む",
+    "reading": "おもいこむ",
+    "meaning": "확신하다",
+    "meaningDetail": "믿어버리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "正しいと思い込む。", "ko": "옳다고 확신하다." }
+    ]
+  },
+  {
+    "word": "思い切る",
+    "reading": "おもいきる",
+    "meaning": "결심하다",
+    "meaningDetail": "단념하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "思い切って告白する。", "ko": "결심하고 고백하다." }
+    ]
+  },
+  {
+    "word": "差し上げる",
+    "reading": "さしあげる",
+    "meaning": "드리다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "プレゼントを差し上げる。", "ko": "선물을 드리다." }
+    ]
+  },
+  {
+    "word": "差し引く",
+    "reading": "さしひく",
+    "meaning": "공제하다",
+    "meaningDetail": "빼다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "経費を差し引く。", "ko": "경비를 공제하다." }
+    ]
+  },
+  {
+    "word": "差し出す",
+    "reading": "さしだす",
+    "meaning": "내밀다",
+    "meaningDetail": "제출하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "名刺を差し出す。", "ko": "명함을 내밀다." }
+    ]
+  },
+  {
+    "word": "差し込む",
+    "reading": "さしこむ",
+    "meaning": "꽂다",
+    "meaningDetail": "넣다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プラグを差し込む。", "ko": "플러그를 꽂다." }
+    ]
+  },
+  {
+    "word": "打ち合わせる",
+    "reading": "うちあわせる",
+    "meaning": "협의하다",
+    "meaningDetail": "미팅하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "予定を打ち合わせる。", "ko": "예정을 협의하다." }
+    ]
+  },
+  {
+    "word": "打ち明ける",
+    "reading": "うちあける",
+    "meaning": "털어놓다",
+    "meaningDetail": "고백하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "秘密を打ち明ける。", "ko": "비밀을 털어놓다." }
+    ]
+  },
+  {
+    "word": "打ち込む",
+    "reading": "うちこむ",
+    "meaning": "몰두하다",
+    "meaningDetail": "입력하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "仕事に打ち込む。", "ko": "일에 몰두하다." }
+    ]
+  },
+  {
+    "word": "打ち消す",
+    "reading": "うちけす",
+    "meaning": "부정하다",
+    "meaningDetail": "취소하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "噂を打ち消す。", "ko": "소문을 부정하다." }
+    ]
+  },
+  {
+    "word": "打ち切る",
+    "reading": "うちきる",
+    "meaning": "중단하다",
+    "meaningDetail": "종료하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "放送を打ち切る。", "ko": "방송을 중단하다." }
+    ]
+  },
+  {
+    "word": "振り返る",
+    "reading": "ふりかえる",
+    "meaning": "돌아보다",
+    "meaningDetail": "회상하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過去を振り返る。", "ko": "과거를 돌아보다." }
+    ]
+  },
+  {
+    "word": "振り向く",
+    "reading": "ふりむく",
+    "meaning": "뒤돌아보다",
+    "meaningDetail": "돌아보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "声がして振り向く。", "ko": "소리가 나서 뒤돌아보다." }
+    ]
+  },
+  {
+    "word": "振り込む",
+    "reading": "ふりこむ",
+    "meaning": "입금하다",
+    "meaningDetail": "송금하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "お金を振り込む。", "ko": "돈을 입금하다." }
+    ]
+  },
+  {
+    "word": "振る舞う",
+    "reading": "ふるまう",
+    "meaning": "행동하다",
+    "meaningDetail": "대접하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "紳士的に振る舞う。", "ko": "신사적으로 행동하다." }
+    ]
+  },
+  {
+    "word": "締め切る",
+    "reading": "しめきる",
+    "meaning": "마감하다",
+    "meaningDetail": "닫다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "応募を締め切る。", "ko": "응모를 마감하다." }
+    ]
+  },
+  {
+    "word": "締め付ける",
+    "reading": "しめつける",
+    "meaning": "조이다",
+    "meaningDetail": "압박하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ネジを締め付ける。", "ko": "나사를 조이다." }
+    ]
+  },
+  {
+    "word": "絞り込む",
+    "reading": "しぼりこむ",
+    "meaning": "좁히다",
+    "meaningDetail": "압축하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "候補を絞り込む。", "ko": "후보를 좁히다." }
+    ]
+  },
+  {
+    "word": "盛り上がる",
+    "reading": "もりあがる",
+    "meaning": "달아오르다",
+    "meaningDetail": "고조되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "パーティーが盛り上がる。", "ko": "파티가 달아오르다." }
+    ]
+  },
+  {
+    "word": "盛り込む",
+    "reading": "もりこむ",
+    "meaning": "담다",
+    "meaningDetail": "포함시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "要望を盛り込む。", "ko": "요망을 담다." }
+    ]
+  }
+]

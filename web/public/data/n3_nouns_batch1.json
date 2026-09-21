@@ -1,0 +1,1065 @@
+[
+  {
+    "id": "n3_n001",
+    "word": "愛情",
+    "reading": "あいじょう",
+    "meaning": "애정",
+    "meaningDetail": "사랑하는 마음",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "愛情を込めて作った。", "reading": "あいじょうをこめてつくった。", "ko": "애정을 담아 만들었다."},
+      {"ja": "愛情が深い。", "reading": "あいじょうがふかい。", "ko": "애정이 깊다."}
+    ],
+    "relatedWords": [{"word": "愛", "reading": "あい", "meaning": "사랑", "relation": "관련어"}],
+    "kanji": [
+      {"char": "愛", "reading": "あい", "meaning": "사랑 애"},
+      {"char": "情", "reading": "じょう", "meaning": "정 정"}
+    ],
+    "tags": ["명사", "감정"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n002",
+    "word": "悪影響",
+    "reading": "あくえいきょう",
+    "meaning": "악영향",
+    "meaningDetail": "나쁜 영향",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "健康に悪影響を与える。", "reading": "けんこうにあくえいきょうをあたえる。", "ko": "건강에 악영향을 미친다."},
+      {"ja": "悪影響を心配する。", "reading": "あくえいきょうをしんぱいする。", "ko": "악영향을 걱정하다."}
+    ],
+    "relatedWords": [{"word": "影響", "reading": "えいきょう", "meaning": "영향", "relation": "관련어"}],
+    "kanji": [
+      {"char": "悪", "reading": "あく", "meaning": "나쁠 악"},
+      {"char": "影", "reading": "えい", "meaning": "그림자 영"},
+      {"char": "響", "reading": "きょう", "meaning": "울릴 향"}
+    ],
+    "tags": ["명사", "사회"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n003",
+    "word": "暗記",
+    "reading": "あんき",
+    "meaning": "암기",
+    "meaningDetail": "외워서 기억하는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "単語を暗記する。", "reading": "たんごをあんきする。", "ko": "단어를 암기하다."},
+      {"ja": "暗記は苦手だ。", "reading": "あんきはにがてだ。", "ko": "암기는 서툴다."}
+    ],
+    "relatedWords": [{"word": "記憶", "reading": "きおく", "meaning": "기억", "relation": "관련어"}],
+    "kanji": [
+      {"char": "暗", "reading": "あん", "meaning": "어두울 암"},
+      {"char": "記", "reading": "き", "meaning": "기록할 기"}
+    ],
+    "tags": ["명사", "학습"],
+    "frequency": 68
+  },
+  {
+    "id": "n3_n004",
+    "word": "以外",
+    "reading": "いがい",
+    "meaning": "이외, ~외에",
+    "meaningDetail": "그것을 제외한 나머지",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "日曜日以外は忙しい。", "reading": "にちようびいがいはいそがしい。", "ko": "일요일 외에는 바쁘다."},
+      {"ja": "これ以外に方法はない。", "reading": "これいがいにほうほうはない。", "ko": "이 외에 방법은 없다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "以", "reading": "い", "meaning": "써 이"},
+      {"char": "外", "reading": "がい", "meaning": "바깥 외"}
+    ],
+    "tags": ["명사", "문법"],
+    "frequency": 88
+  },
+  {
+    "id": "n3_n005",
+    "word": "意外",
+    "reading": "いがい",
+    "meaning": "의외",
+    "meaningDetail": "예상 밖인 것",
+    "jlpt": "N3",
+    "category": "な형용사",
+    "adjectiveType": "な형용사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "意外な結果だった。", "reading": "いがいなけっかだった。", "ko": "의외의 결과였다."},
+      {"ja": "意外に簡単だった。", "reading": "いがいにかんたんだった。", "ko": "의외로 간단했다."}
+    ],
+    "conjugations": [
+      {"form": "현재긍정", "value": "意外だ", "reading": "いがいだ"},
+      {"form": "현재부정", "value": "意外じゃない", "reading": "いがいじゃない"}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "意", "reading": "い", "meaning": "뜻 의"},
+      {"char": "外", "reading": "がい", "meaning": "바깥 외"}
+    ],
+    "tags": ["な형용사", "상태"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n006",
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "의견",
+    "meaningDetail": "어떤 것에 대한 생각",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "意見を言う。", "reading": "いけんをいう。", "ko": "의견을 말하다."},
+      {"ja": "皆さんの意見を聞かせてください。", "reading": "みなさんのいけんをきかせてください。", "ko": "여러분의 의견을 들려주세요."}
+    ],
+    "relatedWords": [{"word": "考え", "reading": "かんがえ", "meaning": "생각", "relation": "유의어"}],
+    "kanji": [
+      {"char": "意", "reading": "い", "meaning": "뜻 의"},
+      {"char": "見", "reading": "けん", "meaning": "볼 견"}
+    ],
+    "tags": ["명사", "소통"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n007",
+    "word": "意識",
+    "reading": "いしき",
+    "meaning": "의식",
+    "meaningDetail": "깨어 있는 상태, 자각",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "意識を失った。", "reading": "いしきをうしなった。", "ko": "의식을 잃었다."},
+      {"ja": "環境問題への意識が高い。", "reading": "かんきょうもんだいへのいしきがたかい。", "ko": "환경 문제에 대한 의식이 높다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "意", "reading": "い", "meaning": "뜻 의"},
+      {"char": "識", "reading": "しき", "meaning": "알 식"}
+    ],
+    "tags": ["명사", "심리"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n008",
+    "word": "一種",
+    "reading": "いっしゅ",
+    "meaning": "일종",
+    "meaningDetail": "한 종류",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "これは一種のゲームだ。", "reading": "これはいっしゅのげーむだ。", "ko": "이것은 일종의 게임이다."},
+      {"ja": "一種の病気。", "reading": "いっしゅのびょうき。", "ko": "일종의 병."}
+    ],
+    "relatedWords": [{"word": "種類", "reading": "しゅるい", "meaning": "종류", "relation": "관련어"}],
+    "kanji": [
+      {"char": "一", "reading": "いち", "meaning": "한 일"},
+      {"char": "種", "reading": "しゅ", "meaning": "종류 종"}
+    ],
+    "tags": ["명사", "분류"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n009",
+    "word": "一般",
+    "reading": "いっぱん",
+    "meaning": "일반",
+    "meaningDetail": "보통, 특별하지 않은 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "一般的な意見。", "reading": "いっぱんてきないけん。", "ko": "일반적인 의견."},
+      {"ja": "一般の人。", "reading": "いっぱんのひと。", "ko": "일반인."}
+    ],
+    "relatedWords": [{"word": "普通", "reading": "ふつう", "meaning": "보통", "relation": "유의어"}],
+    "kanji": [
+      {"char": "一", "reading": "いち", "meaning": "한 일"},
+      {"char": "般", "reading": "はん", "meaning": "일반 반"}
+    ],
+    "tags": ["명사", "분류"],
+    "frequency": 82
+  },
+  {
+    "id": "n3_n010",
+    "word": "印刷",
+    "reading": "いんさつ",
+    "meaning": "인쇄",
+    "meaningDetail": "글이나 그림을 종이에 찍어내는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "書類を印刷する。", "reading": "しょるいをいんさつする。", "ko": "서류를 인쇄하다."},
+      {"ja": "印刷会社で働く。", "reading": "いんさつがいしゃではたらく。", "ko": "인쇄 회사에서 일하다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "印", "reading": "いん", "meaning": "도장 인"},
+      {"char": "刷", "reading": "さつ", "meaning": "찍을 쇄"}
+    ],
+    "tags": ["명사", "비즈니스"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n011",
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "우주",
+    "meaningDetail": "지구 밖의 공간",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0, 0],
+    "examples": [
+      {"ja": "宇宙に行きたい。", "reading": "うちゅうにいきたい。", "ko": "우주에 가고 싶다."},
+      {"ja": "宇宙飛行士になる。", "reading": "うちゅうひこうしになる。", "ko": "우주비행사가 되다."}
+    ],
+    "relatedWords": [{"word": "地球", "reading": "ちきゅう", "meaning": "지구", "relation": "관련어"}],
+    "kanji": [
+      {"char": "宇", "reading": "う", "meaning": "집 우"},
+      {"char": "宙", "reading": "ちゅう", "meaning": "하늘 주"}
+    ],
+    "tags": ["명사", "과학"],
+    "frequency": 70
+  },
+  {
+    "id": "n3_n012",
+    "word": "運",
+    "reading": "うん",
+    "meaning": "운, 행운",
+    "meaningDetail": "우연히 찾아오는 좋거나 나쁜 일",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "運がいい。", "reading": "うんがいい。", "ko": "운이 좋다."},
+      {"ja": "運に任せる。", "reading": "うんにまかせる。", "ko": "운에 맡기다."}
+    ],
+    "relatedWords": [{"word": "運命", "reading": "うんめい", "meaning": "운명", "relation": "관련어"}],
+    "kanji": [{"char": "運", "reading": "うん", "meaning": "운 운"}],
+    "tags": ["명사", "추상"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n013",
+    "word": "運命",
+    "reading": "うんめい",
+    "meaning": "운명",
+    "meaningDetail": "정해진 것처럼 피할 수 없는 일",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0, 0],
+    "examples": [
+      {"ja": "運命を信じる。", "reading": "うんめいをしんじる。", "ko": "운명을 믿다."},
+      {"ja": "運命の出会い。", "reading": "うんめいのであい。", "ko": "운명적인 만남."}
+    ],
+    "relatedWords": [{"word": "運", "reading": "うん", "meaning": "운", "relation": "관련어"}],
+    "kanji": [
+      {"char": "運", "reading": "うん", "meaning": "운 운"},
+      {"char": "命", "reading": "めい", "meaning": "목숨 명"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 68
+  },
+  {
+    "id": "n3_n014",
+    "word": "永遠",
+    "reading": "えいえん",
+    "meaning": "영원",
+    "meaningDetail": "끝이 없이 계속되는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "永遠の愛。", "reading": "えいえんのあい。", "ko": "영원한 사랑."},
+      {"ja": "永遠に忘れない。", "reading": "えいえんにわすれない。", "ko": "영원히 잊지 않는다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "永", "reading": "えい", "meaning": "길 영"},
+      {"char": "遠", "reading": "えん", "meaning": "멀 원"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n015",
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "meaningDetail": "어떤 것이 다른 것에 미치는 작용",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "影響を受ける。", "reading": "えいきょうをうける。", "ko": "영향을 받다."},
+      {"ja": "環境に影響を与える。", "reading": "かんきょうにえいきょうをあたえる。", "ko": "환경에 영향을 주다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "影", "reading": "えい", "meaning": "그림자 영"},
+      {"char": "響", "reading": "きょう", "meaning": "울릴 향"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n016",
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaning": "영양",
+    "meaningDetail": "몸에 필요한 성분",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "栄養が足りない。", "reading": "えいようがたりない。", "ko": "영양이 부족하다."},
+      {"ja": "栄養のある食事。", "reading": "えいようのあるしょくじ。", "ko": "영양가 있는 식사."}
+    ],
+    "relatedWords": [{"word": "健康", "reading": "けんこう", "meaning": "건강", "relation": "관련어"}],
+    "kanji": [
+      {"char": "栄", "reading": "えい", "meaning": "영화 영"},
+      {"char": "養", "reading": "よう", "meaning": "기를 양"}
+    ],
+    "tags": ["명사", "건강"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n017",
+    "word": "液体",
+    "reading": "えきたい",
+    "meaning": "액체",
+    "meaningDetail": "흘러가는 상태의 물질",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "液体を入れる。", "reading": "えきたいをいれる。", "ko": "액체를 넣다."},
+      {"ja": "液体状態。", "reading": "えきたいじょうたい。", "ko": "액체 상태."}
+    ],
+    "relatedWords": [
+      {"word": "固体", "reading": "こたい", "meaning": "고체", "relation": "관련어"},
+      {"word": "気体", "reading": "きたい", "meaning": "기체", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "液", "reading": "えき", "meaning": "진 액"},
+      {"char": "体", "reading": "たい", "meaning": "몸 체"}
+    ],
+    "tags": ["명사", "과학"],
+    "frequency": 58
+  },
+  {
+    "id": "n3_n018",
+    "word": "演技",
+    "reading": "えんぎ",
+    "meaning": "연기",
+    "meaningDetail": "배우가 역할을 표현하는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "演技がうまい。", "reading": "えんぎがうまい。", "ko": "연기를 잘한다."},
+      {"ja": "素晴らしい演技だった。", "reading": "すばらしいえんぎだった。", "ko": "훌륭한 연기였다."}
+    ],
+    "relatedWords": [{"word": "演じる", "reading": "えんじる", "meaning": "연기하다", "relation": "관련어"}],
+    "kanji": [
+      {"char": "演", "reading": "えん", "meaning": "펼 연"},
+      {"char": "技", "reading": "ぎ", "meaning": "기술 기"}
+    ],
+    "tags": ["명사", "예술"],
+    "frequency": 68
+  },
+  {
+    "id": "n3_n019",
+    "word": "演説",
+    "reading": "えんぜつ",
+    "meaning": "연설",
+    "meaningDetail": "많은 사람 앞에서 하는 공식적인 말",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "演説をする。", "reading": "えんぜつをする。", "ko": "연설을 하다."},
+      {"ja": "大統領の演説。", "reading": "だいとうりょうのえんぜつ。", "ko": "대통령의 연설."}
+    ],
+    "relatedWords": [{"word": "スピーチ", "reading": "すぴーち", "meaning": "스피치", "relation": "유의어"}],
+    "kanji": [
+      {"char": "演", "reading": "えん", "meaning": "펼 연"},
+      {"char": "説", "reading": "ぜつ", "meaning": "말씀 설"}
+    ],
+    "tags": ["명사", "정치"],
+    "frequency": 62
+  },
+  {
+    "id": "n3_n020",
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "응원",
+    "meaningDetail": "힘을 내도록 북돋는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "応援してください。", "reading": "おうえんしてください。", "ko": "응원해 주세요."},
+      {"ja": "応援ありがとう。", "reading": "おうえんありがとう。", "ko": "응원 고마워."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "応", "reading": "おう", "meaning": "응할 응"},
+      {"char": "援", "reading": "えん", "meaning": "도울 원"}
+    ],
+    "tags": ["명사", "스포츠"],
+    "frequency": 75
+  },
+  {
+    "id": "n3_n021",
+    "word": "往復",
+    "reading": "おうふく",
+    "meaning": "왕복",
+    "meaningDetail": "가고 오는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "往復切符を買う。", "reading": "おうふくきっぷをかう。", "ko": "왕복 표를 사다."},
+      {"ja": "往復2時間かかる。", "reading": "おうふくにじかんかかる。", "ko": "왕복 2시간 걸린다."}
+    ],
+    "relatedWords": [{"word": "片道", "reading": "かたみち", "meaning": "편도", "relation": "반의어"}],
+    "kanji": [
+      {"char": "往", "reading": "おう", "meaning": "갈 왕"},
+      {"char": "復", "reading": "ふく", "meaning": "돌아올 복"}
+    ],
+    "tags": ["명사", "교통"],
+    "frequency": 68
+  },
+  {
+    "id": "n3_n022",
+    "word": "屋外",
+    "reading": "おくがい",
+    "meaning": "옥외, 야외",
+    "meaningDetail": "건물 바깥",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0, 0],
+    "examples": [
+      {"ja": "屋外でイベントを行う。", "reading": "おくがいでいべんとをおこなう。", "ko": "야외에서 이벤트를 열다."},
+      {"ja": "屋外活動。", "reading": "おくがいかつどう。", "ko": "야외 활동."}
+    ],
+    "relatedWords": [{"word": "屋内", "reading": "おくない", "meaning": "옥내", "relation": "반의어"}],
+    "kanji": [
+      {"char": "屋", "reading": "おく", "meaning": "집 옥"},
+      {"char": "外", "reading": "がい", "meaning": "바깥 외"}
+    ],
+    "tags": ["명사", "장소"],
+    "frequency": 62
+  },
+  {
+    "id": "n3_n023",
+    "word": "温暖",
+    "reading": "おんだん",
+    "meaning": "온난함",
+    "meaningDetail": "따뜻한 상태",
+    "jlpt": "N3",
+    "category": "な형용사",
+    "adjectiveType": "な형용사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "温暖な気候。", "reading": "おんだんなきこう。", "ko": "온난한 기후."},
+      {"ja": "地球温暖化。", "reading": "ちきゅうおんだんか。", "ko": "지구 온난화."}
+    ],
+    "conjugations": [
+      {"form": "현재긍정", "value": "温暖だ", "reading": "おんだんだ"},
+      {"form": "현재부정", "value": "温暖じゃない", "reading": "おんだんじゃない"}
+    ],
+    "relatedWords": [{"word": "暖かい", "reading": "あたたかい", "meaning": "따뜻하다", "relation": "관련어"}],
+    "kanji": [
+      {"char": "温", "reading": "おん", "meaning": "따뜻할 온"},
+      {"char": "暖", "reading": "だん", "meaning": "따뜻할 난"}
+    ],
+    "tags": ["な형용사", "기후"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n024",
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "해결",
+    "meaningDetail": "문제를 풀어 끝내는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "問題を解決する。", "reading": "もんだいをかいけつする。", "ko": "문제를 해결하다."},
+      {"ja": "解決策を考える。", "reading": "かいけつさくをかんがえる。", "ko": "해결책을 생각하다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "解", "reading": "かい", "meaning": "풀 해"},
+      {"char": "決", "reading": "けつ", "meaning": "결정할 결"}
+    ],
+    "tags": ["명사", "문제"],
+    "frequency": 82
+  },
+  {
+    "id": "n3_n025",
+    "word": "海外",
+    "reading": "かいがい",
+    "meaning": "해외",
+    "meaningDetail": "외국",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0, 0],
+    "examples": [
+      {"ja": "海外旅行に行く。", "reading": "かいがいりょこうにいく。", "ko": "해외여행을 가다."},
+      {"ja": "海外で働く。", "reading": "かいがいではたらく。", "ko": "해외에서 일하다."}
+    ],
+    "relatedWords": [{"word": "国内", "reading": "こくない", "meaning": "국내", "relation": "반의어"}],
+    "kanji": [
+      {"char": "海", "reading": "かい", "meaning": "바다 해"},
+      {"char": "外", "reading": "がい", "meaning": "바깥 외"}
+    ],
+    "tags": ["명사", "장소"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n026",
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "나쁜 점을 고쳐 좋게 만드는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "状況を改善する。", "reading": "じょうきょうをかいぜんする。", "ko": "상황을 개선하다."},
+      {"ja": "改善の余地がある。", "reading": "かいぜんのよちがある。", "ko": "개선의 여지가 있다."}
+    ],
+    "relatedWords": [{"word": "改良", "reading": "かいりょう", "meaning": "개량", "relation": "유의어"}],
+    "kanji": [
+      {"char": "改", "reading": "かい", "meaning": "고칠 개"},
+      {"char": "善", "reading": "ぜん", "meaning": "착할 선"}
+    ],
+    "tags": ["명사", "비즈니스"],
+    "frequency": 75
+  },
+  {
+    "id": "n3_n027",
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaning": "확대",
+    "meaningDetail": "크기나 범위를 넓히는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "事業を拡大する。", "reading": "じぎょうをかくだいする。", "ko": "사업을 확대하다."},
+      {"ja": "写真を拡大する。", "reading": "しゃしんをかくだいする。", "ko": "사진을 확대하다."}
+    ],
+    "relatedWords": [{"word": "縮小", "reading": "しゅくしょう", "meaning": "축소", "relation": "반의어"}],
+    "kanji": [
+      {"char": "拡", "reading": "かく", "meaning": "넓힐 확"},
+      {"char": "大", "reading": "だい", "meaning": "큰 대"}
+    ],
+    "tags": ["명사", "비즈니스"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n028",
+    "word": "学期",
+    "reading": "がっき",
+    "meaning": "학기",
+    "meaningDetail": "학교의 학습 기간 단위",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "新学期が始まる。", "reading": "しんがっきがはじまる。", "ko": "새 학기가 시작된다."},
+      {"ja": "一学期の成績。", "reading": "いちがっきのせいせき。", "ko": "1학기 성적."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "学", "reading": "がく", "meaning": "배울 학"},
+      {"char": "期", "reading": "き", "meaning": "기약할 기"}
+    ],
+    "tags": ["명사", "학교"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n029",
+    "word": "楽器",
+    "reading": "がっき",
+    "meaning": "악기",
+    "meaningDetail": "음악을 연주하는 도구",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "楽器を演奏する。", "reading": "がっきをえんそうする。", "ko": "악기를 연주하다."},
+      {"ja": "どんな楽器ができますか。", "reading": "どんながっきができますか。", "ko": "어떤 악기를 연주할 수 있어요?"}
+    ],
+    "relatedWords": [{"word": "音楽", "reading": "おんがく", "meaning": "음악", "relation": "관련어"}],
+    "kanji": [
+      {"char": "楽", "reading": "がく", "meaning": "즐거울 락"},
+      {"char": "器", "reading": "き", "meaning": "그릇 기"}
+    ],
+    "tags": ["명사", "음악"],
+    "frequency": 70
+  },
+  {
+    "id": "n3_n030",
+    "word": "活動",
+    "reading": "かつどう",
+    "meaning": "활동",
+    "meaningDetail": "적극적으로 움직이며 일하는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "ボランティア活動をする。", "reading": "ぼらんてぃあかつどうをする。", "ko": "봉사 활동을 하다."},
+      {"ja": "活動を続ける。", "reading": "かつどうをつづける。", "ko": "활동을 계속하다."}
+    ],
+    "relatedWords": [{"word": "行動", "reading": "こうどう", "meaning": "행동", "relation": "관련어"}],
+    "kanji": [
+      {"char": "活", "reading": "かつ", "meaning": "살 활"},
+      {"char": "動", "reading": "どう", "meaning": "움직일 동"}
+    ],
+    "tags": ["명사", "사회"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n031",
+    "word": "可能",
+    "reading": "かのう",
+    "meaning": "가능",
+    "meaningDetail": "할 수 있는 상태",
+    "jlpt": "N3",
+    "category": "な형용사",
+    "adjectiveType": "な형용사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "可能な限り努力する。", "reading": "かのうなかぎりどりょくする。", "ko": "가능한 한 노력하다."},
+      {"ja": "それは可能です。", "reading": "それはかのうです。", "ko": "그것은 가능합니다."}
+    ],
+    "conjugations": [
+      {"form": "현재긍정", "value": "可能だ", "reading": "かのうだ"},
+      {"form": "현재부정", "value": "可能じゃない", "reading": "かのうじゃない"}
+    ],
+    "relatedWords": [{"word": "不可能", "reading": "ふかのう", "meaning": "불가능", "relation": "반의어"}],
+    "kanji": [
+      {"char": "可", "reading": "か", "meaning": "옳을 가"},
+      {"char": "能", "reading": "のう", "meaning": "능할 능"}
+    ],
+    "tags": ["な형용사", "상태"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n032",
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "참음, 인내",
+    "meaningDetail": "하고 싶은 것을 억누르는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "我慢できない。", "reading": "がまんできない。", "ko": "참을 수 없다."},
+      {"ja": "我慢が必要だ。", "reading": "がまんがひつようだ。", "ko": "인내가 필요하다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "我", "reading": "が", "meaning": "나 아"},
+      {"char": "慢", "reading": "まん", "meaning": "느릴 만"}
+    ],
+    "tags": ["명사", "감정"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n033",
+    "word": "感覚",
+    "reading": "かんかく",
+    "meaning": "감각",
+    "meaningDetail": "눈, 귀, 코 등으로 느끼는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "感覚が鈍い。", "reading": "かんかくがにぶい。", "ko": "감각이 둔하다."},
+      {"ja": "時間の感覚がなくなる。", "reading": "じかんのかんかくがなくなる。", "ko": "시간 감각이 없어지다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "感", "reading": "かん", "meaning": "느낄 감"},
+      {"char": "覚", "reading": "かく", "meaning": "깨달을 각"}
+    ],
+    "tags": ["명사", "신체"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n034",
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "환경",
+    "meaningDetail": "주위의 상황이나 조건",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "環境を守る。", "reading": "かんきょうをまもる。", "ko": "환경을 지키다."},
+      {"ja": "良い環境で育った。", "reading": "よいかんきょうでそだった。", "ko": "좋은 환경에서 자랐다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "環", "reading": "かん", "meaning": "고리 환"},
+      {"char": "境", "reading": "きょう", "meaning": "지경 경"}
+    ],
+    "tags": ["명사", "사회"],
+    "frequency": 88
+  },
+  {
+    "id": "n3_n035",
+    "word": "観光",
+    "reading": "かんこう",
+    "meaning": "관광",
+    "meaningDetail": "다른 지역의 풍경이나 문화를 구경하는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "観光に行く。", "reading": "かんこうにいく。", "ko": "관광을 가다."},
+      {"ja": "観光客が多い。", "reading": "かんこうきゃくがおおい。", "ko": "관광객이 많다."}
+    ],
+    "relatedWords": [{"word": "旅行", "reading": "りょこう", "meaning": "여행", "relation": "관련어"}],
+    "kanji": [
+      {"char": "観", "reading": "かん", "meaning": "볼 관"},
+      {"char": "光", "reading": "こう", "meaning": "빛 광"}
+    ],
+    "tags": ["명사", "여행"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n036",
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "감사",
+    "meaningDetail": "고마움을 느끼는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "感謝の気持ち。", "reading": "かんしゃのきもち。", "ko": "감사의 마음."},
+      {"ja": "心から感謝します。", "reading": "こころからかんしゃします。", "ko": "진심으로 감사합니다."}
+    ],
+    "relatedWords": [{"word": "ありがとう", "reading": "ありがとう", "meaning": "고마워", "relation": "관련어"}],
+    "kanji": [
+      {"char": "感", "reading": "かん", "meaning": "느낄 감"},
+      {"char": "謝", "reading": "しゃ", "meaning": "사례할 사"}
+    ],
+    "tags": ["명사", "감정"],
+    "frequency": 82
+  },
+  {
+    "id": "n3_n037",
+    "word": "感情",
+    "reading": "かんじょう",
+    "meaning": "감정",
+    "meaningDetail": "기쁨, 슬픔 등의 마음 상태",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "感情を抑える。", "reading": "かんじょうをおさえる。", "ko": "감정을 억누르다."},
+      {"ja": "感情的になる。", "reading": "かんじょうてきになる。", "ko": "감정적이 되다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "感", "reading": "かん", "meaning": "느낄 감"},
+      {"char": "情", "reading": "じょう", "meaning": "정 정"}
+    ],
+    "tags": ["명사", "심리"],
+    "frequency": 80
+  },
+  {
+    "id": "n3_n038",
+    "word": "完成",
+    "reading": "かんせい",
+    "meaning": "완성",
+    "meaningDetail": "완전히 만들어 끝내는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "作品が完成した。", "reading": "さくひんがかんせいした。", "ko": "작품이 완성됐다."},
+      {"ja": "完成までもう少し。", "reading": "かんせいまでもうすこし。", "ko": "완성까지 조금 더."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "完", "reading": "かん", "meaning": "완전할 완"},
+      {"char": "成", "reading": "せい", "meaning": "이룰 성"}
+    ],
+    "tags": ["명사", "작업"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n039",
+    "word": "関心",
+    "reading": "かんしん",
+    "meaning": "관심",
+    "meaningDetail": "어떤 것에 흥미를 갖는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "関心を持つ。", "reading": "かんしんをもつ。", "ko": "관심을 갖다."},
+      {"ja": "政治に関心がない。", "reading": "せいじにかんしんがない。", "ko": "정치에 관심이 없다."}
+    ],
+    "relatedWords": [{"word": "興味", "reading": "きょうみ", "meaning": "흥미", "relation": "유의어"}],
+    "kanji": [
+      {"char": "関", "reading": "かん", "meaning": "빗장 관"},
+      {"char": "心", "reading": "しん", "meaning": "마음 심"}
+    ],
+    "tags": ["명사", "심리"],
+    "frequency": 80
+  },
+  {
+    "id": "n3_n040",
+    "word": "記憶",
+    "reading": "きおく",
+    "meaning": "기억",
+    "meaningDetail": "과거의 일을 마음속에 간직하는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "記憶に残る。", "reading": "きおくにのこる。", "ko": "기억에 남다."},
+      {"ja": "記憶力がいい。", "reading": "きおくりょくがいい。", "ko": "기억력이 좋다."}
+    ],
+    "relatedWords": [{"word": "忘れる", "reading": "わすれる", "meaning": "잊다", "relation": "반의어"}],
+    "kanji": [
+      {"char": "記", "reading": "き", "meaning": "기록할 기"},
+      {"char": "憶", "reading": "おく", "meaning": "생각할 억"}
+    ],
+    "tags": ["명사", "심리"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n041",
+    "word": "機会",
+    "reading": "きかい",
+    "meaning": "기회",
+    "meaningDetail": "어떤 일을 하기에 좋은 때",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "いい機会だ。", "reading": "いいきかいだ。", "ko": "좋은 기회다."},
+      {"ja": "機会があれば行きたい。", "reading": "きかいがあればいきたい。", "ko": "기회가 있으면 가고 싶다."}
+    ],
+    "relatedWords": [{"word": "チャンス", "reading": "ちゃんす", "meaning": "찬스", "relation": "유의어"}],
+    "kanji": [
+      {"char": "機", "reading": "き", "meaning": "틀 기"},
+      {"char": "会", "reading": "かい", "meaning": "모일 회"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n042",
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "판단의 근거가 되는 표준",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "基準を設ける。", "reading": "きじゅんをもうける。", "ko": "기준을 정하다."},
+      {"ja": "基準に達する。", "reading": "きじゅんにたっする。", "ko": "기준에 달하다."}
+    ],
+    "relatedWords": [{"word": "標準", "reading": "ひょうじゅん", "meaning": "표준", "relation": "유의어"}],
+    "kanji": [
+      {"char": "基", "reading": "き", "meaning": "터 기"},
+      {"char": "準", "reading": "じゅん", "meaning": "준할 준"}
+    ],
+    "tags": ["명사", "비즈니스"],
+    "frequency": 72
+  },
+  {
+    "id": "n3_n043",
+    "word": "犠牲",
+    "reading": "ぎせい",
+    "meaning": "희생",
+    "meaningDetail": "다른 것을 위해 자신을 버리는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "犠牲になる。", "reading": "ぎせいになる。", "ko": "희생이 되다."},
+      {"ja": "犠牲を払う。", "reading": "ぎせいをはらう。", "ko": "희생을 치르다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "犠", "reading": "ぎ", "meaning": "희생 희"},
+      {"char": "牲", "reading": "せい", "meaning": "희생 생"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 65
+  },
+  {
+    "id": "n3_n044",
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "지켜야 할 정해진 사항",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "規則を守る。", "reading": "きそくをまもる。", "ko": "규칙을 지키다."},
+      {"ja": "規則正しい生活。", "reading": "きそくただしいせいかつ。", "ko": "규칙적인 생활."}
+    ],
+    "relatedWords": [{"word": "ルール", "reading": "るーる", "meaning": "룰", "relation": "유의어"}],
+    "kanji": [
+      {"char": "規", "reading": "き", "meaning": "법 규"},
+      {"char": "則", "reading": "そく", "meaning": "법칙 칙"}
+    ],
+    "tags": ["명사", "사회"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n045",
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "meaningDetail": "좋은 결과를 바라는 마음",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "期待している。", "reading": "きたいしている。", "ko": "기대하고 있다."},
+      {"ja": "期待に応える。", "reading": "きたいにこたえる。", "ko": "기대에 부응하다."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "期", "reading": "き", "meaning": "기약할 기"},
+      {"char": "待", "reading": "たい", "meaning": "기다릴 대"}
+    ],
+    "tags": ["명사", "감정"],
+    "frequency": 82
+  },
+  {
+    "id": "n3_n046",
+    "word": "基本",
+    "reading": "きほん",
+    "meaning": "기본",
+    "meaningDetail": "가장 중요한 토대",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "基本を学ぶ。", "reading": "きほんをまなぶ。", "ko": "기본을 배우다."},
+      {"ja": "基本的なルール。", "reading": "きほんてきなるーる。", "ko": "기본적인 룰."}
+    ],
+    "relatedWords": [{"word": "応用", "reading": "おうよう", "meaning": "응용", "relation": "반의어"}],
+    "kanji": [
+      {"char": "基", "reading": "き", "meaning": "터 기"},
+      {"char": "本", "reading": "ほん", "meaning": "근본 본"}
+    ],
+    "tags": ["명사", "추상"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n047",
+    "word": "疑問",
+    "reading": "ぎもん",
+    "meaning": "의문",
+    "meaningDetail": "확실하지 않아 물어보고 싶은 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "疑問に思う。", "reading": "ぎもんにおもう。", "ko": "의문으로 여기다."},
+      {"ja": "疑問を解決する。", "reading": "ぎもんをかいけつする。", "ko": "의문을 해결하다."}
+    ],
+    "relatedWords": [{"word": "質問", "reading": "しつもん", "meaning": "질문", "relation": "관련어"}],
+    "kanji": [
+      {"char": "疑", "reading": "ぎ", "meaning": "의심할 의"},
+      {"char": "問", "reading": "もん", "meaning": "물을 문"}
+    ],
+    "tags": ["명사", "사고"],
+    "frequency": 75
+  },
+  {
+    "id": "n3_n048",
+    "word": "逆",
+    "reading": "ぎゃく",
+    "meaning": "역, 반대",
+    "meaningDetail": "방향이나 순서가 반대인 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "逆に考える。", "reading": "ぎゃくにかんがえる。", "ko": "역으로 생각하다."},
+      {"ja": "逆の意見。", "reading": "ぎゃくのいけん。", "ko": "반대 의견."}
+    ],
+    "relatedWords": [{"word": "反対", "reading": "はんたい", "meaning": "반대", "relation": "유의어"}],
+    "kanji": [{"char": "逆", "reading": "ぎゃく", "meaning": "거스를 역"}],
+    "tags": ["명사", "방향"],
+    "frequency": 78
+  },
+  {
+    "id": "n3_n049",
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "meaningDetail": "지식이나 기술을 가르치는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "教育を受ける。", "reading": "きょういくをうける。", "ko": "교육을 받다."},
+      {"ja": "教育の重要性。", "reading": "きょういくのじゅうようせい。", "ko": "교육의 중요성."}
+    ],
+    "relatedWords": [],
+    "kanji": [
+      {"char": "教", "reading": "きょう", "meaning": "가르칠 교"},
+      {"char": "育", "reading": "いく", "meaning": "기를 육"}
+    ],
+    "tags": ["명사", "학교"],
+    "frequency": 85
+  },
+  {
+    "id": "n3_n050",
+    "word": "競争",
+    "reading": "きょうそう",
+    "meaning": "경쟁",
+    "meaningDetail": "서로 이기려고 겨루는 것",
+    "jlpt": "N3",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "競争が激しい。", "reading": "きょうそうがはげしい。", "ko": "경쟁이 치열하다."},
+      {"ja": "競争に勝つ。", "reading": "きょうそうにかつ。", "ko": "경쟁에서 이기다."}
+    ],
+    "relatedWords": [{"word": "協力", "reading": "きょうりょく", "meaning": "협력", "relation": "반의어"}],
+    "kanji": [
+      {"char": "競", "reading": "きょう", "meaning": "겨룰 경"},
+      {"char": "争", "reading": "そう", "meaning": "다툴 쟁"}
+    ],
+    "tags": ["명사", "사회"],
+    "frequency": 78
+  }
+]

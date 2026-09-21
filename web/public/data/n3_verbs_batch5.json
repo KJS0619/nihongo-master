@@ -1,0 +1,590 @@
+[
+  {
+    "word": "慣れる",
+    "reading": "なれる",
+    "meaning": "익숙해지다",
+    "meaningDetail": "경험을 통해 자연스러워지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "新しい環境に慣れる。", "ko": "새로운 환경에 익숙해지다."},
+      {"ja": "運転に慣れた。", "ko": "운전에 익숙해졌다."}
+    ]
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "늘어놓다, 나열하다",
+    "meaningDetail": "줄을 세우다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "本を棚に並べる。", "ko": "책을 선반에 나열하다."},
+      {"ja": "椅子を並べる。", "ko": "의자를 늘어놓다."}
+    ]
+  },
+  {
+    "word": "鳴る",
+    "reading": "なる",
+    "meaning": "울리다",
+    "meaningDetail": "소리가 나다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "電話が鳴る。", "ko": "전화가 울리다."},
+      {"ja": "ベルが鳴った。", "ko": "벨이 울렸다."}
+    ]
+  },
+  {
+    "word": "似合う",
+    "reading": "にあう",
+    "meaning": "어울리다",
+    "meaningDetail": "조화롭게 맞다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "この服が似合う。", "ko": "이 옷이 어울리다."},
+      {"ja": "よく似合っている。", "ko": "잘 어울린다."}
+    ]
+  },
+  {
+    "word": "似る",
+    "reading": "にる",
+    "meaning": "닮다",
+    "meaningDetail": "비슷하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "父に似ている。", "ko": "아버지를 닮았다."},
+      {"ja": "双子は似ている。", "ko": "쌍둥이는 닮았다."}
+    ]
+  },
+  {
+    "word": "縫う",
+    "reading": "ぬう",
+    "meaning": "꿰매다, 바느질하다",
+    "meaningDetail": "실로 연결하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ボタンを縫う。", "ko": "단추를 꿰매다."},
+      {"ja": "傷を縫う。", "ko": "상처를 꿰매다."}
+    ]
+  },
+  {
+    "word": "抜く",
+    "reading": "ぬく",
+    "meaning": "빼다, 뽑다",
+    "meaningDetail": "안에서 밖으로 꺼내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "歯を抜く。", "ko": "이를 뽑다."},
+      {"ja": "コルクを抜く。", "ko": "코르크를 빼다."}
+    ]
+  },
+  {
+    "word": "抜ける",
+    "reading": "ぬける",
+    "meaning": "빠지다",
+    "meaningDetail": "떨어져 나가다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "髪が抜ける。", "ko": "머리카락이 빠지다."},
+      {"ja": "力が抜ける。", "ko": "힘이 빠지다."}
+    ]
+  },
+  {
+    "word": "眠る",
+    "reading": "ねむる",
+    "meaning": "잠들다",
+    "meaningDetail": "잠을 자다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ぐっすり眠る。", "ko": "푹 자다."},
+      {"ja": "眠れない夜。", "ko": "잠 못 드는 밤."}
+    ]
+  },
+  {
+    "word": "望む",
+    "reading": "のぞむ",
+    "meaning": "바라다, 원하다",
+    "meaningDetail": "희망하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "成功を望む。", "ko": "성공을 바라다."},
+      {"ja": "望んでいたことだ。", "ko": "바라던 일이다."}
+    ]
+  },
+  {
+    "word": "覗く",
+    "reading": "のぞく",
+    "meaning": "엿보다, 들여다보다",
+    "meaningDetail": "살짝 보다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "窓から覗く。", "ko": "창문으로 엿보다."},
+      {"ja": "中を覗く。", "ko": "안을 들여다보다."}
+    ]
+  },
+  {
+    "word": "載せる",
+    "reading": "のせる",
+    "meaning": "싣다, 올리다",
+    "meaningDetail": "위에 올려놓다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "荷物を車に載せる。", "ko": "짐을 차에 싣다."},
+      {"ja": "記事を載せる。", "ko": "기사를 싣다."}
+    ]
+  },
+  {
+    "word": "乗り遅れる",
+    "reading": "のりおくれる",
+    "meaning": "늦어서 못 타다",
+    "meaningDetail": "교통수단에 늦다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "電車に乗り遅れた。", "ko": "전철을 놓쳤다."},
+      {"ja": "バスに乗り遅れる。", "ko": "버스를 못 타다."}
+    ]
+  },
+  {
+    "word": "生える",
+    "reading": "はえる",
+    "meaning": "나다, 자라다",
+    "meaningDetail": "식물이나 털이 돋다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "草が生える。", "ko": "풀이 나다."},
+      {"ja": "ひげが生える。", "ko": "수염이 나다."}
+    ]
+  },
+  {
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "meaning": "나르다, 운반하다",
+    "meaningDetail": "옮기다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "荷物を運ぶ。", "ko": "짐을 나르다."},
+      {"ja": "足を運ぶ。", "ko": "발걸음을 옮기다."}
+    ]
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "시작되다",
+    "meaningDetail": "시작하다 (자동사)",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "授業が始まる。", "ko": "수업이 시작되다."},
+      {"ja": "新学期が始まる。", "ko": "새 학기가 시작되다."}
+    ]
+  },
+  {
+    "word": "外れる",
+    "reading": "はずれる",
+    "meaning": "빗나가다, 벗어나다",
+    "meaningDetail": "맞지 않다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "予想が外れた。", "ko": "예상이 빗나갔다."},
+      {"ja": "ボタンが外れる。", "ko": "단추가 떨어지다."}
+    ]
+  },
+  {
+    "word": "離れる",
+    "reading": "はなれる",
+    "meaning": "떨어지다, 멀어지다",
+    "meaningDetail": "거리가 생기다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "家を離れる。", "ko": "집을 떠나다."},
+      {"ja": "駅から離れている。", "ko": "역에서 떨어져 있다."}
+    ]
+  },
+  {
+    "word": "省く",
+    "reading": "はぶく",
+    "meaning": "생략하다, 줄이다",
+    "meaningDetail": "빼다, 없애다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "手間を省く。", "ko": "수고를 줄이다."},
+      {"ja": "説明を省く。", "ko": "설명을 생략하다."}
+    ]
+  },
+  {
+    "word": "腫れる",
+    "reading": "はれる",
+    "meaning": "붓다",
+    "meaningDetail": "부어오르다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "足が腫れた。", "ko": "발이 부었다."},
+      {"ja": "目が腫れている。", "ko": "눈이 부어 있다."}
+    ]
+  },
+  {
+    "word": "晴れる",
+    "reading": "はれる",
+    "meaning": "개다, 맑아지다",
+    "meaningDetail": "날씨가 좋아지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "雨が上がって晴れた。", "ko": "비가 그치고 개었다."},
+      {"ja": "明日は晴れるでしょう。", "ko": "내일은 맑을 것입니다."}
+    ]
+  },
+  {
+    "word": "冷える",
+    "reading": "ひえる",
+    "meaning": "차가워지다, 식다",
+    "meaningDetail": "온도가 내려가다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "体が冷える。", "ko": "몸이 차가워지다."},
+      {"ja": "夜は冷える。", "ko": "밤에는 쌀쌀하다."}
+    ]
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "meaning": "빛나다",
+    "meaningDetail": "빛을 내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "星が光る。", "ko": "별이 빛나다."},
+      {"ja": "目が光る。", "ko": "눈이 빛나다."}
+    ]
+  },
+  {
+    "word": "含む",
+    "reading": "ふくむ",
+    "meaning": "포함하다",
+    "meaningDetail": "안에 들어 있다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "税金を含む。", "ko": "세금을 포함하다."},
+      {"ja": "意味を含む。", "ko": "의미를 담다."}
+    ]
+  },
+  {
+    "word": "膨らむ",
+    "reading": "ふくらむ",
+    "meaning": "부풀다",
+    "meaningDetail": "커지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "風船が膨らむ。", "ko": "풍선이 부풀다."},
+      {"ja": "夢が膨らむ。", "ko": "꿈이 부풀다."}
+    ]
+  },
+  {
+    "word": "塞ぐ",
+    "reading": "ふさぐ",
+    "meaning": "막다",
+    "meaningDetail": "통로를 막다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "耳を塞ぐ。", "ko": "귀를 막다."},
+      {"ja": "道を塞ぐ。", "ko": "길을 막다."}
+    ]
+  },
+  {
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "막다, 방지하다",
+    "meaningDetail": "일어나지 않게 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "事故を防ぐ。", "ko": "사고를 막다."},
+      {"ja": "風邪を防ぐ。", "ko": "감기를 예방하다."}
+    ]
+  },
+  {
+    "word": "踏む",
+    "reading": "ふむ",
+    "meaning": "밟다",
+    "meaningDetail": "발로 누르다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "足を踏む。", "ko": "발을 밟다."},
+      {"ja": "ブレーキを踏む。", "ko": "브레이크를 밟다."}
+    ]
+  },
+  {
+    "word": "震える",
+    "reading": "ふるえる",
+    "meaning": "떨리다, 떨다",
+    "meaningDetail": "작게 움직이다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "寒くて震える。", "ko": "추워서 떨다."},
+      {"ja": "声が震える。", "ko": "목소리가 떨리다."}
+    ]
+  },
+  {
+    "word": "曲げる",
+    "reading": "まげる",
+    "meaning": "구부리다",
+    "meaningDetail": "휘게 하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "腰を曲げる。", "ko": "허리를 구부리다."},
+      {"ja": "針金を曲げる。", "ko": "철사를 구부리다."}
+    ]
+  },
+  {
+    "word": "任せる",
+    "reading": "まかせる",
+    "meaning": "맡기다",
+    "meaningDetail": "위임하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "仕事を任せる。", "ko": "일을 맡기다."},
+      {"ja": "運に任せる。", "ko": "운에 맡기다."}
+    ]
+  },
+  {
+    "word": "負ける",
+    "reading": "まける",
+    "meaning": "지다",
+    "meaningDetail": "패배하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "試合に負けた。", "ko": "시합에 졌다."},
+      {"ja": "誘惑に負ける。", "ko": "유혹에 지다."}
+    ]
+  },
+  {
+    "word": "混じる",
+    "reading": "まじる",
+    "meaning": "섞이다",
+    "meaningDetail": "뒤섞이다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "色が混じる。", "ko": "색이 섞이다."},
+      {"ja": "人に混じる。", "ko": "사람들 사이에 섞이다."}
+    ]
+  },
+  {
+    "word": "増す",
+    "reading": "ます",
+    "meaning": "늘다, 증가하다",
+    "meaningDetail": "더해지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "人気が増す。", "ko": "인기가 늘다."},
+      {"ja": "スピードを増す。", "ko": "속도를 높이다."}
+    ]
+  },
+  {
+    "word": "間違える",
+    "reading": "まちがえる",
+    "meaning": "틀리다, 잘못하다",
+    "meaningDetail": "실수하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "答えを間違える。", "ko": "답을 틀리다."},
+      {"ja": "道を間違える。", "ko": "길을 잘못 들다."}
+    ]
+  },
+  {
+    "word": "真似る",
+    "reading": "まねる",
+    "meaning": "흉내내다",
+    "meaningDetail": "따라하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "声を真似る。", "ko": "목소리를 흉내내다."},
+      {"ja": "動きを真似る。", "ko": "동작을 따라하다."}
+    ]
+  },
+  {
+    "word": "招く",
+    "reading": "まねく",
+    "meaning": "초대하다, 부르다",
+    "meaningDetail": "불러들이다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "客を招く。", "ko": "손님을 초대하다."},
+      {"ja": "誤解を招く。", "ko": "오해를 부르다."}
+    ]
+  },
+  {
+    "word": "回す",
+    "reading": "まわす",
+    "meaning": "돌리다",
+    "meaningDetail": "회전시키다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ハンドルを回す。", "ko": "핸들을 돌리다."},
+      {"ja": "書類を回す。", "ko": "서류를 돌리다."}
+    ]
+  },
+  {
+    "word": "回る",
+    "reading": "まわる",
+    "meaning": "돌다",
+    "meaningDetail": "회전하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "地球は回る。", "ko": "지구는 돈다."},
+      {"ja": "店を回る。", "ko": "가게를 돌아다니다."}
+    ]
+  },
+  {
+    "word": "満たす",
+    "reading": "みたす",
+    "meaning": "채우다, 충족시키다",
+    "meaningDetail": "가득 차게 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "条件を満たす。", "ko": "조건을 충족시키다."},
+      {"ja": "欲求を満たす。", "ko": "욕구를 채우다."}
+    ]
+  },
+  {
+    "word": "導く",
+    "reading": "みちびく",
+    "meaning": "이끌다, 인도하다",
+    "meaningDetail": "안내하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "成功に導く。", "ko": "성공으로 이끌다."},
+      {"ja": "正しい道に導く。", "ko": "바른 길로 인도하다."}
+    ]
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "meaning": "발견되다",
+    "meaningDetail": "찾아지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "鍵が見つかった。", "ko": "열쇠가 발견됐다."},
+      {"ja": "仕事が見つかる。", "ko": "일자리가 발견되다."}
+    ]
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaning": "찾다, 발견하다",
+    "meaningDetail": "찾아내다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "答えを見つける。", "ko": "답을 찾다."},
+      {"ja": "いい店を見つけた。", "ko": "좋은 가게를 발견했다."}
+    ]
+  },
+  {
+    "word": "実る",
+    "reading": "みのる",
+    "meaning": "열매 맺다, 결실을 맺다",
+    "meaningDetail": "성과를 내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "努力が実る。", "ko": "노력이 결실을 맺다."},
+      {"ja": "りんごが実る。", "ko": "사과가 열리다."}
+    ]
+  },
+  {
+    "word": "結ぶ",
+    "reading": "むすぶ",
+    "meaning": "맺다, 묶다",
+    "meaningDetail": "연결하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "契約を結ぶ。", "ko": "계약을 맺다."},
+      {"ja": "靴紐を結ぶ。", "ko": "신발끈을 묶다."}
+    ]
+  },
+  {
+    "word": "向く",
+    "reading": "むく",
+    "meaning": "향하다, 적합하다",
+    "meaningDetail": "방향을 돌리다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "顔を向く。", "ko": "얼굴을 돌리다."},
+      {"ja": "この仕事に向いている。", "ko": "이 일에 적합하다."}
+    ]
+  },
+  {
+    "word": "剥く",
+    "reading": "むく",
+    "meaning": "껍질을 벗기다",
+    "meaningDetail": "벗기다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "りんごを剥く。", "ko": "사과 껍질을 벗기다."},
+      {"ja": "皮を剥く。", "ko": "껍질을 벗기다."}
+    ]
+  },
+  {
+    "word": "恵まれる",
+    "reading": "めぐまれる",
+    "meaning": "축복받다, 혜택받다",
+    "meaningDetail": "좋은 조건을 갖추다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "才能に恵まれる。", "ko": "재능을 타고나다."},
+      {"ja": "天気に恵まれた。", "ko": "날씨가 좋았다."}
+    ]
+  },
+  {
+    "word": "目指す",
+    "reading": "めざす",
+    "meaning": "목표로 하다",
+    "meaningDetail": "지향하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "優勝を目指す。", "ko": "우승을 목표로 하다."},
+      {"ja": "医者を目指す。", "ko": "의사를 목표로 하다."}
+    ]
+  }
+]

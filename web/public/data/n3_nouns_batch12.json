@@ -1,0 +1,492 @@
+[
+  {
+    "word": "政治",
+    "reading": "せいじ",
+    "meaning": "정치",
+    "meaningDetail": "나라를 다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "政治に関心がある。", "ko": "정치에 관심이 있다." }
+    ]
+  },
+  {
+    "word": "経済",
+    "reading": "けいざい",
+    "meaning": "경제",
+    "meaningDetail": "돈과 물자의 흐름",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済が成長する。", "ko": "경제가 성장한다." }
+    ]
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "meaning": "사회",
+    "meaningDetail": "사람들이 모인 집단",
+    "category": "명사",
+    "examples": [
+      { "ja": "社会に貢献する。", "ko": "사회에 공헌한다." }
+    ]
+  },
+  {
+    "word": "文化",
+    "reading": "ぶんか",
+    "meaning": "문화",
+    "meaningDetail": "생활 양식",
+    "category": "명사",
+    "examples": [
+      { "ja": "文化を学ぶ。", "ko": "문화를 배운다." }
+    ]
+  },
+  {
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaning": "전통",
+    "meaningDetail": "옛날부터 이어온 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "伝統を守る。", "ko": "전통을 지킨다." }
+    ]
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "습관",
+    "meaningDetail": "버릇",
+    "category": "명사",
+    "examples": [
+      { "ja": "良い習慣を身につける。", "ko": "좋은 습관을 들인다." }
+    ]
+  },
+  {
+    "word": "宗教",
+    "reading": "しゅうきょう",
+    "meaning": "종교",
+    "meaningDetail": "믿음의 체계",
+    "category": "명사",
+    "examples": [
+      { "ja": "宗教を信じる。", "ko": "종교를 믿는다." }
+    ]
+  },
+  {
+    "word": "哲学",
+    "reading": "てつがく",
+    "meaning": "철학",
+    "meaningDetail": "삶의 근본을 탐구함",
+    "category": "명사",
+    "examples": [
+      { "ja": "哲学を学ぶ。", "ko": "철학을 배운다." }
+    ]
+  },
+  {
+    "word": "心理",
+    "reading": "しんり",
+    "meaning": "심리",
+    "meaningDetail": "마음의 작용",
+    "category": "명사",
+    "examples": [
+      { "ja": "心理を理解する。", "ko": "심리를 이해한다." }
+    ]
+  },
+  {
+    "word": "感情",
+    "reading": "かんじょう",
+    "meaning": "감정",
+    "meaningDetail": "기분",
+    "category": "명사",
+    "examples": [
+      { "ja": "感情を抑える。", "ko": "감정을 억누른다." }
+    ]
+  },
+  {
+    "word": "感覚",
+    "reading": "かんかく",
+    "meaning": "감각",
+    "meaningDetail": "느끼는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "感覚が鋭い。", "ko": "감각이 예리하다." }
+    ]
+  },
+  {
+    "word": "意識",
+    "reading": "いしき",
+    "meaning": "의식",
+    "meaningDetail": "알아차림",
+    "category": "명사",
+    "examples": [
+      { "ja": "意識を持つ。", "ko": "의식을 갖는다." }
+    ]
+  },
+  {
+    "word": "印象",
+    "reading": "いんしょう",
+    "meaning": "인상",
+    "meaningDetail": "느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "良い印象を与える。", "ko": "좋은 인상을 준다." }
+    ]
+  },
+  {
+    "word": "表情",
+    "reading": "ひょうじょう",
+    "meaning": "표정",
+    "meaningDetail": "얼굴에 나타나는 기분",
+    "category": "명사",
+    "examples": [
+      { "ja": "表情が明るい。", "ko": "표정이 밝다." }
+    ]
+  },
+  {
+    "word": "態度",
+    "reading": "たいど",
+    "meaning": "태도",
+    "meaningDetail": "행동거지",
+    "category": "명사",
+    "examples": [
+      { "ja": "態度を改める。", "ko": "태도를 고친다." }
+    ]
+  },
+  {
+    "word": "行動",
+    "reading": "こうどう",
+    "meaning": "행동",
+    "meaningDetail": "하는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "行動を起こす。", "ko": "행동을 취한다." }
+    ]
+  },
+  {
+    "word": "活動",
+    "reading": "かつどう",
+    "meaning": "활동",
+    "meaningDetail": "움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "活動を続ける。", "ko": "활동을 계속한다." }
+    ]
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "운동",
+    "meaningDetail": "몸을 움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "運動をする。", "ko": "운동을 한다." }
+    ]
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "건강",
+    "meaningDetail": "몸이 튼튼함",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康に気をつける。", "ko": "건강에 신경 쓴다." }
+    ]
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병",
+    "meaningDetail": "아픈 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気を治す。", "ko": "병을 고친다." }
+    ]
+  },
+  {
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "증상",
+    "meaningDetail": "병의 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "症状が出る。", "ko": "증상이 나타난다." }
+    ]
+  },
+  {
+    "word": "治療",
+    "reading": "ちりょう",
+    "meaning": "치료",
+    "meaningDetail": "병을 고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "治療を受ける。", "ko": "치료를 받는다." }
+    ]
+  },
+  {
+    "word": "手術",
+    "reading": "しゅじゅつ",
+    "meaning": "수술",
+    "meaningDetail": "외과적 치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "手術を受ける。", "ko": "수술을 받는다." }
+    ]
+  },
+  {
+    "word": "検査",
+    "reading": "けんさ",
+    "meaning": "검사",
+    "meaningDetail": "조사함",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康検査を受ける。", "ko": "건강 검사를 받는다." }
+    ]
+  },
+  {
+    "word": "診断",
+    "reading": "しんだん",
+    "meaning": "진단",
+    "meaningDetail": "병을 판별함",
+    "category": "명사",
+    "examples": [
+      { "ja": "診断を受ける。", "ko": "진단을 받는다." }
+    ]
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "약",
+    "meaningDetail": "치료에 쓰는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "薬を飲む。", "ko": "약을 먹는다." }
+    ]
+  },
+  {
+    "word": "医師",
+    "reading": "いし",
+    "meaning": "의사",
+    "meaningDetail": "의료인",
+    "category": "명사",
+    "examples": [
+      { "ja": "医師に相談する。", "ko": "의사에게 상담한다." }
+    ]
+  },
+  {
+    "word": "患者",
+    "reading": "かんじゃ",
+    "meaning": "환자",
+    "meaningDetail": "아픈 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "患者を診る。", "ko": "환자를 진찰한다." }
+    ]
+  },
+  {
+    "word": "入院",
+    "reading": "にゅういん",
+    "meaning": "입원",
+    "meaningDetail": "병원에 들어감",
+    "category": "명사",
+    "examples": [
+      { "ja": "入院する。", "ko": "입원한다." }
+    ]
+  },
+  {
+    "word": "退院",
+    "reading": "たいいん",
+    "meaning": "퇴원",
+    "meaningDetail": "병원을 나감",
+    "category": "명사",
+    "examples": [
+      { "ja": "退院する。", "ko": "퇴원한다." }
+    ]
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "식사",
+    "meaningDetail": "밥 먹는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "食事をする。", "ko": "식사를 한다." }
+    ]
+  },
+  {
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaning": "영양",
+    "meaningDetail": "몸에 좋은 성분",
+    "category": "명사",
+    "examples": [
+      { "ja": "栄養を取る。", "ko": "영양을 섭취한다." }
+    ]
+  },
+  {
+    "word": "睡眠",
+    "reading": "すいみん",
+    "meaning": "수면",
+    "meaningDetail": "잠",
+    "category": "명사",
+    "examples": [
+      { "ja": "十分な睡眠を取る。", "ko": "충분한 수면을 취한다." }
+    ]
+  },
+  {
+    "word": "休息",
+    "reading": "きゅうそく",
+    "meaning": "휴식",
+    "meaningDetail": "쉬는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "休息を取る。", "ko": "휴식을 취한다." }
+    ]
+  },
+  {
+    "word": "疲労",
+    "reading": "ひろう",
+    "meaning": "피로",
+    "meaningDetail": "지침",
+    "category": "명사",
+    "examples": [
+      { "ja": "疲労が溜まる。", "ko": "피로가 쌓인다." }
+    ]
+  },
+  {
+    "word": "ストレス",
+    "reading": "ストレス",
+    "meaning": "스트레스",
+    "meaningDetail": "정신적 부담",
+    "category": "명사",
+    "examples": [
+      { "ja": "ストレスを解消する。", "ko": "스트레스를 해소한다." }
+    ]
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "환경",
+    "meaningDetail": "주변 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境を守る。", "ko": "환경을 지킨다." }
+    ]
+  },
+  {
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "자연",
+    "meaningDetail": "자연환경",
+    "category": "명사",
+    "examples": [
+      { "ja": "自然を大切にする。", "ko": "자연을 소중히 한다." }
+    ]
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "동물",
+    "meaningDetail": "생물",
+    "category": "명사",
+    "examples": [
+      { "ja": "動物を飼う。", "ko": "동물을 기른다." }
+    ]
+  },
+  {
+    "word": "植物",
+    "reading": "しょくぶつ",
+    "meaning": "식물",
+    "meaningDetail": "나무, 풀",
+    "category": "명사",
+    "examples": [
+      { "ja": "植物を育てる。", "ko": "식물을 기른다." }
+    ]
+  },
+  {
+    "word": "森林",
+    "reading": "しんりん",
+    "meaning": "삼림, 숲",
+    "meaningDetail": "나무가 많은 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "森林を保護する。", "ko": "삼림을 보호한다." }
+    ]
+  },
+  {
+    "word": "海洋",
+    "reading": "かいよう",
+    "meaning": "해양",
+    "meaningDetail": "바다",
+    "category": "명사",
+    "examples": [
+      { "ja": "海洋を研究する。", "ko": "해양을 연구한다." }
+    ]
+  },
+  {
+    "word": "河川",
+    "reading": "かせん",
+    "meaning": "하천",
+    "meaningDetail": "강",
+    "category": "명사",
+    "examples": [
+      { "ja": "河川が氾濫する。", "ko": "하천이 범람한다." }
+    ]
+  },
+  {
+    "word": "湖",
+    "reading": "みずうみ",
+    "meaning": "호수",
+    "meaningDetail": "물이 고인 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "湖で釣りをする。", "ko": "호수에서 낚시한다." }
+    ]
+  },
+  {
+    "word": "島",
+    "reading": "しま",
+    "meaning": "섬",
+    "meaningDetail": "물로 둘러싸인 땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "島に住む。", "ko": "섬에 산다." }
+    ]
+  },
+  {
+    "word": "半島",
+    "reading": "はんとう",
+    "meaning": "반도",
+    "meaningDetail": "삼면이 바다인 땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "韓半島に住む。", "ko": "한반도에 산다." }
+    ]
+  },
+  {
+    "word": "大陸",
+    "reading": "たいりく",
+    "meaning": "대륙",
+    "meaningDetail": "큰 땅덩어리",
+    "category": "명사",
+    "examples": [
+      { "ja": "大陸を横断する。", "ko": "대륙을 횡단한다." }
+    ]
+  },
+  {
+    "word": "気候",
+    "reading": "きこう",
+    "meaning": "기후",
+    "meaningDetail": "날씨의 특성",
+    "category": "명사",
+    "examples": [
+      { "ja": "温暖な気候だ。", "ko": "온난한 기후다." }
+    ]
+  },
+  {
+    "word": "季節",
+    "reading": "きせつ",
+    "meaning": "계절",
+    "meaningDetail": "봄여름가을겨울",
+    "category": "명사",
+    "examples": [
+      { "ja": "季節が変わる。", "ko": "계절이 바뀐다." }
+    ]
+  }
+]

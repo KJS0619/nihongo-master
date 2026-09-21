@@ -1,0 +1,541 @@
+[
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "어떤 일을 할 수 있는 조건",
+    "category": "명사",
+    "examples": [
+      {"ja": "資格を取る。", "ko": "자격을 취득하다."},
+      {"ja": "資格がある。", "ko": "자격이 있다."}
+    ]
+  },
+  {
+    "word": "事件",
+    "reading": "じけん",
+    "meaning": "사건",
+    "meaningDetail": "일어난 일, 특히 범죄나 사고",
+    "category": "명사",
+    "examples": [
+      {"ja": "事件が起きた。", "ko": "사건이 일어났다."},
+      {"ja": "事件を調べる。", "ko": "사건을 조사하다."}
+    ]
+  },
+  {
+    "word": "時期",
+    "reading": "じき",
+    "meaning": "시기",
+    "meaningDetail": "특정한 때",
+    "category": "명사",
+    "examples": [
+      {"ja": "忙しい時期だ。", "ko": "바쁜 시기다."},
+      {"ja": "いい時期に来た。", "ko": "좋은 시기에 왔다."}
+    ]
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "meaningDetail": "뜻하지 않은 나쁜 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "交通事故に遭う。", "ko": "교통사고를 당하다."},
+      {"ja": "事故を防ぐ。", "ko": "사고를 예방하다."}
+    ]
+  },
+  {
+    "word": "自信",
+    "reading": "じしん",
+    "meaning": "자신감",
+    "meaningDetail": "자기를 믿는 마음",
+    "category": "명사",
+    "examples": [
+      {"ja": "自信がある。", "ko": "자신감이 있다."},
+      {"ja": "自信を持つ。", "ko": "자신감을 가지다."}
+    ]
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "지진",
+    "meaningDetail": "땅이 흔들리는 자연 현상",
+    "category": "명사",
+    "examples": [
+      {"ja": "地震が起きた。", "ko": "지진이 일어났다."},
+      {"ja": "地震に備える。", "ko": "지진에 대비하다."}
+    ]
+  },
+  {
+    "word": "実行",
+    "reading": "じっこう",
+    "meaning": "실행",
+    "meaningDetail": "실제로 행함",
+    "category": "명사",
+    "examples": [
+      {"ja": "計画を実行する。", "ko": "계획을 실행하다."},
+      {"ja": "実行に移す。", "ko": "실행에 옮기다."}
+    ]
+  },
+  {
+    "word": "実現",
+    "reading": "じつげん",
+    "meaning": "실현",
+    "meaningDetail": "실제로 이루어짐",
+    "category": "명사",
+    "examples": [
+      {"ja": "夢を実現する。", "ko": "꿈을 실현하다."},
+      {"ja": "実現の可能性がある。", "ko": "실현 가능성이 있다."}
+    ]
+  },
+  {
+    "word": "実際",
+    "reading": "じっさい",
+    "meaning": "실제",
+    "meaningDetail": "사실, 현실",
+    "category": "명사",
+    "examples": [
+      {"ja": "実際に見る。", "ko": "실제로 보다."},
+      {"ja": "実際は違う。", "ko": "실제는 다르다."}
+    ]
+  },
+  {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "meaning": "실패",
+    "meaningDetail": "성공하지 못함",
+    "category": "명사",
+    "examples": [
+      {"ja": "失敗を恐れる。", "ko": "실패를 두려워하다."},
+      {"ja": "失敗から学ぶ。", "ko": "실패에서 배우다."}
+    ]
+  },
+  {
+    "word": "指導",
+    "reading": "しどう",
+    "meaning": "지도",
+    "meaningDetail": "가르쳐 이끎",
+    "category": "명사",
+    "examples": [
+      {"ja": "指導を受ける。", "ko": "지도를 받다."},
+      {"ja": "指導者になる。", "ko": "지도자가 되다."}
+    ]
+  },
+  {
+    "word": "支払い",
+    "reading": "しはらい",
+    "meaning": "지불",
+    "meaningDetail": "돈을 냄",
+    "category": "명사",
+    "examples": [
+      {"ja": "支払いをする。", "ko": "지불을 하다."},
+      {"ja": "支払い方法を選ぶ。", "ko": "지불 방법을 선택하다."}
+    ]
+  },
+  {
+    "word": "資本",
+    "reading": "しほん",
+    "meaning": "자본",
+    "meaningDetail": "사업에 필요한 돈",
+    "category": "명사",
+    "examples": [
+      {"ja": "資本を投資する。", "ko": "자본을 투자하다."},
+      {"ja": "資本主義社会。", "ko": "자본주의 사회."}
+    ]
+  },
+  {
+    "word": "市民",
+    "reading": "しみん",
+    "meaning": "시민",
+    "meaningDetail": "도시의 주민",
+    "category": "명사",
+    "examples": [
+      {"ja": "市民の声を聞く。", "ko": "시민의 목소리를 듣다."},
+      {"ja": "市民権を得る。", "ko": "시민권을 얻다."}
+    ]
+  },
+  {
+    "word": "社長",
+    "reading": "しゃちょう",
+    "meaning": "사장",
+    "meaningDetail": "회사의 대표",
+    "category": "명사",
+    "examples": [
+      {"ja": "社長になる。", "ko": "사장이 되다."},
+      {"ja": "社長と面談する。", "ko": "사장과 면담하다."}
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meaning": "주장",
+    "meaningDetail": "자기 의견을 강하게 말함",
+    "category": "명사",
+    "examples": [
+      {"ja": "主張を通す。", "ko": "주장을 관철하다."},
+      {"ja": "自分の主張をする。", "ko": "자신의 주장을 하다."}
+    ]
+  },
+  {
+    "word": "出身",
+    "reading": "しゅっしん",
+    "meaning": "출신",
+    "meaningDetail": "태어나거나 자란 곳",
+    "category": "명사",
+    "examples": [
+      {"ja": "出身はどこですか。", "ko": "출신은 어디입니까?"},
+      {"ja": "大学出身だ。", "ko": "대학 출신이다."}
+    ]
+  },
+  {
+    "word": "出席",
+    "reading": "しゅっせき",
+    "meaning": "출석",
+    "meaningDetail": "모임에 나감",
+    "category": "명사",
+    "examples": [
+      {"ja": "出席を取る。", "ko": "출석을 부르다."},
+      {"ja": "会議に出席する。", "ko": "회의에 출석하다."}
+    ]
+  },
+  {
+    "word": "出版",
+    "reading": "しゅっぱん",
+    "meaning": "출판",
+    "meaningDetail": "책을 펴냄",
+    "category": "명사",
+    "examples": [
+      {"ja": "本を出版する。", "ko": "책을 출판하다."},
+      {"ja": "出版社で働く。", "ko": "출판사에서 일하다."}
+    ]
+  },
+  {
+    "word": "首都",
+    "reading": "しゅと",
+    "meaning": "수도",
+    "meaningDetail": "나라의 중심 도시",
+    "category": "명사",
+    "examples": [
+      {"ja": "日本の首都は東京だ。", "ko": "일본의 수도는 도쿄다."},
+      {"ja": "首都に住む。", "ko": "수도에 살다."}
+    ]
+  },
+  {
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaning": "종류",
+    "meaningDetail": "비슷한 것끼리 모은 갈래",
+    "category": "명사",
+    "examples": [
+      {"ja": "種類が多い。", "ko": "종류가 많다."},
+      {"ja": "いろいろな種類がある。", "ko": "여러 종류가 있다."}
+    ]
+  },
+  {
+    "word": "障害",
+    "reading": "しょうがい",
+    "meaning": "장애",
+    "meaningDetail": "방해되는 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "障害を乗り越える。", "ko": "장애를 극복하다."},
+      {"ja": "障害者を支援する。", "ko": "장애인을 지원하다."}
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "필요한 사항",
+    "category": "명사",
+    "examples": [
+      {"ja": "条件を満たす。", "ko": "조건을 충족하다."},
+      {"ja": "条件がいい。", "ko": "조건이 좋다."}
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "meaningDetail": "현재의 사정",
+    "category": "명사",
+    "examples": [
+      {"ja": "状況を把握する。", "ko": "상황을 파악하다."},
+      {"ja": "厳しい状況だ。", "ko": "어려운 상황이다."}
+    ]
+  },
+  {
+    "word": "上司",
+    "reading": "じょうし",
+    "meaning": "상사",
+    "meaningDetail": "직장에서 위의 사람",
+    "category": "명사",
+    "examples": [
+      {"ja": "上司に報告する。", "ko": "상사에게 보고하다."},
+      {"ja": "上司の指示を受ける。", "ko": "상사의 지시를 받다."}
+    ]
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "정보",
+    "meaningDetail": "알려진 내용",
+    "category": "명사",
+    "examples": [
+      {"ja": "情報を集める。", "ko": "정보를 모으다."},
+      {"ja": "情報を共有する。", "ko": "정보를 공유하다."}
+    ]
+  },
+  {
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaning": "증명",
+    "meaningDetail": "사실임을 밝힘",
+    "category": "명사",
+    "examples": [
+      {"ja": "身分を証明する。", "ko": "신분을 증명하다."},
+      {"ja": "証明書が必要だ。", "ko": "증명서가 필요하다."}
+    ]
+  },
+  {
+    "word": "勝利",
+    "reading": "しょうり",
+    "meaning": "승리",
+    "meaningDetail": "이김",
+    "category": "명사",
+    "examples": [
+      {"ja": "勝利を収める。", "ko": "승리를 거두다."},
+      {"ja": "勝利を目指す。", "ko": "승리를 목표로 하다."}
+    ]
+  },
+  {
+    "word": "食欲",
+    "reading": "しょくよく",
+    "meaning": "식욕",
+    "meaningDetail": "먹고 싶은 욕구",
+    "category": "명사",
+    "examples": [
+      {"ja": "食欲がない。", "ko": "식욕이 없다."},
+      {"ja": "食欲が出る。", "ko": "식욕이 나다."}
+    ]
+  },
+  {
+    "word": "職業",
+    "reading": "しょくぎょう",
+    "meaning": "직업",
+    "meaningDetail": "생업으로 하는 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "職業を聞く。", "ko": "직업을 묻다."},
+      {"ja": "職業訓練を受ける。", "ko": "직업 훈련을 받다."}
+    ]
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "서류",
+    "meaningDetail": "공식 문서",
+    "category": "명사",
+    "examples": [
+      {"ja": "書類を提出する。", "ko": "서류를 제출하다."},
+      {"ja": "書類を整理する。", "ko": "서류를 정리하다."}
+    ]
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "신호",
+    "meaningDetail": "교통 표시 또는 합도",
+    "category": "명사",
+    "examples": [
+      {"ja": "信号を守る。", "ko": "신호를 지키다."},
+      {"ja": "信号が変わる。", "ko": "신호가 바뀌다."}
+    ]
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meaning": "인구",
+    "meaningDetail": "사람의 수",
+    "category": "명사",
+    "examples": [
+      {"ja": "人口が増える。", "ko": "인구가 늘다."},
+      {"ja": "人口密度が高い。", "ko": "인구 밀도가 높다."}
+    ]
+  },
+  {
+    "word": "人生",
+    "reading": "じんせい",
+    "meaning": "인생",
+    "meaningDetail": "사람의 삶",
+    "category": "명사",
+    "examples": [
+      {"ja": "人生を楽しむ。", "ko": "인생을 즐기다."},
+      {"ja": "人生の目標を立てる。", "ko": "인생의 목표를 세우다."}
+    ]
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "걱정",
+    "meaningDetail": "불안해함",
+    "category": "명사",
+    "examples": [
+      {"ja": "心配をかける。", "ko": "걱정을 끼치다."},
+      {"ja": "心配しないで。", "ko": "걱정하지 마."}
+    ]
+  },
+  {
+    "word": "信用",
+    "reading": "しんよう",
+    "meaning": "신용",
+    "meaningDetail": "믿음",
+    "category": "명사",
+    "examples": [
+      {"ja": "信用を得る。", "ko": "신용을 얻다."},
+      {"ja": "信用を失う。", "ko": "신용을 잃다."}
+    ]
+  },
+  {
+    "word": "水準",
+    "reading": "すいじゅん",
+    "meaning": "수준",
+    "meaningDetail": "정도, 레벨",
+    "category": "명사",
+    "examples": [
+      {"ja": "生活水準が上がる。", "ko": "생활 수준이 오르다."},
+      {"ja": "高い水準を維持する。", "ko": "높은 수준을 유지하다."}
+    ]
+  },
+  {
+    "word": "推薦",
+    "reading": "すいせん",
+    "meaning": "추천",
+    "meaningDetail": "좋다고 권함",
+    "category": "명사",
+    "examples": [
+      {"ja": "推薦を受ける。", "ko": "추천을 받다."},
+      {"ja": "推薦状を書く。", "ko": "추천서를 쓰다."}
+    ]
+  },
+  {
+    "word": "数字",
+    "reading": "すうじ",
+    "meaning": "숫자",
+    "meaningDetail": "수를 나타내는 기호",
+    "category": "명사",
+    "examples": [
+      {"ja": "数字を覚える。", "ko": "숫자를 외우다."},
+      {"ja": "数字に強い。", "ko": "숫자에 강하다."}
+    ]
+  },
+  {
+    "word": "姿",
+    "reading": "すがた",
+    "meaning": "모습",
+    "meaningDetail": "겉으로 보이는 형태",
+    "category": "명사",
+    "examples": [
+      {"ja": "姿を見せる。", "ko": "모습을 보이다."},
+      {"ja": "姿が見えない。", "ko": "모습이 보이지 않는다."}
+    ]
+  },
+  {
+    "word": "筋肉",
+    "reading": "きんにく",
+    "meaning": "근육",
+    "meaningDetail": "몸을 움직이는 조직",
+    "category": "명사",
+    "examples": [
+      {"ja": "筋肉を鍛える。", "ko": "근육을 단련하다."},
+      {"ja": "筋肉痛になる。", "ko": "근육통이 생기다."}
+    ]
+  },
+  {
+    "word": "制度",
+    "reading": "せいど",
+    "meaning": "제도",
+    "meaningDetail": "정해진 규칙이나 체계",
+    "category": "명사",
+    "examples": [
+      {"ja": "制度を変える。", "ko": "제도를 바꾸다."},
+      {"ja": "新しい制度を導入する。", "ko": "새로운 제도를 도입하다."}
+    ]
+  },
+  {
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "성장",
+    "meaningDetail": "자라거나 발전함",
+    "category": "명사",
+    "examples": [
+      {"ja": "子供が成長する。", "ko": "아이가 성장하다."},
+      {"ja": "経済成長が続く。", "ko": "경제 성장이 계속되다."}
+    ]
+  },
+  {
+    "word": "成績",
+    "reading": "せいせき",
+    "meaning": "성적",
+    "meaningDetail": "결과로 나타난 점수",
+    "category": "명사",
+    "examples": [
+      {"ja": "成績が上がる。", "ko": "성적이 오르다."},
+      {"ja": "成績表をもらう。", "ko": "성적표를 받다."}
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "meaningDetail": "맡아서 해야 할 일",
+    "category": "명사",
+    "examples": [
+      {"ja": "責任を取る。", "ko": "책임을 지다."},
+      {"ja": "責任感がある。", "ko": "책임감이 있다."}
+    ]
+  },
+  {
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "설비",
+    "meaningDetail": "갖추어 놓은 시설",
+    "category": "명사",
+    "examples": [
+      {"ja": "設備を整える。", "ko": "설비를 갖추다."},
+      {"ja": "最新の設備がある。", "ko": "최신 설비가 있다."}
+    ]
+  },
+  {
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "설명",
+    "meaningDetail": "알기 쉽게 말함",
+    "category": "명사",
+    "examples": [
+      {"ja": "説明を聞く。", "ko": "설명을 듣다."},
+      {"ja": "詳しい説明をする。", "ko": "자세한 설명을 하다."}
+    ]
+  },
+  {
+    "word": "全体",
+    "reading": "ぜんたい",
+    "meaning": "전체",
+    "meaningDetail": "모두, 전부",
+    "category": "명사",
+    "examples": [
+      {"ja": "全体を見る。", "ko": "전체를 보다."},
+      {"ja": "全体の半分だ。", "ko": "전체의 절반이다."}
+    ]
+  },
+  {
+    "word": "宣伝",
+    "reading": "せんでん",
+    "meaning": "선전, 홍보",
+    "meaningDetail": "널리 알림",
+    "category": "명사",
+    "examples": [
+      {"ja": "商品を宣伝する。", "ko": "상품을 홍보하다."},
+      {"ja": "宣伝効果がある。", "ko": "홍보 효과가 있다."}
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "平日",
+    "reading": "へいじつ",
+    "meaning": "평일",
+    "meaningDetail": "주중",
+    "category": "명사",
+    "examples": [
+      { "ja": "平日に働く。", "ko": "평일에 일하다." }
+    ]
+  },
+  {
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "meaning": "주말",
+    "meaningDetail": "주끝",
+    "category": "명사",
+    "examples": [
+      { "ja": "週末に遊ぶ。", "ko": "주말에 놀다." }
+    ]
+  },
+  {
+    "word": "連休",
+    "reading": "れんきゅう",
+    "meaning": "연휴",
+    "meaningDetail": "연속 휴일",
+    "category": "명사",
+    "examples": [
+      { "ja": "連休を楽しむ。", "ko": "연휴를 즐기다." }
+    ]
+  },
+  {
+    "word": "祭日",
+    "reading": "さいじつ",
+    "meaning": "제일",
+    "meaningDetail": "경축일",
+    "category": "명사",
+    "examples": [
+      { "ja": "祭日に休む。", "ko": "제일에 쉬다." }
+    ]
+  },
+  {
+    "word": "記念日",
+    "reading": "きねんび",
+    "meaning": "기념일",
+    "meaningDetail": "특별한 날",
+    "category": "명사",
+    "examples": [
+      { "ja": "記念日を祝う。", "ko": "기념일을 축하하다." }
+    ]
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "생일",
+    "meaningDetail": "태어난 날",
+    "category": "명사",
+    "examples": [
+      { "ja": "誕生日を迎える。", "ko": "생일을 맞이하다." }
+    ]
+  },
+  {
+    "word": "祝賀",
+    "reading": "しゅくが",
+    "meaning": "축하",
+    "meaningDetail": "경축",
+    "category": "명사",
+    "examples": [
+      { "ja": "祝賀会を開く。", "ko": "축하회를 열다." }
+    ]
+  },
+  {
+    "word": "祝福",
+    "reading": "しゅくふく",
+    "meaning": "축복",
+    "meaningDetail": "기원",
+    "category": "명사",
+    "examples": [
+      { "ja": "祝福を送る。", "ko": "축복을 보내다." }
+    ]
+  },
+  {
+    "word": "冠婚葬祭",
+    "reading": "かんこんそうさい",
+    "meaning": "관혼상제",
+    "meaningDetail": "예식",
+    "category": "명사",
+    "examples": [
+      { "ja": "冠婚葬祭に出席する。", "ko": "관혼상제에 참석하다." }
+    ]
+  },
+  {
+    "word": "結婚式",
+    "reading": "けっこんしき",
+    "meaning": "결혼식",
+    "meaningDetail": "혼례",
+    "category": "명사",
+    "examples": [
+      { "ja": "結婚式を挙げる。", "ko": "결혼식을 올리다." }
+    ]
+  },
+  {
+    "word": "披露宴",
+    "reading": "ひろうえん",
+    "meaning": "피로연",
+    "meaningDetail": "결혼잔치",
+    "category": "명사",
+    "examples": [
+      { "ja": "披露宴に招待される。", "ko": "피로연에 초대되다." }
+    ]
+  },
+  {
+    "word": "葬式",
+    "reading": "そうしき",
+    "meaning": "장례식",
+    "meaningDetail": "장례",
+    "category": "명사",
+    "examples": [
+      { "ja": "葬式に参列する。", "ko": "장례식에 참석하다." }
+    ]
+  },
+  {
+    "word": "告別式",
+    "reading": "こくべつしき",
+    "meaning": "고별식",
+    "meaningDetail": "장례",
+    "category": "명사",
+    "examples": [
+      { "ja": "告別式が行われる。", "ko": "고별식이 열리다." }
+    ]
+  },
+  {
+    "word": "入学式",
+    "reading": "にゅうがくしき",
+    "meaning": "입학식",
+    "meaningDetail": "식전",
+    "category": "명사",
+    "examples": [
+      { "ja": "入学式に出席する。", "ko": "입학식에 출석하다." }
+    ]
+  },
+  {
+    "word": "卒業式",
+    "reading": "そつぎょうしき",
+    "meaning": "졸업식",
+    "meaningDetail": "식전",
+    "category": "명사",
+    "examples": [
+      { "ja": "卒業式を迎える。", "ko": "졸업식을 맞이하다." }
+    ]
+  },
+  {
+    "word": "開会式",
+    "reading": "かいかいしき",
+    "meaning": "개회식",
+    "meaningDetail": "시작식",
+    "category": "명사",
+    "examples": [
+      { "ja": "開会式が行われる。", "ko": "개회식이 열리다." }
+    ]
+  },
+  {
+    "word": "閉会式",
+    "reading": "へいかいしき",
+    "meaning": "폐회식",
+    "meaningDetail": "종료식",
+    "category": "명사",
+    "examples": [
+      { "ja": "閉会式で終わる。", "ko": "폐회식으로 끝나다." }
+    ]
+  },
+  {
+    "word": "式典",
+    "reading": "しきてん",
+    "meaning": "식전",
+    "meaningDetail": "의식",
+    "category": "명사",
+    "examples": [
+      { "ja": "式典を開催する。", "ko": "식전을 개최하다." }
+    ]
+  },
+  {
+    "word": "儀式",
+    "reading": "ぎしき",
+    "meaning": "의식",
+    "meaningDetail": "예식",
+    "category": "명사",
+    "examples": [
+      { "ja": "儀式を行う。", "ko": "의식을 행하다." }
+    ]
+  },
+  {
+    "word": "行事",
+    "reading": "ぎょうじ",
+    "meaning": "행사",
+    "meaningDetail": "이벤트",
+    "category": "명사",
+    "examples": [
+      { "ja": "行事に参加する。", "ko": "행사에 참가하다." }
+    ]
+  },
+  {
+    "word": "催し",
+    "reading": "もよおし",
+    "meaning": "행사",
+    "meaningDetail": "이벤트",
+    "category": "명사",
+    "examples": [
+      { "ja": "催しが開かれる。", "ko": "행사가 열리다." }
+    ]
+  },
+  {
+    "word": "イベント",
+    "reading": "いべんと",
+    "meaning": "이벤트",
+    "meaningDetail": "행사",
+    "category": "명사",
+    "examples": [
+      { "ja": "イベントを企画する。", "ko": "이벤트를 기획하다." }
+    ]
+  },
+  {
+    "word": "祭り",
+    "reading": "まつり",
+    "meaning": "축제",
+    "meaningDetail": "제전",
+    "category": "명사",
+    "examples": [
+      { "ja": "祭りを楽しむ。", "ko": "축제를 즐기다." }
+    ]
+  },
+  {
+    "word": "展示会",
+    "reading": "てんじかい",
+    "meaning": "전시회",
+    "meaningDetail": "박람회",
+    "category": "명사",
+    "examples": [
+      { "ja": "展示会を見に行く。", "ko": "전시회를 보러 가다." }
+    ]
+  },
+  {
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "전람회",
+    "meaningDetail": "전시회",
+    "category": "명사",
+    "examples": [
+      { "ja": "展覧会を開く。", "ko": "전람회를 열다." }
+    ]
+  },
+  {
+    "word": "博覧会",
+    "reading": "はくらんかい",
+    "meaning": "박람회",
+    "meaningDetail": "전시회",
+    "category": "명사",
+    "examples": [
+      { "ja": "博覧会に出展する。", "ko": "박람회에 출전하다." }
+    ]
+  },
+  {
+    "word": "見本市",
+    "reading": "みほんいち",
+    "meaning": "견본시",
+    "meaningDetail": "전시회",
+    "category": "명사",
+    "examples": [
+      { "ja": "見本市に参加する。", "ko": "견본시에 참가하다." }
+    ]
+  },
+  {
+    "word": "品評会",
+    "reading": "ひんぴょうかい",
+    "meaning": "품평회",
+    "meaningDetail": "심사회",
+    "category": "명사",
+    "examples": [
+      { "ja": "品評会に出品する。", "ko": "품평회에 출품하다." }
+    ]
+  },
+  {
+    "word": "講演会",
+    "reading": "こうえんかい",
+    "meaning": "강연회",
+    "meaningDetail": "발표회",
+    "category": "명사",
+    "examples": [
+      { "ja": "講演会を開催する。", "ko": "강연회를 개최하다." }
+    ]
+  },
+  {
+    "word": "講習会",
+    "reading": "こうしゅうかい",
+    "meaning": "강습회",
+    "meaningDetail": "연수회",
+    "category": "명사",
+    "examples": [
+      { "ja": "講習会に参加する。", "ko": "강습회에 참가하다." }
+    ]
+  },
+  {
+    "word": "研修会",
+    "reading": "けんしゅうかい",
+    "meaning": "연수회",
+    "meaningDetail": "교육",
+    "category": "명사",
+    "examples": [
+      { "ja": "研修会を受ける。", "ko": "연수회를 받다." }
+    ]
+  },
+  {
+    "word": "研究会",
+    "reading": "けんきゅうかい",
+    "meaning": "연구회",
+    "meaningDetail": "학회",
+    "category": "명사",
+    "examples": [
+      { "ja": "研究会を発足する。", "ko": "연구회를 발족하다." }
+    ]
+  },
+  {
+    "word": "勉強会",
+    "reading": "べんきょうかい",
+    "meaning": "공부모임",
+    "meaningDetail": "스터디",
+    "category": "명사",
+    "examples": [
+      { "ja": "勉強会を開く。", "ko": "공부모임을 열다." }
+    ]
+  },
+  {
+    "word": "説明会",
+    "reading": "せつめいかい",
+    "meaning": "설명회",
+    "meaningDetail": "안내회",
+    "category": "명사",
+    "examples": [
+      { "ja": "説明会に出席する。", "ko": "설명회에 출석하다." }
+    ]
+  },
+  {
+    "word": "発表会",
+    "reading": "はっぴょうかい",
+    "meaning": "발표회",
+    "meaningDetail": "공연회",
+    "category": "명사",
+    "examples": [
+      { "ja": "発表会を開く。", "ko": "발표회를 열다." }
+    ]
+  },
+  {
+    "word": "報告会",
+    "reading": "ほうこくかい",
+    "meaning": "보고회",
+    "meaningDetail": "발표회",
+    "category": "명사",
+    "examples": [
+      { "ja": "報告会を実施する。", "ko": "보고회를 실시하다." }
+    ]
+  },
+  {
+    "word": "懇親会",
+    "reading": "こんしんかい",
+    "meaning": "친목회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "懇親会を開く。", "ko": "친목회를 열다." }
+    ]
+  },
+  {
+    "word": "歓迎会",
+    "reading": "かんげいかい",
+    "meaning": "환영회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "歓迎会を開催する。", "ko": "환영회를 개최하다." }
+    ]
+  },
+  {
+    "word": "送別会",
+    "reading": "そうべつかい",
+    "meaning": "송별회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "送別会を開く。", "ko": "송별회를 열다." }
+    ]
+  },
+  {
+    "word": "忘年会",
+    "reading": "ぼうねんかい",
+    "meaning": "송년회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "忘年会に参加する。", "ko": "송년회에 참가하다." }
+    ]
+  },
+  {
+    "word": "新年会",
+    "reading": "しんねんかい",
+    "meaning": "신년회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "新年会を開く。", "ko": "신년회를 열다." }
+    ]
+  },
+  {
+    "word": "同窓会",
+    "reading": "どうそうかい",
+    "meaning": "동창회",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "同窓会に出席する。", "ko": "동창회에 출석하다." }
+    ]
+  },
+  {
+    "word": "打ち上げ",
+    "reading": "うちあげ",
+    "meaning": "뒤풀이",
+    "meaningDetail": "파티",
+    "category": "명사",
+    "examples": [
+      { "ja": "打ち上げをする。", "ko": "뒤풀이를 하다." }
+    ]
+  },
+  {
+    "word": "二次会",
+    "reading": "にじかい",
+    "meaning": "2차",
+    "meaningDetail": "후속 모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "二次会に行く。", "ko": "2차에 가다." }
+    ]
+  },
+  {
+    "word": "宴会",
+    "reading": "えんかい",
+    "meaning": "연회",
+    "meaningDetail": "잔치",
+    "category": "명사",
+    "examples": [
+      { "ja": "宴会を開く。", "ko": "연회를 열다." }
+    ]
+  },
+  {
+    "word": "パーティー",
+    "reading": "ぱーてぃー",
+    "meaning": "파티",
+    "meaningDetail": "잔치",
+    "category": "명사",
+    "examples": [
+      { "ja": "パーティーを楽しむ。", "ko": "파티를 즐기다." }
+    ]
+  },
+  {
+    "word": "集い",
+    "reading": "つどい",
+    "meaning": "모임",
+    "meaningDetail": "집회",
+    "category": "명사",
+    "examples": [
+      { "ja": "集いに参加する。", "ko": "모임에 참가하다." }
+    ]
+  },
+  {
+    "word": "集まり",
+    "reading": "あつまり",
+    "meaning": "모임",
+    "meaningDetail": "집합",
+    "category": "명사",
+    "examples": [
+      { "ja": "集まりがある。", "ko": "모임이 있다." }
+    ]
+  }
+]

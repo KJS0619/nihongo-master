@@ -1,0 +1,492 @@
+[
+  {
+    "word": "年齢",
+    "reading": "ねんれい",
+    "meaning": "나이",
+    "meaningDetail": "연령",
+    "category": "명사",
+    "examples": [
+      { "ja": "年齢を聞く。", "ko": "나이를 묻다." }
+    ]
+  },
+  {
+    "word": "世代",
+    "reading": "せだい",
+    "meaning": "세대",
+    "meaningDetail": "대",
+    "category": "명사",
+    "examples": [
+      { "ja": "若い世代に伝える。", "ko": "젊은 세대에 전한다." }
+    ]
+  },
+  {
+    "word": "年代",
+    "reading": "ねんだい",
+    "meaning": "연대",
+    "meaningDetail": "시대",
+    "category": "명사",
+    "examples": [
+      { "ja": "年代順に並べる。", "ko": "연대순으로 나열한다." }
+    ]
+  },
+  {
+    "word": "時代",
+    "reading": "じだい",
+    "meaning": "시대",
+    "meaningDetail": "때",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい時代が来る。", "ko": "새 시대가 온다." }
+    ]
+  },
+  {
+    "word": "時期",
+    "reading": "じき",
+    "meaning": "시기",
+    "meaningDetail": "때",
+    "category": "명사",
+    "examples": [
+      { "ja": "時期を見計らう。", "ko": "시기를 가늠한다." }
+    ]
+  },
+  {
+    "word": "期間",
+    "reading": "きかん",
+    "meaning": "기간",
+    "meaningDetail": "동안",
+    "category": "명사",
+    "examples": [
+      { "ja": "期間を延長する。", "ko": "기간을 연장한다." }
+    ]
+  },
+  {
+    "word": "期限",
+    "reading": "きげん",
+    "meaning": "기한",
+    "meaningDetail": "마감",
+    "category": "명사",
+    "examples": [
+      { "ja": "期限を守る。", "ko": "기한을 지킨다." }
+    ]
+  },
+  {
+    "word": "締め切り",
+    "reading": "しめきり",
+    "meaning": "마감",
+    "meaningDetail": "기한",
+    "category": "명사",
+    "examples": [
+      { "ja": "締め切りに間に合う。", "ko": "마감에 맞춘다." }
+    ]
+  },
+  {
+    "word": "予定",
+    "reading": "よてい",
+    "meaning": "예정",
+    "meaningDetail": "계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "予定を確認する。", "ko": "예정을 확인한다." }
+    ]
+  },
+  {
+    "word": "日程",
+    "reading": "にってい",
+    "meaning": "일정",
+    "meaningDetail": "스케줄",
+    "category": "명사",
+    "examples": [
+      { "ja": "日程を調整する。", "ko": "일정을 조정한다." }
+    ]
+  },
+  {
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "일시",
+    "meaningDetail": "날짜와 시간",
+    "category": "명사",
+    "examples": [
+      { "ja": "日時を決める。", "ko": "일시를 정한다." }
+    ]
+  },
+  {
+    "word": "曜日",
+    "reading": "ようび",
+    "meaning": "요일",
+    "meaningDetail": "날",
+    "category": "명사",
+    "examples": [
+      { "ja": "曜日を確認する。", "ko": "요일을 확인한다." }
+    ]
+  },
+  {
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "meaning": "주말",
+    "meaningDetail": "토요일과 일요일",
+    "category": "명사",
+    "examples": [
+      { "ja": "週末に休む。", "ko": "주말에 쉰다." }
+    ]
+  },
+  {
+    "word": "平日",
+    "reading": "へいじつ",
+    "meaning": "평일",
+    "meaningDetail": "주중",
+    "category": "명사",
+    "examples": [
+      { "ja": "平日に働く。", "ko": "평일에 일한다." }
+    ]
+  },
+  {
+    "word": "祝日",
+    "reading": "しゅくじつ",
+    "meaning": "공휴일",
+    "meaningDetail": "휴일",
+    "category": "명사",
+    "examples": [
+      { "ja": "祝日は休みだ。", "ko": "공휴일은 쉰다." }
+    ]
+  },
+  {
+    "word": "連休",
+    "reading": "れんきゅう",
+    "meaning": "연휴",
+    "meaningDetail": "이어지는 휴일",
+    "category": "명사",
+    "examples": [
+      { "ja": "連休を利用して旅行する。", "ko": "연휴를 이용해 여행한다." }
+    ]
+  },
+  {
+    "word": "年度",
+    "reading": "ねんど",
+    "meaning": "연도",
+    "meaningDetail": "해",
+    "category": "명사",
+    "examples": [
+      { "ja": "新年度が始まる。", "ko": "새 연도가 시작된다." }
+    ]
+  },
+  {
+    "word": "学期",
+    "reading": "がっき",
+    "meaning": "학기",
+    "meaningDetail": "학교 기간",
+    "category": "명사",
+    "examples": [
+      { "ja": "新学期が始まる。", "ko": "새 학기가 시작된다." }
+    ]
+  },
+  {
+    "word": "季節",
+    "reading": "きせつ",
+    "meaning": "계절",
+    "meaningDetail": "철",
+    "category": "명사",
+    "examples": [
+      { "ja": "季節が変わる。", "ko": "계절이 바뀐다." }
+    ]
+  },
+  {
+    "word": "時刻",
+    "reading": "じこく",
+    "meaning": "시각",
+    "meaningDetail": "시간",
+    "category": "명사",
+    "examples": [
+      { "ja": "到着時刻を確認する。", "ko": "도착 시각을 확인한다." }
+    ]
+  },
+  {
+    "word": "瞬間",
+    "reading": "しゅんかん",
+    "meaning": "순간",
+    "meaningDetail": "찰나",
+    "category": "명사",
+    "examples": [
+      { "ja": "瞬間を捉える。", "ko": "순간을 포착한다." }
+    ]
+  },
+  {
+    "word": "一瞬",
+    "reading": "いっしゅん",
+    "meaning": "순간",
+    "meaningDetail": "찰나",
+    "category": "명사",
+    "examples": [
+      { "ja": "一瞬で消える。", "ko": "순간에 사라진다." }
+    ]
+  },
+  {
+    "word": "永遠",
+    "reading": "えいえん",
+    "meaning": "영원",
+    "meaningDetail": "끝없음",
+    "category": "명사",
+    "examples": [
+      { "ja": "永遠の愛を誓う。", "ko": "영원한 사랑을 맹세한다." }
+    ]
+  },
+  {
+    "word": "過去",
+    "reading": "かこ",
+    "meaning": "과거",
+    "meaningDetail": "예전",
+    "category": "명사",
+    "examples": [
+      { "ja": "過去を振り返る。", "ko": "과거를 돌아본다." }
+    ]
+  },
+  {
+    "word": "現在",
+    "reading": "げんざい",
+    "meaning": "현재",
+    "meaningDetail": "지금",
+    "category": "명사",
+    "examples": [
+      { "ja": "現在の状況を説明する。", "ko": "현재 상황을 설명한다." }
+    ]
+  },
+  {
+    "word": "未来",
+    "reading": "みらい",
+    "meaning": "미래",
+    "meaningDetail": "앞날",
+    "category": "명사",
+    "examples": [
+      { "ja": "未来を想像する。", "ko": "미래를 상상한다." }
+    ]
+  },
+  {
+    "word": "過程",
+    "reading": "かてい",
+    "meaning": "과정",
+    "meaningDetail": "진행",
+    "category": "명사",
+    "examples": [
+      { "ja": "過程を重視する。", "ko": "과정을 중시한다." }
+    ]
+  },
+  {
+    "word": "工程",
+    "reading": "こうてい",
+    "meaning": "공정",
+    "meaningDetail": "작업 단계",
+    "category": "명사",
+    "examples": [
+      { "ja": "工程を管理する。", "ko": "공정을 관리한다." }
+    ]
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "단계",
+    "meaningDetail": "과정",
+    "category": "명사",
+    "examples": [
+      { "ja": "次の段階に進む。", "ko": "다음 단계로 나아간다." }
+    ]
+  },
+  {
+    "word": "手順",
+    "reading": "てじゅん",
+    "meaning": "순서",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "手順を説明する。", "ko": "순서를 설명한다." }
+    ]
+  },
+  {
+    "word": "順序",
+    "reading": "じゅんじょ",
+    "meaning": "순서",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "順序を守る。", "ko": "순서를 지킨다." }
+    ]
+  },
+  {
+    "word": "順番",
+    "reading": "じゅんばん",
+    "meaning": "순번",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "順番を待つ。", "ko": "순번을 기다린다." }
+    ]
+  },
+  {
+    "word": "優先",
+    "reading": "ゆうせん",
+    "meaning": "우선",
+    "meaningDetail": "먼저 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を優先する。", "ko": "안전을 우선한다." }
+    ]
+  },
+  {
+    "word": "最優先",
+    "reading": "さいゆうせん",
+    "meaning": "최우선",
+    "meaningDetail": "가장 먼저",
+    "category": "명사",
+    "examples": [
+      { "ja": "最優先で処理する。", "ko": "최우선으로 처리한다." }
+    ]
+  },
+  {
+    "word": "緊急",
+    "reading": "きんきゅう",
+    "meaning": "긴급",
+    "meaningDetail": "급함",
+    "category": "명사",
+    "examples": [
+      { "ja": "緊急事態が発生する。", "ko": "긴급 사태가 발생한다." }
+    ]
+  },
+  {
+    "word": "危機",
+    "reading": "きき",
+    "meaning": "위기",
+    "meaningDetail": "위험한 때",
+    "category": "명사",
+    "examples": [
+      { "ja": "危機を乗り越える。", "ko": "위기를 극복한다." }
+    ]
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "위험",
+    "meaningDetail": "위태로움",
+    "category": "명사",
+    "examples": [
+      { "ja": "危険を避ける。", "ko": "위험을 피한다." }
+    ]
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "안전",
+    "meaningDetail": "위험 없음",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を確保する。", "ko": "안전을 확보한다." }
+    ]
+  },
+  {
+    "word": "保安",
+    "reading": "ほあん",
+    "meaning": "보안",
+    "meaningDetail": "안전 지킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "保安検査を受ける。", "ko": "보안 검사를 받는다." }
+    ]
+  },
+  {
+    "word": "警備",
+    "reading": "けいび",
+    "meaning": "경비",
+    "meaningDetail": "지킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "警備を強化する。", "ko": "경비를 강화한다." }
+    ]
+  },
+  {
+    "word": "防衛",
+    "reading": "ぼうえい",
+    "meaning": "방위",
+    "meaningDetail": "막음",
+    "category": "명사",
+    "examples": [
+      { "ja": "国を防衛する。", "ko": "나라를 방위한다." }
+    ]
+  },
+  {
+    "word": "防止",
+    "reading": "ぼうし",
+    "meaning": "방지",
+    "meaningDetail": "막음",
+    "category": "명사",
+    "examples": [
+      { "ja": "事故を防止する。", "ko": "사고를 방지한다." }
+    ]
+  },
+  {
+    "word": "予防",
+    "reading": "よぼう",
+    "meaning": "예방",
+    "meaningDetail": "미리 막음",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気を予防する。", "ko": "병을 예방한다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "방안",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を立てる。", "ko": "대책을 세운다." }
+    ]
+  },
+  {
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "해결",
+    "meaningDetail": "풂",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題を解決する。", "ko": "문제를 해결한다." }
+    ]
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaning": "해소",
+    "meaningDetail": "없앰",
+    "category": "명사",
+    "examples": [
+      { "ja": "ストレスを解消する。", "ko": "스트레스를 해소한다." }
+    ]
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "나아지게 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を改善する。", "ko": "상황을 개선한다." }
+    ]
+  },
+  {
+    "word": "改革",
+    "reading": "かいかく",
+    "meaning": "개혁",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "制度を改革する。", "ko": "제도를 개혁한다." }
+    ]
+  },
+  {
+    "word": "革新",
+    "reading": "かくしん",
+    "meaning": "혁신",
+    "meaningDetail": "새롭게 바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術革新を進める。", "ko": "기술 혁신을 추진한다." }
+    ]
+  }
+]

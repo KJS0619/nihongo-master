@@ -1,0 +1,497 @@
+[
+  {
+    "word": "励ます",
+    "reading": "はげます",
+    "meaning": "격려하다",
+    "meaningDetail": "용기 북돋다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友人を励ます。", "ko": "친구를 격려하다." }
+    ]
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "meaning": "근무하다",
+    "meaningDetail": "일하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "会社に勤める。", "ko": "회사에 근무하다." }
+    ]
+  },
+  {
+    "word": "努める",
+    "reading": "つとめる",
+    "meaning": "노력하다",
+    "meaningDetail": "힘쓰다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "改善に努める。", "ko": "개선에 노력하다." }
+    ]
+  },
+  {
+    "word": "務める",
+    "reading": "つとめる",
+    "meaning": "맡다",
+    "meaningDetail": "역할하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "司会を務める。", "ko": "사회를 맡다." }
+    ]
+  },
+  {
+    "word": "携わる",
+    "reading": "たずさわる",
+    "meaning": "종사하다",
+    "meaningDetail": "관여하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "教育に携わる。", "ko": "교육에 종사하다." }
+    ]
+  },
+  {
+    "word": "従事する",
+    "reading": "じゅうじする",
+    "meaning": "종사하다",
+    "meaningDetail": "일하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "研究に従事する。", "ko": "연구에 종사하다." }
+    ]
+  },
+  {
+    "word": "従う",
+    "reading": "したがう",
+    "meaning": "따르다",
+    "meaningDetail": "복종하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "規則に従う。", "ko": "규칙을 따르다." }
+    ]
+  },
+  {
+    "word": "服従する",
+    "reading": "ふくじゅうする",
+    "meaning": "복종하다",
+    "meaningDetail": "따르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "命令に服従する。", "ko": "명령에 복종하다." }
+    ]
+  },
+  {
+    "word": "反抗する",
+    "reading": "はんこうする",
+    "meaning": "반항하다",
+    "meaningDetail": "저항하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "親に反抗する。", "ko": "부모에게 반항하다." }
+    ]
+  },
+  {
+    "word": "抵抗する",
+    "reading": "ていこうする",
+    "meaning": "저항하다",
+    "meaningDetail": "반대하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "圧力に抵抗する。", "ko": "압력에 저항하다." }
+    ]
+  },
+  {
+    "word": "逆らう",
+    "reading": "さからう",
+    "meaning": "거스르다",
+    "meaningDetail": "반항하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "運命に逆らう。", "ko": "운명에 거스르다." }
+    ]
+  },
+  {
+    "word": "対抗する",
+    "reading": "たいこうする",
+    "meaning": "대항하다",
+    "meaningDetail": "맞서다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ライバルに対抗する。", "ko": "라이벌에 대항하다." }
+    ]
+  },
+  {
+    "word": "対立する",
+    "reading": "たいりつする",
+    "meaning": "대립하다",
+    "meaningDetail": "맞서다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見が対立する。", "ko": "의견이 대립하다." }
+    ]
+  },
+  {
+    "word": "対処する",
+    "reading": "たいしょする",
+    "meaning": "대처하다",
+    "meaningDetail": "처리하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題に対処する。", "ko": "문제에 대처하다." }
+    ]
+  },
+  {
+    "word": "対応する",
+    "reading": "たいおうする",
+    "meaning": "대응하다",
+    "meaningDetail": "응대하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況に対応する。", "ko": "상황에 대응하다." }
+    ]
+  },
+  {
+    "word": "応じる",
+    "reading": "おうじる",
+    "meaning": "응하다",
+    "meaningDetail": "대응하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "要求に応じる。", "ko": "요구에 응하다." }
+    ]
+  },
+  {
+    "word": "応える",
+    "reading": "こたえる",
+    "meaning": "부응하다",
+    "meaningDetail": "응하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "期待に応える。", "ko": "기대에 부응하다." }
+    ]
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "대답하다",
+    "meaningDetail": "응답하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "質問に答える。", "ko": "질문에 대답하다." }
+    ]
+  },
+  {
+    "word": "返答する",
+    "reading": "へんとうする",
+    "meaning": "답변하다",
+    "meaningDetail": "대답하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "メールに返答する。", "ko": "메일에 답변하다." }
+    ]
+  },
+  {
+    "word": "回答する",
+    "reading": "かいとうする",
+    "meaning": "회답하다",
+    "meaningDetail": "답변하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "アンケートに回答する。", "ko": "앙케이트에 회답하다." }
+    ]
+  },
+  {
+    "word": "返事する",
+    "reading": "へんじする",
+    "meaning": "대답하다",
+    "meaningDetail": "응답하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "すぐに返事する。", "ko": "바로 대답하다." }
+    ]
+  },
+  {
+    "word": "返却する",
+    "reading": "へんきゃくする",
+    "meaning": "반환하다",
+    "meaningDetail": "돌려주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "図書を返却する。", "ko": "도서를 반환하다." }
+    ]
+  },
+  {
+    "word": "返還する",
+    "reading": "へんかんする",
+    "meaning": "반환하다",
+    "meaningDetail": "돌려주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "領土を返還する。", "ko": "영토를 반환하다." }
+    ]
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "돌려주다",
+    "meaningDetail": "반환하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "本を返す。", "ko": "책을 돌려주다." }
+    ]
+  },
+  {
+    "word": "戻す",
+    "reading": "もどす",
+    "meaning": "되돌리다",
+    "meaningDetail": "돌려놓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "元に戻す。", "ko": "원래대로 되돌리다." }
+    ]
+  },
+  {
+    "word": "戻る",
+    "reading": "もどる",
+    "meaning": "돌아오다",
+    "meaningDetail": "귀환하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "家に戻る。", "ko": "집에 돌아오다." }
+    ]
+  },
+  {
+    "word": "帰還する",
+    "reading": "きかんする",
+    "meaning": "귀환하다",
+    "meaningDetail": "돌아오다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "故郷に帰還する。", "ko": "고향에 귀환하다." }
+    ]
+  },
+  {
+    "word": "帰宅する",
+    "reading": "きたくする",
+    "meaning": "귀가하다",
+    "meaningDetail": "집에 돌아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "夜遅く帰宅する。", "ko": "밤늦게 귀가하다." }
+    ]
+  },
+  {
+    "word": "帰国する",
+    "reading": "きこくする",
+    "meaning": "귀국하다",
+    "meaningDetail": "돌아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "留学を終えて帰国する。", "ko": "유학을 마치고 귀국하다." }
+    ]
+  },
+  {
+    "word": "出国する",
+    "reading": "しゅっこくする",
+    "meaning": "출국하다",
+    "meaningDetail": "나가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "空港から出国する。", "ko": "공항에서 출국하다." }
+    ]
+  },
+  {
+    "word": "入国する",
+    "reading": "にゅうこくする",
+    "meaning": "입국하다",
+    "meaningDetail": "들어오다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "日本に入国する。", "ko": "일본에 입국하다." }
+    ]
+  },
+  {
+    "word": "渡航する",
+    "reading": "とこうする",
+    "meaning": "도항하다",
+    "meaningDetail": "여행하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "海外へ渡航する。", "ko": "해외로 도항하다." }
+    ]
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "건너다",
+    "meaningDetail": "넘다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "橋を渡る。", "ko": "다리를 건너다." }
+    ]
+  },
+  {
+    "word": "渡す",
+    "reading": "わたす",
+    "meaning": "건네다",
+    "meaningDetail": "전달하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "書類を渡す。", "ko": "서류를 건네다." }
+    ]
+  },
+  {
+    "word": "手渡す",
+    "reading": "てわたす",
+    "meaning": "손수 전하다",
+    "meaningDetail": "직접 전달하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プレゼントを手渡す。", "ko": "선물을 손수 전하다." }
+    ]
+  },
+  {
+    "word": "引き渡す",
+    "reading": "ひきわたす",
+    "meaning": "인도하다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "容疑者を引き渡す。", "ko": "용의자를 인도하다." }
+    ]
+  },
+  {
+    "word": "譲る",
+    "reading": "ゆずる",
+    "meaning": "양보하다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "席を譲る。", "ko": "자리를 양보하다." }
+    ]
+  },
+  {
+    "word": "譲渡する",
+    "reading": "じょうとする",
+    "meaning": "양도하다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "権利を譲渡する。", "ko": "권리를 양도하다." }
+    ]
+  },
+  {
+    "word": "委譲する",
+    "reading": "いじょうする",
+    "meaning": "이양하다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "権限を委譲する。", "ko": "권한을 이양하다." }
+    ]
+  },
+  {
+    "word": "委託する",
+    "reading": "いたくする",
+    "meaning": "위탁하다",
+    "meaningDetail": "맡기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "業務を委託する。", "ko": "업무를 위탁하다." }
+    ]
+  },
+  {
+    "word": "委ねる",
+    "reading": "ゆだねる",
+    "meaning": "맡기다",
+    "meaningDetail": "위임하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "判断を委ねる。", "ko": "판단을 맡기다." }
+    ]
+  },
+  {
+    "word": "任せる",
+    "reading": "まかせる",
+    "meaning": "맡기다",
+    "meaningDetail": "위임하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事を任せる。", "ko": "일을 맡기다." }
+    ]
+  },
+  {
+    "word": "預ける",
+    "reading": "あずける",
+    "meaning": "맡기다",
+    "meaningDetail": "보관하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "荷物を預ける。", "ko": "짐을 맡기다." }
+    ]
+  },
+  {
+    "word": "預かる",
+    "reading": "あずかる",
+    "meaning": "맡다",
+    "meaningDetail": "보관하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "子どもを預かる。", "ko": "아이를 맡다." }
+    ]
+  },
+  {
+    "word": "保管する",
+    "reading": "ほかんする",
+    "meaning": "보관하다",
+    "meaningDetail": "저장하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類を保管する。", "ko": "서류를 보관하다." }
+    ]
+  }
+]

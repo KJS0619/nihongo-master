@@ -1,0 +1,492 @@
+[
+  {
+    "word": "評論",
+    "reading": "ひょうろん",
+    "meaning": "평론",
+    "meaningDetail": "비평하는 글",
+    "category": "명사",
+    "examples": [
+      { "ja": "映画の評論を書く。", "ko": "영화 평론을 쓴다." }
+    ]
+  },
+  {
+    "word": "批判",
+    "reading": "ひはん",
+    "meaning": "비판",
+    "meaningDetail": "잘못을 지적함",
+    "category": "명사",
+    "examples": [
+      { "ja": "批判を受ける。", "ko": "비판을 받는다." }
+    ]
+  },
+  {
+    "word": "賛成",
+    "reading": "さんせい",
+    "meaning": "찬성",
+    "meaningDetail": "동의함",
+    "category": "명사",
+    "examples": [
+      { "ja": "賛成の意見を述べる。", "ko": "찬성 의견을 말한다." }
+    ]
+  },
+  {
+    "word": "反対",
+    "reading": "はんたい",
+    "meaning": "반대",
+    "meaningDetail": "동의하지 않음",
+    "category": "명사",
+    "examples": [
+      { "ja": "反対の立場を取る。", "ko": "반대 입장을 취한다." }
+    ]
+  },
+  {
+    "word": "議論",
+    "reading": "ぎろん",
+    "meaning": "의론",
+    "meaningDetail": "토론",
+    "category": "명사",
+    "examples": [
+      { "ja": "議論を交わす。", "ko": "의론을 나눈다." }
+    ]
+  },
+  {
+    "word": "論争",
+    "reading": "ろんそう",
+    "meaning": "논쟁",
+    "meaningDetail": "의견 충돌",
+    "category": "명사",
+    "examples": [
+      { "ja": "論争が起きる。", "ko": "논쟁이 일어난다." }
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meaning": "주장",
+    "meaningDetail": "내세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "主張を述べる。", "ko": "주장을 말한다." }
+    ]
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "의견",
+    "meaningDetail": "생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見を交換する。", "ko": "의견을 교환한다." }
+    ]
+  },
+  {
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "제안",
+    "meaningDetail": "내놓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "提案をする。", "ko": "제안을 한다." }
+    ]
+  },
+  {
+    "word": "要求",
+    "reading": "ようきゅう",
+    "meaning": "요구",
+    "meaningDetail": "청함",
+    "category": "명사",
+    "examples": [
+      { "ja": "要求を出す。", "ko": "요구를 내다." }
+    ]
+  },
+  {
+    "word": "要請",
+    "reading": "ようせい",
+    "meaning": "요청",
+    "meaningDetail": "부탁함",
+    "category": "명사",
+    "examples": [
+      { "ja": "要請に応じる。", "ko": "요청에 응한다." }
+    ]
+  },
+  {
+    "word": "依頼",
+    "reading": "いらい",
+    "meaning": "의뢰",
+    "meaningDetail": "부탁",
+    "category": "명사",
+    "examples": [
+      { "ja": "依頼を受ける。", "ko": "의뢰를 받는다." }
+    ]
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "meaningDetail": "허락함",
+    "category": "명사",
+    "examples": [
+      { "ja": "許可を得る。", "ko": "허가를 얻다." }
+    ]
+  },
+  {
+    "word": "承認",
+    "reading": "しょうにん",
+    "meaning": "승인",
+    "meaningDetail": "인정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "承認を求める。", "ko": "승인을 구한다." }
+    ]
+  },
+  {
+    "word": "拒否",
+    "reading": "きょひ",
+    "meaning": "거부",
+    "meaningDetail": "거절함",
+    "category": "명사",
+    "examples": [
+      { "ja": "要求を拒否する。", "ko": "요구를 거부한다." }
+    ]
+  },
+  {
+    "word": "辞退",
+    "reading": "じたい",
+    "meaning": "사퇴, 사양",
+    "meaningDetail": "물러남",
+    "category": "명사",
+    "examples": [
+      { "ja": "辞退を申し出る。", "ko": "사퇴를 신청한다." }
+    ]
+  },
+  {
+    "word": "交流",
+    "reading": "こうりゅう",
+    "meaning": "교류",
+    "meaningDetail": "서로 오고감",
+    "category": "명사",
+    "examples": [
+      { "ja": "文化交流をする。", "ko": "문화 교류를 한다." }
+    ]
+  },
+  {
+    "word": "協定",
+    "reading": "きょうてい",
+    "meaning": "협정",
+    "meaningDetail": "합의함",
+    "category": "명사",
+    "examples": [
+      { "ja": "協定を結ぶ。", "ko": "협정을 맺는다." }
+    ]
+  },
+  {
+    "word": "条約",
+    "reading": "じょうやく",
+    "meaning": "조약",
+    "meaningDetail": "국가 간 약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "条約を締結する。", "ko": "조약을 체결한다." }
+    ]
+  },
+  {
+    "word": "合意",
+    "reading": "ごうい",
+    "meaning": "합의",
+    "meaningDetail": "뜻을 같이함",
+    "category": "명사",
+    "examples": [
+      { "ja": "合意に達する。", "ko": "합의에 도달한다." }
+    ]
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaning": "타협",
+    "meaningDetail": "양보함",
+    "category": "명사",
+    "examples": [
+      { "ja": "妥協点を見つける。", "ko": "타협점을 찾는다." }
+    ]
+  },
+  {
+    "word": "譲歩",
+    "reading": "じょうほ",
+    "meaning": "양보",
+    "meaningDetail": "물러섬",
+    "category": "명사",
+    "examples": [
+      { "ja": "譲歩する姿勢を見せる。", "ko": "양보하는 자세를 보인다." }
+    ]
+  },
+  {
+    "word": "対立",
+    "reading": "たいりつ",
+    "meaning": "대립",
+    "meaningDetail": "맞섬",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見が対立する。", "ko": "의견이 대립한다." }
+    ]
+  },
+  {
+    "word": "衝突",
+    "reading": "しょうとつ",
+    "meaning": "충돌",
+    "meaningDetail": "부딪힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "車が衝突する。", "ko": "차가 충돌한다." }
+    ]
+  },
+  {
+    "word": "紛争",
+    "reading": "ふんそう",
+    "meaning": "분쟁",
+    "meaningDetail": "다툼",
+    "category": "명사",
+    "examples": [
+      { "ja": "紛争を解決する。", "ko": "분쟁을 해결한다." }
+    ]
+  },
+  {
+    "word": "戦争",
+    "reading": "せんそう",
+    "meaning": "전쟁",
+    "meaningDetail": "무력 충돌",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦争が終わる。", "ko": "전쟁이 끝난다." }
+    ]
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "평화",
+    "meaningDetail": "전쟁이 없는 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "平和を願う。", "ko": "평화를 바란다." }
+    ]
+  },
+  {
+    "word": "安定",
+    "reading": "あんてい",
+    "meaning": "안정",
+    "meaningDetail": "흔들리지 않음",
+    "category": "명사",
+    "examples": [
+      { "ja": "生活が安定する。", "ko": "생활이 안정된다." }
+    ]
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meaning": "불안",
+    "meaningDetail": "걱정됨",
+    "category": "명사",
+    "examples": [
+      { "ja": "不安を感じる。", "ko": "불안을 느낀다." }
+    ]
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "걱정",
+    "meaningDetail": "근심",
+    "category": "명사",
+    "examples": [
+      { "ja": "心配をかける。", "ko": "걱정을 끼친다." }
+    ]
+  },
+  {
+    "word": "懸念",
+    "reading": "けねん",
+    "meaning": "우려",
+    "meaningDetail": "걱정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "懸念を表明する。", "ko": "우려를 표명한다." }
+    ]
+  },
+  {
+    "word": "疑問",
+    "reading": "ぎもん",
+    "meaning": "의문",
+    "meaningDetail": "궁금함",
+    "category": "명사",
+    "examples": [
+      { "ja": "疑問を抱く。", "ko": "의문을 품는다." }
+    ]
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "질문",
+    "meaningDetail": "물음",
+    "category": "명사",
+    "examples": [
+      { "ja": "質問をする。", "ko": "질문을 한다." }
+    ]
+  },
+  {
+    "word": "回答",
+    "reading": "かいとう",
+    "meaning": "회답",
+    "meaningDetail": "대답함",
+    "category": "명사",
+    "examples": [
+      { "ja": "回答を待つ。", "ko": "회답을 기다린다." }
+    ]
+  },
+  {
+    "word": "解答",
+    "reading": "かいとう",
+    "meaning": "해답",
+    "meaningDetail": "정답",
+    "category": "명사",
+    "examples": [
+      { "ja": "解答を書く。", "ko": "해답을 쓴다." }
+    ]
+  },
+  {
+    "word": "返答",
+    "reading": "へんとう",
+    "meaning": "답변",
+    "meaningDetail": "대답",
+    "category": "명사",
+    "examples": [
+      { "ja": "返答を求める。", "ko": "답변을 구한다." }
+    ]
+  },
+  {
+    "word": "反省",
+    "reading": "はんせい",
+    "meaning": "반성",
+    "meaningDetail": "되돌아봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "反省する。", "ko": "반성한다." }
+    ]
+  },
+  {
+    "word": "後悔",
+    "reading": "こうかい",
+    "meaning": "후회",
+    "meaningDetail": "뉘우침",
+    "category": "명사",
+    "examples": [
+      { "ja": "後悔する。", "ko": "후회한다." }
+    ]
+  },
+  {
+    "word": "謝罪",
+    "reading": "しゃざい",
+    "meaning": "사죄",
+    "meaningDetail": "사과함",
+    "category": "명사",
+    "examples": [
+      { "ja": "謝罪する。", "ko": "사죄한다." }
+    ]
+  },
+  {
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "감사",
+    "meaningDetail": "고마워함",
+    "category": "명사",
+    "examples": [
+      { "ja": "感謝の気持ちを伝える。", "ko": "감사의 마음을 전한다." }
+    ]
+  },
+  {
+    "word": "尊敬",
+    "reading": "そんけい",
+    "meaning": "존경",
+    "meaningDetail": "우러러봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "尊敬する人がいる。", "ko": "존경하는 사람이 있다." }
+    ]
+  },
+  {
+    "word": "信頼",
+    "reading": "しんらい",
+    "meaning": "신뢰",
+    "meaningDetail": "믿음",
+    "category": "명사",
+    "examples": [
+      { "ja": "信頼を得る。", "ko": "신뢰를 얻다." }
+    ]
+  },
+  {
+    "word": "信用",
+    "reading": "しんよう",
+    "meaning": "신용",
+    "meaningDetail": "믿음",
+    "category": "명사",
+    "examples": [
+      { "ja": "信用を失う。", "ko": "신용을 잃다." }
+    ]
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "期待に応える。", "ko": "기대에 부응한다." }
+    ]
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "희망",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "希望を持つ。", "ko": "희망을 갖는다." }
+    ]
+  },
+  {
+    "word": "願望",
+    "reading": "がんぼう",
+    "meaning": "소망",
+    "meaningDetail": "바라는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "願望を叶える。", "ko": "소망을 이룬다." }
+    ]
+  },
+  {
+    "word": "野望",
+    "reading": "やぼう",
+    "meaning": "야망",
+    "meaningDetail": "큰 뜻",
+    "category": "명사",
+    "examples": [
+      { "ja": "野望を抱く。", "ko": "야망을 품는다." }
+    ]
+  },
+  {
+    "word": "意欲",
+    "reading": "いよく",
+    "meaning": "의욕",
+    "meaningDetail": "하려는 마음",
+    "category": "명사",
+    "examples": [
+      { "ja": "意欲を持つ。", "ko": "의욕을 갖는다." }
+    ]
+  },
+  {
+    "word": "情熱",
+    "reading": "じょうねつ",
+    "meaning": "정열",
+    "meaningDetail": "열정",
+    "category": "명사",
+    "examples": [
+      { "ja": "情熱を注ぐ。", "ko": "정열을 쏟는다." }
+    ]
+  }
+]

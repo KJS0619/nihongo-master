@@ -1,0 +1,482 @@
+[
+  {
+    "word": "建築",
+    "reading": "けんちく",
+    "meaning": "건축",
+    "meaningDetail": "건물 짓기",
+    "category": "명사",
+    "examples": [
+      { "ja": "建築を学ぶ。", "ko": "건축을 배우다." }
+    ]
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "건물",
+    "meaningDetail": "빌딩",
+    "category": "명사",
+    "examples": [
+      { "ja": "建物に入る。", "ko": "건물에 들어가다." }
+    ]
+  },
+  {
+    "word": "住宅",
+    "reading": "じゅうたく",
+    "meaning": "주택",
+    "meaningDetail": "살림집",
+    "category": "명사",
+    "examples": [
+      { "ja": "住宅を購入する。", "ko": "주택을 구입하다." }
+    ]
+  },
+  {
+    "word": "マンション",
+    "reading": "まんしょん",
+    "meaning": "맨션",
+    "meaningDetail": "아파트",
+    "category": "명사",
+    "examples": [
+      { "ja": "マンションに住む。", "ko": "맨션에 살다." }
+    ]
+  },
+  {
+    "word": "アパート",
+    "reading": "あぱーと",
+    "meaning": "아파트",
+    "meaningDetail": "연립 주택",
+    "category": "명사",
+    "examples": [
+      { "ja": "アパートを借りる。", "ko": "아파트를 빌리다." }
+    ]
+  },
+  {
+    "word": "一戸建て",
+    "reading": "いっこだて",
+    "meaning": "단독주택",
+    "meaningDetail": "독립 가옥",
+    "category": "명사",
+    "examples": [
+      { "ja": "一戸建てに住む。", "ko": "단독주택에 살다." }
+    ]
+  },
+  {
+    "word": "間取り",
+    "reading": "まどり",
+    "meaning": "방 배치",
+    "meaningDetail": "구조",
+    "category": "명사",
+    "examples": [
+      { "ja": "間取りを確認する。", "ko": "방 배치를 확인하다." }
+    ]
+  },
+  {
+    "word": "家賃",
+    "reading": "やちん",
+    "meaning": "집세",
+    "meaningDetail": "월세",
+    "category": "명사",
+    "examples": [
+      { "ja": "家賃を払う。", "ko": "집세를 내다." }
+    ]
+  },
+  {
+    "word": "敷金",
+    "reading": "しききん",
+    "meaning": "보증금",
+    "meaningDetail": "임대 보증금",
+    "category": "명사",
+    "examples": [
+      { "ja": "敷金を預ける。", "ko": "보증금을 맡기다." }
+    ]
+  },
+  {
+    "word": "礼金",
+    "reading": "れいきん",
+    "meaning": "사례금",
+    "meaningDetail": "권리금",
+    "category": "명사",
+    "examples": [
+      { "ja": "礼金を払う。", "ko": "사례금을 내다." }
+    ]
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "계약",
+    "meaningDetail": "약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "契約を結ぶ。", "ko": "계약을 맺다." }
+    ]
+  },
+  {
+    "word": "更新",
+    "reading": "こうしん",
+    "meaning": "갱신",
+    "meaningDetail": "새로 고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "契約を更新する。", "ko": "계약을 갱신하다." }
+    ]
+  },
+  {
+    "word": "引っ越し",
+    "reading": "ひっこし",
+    "meaning": "이사",
+    "meaningDetail": "집 옮기기",
+    "category": "명사",
+    "examples": [
+      { "ja": "引っ越しをする。", "ko": "이사를 하다." }
+    ]
+  },
+  {
+    "word": "入居",
+    "reading": "にゅうきょ",
+    "meaning": "입주",
+    "meaningDetail": "들어가 살기",
+    "category": "명사",
+    "examples": [
+      { "ja": "入居する。", "ko": "입주하다." }
+    ]
+  },
+  {
+    "word": "退去",
+    "reading": "たいきょ",
+    "meaning": "퇴거",
+    "meaningDetail": "나가기",
+    "category": "명사",
+    "examples": [
+      { "ja": "退去する。", "ko": "퇴거하다." }
+    ]
+  },
+  {
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "설비",
+    "meaningDetail": "시설",
+    "category": "명사",
+    "examples": [
+      { "ja": "設備が整っている。", "ko": "설비가 갖춰져 있다." }
+    ]
+  },
+  {
+    "word": "施設",
+    "reading": "しせつ",
+    "meaning": "시설",
+    "meaningDetail": "건물",
+    "category": "명사",
+    "examples": [
+      { "ja": "施設を利用する。", "ko": "시설을 이용하다." }
+    ]
+  },
+  {
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "구조",
+    "meaningDetail": "짜임",
+    "category": "명사",
+    "examples": [
+      { "ja": "構造を分析する。", "ko": "구조를 분석하다." }
+    ]
+  },
+  {
+    "word": "基礎",
+    "reading": "きそ",
+    "meaning": "기초",
+    "meaningDetail": "바탕",
+    "category": "명사",
+    "examples": [
+      { "ja": "基礎を固める。", "ko": "기초를 다지다." }
+    ]
+  },
+  {
+    "word": "土台",
+    "reading": "どだい",
+    "meaning": "토대",
+    "meaningDetail": "기반",
+    "category": "명사",
+    "examples": [
+      { "ja": "土台を作る。", "ko": "토대를 만들다." }
+    ]
+  },
+  {
+    "word": "柱",
+    "reading": "はしら",
+    "meaning": "기둥",
+    "meaningDetail": "버팀목",
+    "category": "명사",
+    "examples": [
+      { "ja": "柱を立てる。", "ko": "기둥을 세우다." }
+    ]
+  },
+  {
+    "word": "壁",
+    "reading": "かべ",
+    "meaning": "벽",
+    "meaningDetail": "담",
+    "category": "명사",
+    "examples": [
+      { "ja": "壁を塗る。", "ko": "벽을 칠하다." }
+    ]
+  },
+  {
+    "word": "天井",
+    "reading": "てんじょう",
+    "meaning": "천장",
+    "meaningDetail": "위쪽 면",
+    "category": "명사",
+    "examples": [
+      { "ja": "天井が高い。", "ko": "천장이 높다." }
+    ]
+  },
+  {
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "바닥",
+    "meaningDetail": "마루",
+    "category": "명사",
+    "examples": [
+      { "ja": "床を掃除する。", "ko": "바닥을 청소하다." }
+    ]
+  },
+  {
+    "word": "屋根",
+    "reading": "やね",
+    "meaning": "지붕",
+    "meaningDetail": "윗덮개",
+    "category": "명사",
+    "examples": [
+      { "ja": "屋根を修理する。", "ko": "지붕을 수리하다." }
+    ]
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "계단",
+    "meaningDetail": "층계",
+    "category": "명사",
+    "examples": [
+      { "ja": "階段を上る。", "ko": "계단을 오르다." }
+    ]
+  },
+  {
+    "word": "廊下",
+    "reading": "ろうか",
+    "meaning": "복도",
+    "meaningDetail": "통로",
+    "category": "명사",
+    "examples": [
+      { "ja": "廊下を歩く。", "ko": "복도를 걷다." }
+    ]
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "현관",
+    "meaningDetail": "입구",
+    "category": "명사",
+    "examples": [
+      { "ja": "玄関で靴を脱ぐ。", "ko": "현관에서 신발을 벗다." }
+    ]
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "창문",
+    "meaningDetail": "창",
+    "category": "명사",
+    "examples": [
+      { "ja": "窓を開ける。", "ko": "창문을 열다." }
+    ]
+  },
+  {
+    "word": "扉",
+    "reading": "とびら",
+    "meaning": "문짝",
+    "meaningDetail": "문",
+    "category": "명사",
+    "examples": [
+      { "ja": "扉を閉める。", "ko": "문짝을 닫다." }
+    ]
+  },
+  {
+    "word": "ベランダ",
+    "reading": "べらんだ",
+    "meaning": "베란다",
+    "meaningDetail": "발코니",
+    "category": "명사",
+    "examples": [
+      { "ja": "ベランダで洗濯物を干す。", "ko": "베란다에서 빨래를 널다." }
+    ]
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "정원",
+    "meaningDetail": "뜰",
+    "category": "명사",
+    "examples": [
+      { "ja": "庭を手入れする。", "ko": "정원을 손질하다." }
+    ]
+  },
+  {
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "주차장",
+    "meaningDetail": "차 대는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "駐車場に停める。", "ko": "주차장에 주차하다." }
+    ]
+  },
+  {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaning": "창고",
+    "meaningDetail": "물건 보관소",
+    "category": "명사",
+    "examples": [
+      { "ja": "倉庫に保管する。", "ko": "창고에 보관하다." }
+    ]
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "공장",
+    "meaningDetail": "제조 시설",
+    "category": "명사",
+    "examples": [
+      { "ja": "工場で働く。", "ko": "공장에서 일하다." }
+    ]
+  },
+  {
+    "word": "研究所",
+    "reading": "けんきゅうじょ",
+    "meaning": "연구소",
+    "meaningDetail": "연구 기관",
+    "category": "명사",
+    "examples": [
+      { "ja": "研究所で実験する。", "ko": "연구소에서 실험하다." }
+    ]
+  },
+  {
+    "word": "本社",
+    "reading": "ほんしゃ",
+    "meaning": "본사",
+    "meaningDetail": "중심 회사",
+    "category": "명사",
+    "examples": [
+      { "ja": "本社に出勤する。", "ko": "본사에 출근하다." }
+    ]
+  },
+  {
+    "word": "支社",
+    "reading": "ししゃ",
+    "meaning": "지사",
+    "meaningDetail": "지점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支社に転勤する。", "ko": "지사로 전근하다." }
+    ]
+  },
+  {
+    "word": "支店",
+    "reading": "してん",
+    "meaning": "지점",
+    "meaningDetail": "분점",
+    "category": "명사",
+    "examples": [
+      { "ja": "支店を開設する。", "ko": "지점을 개설하다." }
+    ]
+  },
+  {
+    "word": "事務所",
+    "reading": "じむしょ",
+    "meaning": "사무소",
+    "meaningDetail": "사무실",
+    "category": "명사",
+    "examples": [
+      { "ja": "事務所で働く。", "ko": "사무소에서 일하다." }
+    ]
+  },
+  {
+    "word": "会議室",
+    "reading": "かいぎしつ",
+    "meaning": "회의실",
+    "meaningDetail": "미팅룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "会議室を予約する。", "ko": "회의실을 예약하다." }
+    ]
+  },
+  {
+    "word": "受付",
+    "reading": "うけつけ",
+    "meaning": "접수처",
+    "meaningDetail": "안내 데스크",
+    "category": "명사",
+    "examples": [
+      { "ja": "受付で手続きする。", "ko": "접수처에서 수속하다." }
+    ]
+  },
+  {
+    "word": "エレベーター",
+    "reading": "えれべーたー",
+    "meaning": "엘리베이터",
+    "meaningDetail": "승강기",
+    "category": "명사",
+    "examples": [
+      { "ja": "エレベーターに乗る。", "ko": "엘리베이터를 타다." }
+    ]
+  },
+  {
+    "word": "エスカレーター",
+    "reading": "えすかれーたー",
+    "meaning": "에스컬레이터",
+    "meaningDetail": "자동 계단",
+    "category": "명사",
+    "examples": [
+      { "ja": "エスカレーターを使う。", "ko": "에스컬레이터를 이용하다." }
+    ]
+  },
+  {
+    "word": "非常口",
+    "reading": "ひじょうぐち",
+    "meaning": "비상구",
+    "meaningDetail": "탈출구",
+    "category": "명사",
+    "examples": [
+      { "ja": "非常口を確認する。", "ko": "비상구를 확인하다." }
+    ]
+  },
+  {
+    "word": "避難",
+    "reading": "ひなん",
+    "meaning": "피난",
+    "meaningDetail": "대피",
+    "category": "명사",
+    "examples": [
+      { "ja": "避難訓練をする。", "ko": "피난 훈련을 하다." }
+    ]
+  },
+  {
+    "word": "消火器",
+    "reading": "しょうかき",
+    "meaning": "소화기",
+    "meaningDetail": "불 끄는 기구",
+    "category": "명사",
+    "examples": [
+      { "ja": "消火器を使う。", "ko": "소화기를 사용하다." }
+    ]
+  },
+  {
+    "word": "警報",
+    "reading": "けいほう",
+    "meaning": "경보",
+    "meaningDetail": "경고음",
+    "category": "명사",
+    "examples": [
+      { "ja": "警報が鳴る。", "ko": "경보가 울리다." }
+    ]
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "word": "演じる",
+    "reading": "えんじる",
+    "meaning": "연기하다",
+    "meaningDetail": "역할을 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "役を演じる。", "ko": "역할을 연기하다." }
+    ]
+  },
+  {
+    "word": "演奏する",
+    "reading": "えんそうする",
+    "meaning": "연주하다",
+    "meaningDetail": "악기를 치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ピアノを演奏する。", "ko": "피아노를 연주하다." }
+    ]
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "노래하다",
+    "meaningDetail": "노래 부르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "歌を歌う。", "ko": "노래를 부르다." }
+    ]
+  },
+  {
+    "word": "踊る",
+    "reading": "おどる",
+    "meaning": "춤추다",
+    "meaningDetail": "춤을 추다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "音楽に合わせて踊る。", "ko": "음악에 맞춰 춤추다." }
+    ]
+  },
+  {
+    "word": "描く",
+    "reading": "えがく",
+    "meaning": "그리다",
+    "meaningDetail": "묘사하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "絵を描く。", "ko": "그림을 그리다." }
+    ]
+  },
+  {
+    "word": "撮影する",
+    "reading": "さつえいする",
+    "meaning": "촬영하다",
+    "meaningDetail": "찍다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "映画を撮影する。", "ko": "영화를 촬영하다." }
+    ]
+  },
+  {
+    "word": "鑑賞する",
+    "reading": "かんしょうする",
+    "meaning": "감상하다",
+    "meaningDetail": "작품을 보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "美術品を鑑賞する。", "ko": "미술품을 감상하다." }
+    ]
+  },
+  {
+    "word": "展示する",
+    "reading": "てんじする",
+    "meaning": "전시하다",
+    "meaningDetail": "보여주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "作品を展示する。", "ko": "작품을 전시하다." }
+    ]
+  },
+  {
+    "word": "創作する",
+    "reading": "そうさくする",
+    "meaning": "창작하다",
+    "meaningDetail": "만들어내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "物語を創作する。", "ko": "이야기를 창작하다." }
+    ]
+  },
+  {
+    "word": "編集する",
+    "reading": "へんしゅうする",
+    "meaning": "편집하다",
+    "meaningDetail": "다듬다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "動画を編集する。", "ko": "동영상을 편집하다." }
+    ]
+  },
+  {
+    "word": "競う",
+    "reading": "きそう",
+    "meaning": "겨루다",
+    "meaningDetail": "경쟁하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "速さを競う。", "ko": "속도를 겨루다." }
+    ]
+  },
+  {
+    "word": "勝つ",
+    "reading": "かつ",
+    "meaning": "이기다",
+    "meaningDetail": "승리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "試合に勝つ。", "ko": "시합에서 이기다." }
+    ]
+  },
+  {
+    "word": "負ける",
+    "reading": "まける",
+    "meaning": "지다",
+    "meaningDetail": "패배하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "試合に負ける。", "ko": "시합에서 지다." }
+    ]
+  },
+  {
+    "word": "挑戦する",
+    "reading": "ちょうせんする",
+    "meaning": "도전하다",
+    "meaningDetail": "시도하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新記録に挑戦する。", "ko": "신기록에 도전하다." }
+    ]
+  },
+  {
+    "word": "訓練する",
+    "reading": "くんれんする",
+    "meaning": "훈련하다",
+    "meaningDetail": "연습하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "体を訓練する。", "ko": "몸을 훈련하다." }
+    ]
+  },
+  {
+    "word": "鍛える",
+    "reading": "きたえる",
+    "meaning": "단련하다",
+    "meaningDetail": "강하게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "筋肉を鍛える。", "ko": "근육을 단련하다." }
+    ]
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "수영하다",
+    "meaningDetail": "헤엄치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プールで泳ぐ。", "ko": "수영장에서 수영하다." }
+    ]
+  },
+  {
+    "word": "投げる",
+    "reading": "なげる",
+    "meaning": "던지다",
+    "meaningDetail": "공을 던지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ボールを投げる。", "ko": "공을 던지다." }
+    ]
+  },
+  {
+    "word": "蹴る",
+    "reading": "ける",
+    "meaning": "차다",
+    "meaningDetail": "발로 차다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールを蹴る。", "ko": "공을 차다." }
+    ]
+  },
+  {
+    "word": "打つ",
+    "reading": "うつ",
+    "meaning": "치다",
+    "meaningDetail": "때리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールを打つ。", "ko": "공을 치다." }
+    ]
+  },
+  {
+    "word": "跳ぶ",
+    "reading": "とぶ",
+    "meaning": "뛰다",
+    "meaningDetail": "점프하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "高く跳ぶ。", "ko": "높이 뛰다." }
+    ]
+  },
+  {
+    "word": "滑る",
+    "reading": "すべる",
+    "meaning": "미끄러지다",
+    "meaningDetail": "활주하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "氷の上を滑る。", "ko": "얼음 위를 미끄러지다." }
+    ]
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "오르다",
+    "meaningDetail": "위로 가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "山に登る。", "ko": "산에 오르다." }
+    ]
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "내리다",
+    "meaningDetail": "아래로 가다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山を降りる。", "ko": "산에서 내리다." }
+    ]
+  },
+  {
+    "word": "乗り越える",
+    "reading": "のりこえる",
+    "meaning": "넘다",
+    "meaningDetail": "극복하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "困難を乗り越える。", "ko": "어려움을 넘다." }
+    ]
+  },
+  {
+    "word": "診察する",
+    "reading": "しんさつする",
+    "meaning": "진찰하다",
+    "meaningDetail": "진료하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患者を診察する。", "ko": "환자를 진찰하다." }
+    ]
+  },
+  {
+    "word": "治療する",
+    "reading": "ちりょうする",
+    "meaning": "치료하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気を治療する。", "ko": "병을 치료하다." }
+    ]
+  },
+  {
+    "word": "手術する",
+    "reading": "しゅじゅつする",
+    "meaning": "수술하다",
+    "meaningDetail": "절개하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患部を手術する。", "ko": "환부를 수술하다." }
+    ]
+  },
+  {
+    "word": "入院する",
+    "reading": "にゅういんする",
+    "meaning": "입원하다",
+    "meaningDetail": "병원에 들어가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病院に入院する。", "ko": "병원에 입원하다." }
+    ]
+  },
+  {
+    "word": "退院する",
+    "reading": "たいいんする",
+    "meaning": "퇴원하다",
+    "meaningDetail": "병원을 나가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病院を退院する。", "ko": "병원에서 퇴원하다." }
+    ]
+  },
+  {
+    "word": "回復する",
+    "reading": "かいふくする",
+    "meaning": "회복하다",
+    "meaningDetail": "나아지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "体力が回復する。", "ko": "체력이 회복되다." }
+    ]
+  },
+  {
+    "word": "悪化する",
+    "reading": "あっかする",
+    "meaning": "악화하다",
+    "meaningDetail": "나빠지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "症状が悪化する。", "ko": "증상이 악화되다." }
+    ]
+  },
+  {
+    "word": "感染する",
+    "reading": "かんせんする",
+    "meaning": "감염되다",
+    "meaningDetail": "병에 걸리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ウイルスに感染する。", "ko": "바이러스에 감염되다." }
+    ]
+  },
+  {
+    "word": "予防する",
+    "reading": "よぼうする",
+    "meaning": "예방하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気を予防する。", "ko": "병을 예방하다." }
+    ]
+  },
+  {
+    "word": "接種する",
+    "reading": "せっしゅする",
+    "meaning": "접종하다",
+    "meaningDetail": "백신을 놓다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ワクチンを接種する。", "ko": "백신을 접종하다." }
+    ]
+  },
+  {
+    "word": "処方する",
+    "reading": "しょほうする",
+    "meaning": "처방하다",
+    "meaningDetail": "약을 내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "薬を処方する。", "ko": "약을 처방하다." }
+    ]
+  },
+  {
+    "word": "服用する",
+    "reading": "ふくようする",
+    "meaning": "복용하다",
+    "meaningDetail": "약을 먹다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "薬を服用する。", "ko": "약을 복용하다." }
+    ]
+  },
+  {
+    "word": "検査する",
+    "reading": "けんさする",
+    "meaning": "검사하다",
+    "meaningDetail": "조사하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "血液を検査する。", "ko": "혈액을 검사하다." }
+    ]
+  },
+  {
+    "word": "診断する",
+    "reading": "しんだんする",
+    "meaning": "진단하다",
+    "meaningDetail": "판정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気を診断する。", "ko": "병을 진단하다." }
+    ]
+  },
+  {
+    "word": "看護する",
+    "reading": "かんごする",
+    "meaning": "간호하다",
+    "meaningDetail": "돌보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "患者を看護する。", "ko": "환자를 간호하다." }
+    ]
+  },
+  {
+    "word": "介護する",
+    "reading": "かいごする",
+    "meaning": "간병하다",
+    "meaningDetail": "돌봄을 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "高齢者を介護する。", "ko": "고령자를 간병하다." }
+    ]
+  },
+  {
+    "word": "育てる",
+    "reading": "そだてる",
+    "meaning": "기르다",
+    "meaningDetail": "양육하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "子供を育てる。", "ko": "아이를 기르다." }
+    ]
+  },
+  {
+    "word": "育つ",
+    "reading": "そだつ",
+    "meaning": "자라다",
+    "meaningDetail": "성장하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "健康に育つ。", "ko": "건강하게 자라다." }
+    ]
+  },
+  {
+    "word": "慣れる",
+    "reading": "なれる",
+    "meaning": "익숙해지다",
+    "meaningDetail": "습관이 되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "環境に慣れる。", "ko": "환경에 익숙해지다." }
+    ]
+  },
+  {
+    "word": "慣らす",
+    "reading": "ならす",
+    "meaning": "익숙하게 하다",
+    "meaningDetail": "적응시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "体を慣らす。", "ko": "몸을 적응시키다." }
+    ]
+  },
+  {
+    "word": "飼う",
+    "reading": "かう",
+    "meaning": "기르다",
+    "meaningDetail": "동물을 돌보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "犬を飼う。", "ko": "개를 기르다." }
+    ]
+  },
+  {
+    "word": "栽培する",
+    "reading": "さいばいする",
+    "meaning": "재배하다",
+    "meaningDetail": "키우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "野菜を栽培する。", "ko": "채소를 재배하다." }
+    ]
+  },
+  {
+    "word": "収穫する",
+    "reading": "しゅうかくする",
+    "meaning": "수확하다",
+    "meaningDetail": "거두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "米を収穫する。", "ko": "쌀을 수확하다." }
+    ]
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "word": "誘う",
+    "reading": "さそう",
+    "meaning": "유혹하다",
+    "meaningDetail": "권유하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友達を誘う。", "ko": "친구를 유혹하다." }
+    ]
+  },
+  {
+    "word": "招く",
+    "reading": "まねく",
+    "meaning": "초대하다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "客を招く。", "ko": "손님을 초대하다." }
+    ]
+  },
+  {
+    "word": "招待する",
+    "reading": "しょうたいする",
+    "meaning": "초대하다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "パーティーに招待する。", "ko": "파티에 초대하다." }
+    ]
+  },
+  {
+    "word": "迎える",
+    "reading": "むかえる",
+    "meaning": "맞이하다",
+    "meaningDetail": "마중하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "新年を迎える。", "ko": "새해를 맞이하다." }
+    ]
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "보내다",
+    "meaningDetail": "배웅하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "メールを送る。", "ko": "메일을 보내다." }
+    ]
+  },
+  {
+    "word": "届ける",
+    "reading": "とどける",
+    "meaning": "전달하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "荷物を届ける。", "ko": "짐을 전달하다." }
+    ]
+  },
+  {
+    "word": "届く",
+    "reading": "とどく",
+    "meaning": "도착하다",
+    "meaningDetail": "닿다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手紙が届く。", "ko": "편지가 도착하다." }
+    ]
+  },
+  {
+    "word": "渡す",
+    "reading": "わたす",
+    "meaning": "건네주다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "書類を渡す。", "ko": "서류를 건네주다." }
+    ]
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "건너다",
+    "meaningDetail": "횡단하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "橋を渡る。", "ko": "다리를 건너다." }
+    ]
+  },
+  {
+    "word": "越える",
+    "reading": "こえる",
+    "meaning": "넘다",
+    "meaningDetail": "초과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山を越える。", "ko": "산을 넘다." }
+    ]
+  },
+  {
+    "word": "超える",
+    "reading": "こえる",
+    "meaning": "넘다",
+    "meaningDetail": "초과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "100万を超える。", "ko": "100만을 넘다." }
+    ]
+  },
+  {
+    "word": "通る",
+    "reading": "とおる",
+    "meaning": "지나가다",
+    "meaningDetail": "통과하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "道を通る。", "ko": "길을 지나가다." }
+    ]
+  },
+  {
+    "word": "通す",
+    "reading": "とおす",
+    "meaning": "통과시키다",
+    "meaningDetail": "지나가게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "客を通す。", "ko": "손님을 통과시키다." }
+    ]
+  },
+  {
+    "word": "貫く",
+    "reading": "つらぬく",
+    "meaning": "관통하다",
+    "meaningDetail": "뚫다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "信念を貫く。", "ko": "신념을 관철하다." }
+    ]
+  },
+  {
+    "word": "突き抜ける",
+    "reading": "つきぬける",
+    "meaning": "뚫고 나가다",
+    "meaningDetail": "통과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "壁を突き抜ける。", "ko": "벽을 뚫고 나가다." }
+    ]
+  },
+  {
+    "word": "抜ける",
+    "reading": "ぬける",
+    "meaning": "빠지다",
+    "meaningDetail": "통과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "トンネルを抜ける。", "ko": "터널을 빠져나가다." }
+    ]
+  },
+  {
+    "word": "抜く",
+    "reading": "ぬく",
+    "meaning": "빼다",
+    "meaningDetail": "뽑다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "釘を抜く。", "ko": "못을 빼다." }
+    ]
+  },
+  {
+    "word": "挿す",
+    "reading": "さす",
+    "meaning": "꽂다",
+    "meaningDetail": "넣다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "花を挿す。", "ko": "꽃을 꽂다." }
+    ]
+  },
+  {
+    "word": "刺す",
+    "reading": "さす",
+    "meaning": "찌르다",
+    "meaningDetail": "쏘다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "針で刺す。", "ko": "바늘로 찌르다." }
+    ]
+  },
+  {
+    "word": "突く",
+    "reading": "つく",
+    "meaning": "찌르다",
+    "meaningDetail": "찌르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "指で突く。", "ko": "손가락으로 찌르다." }
+    ]
+  },
+  {
+    "word": "叩く",
+    "reading": "たたく",
+    "meaning": "두드리다",
+    "meaningDetail": "치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ドアを叩く。", "ko": "문을 두드리다." }
+    ]
+  },
+  {
+    "word": "打つ",
+    "reading": "うつ",
+    "meaning": "치다",
+    "meaningDetail": "때리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールを打つ。", "ko": "공을 치다." }
+    ]
+  },
+  {
+    "word": "殴る",
+    "reading": "なぐる",
+    "meaning": "때리다",
+    "meaningDetail": "치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "相手を殴る。", "ko": "상대를 때리다." }
+    ]
+  },
+  {
+    "word": "蹴る",
+    "reading": "ける",
+    "meaning": "차다",
+    "meaningDetail": "발로 치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボールを蹴る。", "ko": "공을 차다." }
+    ]
+  },
+  {
+    "word": "投げる",
+    "reading": "なげる",
+    "meaning": "던지다",
+    "meaningDetail": "던지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ボールを投げる。", "ko": "공을 던지다." }
+    ]
+  },
+  {
+    "word": "捨てる",
+    "reading": "すてる",
+    "meaning": "버리다",
+    "meaningDetail": "폐기하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ゴミを捨てる。", "ko": "쓰레기를 버리다." }
+    ]
+  },
+  {
+    "word": "拾う",
+    "reading": "ひろう",
+    "meaning": "줍다",
+    "meaningDetail": "주워 올리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "財布を拾う。", "ko": "지갑을 줍다." }
+    ]
+  },
+  {
+    "word": "落とす",
+    "reading": "おとす",
+    "meaning": "떨어뜨리다",
+    "meaningDetail": "놓치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "物を落とす。", "ko": "물건을 떨어뜨리다." }
+    ]
+  },
+  {
+    "word": "落ちる",
+    "reading": "おちる",
+    "meaning": "떨어지다",
+    "meaningDetail": "낙하하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "葉が落ちる。", "ko": "잎이 떨어지다." }
+    ]
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "내리다",
+    "meaningDetail": "하차하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電車を降りる。", "ko": "전철을 내리다." }
+    ]
+  },
+  {
+    "word": "降ろす",
+    "reading": "おろす",
+    "meaning": "내리다",
+    "meaningDetail": "내려놓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を降ろす。", "ko": "짐을 내리다." }
+    ]
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning": "올리다",
+    "meaningDetail": "들어 올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "手を上げる。", "ko": "손을 올리다." }
+    ]
+  },
+  {
+    "word": "上がる",
+    "reading": "あがる",
+    "meaning": "오르다",
+    "meaningDetail": "올라가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "階段を上がる。", "ko": "계단을 오르다." }
+    ]
+  },
+  {
+    "word": "下げる",
+    "reading": "さげる",
+    "meaning": "내리다",
+    "meaningDetail": "낮추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "値段を下げる。", "ko": "가격을 내리다." }
+    ]
+  },
+  {
+    "word": "下がる",
+    "reading": "さがる",
+    "meaning": "내려가다",
+    "meaningDetail": "떨어지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "温度が下がる。", "ko": "온도가 내려가다." }
+    ]
+  },
+  {
+    "word": "持ち上げる",
+    "reading": "もちあげる",
+    "meaning": "들어 올리다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "荷物を持ち上げる。", "ko": "짐을 들어 올리다." }
+    ]
+  },
+  {
+    "word": "引き上げる",
+    "reading": "ひきあげる",
+    "meaning": "끌어 올리다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "水準を引き上げる。", "ko": "수준을 끌어 올리다." }
+    ]
+  },
+  {
+    "word": "引き下げる",
+    "reading": "ひきさげる",
+    "meaning": "끌어 내리다",
+    "meaningDetail": "낮추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "価格を引き下げる。", "ko": "가격을 끌어 내리다." }
+    ]
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "밀다",
+    "meaningDetail": "누르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ボタンを押す。", "ko": "버튼을 누르다." }
+    ]
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "당기다",
+    "meaningDetail": "끌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ドアを引く。", "ko": "문을 당기다." }
+    ]
+  },
+  {
+    "word": "引っ張る",
+    "reading": "ひっぱる",
+    "meaning": "잡아당기다",
+    "meaningDetail": "끌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ロープを引っ張る。", "ko": "로프를 잡아당기다." }
+    ]
+  },
+  {
+    "word": "押し付ける",
+    "reading": "おしつける",
+    "meaning": "떠밀다",
+    "meaningDetail": "억지로 주다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事を押し付ける。", "ko": "일을 떠밀다." }
+    ]
+  },
+  {
+    "word": "突っ込む",
+    "reading": "つっこむ",
+    "meaning": "찌르다",
+    "meaningDetail": "돌진하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手を突っ込む。", "ko": "손을 찌르다." }
+    ]
+  },
+  {
+    "word": "飛び込む",
+    "reading": "とびこむ",
+    "meaning": "뛰어들다",
+    "meaningDetail": "돌진하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "プールに飛び込む。", "ko": "수영장에 뛰어들다." }
+    ]
+  },
+  {
+    "word": "飛び出す",
+    "reading": "とびだす",
+    "meaning": "뛰쳐나오다",
+    "meaningDetail": "나오다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "部屋を飛び出す。", "ko": "방을 뛰쳐나오다." }
+    ]
+  },
+  {
+    "word": "跳ねる",
+    "reading": "はねる",
+    "meaning": "튀다",
+    "meaningDetail": "뛰다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "水が跳ねる。", "ko": "물이 튀다." }
+    ]
+  },
+  {
+    "word": "揺れる",
+    "reading": "ゆれる",
+    "meaning": "흔들리다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "地震で揺れる。", "ko": "지진으로 흔들리다." }
+    ]
+  },
+  {
+    "word": "揺らす",
+    "reading": "ゆらす",
+    "meaning": "흔들다",
+    "meaningDetail": "흔들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "体を揺らす。", "ko": "몸을 흔들다." }
+    ]
+  },
+  {
+    "word": "振る",
+    "reading": "ふる",
+    "meaning": "흔들다",
+    "meaningDetail": "휘두르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手を振る。", "ko": "손을 흔들다." }
+    ]
+  }
+]

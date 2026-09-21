@@ -1,0 +1,486 @@
+[
+  {
+    "word": "保存する",
+    "reading": "ほぞんする",
+    "meaning": "보존하다",
+    "meaningDetail": "저장하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを保存する。", "ko": "데이터를 보존하다." }
+    ]
+  },
+  {
+    "word": "保全する",
+    "reading": "ほぜんする",
+    "meaning": "보전하다",
+    "meaningDetail": "유지하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "自然を保全する。", "ko": "자연을 보전하다." }
+    ]
+  },
+  {
+    "word": "保護する",
+    "reading": "ほごする",
+    "meaning": "보호하다",
+    "meaningDetail": "지키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "環境を保護する。", "ko": "환경을 보호하다." }
+    ]
+  },
+  {
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "지키다",
+    "meaningDetail": "보호하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "約束を守る。", "ko": "약속을 지키다." }
+    ]
+  },
+  {
+    "word": "護る",
+    "reading": "まもる",
+    "meaning": "수호하다",
+    "meaningDetail": "지키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "家族を護る。", "ko": "가족을 수호하다." }
+    ]
+  },
+  {
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "막다",
+    "meaningDetail": "방지하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事故を防ぐ。", "ko": "사고를 막다." }
+    ]
+  },
+  {
+    "word": "防止する",
+    "reading": "ぼうしする",
+    "meaning": "방지하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "汚染を防止する。", "ko": "오염을 방지하다." }
+    ]
+  },
+  {
+    "word": "遮る",
+    "reading": "さえぎる",
+    "meaning": "가로막다",
+    "meaningDetail": "차단하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "光を遮る。", "ko": "빛을 가로막다." }
+    ]
+  },
+  {
+    "word": "妨げる",
+    "reading": "さまたげる",
+    "meaning": "방해하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "進行を妨げる。", "ko": "진행을 방해하다." }
+    ]
+  },
+  {
+    "word": "妨害する",
+    "reading": "ぼうがいする",
+    "meaning": "방해하다",
+    "meaningDetail": "저해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "業務を妨害する。", "ko": "업무를 방해하다." }
+    ]
+  },
+  {
+    "word": "阻む",
+    "reading": "はばむ",
+    "meaning": "막다",
+    "meaningDetail": "저지하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "行く手を阻む。", "ko": "행로를 막다." }
+    ]
+  },
+  {
+    "word": "阻止する",
+    "reading": "そしする",
+    "meaning": "저지하다",
+    "meaningDetail": "막다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "犯行を阻止する。", "ko": "범행을 저지하다." }
+    ]
+  },
+  {
+    "word": "阻害する",
+    "reading": "そがいする",
+    "meaning": "저해하다",
+    "meaningDetail": "방해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成長を阻害する。", "ko": "성장을 저해하다." }
+    ]
+  },
+  {
+    "word": "干渉する",
+    "reading": "かんしょうする",
+    "meaning": "간섭하다",
+    "meaningDetail": "개입하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "内政に干渉する。", "ko": "내정에 간섭하다." }
+    ]
+  },
+  {
+    "word": "介入する",
+    "reading": "かいにゅうする",
+    "meaning": "개입하다",
+    "meaningDetail": "간섭하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "紛争に介入する。", "ko": "분쟁에 개입하다." }
+    ]
+  },
+  {
+    "word": "関与する",
+    "reading": "かんよする",
+    "meaning": "관여하다",
+    "meaningDetail": "관계하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画に関与する。", "ko": "계획에 관여하다." }
+    ]
+  },
+  {
+    "word": "参与する",
+    "reading": "さんよする",
+    "meaning": "참여하다",
+    "meaningDetail": "참가하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事業に参与する。", "ko": "사업에 참여하다." }
+    ]
+  },
+  {
+    "word": "参画する",
+    "reading": "さんかくする",
+    "meaning": "참획하다",
+    "meaningDetail": "참가하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "プロジェクトに参画する。", "ko": "프로젝트에 참획하다." }
+    ]
+  },
+  {
+    "word": "参入する",
+    "reading": "さんにゅうする",
+    "meaning": "참입하다",
+    "meaningDetail": "진출하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "市場に参入する。", "ko": "시장에 참입하다." }
+    ]
+  },
+  {
+    "word": "参照する",
+    "reading": "さんしょうする",
+    "meaning": "참조하다",
+    "meaningDetail": "참고하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資料を参照する。", "ko": "자료를 참조하다." }
+    ]
+  },
+  {
+    "word": "参考にする",
+    "reading": "さんこうにする",
+    "meaning": "참고하다",
+    "meaningDetail": "참조하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を参考にする。", "ko": "의견을 참고하다." }
+    ]
+  },
+  {
+    "word": "参拝する",
+    "reading": "さんぱいする",
+    "meaning": "참배하다",
+    "meaningDetail": "참예하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "神社に参拝する。", "ko": "신사에 참배하다." }
+    ]
+  },
+  {
+    "word": "祈る",
+    "reading": "いのる",
+    "meaning": "빌다",
+    "meaningDetail": "기도하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "幸せを祈る。", "ko": "행복을 빌다." }
+    ]
+  },
+  {
+    "word": "祈願する",
+    "reading": "きがんする",
+    "meaning": "기원하다",
+    "meaningDetail": "빌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "合格を祈願する。", "ko": "합격을 기원하다." }
+    ]
+  },
+  {
+    "word": "願う",
+    "reading": "ねがう",
+    "meaning": "바라다",
+    "meaningDetail": "원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功を願う。", "ko": "성공을 바라다." }
+    ]
+  },
+  {
+    "word": "望む",
+    "reading": "のぞむ",
+    "meaning": "바라다",
+    "meaningDetail": "희망하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "平和を望む。", "ko": "평화를 바라다." }
+    ]
+  },
+  {
+    "word": "希望する",
+    "reading": "きぼうする",
+    "meaning": "희망하다",
+    "meaningDetail": "바라다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "転勤を希望する。", "ko": "전근을 희망하다." }
+    ]
+  },
+  {
+    "word": "志望する",
+    "reading": "しぼうする",
+    "meaning": "지망하다",
+    "meaningDetail": "희망하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "大学を志望する。", "ko": "대학을 지망하다." }
+    ]
+  },
+  {
+    "word": "志す",
+    "reading": "こころざす",
+    "meaning": "뜻하다",
+    "meaningDetail": "지망하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "医者を志す。", "ko": "의사를 뜻하다." }
+    ]
+  },
+  {
+    "word": "目指す",
+    "reading": "めざす",
+    "meaning": "목표로 하다",
+    "meaningDetail": "지향하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "優勝を目指す。", "ko": "우승을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "追求する",
+    "reading": "ついきゅうする",
+    "meaning": "추구하다",
+    "meaningDetail": "쫓다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "利益を追求する。", "ko": "이익을 추구하다." }
+    ]
+  },
+  {
+    "word": "追究する",
+    "reading": "ついきゅうする",
+    "meaning": "추궁하다",
+    "meaningDetail": "파헤치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "責任を追究する。", "ko": "책임을 추궁하다." }
+    ]
+  },
+  {
+    "word": "追跡する",
+    "reading": "ついせきする",
+    "meaning": "추적하다",
+    "meaningDetail": "쫓다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "犯人を追跡する。", "ko": "범인을 추적하다." }
+    ]
+  },
+  {
+    "word": "追い掛ける",
+    "reading": "おいかける",
+    "meaning": "뒤쫓다",
+    "meaningDetail": "추적하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "夢を追い掛ける。", "ko": "꿈을 뒤쫓다." }
+    ]
+  },
+  {
+    "word": "追い付く",
+    "reading": "おいつく",
+    "meaning": "따라잡다",
+    "meaningDetail": "도달하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "先頭に追い付く。", "ko": "선두를 따라잡다." }
+    ]
+  },
+  {
+    "word": "追い越す",
+    "reading": "おいこす",
+    "meaning": "추월하다",
+    "meaningDetail": "앞지르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "車を追い越す。", "ko": "차를 추월하다." }
+    ]
+  },
+  {
+    "word": "追い払う",
+    "reading": "おいはらう",
+    "meaning": "쫓아내다",
+    "meaningDetail": "몰아내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "虫を追い払う。", "ko": "벌레를 쫓아내다." }
+    ]
+  },
+  {
+    "word": "追い出す",
+    "reading": "おいだす",
+    "meaning": "쫓아내다",
+    "meaningDetail": "내쫓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "部屋から追い出す。", "ko": "방에서 쫓아내다." }
+    ]
+  },
+  {
+    "word": "追い込む",
+    "reading": "おいこむ",
+    "meaning": "몰아넣다",
+    "meaningDetail": "쫓아넣다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "窮地に追い込む。", "ko": "궁지에 몰아넣다." }
+    ]
+  },
+  {
+    "word": "追い詰める",
+    "reading": "おいつめる",
+    "meaning": "궁지에 몰다",
+    "meaningDetail": "몰아붙이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "犯人を追い詰める。", "ko": "범인을 궁지에 몰다." }
+    ]
+  },
+  {
+    "word": "追放する",
+    "reading": "ついほうする",
+    "meaning": "추방하다",
+    "meaningDetail": "쫓아내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "国外に追放する。", "ko": "국외로 추방하다." }
+    ]
+  },
+  {
+    "word": "排除する",
+    "reading": "はいじょする",
+    "meaning": "배제하다",
+    "meaningDetail": "제거하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "障害を排除する。", "ko": "장애를 배제하다." }
+    ]
+  },
+  {
+    "word": "除外する",
+    "reading": "じょがいする",
+    "meaning": "제외하다",
+    "meaningDetail": "빼다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "対象から除外する。", "ko": "대상에서 제외하다." }
+    ]
+  },
+  {
+    "word": "除く",
+    "reading": "のぞく",
+    "meaning": "제외하다",
+    "meaningDetail": "빼다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "一部を除く。", "ko": "일부를 제외하다." }
+    ]
+  }
+]

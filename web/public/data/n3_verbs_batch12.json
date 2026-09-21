@@ -1,0 +1,541 @@
+[
+  {
+    "word": "奪う",
+    "reading": "うばう",
+    "meaning": "빼앗다",
+    "meaningDetail": "강제로 가져가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チャンスを奪う。", "ko": "기회를 빼앗다." }
+    ]
+  },
+  {
+    "word": "裏切る",
+    "reading": "うらぎる",
+    "meaning": "배신하다",
+    "meaningDetail": "신뢰를 저버리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友人を裏切る。", "ko": "친구를 배신한다." }
+    ]
+  },
+  {
+    "word": "恨む",
+    "reading": "うらむ",
+    "meaning": "원망하다",
+    "meaningDetail": "미워하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人を恨む。", "ko": "사람을 원망한다." }
+    ]
+  },
+  {
+    "word": "羨む",
+    "reading": "うらやむ",
+    "meaning": "부러워하다",
+    "meaningDetail": "시샘하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功を羨む。", "ko": "성공을 부러워한다." }
+    ]
+  },
+  {
+    "word": "促す",
+    "reading": "うながす",
+    "meaning": "촉구하다, 재촉하다",
+    "meaningDetail": "빨리 하도록 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "行動を促す。", "ko": "행동을 촉구한다." }
+    ]
+  },
+  {
+    "word": "得る",
+    "reading": "える",
+    "meaning": "얻다",
+    "meaningDetail": "획득하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "信頼を得る。", "ko": "신뢰를 얻다." }
+    ]
+  },
+  {
+    "word": "追いかける",
+    "reading": "おいかける",
+    "meaning": "쫓다, 추격하다",
+    "meaningDetail": "뒤쫓다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "夢を追いかける。", "ko": "꿈을 쫓는다." }
+    ]
+  },
+  {
+    "word": "追い越す",
+    "reading": "おいこす",
+    "meaning": "앞지르다",
+    "meaningDetail": "추월하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "車を追い越す。", "ko": "차를 앞지른다." }
+    ]
+  },
+  {
+    "word": "追い出す",
+    "reading": "おいだす",
+    "meaning": "내쫓다",
+    "meaningDetail": "몰아내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "家から追い出す。", "ko": "집에서 내쫓다." }
+    ]
+  },
+  {
+    "word": "応じる",
+    "reading": "おうじる",
+    "meaning": "응하다",
+    "meaningDetail": "대응하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "要求に応じる。", "ko": "요구에 응한다." }
+    ]
+  },
+  {
+    "word": "補う",
+    "reading": "おぎなう",
+    "meaning": "보충하다",
+    "meaningDetail": "모자란 것을 채우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "栄養を補う。", "ko": "영양을 보충한다." }
+    ]
+  },
+  {
+    "word": "起こす",
+    "reading": "おこす",
+    "meaning": "일으키다",
+    "meaningDetail": "발생시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "問題を起こす。", "ko": "문제를 일으킨다." }
+    ]
+  },
+  {
+    "word": "行う",
+    "reading": "おこなう",
+    "meaning": "행하다, 실시하다",
+    "meaningDetail": "하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "調査を行う。", "ko": "조사를 행한다." }
+    ]
+  },
+  {
+    "word": "怒る",
+    "reading": "おこる",
+    "meaning": "화내다",
+    "meaningDetail": "분노하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "彼に怒る。", "ko": "그에게 화를 낸다." }
+    ]
+  },
+  {
+    "word": "起こる",
+    "reading": "おこる",
+    "meaning": "일어나다",
+    "meaningDetail": "발생하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事故が起こる。", "ko": "사고가 일어난다." }
+    ]
+  },
+  {
+    "word": "収める",
+    "reading": "おさめる",
+    "meaning": "거두다, 납부하다",
+    "meaningDetail": "정리하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "成功を収める。", "ko": "성공을 거둔다." }
+    ]
+  },
+  {
+    "word": "納める",
+    "reading": "おさめる",
+    "meaning": "납부하다",
+    "meaningDetail": "내다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "税金を納める。", "ko": "세금을 납부한다." }
+    ]
+  },
+  {
+    "word": "治める",
+    "reading": "おさめる",
+    "meaning": "다스리다",
+    "meaningDetail": "통치하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "国を治める。", "ko": "나라를 다스린다." }
+    ]
+  },
+  {
+    "word": "押さえる",
+    "reading": "おさえる",
+    "meaning": "누르다, 억제하다",
+    "meaningDetail": "제압하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "感情を押さえる。", "ko": "감정을 억제한다." }
+    ]
+  },
+  {
+    "word": "教わる",
+    "reading": "おそわる",
+    "meaning": "배우다",
+    "meaningDetail": "가르침을 받다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "先生に教わる。", "ko": "선생님께 배운다." }
+    ]
+  },
+  {
+    "word": "恐れる",
+    "reading": "おそれる",
+    "meaning": "두려워하다",
+    "meaningDetail": "무서워하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "失敗を恐れる。", "ko": "실패를 두려워한다." }
+    ]
+  },
+  {
+    "word": "襲う",
+    "reading": "おそう",
+    "meaning": "습격하다",
+    "meaningDetail": "덮치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵が襲う。", "ko": "적이 습격한다." }
+    ]
+  },
+  {
+    "word": "落ち着く",
+    "reading": "おちつく",
+    "meaning": "침착해지다",
+    "meaningDetail": "안정되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "気持ちが落ち着く。", "ko": "마음이 침착해진다." }
+    ]
+  },
+  {
+    "word": "脅かす",
+    "reading": "おどかす",
+    "meaning": "위협하다, 놀래키다",
+    "meaningDetail": "겁을 주다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人を脅かす。", "ko": "사람을 위협한다." }
+    ]
+  },
+  {
+    "word": "驚く",
+    "reading": "おどろく",
+    "meaning": "놀라다",
+    "meaningDetail": "깜짝 놀라다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ニュースに驚く。", "ko": "뉴스에 놀란다." }
+    ]
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "기억하다, 외우다",
+    "meaningDetail": "암기하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "単語を覚える。", "ko": "단어를 외운다." }
+    ]
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "떠올리다",
+    "meaningDetail": "생각해 내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過去を思い出す。", "ko": "과거를 떠올린다." }
+    ]
+  },
+  {
+    "word": "及ぶ",
+    "reading": "およぶ",
+    "meaning": "미치다, 이르다",
+    "meaningDetail": "도달하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "影響が及ぶ。", "ko": "영향이 미친다." }
+    ]
+  },
+  {
+    "word": "折る",
+    "reading": "おる",
+    "meaning": "접다, 꺾다",
+    "meaningDetail": "구부리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "紙を折る。", "ko": "종이를 접는다." }
+    ]
+  },
+  {
+    "word": "折れる",
+    "reading": "おれる",
+    "meaning": "부러지다",
+    "meaningDetail": "꺾이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "枝が折れた。", "ko": "가지가 부러졌다." }
+    ]
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "끝나다",
+    "meaningDetail": "종료되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "仕事が終わる。", "ko": "일이 끝난다." }
+    ]
+  },
+  {
+    "word": "限る",
+    "reading": "かぎる",
+    "meaning": "한정하다",
+    "meaningDetail": "제한하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人数を限る。", "ko": "인원수를 제한한다." }
+    ]
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "meaning": "걸다",
+    "meaningDetail": "걸치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電話をかける。", "ko": "전화를 걸다." }
+    ]
+  },
+  {
+    "word": "重ねる",
+    "reading": "かさねる",
+    "meaning": "겹치다, 반복하다",
+    "meaningDetail": "쌓다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "経験を重ねる。", "ko": "경험을 쌓는다." }
+    ]
+  },
+  {
+    "word": "飾る",
+    "reading": "かざる",
+    "meaning": "장식하다",
+    "meaningDetail": "꾸미다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "部屋を飾る。", "ko": "방을 장식한다." }
+    ]
+  },
+  {
+    "word": "稼ぐ",
+    "reading": "かせぐ",
+    "meaning": "벌다",
+    "meaningDetail": "돈을 벌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "お金を稼ぐ。", "ko": "돈을 번다." }
+    ]
+  },
+  {
+    "word": "固める",
+    "reading": "かためる",
+    "meaning": "굳히다",
+    "meaningDetail": "단단하게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "決意を固める。", "ko": "결의를 굳힌다." }
+    ]
+  },
+  {
+    "word": "傾く",
+    "reading": "かたむく",
+    "meaning": "기울다",
+    "meaningDetail": "쏠리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "建物が傾く。", "ko": "건물이 기울다." }
+    ]
+  },
+  {
+    "word": "語る",
+    "reading": "かたる",
+    "meaning": "이야기하다",
+    "meaningDetail": "말하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "夢を語る。", "ko": "꿈을 이야기한다." }
+    ]
+  },
+  {
+    "word": "勝つ",
+    "reading": "かつ",
+    "meaning": "이기다",
+    "meaningDetail": "승리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "試合に勝つ。", "ko": "시합에서 이긴다." }
+    ]
+  },
+  {
+    "word": "活かす",
+    "reading": "いかす",
+    "meaning": "살리다, 활용하다",
+    "meaningDetail": "이용하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "経験を活かす。", "ko": "경험을 살린다." }
+    ]
+  },
+  {
+    "word": "兼ねる",
+    "reading": "かねる",
+    "meaning": "겸하다",
+    "meaningDetail": "동시에 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "社長を兼ねる。", "ko": "사장을 겸한다." }
+    ]
+  },
+  {
+    "word": "構う",
+    "reading": "かまう",
+    "meaning": "신경 쓰다, 상관하다",
+    "meaningDetail": "관심을 갖다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人のことを構う。", "ko": "남의 일에 신경 쓴다." }
+    ]
+  },
+  {
+    "word": "構える",
+    "reading": "かまえる",
+    "meaning": "차리다, 준비하다",
+    "meaningDetail": "갖추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "店を構える。", "ko": "가게를 차린다." }
+    ]
+  },
+  {
+    "word": "噛む",
+    "reading": "かむ",
+    "meaning": "씹다, 물다",
+    "meaningDetail": "깨물다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ガムを噛む。", "ko": "껌을 씹는다." }
+    ]
+  },
+  {
+    "word": "通う",
+    "reading": "かよう",
+    "meaning": "다니다",
+    "meaningDetail": "왕래하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "学校に通う。", "ko": "학교에 다닌다." }
+    ]
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "빌리다",
+    "meaningDetail": "대여받다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "本を借りる。", "ko": "책을 빌린다." }
+    ]
+  },
+  {
+    "word": "枯れる",
+    "reading": "かれる",
+    "meaning": "마르다, 시들다",
+    "meaningDetail": "말라 죽다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "花が枯れる。", "ko": "꽃이 시든다." }
+    ]
+  },
+  {
+    "word": "乾かす",
+    "reading": "かわかす",
+    "meaning": "말리다",
+    "meaningDetail": "건조시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "洗濯物を乾かす。", "ko": "빨래를 말린다." }
+    ]
+  }
+]

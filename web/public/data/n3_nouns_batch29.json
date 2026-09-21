@@ -1,0 +1,482 @@
+[
+  {
+    "word": "科学",
+    "reading": "かがく",
+    "meaning": "과학",
+    "meaningDetail": "자연 연구",
+    "category": "명사",
+    "examples": [
+      { "ja": "科学を学ぶ。", "ko": "과학을 배우다." }
+    ]
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "솜씨",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術を磨く。", "ko": "기술을 갈다." }
+    ]
+  },
+  {
+    "word": "発明",
+    "reading": "はつめい",
+    "meaning": "발명",
+    "meaningDetail": "고안",
+    "category": "명사",
+    "examples": [
+      { "ja": "発明をする。", "ko": "발명을 하다." }
+    ]
+  },
+  {
+    "word": "発見",
+    "reading": "はっけん",
+    "meaning": "발견",
+    "meaningDetail": "찾음",
+    "category": "명사",
+    "examples": [
+      { "ja": "発見をする。", "ko": "발견을 하다." }
+    ]
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "meaning": "실험",
+    "meaningDetail": "테스트",
+    "category": "명사",
+    "examples": [
+      { "ja": "実験を行う。", "ko": "실험을 하다." }
+    ]
+  },
+  {
+    "word": "研究",
+    "reading": "けんきゅう",
+    "meaning": "연구",
+    "meaningDetail": "조사",
+    "category": "명사",
+    "examples": [
+      { "ja": "研究を進める。", "ko": "연구를 진행하다." }
+    ]
+  },
+  {
+    "word": "開発",
+    "reading": "かいはつ",
+    "meaning": "개발",
+    "meaningDetail": "만들기",
+    "category": "명사",
+    "examples": [
+      { "ja": "開発を進める。", "ko": "개발을 진행하다." }
+    ]
+  },
+  {
+    "word": "理論",
+    "reading": "りろん",
+    "meaning": "이론",
+    "meaningDetail": "학설",
+    "category": "명사",
+    "examples": [
+      { "ja": "理論を立てる。", "ko": "이론을 세우다." }
+    ]
+  },
+  {
+    "word": "仮説",
+    "reading": "かせつ",
+    "meaning": "가설",
+    "meaningDetail": "추정 이론",
+    "category": "명사",
+    "examples": [
+      { "ja": "仮説を立てる。", "ko": "가설을 세우다." }
+    ]
+  },
+  {
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaning": "증명",
+    "meaningDetail": "입증",
+    "category": "명사",
+    "examples": [
+      { "ja": "証明を行う。", "ko": "증명을 하다." }
+    ]
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "분석",
+    "meaningDetail": "풀이",
+    "category": "명사",
+    "examples": [
+      { "ja": "分析を行う。", "ko": "분석을 하다." }
+    ]
+  },
+  {
+    "word": "統計",
+    "reading": "とうけい",
+    "meaning": "통계",
+    "meaningDetail": "수치 정리",
+    "category": "명사",
+    "examples": [
+      { "ja": "統計を取る。", "ko": "통계를 내다." }
+    ]
+  },
+  {
+    "word": "数値",
+    "reading": "すうち",
+    "meaning": "수치",
+    "meaningDetail": "숫자 값",
+    "category": "명사",
+    "examples": [
+      { "ja": "数値を確認する。", "ko": "수치를 확인하다." }
+    ]
+  },
+  {
+    "word": "割合",
+    "reading": "わりあい",
+    "meaning": "비율",
+    "meaningDetail": "비",
+    "category": "명사",
+    "examples": [
+      { "ja": "割合を計算する。", "ko": "비율을 계산하다." }
+    ]
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaning": "평균",
+    "meaningDetail": "중간값",
+    "category": "명사",
+    "examples": [
+      { "ja": "平均を出す。", "ko": "평균을 내다." }
+    ]
+  },
+  {
+    "word": "合計",
+    "reading": "ごうけい",
+    "meaning": "합계",
+    "meaningDetail": "총합",
+    "category": "명사",
+    "examples": [
+      { "ja": "合計を計算する。", "ko": "합계를 계산하다." }
+    ]
+  },
+  {
+    "word": "総額",
+    "reading": "そうがく",
+    "meaning": "총액",
+    "meaningDetail": "전체 금액",
+    "category": "명사",
+    "examples": [
+      { "ja": "総額を確認する。", "ko": "총액을 확인하다." }
+    ]
+  },
+  {
+    "word": "単位",
+    "reading": "たんい",
+    "meaning": "단위",
+    "meaningDetail": "기준",
+    "category": "명사",
+    "examples": [
+      { "ja": "単位を換算する。", "ko": "단위를 환산하다." }
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "基準を設ける。", "ko": "기준을 마련하다." }
+    ]
+  },
+  {
+    "word": "規格",
+    "reading": "きかく",
+    "meaning": "규격",
+    "meaningDetail": "표준 형식",
+    "category": "명사",
+    "examples": [
+      { "ja": "規格を満たす。", "ko": "규격을 충족하다." }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "요건",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족하다." }
+    ]
+  },
+  {
+    "word": "要件",
+    "reading": "ようけん",
+    "meaning": "요건",
+    "meaningDetail": "필요조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "要件を確認する。", "ko": "요건을 확인하다." }
+    ]
+  },
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "권한",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取る。", "ko": "자격을 따다." }
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "권리",
+    "meaningDetail": "권한",
+    "category": "명사",
+    "examples": [
+      { "ja": "権利を主張する。", "ko": "권리를 주장하다." }
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "meaningDetail": "할 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "義務を果たす。", "ko": "의무를 다하다." }
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "meaningDetail": "의무",
+    "category": "명사",
+    "examples": [
+      { "ja": "責任を取る。", "ko": "책임을 지다." }
+    ]
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaning": "역할",
+    "meaningDetail": "맡은 바",
+    "category": "명사",
+    "examples": [
+      { "ja": "役割を果たす。", "ko": "역할을 하다." }
+    ]
+  },
+  {
+    "word": "任務",
+    "reading": "にんむ",
+    "meaning": "임무",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "任務を遂行する。", "ko": "임무를 수행하다." }
+    ]
+  },
+  {
+    "word": "使命",
+    "reading": "しめい",
+    "meaning": "사명",
+    "meaningDetail": "맡은 책임",
+    "category": "명사",
+    "examples": [
+      { "ja": "使命を感じる。", "ko": "사명을 느끼다." }
+    ]
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "meaningDetail": "목적지",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を立てる。", "ko": "목표를 세우다." }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "meaningDetail": "뜻",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的を達成する。", "ko": "목적을 달성하다." }
+    ]
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "방침",
+    "meaningDetail": "정책",
+    "category": "명사",
+    "examples": [
+      { "ja": "方針を決める。", "ko": "방침을 정하다." }
+    ]
+  },
+  {
+    "word": "戦略",
+    "reading": "せんりゃく",
+    "meaning": "전략",
+    "meaningDetail": "작전",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦略を立てる。", "ko": "전략을 세우다." }
+    ]
+  },
+  {
+    "word": "戦術",
+    "reading": "せんじゅつ",
+    "meaning": "전술",
+    "meaningDetail": "방법",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦術を練る。", "ko": "전술을 짜다." }
+    ]
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "계획",
+    "meaningDetail": "예정",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を立てる。", "ko": "계획을 세우다." }
+    ]
+  },
+  {
+    "word": "企画",
+    "reading": "きかく",
+    "meaning": "기획",
+    "meaningDetail": "계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "企画を考える。", "ko": "기획을 생각하다." }
+    ]
+  },
+  {
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "제안",
+    "meaningDetail": "건의",
+    "category": "명사",
+    "examples": [
+      { "ja": "提案をする。", "ko": "제안을 하다." }
+    ]
+  },
+  {
+    "word": "議論",
+    "reading": "ぎろん",
+    "meaning": "논의",
+    "meaningDetail": "토론",
+    "category": "명사",
+    "examples": [
+      { "ja": "議論を行う。", "ko": "논의를 하다." }
+    ]
+  },
+  {
+    "word": "討論",
+    "reading": "とうろん",
+    "meaning": "토론",
+    "meaningDetail": "논쟁",
+    "category": "명사",
+    "examples": [
+      { "ja": "討論をする。", "ko": "토론을 하다." }
+    ]
+  },
+  {
+    "word": "合意",
+    "reading": "ごうい",
+    "meaning": "합의",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "合意に達する。", "ko": "합의에 이르다." }
+    ]
+  },
+  {
+    "word": "決定",
+    "reading": "けってい",
+    "meaning": "결정",
+    "meaningDetail": "정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "決定を下す。", "ko": "결정을 내리다." }
+    ]
+  },
+  {
+    "word": "結論",
+    "reading": "けつろん",
+    "meaning": "결론",
+    "meaningDetail": "결말",
+    "category": "명사",
+    "examples": [
+      { "ja": "結論を出す。", "ko": "결론을 내다." }
+    ]
+  },
+  {
+    "word": "報告",
+    "reading": "ほうこく",
+    "meaning": "보고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "報告をする。", "ko": "보고를 하다." }
+    ]
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "발표",
+    "meaningDetail": "공개",
+    "category": "명사",
+    "examples": [
+      { "ja": "発表を行う。", "ko": "발표를 하다." }
+    ]
+  },
+  {
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "설명",
+    "meaningDetail": "해설",
+    "category": "명사",
+    "examples": [
+      { "ja": "説明をする。", "ko": "설명을 하다." }
+    ]
+  },
+  {
+    "word": "解説",
+    "reading": "かいせつ",
+    "meaning": "해설",
+    "meaningDetail": "풀이",
+    "category": "명사",
+    "examples": [
+      { "ja": "解説を読む。", "ko": "해설을 읽다." }
+    ]
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "자료",
+    "meaningDetail": "문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を集める。", "ko": "자료를 모으다." }
+    ]
+  },
+  {
+    "word": "文献",
+    "reading": "ぶんけん",
+    "meaning": "문헌",
+    "meaningDetail": "참고 자료",
+    "category": "명사",
+    "examples": [
+      { "ja": "文献を調べる。", "ko": "문헌을 조사하다." }
+    ]
+  }
+]

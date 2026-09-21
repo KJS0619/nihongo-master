@@ -1,0 +1,519 @@
+[
+  {
+    "word": "設計する",
+    "reading": "せっけいする",
+    "meaning": "설계하다",
+    "meaningDetail": "디자인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "建物を設計する。", "ko": "건물을 설계하다." }
+    ]
+  },
+  {
+    "word": "構成する",
+    "reading": "こうせいする",
+    "meaning": "구성하다",
+    "meaningDetail": "짜다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "チームを構成する。", "ko": "팀을 구성하다." }
+    ]
+  },
+  {
+    "word": "組織する",
+    "reading": "そしきする",
+    "meaning": "조직하다",
+    "meaningDetail": "구성하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "委員会を組織する。", "ko": "위원회를 조직하다." }
+    ]
+  },
+  {
+    "word": "編成する",
+    "reading": "へんせいする",
+    "meaning": "편성하다",
+    "meaningDetail": "구성하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "予算を編成する。", "ko": "예산을 편성하다." }
+    ]
+  },
+  {
+    "word": "編集する",
+    "reading": "へんしゅうする",
+    "meaning": "편집하다",
+    "meaningDetail": "다듬다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "動画を編集する。", "ko": "동영상을 편집하다." }
+    ]
+  },
+  {
+    "word": "作成する",
+    "reading": "さくせいする",
+    "meaning": "작성하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類を作成する。", "ko": "서류를 작성하다." }
+    ]
+  },
+  {
+    "word": "製作する",
+    "reading": "せいさくする",
+    "meaning": "제작하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "映画を製作する。", "ko": "영화를 제작하다." }
+    ]
+  },
+  {
+    "word": "創作する",
+    "reading": "そうさくする",
+    "meaning": "창작하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "小説を創作する。", "ko": "소설을 창작하다." }
+    ]
+  },
+  {
+    "word": "創造する",
+    "reading": "そうぞうする",
+    "meaning": "창조하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新しい価値を創造する。", "ko": "새로운 가치를 창조하다." }
+    ]
+  },
+  {
+    "word": "発明する",
+    "reading": "はつめいする",
+    "meaning": "발명하다",
+    "meaningDetail": "만들어내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新技術を発明する。", "ko": "신기술을 발명하다." }
+    ]
+  },
+  {
+    "word": "発見する",
+    "reading": "はっけんする",
+    "meaning": "발견하다",
+    "meaningDetail": "찾다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新種を発見する。", "ko": "새 종을 발견하다." }
+    ]
+  },
+  {
+    "word": "発掘する",
+    "reading": "はっくつする",
+    "meaning": "발굴하다",
+    "meaningDetail": "파내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "遺跡を発掘する。", "ko": "유적을 발굴하다." }
+    ]
+  },
+  {
+    "word": "発生する",
+    "reading": "はっせいする",
+    "meaning": "발생하다",
+    "meaningDetail": "일어나다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事故が発生する。", "ko": "사고가 발생하다." }
+    ]
+  },
+  {
+    "word": "発達する",
+    "reading": "はったつする",
+    "meaning": "발달하다",
+    "meaningDetail": "성장하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "技術が発達する。", "ko": "기술이 발달하다." }
+    ]
+  },
+  {
+    "word": "発揮する",
+    "reading": "はっきする",
+    "meaning": "발휘하다",
+    "meaningDetail": "나타내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "能力を発揮する。", "ko": "능력을 발휘하다." }
+    ]
+  },
+  {
+    "word": "発動する",
+    "reading": "はつどうする",
+    "meaning": "발동하다",
+    "meaningDetail": "작동하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条項を発動する。", "ko": "조항을 발동하다." }
+    ]
+  },
+  {
+    "word": "起動する",
+    "reading": "きどうする",
+    "meaning": "기동하다",
+    "meaningDetail": "시작하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "パソコンを起動する。", "ko": "컴퓨터를 기동하다." }
+    ]
+  },
+  {
+    "word": "稼働する",
+    "reading": "かどうする",
+    "meaning": "가동하다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "工場が稼働する。", "ko": "공장이 가동하다." }
+    ]
+  },
+  {
+    "word": "作動する",
+    "reading": "さどうする",
+    "meaning": "작동하다",
+    "meaningDetail": "움직이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械が作動する。", "ko": "기계가 작동하다." }
+    ]
+  },
+  {
+    "word": "停止する",
+    "reading": "ていしする",
+    "meaning": "정지하다",
+    "meaningDetail": "멈추다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "運転を停止する。", "ko": "운전을 정지하다." }
+    ]
+  },
+  {
+    "word": "休止する",
+    "reading": "きゅうしする",
+    "meaning": "휴지하다",
+    "meaningDetail": "쉬다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "活動を休止する。", "ko": "활동을 휴지하다." }
+    ]
+  },
+  {
+    "word": "廃止する",
+    "reading": "はいしする",
+    "meaning": "폐지하다",
+    "meaningDetail": "없애다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "制度を廃止する。", "ko": "제도를 폐지하다." }
+    ]
+  },
+  {
+    "word": "解除する",
+    "reading": "かいじょする",
+    "meaning": "해제하다",
+    "meaningDetail": "풀다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "制限を解除する。", "ko": "제한을 해제하다." }
+    ]
+  },
+  {
+    "word": "解消する",
+    "reading": "かいしょうする",
+    "meaning": "해소하다",
+    "meaningDetail": "없애다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ストレスを解消する。", "ko": "스트레스를 해소하다." }
+    ]
+  },
+  {
+    "word": "解決する",
+    "reading": "かいけつする",
+    "meaning": "해결하다",
+    "meaningDetail": "풀다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を解決する。", "ko": "문제를 해결하다." }
+    ]
+  },
+  {
+    "word": "解放する",
+    "reading": "かいほうする",
+    "meaning": "해방하다",
+    "meaningDetail": "풀어주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "人質を解放する。", "ko": "인질을 해방하다." }
+    ]
+  },
+  {
+    "word": "解釈する",
+    "reading": "かいしゃくする",
+    "meaning": "해석하다",
+    "meaningDetail": "풀이하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "法律を解釈する。", "ko": "법률을 해석하다." }
+    ]
+  },
+  {
+    "word": "解説する",
+    "reading": "かいせつする",
+    "meaning": "해설하다",
+    "meaningDetail": "설명하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ニュースを解説する。", "ko": "뉴스를 해설하다." }
+    ]
+  },
+  {
+    "word": "説明する",
+    "reading": "せつめいする",
+    "meaning": "설명하다",
+    "meaningDetail": "풀이하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "内容を説明する。", "ko": "내용을 설명하다." }
+    ]
+  },
+  {
+    "word": "説得する",
+    "reading": "せっとくする",
+    "meaning": "설득하다",
+    "meaningDetail": "납득시키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "相手を説得する。", "ko": "상대를 설득하다." }
+    ]
+  },
+  {
+    "word": "納得する",
+    "reading": "なっとくする",
+    "meaning": "납득하다",
+    "meaningDetail": "이해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "説明に納得する。", "ko": "설명에 납득하다." }
+    ]
+  },
+  {
+    "word": "理解する",
+    "reading": "りかいする",
+    "meaning": "이해하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意味を理解する。", "ko": "의미를 이해하다." }
+    ]
+  },
+  {
+    "word": "把握する",
+    "reading": "はあくする",
+    "meaning": "파악하다",
+    "meaningDetail": "잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악하다." }
+    ]
+  },
+  {
+    "word": "認識する",
+    "reading": "にんしきする",
+    "meaning": "인식하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を認識する。", "ko": "문제를 인식하다." }
+    ]
+  },
+  {
+    "word": "認定する",
+    "reading": "にんていする",
+    "meaning": "인정하다",
+    "meaningDetail": "공인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資格を認定する。", "ko": "자격을 인정하다." }
+    ]
+  },
+  {
+    "word": "認知する",
+    "reading": "にんちする",
+    "meaning": "인지하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "存在を認知する。", "ko": "존재를 인지하다." }
+    ]
+  },
+  {
+    "word": "確認する",
+    "reading": "かくにんする",
+    "meaning": "확인하다",
+    "meaningDetail": "점검하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "内容を確認する。", "ko": "내용을 확인하다." }
+    ]
+  },
+  {
+    "word": "承知する",
+    "reading": "しょうちする",
+    "meaning": "승지하다",
+    "meaningDetail": "알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事情を承知する。", "ko": "사정을 알다." }
+    ]
+  },
+  {
+    "word": "了解する",
+    "reading": "りょうかいする",
+    "meaning": "양해하다",
+    "meaningDetail": "알겠습니다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "了解しました。", "ko": "알겠습니다." }
+    ]
+  },
+  {
+    "word": "同意する",
+    "reading": "どういする",
+    "meaning": "동의하다",
+    "meaningDetail": "찬성하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見に同意する。", "ko": "의견에 동의하다." }
+    ]
+  },
+  {
+    "word": "賛成する",
+    "reading": "さんせいする",
+    "meaning": "찬성하다",
+    "meaningDetail": "동의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "提案に賛成する。", "ko": "제안에 찬성하다." }
+    ]
+  },
+  {
+    "word": "反対する",
+    "reading": "はんたいする",
+    "meaning": "반대하다",
+    "meaningDetail": "거부하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画に反対する。", "ko": "계획에 반대하다." }
+    ]
+  },
+  {
+    "word": "対立する",
+    "reading": "たいりつする",
+    "meaning": "대립하다",
+    "meaningDetail": "맞서다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見が対立する。", "ko": "의견이 대립하다." }
+    ]
+  },
+  {
+    "word": "対応する",
+    "reading": "たいおうする",
+    "meaning": "대응하다",
+    "meaningDetail": "응하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題に対応する。", "ko": "문제에 대응하다." }
+    ]
+  },
+  {
+    "word": "対処する",
+    "reading": "たいしょする",
+    "meaning": "대처하다",
+    "meaningDetail": "처리하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "危機に対処する。", "ko": "위기에 대처하다." }
+    ]
+  },
+  {
+    "word": "対抗する",
+    "reading": "たいこうする",
+    "meaning": "대항하다",
+    "meaningDetail": "맞서다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ライバルに対抗する。", "ko": "라이벌에 대항하다." }
+    ]
+  },
+  {
+    "word": "対比する",
+    "reading": "たいひする",
+    "meaning": "대비하다",
+    "meaningDetail": "비교하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "二つを対比する。", "ko": "둘을 대비하다." }
+    ]
+  }
+]

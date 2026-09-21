@@ -1,0 +1,578 @@
+[
+  {
+    "word": "燃える",
+    "reading": "もえる",
+    "meaning": "타다, 불타다",
+    "meaningDetail": "불에 타다, 열정이 타오르다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "紙が燃える。", "ko": "종이가 타다."},
+      {"ja": "やる気が燃える。", "ko": "의욕이 불타오르다."}
+    ]
+  },
+  {
+    "word": "もたらす",
+    "reading": "もたらす",
+    "meaning": "가져오다, 초래하다",
+    "meaningDetail": "결과를 가져오다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "幸福をもたらす。", "ko": "행복을 가져오다."},
+      {"ja": "変化をもたらす。", "ko": "변화를 초래하다."}
+    ]
+  },
+  {
+    "word": "戻す",
+    "reading": "もどす",
+    "meaning": "되돌리다, 돌려놓다",
+    "meaningDetail": "원래 상태로 돌리다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "本を棚に戻す。", "ko": "책을 선반에 돌려놓다."},
+      {"ja": "時計を戻す。", "ko": "시계를 되돌리다."}
+    ]
+  },
+  {
+    "word": "戻る",
+    "reading": "もどる",
+    "meaning": "돌아가다, 되돌아오다",
+    "meaningDetail": "원래 장소나 상태로 가다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "家に戻る。", "ko": "집에 돌아가다."},
+      {"ja": "元の状態に戻る。", "ko": "원래 상태로 돌아가다."}
+    ]
+  },
+  {
+    "word": "求める",
+    "reading": "もとめる",
+    "meaning": "구하다, 요구하다",
+    "meaningDetail": "얻으려 하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "助けを求める。", "ko": "도움을 구하다."},
+      {"ja": "答えを求める。", "ko": "답을 구하다."}
+    ]
+  },
+  {
+    "word": "基づく",
+    "reading": "もとづく",
+    "meaning": "~에 근거하다",
+    "meaningDetail": "~을 바탕으로 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "事実に基づく。", "ko": "사실에 근거하다."},
+      {"ja": "法律に基づいて。", "ko": "법률에 근거하여."}
+    ]
+  },
+  {
+    "word": "やり直す",
+    "reading": "やりなおす",
+    "meaning": "다시 하다",
+    "meaningDetail": "처음부터 다시 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "最初からやり直す。", "ko": "처음부터 다시 하다."},
+      {"ja": "人生をやり直したい。", "ko": "인생을 다시 살고 싶다."}
+    ]
+  },
+  {
+    "word": "破る",
+    "reading": "やぶる",
+    "meaning": "찢다, 깨다",
+    "meaningDetail": "종이를 찢거나 약속을 어기다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "紙を破る。", "ko": "종이를 찢다."},
+      {"ja": "約束を破る。", "ko": "약속을 깨다."}
+    ]
+  },
+  {
+    "word": "辞める",
+    "reading": "やめる",
+    "meaning": "그만두다",
+    "meaningDetail": "일이나 직장을 그만두다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "会社を辞める。", "ko": "회사를 그만두다."},
+      {"ja": "タバコを辞める。", "ko": "담배를 끊다."}
+    ]
+  },
+  {
+    "word": "譲る",
+    "reading": "ゆずる",
+    "meaning": "양보하다, 넘겨주다",
+    "meaningDetail": "다른 사람에게 주다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "席を譲る。", "ko": "자리를 양보하다."},
+      {"ja": "権利を譲る。", "ko": "권리를 넘겨주다."}
+    ]
+  },
+  {
+    "word": "揺れる",
+    "reading": "ゆれる",
+    "meaning": "흔들리다",
+    "meaningDetail": "좌우로 움직이다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "地震で揺れる。", "ko": "지진으로 흔들리다."},
+      {"ja": "心が揺れる。", "ko": "마음이 흔들리다."}
+    ]
+  },
+  {
+    "word": "寄る",
+    "reading": "よる",
+    "meaning": "들르다, 가까이 가다",
+    "meaningDetail": "잠시 방문하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "コンビニに寄る。", "ko": "편의점에 들르다."},
+      {"ja": "友達の家に寄る。", "ko": "친구 집에 들르다."}
+    ]
+  },
+  {
+    "word": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "기뻐하다",
+    "meaningDetail": "즐거워하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "プレゼントを喜ぶ。", "ko": "선물을 기뻐하다."},
+      {"ja": "成功を喜ぶ。", "ko": "성공을 기뻐하다."}
+    ]
+  },
+  {
+    "word": "頼る",
+    "reading": "たよる",
+    "meaning": "의지하다",
+    "meaningDetail": "도움을 받으려 하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "親に頼る。", "ko": "부모에게 의지하다."},
+      {"ja": "地図に頼る。", "ko": "지도에 의존하다."}
+    ]
+  },
+  {
+    "word": "例える",
+    "reading": "たとえる",
+    "meaning": "비유하다",
+    "meaningDetail": "다른 것에 빗대어 표현하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "人生を旅に例える。", "ko": "인생을 여행에 비유하다."},
+      {"ja": "何かに例えると。", "ko": "무엇인가에 비유하면."}
+    ]
+  },
+  {
+    "word": "立ち上がる",
+    "reading": "たちあがる",
+    "meaning": "일어서다",
+    "meaningDetail": "앉았다가 서다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "席から立ち上がる。", "ko": "자리에서 일어서다."},
+      {"ja": "困難から立ち上がる。", "ko": "어려움에서 일어서다."}
+    ]
+  },
+  {
+    "word": "立ち止まる",
+    "reading": "たちどまる",
+    "meaning": "멈춰 서다",
+    "meaningDetail": "걷다가 서다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "道で立ち止まる。", "ko": "길에서 멈춰 서다."},
+      {"ja": "立ち止まって考える。", "ko": "멈춰 서서 생각하다."}
+    ]
+  },
+  {
+    "word": "断る",
+    "reading": "ことわる",
+    "meaning": "거절하다",
+    "meaningDetail": "요청을 받아들이지 않다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "招待を断る。", "ko": "초대를 거절하다."},
+      {"ja": "丁寧に断る。", "ko": "정중하게 거절하다."}
+    ]
+  },
+  {
+    "word": "散らかす",
+    "reading": "ちらかす",
+    "meaning": "어지르다",
+    "meaningDetail": "흩어 놓다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "部屋を散らかす。", "ko": "방을 어지르다."},
+      {"ja": "おもちゃを散らかす。", "ko": "장난감을 어지르다."}
+    ]
+  },
+  {
+    "word": "散らかる",
+    "reading": "ちらかる",
+    "meaning": "어질러지다",
+    "meaningDetail": "흩어져 있다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "部屋が散らかっている。", "ko": "방이 어질러져 있다."},
+      {"ja": "机の上が散らかる。", "ko": "책상 위가 어질러지다."}
+    ]
+  },
+  {
+    "word": "縮む",
+    "reading": "ちぢむ",
+    "meaning": "줄어들다, 오그라들다",
+    "meaningDetail": "작아지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "服が縮む。", "ko": "옷이 줄어들다."},
+      {"ja": "寒さで体が縮む。", "ko": "추위에 몸이 오그라들다."}
+    ]
+  },
+  {
+    "word": "捕まえる",
+    "reading": "つかまえる",
+    "meaning": "잡다, 붙잡다",
+    "meaningDetail": "도망치지 못하게 하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "犯人を捕まえる。", "ko": "범인을 잡다."},
+      {"ja": "虫を捕まえる。", "ko": "벌레를 잡다."}
+    ]
+  },
+  {
+    "word": "捕まる",
+    "reading": "つかまる",
+    "meaning": "잡히다, 붙잡히다",
+    "meaningDetail": "붙잡아지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "泥棒が捕まった。", "ko": "도둑이 잡혔다."},
+      {"ja": "手すりに捕まる。", "ko": "난간을 잡다."}
+    ]
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "피곤하다, 지치다",
+    "meaningDetail": "힘이 빠지다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "仕事で疲れた。", "ko": "일로 피곤해졌다."},
+      {"ja": "歩きすぎて疲れた。", "ko": "너무 걸어서 지쳤다."}
+    ]
+  },
+  {
+    "word": "付き合う",
+    "reading": "つきあう",
+    "meaning": "사귀다, 교제하다",
+    "meaningDetail": "관계를 유지하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "彼女と付き合う。", "ko": "여자친구와 사귀다."},
+      {"ja": "友達と付き合う。", "ko": "친구와 어울리다."}
+    ]
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meaning": "붙이다, 켜다",
+    "meaningDetail": "부착하다, 작동시키다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "電気を付ける。", "ko": "전등을 켜다."},
+      {"ja": "名前を付ける。", "ko": "이름을 붙이다."}
+    ]
+  },
+  {
+    "word": "続ける",
+    "reading": "つづける",
+    "meaning": "계속하다",
+    "meaningDetail": "그만두지 않고 하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "勉強を続ける。", "ko": "공부를 계속하다."},
+      {"ja": "努力を続ける。", "ko": "노력을 계속하다."}
+    ]
+  },
+  {
+    "word": "続く",
+    "reading": "つづく",
+    "meaning": "계속되다, 이어지다",
+    "meaningDetail": "끊어지지 않고 이어지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "雨が続く。", "ko": "비가 계속되다."},
+      {"ja": "道が続く。", "ko": "길이 이어지다."}
+    ]
+  },
+  {
+    "word": "包む",
+    "reading": "つつむ",
+    "meaning": "싸다, 감싸다",
+    "meaningDetail": "덮어서 감추다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "プレゼントを包む。", "ko": "선물을 싸다."},
+      {"ja": "毛布で体を包む。", "ko": "담요로 몸을 감싸다."}
+    ]
+  },
+  {
+    "word": "伝わる",
+    "reading": "つたわる",
+    "meaning": "전해지다",
+    "meaningDetail": "다른 사람에게 알려지다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "気持ちが伝わる。", "ko": "마음이 전해지다."},
+      {"ja": "話が伝わる。", "ko": "이야기가 전해지다."}
+    ]
+  },
+  {
+    "word": "伝える",
+    "reading": "つたえる",
+    "meaning": "전하다",
+    "meaningDetail": "다른 사람에게 알리다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "メッセージを伝える。", "ko": "메시지를 전하다."},
+      {"ja": "感謝を伝える。", "ko": "감사를 전하다."}
+    ]
+  },
+  {
+    "word": "積む",
+    "reading": "つむ",
+    "meaning": "쌓다",
+    "meaningDetail": "위로 올려놓다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "箱を積む。", "ko": "상자를 쌓다."},
+      {"ja": "経験を積む。", "ko": "경험을 쌓다."}
+    ]
+  },
+  {
+    "word": "釣る",
+    "reading": "つる",
+    "meaning": "낚시하다",
+    "meaningDetail": "물고기를 잡다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "魚を釣る。", "ko": "물고기를 낚다."},
+      {"ja": "週末は釣りに行く。", "ko": "주말에는 낚시하러 간다."}
+    ]
+  },
+  {
+    "word": "連れる",
+    "reading": "つれる",
+    "meaning": "데리고 가다",
+    "meaningDetail": "함께 가다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "子供を連れて行く。", "ko": "아이를 데리고 가다."},
+      {"ja": "犬を連れて散歩する。", "ko": "개를 데리고 산책하다."}
+    ]
+  },
+  {
+    "word": "照らす",
+    "reading": "てらす",
+    "meaning": "비추다",
+    "meaningDetail": "빛으로 밝히다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "月が道を照らす。", "ko": "달이 길을 비추다."},
+      {"ja": "懐中電灯で照らす。", "ko": "손전등으로 비추다."}
+    ]
+  },
+  {
+    "word": "溶ける",
+    "reading": "とける",
+    "meaning": "녹다",
+    "meaningDetail": "열이나 물에 녹다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "雪が溶ける。", "ko": "눈이 녹다."},
+      {"ja": "砂糖が溶ける。", "ko": "설탕이 녹다."}
+    ]
+  },
+  {
+    "word": "届く",
+    "reading": "とどく",
+    "meaning": "닿다, 도착하다",
+    "meaningDetail": "도달하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "手紙が届いた。", "ko": "편지가 도착했다."},
+      {"ja": "声が届く。", "ko": "목소리가 닿다."}
+    ]
+  },
+  {
+    "word": "届ける",
+    "reading": "とどける",
+    "meaning": "배달하다, 전달하다",
+    "meaningDetail": "가져다주다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "荷物を届ける。", "ko": "짐을 배달하다."},
+      {"ja": "書類を届ける。", "ko": "서류를 전달하다."}
+    ]
+  },
+  {
+    "word": "整う",
+    "reading": "ととのう",
+    "meaning": "갖춰지다, 정돈되다",
+    "meaningDetail": "준비가 완료되다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "準備が整った。", "ko": "준비가 갖춰졌다."},
+      {"ja": "環境が整う。", "ko": "환경이 갖춰지다."}
+    ]
+  },
+  {
+    "word": "整える",
+    "reading": "ととのえる",
+    "meaning": "정리하다, 갖추다",
+    "meaningDetail": "잘 정돈하다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "身だしなみを整える。", "ko": "몸가짐을 정돈하다."},
+      {"ja": "準備を整える。", "ko": "준비를 갖추다."}
+    ]
+  },
+  {
+    "word": "飛び出す",
+    "reading": "とびだす",
+    "meaning": "뛰쳐나가다, 튀어나오다",
+    "meaningDetail": "갑자기 나가다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "子供が道に飛び出した。", "ko": "아이가 길로 뛰쳐나왔다."},
+      {"ja": "涙が飛び出す。", "ko": "눈물이 튀어나오다."}
+    ]
+  },
+  {
+    "word": "跳ぶ",
+    "reading": "とぶ",
+    "meaning": "뛰다, 점프하다",
+    "meaningDetail": "위로 뛰어오르다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "高く跳ぶ。", "ko": "높이 뛰다."},
+      {"ja": "縄跳びを跳ぶ。", "ko": "줄넘기를 하다."}
+    ]
+  },
+  {
+    "word": "泊まる",
+    "reading": "とまる",
+    "meaning": "묵다, 숙박하다",
+    "meaningDetail": "밤을 지내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "ホテルに泊まる。", "ko": "호텔에 묵다."},
+      {"ja": "友達の家に泊まる。", "ko": "친구 집에서 자다."}
+    ]
+  },
+  {
+    "word": "取り消す",
+    "reading": "とりけす",
+    "meaning": "취소하다",
+    "meaningDetail": "예약이나 결정을 없애다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "予約を取り消す。", "ko": "예약을 취소하다."},
+      {"ja": "発言を取り消す。", "ko": "발언을 취소하다."}
+    ]
+  },
+  {
+    "word": "取り出す",
+    "reading": "とりだす",
+    "meaning": "꺼내다",
+    "meaningDetail": "안에서 밖으로 꺼내다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "財布を取り出す。", "ko": "지갑을 꺼내다."},
+      {"ja": "引き出しから取り出す。", "ko": "서랍에서 꺼내다."}
+    ]
+  },
+  {
+    "word": "取り上げる",
+    "reading": "とりあげる",
+    "meaning": "다루다, 빼앗다",
+    "meaningDetail": "주제로 삼거나 손에서 뺏다",
+    "category": "동사",
+    "verbType": "ichidan",
+    "examples": [
+      {"ja": "問題を取り上げる。", "ko": "문제를 다루다."},
+      {"ja": "おもちゃを取り上げる。", "ko": "장난감을 빼앗다."}
+    ]
+  },
+  {
+    "word": "怒る",
+    "reading": "おこる",
+    "meaning": "화내다",
+    "meaningDetail": "분노하다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "先生が怒った。", "ko": "선생님이 화냈다."},
+      {"ja": "すぐ怒る。", "ko": "금방 화를 낸다."}
+    ]
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "meaning": "울다",
+    "meaningDetail": "눈물을 흘리다",
+    "category": "동사",
+    "verbType": "godan",
+    "examples": [
+      {"ja": "悲しくて泣く。", "ko": "슬퍼서 울다."},
+      {"ja": "赤ちゃんが泣いている。", "ko": "아기가 울고 있다."}
+    ]
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "word": "救援",
+    "reading": "きゅうえん",
+    "meaning": "구원",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "救援物資を送る。", "ko": "구원 물자를 보낸다." }
+    ]
+  },
+  {
+    "word": "復旧",
+    "reading": "ふっきゅう",
+    "meaning": "복구",
+    "meaningDetail": "원래대로",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力を復旧する。", "ko": "전력을 복구한다." }
+    ]
+  },
+  {
+    "word": "復興",
+    "reading": "ふっこう",
+    "meaning": "부흥",
+    "meaningDetail": "회복",
+    "category": "명사",
+    "examples": [
+      { "ja": "地域の復興を目指す。", "ko": "지역 부흥을 목표로 한다." }
+    ]
+  },
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "被害を受ける。", "ko": "피해를 받는다." }
+    ]
+  },
+  {
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "손해",
+    "meaningDetail": "손상",
+    "category": "명사",
+    "examples": [
+      { "ja": "損害を与える。", "ko": "손해를 준다." }
+    ]
+  },
+  {
+    "word": "被災",
+    "reading": "ひさい",
+    "meaning": "이재",
+    "meaningDetail": "재해 입음",
+    "category": "명사",
+    "examples": [
+      { "ja": "被災者を支援する。", "ko": "이재민을 지원한다." }
+    ]
+  },
+  {
+    "word": "犯罪",
+    "reading": "はんざい",
+    "meaning": "범죄",
+    "meaningDetail": "죄",
+    "category": "명사",
+    "examples": [
+      { "ja": "犯罪を防ぐ。", "ko": "범죄를 막는다." }
+    ]
+  },
+  {
+    "word": "犯人",
+    "reading": "はんにん",
+    "meaning": "범인",
+    "meaningDetail": "죄인",
+    "category": "명사",
+    "examples": [
+      { "ja": "犯人を逮捕する。", "ko": "범인을 체포한다." }
+    ]
+  },
+  {
+    "word": "逮捕",
+    "reading": "たいほ",
+    "meaning": "체포",
+    "meaningDetail": "잡음",
+    "category": "명사",
+    "examples": [
+      { "ja": "容疑者を逮捕する。", "ko": "용의자를 체포한다." }
+    ]
+  },
+  {
+    "word": "容疑",
+    "reading": "ようぎ",
+    "meaning": "혐의",
+    "meaningDetail": "의심",
+    "category": "명사",
+    "examples": [
+      { "ja": "容疑がかかる。", "ko": "혐의가 걸린다." }
+    ]
+  },
+  {
+    "word": "裁判",
+    "reading": "さいばん",
+    "meaning": "재판",
+    "meaningDetail": "판결",
+    "category": "명사",
+    "examples": [
+      { "ja": "裁判を受ける。", "ko": "재판을 받는다." }
+    ]
+  },
+  {
+    "word": "判決",
+    "reading": "はんけつ",
+    "meaning": "판결",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "判決が下る。", "ko": "판결이 내려진다." }
+    ]
+  },
+  {
+    "word": "刑罰",
+    "reading": "けいばつ",
+    "meaning": "형벌",
+    "meaningDetail": "벌",
+    "category": "명사",
+    "examples": [
+      { "ja": "刑罰を受ける。", "ko": "형벌을 받는다." }
+    ]
+  },
+  {
+    "word": "処罰",
+    "reading": "しょばつ",
+    "meaning": "처벌",
+    "meaningDetail": "벌함",
+    "category": "명사",
+    "examples": [
+      { "ja": "違反者を処罰する。", "ko": "위반자를 처벌한다." }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meaning": "법률",
+    "meaningDetail": "법",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を守る。", "ko": "법률을 지킨다." }
+    ]
+  },
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "룰",
+    "category": "명사",
+    "examples": [
+      { "ja": "規則を守る。", "ko": "규칙을 지킨다." }
+    ]
+  },
+  {
+    "word": "条例",
+    "reading": "じょうれい",
+    "meaning": "조례",
+    "meaningDetail": "지방 법규",
+    "category": "명사",
+    "examples": [
+      { "ja": "条例を制定する。", "ko": "조례를 제정한다." }
+    ]
+  },
+  {
+    "word": "憲法",
+    "reading": "けんぽう",
+    "meaning": "헌법",
+    "meaningDetail": "기본법",
+    "category": "명사",
+    "examples": [
+      { "ja": "憲法を改正する。", "ko": "헌법을 개정한다." }
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "권리",
+    "meaningDetail": "자격",
+    "category": "명사",
+    "examples": [
+      { "ja": "権利を主張する。", "ko": "권리를 주장한다." }
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "meaningDetail": "해야 할 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "義務を果たす。", "ko": "의무를 다한다." }
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "meaningDetail": "의무",
+    "category": "명사",
+    "examples": [
+      { "ja": "責任を取る。", "ko": "책임을 진다." }
+    ]
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaning": "역할",
+    "meaningDetail": "맡은 바",
+    "category": "명사",
+    "examples": [
+      { "ja": "役割を果たす。", "ko": "역할을 다한다." }
+    ]
+  },
+  {
+    "word": "役目",
+    "reading": "やくめ",
+    "meaning": "역목",
+    "meaningDetail": "임무",
+    "category": "명사",
+    "examples": [
+      { "ja": "役目を終える。", "ko": "역할을 마친다." }
+    ]
+  },
+  {
+    "word": "任務",
+    "reading": "にんむ",
+    "meaning": "임무",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "任務を遂行する。", "ko": "임무를 수행한다." }
+    ]
+  },
+  {
+    "word": "使命",
+    "reading": "しめい",
+    "meaning": "사명",
+    "meaningDetail": "맡은 바",
+    "category": "명사",
+    "examples": [
+      { "ja": "使命感を持つ。", "ko": "사명감을 갖는다." }
+    ]
+  },
+  {
+    "word": "職業",
+    "reading": "しょくぎょう",
+    "meaning": "직업",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "職業を選ぶ。", "ko": "직업을 고른다." }
+    ]
+  },
+  {
+    "word": "職務",
+    "reading": "しょくむ",
+    "meaning": "직무",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "職務を全うする。", "ko": "직무를 다한다." }
+    ]
+  },
+  {
+    "word": "業務",
+    "reading": "ぎょうむ",
+    "meaning": "업무",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "業務を行う。", "ko": "업무를 수행한다." }
+    ]
+  },
+  {
+    "word": "作業",
+    "reading": "さぎょう",
+    "meaning": "작업",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "作業を進める。", "ko": "작업을 진행한다." }
+    ]
+  },
+  {
+    "word": "工事",
+    "reading": "こうじ",
+    "meaning": "공사",
+    "meaningDetail": "건설 작업",
+    "category": "명사",
+    "examples": [
+      { "ja": "工事を行う。", "ko": "공사를 한다." }
+    ]
+  },
+  {
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "공장",
+    "meaningDetail": "제조소",
+    "category": "명사",
+    "examples": [
+      { "ja": "工場で働く。", "ko": "공장에서 일한다." }
+    ]
+  },
+  {
+    "word": "事業",
+    "reading": "じぎょう",
+    "meaning": "사업",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "事業を始める。", "ko": "사업을 시작한다." }
+    ]
+  },
+  {
+    "word": "企業",
+    "reading": "きぎょう",
+    "meaning": "기업",
+    "meaningDetail": "회사",
+    "category": "명사",
+    "examples": [
+      { "ja": "企業に就職する。", "ko": "기업에 취직한다." }
+    ]
+  },
+  {
+    "word": "産業",
+    "reading": "さんぎょう",
+    "meaning": "산업",
+    "meaningDetail": "생산 활동",
+    "category": "명사",
+    "examples": [
+      { "ja": "産業を発展させる。", "ko": "산업을 발전시킨다." }
+    ]
+  },
+  {
+    "word": "農業",
+    "reading": "のうぎょう",
+    "meaning": "농업",
+    "meaningDetail": "농사",
+    "category": "명사",
+    "examples": [
+      { "ja": "農業に従事する。", "ko": "농업에 종사한다." }
+    ]
+  },
+  {
+    "word": "漁業",
+    "reading": "ぎょぎょう",
+    "meaning": "어업",
+    "meaningDetail": "물고기잡이",
+    "category": "명사",
+    "examples": [
+      { "ja": "漁業を営む。", "ko": "어업을 경영한다." }
+    ]
+  },
+  {
+    "word": "林業",
+    "reading": "りんぎょう",
+    "meaning": "임업",
+    "meaningDetail": "산림업",
+    "category": "명사",
+    "examples": [
+      { "ja": "林業に携わる。", "ko": "임업에 종사한다." }
+    ]
+  },
+  {
+    "word": "鉱業",
+    "reading": "こうぎょう",
+    "meaning": "광업",
+    "meaningDetail": "광산업",
+    "category": "명사",
+    "examples": [
+      { "ja": "鉱業が盛んだ。", "ko": "광업이 활발하다." }
+    ]
+  },
+  {
+    "word": "商業",
+    "reading": "しょうぎょう",
+    "meaning": "상업",
+    "meaningDetail": "장사",
+    "category": "명사",
+    "examples": [
+      { "ja": "商業施設が多い。", "ko": "상업 시설이 많다." }
+    ]
+  },
+  {
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "meaning": "무역",
+    "meaningDetail": "거래",
+    "category": "명사",
+    "examples": [
+      { "ja": "貿易が盛んだ。", "ko": "무역이 활발하다." }
+    ]
+  },
+  {
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "meaningDetail": "팔아 보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸出を増やす。", "ko": "수출을 늘린다." }
+    ]
+  },
+  {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "meaningDetail": "사 들임",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸入に頼る。", "ko": "수입에 의존한다." }
+    ]
+  },
+  {
+    "word": "関税",
+    "reading": "かんぜい",
+    "meaning": "관세",
+    "meaningDetail": "세금",
+    "category": "명사",
+    "examples": [
+      { "ja": "関税をかける。", "ko": "관세를 부과한다." }
+    ]
+  },
+  {
+    "word": "国際",
+    "reading": "こくさい",
+    "meaning": "국제",
+    "meaningDetail": "나라 사이",
+    "category": "명사",
+    "examples": [
+      { "ja": "国際社会に貢献する。", "ko": "국제 사회에 공헌한다." }
+    ]
+  },
+  {
+    "word": "外交",
+    "reading": "がいこう",
+    "meaning": "외교",
+    "meaningDetail": "나라 사이 교섭",
+    "category": "명사",
+    "examples": [
+      { "ja": "外交関係を結ぶ。", "ko": "외교 관계를 맺는다." }
+    ]
+  },
+  {
+    "word": "政治",
+    "reading": "せいじ",
+    "meaning": "정치",
+    "meaningDetail": "다스림",
+    "category": "명사",
+    "examples": [
+      { "ja": "政治に参加する。", "ko": "정치에 참가한다." }
+    ]
+  },
+  {
+    "word": "行政",
+    "reading": "ぎょうせい",
+    "meaning": "행정",
+    "meaningDetail": "관청 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "行政サービスを受ける。", "ko": "행정 서비스를 받는다." }
+    ]
+  },
+  {
+    "word": "立法",
+    "reading": "りっぽう",
+    "meaning": "입법",
+    "meaningDetail": "법 만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "立法機関が法律を作る。", "ko": "입법 기관이 법률을 만든다." }
+    ]
+  },
+  {
+    "word": "司法",
+    "reading": "しほう",
+    "meaning": "사법",
+    "meaningDetail": "재판",
+    "category": "명사",
+    "examples": [
+      { "ja": "司法制度を改革する。", "ko": "사법 제도를 개혁한다." }
+    ]
+  }
+]

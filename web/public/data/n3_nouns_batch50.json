@@ -1,0 +1,482 @@
+[
+  {
+    "word": "争点",
+    "reading": "そうてん",
+    "meaning": "쟁점",
+    "meaningDetail": "논쟁점",
+    "category": "명사",
+    "examples": [
+      { "ja": "争点を明確にする。", "ko": "쟁점을 명확히 하다." }
+    ]
+  },
+  {
+    "word": "問題点",
+    "reading": "もんだいてん",
+    "meaning": "문제점",
+    "meaningDetail": "결점",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題点を指摘する。", "ko": "문제점을 지적하다." }
+    ]
+  },
+  {
+    "word": "改善点",
+    "reading": "かいぜんてん",
+    "meaning": "개선점",
+    "meaningDetail": "고칠 점",
+    "category": "명사",
+    "examples": [
+      { "ja": "改善点を洗い出す。", "ko": "개선점을 파악하다." }
+    ]
+  },
+  {
+    "word": "着眼点",
+    "reading": "ちゃくがんてん",
+    "meaning": "착안점",
+    "meaningDetail": "관점",
+    "category": "명사",
+    "examples": [
+      { "ja": "着眼点が良い。", "ko": "착안점이 좋다." }
+    ]
+  },
+  {
+    "word": "出発点",
+    "reading": "しゅっぱつてん",
+    "meaning": "출발점",
+    "meaningDetail": "시작점",
+    "category": "명사",
+    "examples": [
+      { "ja": "出発点に戻る。", "ko": "출발점으로 돌아가다." }
+    ]
+  },
+  {
+    "word": "到達点",
+    "reading": "とうたつてん",
+    "meaning": "도달점",
+    "meaningDetail": "도착점",
+    "category": "명사",
+    "examples": [
+      { "ja": "到達点を目指す。", "ko": "도달점을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "終着点",
+    "reading": "しゅうちゃくてん",
+    "meaning": "종착점",
+    "meaningDetail": "끝점",
+    "category": "명사",
+    "examples": [
+      { "ja": "終着点に着く。", "ko": "종착점에 도착하다." }
+    ]
+  },
+  {
+    "word": "転換点",
+    "reading": "てんかんてん",
+    "meaning": "전환점",
+    "meaningDetail": "분기점",
+    "category": "명사",
+    "examples": [
+      { "ja": "転換点を迎える。", "ko": "전환점을 맞이하다." }
+    ]
+  },
+  {
+    "word": "分岐点",
+    "reading": "ぶんきてん",
+    "meaning": "분기점",
+    "meaningDetail": "갈림길",
+    "category": "명사",
+    "examples": [
+      { "ja": "分岐点に立つ。", "ko": "분기점에 서다." }
+    ]
+  },
+  {
+    "word": "転機",
+    "reading": "てんき",
+    "meaning": "전기",
+    "meaningDetail": "전환점",
+    "category": "명사",
+    "examples": [
+      { "ja": "人生の転機を迎える。", "ko": "인생의 전기를 맞이하다." }
+    ]
+  },
+  {
+    "word": "契機",
+    "reading": "けいき",
+    "meaning": "계기",
+    "meaningDetail": "기회",
+    "category": "명사",
+    "examples": [
+      { "ja": "これを契機に始める。", "ko": "이것을 계기로 시작하다." }
+    ]
+  },
+  {
+    "word": "動機",
+    "reading": "どうき",
+    "meaning": "동기",
+    "meaningDetail": "이유",
+    "category": "명사",
+    "examples": [
+      { "ja": "犯行の動機を調べる。", "ko": "범행의 동기를 조사하다." }
+    ]
+  },
+  {
+    "word": "誘因",
+    "reading": "ゆういん",
+    "meaning": "유인",
+    "meaningDetail": "원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "誘因を探る。", "ko": "유인을 탐색하다." }
+    ]
+  },
+  {
+    "word": "要因",
+    "reading": "よういん",
+    "meaning": "요인",
+    "meaningDetail": "원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "成功の要因を分析する。", "ko": "성공의 요인을 분석하다." }
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "이유",
+    "category": "명사",
+    "examples": [
+      { "ja": "原因を究明する。", "ko": "원인을 규명하다." }
+    ]
+  },
+  {
+    "word": "起因",
+    "reading": "きいん",
+    "meaning": "기인",
+    "meaningDetail": "원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "ストレスに起因する。", "ko": "스트레스에 기인하다." }
+    ]
+  },
+  {
+    "word": "根本",
+    "reading": "こんぽん",
+    "meaning": "근본",
+    "meaningDetail": "기본",
+    "category": "명사",
+    "examples": [
+      { "ja": "根本から見直す。", "ko": "근본부터 재검토하다." }
+    ]
+  },
+  {
+    "word": "根源",
+    "reading": "こんげん",
+    "meaning": "근원",
+    "meaningDetail": "뿌리",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題の根源を探る。", "ko": "문제의 근원을 탐색하다." }
+    ]
+  },
+  {
+    "word": "起源",
+    "reading": "きげん",
+    "meaning": "기원",
+    "meaningDetail": "시작",
+    "category": "명사",
+    "examples": [
+      { "ja": "起源を調べる。", "ko": "기원을 조사하다." }
+    ]
+  },
+  {
+    "word": "由来",
+    "reading": "ゆらい",
+    "meaning": "유래",
+    "meaningDetail": "기원",
+    "category": "명사",
+    "examples": [
+      { "ja": "名前の由来を説明する。", "ko": "이름의 유래를 설명하다." }
+    ]
+  },
+  {
+    "word": "経緯",
+    "reading": "けいい",
+    "meaning": "경위",
+    "meaningDetail": "과정",
+    "category": "명사",
+    "examples": [
+      { "ja": "事件の経緯を説明する。", "ko": "사건의 경위를 설명하다." }
+    ]
+  },
+  {
+    "word": "過程",
+    "reading": "かてい",
+    "meaning": "과정",
+    "meaningDetail": "프로세스",
+    "category": "명사",
+    "examples": [
+      { "ja": "成長の過程を見る。", "ko": "성장의 과정을 보다." }
+    ]
+  },
+  {
+    "word": "工程",
+    "reading": "こうてい",
+    "meaning": "공정",
+    "meaningDetail": "과정",
+    "category": "명사",
+    "examples": [
+      { "ja": "製造工程を確認する。", "ko": "제조 공정을 확인하다." }
+    ]
+  },
+  {
+    "word": "手順",
+    "reading": "てじゅん",
+    "meaning": "순서",
+    "meaningDetail": "절차",
+    "category": "명사",
+    "examples": [
+      { "ja": "手順を説明する。", "ko": "순서를 설명하다." }
+    ]
+  },
+  {
+    "word": "順序",
+    "reading": "じゅんじょ",
+    "meaning": "순서",
+    "meaningDetail": "차례",
+    "category": "명사",
+    "examples": [
+      { "ja": "順序を守る。", "ko": "순서를 지키다." }
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "수속",
+    "meaningDetail": "절차",
+    "category": "명사",
+    "examples": [
+      { "ja": "手続きを行う。", "ko": "수속을 하다." }
+    ]
+  },
+  {
+    "word": "段取り",
+    "reading": "だんどり",
+    "meaning": "단계",
+    "meaningDetail": "준비",
+    "category": "명사",
+    "examples": [
+      { "ja": "段取りを組む。", "ko": "단계를 짜다." }
+    ]
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "단계",
+    "meaningDetail": "스텝",
+    "category": "명사",
+    "examples": [
+      { "ja": "段階を踏む。", "ko": "단계를 밟다." }
+    ]
+  },
+  {
+    "word": "局面",
+    "reading": "きょくめん",
+    "meaning": "국면",
+    "meaningDetail": "상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "局面を打開する。", "ko": "국면을 타개하다." }
+    ]
+  },
+  {
+    "word": "場面",
+    "reading": "ばめん",
+    "meaning": "장면",
+    "meaningDetail": "씬",
+    "category": "명사",
+    "examples": [
+      { "ja": "感動的な場面。", "ko": "감동적인 장면." }
+    ]
+  },
+  {
+    "word": "光景",
+    "reading": "こうけい",
+    "meaning": "광경",
+    "meaningDetail": "장면",
+    "category": "명사",
+    "examples": [
+      { "ja": "美しい光景を見る。", "ko": "아름다운 광경을 보다." }
+    ]
+  },
+  {
+    "word": "風景",
+    "reading": "ふうけい",
+    "meaning": "풍경",
+    "meaningDetail": "경치",
+    "category": "명사",
+    "examples": [
+      { "ja": "風景を楽しむ。", "ko": "풍경을 즐기다." }
+    ]
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaning": "경치",
+    "meaningDetail": "풍경",
+    "category": "명사",
+    "examples": [
+      { "ja": "景色が美しい。", "ko": "경치가 아름답다." }
+    ]
+  },
+  {
+    "word": "眺め",
+    "reading": "ながめ",
+    "meaning": "조망",
+    "meaningDetail": "전망",
+    "category": "명사",
+    "examples": [
+      { "ja": "眺めが良い。", "ko": "조망이 좋다." }
+    ]
+  },
+  {
+    "word": "展望",
+    "reading": "てんぼう",
+    "meaning": "전망",
+    "meaningDetail": "비전",
+    "category": "명사",
+    "examples": [
+      { "ja": "将来の展望を語る。", "ko": "장래의 전망을 말하다." }
+    ]
+  },
+  {
+    "word": "見通し",
+    "reading": "みとおし",
+    "meaning": "전망",
+    "meaningDetail": "예측",
+    "category": "명사",
+    "examples": [
+      { "ja": "見通しが暗い。", "ko": "전망이 어둡다." }
+    ]
+  },
+  {
+    "word": "見込み",
+    "reading": "みこみ",
+    "meaning": "예상",
+    "meaningDetail": "기대",
+    "category": "명사",
+    "examples": [
+      { "ja": "回復の見込みがある。", "ko": "회복의 예상이 있다." }
+    ]
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "meaningDetail": "희망",
+    "category": "명사",
+    "examples": [
+      { "ja": "期待に応える。", "ko": "기대에 부응하다." }
+    ]
+  },
+  {
+    "word": "待望",
+    "reading": "たいぼう",
+    "meaning": "대망",
+    "meaningDetail": "기대",
+    "category": "명사",
+    "examples": [
+      { "ja": "待望の新製品。", "ko": "대망의 신제품." }
+    ]
+  },
+  {
+    "word": "願望",
+    "reading": "がんぼう",
+    "meaning": "원망",
+    "meaningDetail": "희망",
+    "category": "명사",
+    "examples": [
+      { "ja": "願望を持つ。", "ko": "원망을 갖다." }
+    ]
+  },
+  {
+    "word": "欲望",
+    "reading": "よくぼう",
+    "meaning": "욕망",
+    "meaningDetail": "욕구",
+    "category": "명사",
+    "examples": [
+      { "ja": "欲望を満たす。", "ko": "욕망을 채우다." }
+    ]
+  },
+  {
+    "word": "欲求",
+    "reading": "よっきゅう",
+    "meaning": "욕구",
+    "meaningDetail": "요구",
+    "category": "명사",
+    "examples": [
+      { "ja": "欲求を満たす。", "ko": "욕구를 채우다." }
+    ]
+  },
+  {
+    "word": "要求",
+    "reading": "ようきゅう",
+    "meaning": "요구",
+    "meaningDetail": "요청",
+    "category": "명사",
+    "examples": [
+      { "ja": "要求を通す。", "ko": "요구를 관철하다." }
+    ]
+  },
+  {
+    "word": "要請",
+    "reading": "ようせい",
+    "meaning": "요청",
+    "meaningDetail": "부탁",
+    "category": "명사",
+    "examples": [
+      { "ja": "要請に応じる。", "ko": "요청에 응하다." }
+    ]
+  },
+  {
+    "word": "要望",
+    "reading": "ようぼう",
+    "meaning": "요망",
+    "meaningDetail": "희망",
+    "category": "명사",
+    "examples": [
+      { "ja": "要望を伝える。", "ko": "요망을 전달하다." }
+    ]
+  },
+  {
+    "word": "依頼",
+    "reading": "いらい",
+    "meaning": "의뢰",
+    "meaningDetail": "부탁",
+    "category": "명사",
+    "examples": [
+      { "ja": "依頼を受ける。", "ko": "의뢰를 받다." }
+    ]
+  },
+  {
+    "word": "申請",
+    "reading": "しんせい",
+    "meaning": "신청",
+    "meaningDetail": "요청",
+    "category": "명사",
+    "examples": [
+      { "ja": "申請を行う。", "ko": "신청을 하다." }
+    ]
+  },
+  {
+    "word": "請求",
+    "reading": "せいきゅう",
+    "meaning": "청구",
+    "meaningDetail": "요구",
+    "category": "명사",
+    "examples": [
+      { "ja": "請求書を送る。", "ko": "청구서를 보내다." }
+    ]
+  }
+]

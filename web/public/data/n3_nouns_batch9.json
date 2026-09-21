@@ -1,0 +1,492 @@
+[
+  {
+    "word": "団体",
+    "reading": "だんたい",
+    "meaning": "단체",
+    "meaningDetail": "여러 사람이 모인 집단",
+    "category": "명사",
+    "examples": [
+      { "ja": "団体で旅行する。", "ko": "단체로 여행한다." }
+    ]
+  },
+  {
+    "word": "地域",
+    "reading": "ちいき",
+    "meaning": "지역",
+    "meaningDetail": "일정한 구역",
+    "category": "명사",
+    "examples": [
+      { "ja": "この地域は静かだ。", "ko": "이 지역은 조용하다." }
+    ]
+  },
+  {
+    "word": "地方",
+    "reading": "ちほう",
+    "meaning": "지방",
+    "meaningDetail": "수도 이외의 지역",
+    "category": "명사",
+    "examples": [
+      { "ja": "地方に住んでいる。", "ko": "지방에 살고 있다." }
+    ]
+  },
+  {
+    "word": "首都",
+    "reading": "しゅと",
+    "meaning": "수도",
+    "meaningDetail": "나라의 중심 도시",
+    "category": "명사",
+    "examples": [
+      { "ja": "日本の首都は東京だ。", "ko": "일본의 수도는 도쿄다." }
+    ]
+  },
+  {
+    "word": "都市",
+    "reading": "とし",
+    "meaning": "도시",
+    "meaningDetail": "발달한 지역",
+    "category": "명사",
+    "examples": [
+      { "ja": "大都市に住む。", "ko": "대도시에 산다." }
+    ]
+  },
+  {
+    "word": "郊外",
+    "reading": "こうがい",
+    "meaning": "교외",
+    "meaningDetail": "도시 외곽",
+    "category": "명사",
+    "examples": [
+      { "ja": "郊外に引っ越す。", "ko": "교외로 이사한다." }
+    ]
+  },
+  {
+    "word": "住宅",
+    "reading": "じゅうたく",
+    "meaning": "주택",
+    "meaningDetail": "살림집",
+    "category": "명사",
+    "examples": [
+      { "ja": "住宅を購入する。", "ko": "주택을 구입한다." }
+    ]
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "건물",
+    "meaningDetail": "지은 구조물",
+    "category": "명사",
+    "examples": [
+      { "ja": "高い建物が見える。", "ko": "높은 건물이 보인다." }
+    ]
+  },
+  {
+    "word": "施設",
+    "reading": "しせつ",
+    "meaning": "시설",
+    "meaningDetail": "설비를 갖춘 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "公共施設を利用する。", "ko": "공공시설을 이용한다." }
+    ]
+  },
+  {
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "설비",
+    "meaningDetail": "필요한 기구",
+    "category": "명사",
+    "examples": [
+      { "ja": "最新の設備がある。", "ko": "최신 설비가 있다." }
+    ]
+  },
+  {
+    "word": "装置",
+    "reading": "そうち",
+    "meaning": "장치",
+    "meaningDetail": "기계나 기구",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全装置を確認する。", "ko": "안전장치를 확인한다." }
+    ]
+  },
+  {
+    "word": "機械",
+    "reading": "きかい",
+    "meaning": "기계",
+    "meaningDetail": "일을 하는 장치",
+    "category": "명사",
+    "examples": [
+      { "ja": "機械を操作する。", "ko": "기계를 조작한다." }
+    ]
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "도구",
+    "meaningDetail": "일에 쓰는 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "道具を準備する。", "ko": "도구를 준비한다." }
+    ]
+  },
+  {
+    "word": "器具",
+    "reading": "きぐ",
+    "meaning": "기구, 도구",
+    "meaningDetail": "기계나 연장",
+    "category": "명사",
+    "examples": [
+      { "ja": "運動器具を使う。", "ko": "운동기구를 사용한다." }
+    ]
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "meaningDetail": "물건을 만드는 데 쓰는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "料理の材料を買う。", "ko": "요리 재료를 산다." }
+    ]
+  },
+  {
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaning": "원료",
+    "meaningDetail": "제품을 만드는 데 쓰는 본래 물질",
+    "category": "명사",
+    "examples": [
+      { "ja": "原料を輸入する。", "ko": "원료를 수입한다." }
+    ]
+  },
+  {
+    "word": "製品",
+    "reading": "せいひん",
+    "meaning": "제품",
+    "meaningDetail": "만들어진 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "新製品を発売する。", "ko": "신제품을 발매한다." }
+    ]
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaning": "상품",
+    "meaningDetail": "파는 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を展示する。", "ko": "상품을 전시한다." }
+    ]
+  },
+  {
+    "word": "品物",
+    "reading": "しなもの",
+    "meaning": "물건",
+    "meaningDetail": "물품",
+    "category": "명사",
+    "examples": [
+      { "ja": "品物を選ぶ。", "ko": "물건을 고른다." }
+    ]
+  },
+  {
+    "word": "価格",
+    "reading": "かかく",
+    "meaning": "가격",
+    "meaningDetail": "물건의 값",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格を比較する。", "ko": "가격을 비교한다." }
+    ]
+  },
+  {
+    "word": "値段",
+    "reading": "ねだん",
+    "meaning": "값, 가격",
+    "meaningDetail": "물건의 가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "値段が高い。", "ko": "값이 비싸다." }
+    ]
+  },
+  {
+    "word": "費用",
+    "reading": "ひよう",
+    "meaning": "비용",
+    "meaningDetail": "드는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "費用を計算する。", "ko": "비용을 계산한다." }
+    ]
+  },
+  {
+    "word": "経費",
+    "reading": "けいひ",
+    "meaning": "경비",
+    "meaningDetail": "사업에 드는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "経費を削減する。", "ko": "경비를 삭감한다." }
+    ]
+  },
+  {
+    "word": "収入",
+    "reading": "しゅうにゅう",
+    "meaning": "수입",
+    "meaningDetail": "들어오는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "収入が増えた。", "ko": "수입이 늘었다." }
+    ]
+  },
+  {
+    "word": "支出",
+    "reading": "ししゅつ",
+    "meaning": "지출",
+    "meaningDetail": "나가는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "支出を抑える。", "ko": "지출을 억제한다." }
+    ]
+  },
+  {
+    "word": "利益",
+    "reading": "りえき",
+    "meaning": "이익",
+    "meaningDetail": "남는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益を上げる。", "ko": "이익을 올린다." }
+    ]
+  },
+  {
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "손해",
+    "meaningDetail": "해를 입음",
+    "category": "명사",
+    "examples": [
+      { "ja": "損害を被る。", "ko": "손해를 입는다." }
+    ]
+  },
+  {
+    "word": "売上",
+    "reading": "うりあげ",
+    "meaning": "매출",
+    "meaningDetail": "판 금액",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上が伸びた。", "ko": "매출이 늘었다." }
+    ]
+  },
+  {
+    "word": "投資",
+    "reading": "とうし",
+    "meaning": "투자",
+    "meaningDetail": "자금을 투입함",
+    "category": "명사",
+    "examples": [
+      { "ja": "株に投資する。", "ko": "주식에 투자한다." }
+    ]
+  },
+  {
+    "word": "取引",
+    "reading": "とりひき",
+    "meaning": "거래",
+    "meaningDetail": "사고팔기",
+    "category": "명사",
+    "examples": [
+      { "ja": "取引先と会う。", "ko": "거래처와 만난다." }
+    ]
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "계약",
+    "meaningDetail": "약속을 맺음",
+    "category": "명사",
+    "examples": [
+      { "ja": "契約を結ぶ。", "ko": "계약을 맺는다." }
+    ]
+  },
+  {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "meaning": "교섭",
+    "meaningDetail": "협상",
+    "category": "명사",
+    "examples": [
+      { "ja": "交渉がまとまった。", "ko": "교섭이 타결됐다." }
+    ]
+  },
+  {
+    "word": "競争",
+    "reading": "きょうそう",
+    "meaning": "경쟁",
+    "meaningDetail": "서로 겨룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "競争に勝つ。", "ko": "경쟁에서 이긴다." }
+    ]
+  },
+  {
+    "word": "協力",
+    "reading": "きょうりょく",
+    "meaning": "협력",
+    "meaningDetail": "함께 힘을 합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "協力をお願いします。", "ko": "협력을 부탁드립니다." }
+    ]
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "회의",
+    "meaningDetail": "모여서 의논함",
+    "category": "명사",
+    "examples": [
+      { "ja": "会議に出席する。", "ko": "회의에 출석한다." }
+    ]
+  },
+  {
+    "word": "打ち合わせ",
+    "reading": "うちあわせ",
+    "meaning": "협의, 사전 미팅",
+    "meaningDetail": "미리 의논함",
+    "category": "명사",
+    "examples": [
+      { "ja": "打ち合わせをする。", "ko": "협의를 한다." }
+    ]
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "상담",
+    "meaningDetail": "의논함",
+    "category": "명사",
+    "examples": [
+      { "ja": "相談に乗る。", "ko": "상담에 응한다." }
+    ]
+  },
+  {
+    "word": "連絡先",
+    "reading": "れんらくさき",
+    "meaning": "연락처",
+    "meaningDetail": "연락할 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "連絡先を教える。", "ko": "연락처를 알려준다." }
+    ]
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "주소",
+    "meaningDetail": "사는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "住所を書く。", "ko": "주소를 쓴다." }
+    ]
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "이름",
+    "meaningDetail": "명칭",
+    "category": "명사",
+    "examples": [
+      { "ja": "名前を呼ぶ。", "ko": "이름을 부른다." }
+    ]
+  },
+  {
+    "word": "氏名",
+    "reading": "しめい",
+    "meaning": "성명",
+    "meaningDetail": "성과 이름",
+    "category": "명사",
+    "examples": [
+      { "ja": "氏名を記入する。", "ko": "성명을 기입한다." }
+    ]
+  },
+  {
+    "word": "性別",
+    "reading": "せいべつ",
+    "meaning": "성별",
+    "meaningDetail": "남녀 구분",
+    "category": "명사",
+    "examples": [
+      { "ja": "性別を選択する。", "ko": "성별을 선택한다." }
+    ]
+  },
+  {
+    "word": "年齢",
+    "reading": "ねんれい",
+    "meaning": "나이, 연령",
+    "meaningDetail": "살아온 햇수",
+    "category": "명사",
+    "examples": [
+      { "ja": "年齢を聞く。", "ko": "나이를 묻는다." }
+    ]
+  },
+  {
+    "word": "職業",
+    "reading": "しょくぎょう",
+    "meaning": "직업",
+    "meaningDetail": "생업",
+    "category": "명사",
+    "examples": [
+      { "ja": "職業は何ですか。", "ko": "직업이 무엇입니까?" }
+    ]
+  },
+  {
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "meaning": "회사원",
+    "meaningDetail": "회사에서 일하는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社員として働く。", "ko": "회사원으로 일한다." }
+    ]
+  },
+  {
+    "word": "公務員",
+    "reading": "こうむいん",
+    "meaning": "공무원",
+    "meaningDetail": "정부 기관에서 일하는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "公務員になりたい。", "ko": "공무원이 되고 싶다." }
+    ]
+  },
+  {
+    "word": "専門家",
+    "reading": "せんもんか",
+    "meaning": "전문가",
+    "meaningDetail": "특정 분야의 전문인",
+    "category": "명사",
+    "examples": [
+      { "ja": "専門家に相談する。", "ko": "전문가에게 상담한다." }
+    ]
+  },
+  {
+    "word": "研究者",
+    "reading": "けんきゅうしゃ",
+    "meaning": "연구자",
+    "meaningDetail": "연구하는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "研究者として活躍する。", "ko": "연구자로 활약한다." }
+    ]
+  },
+  {
+    "word": "学者",
+    "reading": "がくしゃ",
+    "meaning": "학자",
+    "meaningDetail": "학문을 연구하는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "有名な学者だ。", "ko": "유명한 학자다." }
+    ]
+  }
+]

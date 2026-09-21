@@ -1,0 +1,552 @@
+[
+  {
+    "word": "専門",
+    "reading": "せんもん",
+    "meaning": "전문",
+    "meaningDetail": "특정 분야를 깊이 연구함",
+    "category": "명사",
+    "examples": [
+      {"ja": "専門は何ですか。", "ko": "전공은 무엇입니까?"},
+      {"ja": "専門家に相談する。", "ko": "전문가에게 상담하다."}
+    ]
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "상담",
+    "meaningDetail": "의논함",
+    "category": "명사",
+    "examples": [
+      {"ja": "相談に乗る。", "ko": "상담에 응하다."},
+      {"ja": "友達に相談する。", "ko": "친구에게 상담하다."}
+    ]
+  },
+  {
+    "word": "想像",
+    "reading": "そうぞう",
+    "meaning": "상상",
+    "meaningDetail": "마음속으로 그림",
+    "category": "명사",
+    "examples": [
+      {"ja": "想像を超える。", "ko": "상상을 초월하다."},
+      {"ja": "想像力が豊かだ。", "ko": "상상력이 풍부하다."}
+    ]
+  },
+  {
+    "word": "増加",
+    "reading": "ぞうか",
+    "meaning": "증가",
+    "meaningDetail": "수가 늘어남",
+    "category": "명사",
+    "examples": [
+      {"ja": "人口が増加する。", "ko": "인구가 증가하다."},
+      {"ja": "増加傾向にある。", "ko": "증가 추세에 있다."}
+    ]
+  },
+  {
+    "word": "存在",
+    "reading": "そんざい",
+    "meaning": "존재",
+    "meaningDetail": "있음",
+    "category": "명사",
+    "examples": [
+      {"ja": "存在を知る。", "ko": "존재를 알다."},
+      {"ja": "大きな存在だ。", "ko": "큰 존재다."}
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "문제에 대응하는 방법",
+    "category": "명사",
+    "examples": [
+      {"ja": "対策を立てる。", "ko": "대책을 세우다."},
+      {"ja": "安全対策を講じる。", "ko": "안전 대책을 강구하다."}
+    ]
+  },
+  {
+    "word": "態度",
+    "reading": "たいど",
+    "meaning": "태도",
+    "meaningDetail": "행동이나 마음가짐",
+    "category": "명사",
+    "examples": [
+      {"ja": "態度を改める。", "ko": "태도를 고치다."},
+      {"ja": "態度が悪い。", "ko": "태도가 나쁘다."}
+    ]
+  },
+  {
+    "word": "大統領",
+    "reading": "だいとうりょう",
+    "meaning": "대통령",
+    "meaningDetail": "공화국의 원수",
+    "category": "명사",
+    "examples": [
+      {"ja": "大統領に会う。", "ko": "대통령을 만나다."},
+      {"ja": "大統領選挙がある。", "ko": "대통령 선거가 있다."}
+    ]
+  },
+  {
+    "word": "代表",
+    "reading": "だいひょう",
+    "meaning": "대표",
+    "meaningDetail": "집단을 대신함",
+    "category": "명사",
+    "examples": [
+      {"ja": "代表を選ぶ。", "ko": "대표를 선출하다."},
+      {"ja": "日本代表として出場する。", "ko": "일본 대표로 출전하다."}
+    ]
+  },
+  {
+    "word": "体力",
+    "reading": "たいりょく",
+    "meaning": "체력",
+    "meaningDetail": "몸의 힘",
+    "category": "명사",
+    "examples": [
+      {"ja": "体力をつける。", "ko": "체력을 기르다."},
+      {"ja": "体力が落ちた。", "ko": "체력이 떨어졌다."}
+    ]
+  },
+  {
+    "word": "滞在",
+    "reading": "たいざい",
+    "meaning": "체재, 머무름",
+    "meaningDetail": "일정 기간 머무름",
+    "category": "명사",
+    "examples": [
+      {"ja": "日本に滞在する。", "ko": "일본에 체재하다."},
+      {"ja": "滞在期間を延長する。", "ko": "체재 기간을 연장하다."}
+    ]
+  },
+  {
+    "word": "対象",
+    "reading": "たいしょう",
+    "meaning": "대상",
+    "meaningDetail": "목표가 되는 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "調査の対象になる。", "ko": "조사 대상이 되다."},
+      {"ja": "子供を対象にした番組。", "ko": "어린이를 대상으로 한 프로그램."}
+    ]
+  },
+  {
+    "word": "単位",
+    "reading": "たんい",
+    "meaning": "단위",
+    "meaningDetail": "측정의 기준",
+    "category": "명사",
+    "examples": [
+      {"ja": "単位を取る。", "ko": "학점을 따다."},
+      {"ja": "長さの単位だ。", "ko": "길이의 단위다."}
+    ]
+  },
+  {
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "담당",
+    "meaningDetail": "맡음",
+    "category": "명사",
+    "examples": [
+      {"ja": "担当者に連絡する。", "ko": "담당자에게 연락하다."},
+      {"ja": "この仕事を担当する。", "ko": "이 일을 담당하다."}
+    ]
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "단계",
+    "meaningDetail": "순서대로 나눈 과정",
+    "category": "명사",
+    "examples": [
+      {"ja": "次の段階に進む。", "ko": "다음 단계로 나아가다."},
+      {"ja": "計画段階だ。", "ko": "계획 단계다."}
+    ]
+  },
+  {
+    "word": "地域",
+    "reading": "ちいき",
+    "meaning": "지역",
+    "meaningDetail": "어떤 범위의 땅",
+    "category": "명사",
+    "examples": [
+      {"ja": "地域の活動に参加する。", "ko": "지역 활동에 참가하다."},
+      {"ja": "地域によって違う。", "ko": "지역에 따라 다르다."}
+    ]
+  },
+  {
+    "word": "知識",
+    "reading": "ちしき",
+    "meaning": "지식",
+    "meaningDetail": "알고 있는 내용",
+    "category": "명사",
+    "examples": [
+      {"ja": "知識を身につける。", "ko": "지식을 습득하다."},
+      {"ja": "専門知識が必要だ。", "ko": "전문 지식이 필요하다."}
+    ]
+  },
+  {
+    "word": "秩序",
+    "reading": "ちつじょ",
+    "meaning": "질서",
+    "meaningDetail": "정돈된 상태",
+    "category": "명사",
+    "examples": [
+      {"ja": "秩序を守る。", "ko": "질서를 지키다."},
+      {"ja": "秩序が乱れる。", "ko": "질서가 흐트러지다."}
+    ]
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaning": "주의",
+    "meaningDetail": "조심함",
+    "category": "명사",
+    "examples": [
+      {"ja": "注意を払う。", "ko": "주의를 기울이다."},
+      {"ja": "注意してください。", "ko": "주의해 주세요."}
+    ]
+  },
+  {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "meaning": "주목",
+    "meaningDetail": "관심을 가지고 봄",
+    "category": "명사",
+    "examples": [
+      {"ja": "注目を集める。", "ko": "주목을 끌다."},
+      {"ja": "注目の的だ。", "ko": "주목의 대상이다."}
+    ]
+  },
+  {
+    "word": "長所",
+    "reading": "ちょうしょ",
+    "meaning": "장점",
+    "meaningDetail": "좋은 점",
+    "category": "명사",
+    "examples": [
+      {"ja": "長所を生かす。", "ko": "장점을 살리다."},
+      {"ja": "自分の長所は何か。", "ko": "자신의 장점은 무엇인가."}
+    ]
+  },
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaning": "조사",
+    "meaningDetail": "알아봄",
+    "category": "명사",
+    "examples": [
+      {"ja": "調査を行う。", "ko": "조사를 실시하다."},
+      {"ja": "調査結果を発表する。", "ko": "조사 결과를 발표하다."}
+    ]
+  },
+  {
+    "word": "頂上",
+    "reading": "ちょうじょう",
+    "meaning": "정상",
+    "meaningDetail": "가장 높은 곳",
+    "category": "명사",
+    "examples": [
+      {"ja": "山の頂上に登る。", "ko": "산 정상에 오르다."},
+      {"ja": "頂上を目指す。", "ko": "정상을 목표로 하다."}
+    ]
+  },
+  {
+    "word": "賃金",
+    "reading": "ちんぎん",
+    "meaning": "임금",
+    "meaningDetail": "노동의 대가로 받는 돈",
+    "category": "명사",
+    "examples": [
+      {"ja": "賃金を上げる。", "ko": "임금을 올리다."},
+      {"ja": "最低賃金を守る。", "ko": "최저 임금을 지키다."}
+    ]
+  },
+  {
+    "word": "通勤",
+    "reading": "つうきん",
+    "meaning": "통근",
+    "meaningDetail": "직장에 출퇴근함",
+    "category": "명사",
+    "examples": [
+      {"ja": "電車で通勤する。", "ko": "전철로 통근하다."},
+      {"ja": "通勤時間が長い。", "ko": "통근 시간이 길다."}
+    ]
+  },
+  {
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "통역",
+    "meaningDetail": "말을 다른 언어로 바꿈",
+    "category": "명사",
+    "examples": [
+      {"ja": "通訳を頼む。", "ko": "통역을 부탁하다."},
+      {"ja": "通訳として働く。", "ko": "통역사로 일하다."}
+    ]
+  },
+  {
+    "word": "つながり",
+    "reading": "つながり",
+    "meaning": "연결, 관계",
+    "meaningDetail": "이어져 있음",
+    "category": "명사",
+    "examples": [
+      {"ja": "人とのつながりを大切にする。", "ko": "사람과의 관계를 소중히 하다."},
+      {"ja": "社会とのつながりが薄い。", "ko": "사회와의 연결이 약하다."}
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "수속, 절차",
+    "meaningDetail": "정해진 순서",
+    "category": "명사",
+    "examples": [
+      {"ja": "手続きを済ませる。", "ko": "수속을 마치다."},
+      {"ja": "入国手続きをする。", "ko": "입국 수속을 하다."}
+    ]
+  },
+  {
+    "word": "哲学",
+    "reading": "てつがく",
+    "meaning": "철학",
+    "meaningDetail": "근본적인 것을 탐구하는 학문",
+    "category": "명사",
+    "examples": [
+      {"ja": "哲学を学ぶ。", "ko": "철학을 배우다."},
+      {"ja": "人生哲学がある。", "ko": "인생 철학이 있다."}
+    ]
+  },
+  {
+    "word": "展開",
+    "reading": "てんかい",
+    "meaning": "전개",
+    "meaningDetail": "펼쳐 나감",
+    "category": "명사",
+    "examples": [
+      {"ja": "物語が展開する。", "ko": "이야기가 전개되다."},
+      {"ja": "事業を展開する。", "ko": "사업을 전개하다."}
+    ]
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "날씨",
+    "meaningDetail": "기상 상태",
+    "category": "명사",
+    "examples": [
+      {"ja": "天気がいい。", "ko": "날씨가 좋다."},
+      {"ja": "天気予報を見る。", "ko": "일기 예보를 보다."}
+    ]
+  },
+  {
+    "word": "電池",
+    "reading": "でんち",
+    "meaning": "전지, 배터리",
+    "meaningDetail": "전기를 저장하는 장치",
+    "category": "명사",
+    "examples": [
+      {"ja": "電池を入れる。", "ko": "전지를 넣다."},
+      {"ja": "電池が切れた。", "ko": "배터리가 나갔다."}
+    ]
+  },
+  {
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaning": "전통",
+    "meaningDetail": "오래 전해 내려온 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "伝統を守る。", "ko": "전통을 지키다."},
+      {"ja": "伝統的な文化だ。", "ko": "전통적인 문화다."}
+    ]
+  },
+  {
+    "word": "統計",
+    "reading": "とうけい",
+    "meaning": "통계",
+    "meaningDetail": "수치로 정리한 자료",
+    "category": "명사",
+    "examples": [
+      {"ja": "統計を取る。", "ko": "통계를 내다."},
+      {"ja": "統計によると。", "ko": "통계에 따르면."}
+    ]
+  },
+  {
+    "word": "動機",
+    "reading": "どうき",
+    "meaning": "동기",
+    "meaningDetail": "행동의 원인",
+    "category": "명사",
+    "examples": [
+      {"ja": "志望動機を聞く。", "ko": "지원 동기를 듣다."},
+      {"ja": "犯行の動機は何か。", "ko": "범행의 동기는 무엇인가."}
+    ]
+  },
+  {
+    "word": "道具",
+    "reading": "どうぐ",
+    "meaning": "도구",
+    "meaningDetail": "일을 하는 데 쓰는 물건",
+    "category": "명사",
+    "examples": [
+      {"ja": "道具を使う。", "ko": "도구를 사용하다."},
+      {"ja": "便利な道具だ。", "ko": "편리한 도구다."}
+    ]
+  },
+  {
+    "word": "同時",
+    "reading": "どうじ",
+    "meaning": "동시",
+    "meaningDetail": "같은 때",
+    "category": "명사",
+    "examples": [
+      {"ja": "同時に始める。", "ko": "동시에 시작하다."},
+      {"ja": "同時通訳をする。", "ko": "동시 통역을 하다."}
+    ]
+  },
+  {
+    "word": "導入",
+    "reading": "どうにゅう",
+    "meaning": "도입",
+    "meaningDetail": "새로 들여옴",
+    "category": "명사",
+    "examples": [
+      {"ja": "システムを導入する。", "ko": "시스템을 도입하다."},
+      {"ja": "新技術の導入を検討する。", "ko": "신기술 도입을 검토하다."}
+    ]
+  },
+  {
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "등록",
+    "meaningDetail": "명부에 올림",
+    "category": "명사",
+    "examples": [
+      {"ja": "会員登録をする。", "ko": "회원 등록을 하다."},
+      {"ja": "登録が必要だ。", "ko": "등록이 필요하다."}
+    ]
+  },
+  {
+    "word": "特徴",
+    "reading": "とくちょう",
+    "meaning": "특징",
+    "meaningDetail": "다른 것과 구별되는 점",
+    "category": "명사",
+    "examples": [
+      {"ja": "特徴を説明する。", "ko": "특징을 설명하다."},
+      {"ja": "この製品の特徴は何か。", "ko": "이 제품의 특징은 무엇인가."}
+    ]
+  },
+  {
+    "word": "都合",
+    "reading": "つごう",
+    "meaning": "사정, 형편",
+    "meaningDetail": "상황이나 조건",
+    "category": "명사",
+    "examples": [
+      {"ja": "都合が悪い。", "ko": "사정이 안 좋다."},
+      {"ja": "都合のいい日を教えてください。", "ko": "형편이 좋은 날을 알려주세요."}
+    ]
+  },
+  {
+    "word": "努力",
+    "reading": "どりょく",
+    "meaning": "노력",
+    "meaningDetail": "힘씀",
+    "category": "명사",
+    "examples": [
+      {"ja": "努力を続ける。", "ko": "노력을 계속하다."},
+      {"ja": "努力が実る。", "ko": "노력이 결실을 맺다."}
+    ]
+  },
+  {
+    "word": "内容",
+    "reading": "ないよう",
+    "meaning": "내용",
+    "meaningDetail": "안에 담긴 것",
+    "category": "명사",
+    "examples": [
+      {"ja": "内容を確認する。", "ko": "내용을 확인하다."},
+      {"ja": "メールの内容を読む。", "ko": "메일의 내용을 읽다."}
+    ]
+  },
+  {
+    "word": "流れ",
+    "reading": "ながれ",
+    "meaning": "흐름",
+    "meaningDetail": "흘러감",
+    "category": "명사",
+    "examples": [
+      {"ja": "時代の流れに乗る。", "ko": "시대의 흐름에 따르다."},
+      {"ja": "川の流れが速い。", "ko": "강의 흐름이 빠르다."}
+    ]
+  },
+  {
+    "word": "仲間",
+    "reading": "なかま",
+    "meaning": "동료, 친구",
+    "meaningDetail": "함께하는 사람",
+    "category": "명사",
+    "examples": [
+      {"ja": "仲間と協力する。", "ko": "동료와 협력하다."},
+      {"ja": "仲間に入る。", "ko": "친구가 되다."}
+    ]
+  },
+  {
+    "word": "悩み",
+    "reading": "なやみ",
+    "meaning": "고민",
+    "meaningDetail": "걱정거리",
+    "category": "명사",
+    "examples": [
+      {"ja": "悩みを相談する。", "ko": "고민을 상담하다."},
+      {"ja": "悩みが多い。", "ko": "고민이 많다."}
+    ]
+  },
+  {
+    "word": "日常",
+    "reading": "にちじょう",
+    "meaning": "일상",
+    "meaningDetail": "매일의 생활",
+    "category": "명사",
+    "examples": [
+      {"ja": "日常生活を送る。", "ko": "일상생활을 보내다."},
+      {"ja": "日常の中で。", "ko": "일상 속에서."}
+    ]
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "입학",
+    "meaningDetail": "학교에 들어감",
+    "category": "명사",
+    "examples": [
+      {"ja": "大学に入学する。", "ko": "대학에 입학하다."},
+      {"ja": "入学式に参加する。", "ko": "입학식에 참가하다."}
+    ]
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning": "열",
+    "meaningDetail": "뜨거움, 체온 상승",
+    "category": "명사",
+    "examples": [
+      {"ja": "熱がある。", "ko": "열이 있다."},
+      {"ja": "熱を測る。", "ko": "열을 재다."}
+    ]
+  },
+  {
+    "word": "能力",
+    "reading": "のうりょく",
+    "meaning": "능력",
+    "meaningDetail": "할 수 있는 힘",
+    "category": "명사",
+    "examples": [
+      {"ja": "能力を発揮する。", "ko": "능력을 발휘하다."},
+      {"ja": "能力が高い。", "ko": "능력이 높다."}
+    ]
+  }
+]

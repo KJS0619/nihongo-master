@@ -1,0 +1,539 @@
+[
+    {
+      "id": "n5_w126",
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "의자",
+      "meaningDetail": "앉기 위한 가구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "椅子に座ってください。", "reading": "いすにすわってください。", "ko": "의자에 앉아 주세요."},
+        {"ja": "この椅子は高いです。", "reading": "このいすはたかいです。", "ko": "이 의자는 비쌉니다."}
+      ],
+      "relatedWords": [
+        {"word": "机", "reading": "つくえ", "meaning": "책상", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "椅", "reading": "い", "meaning": "의자 의"},
+        {"char": "子", "reading": "す", "meaning": "아들 자"}
+      ],
+      "tags": ["가구", "일상"],
+      "frequency": 126
+    },
+    {
+      "id": "n5_w127",
+      "word": "机",
+      "reading": "つくえ",
+      "meaning": "책상",
+      "meaningDetail": "공부나 일을 하기 위한 가구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 1],
+      "examples": [
+        {"ja": "机の上に本があります。", "reading": "つくえのうえにほんがあります。", "ko": "책상 위에 책이 있습니다."},
+        {"ja": "机で勉強します。", "reading": "つくえでべんきょうします。", "ko": "책상에서 공부합니다."}
+      ],
+      "relatedWords": [
+        {"word": "椅子", "reading": "いす", "meaning": "의자", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "机", "reading": "つくえ", "meaning": "책상 궤"}
+      ],
+      "tags": ["가구", "학교"],
+      "frequency": 127
+    },
+    {
+      "id": "n5_w128",
+      "word": "ベッド",
+      "reading": "ベッド",
+      "meaning": "침대",
+      "meaningDetail": "잠을 자기 위한 가구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ベッドで寝ます。", "reading": "ベッドでねます。", "ko": "침대에서 잡니다."},
+        {"ja": "新しいベッドを買いました。", "reading": "あたらしいベッドをかいました。", "ko": "새 침대를 샀습니다."}
+      ],
+      "relatedWords": [
+        {"word": "寝る", "reading": "ねる", "meaning": "자다", "relation": "관련동사"}
+      ],
+      "kanji": [],
+      "tags": ["가구", "일상", "외래어"],
+      "frequency": 128
+    },
+    {
+      "id": "n5_w129",
+      "word": "テーブル",
+      "reading": "テーブル",
+      "meaning": "테이블",
+      "meaningDetail": "식사나 작업을 위한 탁자",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1],
+      "examples": [
+        {"ja": "テーブルの上に花があります。", "reading": "テーブルのうえにはながあります。", "ko": "테이블 위에 꽃이 있습니다."},
+        {"ja": "テーブルを拭きます。", "reading": "テーブルをふきます。", "ko": "테이블을 닦습니다."}
+      ],
+      "relatedWords": [
+        {"word": "椅子", "reading": "いす", "meaning": "의자", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["가구", "일상", "외래어"],
+      "frequency": 129
+    },
+    {
+      "id": "n5_w130",
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "전기, 전등",
+      "meaningDetail": "전력 또는 전등",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "電気をつけてください。", "reading": "でんきをつけてください。", "ko": "불을 켜 주세요."},
+        {"ja": "電気を消します。", "reading": "でんきをけします。", "ko": "불을 끕니다."}
+      ],
+      "relatedWords": [
+        {"word": "電話", "reading": "でんわ", "meaning": "전화", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "電", "reading": "でん", "meaning": "번개 전"},
+        {"char": "気", "reading": "き", "meaning": "기운 기"}
+      ],
+      "tags": ["생활", "가전"],
+      "frequency": 130
+    },
+    {
+      "id": "n5_w131",
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "냉장고",
+      "meaningDetail": "음식을 차갑게 보관하는 가전",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "冷蔵庫に牛乳があります。", "reading": "れいぞうこにぎゅうにゅうがあります。", "ko": "냉장고에 우유가 있습니다."},
+        {"ja": "冷蔵庫を開けます。", "reading": "れいぞうこをあけます。", "ko": "냉장고를 엽니다."}
+      ],
+      "relatedWords": [
+        {"word": "冷たい", "reading": "つめたい", "meaning": "차갑다", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "冷", "reading": "れい", "meaning": "찰 랭"},
+        {"char": "蔵", "reading": "ぞう", "meaning": "감출 장"},
+        {"char": "庫", "reading": "こ", "meaning": "곳집 고"}
+      ],
+      "tags": ["가전", "주방"],
+      "frequency": 131
+    },
+    {
+      "id": "n5_w132",
+      "word": "テレビ",
+      "reading": "テレビ",
+      "meaning": "텔레비전",
+      "meaningDetail": "영상을 보는 가전제품",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "テレビを見ます。", "reading": "テレビをみます。", "ko": "텔레비전을 봅니다."},
+        {"ja": "テレビをつけてください。", "reading": "テレビをつけてください。", "ko": "텔레비전을 켜 주세요."}
+      ],
+      "relatedWords": [
+        {"word": "ラジオ", "reading": "ラジオ", "meaning": "라디오", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["가전", "일상", "외래어"],
+      "frequency": 132
+    },
+    {
+      "id": "n5_w133",
+      "word": "ラジオ",
+      "reading": "ラジオ",
+      "meaning": "라디오",
+      "meaningDetail": "음성 방송을 듣는 기계",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ラジオを聞きます。", "reading": "ラジオをききます。", "ko": "라디오를 듣습니다."},
+        {"ja": "ラジオで音楽を聞きます。", "reading": "ラジオでおんがくをききます。", "ko": "라디오로 음악을 듣습니다."}
+      ],
+      "relatedWords": [
+        {"word": "テレビ", "reading": "テレビ", "meaning": "텔레비전", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["가전", "일상", "외래어"],
+      "frequency": 133
+    },
+    {
+      "id": "n5_w134",
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "시계",
+      "meaningDetail": "시간을 알려주는 도구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1],
+      "examples": [
+        {"ja": "時計を見てください。", "reading": "とけいをみてください。", "ko": "시계를 봐 주세요."},
+        {"ja": "この時計は正確です。", "reading": "このとけいはせいかくです。", "ko": "이 시계는 정확합니다."}
+      ],
+      "relatedWords": [
+        {"word": "時間", "reading": "じかん", "meaning": "시간", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "時", "reading": "と", "meaning": "때 시"},
+        {"char": "計", "reading": "けい", "meaning": "셀 계"}
+      ],
+      "tags": ["도구", "시간"],
+      "frequency": 134
+    },
+    {
+      "id": "n5_w135",
+      "word": "カメラ",
+      "reading": "カメラ",
+      "meaning": "카메라",
+      "meaningDetail": "사진을 찍는 도구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "カメラで写真を撮ります。", "reading": "カメラでしゃしんをとります。", "ko": "카메라로 사진을 찍습니다."},
+        {"ja": "新しいカメラを買いました。", "reading": "あたらしいカメラをかいました。", "ko": "새 카메라를 샀습니다."}
+      ],
+      "relatedWords": [
+        {"word": "写真", "reading": "しゃしん", "meaning": "사진", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["도구", "취미", "외래어"],
+      "frequency": 135
+    },
+    {
+      "id": "n5_w136",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "우산",
+      "meaningDetail": "비를 막기 위한 도구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "傘を持っていきます。", "reading": "かさをもっていきます。", "ko": "우산을 가져갑니다."},
+        {"ja": "傘をさしてください。", "reading": "かさをさしてください。", "ko": "우산을 펴 주세요."}
+      ],
+      "relatedWords": [
+        {"word": "雨", "reading": "あめ", "meaning": "비", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "傘", "reading": "かさ", "meaning": "우산 산"}
+      ],
+      "tags": ["도구", "날씨"],
+      "frequency": 136
+    },
+    {
+      "id": "n5_w137",
+      "word": "鍵",
+      "reading": "かぎ",
+      "meaning": "열쇠",
+      "meaningDetail": "문을 열거나 잠그는 도구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "鍵をかけてください。", "reading": "かぎをかけてください。", "ko": "문을 잠가 주세요."},
+        {"ja": "鍵をなくしました。", "reading": "かぎをなくしました。", "ko": "열쇠를 잃어버렸습니다."}
+      ],
+      "relatedWords": [
+        {"word": "ドア", "reading": "ドア", "meaning": "문", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "鍵", "reading": "かぎ", "meaning": "열쇠 건"}
+      ],
+      "tags": ["도구", "일상"],
+      "frequency": 137
+    },
+    {
+      "id": "n5_w138",
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "지갑",
+      "meaningDetail": "돈이나 카드를 넣는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1],
+      "examples": [
+        {"ja": "財布を忘れました。", "reading": "さいふをわすれました。", "ko": "지갑을 잊어버렸습니다."},
+        {"ja": "財布にお金がありません。", "reading": "さいふにおかねがありません。", "ko": "지갑에 돈이 없습니다."}
+      ],
+      "relatedWords": [
+        {"word": "お金", "reading": "おかね", "meaning": "돈", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "財", "reading": "さい", "meaning": "재물 재"},
+        {"char": "布", "reading": "ふ", "meaning": "베 포"}
+      ],
+      "tags": ["소지품", "금융"],
+      "frequency": 138
+    },
+    {
+      "id": "n5_w139",
+      "word": "鞄",
+      "reading": "かばん",
+      "meaning": "가방",
+      "meaningDetail": "물건을 넣어 들고 다니는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1],
+      "examples": [
+        {"ja": "鞄を持っています。", "reading": "かばんをもっています。", "ko": "가방을 들고 있습니다."},
+        {"ja": "鞄に本を入れます。", "reading": "かばんにほんをいれます。", "ko": "가방에 책을 넣습니다."}
+      ],
+      "relatedWords": [
+        {"word": "財布", "reading": "さいふ", "meaning": "지갑", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "鞄", "reading": "かばん", "meaning": "가방 포"}
+      ],
+      "tags": ["소지품", "일상"],
+      "frequency": 139
+    },
+    {
+      "id": "n5_w140",
+      "word": "靴",
+      "reading": "くつ",
+      "meaning": "신발",
+      "meaningDetail": "발에 신는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "靴を履きます。", "reading": "くつをはきます。", "ko": "신발을 신습니다."},
+        {"ja": "新しい靴を買いました。", "reading": "あたらしいくつをかいました。", "ko": "새 신발을 샀습니다."}
+      ],
+      "relatedWords": [
+        {"word": "靴下", "reading": "くつした", "meaning": "양말", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "靴", "reading": "くつ", "meaning": "신 화"}
+      ],
+      "tags": ["의류", "일상"],
+      "frequency": 140
+    },
+    {
+      "id": "n5_w141",
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "모자",
+      "meaningDetail": "머리에 쓰는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "帽子をかぶります。", "reading": "ぼうしをかぶります。", "ko": "모자를 씁니다."},
+        {"ja": "帽子を取ってください。", "reading": "ぼうしをとってください。", "ko": "모자를 벗어 주세요."}
+      ],
+      "relatedWords": [
+        {"word": "頭", "reading": "あたま", "meaning": "머리", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "帽", "reading": "ぼう", "meaning": "모자 모"},
+        {"char": "子", "reading": "し", "meaning": "아들 자"}
+      ],
+      "tags": ["의류", "일상"],
+      "frequency": 141
+    },
+    {
+      "id": "n5_w142",
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "안경",
+      "meaningDetail": "눈에 쓰는 교정 기구",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "眼鏡をかけています。", "reading": "めがねをかけています。", "ko": "안경을 쓰고 있습니다."},
+        {"ja": "眼鏡をなくしました。", "reading": "めがねをなくしました。", "ko": "안경을 잃어버렸습니다."}
+      ],
+      "relatedWords": [
+        {"word": "目", "reading": "め", "meaning": "눈", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "眼", "reading": "め", "meaning": "눈 안"},
+        {"char": "鏡", "reading": "がね", "meaning": "거울 경"}
+      ],
+      "tags": ["소지품", "건강"],
+      "frequency": 142
+    },
+    {
+      "id": "n5_w143",
+      "word": "服",
+      "reading": "ふく",
+      "meaning": "옷",
+      "meaningDetail": "몸에 입는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "服を着ます。", "reading": "ふくをきます。", "ko": "옷을 입습니다."},
+        {"ja": "新しい服を買いました。", "reading": "あたらしいふくをかいました。", "ko": "새 옷을 샀습니다."}
+      ],
+      "relatedWords": [
+        {"word": "洋服", "reading": "ようふく", "meaning": "양복", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "服", "reading": "ふく", "meaning": "옷 복"}
+      ],
+      "tags": ["의류", "일상"],
+      "frequency": 143
+    },
+    {
+      "id": "n5_w144",
+      "word": "シャツ",
+      "reading": "シャツ",
+      "meaning": "셔츠",
+      "meaningDetail": "상의의 일종",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "白いシャツを着ています。", "reading": "しろいシャツをきています。", "ko": "흰 셔츠를 입고 있습니다."},
+        {"ja": "シャツを洗います。", "reading": "シャツをあらいます。", "ko": "셔츠를 빨겠습니다."}
+      ],
+      "relatedWords": [
+        {"word": "服", "reading": "ふく", "meaning": "옷", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 144
+    },
+    {
+      "id": "n5_w145",
+      "word": "ズボン",
+      "reading": "ズボン",
+      "meaning": "바지",
+      "meaningDetail": "하의의 일종",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1],
+      "examples": [
+        {"ja": "ズボンを履きます。", "reading": "ズボンをはきます。", "ko": "바지를 입습니다."},
+        {"ja": "このズボンは長いです。", "reading": "このズボンはながいです。", "ko": "이 바지는 깁니다."}
+      ],
+      "relatedWords": [
+        {"word": "スカート", "reading": "スカート", "meaning": "스커트", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 145
+    },
+    {
+      "id": "n5_w146",
+      "word": "スカート",
+      "reading": "スカート",
+      "meaning": "스커트",
+      "meaningDetail": "여성용 하의",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "スカートを履いています。", "reading": "スカートをはいています。", "ko": "스커트를 입고 있습니다."},
+        {"ja": "短いスカートです。", "reading": "みじかいスカートです。", "ko": "짧은 스커트입니다."}
+      ],
+      "relatedWords": [
+        {"word": "ズボン", "reading": "ズボン", "meaning": "바지", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 146
+    },
+    {
+      "id": "n5_w147",
+      "word": "コート",
+      "reading": "コート",
+      "meaning": "코트",
+      "meaningDetail": "겨울에 입는 긴 외투",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "コートを着ます。", "reading": "コートをきます。", "ko": "코트를 입습니다."},
+        {"ja": "寒いのでコートが必要です。", "reading": "さむいのでコートがひつようです。", "ko": "추워서 코트가 필요합니다."}
+      ],
+      "relatedWords": [
+        {"word": "寒い", "reading": "さむい", "meaning": "춥다", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 147
+    },
+    {
+      "id": "n5_w148",
+      "word": "セーター",
+      "reading": "セーター",
+      "meaning": "스웨터",
+      "meaningDetail": "털로 짠 상의",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "セーターを着ています。", "reading": "セーターをきています。", "ko": "스웨터를 입고 있습니다."},
+        {"ja": "暖かいセーターです。", "reading": "あたたかいセーターです。", "ko": "따뜻한 스웨터입니다."}
+      ],
+      "relatedWords": [
+        {"word": "シャツ", "reading": "シャツ", "meaning": "셔츠", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 148
+    },
+    {
+      "id": "n5_w149",
+      "word": "ネクタイ",
+      "reading": "ネクタイ",
+      "meaning": "넥타이",
+      "meaningDetail": "셔츠 위에 매는 장식",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "ネクタイを締めます。", "reading": "ネクタイをしめます。", "ko": "넥타이를 맵니다."},
+        {"ja": "青いネクタイです。", "reading": "あおいネクタイです。", "ko": "파란 넥타이입니다."}
+      ],
+      "relatedWords": [
+        {"word": "シャツ", "reading": "シャツ", "meaning": "셔츠", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["의류", "외래어"],
+      "frequency": 149
+    },
+    {
+      "id": "n5_w150",
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "양말",
+      "meaningDetail": "발에 신는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "靴下を履きます。", "reading": "くつしたをはきます。", "ko": "양말을 신습니다."},
+        {"ja": "白い靴下です。", "reading": "しろいくつしたです。", "ko": "흰 양말입니다."}
+      ],
+      "relatedWords": [
+        {"word": "靴", "reading": "くつ", "meaning": "신발", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "靴", "reading": "くつ", "meaning": "신 화"},
+        {"char": "下", "reading": "した", "meaning": "아래 하"}
+      ],
+      "tags": ["의류", "일상"],
+      "frequency": 150
+    }
+]

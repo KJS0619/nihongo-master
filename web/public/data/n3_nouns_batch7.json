@@ -1,0 +1,502 @@
+[
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "meaningDetail": "해를 입음, 손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "台風で被害を受けた。", "ko": "태풍으로 피해를 입었다." }
+    ]
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning": "필요",
+    "meaningDetail": "꼭 있어야 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "ビザが必要です。", "ko": "비자가 필요합니다." }
+    ]
+  },
+  {
+    "word": "表現",
+    "reading": "ひょうげん",
+    "meaning": "표현",
+    "meaningDetail": "생각이나 감정을 나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "この表現は難しい。", "ko": "이 표현은 어렵다." }
+    ]
+  },
+  {
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaning": "평가",
+    "meaningDetail": "가치를 판단함",
+    "category": "명사",
+    "examples": [
+      { "ja": "高い評価を得た。", "ko": "높은 평가를 얻었다." }
+    ]
+  },
+  {
+    "word": "品質",
+    "reading": "ひんしつ",
+    "meaning": "품질",
+    "meaningDetail": "물건의 질",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質が良い。", "ko": "품질이 좋다." }
+    ]
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meaning": "불안",
+    "meaningDetail": "마음이 편하지 않음",
+    "category": "명사",
+    "examples": [
+      { "ja": "将来に不安を感じる。", "ko": "미래에 불안을 느낀다." }
+    ]
+  },
+  {
+    "word": "風景",
+    "reading": "ふうけい",
+    "meaning": "풍경",
+    "meaningDetail": "자연이나 거리의 경치",
+    "category": "명사",
+    "examples": [
+      { "ja": "美しい風景だ。", "ko": "아름다운 풍경이다." }
+    ]
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "복잡",
+    "meaningDetail": "얽혀 있어 간단하지 않음",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題が複雑だ。", "ko": "문제가 복잡하다." }
+    ]
+  },
+  {
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "물가",
+    "meaningDetail": "물건의 가격 수준",
+    "category": "명사",
+    "examples": [
+      { "ja": "物価が上がった。", "ko": "물가가 올랐다." }
+    ]
+  },
+  {
+    "word": "部門",
+    "reading": "ぶもん",
+    "meaning": "부문",
+    "meaningDetail": "분야, 영역",
+    "category": "명사",
+    "examples": [
+      { "ja": "営業部門に所属している。", "ko": "영업 부문에 소속되어 있다." }
+    ]
+  },
+  {
+    "word": "分野",
+    "reading": "ぶんや",
+    "meaning": "분야",
+    "meaningDetail": "활동하는 범위",
+    "category": "명사",
+    "examples": [
+      { "ja": "専門分野は何ですか。", "ko": "전문 분야는 무엇입니까?" }
+    ]
+  },
+  {
+    "word": "文化",
+    "reading": "ぶんか",
+    "meaning": "문화",
+    "meaningDetail": "사회의 생활 양식",
+    "category": "명사",
+    "examples": [
+      { "ja": "日本の文化に興味がある。", "ko": "일본 문화에 흥미가 있다." }
+    ]
+  },
+  {
+    "word": "文学",
+    "reading": "ぶんがく",
+    "meaning": "문학",
+    "meaningDetail": "시, 소설 등의 예술",
+    "category": "명사",
+    "examples": [
+      { "ja": "日本文学を勉強している。", "ko": "일본 문학을 공부하고 있다." }
+    ]
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaning": "평균",
+    "meaningDetail": "중간 정도의 값",
+    "category": "명사",
+    "examples": [
+      { "ja": "平均点は70点だ。", "ko": "평균 점수는 70점이다." }
+    ]
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "평화",
+    "meaningDetail": "전쟁이나 분쟁이 없는 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "世界平和を願う。", "ko": "세계 평화를 바란다." }
+    ]
+  },
+  {
+    "word": "別",
+    "reading": "べつ",
+    "meaning": "별, 다름",
+    "meaningDetail": "다른 것, 구별",
+    "category": "명사",
+    "examples": [
+      { "ja": "それは別の話だ。", "ko": "그것은 다른 이야기다." }
+    ]
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meaning": "변화",
+    "meaningDetail": "바뀜, 달라짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "気候の変化が激しい。", "ko": "기후 변화가 심하다." }
+    ]
+  },
+  {
+    "word": "返事",
+    "reading": "へんじ",
+    "meaning": "대답, 답장",
+    "meaningDetail": "물음에 대한 응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "返事を待っている。", "ko": "답장을 기다리고 있다." }
+    ]
+  },
+  {
+    "word": "方向",
+    "reading": "ほうこう",
+    "meaning": "방향",
+    "meaningDetail": "향하는 쪽",
+    "category": "명사",
+    "examples": [
+      { "ja": "駅はどの方向ですか。", "ko": "역은 어느 방향입니까?" }
+    ]
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "방침",
+    "meaningDetail": "일의 진행 방향",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社の方針に従う。", "ko": "회사 방침에 따른다." }
+    ]
+  },
+  {
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "방법",
+    "meaningDetail": "하는 방식",
+    "category": "명사",
+    "examples": [
+      { "ja": "いい方法を考えよう。", "ko": "좋은 방법을 생각하자." }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meaning": "법률",
+    "meaningDetail": "사회의 규칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を守る。", "ko": "법률을 지킨다." }
+    ]
+  },
+  {
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meaning": "본질",
+    "meaningDetail": "근본적인 성질",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題の本質を理解する。", "ko": "문제의 본질을 이해한다." }
+    ]
+  },
+  {
+    "word": "本来",
+    "reading": "ほんらい",
+    "meaning": "본래",
+    "meaningDetail": "원래",
+    "category": "명사",
+    "examples": [
+      { "ja": "本来の姿に戻る。", "ko": "본래의 모습으로 돌아간다." }
+    ]
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "매일",
+    "meaningDetail": "날마다",
+    "category": "명사",
+    "examples": [
+      { "ja": "毎日運動している。", "ko": "매일 운동하고 있다." }
+    ]
+  },
+  {
+    "word": "満足",
+    "reading": "まんぞく",
+    "meaning": "만족",
+    "meaningDetail": "충분히 채워짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果に満足している。", "ko": "결과에 만족하고 있다." }
+    ]
+  },
+  {
+    "word": "未来",
+    "reading": "みらい",
+    "meaning": "미래",
+    "meaningDetail": "앞으로 올 시간",
+    "category": "명사",
+    "examples": [
+      { "ja": "未来を考える。", "ko": "미래를 생각한다." }
+    ]
+  },
+  {
+    "word": "魅力",
+    "reading": "みりょく",
+    "meaning": "매력",
+    "meaningDetail": "끌리는 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "彼女は魅力的だ。", "ko": "그녀는 매력적이다." }
+    ]
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "meaning": "무리",
+    "meaningDetail": "억지로 함, 불가능",
+    "category": "명사",
+    "examples": [
+      { "ja": "無理をしないでください。", "ko": "무리하지 마세요." }
+    ]
+  },
+  {
+    "word": "明確",
+    "reading": "めいかく",
+    "meaning": "명확",
+    "meaningDetail": "분명하고 확실함",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を明確にする。", "ko": "목표를 명확히 한다." }
+    ]
+  },
+  {
+    "word": "免許",
+    "reading": "めんきょ",
+    "meaning": "면허",
+    "meaningDetail": "허가증",
+    "category": "명사",
+    "examples": [
+      { "ja": "運転免許を取った。", "ko": "운전면허를 땄다." }
+    ]
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "meaningDetail": "이루고자 하는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を達成する。", "ko": "목표를 달성한다." }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "meaningDetail": "하려는 의도",
+    "category": "명사",
+    "examples": [
+      { "ja": "旅行の目的は観光です。", "ko": "여행 목적은 관광입니다." }
+    ]
+  },
+  {
+    "word": "問題",
+    "reading": "もんだい",
+    "meaning": "문제",
+    "meaningDetail": "해결해야 할 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題を解決する。", "ko": "문제를 해결한다." }
+    ]
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meaning": "역할",
+    "meaningDetail": "맡은 임무",
+    "category": "명사",
+    "examples": [
+      { "ja": "重要な役割を果たす。", "ko": "중요한 역할을 한다." }
+    ]
+  },
+  {
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "약속",
+    "meaningDetail": "정한 것을 지키기로 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "約束を守る。", "ko": "약속을 지킨다." }
+    ]
+  },
+  {
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "meaningDetail": "외국으로 물건을 내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "車を輸出する。", "ko": "자동차를 수출한다." }
+    ]
+  },
+  {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "meaningDetail": "외국에서 물건을 들여옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "原油を輸入する。", "ko": "원유를 수입한다." }
+    ]
+  },
+  {
+    "word": "要因",
+    "reading": "よういん",
+    "meaning": "요인",
+    "meaningDetail": "원인이 되는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "成功の要因を分析する。", "ko": "성공 요인을 분석한다." }
+    ]
+  },
+  {
+    "word": "容量",
+    "reading": "ようりょう",
+    "meaning": "용량",
+    "meaningDetail": "들어갈 수 있는 양",
+    "category": "명사",
+    "examples": [
+      { "ja": "メモリの容量が足りない。", "ko": "메모리 용량이 부족하다." }
+    ]
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "예산",
+    "meaningDetail": "쓸 돈을 미리 계산함",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を立てる。", "ko": "예산을 세운다." }
+    ]
+  },
+  {
+    "word": "予定",
+    "reading": "よてい",
+    "meaning": "예정",
+    "meaningDetail": "미리 정한 계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "明日の予定は何ですか。", "ko": "내일 예정은 무엇입니까?" }
+    ]
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "예약",
+    "meaningDetail": "미리 약속함",
+    "category": "명사",
+    "examples": [
+      { "ja": "ホテルを予約する。", "ko": "호텔을 예약한다." }
+    ]
+  },
+  {
+    "word": "理解",
+    "reading": "りかい",
+    "meaning": "이해",
+    "meaningDetail": "알아서 깨달음",
+    "category": "명사",
+    "examples": [
+      { "ja": "彼の気持ちを理解する。", "ko": "그의 마음을 이해한다." }
+    ]
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "이유",
+    "meaningDetail": "까닭, 원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "理由を教えてください。", "ko": "이유를 알려주세요." }
+    ]
+  },
+  {
+    "word": "利用",
+    "reading": "りよう",
+    "meaning": "이용",
+    "meaningDetail": "쓰임, 사용",
+    "category": "명사",
+    "examples": [
+      { "ja": "図書館を利用する。", "ko": "도서관을 이용한다." }
+    ]
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "요금",
+    "meaningDetail": "서비스 대가로 내는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "電話料金を払う。", "ko": "전화요금을 낸다." }
+    ]
+  },
+  {
+    "word": "量",
+    "reading": "りょう",
+    "meaning": "양",
+    "meaningDetail": "분량",
+    "category": "명사",
+    "examples": [
+      { "ja": "量が多い。", "ko": "양이 많다." }
+    ]
+  },
+  {
+    "word": "領域",
+    "reading": "りょういき",
+    "meaning": "영역",
+    "meaningDetail": "범위, 분야",
+    "category": "명사",
+    "examples": [
+      { "ja": "専門の領域を広げる。", "ko": "전문 영역을 넓힌다." }
+    ]
+  },
+  {
+    "word": "歴史",
+    "reading": "れきし",
+    "meaning": "역사",
+    "meaningDetail": "과거의 기록",
+    "category": "명사",
+    "examples": [
+      { "ja": "日本の歴史を学ぶ。", "ko": "일본 역사를 배운다." }
+    ]
+  }
+]

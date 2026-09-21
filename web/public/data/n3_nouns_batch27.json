@@ -1,0 +1,482 @@
+[
+  {
+    "word": "医療",
+    "reading": "いりょう",
+    "meaning": "의료",
+    "meaningDetail": "의학 치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "医療を受ける。", "ko": "의료를 받다." }
+    ]
+  },
+  {
+    "word": "医師",
+    "reading": "いし",
+    "meaning": "의사",
+    "meaningDetail": "의료인",
+    "category": "명사",
+    "examples": [
+      { "ja": "医師に相談する。", "ko": "의사에게 상담하다." }
+    ]
+  },
+  {
+    "word": "看護師",
+    "reading": "かんごし",
+    "meaning": "간호사",
+    "meaningDetail": "간호인",
+    "category": "명사",
+    "examples": [
+      { "ja": "看護師が世話をする。", "ko": "간호사가 돌보다." }
+    ]
+  },
+  {
+    "word": "患者",
+    "reading": "かんじゃ",
+    "meaning": "환자",
+    "meaningDetail": "병자",
+    "category": "명사",
+    "examples": [
+      { "ja": "患者を診る。", "ko": "환자를 진찰하다." }
+    ]
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "병원",
+    "meaningDetail": "의료 시설",
+    "category": "명사",
+    "examples": [
+      { "ja": "病院に行く。", "ko": "병원에 가다." }
+    ]
+  },
+  {
+    "word": "診療",
+    "reading": "しんりょう",
+    "meaning": "진료",
+    "meaningDetail": "진찰 치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "診療を受ける。", "ko": "진료를 받다." }
+    ]
+  },
+  {
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "증상",
+    "meaningDetail": "병세",
+    "category": "명사",
+    "examples": [
+      { "ja": "症状が出る。", "ko": "증상이 나타나다." }
+    ]
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병",
+    "meaningDetail": "질환",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気になる。", "ko": "병에 걸리다." }
+    ]
+  },
+  {
+    "word": "怪我",
+    "reading": "けが",
+    "meaning": "부상",
+    "meaningDetail": "다침",
+    "category": "명사",
+    "examples": [
+      { "ja": "怪我をする。", "ko": "부상을 입다." }
+    ]
+  },
+  {
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning": "열",
+    "meaningDetail": "체온",
+    "category": "명사",
+    "examples": [
+      { "ja": "熱が出る。", "ko": "열이 나다." }
+    ]
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "약",
+    "meaningDetail": "의약품",
+    "category": "명사",
+    "examples": [
+      { "ja": "薬を飲む。", "ko": "약을 먹다." }
+    ]
+  },
+  {
+    "word": "注射",
+    "reading": "ちゅうしゃ",
+    "meaning": "주사",
+    "meaningDetail": "주삿바늘",
+    "category": "명사",
+    "examples": [
+      { "ja": "注射を打つ。", "ko": "주사를 놓다." }
+    ]
+  },
+  {
+    "word": "手術",
+    "reading": "しゅじゅつ",
+    "meaning": "수술",
+    "meaningDetail": "수술 치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "手術を受ける。", "ko": "수술을 받다." }
+    ]
+  },
+  {
+    "word": "入院",
+    "reading": "にゅういん",
+    "meaning": "입원",
+    "meaningDetail": "병원 입원",
+    "category": "명사",
+    "examples": [
+      { "ja": "入院が必要だ。", "ko": "입원이 필요하다." }
+    ]
+  },
+  {
+    "word": "退院",
+    "reading": "たいいん",
+    "meaning": "퇴원",
+    "meaningDetail": "병원 퇴원",
+    "category": "명사",
+    "examples": [
+      { "ja": "退院する。", "ko": "퇴원하다." }
+    ]
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "건강",
+    "meaningDetail": "건강함",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康を維持する。", "ko": "건강을 유지하다." }
+    ]
+  },
+  {
+    "word": "体調",
+    "reading": "たいちょう",
+    "meaning": "컨디션",
+    "meaningDetail": "몸 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "体調を崩す。", "ko": "컨디션이 나빠지다." }
+    ]
+  },
+  {
+    "word": "免疫",
+    "reading": "めんえき",
+    "meaning": "면역",
+    "meaningDetail": "저항력",
+    "category": "명사",
+    "examples": [
+      { "ja": "免疫を高める。", "ko": "면역을 높이다." }
+    ]
+  },
+  {
+    "word": "感染",
+    "reading": "かんせん",
+    "meaning": "감염",
+    "meaningDetail": "병 옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "感染を防ぐ。", "ko": "감염을 막다." }
+    ]
+  },
+  {
+    "word": "ウイルス",
+    "reading": "ういるす",
+    "meaning": "바이러스",
+    "meaningDetail": "병원체",
+    "category": "명사",
+    "examples": [
+      { "ja": "ウイルスが広がる。", "ko": "바이러스가 퍼지다." }
+    ]
+  },
+  {
+    "word": "細菌",
+    "reading": "さいきん",
+    "meaning": "세균",
+    "meaningDetail": "박테리아",
+    "category": "명사",
+    "examples": [
+      { "ja": "細菌を殺す。", "ko": "세균을 죽이다." }
+    ]
+  },
+  {
+    "word": "ワクチン",
+    "reading": "わくちん",
+    "meaning": "백신",
+    "meaningDetail": "예방 주사",
+    "category": "명사",
+    "examples": [
+      { "ja": "ワクチンを打つ。", "ko": "백신을 맞다." }
+    ]
+  },
+  {
+    "word": "アレルギー",
+    "reading": "あれるぎー",
+    "meaning": "알레르기",
+    "meaningDetail": "과민 반응",
+    "category": "명사",
+    "examples": [
+      { "ja": "アレルギーがある。", "ko": "알레르기가 있다." }
+    ]
+  },
+  {
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaning": "영양",
+    "meaningDetail": "영양분",
+    "category": "명사",
+    "examples": [
+      { "ja": "栄養を取る。", "ko": "영양을 섭취하다." }
+    ]
+  },
+  {
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "식사",
+    "meaningDetail": "밥 먹기",
+    "category": "명사",
+    "examples": [
+      { "ja": "食事をする。", "ko": "식사를 하다." }
+    ]
+  },
+  {
+    "word": "食材",
+    "reading": "しょくざい",
+    "meaning": "식재료",
+    "meaningDetail": "요리 재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "食材を買う。", "ko": "식재료를 사다." }
+    ]
+  },
+  {
+    "word": "調理",
+    "reading": "ちょうり",
+    "meaning": "조리",
+    "meaningDetail": "요리",
+    "category": "명사",
+    "examples": [
+      { "ja": "調理をする。", "ko": "조리를 하다." }
+    ]
+  },
+  {
+    "word": "レシピ",
+    "reading": "れしぴ",
+    "meaning": "레시피",
+    "meaningDetail": "요리법",
+    "category": "명사",
+    "examples": [
+      { "ja": "レシピを見る。", "ko": "레시피를 보다." }
+    ]
+  },
+  {
+    "word": "味付け",
+    "reading": "あじつけ",
+    "meaning": "간",
+    "meaningDetail": "양념",
+    "category": "명사",
+    "examples": [
+      { "ja": "味付けをする。", "ko": "간을 하다." }
+    ]
+  },
+  {
+    "word": "調味料",
+    "reading": "ちょうみりょう",
+    "meaning": "조미료",
+    "meaningDetail": "양념",
+    "category": "명사",
+    "examples": [
+      { "ja": "調味料を加える。", "ko": "조미료를 넣다." }
+    ]
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "meaningDetail": "원료",
+    "category": "명사",
+    "examples": [
+      { "ja": "材料を準備する。", "ko": "재료를 준비하다." }
+    ]
+  },
+  {
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaning": "원료",
+    "meaningDetail": "기본 재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "原料を加工する。", "ko": "원료를 가공하다." }
+    ]
+  },
+  {
+    "word": "製品",
+    "reading": "せいひん",
+    "meaning": "제품",
+    "meaningDetail": "만든 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を販売する。", "ko": "제품을 판매하다." }
+    ]
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaning": "상품",
+    "meaningDetail": "파는 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を選ぶ。", "ko": "상품을 고르다." }
+    ]
+  },
+  {
+    "word": "品質",
+    "reading": "ひんしつ",
+    "meaning": "품질",
+    "meaningDetail": "물건 질",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質を確認する。", "ko": "품질을 확인하다." }
+    ]
+  },
+  {
+    "word": "価格",
+    "reading": "かかく",
+    "meaning": "가격",
+    "meaningDetail": "값",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格を下げる。", "ko": "가격을 내리다." }
+    ]
+  },
+  {
+    "word": "消費",
+    "reading": "しょうひ",
+    "meaning": "소비",
+    "meaningDetail": "쓰기",
+    "category": "명사",
+    "examples": [
+      { "ja": "消費が増える。", "ko": "소비가 늘다." }
+    ]
+  },
+  {
+    "word": "生産",
+    "reading": "せいさん",
+    "meaning": "생산",
+    "meaningDetail": "만들기",
+    "category": "명사",
+    "examples": [
+      { "ja": "生産を増やす。", "ko": "생산을 늘리다." }
+    ]
+  },
+  {
+    "word": "流通",
+    "reading": "りゅうつう",
+    "meaning": "유통",
+    "meaningDetail": "물건 흐름",
+    "category": "명사",
+    "examples": [
+      { "ja": "流通を改善する。", "ko": "유통을 개선하다." }
+    ]
+  },
+  {
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "meaningDetail": "내보내기",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸出を増やす。", "ko": "수출을 늘리다." }
+    ]
+  },
+  {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "meaningDetail": "들여오기",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸入に頼る。", "ko": "수입에 의존하다." }
+    ]
+  },
+  {
+    "word": "貿易",
+    "reading": "ぼうえき",
+    "meaning": "무역",
+    "meaningDetail": "국제 거래",
+    "category": "명사",
+    "examples": [
+      { "ja": "貿易を行う。", "ko": "무역을 하다." }
+    ]
+  },
+  {
+    "word": "関税",
+    "reading": "かんぜい",
+    "meaning": "관세",
+    "meaningDetail": "수입세",
+    "category": "명사",
+    "examples": [
+      { "ja": "関税を払う。", "ko": "관세를 내다." }
+    ]
+  },
+  {
+    "word": "為替",
+    "reading": "かわせ",
+    "meaning": "환전",
+    "meaningDetail": "화폐 교환",
+    "category": "명사",
+    "examples": [
+      { "ja": "為替レートが変わる。", "ko": "환율이 바뀌다." }
+    ]
+  },
+  {
+    "word": "景気",
+    "reading": "けいき",
+    "meaning": "경기",
+    "meaningDetail": "경제 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "景気が良い。", "ko": "경기가 좋다." }
+    ]
+  },
+  {
+    "word": "不況",
+    "reading": "ふきょう",
+    "meaning": "불황",
+    "meaningDetail": "경기 침체",
+    "category": "명사",
+    "examples": [
+      { "ja": "不況が続く。", "ko": "불황이 계속되다." }
+    ]
+  },
+  {
+    "word": "好況",
+    "reading": "こうきょう",
+    "meaning": "호황",
+    "meaningDetail": "경기 호전",
+    "category": "명사",
+    "examples": [
+      { "ja": "好況が続く。", "ko": "호황이 계속되다." }
+    ]
+  },
+  {
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "물가",
+    "meaningDetail": "물건 가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "物価が上がる。", "ko": "물가가 오르다." }
+    ]
+  }
+]

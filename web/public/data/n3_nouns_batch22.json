@@ -1,0 +1,492 @@
+[
+  {
+    "word": "税金",
+    "reading": "ぜいきん",
+    "meaning": "세금",
+    "meaningDetail": "세",
+    "category": "명사",
+    "examples": [
+      { "ja": "税金を払う。", "ko": "세금을 낸다." }
+    ]
+  },
+  {
+    "word": "所得",
+    "reading": "しょとく",
+    "meaning": "소득",
+    "meaningDetail": "버는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "所得税を申告する。", "ko": "소득세를 신고한다." }
+    ]
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "급료",
+    "meaningDetail": "월급",
+    "category": "명사",
+    "examples": [
+      { "ja": "給料が上がる。", "ko": "급료가 오른다." }
+    ]
+  },
+  {
+    "word": "賃金",
+    "reading": "ちんぎん",
+    "meaning": "임금",
+    "meaningDetail": "품삯",
+    "category": "명사",
+    "examples": [
+      { "ja": "賃金を支払う。", "ko": "임금을 지불한다." }
+    ]
+  },
+  {
+    "word": "報酬",
+    "reading": "ほうしゅう",
+    "meaning": "보수",
+    "meaningDetail": "대가",
+    "category": "명사",
+    "examples": [
+      { "ja": "報酬を受け取る。", "ko": "보수를 받는다." }
+    ]
+  },
+  {
+    "word": "手当",
+    "reading": "てあて",
+    "meaning": "수당",
+    "meaningDetail": "추가 급여",
+    "category": "명사",
+    "examples": [
+      { "ja": "残業手当を受ける。", "ko": "잔업 수당을 받는다." }
+    ]
+  },
+  {
+    "word": "年金",
+    "reading": "ねんきん",
+    "meaning": "연금",
+    "meaningDetail": "노후 급여",
+    "category": "명사",
+    "examples": [
+      { "ja": "年金を受け取る。", "ko": "연금을 받는다." }
+    ]
+  },
+  {
+    "word": "福祉",
+    "reading": "ふくし",
+    "meaning": "복지",
+    "meaningDetail": "삶의 질",
+    "category": "명사",
+    "examples": [
+      { "ja": "福祉を充実させる。", "ko": "복지를 충실하게 한다." }
+    ]
+  },
+  {
+    "word": "医療",
+    "reading": "いりょう",
+    "meaning": "의료",
+    "meaningDetail": "치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "医療を受ける。", "ko": "의료를 받는다." }
+    ]
+  },
+  {
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "간호",
+    "meaningDetail": "돌봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "介護が必要だ。", "ko": "간호가 필요하다." }
+    ]
+  },
+  {
+    "word": "看護",
+    "reading": "かんご",
+    "meaning": "간호",
+    "meaningDetail": "돌봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "看護師になる。", "ko": "간호사가 된다." }
+    ]
+  },
+  {
+    "word": "救急",
+    "reading": "きゅうきゅう",
+    "meaning": "응급",
+    "meaningDetail": "긴급 처치",
+    "category": "명사",
+    "examples": [
+      { "ja": "救急車を呼ぶ。", "ko": "구급차를 부른다." }
+    ]
+  },
+  {
+    "word": "応急",
+    "reading": "おうきゅう",
+    "meaning": "응급",
+    "meaningDetail": "임시 처치",
+    "category": "명사",
+    "examples": [
+      { "ja": "応急処置をする。", "ko": "응급 처치를 한다." }
+    ]
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "병원",
+    "meaningDetail": "의료 기관",
+    "category": "명사",
+    "examples": [
+      { "ja": "病院に行く。", "ko": "병원에 간다." }
+    ]
+  },
+  {
+    "word": "診療",
+    "reading": "しんりょう",
+    "meaning": "진료",
+    "meaningDetail": "치료",
+    "category": "명사",
+    "examples": [
+      { "ja": "診療を受ける。", "ko": "진료를 받는다." }
+    ]
+  },
+  {
+    "word": "処方",
+    "reading": "しょほう",
+    "meaning": "처방",
+    "meaningDetail": "약 지정",
+    "category": "명사",
+    "examples": [
+      { "ja": "処方箋をもらう。", "ko": "처방전을 받는다." }
+    ]
+  },
+  {
+    "word": "薬品",
+    "reading": "やくひん",
+    "meaning": "약품",
+    "meaningDetail": "약",
+    "category": "명사",
+    "examples": [
+      { "ja": "薬品を扱う。", "ko": "약품을 다룬다." }
+    ]
+  },
+  {
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "증상",
+    "meaningDetail": "병의 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "症状が出る。", "ko": "증상이 나타난다." }
+    ]
+  },
+  {
+    "word": "病状",
+    "reading": "びょうじょう",
+    "meaning": "병상",
+    "meaningDetail": "병의 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "病状が悪化する。", "ko": "병상이 악화한다." }
+    ]
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병",
+    "meaningDetail": "질병",
+    "category": "명사",
+    "examples": [
+      { "ja": "病気になる。", "ko": "병이 나다." }
+    ]
+  },
+  {
+    "word": "疾患",
+    "reading": "しっかん",
+    "meaning": "질환",
+    "meaningDetail": "병",
+    "category": "명사",
+    "examples": [
+      { "ja": "心臓疾患がある。", "ko": "심장 질환이 있다." }
+    ]
+  },
+  {
+    "word": "感染",
+    "reading": "かんせん",
+    "meaning": "감염",
+    "meaningDetail": "병이 옮음",
+    "category": "명사",
+    "examples": [
+      { "ja": "感染を防ぐ。", "ko": "감염을 막는다." }
+    ]
+  },
+  {
+    "word": "伝染",
+    "reading": "でんせん",
+    "meaning": "전염",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "伝染病が流行する。", "ko": "전염병이 유행한다." }
+    ]
+  },
+  {
+    "word": "流行",
+    "reading": "りゅうこう",
+    "meaning": "유행",
+    "meaningDetail": "퍼짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "流行に乗る。", "ko": "유행을 따른다." }
+    ]
+  },
+  {
+    "word": "予防",
+    "reading": "よぼう",
+    "meaning": "예방",
+    "meaningDetail": "미리 막음",
+    "category": "명사",
+    "examples": [
+      { "ja": "予防接種を受ける。", "ko": "예방 접종을 받는다." }
+    ]
+  },
+  {
+    "word": "接種",
+    "reading": "せっしゅ",
+    "meaning": "접종",
+    "meaningDetail": "백신 투여",
+    "category": "명사",
+    "examples": [
+      { "ja": "ワクチンを接種する。", "ko": "백신을 접종한다." }
+    ]
+  },
+  {
+    "word": "免疫",
+    "reading": "めんえき",
+    "meaning": "면역",
+    "meaningDetail": "저항력",
+    "category": "명사",
+    "examples": [
+      { "ja": "免疫を高める。", "ko": "면역을 높인다." }
+    ]
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "건강",
+    "meaningDetail": "몸 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康を維持する。", "ko": "건강을 유지한다." }
+    ]
+  },
+  {
+    "word": "体調",
+    "reading": "たいちょう",
+    "meaning": "컨디션",
+    "meaningDetail": "몸 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "体調を崩す。", "ko": "컨디션이 나빠진다." }
+    ]
+  },
+  {
+    "word": "状態",
+    "reading": "じょうたい",
+    "meaning": "상태",
+    "meaningDetail": "모양",
+    "category": "명사",
+    "examples": [
+      { "ja": "状態が良い。", "ko": "상태가 좋다." }
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "meaningDetail": "형편",
+    "category": "명사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악한다." }
+    ]
+  },
+  {
+    "word": "事態",
+    "reading": "じたい",
+    "meaning": "사태",
+    "meaningDetail": "상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "事態が悪化する。", "ko": "사태가 악화한다." }
+    ]
+  },
+  {
+    "word": "事情",
+    "reading": "じじょう",
+    "meaning": "사정",
+    "meaningDetail": "형편",
+    "category": "명사",
+    "examples": [
+      { "ja": "事情を説明する。", "ko": "사정을 설명한다." }
+    ]
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "환경",
+    "meaningDetail": "주위",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境を守る。", "ko": "환경을 지킨다." }
+    ]
+  },
+  {
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "자연",
+    "meaningDetail": "천연",
+    "category": "명사",
+    "examples": [
+      { "ja": "自然を守る。", "ko": "자연을 지킨다." }
+    ]
+  },
+  {
+    "word": "生態",
+    "reading": "せいたい",
+    "meaning": "생태",
+    "meaningDetail": "생물 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "生態系を破壊する。", "ko": "생태계를 파괴한다." }
+    ]
+  },
+  {
+    "word": "汚染",
+    "reading": "おせん",
+    "meaning": "오염",
+    "meaningDetail": "더러워짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境汚染が進む。", "ko": "환경 오염이 진행된다." }
+    ]
+  },
+  {
+    "word": "公害",
+    "reading": "こうがい",
+    "meaning": "공해",
+    "meaningDetail": "환경 피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "公害を防ぐ。", "ko": "공해를 막는다." }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "재해",
+    "meaningDetail": "재앙",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비한다." }
+    ]
+  },
+  {
+    "word": "天災",
+    "reading": "てんさい",
+    "meaning": "천재",
+    "meaningDetail": "자연재해",
+    "category": "명사",
+    "examples": [
+      { "ja": "天災が起きる。", "ko": "천재가 일어난다." }
+    ]
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "지진",
+    "meaningDetail": "땅 흔들림",
+    "category": "명사",
+    "examples": [
+      { "ja": "地震が発生する。", "ko": "지진이 발생한다." }
+    ]
+  },
+  {
+    "word": "津波",
+    "reading": "つなみ",
+    "meaning": "쓰나미",
+    "meaningDetail": "지진 해일",
+    "category": "명사",
+    "examples": [
+      { "ja": "津波に備える。", "ko": "쓰나미에 대비한다." }
+    ]
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "태풍",
+    "meaningDetail": "폭풍",
+    "category": "명사",
+    "examples": [
+      { "ja": "台風が接近する。", "ko": "태풍이 접근한다." }
+    ]
+  },
+  {
+    "word": "洪水",
+    "reading": "こうずい",
+    "meaning": "홍수",
+    "meaningDetail": "큰 물",
+    "category": "명사",
+    "examples": [
+      { "ja": "洪水が起きる。", "ko": "홍수가 일어난다." }
+    ]
+  },
+  {
+    "word": "土砂",
+    "reading": "どしゃ",
+    "meaning": "토사",
+    "meaningDetail": "흙과 모래",
+    "category": "명사",
+    "examples": [
+      { "ja": "土砂崩れが起きる。", "ko": "토사 붕괴가 일어난다." }
+    ]
+  },
+  {
+    "word": "火災",
+    "reading": "かさい",
+    "meaning": "화재",
+    "meaningDetail": "불",
+    "category": "명사",
+    "examples": [
+      { "ja": "火災が発生する。", "ko": "화재가 발생한다." }
+    ]
+  },
+  {
+    "word": "消防",
+    "reading": "しょうぼう",
+    "meaning": "소방",
+    "meaningDetail": "불 끄기",
+    "category": "명사",
+    "examples": [
+      { "ja": "消防車が来る。", "ko": "소방차가 온다." }
+    ]
+  },
+  {
+    "word": "避難",
+    "reading": "ひなん",
+    "meaning": "피난",
+    "meaningDetail": "도망",
+    "category": "명사",
+    "examples": [
+      { "ja": "避難所に行く。", "ko": "피난소에 간다." }
+    ]
+  },
+  {
+    "word": "救助",
+    "reading": "きゅうじょ",
+    "meaning": "구조",
+    "meaningDetail": "구함",
+    "category": "명사",
+    "examples": [
+      { "ja": "救助活動を行う。", "ko": "구조 활동을 한다." }
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "主催",
+    "reading": "しゅさい",
+    "meaning": "주최",
+    "meaningDetail": "운영",
+    "category": "명사",
+    "examples": [
+      { "ja": "イベントを主催する。", "ko": "이벤트를 주최하다." }
+    ]
+  },
+  {
+    "word": "協賛",
+    "reading": "きょうさん",
+    "meaning": "협찬",
+    "meaningDetail": "후원",
+    "category": "명사",
+    "examples": [
+      { "ja": "協賛を得る。", "ko": "협찬을 받다." }
+    ]
+  },
+  {
+    "word": "後援",
+    "reading": "こうえん",
+    "meaning": "후원",
+    "meaningDetail": "지원",
+    "category": "명사",
+    "examples": [
+      { "ja": "後援を受ける。", "ko": "후원을 받다." }
+    ]
+  },
+  {
+    "word": "支援",
+    "reading": "しえん",
+    "meaning": "지원",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "支援を求める。", "ko": "지원을 구하다." }
+    ]
+  },
+  {
+    "word": "援助",
+    "reading": "えんじょ",
+    "meaning": "원조",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "援助を行う。", "ko": "원조를 행하다." }
+    ]
+  },
+  {
+    "word": "寄付",
+    "reading": "きふ",
+    "meaning": "기부",
+    "meaningDetail": "헌금",
+    "category": "명사",
+    "examples": [
+      { "ja": "寄付を募る。", "ko": "기부를 모으다." }
+    ]
+  },
+  {
+    "word": "募金",
+    "reading": "ぼきん",
+    "meaning": "모금",
+    "meaningDetail": "기금",
+    "category": "명사",
+    "examples": [
+      { "ja": "募金活動を行う。", "ko": "모금 활동을 하다." }
+    ]
+  },
+  {
+    "word": "義援金",
+    "reading": "ぎえんきん",
+    "meaning": "의연금",
+    "meaningDetail": "성금",
+    "category": "명사",
+    "examples": [
+      { "ja": "義援金を送る。", "ko": "의연금을 보내다." }
+    ]
+  },
+  {
+    "word": "ボランティア",
+    "reading": "ぼらんてぃあ",
+    "meaning": "자원봉사",
+    "meaningDetail": "봉사",
+    "category": "명사",
+    "examples": [
+      { "ja": "ボランティアに参加する。", "ko": "자원봉사에 참가하다." }
+    ]
+  },
+  {
+    "word": "奉仕",
+    "reading": "ほうし",
+    "meaning": "봉사",
+    "meaningDetail": "서비스",
+    "category": "명사",
+    "examples": [
+      { "ja": "社会奉仕をする。", "ko": "사회 봉사를 하다." }
+    ]
+  },
+  {
+    "word": "慈善",
+    "reading": "じぜん",
+    "meaning": "자선",
+    "meaningDetail": "박애",
+    "category": "명사",
+    "examples": [
+      { "ja": "慈善活動を行う。", "ko": "자선 활동을 하다." }
+    ]
+  },
+  {
+    "word": "福祉",
+    "reading": "ふくし",
+    "meaning": "복지",
+    "meaningDetail": "후생",
+    "category": "명사",
+    "examples": [
+      { "ja": "福祉を充実させる。", "ko": "복지를 충실히 하다." }
+    ]
+  },
+  {
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "간호",
+    "meaningDetail": "돌봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "介護を必要とする。", "ko": "간호가 필요하다." }
+    ]
+  },
+  {
+    "word": "看護",
+    "reading": "かんご",
+    "meaning": "간호",
+    "meaningDetail": "돌봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "看護師になる。", "ko": "간호사가 되다." }
+    ]
+  },
+  {
+    "word": "保育",
+    "reading": "ほいく",
+    "meaning": "보육",
+    "meaningDetail": "양육",
+    "category": "명사",
+    "examples": [
+      { "ja": "保育園に預ける。", "ko": "보육원에 맡기다." }
+    ]
+  },
+  {
+    "word": "育児",
+    "reading": "いくじ",
+    "meaning": "육아",
+    "meaningDetail": "양육",
+    "category": "명사",
+    "examples": [
+      { "ja": "育児に専念する。", "ko": "육아에 전념하다." }
+    ]
+  },
+  {
+    "word": "養育",
+    "reading": "よういく",
+    "meaning": "양육",
+    "meaningDetail": "기르기",
+    "category": "명사",
+    "examples": [
+      { "ja": "子どもを養育する。", "ko": "아이를 양육하다." }
+    ]
+  },
+  {
+    "word": "扶養",
+    "reading": "ふよう",
+    "meaning": "부양",
+    "meaningDetail": "생계 책임",
+    "category": "명사",
+    "examples": [
+      { "ja": "家族を扶養する。", "ko": "가족을 부양하다." }
+    ]
+  },
+  {
+    "word": "相続",
+    "reading": "そうぞく",
+    "meaning": "상속",
+    "meaningDetail": "계승",
+    "category": "명사",
+    "examples": [
+      { "ja": "財産を相続する。", "ko": "재산을 상속하다." }
+    ]
+  },
+  {
+    "word": "遺産",
+    "reading": "いさん",
+    "meaning": "유산",
+    "meaningDetail": "상속재산",
+    "category": "명사",
+    "examples": [
+      { "ja": "遺産を受け継ぐ。", "ko": "유산을 물려받다." }
+    ]
+  },
+  {
+    "word": "財産",
+    "reading": "ざいさん",
+    "meaning": "재산",
+    "meaningDetail": "자산",
+    "category": "명사",
+    "examples": [
+      { "ja": "財産を管理する。", "ko": "재산을 관리하다." }
+    ]
+  },
+  {
+    "word": "資産",
+    "reading": "しさん",
+    "meaning": "자산",
+    "meaningDetail": "재산",
+    "category": "명사",
+    "examples": [
+      { "ja": "資産を運用する。", "ko": "자산을 운용하다." }
+    ]
+  },
+  {
+    "word": "負債",
+    "reading": "ふさい",
+    "meaning": "부채",
+    "meaningDetail": "빚",
+    "category": "명사",
+    "examples": [
+      { "ja": "負債を抱える。", "ko": "부채를 지다." }
+    ]
+  },
+  {
+    "word": "借金",
+    "reading": "しゃっきん",
+    "meaning": "빚",
+    "meaningDetail": "차입금",
+    "category": "명사",
+    "examples": [
+      { "ja": "借金を返す。", "ko": "빚을 갚다." }
+    ]
+  },
+  {
+    "word": "返済",
+    "reading": "へんさい",
+    "meaning": "상환",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "返済を完了する。", "ko": "상환을 완료하다." }
+    ]
+  },
+  {
+    "word": "弁済",
+    "reading": "べんさい",
+    "meaning": "변제",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "弁済を求める。", "ko": "변제를 요구하다." }
+    ]
+  },
+  {
+    "word": "償還",
+    "reading": "しょうかん",
+    "meaning": "상환",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "国債を償還する。", "ko": "국채를 상환하다." }
+    ]
+  },
+  {
+    "word": "賠償",
+    "reading": "ばいしょう",
+    "meaning": "배상",
+    "meaningDetail": "보상",
+    "category": "명사",
+    "examples": [
+      { "ja": "賠償を請求する。", "ko": "배상을 청구하다." }
+    ]
+  },
+  {
+    "word": "補償",
+    "reading": "ほしょう",
+    "meaning": "보상",
+    "meaningDetail": "배상",
+    "category": "명사",
+    "examples": [
+      { "ja": "補償を受ける。", "ko": "보상을 받다." }
+    ]
+  },
+  {
+    "word": "保障",
+    "reading": "ほしょう",
+    "meaning": "보장",
+    "meaningDetail": "담보",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を保障する。", "ko": "안전을 보장하다." }
+    ]
+  },
+  {
+    "word": "保証",
+    "reading": "ほしょう",
+    "meaning": "보증",
+    "meaningDetail": "담보",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質を保証する。", "ko": "품질을 보증하다." }
+    ]
+  },
+  {
+    "word": "担保",
+    "reading": "たんぽ",
+    "meaning": "담보",
+    "meaningDetail": "보증",
+    "category": "명사",
+    "examples": [
+      { "ja": "担保を設定する。", "ko": "담보를 설정하다." }
+    ]
+  },
+  {
+    "word": "抵当",
+    "reading": "ていとう",
+    "meaning": "저당",
+    "meaningDetail": "담보",
+    "category": "명사",
+    "examples": [
+      { "ja": "抵当に入れる。", "ko": "저당에 넣다." }
+    ]
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "계약",
+    "meaningDetail": "합의",
+    "category": "명사",
+    "examples": [
+      { "ja": "契約を結ぶ。", "ko": "계약을 맺다." }
+    ]
+  },
+  {
+    "word": "協定",
+    "reading": "きょうてい",
+    "meaning": "협정",
+    "meaningDetail": "합의",
+    "category": "명사",
+    "examples": [
+      { "ja": "協定を締結する。", "ko": "협정을 체결하다." }
+    ]
+  },
+  {
+    "word": "条約",
+    "reading": "じょうやく",
+    "meaning": "조약",
+    "meaningDetail": "협정",
+    "category": "명사",
+    "examples": [
+      { "ja": "条約を批准する。", "ko": "조약을 비준하다." }
+    ]
+  },
+  {
+    "word": "規約",
+    "reading": "きやく",
+    "meaning": "규약",
+    "meaningDetail": "규칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "規約に従う。", "ko": "규약을 따르다." }
+    ]
+  },
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "규정",
+    "category": "명사",
+    "examples": [
+      { "ja": "規則を守る。", "ko": "규칙을 지키다." }
+    ]
+  },
+  {
+    "word": "規定",
+    "reading": "きてい",
+    "meaning": "규정",
+    "meaningDetail": "조항",
+    "category": "명사",
+    "examples": [
+      { "ja": "規定に基づく。", "ko": "규정에 기초하다." }
+    ]
+  },
+  {
+    "word": "条項",
+    "reading": "じょうこう",
+    "meaning": "조항",
+    "meaningDetail": "항목",
+    "category": "명사",
+    "examples": [
+      { "ja": "条項を確認する。", "ko": "조항을 확인하다." }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "요건",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족하다." }
+    ]
+  },
+  {
+    "word": "要件",
+    "reading": "ようけん",
+    "meaning": "요건",
+    "meaningDetail": "조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "要件を確認する。", "ko": "요건을 확인하다." }
+    ]
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "전제",
+    "meaningDetail": "가정",
+    "category": "명사",
+    "examples": [
+      { "ja": "前提を置く。", "ko": "전제를 두다." }
+    ]
+  },
+  {
+    "word": "仮定",
+    "reading": "かてい",
+    "meaning": "가정",
+    "meaningDetail": "추정",
+    "category": "명사",
+    "examples": [
+      { "ja": "仮定を立てる。", "ko": "가정을 세우다." }
+    ]
+  },
+  {
+    "word": "想定",
+    "reading": "そうてい",
+    "meaning": "상정",
+    "meaningDetail": "가정",
+    "category": "명사",
+    "examples": [
+      { "ja": "想定外の事態。", "ko": "상정 밖의 사태." }
+    ]
+  },
+  {
+    "word": "推定",
+    "reading": "すいてい",
+    "meaning": "추정",
+    "meaningDetail": "추측",
+    "category": "명사",
+    "examples": [
+      { "ja": "推定で計算する。", "ko": "추정으로 계산하다." }
+    ]
+  },
+  {
+    "word": "測定",
+    "reading": "そくてい",
+    "meaning": "측정",
+    "meaningDetail": "계측",
+    "category": "명사",
+    "examples": [
+      { "ja": "温度を測定する。", "ko": "온도를 측정하다." }
+    ]
+  },
+  {
+    "word": "計測",
+    "reading": "けいそく",
+    "meaning": "계측",
+    "meaningDetail": "측정",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを計測する。", "ko": "데이터를 계측하다." }
+    ]
+  }
+]

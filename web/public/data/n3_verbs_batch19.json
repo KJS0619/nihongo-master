@@ -1,0 +1,541 @@
+[
+  {
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning": "불다",
+    "meaningDetail": "바람이 불다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "風が吹く。", "ko": "바람이 불다." }
+    ]
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "빨다",
+    "meaningDetail": "들이마시다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "息を吸う。", "ko": "숨을 들이마시다." }
+    ]
+  },
+  {
+    "word": "吐く",
+    "reading": "はく",
+    "meaning": "토하다",
+    "meaningDetail": "내뱉다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "息を吐く。", "ko": "숨을 내쉬다." }
+    ]
+  },
+  {
+    "word": "燃える",
+    "reading": "もえる",
+    "meaning": "타다",
+    "meaningDetail": "불타다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "火が燃える。", "ko": "불이 타다." }
+    ]
+  },
+  {
+    "word": "燃やす",
+    "reading": "もやす",
+    "meaning": "태우다",
+    "meaningDetail": "불태우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ゴミを燃やす。", "ko": "쓰레기를 태우다." }
+    ]
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "끄다",
+    "meaningDetail": "없애다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電気を消す。", "ko": "전기를 끄다." }
+    ]
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "meaning": "사라지다",
+    "meaningDetail": "없어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "姿が消える。", "ko": "모습이 사라지다." }
+    ]
+  },
+  {
+    "word": "点ける",
+    "reading": "つける",
+    "meaning": "켜다",
+    "meaningDetail": "불을 붙이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "テレビを点ける。", "ko": "텔레비전을 켜다." }
+    ]
+  },
+  {
+    "word": "点く",
+    "reading": "つく",
+    "meaning": "켜지다",
+    "meaningDetail": "불이 붙다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電気が点く。", "ko": "전기가 켜지다." }
+    ]
+  },
+  {
+    "word": "照らす",
+    "reading": "てらす",
+    "meaning": "비추다",
+    "meaningDetail": "비추다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "月が道を照らす。", "ko": "달이 길을 비추다." }
+    ]
+  },
+  {
+    "word": "輝く",
+    "reading": "かがやく",
+    "meaning": "빛나다",
+    "meaningDetail": "반짝이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "星が輝く。", "ko": "별이 빛나다." }
+    ]
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "meaning": "빛나다",
+    "meaningDetail": "빛을 내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "目が光る。", "ko": "눈이 빛나다." }
+    ]
+  },
+  {
+    "word": "映る",
+    "reading": "うつる",
+    "meaning": "비치다",
+    "meaningDetail": "나타나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "姿が鏡に映る。", "ko": "모습이 거울에 비치다." }
+    ]
+  },
+  {
+    "word": "映す",
+    "reading": "うつす",
+    "meaning": "비추다",
+    "meaningDetail": "투영하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "映画を映す。", "ko": "영화를 비추다." }
+    ]
+  },
+  {
+    "word": "映える",
+    "reading": "はえる",
+    "meaning": "돋보이다",
+    "meaningDetail": "빛나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "写真に映える。", "ko": "사진에 돋보이다." }
+    ]
+  },
+  {
+    "word": "響く",
+    "reading": "ひびく",
+    "meaning": "울리다",
+    "meaningDetail": "퍼지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "音が響く。", "ko": "소리가 울리다." }
+    ]
+  },
+  {
+    "word": "鳴る",
+    "reading": "なる",
+    "meaning": "울리다",
+    "meaningDetail": "소리나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電話が鳴る。", "ko": "전화가 울리다." }
+    ]
+  },
+  {
+    "word": "鳴らす",
+    "reading": "ならす",
+    "meaning": "울리다",
+    "meaningDetail": "소리내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ベルを鳴らす。", "ko": "벨을 울리다." }
+    ]
+  },
+  {
+    "word": "聞こえる",
+    "reading": "きこえる",
+    "meaning": "들리다",
+    "meaningDetail": "소리가 나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "声が聞こえる。", "ko": "목소리가 들리다." }
+    ]
+  },
+  {
+    "word": "見える",
+    "reading": "みえる",
+    "meaning": "보이다",
+    "meaningDetail": "눈에 띄다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山が見える。", "ko": "산이 보이다." }
+    ]
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaning": "찾다",
+    "meaningDetail": "발견하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "答えを見つける。", "ko": "답을 찾다." }
+    ]
+  },
+  {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "meaning": "발견되다",
+    "meaningDetail": "찾아지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鍵が見つかる。", "ko": "열쇠가 발견되다." }
+    ]
+  },
+  {
+    "word": "眺める",
+    "reading": "ながめる",
+    "meaning": "바라보다",
+    "meaningDetail": "응시하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "景色を眺める。", "ko": "경치를 바라보다." }
+    ]
+  },
+  {
+    "word": "見渡す",
+    "reading": "みわたす",
+    "meaning": "둘러보다",
+    "meaningDetail": "바라보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "周りを見渡す。", "ko": "주위를 둘러보다." }
+    ]
+  },
+  {
+    "word": "覗く",
+    "reading": "のぞく",
+    "meaning": "들여다보다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "窓から覗く。", "ko": "창문에서 들여다보다." }
+    ]
+  },
+  {
+    "word": "睨む",
+    "reading": "にらむ",
+    "meaning": "노려보다",
+    "meaningDetail": "째려보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "相手を睨む。", "ko": "상대를 노려보다." }
+    ]
+  },
+  {
+    "word": "見上げる",
+    "reading": "みあげる",
+    "meaning": "올려다보다",
+    "meaningDetail": "위를 보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "空を見上げる。", "ko": "하늘을 올려다보다." }
+    ]
+  },
+  {
+    "word": "見下ろす",
+    "reading": "みおろす",
+    "meaning": "내려다보다",
+    "meaningDetail": "아래를 보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "街を見下ろす。", "ko": "거리를 내려다보다." }
+    ]
+  },
+  {
+    "word": "触れる",
+    "reading": "ふれる",
+    "meaning": "닿다",
+    "meaningDetail": "접촉하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "手が触れる。", "ko": "손이 닿다." }
+    ]
+  },
+  {
+    "word": "触る",
+    "reading": "さわる",
+    "meaning": "만지다",
+    "meaningDetail": "손대다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "壁に触る。", "ko": "벽을 만지다." }
+    ]
+  },
+  {
+    "word": "撫でる",
+    "reading": "なでる",
+    "meaning": "쓰다듬다",
+    "meaningDetail": "어루만지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "頭を撫でる。", "ko": "머리를 쓰다듬다." }
+    ]
+  },
+  {
+    "word": "握る",
+    "reading": "にぎる",
+    "meaning": "쥐다",
+    "meaningDetail": "잡다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手を握る。", "ko": "손을 쥐다." }
+    ]
+  },
+  {
+    "word": "掴む",
+    "reading": "つかむ",
+    "meaning": "잡다",
+    "meaningDetail": "움켜쥐다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チャンスを掴む。", "ko": "기회를 잡다." }
+    ]
+  },
+  {
+    "word": "捕まえる",
+    "reading": "つかまえる",
+    "meaning": "잡다",
+    "meaningDetail": "붙잡다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "犯人を捕まえる。", "ko": "범인을 잡다." }
+    ]
+  },
+  {
+    "word": "捕まる",
+    "reading": "つかまる",
+    "meaning": "잡히다",
+    "meaningDetail": "붙잡히다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "警察に捕まる。", "ko": "경찰에 잡히다." }
+    ]
+  },
+  {
+    "word": "逃げる",
+    "reading": "にげる",
+    "meaning": "도망치다",
+    "meaningDetail": "달아나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "危険から逃げる。", "ko": "위험에서 도망치다." }
+    ]
+  },
+  {
+    "word": "逃す",
+    "reading": "のがす",
+    "meaning": "놓치다",
+    "meaningDetail": "도망시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チャンスを逃す。", "ko": "기회를 놓치다." }
+    ]
+  },
+  {
+    "word": "追う",
+    "reading": "おう",
+    "meaning": "쫓다",
+    "meaningDetail": "따라가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "夢を追う。", "ko": "꿈을 쫓다." }
+    ]
+  },
+  {
+    "word": "追いかける",
+    "reading": "おいかける",
+    "meaning": "쫓아가다",
+    "meaningDetail": "따라잡다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "犯人を追いかける。", "ko": "범인을 쫓아가다." }
+    ]
+  },
+  {
+    "word": "追いつく",
+    "reading": "おいつく",
+    "meaning": "따라잡다",
+    "meaningDetail": "뒤따르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "先頭に追いつく。", "ko": "선두에 따라잡다." }
+    ]
+  },
+  {
+    "word": "追い越す",
+    "reading": "おいこす",
+    "meaning": "추월하다",
+    "meaningDetail": "앞지르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "車を追い越す。", "ko": "차를 추월하다." }
+    ]
+  },
+  {
+    "word": "従う",
+    "reading": "したがう",
+    "meaning": "따르다",
+    "meaningDetail": "복종하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "指示に従う。", "ko": "지시에 따르다." }
+    ]
+  },
+  {
+    "word": "伴う",
+    "reading": "ともなう",
+    "meaning": "수반하다",
+    "meaningDetail": "동반하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "危険を伴う。", "ko": "위험을 수반하다." }
+    ]
+  },
+  {
+    "word": "連れる",
+    "reading": "つれる",
+    "meaning": "데려가다",
+    "meaningDetail": "함께 가다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "子供を連れる。", "ko": "아이를 데려가다." }
+    ]
+  },
+  {
+    "word": "導く",
+    "reading": "みちびく",
+    "meaning": "이끌다",
+    "meaningDetail": "안내하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功に導く。", "ko": "성공으로 이끌다." }
+    ]
+  },
+  {
+    "word": "案内する",
+    "reading": "あんないする",
+    "meaning": "안내하다",
+    "meaningDetail": "인도하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "お客様を案内する。", "ko": "손님을 안내하다." }
+    ]
+  },
+  {
+    "word": "紹介する",
+    "reading": "しょうかいする",
+    "meaning": "소개하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "友人を紹介する。", "ko": "친구를 소개하다." }
+    ]
+  },
+  {
+    "word": "推薦する",
+    "reading": "すいせんする",
+    "meaning": "추천하다",
+    "meaningDetail": "권하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "本を推薦する。", "ko": "책을 추천하다." }
+    ]
+  },
+  {
+    "word": "勧める",
+    "reading": "すすめる",
+    "meaning": "권하다",
+    "meaningDetail": "추천하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "食事を勧める。", "ko": "식사를 권하다." }
+    ]
+  }
+]

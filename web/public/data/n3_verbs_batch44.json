@@ -1,0 +1,508 @@
+[
+  {
+    "word": "走り回る",
+    "reading": "はしりまわる",
+    "meaning": "뛰어다니다",
+    "meaningDetail": "돌아다니다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "子どもが走り回る。", "ko": "아이가 뛰어다니다." }
+    ]
+  },
+  {
+    "word": "走り出す",
+    "reading": "はしりだす",
+    "meaning": "달리기 시작하다",
+    "meaningDetail": "뛰기 시작하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "急に走り出す。", "ko": "갑자기 달리기 시작하다." }
+    ]
+  },
+  {
+    "word": "走り去る",
+    "reading": "はしりさる",
+    "meaning": "달려가다",
+    "meaningDetail": "뛰어 떠나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "車が走り去る。", "ko": "차가 달려가다." }
+    ]
+  },
+  {
+    "word": "歩き回る",
+    "reading": "あるきまわる",
+    "meaning": "돌아다니다",
+    "meaningDetail": "걸어다니다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "町を歩き回る。", "ko": "마을을 돌아다니다." }
+    ]
+  },
+  {
+    "word": "歩み寄る",
+    "reading": "あゆみよる",
+    "meaning": "다가가다",
+    "meaningDetail": "걸어가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "相手に歩み寄る。", "ko": "상대방에게 다가가다." }
+    ]
+  },
+  {
+    "word": "踏み込む",
+    "reading": "ふみこむ",
+    "meaning": "밟고 들어가다",
+    "meaningDetail": "뛰어들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "深く踏み込む。", "ko": "깊이 밟고 들어가다." }
+    ]
+  },
+  {
+    "word": "踏み出す",
+    "reading": "ふみだす",
+    "meaning": "내딛다",
+    "meaningDetail": "시작하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "一歩踏み出す。", "ko": "한 발 내딛다." }
+    ]
+  },
+  {
+    "word": "踏み切る",
+    "reading": "ふみきる",
+    "meaning": "결단하다",
+    "meaningDetail": "결심하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "退職に踏み切る。", "ko": "퇴직을 결단하다." }
+    ]
+  },
+  {
+    "word": "踏みつける",
+    "reading": "ふみつける",
+    "meaning": "짓밟다",
+    "meaningDetail": "밟다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "雑草を踏みつける。", "ko": "잡초를 짓밟다." }
+    ]
+  },
+  {
+    "word": "踏み固める",
+    "reading": "ふみかためる",
+    "meaning": "밟아 다지다",
+    "meaningDetail": "굳히다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "地面を踏み固める。", "ko": "땅을 밟아 다지다." }
+    ]
+  },
+  {
+    "word": "踏み止まる",
+    "reading": "ふみとどまる",
+    "meaning": "버티다",
+    "meaningDetail": "머무르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ここで踏み止まる。", "ko": "여기서 버티다." }
+    ]
+  },
+  {
+    "word": "踏み越える",
+    "reading": "ふみこえる",
+    "meaning": "넘다",
+    "meaningDetail": "뛰어넘다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "限界を踏み越える。", "ko": "한계를 넘다." }
+    ]
+  },
+  {
+    "word": "踏み入れる",
+    "reading": "ふみいれる",
+    "meaning": "밟고 들어가다",
+    "meaningDetail": "발을 디디다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "未知の領域に踏み入れる。", "ko": "미지의 영역에 밟고 들어가다." }
+    ]
+  },
+  {
+    "word": "染み込む",
+    "reading": "しみこむ",
+    "meaning": "스며들다",
+    "meaningDetail": "배어들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水が染み込む。", "ko": "물이 스며들다." }
+    ]
+  },
+  {
+    "word": "染み付く",
+    "reading": "しみつく",
+    "meaning": "배다",
+    "meaningDetail": "들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "習慣が染み付く。", "ko": "습관이 배다." }
+    ]
+  },
+  {
+    "word": "染み出る",
+    "reading": "しみでる",
+    "meaning": "배어나오다",
+    "meaningDetail": "스며나오다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "汗が染み出る。", "ko": "땀이 배어나오다." }
+    ]
+  },
+  {
+    "word": "染み渡る",
+    "reading": "しみわたる",
+    "meaning": "스며퍼지다",
+    "meaningDetail": "퍼지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "暖かさが染み渡る。", "ko": "따뜻함이 스며퍼지다." }
+    ]
+  },
+  {
+    "word": "沸き上がる",
+    "reading": "わきあがる",
+    "meaning": "끓어오르다",
+    "meaningDetail": "솟아오르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "歓声が沸き上がる。", "ko": "환호가 끓어오르다." }
+    ]
+  },
+  {
+    "word": "沸き立つ",
+    "reading": "わきたつ",
+    "meaning": "들끓다",
+    "meaningDetail": "끓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "会場が沸き立つ。", "ko": "회장이 들끓다." }
+    ]
+  },
+  {
+    "word": "湧き出る",
+    "reading": "わきでる",
+    "meaning": "솟아나다",
+    "meaningDetail": "나오다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "水が湧き出る。", "ko": "물이 솟아나다." }
+    ]
+  },
+  {
+    "word": "吹き込む",
+    "reading": "ふきこむ",
+    "meaning": "불어넣다",
+    "meaningDetail": "들이치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "風が吹き込む。", "ko": "바람이 들이치다." }
+    ]
+  },
+  {
+    "word": "吹き飛ばす",
+    "reading": "ふきとばす",
+    "meaning": "날려버리다",
+    "meaningDetail": "불어 날리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "悩みを吹き飛ばす。", "ko": "고민을 날려버리다." }
+    ]
+  },
+  {
+    "word": "吹き出す",
+    "reading": "ふきだす",
+    "meaning": "뿜어나오다",
+    "meaningDetail": "터지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "蒸気が吹き出す。", "ko": "증기가 뿜어나오다." }
+    ]
+  },
+  {
+    "word": "吹き荒れる",
+    "reading": "ふきあれる",
+    "meaning": "거세게 불다",
+    "meaningDetail": "맹위를 떨치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "嵐が吹き荒れる。", "ko": "폭풍이 거세게 불다." }
+    ]
+  },
+  {
+    "word": "吹き抜ける",
+    "reading": "ふきぬける",
+    "meaning": "스쳐지나가다",
+    "meaningDetail": "통과하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "風が吹き抜ける。", "ko": "바람이 스쳐지나가다." }
+    ]
+  },
+  {
+    "word": "流れ込む",
+    "reading": "ながれこむ",
+    "meaning": "흘러들다",
+    "meaningDetail": "유입되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水が流れ込む。", "ko": "물이 흘러들다." }
+    ]
+  },
+  {
+    "word": "流れ出す",
+    "reading": "ながれだす",
+    "meaning": "흘러나오다",
+    "meaningDetail": "유출되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "音楽が流れ出す。", "ko": "음악이 흘러나오다." }
+    ]
+  },
+  {
+    "word": "流れ着く",
+    "reading": "ながれつく",
+    "meaning": "떠밀려오다",
+    "meaningDetail": "도착하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ゴミが流れ着く。", "ko": "쓰레기가 떠밀려오다." }
+    ]
+  },
+  {
+    "word": "溶け込む",
+    "reading": "とけこむ",
+    "meaning": "녹아들다",
+    "meaningDetail": "융화되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "社会に溶け込む。", "ko": "사회에 녹아들다." }
+    ]
+  },
+  {
+    "word": "溶け出す",
+    "reading": "とけだす",
+    "meaning": "녹아나오다",
+    "meaningDetail": "녹기 시작하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "氷が溶け出す。", "ko": "얼음이 녹아나오다." }
+    ]
+  },
+  {
+    "word": "広がる",
+    "reading": "ひろがる",
+    "meaning": "퍼지다",
+    "meaningDetail": "넓어지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "噂が広がる。", "ko": "소문이 퍼지다." }
+    ]
+  },
+  {
+    "word": "広げる",
+    "reading": "ひろげる",
+    "meaning": "펼치다",
+    "meaningDetail": "넓히다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "地図を広げる。", "ko": "지도를 펼치다." }
+    ]
+  },
+  {
+    "word": "広まる",
+    "reading": "ひろまる",
+    "meaning": "퍼지다",
+    "meaningDetail": "보급되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "文化が広まる。", "ko": "문화가 퍼지다." }
+    ]
+  },
+  {
+    "word": "広める",
+    "reading": "ひろめる",
+    "meaning": "퍼뜨리다",
+    "meaningDetail": "보급시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "知識を広める。", "ko": "지식을 퍼뜨리다." }
+    ]
+  },
+  {
+    "word": "深まる",
+    "reading": "ふかまる",
+    "meaning": "깊어지다",
+    "meaningDetail": "심화되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "理解が深まる。", "ko": "이해가 깊어지다." }
+    ]
+  },
+  {
+    "word": "深める",
+    "reading": "ふかめる",
+    "meaning": "깊게 하다",
+    "meaningDetail": "심화시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "知識を深める。", "ko": "지식을 깊게 하다." }
+    ]
+  },
+  {
+    "word": "高まる",
+    "reading": "たかまる",
+    "meaning": "높아지다",
+    "meaningDetail": "상승하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "期待が高まる。", "ko": "기대가 높아지다." }
+    ]
+  },
+  {
+    "word": "高める",
+    "reading": "たかめる",
+    "meaning": "높이다",
+    "meaningDetail": "향상시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "技術を高める。", "ko": "기술을 높이다." }
+    ]
+  },
+  {
+    "word": "強まる",
+    "reading": "つよまる",
+    "meaning": "강해지다",
+    "meaningDetail": "세지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "風が強まる。", "ko": "바람이 강해지다." }
+    ]
+  },
+  {
+    "word": "強める",
+    "reading": "つよめる",
+    "meaning": "강화하다",
+    "meaningDetail": "세게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "管理を強める。", "ko": "관리를 강화하다." }
+    ]
+  },
+  {
+    "word": "弱まる",
+    "reading": "よわまる",
+    "meaning": "약해지다",
+    "meaningDetail": "쇠퇴하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "影響力が弱まる。", "ko": "영향력이 약해지다." }
+    ]
+  },
+  {
+    "word": "弱める",
+    "reading": "よわめる",
+    "meaning": "약화시키다",
+    "meaningDetail": "약하게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "火を弱める。", "ko": "불을 약하게 하다." }
+    ]
+  },
+  {
+    "word": "早まる",
+    "reading": "はやまる",
+    "meaning": "빨라지다",
+    "meaningDetail": "앞당겨지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "出発が早まる。", "ko": "출발이 빨라지다." }
+    ]
+  },
+  {
+    "word": "早める",
+    "reading": "はやめる",
+    "meaning": "앞당기다",
+    "meaningDetail": "서두르다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ペースを早める。", "ko": "페이스를 앞당기다." }
+    ]
+  },
+  {
+    "word": "遅らせる",
+    "reading": "おくらせる",
+    "meaning": "늦추다",
+    "meaningDetail": "지연시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "出発を遅らせる。", "ko": "출발을 늦추다." }
+    ]
+  },
+  {
+    "word": "遅れる",
+    "reading": "おくれる",
+    "meaning": "늦다",
+    "meaningDetail": "지각하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "授業に遅れる。", "ko": "수업에 늦다." }
+    ]
+  }
+]

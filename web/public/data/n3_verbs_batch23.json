@@ -1,0 +1,530 @@
+[
+  {
+    "word": "否定する",
+    "reading": "ひていする",
+    "meaning": "부정하다",
+    "meaningDetail": "아니라고 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事実を否定する。", "ko": "사실을 부정하다." }
+    ]
+  },
+  {
+    "word": "肯定する",
+    "reading": "こうていする",
+    "meaning": "긍정하다",
+    "meaningDetail": "인정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を肯定する。", "ko": "의견을 긍정하다." }
+    ]
+  },
+  {
+    "word": "疑う",
+    "reading": "うたがう",
+    "meaning": "의심하다",
+    "meaningDetail": "믿지 않다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "真実を疑う。", "ko": "진실을 의심하다." }
+    ]
+  },
+  {
+    "word": "信じる",
+    "reading": "しんじる",
+    "meaning": "믿다",
+    "meaningDetail": "신뢰하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "友人を信じる。", "ko": "친구를 믿다." }
+    ]
+  },
+  {
+    "word": "確信する",
+    "reading": "かくしんする",
+    "meaning": "확신하다",
+    "meaningDetail": "굳게 믿다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成功を確信する。", "ko": "성공을 확신하다." }
+    ]
+  },
+  {
+    "word": "推測する",
+    "reading": "すいそくする",
+    "meaning": "추측하다",
+    "meaningDetail": "짐작하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原因を推測する。", "ko": "원인을 추측하다." }
+    ]
+  },
+  {
+    "word": "予測する",
+    "reading": "よそくする",
+    "meaning": "예측하다",
+    "meaningDetail": "미리 알다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果を予測する。", "ko": "결과를 예측하다." }
+    ]
+  },
+  {
+    "word": "予想する",
+    "reading": "よそうする",
+    "meaning": "예상하다",
+    "meaningDetail": "미리 생각하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "展開を予想する。", "ko": "전개를 예상하다." }
+    ]
+  },
+  {
+    "word": "想像する",
+    "reading": "そうぞうする",
+    "meaning": "상상하다",
+    "meaningDetail": "그리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "未来を想像する。", "ko": "미래를 상상하다." }
+    ]
+  },
+  {
+    "word": "空想する",
+    "reading": "くうそうする",
+    "meaning": "공상하다",
+    "meaningDetail": "허상을 그리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "夢を空想する。", "ko": "꿈을 공상하다." }
+    ]
+  },
+  {
+    "word": "夢見る",
+    "reading": "ゆめみる",
+    "meaning": "꿈꾸다",
+    "meaningDetail": "바라다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "成功を夢見る。", "ko": "성공을 꿈꾸다." }
+    ]
+  },
+  {
+    "word": "願う",
+    "reading": "ねがう",
+    "meaning": "바라다",
+    "meaningDetail": "원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "幸せを願う。", "ko": "행복을 바라다." }
+    ]
+  },
+  {
+    "word": "望む",
+    "reading": "のぞむ",
+    "meaning": "바라다",
+    "meaningDetail": "원하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "平和を望む。", "ko": "평화를 바라다." }
+    ]
+  },
+  {
+    "word": "求める",
+    "reading": "もとめる",
+    "meaning": "구하다",
+    "meaningDetail": "찾다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "答えを求める。", "ko": "답을 구하다." }
+    ]
+  },
+  {
+    "word": "探す",
+    "reading": "さがす",
+    "meaning": "찾다",
+    "meaningDetail": "탐색하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "仕事を探す。", "ko": "일을 찾다." }
+    ]
+  },
+  {
+    "word": "探る",
+    "reading": "さぐる",
+    "meaning": "탐색하다",
+    "meaningDetail": "조사하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "真相を探る。", "ko": "진상을 탐색하다." }
+    ]
+  },
+  {
+    "word": "調べる",
+    "reading": "しらべる",
+    "meaning": "조사하다",
+    "meaningDetail": "알아보다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "情報を調べる。", "ko": "정보를 조사하다." }
+    ]
+  },
+  {
+    "word": "確かめる",
+    "reading": "たしかめる",
+    "meaning": "확인하다",
+    "meaningDetail": "검증하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "事実を確かめる。", "ko": "사실을 확인하다." }
+    ]
+  },
+  {
+    "word": "確認する",
+    "reading": "かくにんする",
+    "meaning": "확인하다",
+    "meaningDetail": "검토하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "予約を確認する。", "ko": "예약을 확인하다." }
+    ]
+  },
+  {
+    "word": "点検する",
+    "reading": "てんけんする",
+    "meaning": "점검하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "設備を点検する。", "ko": "설비를 점검하다." }
+    ]
+  },
+  {
+    "word": "検討する",
+    "reading": "けんとうする",
+    "meaning": "검토하다",
+    "meaningDetail": "살펴보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "案を検討する。", "ko": "안을 검토하다." }
+    ]
+  },
+  {
+    "word": "検証する",
+    "reading": "けんしょうする",
+    "meaning": "검증하다",
+    "meaningDetail": "확인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "仮説を検証する。", "ko": "가설을 검증하다." }
+    ]
+  },
+  {
+    "word": "比べる",
+    "reading": "くらべる",
+    "meaning": "비교하다",
+    "meaningDetail": "견주다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "価格を比べる。", "ko": "가격을 비교하다." }
+    ]
+  },
+  {
+    "word": "比較する",
+    "reading": "ひかくする",
+    "meaning": "비교하다",
+    "meaningDetail": "대조하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを比較する。", "ko": "데이터를 비교하다." }
+    ]
+  },
+  {
+    "word": "対照する",
+    "reading": "たいしょうする",
+    "meaning": "대조하다",
+    "meaningDetail": "비교하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原本と対照する。", "ko": "원본과 대조하다." }
+    ]
+  },
+  {
+    "word": "区別する",
+    "reading": "くべつする",
+    "meaning": "구별하다",
+    "meaningDetail": "분간하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "善悪を区別する。", "ko": "선악을 구별하다." }
+    ]
+  },
+  {
+    "word": "分類する",
+    "reading": "ぶんるいする",
+    "meaning": "분류하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを分類する。", "ko": "데이터를 분류하다." }
+    ]
+  },
+  {
+    "word": "分ける",
+    "reading": "わける",
+    "meaning": "나누다",
+    "meaningDetail": "분배하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事を分ける。", "ko": "일을 나누다." }
+    ]
+  },
+  {
+    "word": "分かれる",
+    "reading": "わかれる",
+    "meaning": "나뉘다",
+    "meaningDetail": "갈라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "道が分かれる。", "ko": "길이 나뉘다." }
+    ]
+  },
+  {
+    "word": "別れる",
+    "reading": "わかれる",
+    "meaning": "헤어지다",
+    "meaningDetail": "작별하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "友人と別れる。", "ko": "친구와 헤어지다." }
+    ]
+  },
+  {
+    "word": "離れる",
+    "reading": "はなれる",
+    "meaning": "떨어지다",
+    "meaningDetail": "멀어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "故郷を離れる。", "ko": "고향을 떠나다." }
+    ]
+  },
+  {
+    "word": "離す",
+    "reading": "はなす",
+    "meaning": "떼다",
+    "meaningDetail": "분리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手を離す。", "ko": "손을 떼다." }
+    ]
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meaning": "붙이다",
+    "meaningDetail": "달다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "名前を付ける。", "ko": "이름을 붙이다." }
+    ]
+  },
+  {
+    "word": "付く",
+    "reading": "つく",
+    "meaning": "붙다",
+    "meaningDetail": "달리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "汚れが付く。", "ko": "때가 붙다." }
+    ]
+  },
+  {
+    "word": "取り付ける",
+    "reading": "とりつける",
+    "meaning": "설치하다",
+    "meaningDetail": "달다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "エアコンを取り付ける。", "ko": "에어컨을 설치하다." }
+    ]
+  },
+  {
+    "word": "取り外す",
+    "reading": "とりはずす",
+    "meaning": "떼어내다",
+    "meaningDetail": "분리하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "部品を取り外す。", "ko": "부품을 떼어내다." }
+    ]
+  },
+  {
+    "word": "組む",
+    "reading": "くむ",
+    "meaning": "짜다",
+    "meaningDetail": "구성하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "チームを組む。", "ko": "팀을 짜다." }
+    ]
+  },
+  {
+    "word": "組み合わせる",
+    "reading": "くみあわせる",
+    "meaning": "조합하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "色を組み合わせる。", "ko": "색을 조합하다." }
+    ]
+  },
+  {
+    "word": "合わせる",
+    "reading": "あわせる",
+    "meaning": "맞추다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "時計を合わせる。", "ko": "시계를 맞추다." }
+    ]
+  },
+  {
+    "word": "合う",
+    "reading": "あう",
+    "meaning": "맞다",
+    "meaningDetail": "어울리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "サイズが合う。", "ko": "사이즈가 맞다." }
+    ]
+  },
+  {
+    "word": "似合う",
+    "reading": "にあう",
+    "meaning": "어울리다",
+    "meaningDetail": "맞다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "服が似合う。", "ko": "옷이 어울리다." }
+    ]
+  },
+  {
+    "word": "似る",
+    "reading": "にる",
+    "meaning": "닮다",
+    "meaningDetail": "비슷하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "親に似る。", "ko": "부모를 닮다." }
+    ]
+  },
+  {
+    "word": "異なる",
+    "reading": "ことなる",
+    "meaning": "다르다",
+    "meaningDetail": "차이 나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "意見が異なる。", "ko": "의견이 다르다." }
+    ]
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "다르다",
+    "meaningDetail": "틀리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "答えが違う。", "ko": "답이 다르다." }
+    ]
+  },
+  {
+    "word": "食い違う",
+    "reading": "くいちがう",
+    "meaning": "어긋나다",
+    "meaningDetail": "맞지 않다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "意見が食い違う。", "ko": "의견이 어긋나다." }
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "reading": "むじゅんする",
+    "meaning": "모순되다",
+    "meaningDetail": "맞지 않다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "話が矛盾する。", "ko": "말이 모순되다." }
+    ]
+  },
+  {
+    "word": "一致する",
+    "reading": "いっちする",
+    "meaning": "일치하다",
+    "meaningDetail": "같다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見が一致する。", "ko": "의견이 일치하다." }
+    ]
+  },
+  {
+    "word": "共通する",
+    "reading": "きょうつうする",
+    "meaning": "공통되다",
+    "meaningDetail": "같은 점이 있다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "特徴が共通する。", "ko": "특징이 공통되다." }
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "위험",
+    "meaningDetail": "위태로움",
+    "category": "명사",
+    "examples": [
+      { "ja": "危険を避ける。", "ko": "위험을 피하다." }
+    ]
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "안전",
+    "meaningDetail": "무사함",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を確保する。", "ko": "안전을 확보하다." }
+    ]
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaning": "주의",
+    "meaningDetail": "조심",
+    "category": "명사",
+    "examples": [
+      { "ja": "注意を払う。", "ko": "주의를 기울이다." }
+    ]
+  },
+  {
+    "word": "警告",
+    "reading": "けいこく",
+    "meaning": "경고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "警告を発する。", "ko": "경고를 하다." }
+    ]
+  },
+  {
+    "word": "保護",
+    "reading": "ほご",
+    "meaning": "보호",
+    "meaningDetail": "지킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境を保護する。", "ko": "환경을 보호하다." }
+    ]
+  },
+  {
+    "word": "防止",
+    "reading": "ぼうし",
+    "meaning": "방지",
+    "meaningDetail": "막음",
+    "category": "명사",
+    "examples": [
+      { "ja": "事故を防止する。", "ko": "사고를 방지하다." }
+    ]
+  },
+  {
+    "word": "防衛",
+    "reading": "ぼうえい",
+    "meaning": "방위",
+    "meaningDetail": "지킴",
+    "category": "명사",
+    "examples": [
+      { "ja": "国を防衛する。", "ko": "나라를 방위하다." }
+    ]
+  },
+  {
+    "word": "攻撃",
+    "reading": "こうげき",
+    "meaning": "공격",
+    "meaningDetail": "침",
+    "category": "명사",
+    "examples": [
+      { "ja": "攻撃を受ける。", "ko": "공격을 받다." }
+    ]
+  },
+  {
+    "word": "争い",
+    "reading": "あらそい",
+    "meaning": "싸움",
+    "meaningDetail": "다툼",
+    "category": "명사",
+    "examples": [
+      { "ja": "争いを避ける。", "ko": "싸움을 피하다." }
+    ]
+  },
+  {
+    "word": "紛争",
+    "reading": "ふんそう",
+    "meaning": "분쟁",
+    "meaningDetail": "다툼",
+    "category": "명사",
+    "examples": [
+      { "ja": "紛争が起きる。", "ko": "분쟁이 일어나다." }
+    ]
+  },
+  {
+    "word": "戦争",
+    "reading": "せんそう",
+    "meaning": "전쟁",
+    "meaningDetail": "싸움",
+    "category": "명사",
+    "examples": [
+      { "ja": "戦争が起こる。", "ko": "전쟁이 일어나다." }
+    ]
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "평화",
+    "meaningDetail": "화평",
+    "category": "명사",
+    "examples": [
+      { "ja": "平和を守る。", "ko": "평화를 지키다." }
+    ]
+  },
+  {
+    "word": "協力",
+    "reading": "きょうりょく",
+    "meaning": "협력",
+    "meaningDetail": "힘 합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "協力を得る。", "ko": "협력을 얻다." }
+    ]
+  },
+  {
+    "word": "協定",
+    "reading": "きょうてい",
+    "meaning": "협정",
+    "meaningDetail": "약정",
+    "category": "명사",
+    "examples": [
+      { "ja": "協定を結ぶ。", "ko": "협정을 맺다." }
+    ]
+  },
+  {
+    "word": "条約",
+    "reading": "じょうやく",
+    "meaning": "조약",
+    "meaningDetail": "약속 문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "条約を締結する。", "ko": "조약을 체결하다." }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meaning": "법률",
+    "meaningDetail": "법",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律を守る。", "ko": "법률을 지키다." }
+    ]
+  },
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "규정",
+    "category": "명사",
+    "examples": [
+      { "ja": "規則に従う。", "ko": "규칙에 따르다." }
+    ]
+  },
+  {
+    "word": "規定",
+    "reading": "きてい",
+    "meaning": "규정",
+    "meaningDetail": "정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "規定を設ける。", "ko": "규정을 마련하다." }
+    ]
+  },
+  {
+    "word": "禁止",
+    "reading": "きんし",
+    "meaning": "금지",
+    "meaningDetail": "못하게 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "喫煙を禁止する。", "ko": "흡연을 금지하다." }
+    ]
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "meaningDetail": "허락",
+    "category": "명사",
+    "examples": [
+      { "ja": "許可を得る。", "ko": "허가를 받다." }
+    ]
+  },
+  {
+    "word": "認可",
+    "reading": "にんか",
+    "meaning": "인가",
+    "meaningDetail": "허락",
+    "category": "명사",
+    "examples": [
+      { "ja": "認可を受ける。", "ko": "인가를 받다." }
+    ]
+  },
+  {
+    "word": "承認",
+    "reading": "しょうにん",
+    "meaning": "승인",
+    "meaningDetail": "인정",
+    "category": "명사",
+    "examples": [
+      { "ja": "承認を得る。", "ko": "승인을 얻다." }
+    ]
+  },
+  {
+    "word": "拒否",
+    "reading": "きょひ",
+    "meaning": "거부",
+    "meaningDetail": "거절",
+    "category": "명사",
+    "examples": [
+      { "ja": "要求を拒否する。", "ko": "요구를 거부하다." }
+    ]
+  },
+  {
+    "word": "支持",
+    "reading": "しじ",
+    "meaning": "지지",
+    "meaningDetail": "지원",
+    "category": "명사",
+    "examples": [
+      { "ja": "支持を得る。", "ko": "지지를 얻다." }
+    ]
+  },
+  {
+    "word": "反発",
+    "reading": "はんぱつ",
+    "meaning": "반발",
+    "meaningDetail": "대항",
+    "category": "명사",
+    "examples": [
+      { "ja": "反発を招く。", "ko": "반발을 불러오다." }
+    ]
+  },
+  {
+    "word": "抵抗",
+    "reading": "ていこう",
+    "meaning": "저항",
+    "meaningDetail": "거부",
+    "category": "명사",
+    "examples": [
+      { "ja": "抵抗を受ける。", "ko": "저항을 받다." }
+    ]
+  },
+  {
+    "word": "抗議",
+    "reading": "こうぎ",
+    "meaning": "항의",
+    "meaningDetail": "반대",
+    "category": "명사",
+    "examples": [
+      { "ja": "抗議を行う。", "ko": "항의를 하다." }
+    ]
+  },
+  {
+    "word": "要望",
+    "reading": "ようぼう",
+    "meaning": "요망",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "要望を出す。", "ko": "요망을 내다." }
+    ]
+  },
+  {
+    "word": "陳情",
+    "reading": "ちんじょう",
+    "meaning": "진정",
+    "meaningDetail": "호소",
+    "category": "명사",
+    "examples": [
+      { "ja": "陳情を行う。", "ko": "진정을 하다." }
+    ]
+  },
+  {
+    "word": "世論",
+    "reading": "せろん",
+    "meaning": "여론",
+    "meaningDetail": "대중 의견",
+    "category": "명사",
+    "examples": [
+      { "ja": "世論を調査する。", "ko": "여론을 조사하다." }
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meaning": "주장",
+    "meaningDetail": "내세움",
+    "category": "명사",
+    "examples": [
+      { "ja": "主張を述べる。", "ko": "주장을 말하다." }
+    ]
+  },
+  {
+    "word": "立場",
+    "reading": "たちば",
+    "meaning": "입장",
+    "meaningDetail": "처지",
+    "category": "명사",
+    "examples": [
+      { "ja": "立場を守る。", "ko": "입장을 지키다." }
+    ]
+  },
+  {
+    "word": "観点",
+    "reading": "かんてん",
+    "meaning": "관점",
+    "meaningDetail": "시각",
+    "category": "명사",
+    "examples": [
+      { "ja": "観点を変える。", "ko": "관점을 바꾸다." }
+    ]
+  },
+  {
+    "word": "視点",
+    "reading": "してん",
+    "meaning": "시점",
+    "meaningDetail": "보는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "視点を持つ。", "ko": "시점을 갖다." }
+    ]
+  },
+  {
+    "word": "側面",
+    "reading": "そくめん",
+    "meaning": "측면",
+    "meaningDetail": "옆면",
+    "category": "명사",
+    "examples": [
+      { "ja": "側面から見る。", "ko": "측면에서 보다." }
+    ]
+  },
+  {
+    "word": "全体",
+    "reading": "ぜんたい",
+    "meaning": "전체",
+    "meaningDetail": "총체",
+    "category": "명사",
+    "examples": [
+      { "ja": "全体を把握する。", "ko": "전체를 파악하다." }
+    ]
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaning": "부분",
+    "meaningDetail": "한 부분",
+    "category": "명사",
+    "examples": [
+      { "ja": "部分を修正する。", "ko": "부분을 수정하다." }
+    ]
+  },
+  {
+    "word": "一部",
+    "reading": "いちぶ",
+    "meaning": "일부",
+    "meaningDetail": "일부분",
+    "category": "명사",
+    "examples": [
+      { "ja": "一部を変更する。", "ko": "일부를 변경하다." }
+    ]
+  },
+  {
+    "word": "大部分",
+    "reading": "だいぶぶん",
+    "meaning": "대부분",
+    "meaningDetail": "거의",
+    "category": "명사",
+    "examples": [
+      { "ja": "大部分が賛成した。", "ko": "대부분이 찬성했다." }
+    ]
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "절반",
+    "meaningDetail": "반",
+    "category": "명사",
+    "examples": [
+      { "ja": "半分に分ける。", "ko": "절반으로 나누다." }
+    ]
+  },
+  {
+    "word": "倍",
+    "reading": "ばい",
+    "meaning": "배",
+    "meaningDetail": "곱",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上が倍になる。", "ko": "매출이 배가 되다." }
+    ]
+  },
+  {
+    "word": "割",
+    "reading": "わり",
+    "meaning": "할",
+    "meaningDetail": "비율",
+    "category": "명사",
+    "examples": [
+      { "ja": "三割引きになる。", "ko": "30% 할인되다." }
+    ]
+  },
+  {
+    "word": "量",
+    "reading": "りょう",
+    "meaning": "양",
+    "meaningDetail": "분량",
+    "category": "명사",
+    "examples": [
+      { "ja": "量を増やす。", "ko": "양을 늘리다." }
+    ]
+  },
+  {
+    "word": "質",
+    "reading": "しつ",
+    "meaning": "질",
+    "meaningDetail": "품질",
+    "category": "명사",
+    "examples": [
+      { "ja": "質を高める。", "ko": "질을 높이다." }
+    ]
+  },
+  {
+    "word": "差",
+    "reading": "さ",
+    "meaning": "차이",
+    "meaningDetail": "차",
+    "category": "명사",
+    "examples": [
+      { "ja": "差が出る。", "ko": "차이가 나다." }
+    ]
+  },
+  {
+    "word": "相違",
+    "reading": "そうい",
+    "meaning": "상이",
+    "meaningDetail": "다름",
+    "category": "명사",
+    "examples": [
+      { "ja": "相違がある。", "ko": "상이함이 있다." }
+    ]
+  },
+  {
+    "word": "共通",
+    "reading": "きょうつう",
+    "meaning": "공통",
+    "meaningDetail": "같음",
+    "category": "명사",
+    "examples": [
+      { "ja": "共通点がある。", "ko": "공통점이 있다." }
+    ]
+  },
+  {
+    "word": "類似",
+    "reading": "るいじ",
+    "meaning": "유사",
+    "meaningDetail": "비슷함",
+    "category": "명사",
+    "examples": [
+      { "ja": "類似点を探す。", "ko": "유사점을 찾다." }
+    ]
+  }
+]

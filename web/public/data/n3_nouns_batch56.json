@@ -1,0 +1,482 @@
+[
+  {
+    "word": "記録",
+    "reading": "きろく",
+    "meaning": "기록",
+    "meaningDetail": "적음",
+    "category": "명사",
+    "examples": [
+      { "ja": "記録を更新する。", "ko": "기록을 갱신하다." }
+    ]
+  },
+  {
+    "word": "記載",
+    "reading": "きさい",
+    "meaning": "기재",
+    "meaningDetail": "적음",
+    "category": "명사",
+    "examples": [
+      { "ja": "記載事項を確認する。", "ko": "기재 사항을 확인하다." }
+    ]
+  },
+  {
+    "word": "記入",
+    "reading": "きにゅう",
+    "meaning": "기입",
+    "meaningDetail": "적음",
+    "category": "명사",
+    "examples": [
+      { "ja": "記入欄に書く。", "ko": "기입란에 쓰다." }
+    ]
+  },
+  {
+    "word": "記述",
+    "reading": "きじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "서술",
+    "category": "명사",
+    "examples": [
+      { "ja": "記述問題に答える。", "ko": "기술 문제에 답하다." }
+    ]
+  },
+  {
+    "word": "描写",
+    "reading": "びょうしゃ",
+    "meaning": "묘사",
+    "meaningDetail": "그림",
+    "category": "명사",
+    "examples": [
+      { "ja": "描写が生き生きとしている。", "ko": "묘사가 생생하다." }
+    ]
+  },
+  {
+    "word": "表現",
+    "reading": "ひょうげん",
+    "meaning": "표현",
+    "meaningDetail": "나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "表現力を磨く。", "ko": "표현력을 갈다." }
+    ]
+  },
+  {
+    "word": "表明",
+    "reading": "ひょうめい",
+    "meaning": "표명",
+    "meaningDetail": "밝힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "意思表明をする。", "ko": "의사 표명을 하다." }
+    ]
+  },
+  {
+    "word": "表示",
+    "reading": "ひょうじ",
+    "meaning": "표시",
+    "meaningDetail": "나타냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "表示を確認する。", "ko": "표시를 확인하다." }
+    ]
+  },
+  {
+    "word": "流出",
+    "reading": "りゅうしゅつ",
+    "meaning": "유출",
+    "meaningDetail": "흘러나감",
+    "category": "명사",
+    "examples": [
+      { "ja": "個人情報の流出。", "ko": "개인 정보의 유출." }
+    ]
+  },
+  {
+    "word": "流入",
+    "reading": "りゅうにゅう",
+    "meaning": "유입",
+    "meaningDetail": "흘러들어옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "外国資本の流入。", "ko": "외국 자본의 유입." }
+    ]
+  },
+  {
+    "word": "流通",
+    "reading": "りゅうつう",
+    "meaning": "유통",
+    "meaningDetail": "돌음",
+    "category": "명사",
+    "examples": [
+      { "ja": "流通経路を確保する。", "ko": "유통 경로를 확보하다." }
+    ]
+  },
+  {
+    "word": "循環",
+    "reading": "じゅんかん",
+    "meaning": "순환",
+    "meaningDetail": "돌음",
+    "category": "명사",
+    "examples": [
+      { "ja": "血液循環を促進する。", "ko": "혈액 순환을 촉진하다." }
+    ]
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meaning": "변화",
+    "meaningDetail": "바뀜",
+    "category": "명사",
+    "examples": [
+      { "ja": "変化に対応する。", "ko": "변화에 대응하다." }
+    ]
+  },
+  {
+    "word": "変動",
+    "reading": "へんどう",
+    "meaning": "변동",
+    "meaningDetail": "바뀜",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格変動が激しい。", "ko": "가격 변동이 심하다." }
+    ]
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "변경",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "予定を変更する。", "ko": "예정을 변경하다." }
+    ]
+  },
+  {
+    "word": "変換",
+    "reading": "へんかん",
+    "meaning": "변환",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "データの変換を行う。", "ko": "데이터 변환을 하다." }
+    ]
+  },
+  {
+    "word": "転換",
+    "reading": "てんかん",
+    "meaning": "전환",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "方針転換を図る。", "ko": "방침 전환을 꾀하다." }
+    ]
+  },
+  {
+    "word": "転移",
+    "reading": "てんい",
+    "meaning": "전이",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "癌の転移が見つかる。", "ko": "암의 전이가 발견되다." }
+    ]
+  },
+  {
+    "word": "移動",
+    "reading": "いどう",
+    "meaning": "이동",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "移動時間がかかる。", "ko": "이동 시간이 걸리다." }
+    ]
+  },
+  {
+    "word": "移転",
+    "reading": "いてん",
+    "meaning": "이전",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "本社の移転を発表する。", "ko": "본사 이전을 발표하다." }
+    ]
+  },
+  {
+    "word": "移行",
+    "reading": "いこう",
+    "meaning": "이행",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "新システムへの移行。", "ko": "신시스템으로의 이행." }
+    ]
+  },
+  {
+    "word": "移民",
+    "reading": "いみん",
+    "meaning": "이민",
+    "meaningDetail": "이주",
+    "category": "명사",
+    "examples": [
+      { "ja": "移民政策を見直す。", "ko": "이민 정책을 재검토하다." }
+    ]
+  },
+  {
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "meaningDetail": "내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸出が増加する。", "ko": "수출이 증가하다." }
+    ]
+  },
+  {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "meaningDetail": "들여옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸入品の関税。", "ko": "수입품의 관세." }
+    ]
+  },
+  {
+    "word": "輸送",
+    "reading": "ゆそう",
+    "meaning": "수송",
+    "meaningDetail": "운송",
+    "category": "명사",
+    "examples": [
+      { "ja": "輸送コストを削減する。", "ko": "수송 비용을 절감하다." }
+    ]
+  },
+  {
+    "word": "運送",
+    "reading": "うんそう",
+    "meaning": "운송",
+    "meaningDetail": "수송",
+    "category": "명사",
+    "examples": [
+      { "ja": "運送業者に依頼する。", "ko": "운송 업자에게 의뢰하다." }
+    ]
+  },
+  {
+    "word": "運搬",
+    "reading": "うんぱん",
+    "meaning": "운반",
+    "meaningDetail": "나름",
+    "category": "명사",
+    "examples": [
+      { "ja": "荷物の運搬を行う。", "ko": "짐의 운반을 하다." }
+    ]
+  },
+  {
+    "word": "配送",
+    "reading": "はいそう",
+    "meaning": "배송",
+    "meaningDetail": "배달",
+    "category": "명사",
+    "examples": [
+      { "ja": "配送料が無料。", "ko": "배송료가 무료." }
+    ]
+  },
+  {
+    "word": "配達",
+    "reading": "はいたつ",
+    "meaning": "배달",
+    "meaningDetail": "전달",
+    "category": "명사",
+    "examples": [
+      { "ja": "配達を待つ。", "ko": "배달을 기다리다." }
+    ]
+  },
+  {
+    "word": "配布",
+    "reading": "はいふ",
+    "meaning": "배포",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を配布する。", "ko": "자료를 배포하다." }
+    ]
+  },
+  {
+    "word": "配分",
+    "reading": "はいぶん",
+    "meaning": "배분",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益の配分を決める。", "ko": "이익의 배분을 정하다." }
+    ]
+  },
+  {
+    "word": "分配",
+    "reading": "ぶんぱい",
+    "meaning": "분배",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "公平な分配を求める。", "ko": "공평한 분배를 요구하다." }
+    ]
+  },
+  {
+    "word": "分類",
+    "reading": "ぶんるい",
+    "meaning": "분류",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "分類作業を行う。", "ko": "분류 작업을 하다." }
+    ]
+  },
+  {
+    "word": "分離",
+    "reading": "ぶんり",
+    "meaning": "분리",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "分離手術を行う。", "ko": "분리 수술을 하다." }
+    ]
+  },
+  {
+    "word": "分割",
+    "reading": "ぶんかつ",
+    "meaning": "분할",
+    "meaningDetail": "나눔",
+    "category": "명사",
+    "examples": [
+      { "ja": "分割払いを選ぶ。", "ko": "분할 결제를 선택하다." }
+    ]
+  },
+  {
+    "word": "統合",
+    "reading": "とうごう",
+    "meaning": "통합",
+    "meaningDetail": "합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "組織の統合を進める。", "ko": "조직의 통합을 추진하다." }
+    ]
+  },
+  {
+    "word": "統一",
+    "reading": "とういつ",
+    "meaning": "통일",
+    "meaningDetail": "하나로 함",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見の統一を図る。", "ko": "의견의 통일을 꾀하다." }
+    ]
+  },
+  {
+    "word": "合併",
+    "reading": "がっぺい",
+    "meaning": "합병",
+    "meaningDetail": "합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社の合併を発表する。", "ko": "회사의 합병을 발표하다." }
+    ]
+  },
+  {
+    "word": "併合",
+    "reading": "へいごう",
+    "meaning": "병합",
+    "meaningDetail": "합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "領土の併合を行う。", "ko": "영토의 병합을 하다." }
+    ]
+  },
+  {
+    "word": "結合",
+    "reading": "けつごう",
+    "meaning": "결합",
+    "meaningDetail": "합침",
+    "category": "명사",
+    "examples": [
+      { "ja": "化学結合を学ぶ。", "ko": "화학 결합을 배우다." }
+    ]
+  },
+  {
+    "word": "連結",
+    "reading": "れんけつ",
+    "meaning": "연결",
+    "meaningDetail": "이음",
+    "category": "명사",
+    "examples": [
+      { "ja": "連結決算を行う。", "ko": "연결 결산을 하다." }
+    ]
+  },
+  {
+    "word": "接続",
+    "reading": "せつぞく",
+    "meaning": "접속",
+    "meaningDetail": "연결",
+    "category": "명사",
+    "examples": [
+      { "ja": "インターネット接続を確認する。", "ko": "인터넷 접속을 확인하다." }
+    ]
+  },
+  {
+    "word": "接触",
+    "reading": "せっしょく",
+    "meaning": "접촉",
+    "meaningDetail": "닿음",
+    "category": "명사",
+    "examples": [
+      { "ja": "接触事故が起きる。", "ko": "접촉 사고가 일어나다." }
+    ]
+  },
+  {
+    "word": "衝突",
+    "reading": "しょうとつ",
+    "meaning": "충돌",
+    "meaningDetail": "부딪침",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見の衝突が起きる。", "ko": "의견 충돌이 일어나다." }
+    ]
+  },
+  {
+    "word": "摩擦",
+    "reading": "まさつ",
+    "meaning": "마찰",
+    "meaningDetail": "비빔",
+    "category": "명사",
+    "examples": [
+      { "ja": "国際摩擦が生じる。", "ko": "국제 마찰이 생기다." }
+    ]
+  },
+  {
+    "word": "抵触",
+    "reading": "ていしょく",
+    "meaning": "저촉",
+    "meaningDetail": "충돌",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律に抵触する。", "ko": "법률에 저촉되다." }
+    ]
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaning": "모순",
+    "meaningDetail": "불일치",
+    "category": "명사",
+    "examples": [
+      { "ja": "矛盾を感じる。", "ko": "모순을 느끼다." }
+    ]
+  },
+  {
+    "word": "葛藤",
+    "reading": "かっとう",
+    "meaning": "갈등",
+    "meaningDetail": "다툼",
+    "category": "명사",
+    "examples": [
+      { "ja": "内面の葛藤を抱える。", "ko": "내면의 갈등을 안다." }
+    ]
+  }
+]

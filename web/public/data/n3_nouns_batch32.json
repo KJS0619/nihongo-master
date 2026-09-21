@@ -1,0 +1,482 @@
+[
+  {
+    "word": "身体",
+    "reading": "しんたい",
+    "meaning": "신체",
+    "meaningDetail": "몸",
+    "category": "명사",
+    "examples": [
+      { "ja": "身体を鍛える。", "ko": "신체를 단련하다." }
+    ]
+  },
+  {
+    "word": "肉体",
+    "reading": "にくたい",
+    "meaning": "육체",
+    "meaningDetail": "몸",
+    "category": "명사",
+    "examples": [
+      { "ja": "肉体労働をする。", "ko": "육체노동을 하다." }
+    ]
+  },
+  {
+    "word": "筋肉",
+    "reading": "きんにく",
+    "meaning": "근육",
+    "meaningDetail": "힘줄",
+    "category": "명사",
+    "examples": [
+      { "ja": "筋肉を鍛える。", "ko": "근육을 단련하다." }
+    ]
+  },
+  {
+    "word": "骨",
+    "reading": "ほね",
+    "meaning": "뼈",
+    "meaningDetail": "골격",
+    "category": "명사",
+    "examples": [
+      { "ja": "骨が折れる。", "ko": "뼈가 부러지다." }
+    ]
+  },
+  {
+    "word": "皮膚",
+    "reading": "ひふ",
+    "meaning": "피부",
+    "meaningDetail": "살가죽",
+    "category": "명사",
+    "examples": [
+      { "ja": "皮膚が荒れる。", "ko": "피부가 거칠어지다." }
+    ]
+  },
+  {
+    "word": "血液",
+    "reading": "けつえき",
+    "meaning": "혈액",
+    "meaningDetail": "피",
+    "category": "명사",
+    "examples": [
+      { "ja": "血液検査をする。", "ko": "혈액검사를 하다." }
+    ]
+  },
+  {
+    "word": "血圧",
+    "reading": "けつあつ",
+    "meaning": "혈압",
+    "meaningDetail": "피 압력",
+    "category": "명사",
+    "examples": [
+      { "ja": "血圧を測る。", "ko": "혈압을 재다." }
+    ]
+  },
+  {
+    "word": "心臓",
+    "reading": "しんぞう",
+    "meaning": "심장",
+    "meaningDetail": "염통",
+    "category": "명사",
+    "examples": [
+      { "ja": "心臓が動く。", "ko": "심장이 뛴다." }
+    ]
+  },
+  {
+    "word": "肺",
+    "reading": "はい",
+    "meaning": "폐",
+    "meaningDetail": "허파",
+    "category": "명사",
+    "examples": [
+      { "ja": "肺を検査する。", "ko": "폐를 검사하다." }
+    ]
+  },
+  {
+    "word": "胃",
+    "reading": "い",
+    "meaning": "위",
+    "meaningDetail": "밥통",
+    "category": "명사",
+    "examples": [
+      { "ja": "胃が痛い。", "ko": "위가 아프다." }
+    ]
+  },
+  {
+    "word": "腸",
+    "reading": "ちょう",
+    "meaning": "장",
+    "meaningDetail": "창자",
+    "category": "명사",
+    "examples": [
+      { "ja": "腸の調子が悪い。", "ko": "장 상태가 안 좋다." }
+    ]
+  },
+  {
+    "word": "肝臓",
+    "reading": "かんぞう",
+    "meaning": "간",
+    "meaningDetail": "간장",
+    "category": "명사",
+    "examples": [
+      { "ja": "肝臓を検査する。", "ko": "간을 검사하다." }
+    ]
+  },
+  {
+    "word": "腎臓",
+    "reading": "じんぞう",
+    "meaning": "신장",
+    "meaningDetail": "콩팥",
+    "category": "명사",
+    "examples": [
+      { "ja": "腎臓が悪い。", "ko": "신장이 나쁘다." }
+    ]
+  },
+  {
+    "word": "脳",
+    "reading": "のう",
+    "meaning": "뇌",
+    "meaningDetail": "두뇌",
+    "category": "명사",
+    "examples": [
+      { "ja": "脳を使う。", "ko": "뇌를 쓰다." }
+    ]
+  },
+  {
+    "word": "神経",
+    "reading": "しんけい",
+    "meaning": "신경",
+    "meaningDetail": "감각선",
+    "category": "명사",
+    "examples": [
+      { "ja": "神経が過敏だ。", "ko": "신경이 예민하다." }
+    ]
+  },
+  {
+    "word": "脈",
+    "reading": "みゃく",
+    "meaning": "맥",
+    "meaningDetail": "맥박",
+    "category": "명사",
+    "examples": [
+      { "ja": "脈を測る。", "ko": "맥을 재다." }
+    ]
+  },
+  {
+    "word": "呼吸",
+    "reading": "こきゅう",
+    "meaning": "호흡",
+    "meaningDetail": "숨쉬기",
+    "category": "명사",
+    "examples": [
+      { "ja": "呼吸を整える。", "ko": "호흡을 고르다." }
+    ]
+  },
+  {
+    "word": "視力",
+    "reading": "しりょく",
+    "meaning": "시력",
+    "meaningDetail": "눈 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "視力を検査する。", "ko": "시력을 검사하다." }
+    ]
+  },
+  {
+    "word": "聴力",
+    "reading": "ちょうりょく",
+    "meaning": "청력",
+    "meaningDetail": "듣는 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "聴力が落ちる。", "ko": "청력이 떨어지다." }
+    ]
+  },
+  {
+    "word": "味覚",
+    "reading": "みかく",
+    "meaning": "미각",
+    "meaningDetail": "맛 느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "味覚が鋭い。", "ko": "미각이 예리하다." }
+    ]
+  },
+  {
+    "word": "嗅覚",
+    "reading": "きゅうかく",
+    "meaning": "후각",
+    "meaningDetail": "냄새 느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "嗅覚が鈍い。", "ko": "후각이 둔하다." }
+    ]
+  },
+  {
+    "word": "触覚",
+    "reading": "しょっかく",
+    "meaning": "촉각",
+    "meaningDetail": "접촉 느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "触覚で感じる。", "ko": "촉각으로 느끼다." }
+    ]
+  },
+  {
+    "word": "姿勢",
+    "reading": "しせい",
+    "meaning": "자세",
+    "meaningDetail": "몸가짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "姿勢を正す。", "ko": "자세를 바로잡다." }
+    ]
+  },
+  {
+    "word": "体重",
+    "reading": "たいじゅう",
+    "meaning": "체중",
+    "meaningDetail": "몸무게",
+    "category": "명사",
+    "examples": [
+      { "ja": "体重を量る。", "ko": "체중을 재다." }
+    ]
+  },
+  {
+    "word": "身長",
+    "reading": "しんちょう",
+    "meaning": "신장",
+    "meaningDetail": "키",
+    "category": "명사",
+    "examples": [
+      { "ja": "身長を測る。", "ko": "신장을 재다." }
+    ]
+  },
+  {
+    "word": "外見",
+    "reading": "がいけん",
+    "meaning": "외견",
+    "meaningDetail": "겉모습",
+    "category": "명사",
+    "examples": [
+      { "ja": "外見で判断する。", "ko": "외견으로 판단하다." }
+    ]
+  },
+  {
+    "word": "容姿",
+    "reading": "ようし",
+    "meaning": "용모",
+    "meaningDetail": "얼굴과 몸매",
+    "category": "명사",
+    "examples": [
+      { "ja": "容姿が優れている。", "ko": "용모가 뛰어나다." }
+    ]
+  },
+  {
+    "word": "表情",
+    "reading": "ひょうじょう",
+    "meaning": "표정",
+    "meaningDetail": "얼굴빛",
+    "category": "명사",
+    "examples": [
+      { "ja": "表情が豊かだ。", "ko": "표정이 풍부하다." }
+    ]
+  },
+  {
+    "word": "仕草",
+    "reading": "しぐさ",
+    "meaning": "몸짓",
+    "meaningDetail": "동작",
+    "category": "명사",
+    "examples": [
+      { "ja": "仕草がかわいい。", "ko": "몸짓이 귀엽다." }
+    ]
+  },
+  {
+    "word": "動作",
+    "reading": "どうさ",
+    "meaning": "동작",
+    "meaningDetail": "움직임",
+    "category": "명사",
+    "examples": [
+      { "ja": "動作が速い。", "ko": "동작이 빠르다." }
+    ]
+  },
+  {
+    "word": "反応",
+    "reading": "はんのう",
+    "meaning": "반응",
+    "meaningDetail": "응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "反応が良い。", "ko": "반응이 좋다." }
+    ]
+  },
+  {
+    "word": "睡眠",
+    "reading": "すいみん",
+    "meaning": "수면",
+    "meaningDetail": "잠",
+    "category": "명사",
+    "examples": [
+      { "ja": "睡眠を取る。", "ko": "수면을 취하다." }
+    ]
+  },
+  {
+    "word": "疲労",
+    "reading": "ひろう",
+    "meaning": "피로",
+    "meaningDetail": "지침",
+    "category": "명사",
+    "examples": [
+      { "ja": "疲労が溜まる。", "ko": "피로가 쌓이다." }
+    ]
+  },
+  {
+    "word": "ストレス",
+    "reading": "すとれす",
+    "meaning": "스트레스",
+    "meaningDetail": "긴장",
+    "category": "명사",
+    "examples": [
+      { "ja": "ストレスを感じる。", "ko": "스트레스를 느끼다." }
+    ]
+  },
+  {
+    "word": "回復",
+    "reading": "かいふく",
+    "meaning": "회복",
+    "meaningDetail": "낫기",
+    "category": "명사",
+    "examples": [
+      { "ja": "回復が早い。", "ko": "회복이 빠르다." }
+    ]
+  },
+  {
+    "word": "悪化",
+    "reading": "あっか",
+    "meaning": "악화",
+    "meaningDetail": "나빠짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "病状が悪化する。", "ko": "병세가 악화되다." }
+    ]
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "좋아짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "生活を改善する。", "ko": "생활을 개선하다." }
+    ]
+  },
+  {
+    "word": "予防",
+    "reading": "よぼう",
+    "meaning": "예방",
+    "meaningDetail": "막기",
+    "category": "명사",
+    "examples": [
+      { "ja": "予防接種を受ける。", "ko": "예방접종을 받다." }
+    ]
+  },
+  {
+    "word": "検診",
+    "reading": "けんしん",
+    "meaning": "검진",
+    "meaningDetail": "건강진단",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康検診を受ける。", "ko": "건강검진을 받다." }
+    ]
+  },
+  {
+    "word": "処方",
+    "reading": "しょほう",
+    "meaning": "처방",
+    "meaningDetail": "약 내기",
+    "category": "명사",
+    "examples": [
+      { "ja": "処方箋をもらう。", "ko": "처방전을 받다." }
+    ]
+  },
+  {
+    "word": "服用",
+    "reading": "ふくよう",
+    "meaning": "복용",
+    "meaningDetail": "약 먹기",
+    "category": "명사",
+    "examples": [
+      { "ja": "薬を服用する。", "ko": "약을 복용하다." }
+    ]
+  },
+  {
+    "word": "副作用",
+    "reading": "ふくさよう",
+    "meaning": "부작용",
+    "meaningDetail": "원치 않는 효과",
+    "category": "명사",
+    "examples": [
+      { "ja": "副作用が出る。", "ko": "부작용이 나타나다." }
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "meaningDetail": "결과",
+    "category": "명사",
+    "examples": [
+      { "ja": "効果がある。", "ko": "효과가 있다." }
+    ]
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "meaningDetail": "작용",
+    "category": "명사",
+    "examples": [
+      { "ja": "影響を与える。", "ko": "영향을 주다." }
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "이유",
+    "category": "명사",
+    "examples": [
+      { "ja": "原因を調べる。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "meaningDetail": "성과",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果が出る。", "ko": "결과가 나오다." }
+    ]
+  },
+  {
+    "word": "要因",
+    "reading": "よういん",
+    "meaning": "요인",
+    "meaningDetail": "원인",
+    "category": "명사",
+    "examples": [
+      { "ja": "要因を分析する。", "ko": "요인을 분석하다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "방책",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を立てる。", "ko": "대책을 세우다." }
+    ]
+  }
+]

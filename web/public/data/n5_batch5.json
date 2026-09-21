@@ -1,0 +1,563 @@
+[
+    {
+      "id": "n5_w101",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "전철",
+      "meaningDetail": "전기로 움직이는 열차",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1],
+      "examples": [
+        {"ja": "電車で会社に行きます。", "reading": "でんしゃでかいしゃにいきます。", "ko": "전철로 회사에 갑니다."},
+        {"ja": "電車が遅れています。", "reading": "でんしゃがおくれています。", "ko": "전철이 늦어지고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "駅", "reading": "えき", "meaning": "역", "relation": "관련어"},
+        {"word": "バス", "reading": "バス", "meaning": "버스", "relation": "유의어"}
+      ],
+      "kanji": [
+        {"char": "電", "reading": "でん", "meaning": "번개 전"},
+        {"char": "車", "reading": "しゃ", "meaning": "수레 차"}
+      ],
+      "tags": ["교통", "일상"],
+      "frequency": 101
+    },
+    {
+      "id": "n5_w102",
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "자전거",
+      "meaningDetail": "사람이 페달을 밟아 움직이는 두 바퀴 탈것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "自転車に乗ります。", "reading": "じてんしゃにのります。", "ko": "자전거를 탑니다."},
+        {"ja": "自転車で学校に行きます。", "reading": "じてんしゃでがっこうにいきます。", "ko": "자전거로 학교에 갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "乗る", "reading": "のる", "meaning": "타다", "relation": "관련동사"}
+      ],
+      "kanji": [
+        {"char": "自", "reading": "じ", "meaning": "스스로 자"},
+        {"char": "転", "reading": "てん", "meaning": "구를 전"},
+        {"char": "車", "reading": "しゃ", "meaning": "수레 차"}
+      ],
+      "tags": ["교통", "일상"],
+      "frequency": 102
+    },
+    {
+      "id": "n5_w103",
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "비행기",
+      "meaningDetail": "하늘을 나는 탈것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "飛行機で日本へ行きます。", "reading": "ひこうきでにほんへいきます。", "ko": "비행기로 일본에 갑니다."},
+        {"ja": "飛行機が飛んでいます。", "reading": "ひこうきがとんでいます。", "ko": "비행기가 날고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "空港", "reading": "くうこう", "meaning": "공항", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "飛", "reading": "ひ", "meaning": "날 비"},
+        {"char": "行", "reading": "こう", "meaning": "갈 행"},
+        {"char": "機", "reading": "き", "meaning": "틀 기"}
+      ],
+      "tags": ["교통", "여행"],
+      "frequency": 103
+    },
+    {
+      "id": "n5_w104",
+      "word": "船",
+      "reading": "ふね",
+      "meaning": "배",
+      "meaningDetail": "물 위를 이동하는 탈것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "船で島に行きます。", "reading": "ふねでしまにいきます。", "ko": "배로 섬에 갑니다."},
+        {"ja": "大きい船が見えます。", "reading": "おおきいふねがみえます。", "ko": "큰 배가 보입니다."}
+      ],
+      "relatedWords": [
+        {"word": "海", "reading": "うみ", "meaning": "바다", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "船", "reading": "ふね", "meaning": "배 선"}
+      ],
+      "tags": ["교통", "여행"],
+      "frequency": 104
+    },
+    {
+      "id": "n5_w105",
+      "word": "タクシー",
+      "reading": "タクシー",
+      "meaning": "택시",
+      "meaningDetail": "요금을 내고 타는 승용차",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "タクシーで空港に行きます。", "reading": "タクシーでくうこうにいきます。", "ko": "택시로 공항에 갑니다."},
+        {"ja": "タクシーを呼んでください。", "reading": "タクシーをよんでください。", "ko": "택시를 불러 주세요."}
+      ],
+      "relatedWords": [
+        {"word": "運転手", "reading": "うんてんしゅ", "meaning": "운전기사", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["교통", "외래어"],
+      "frequency": 105
+    },
+    {
+      "id": "n5_w106",
+      "word": "道",
+      "reading": "みち",
+      "meaning": "길",
+      "meaningDetail": "사람이나 차가 다니는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1],
+      "examples": [
+        {"ja": "この道をまっすぐ行ってください。", "reading": "このみちをまっすぐいってください。", "ko": "이 길을 쭉 가 주세요."},
+        {"ja": "道が分かりません。", "reading": "みちがわかりません。", "ko": "길을 모르겠습니다."}
+      ],
+      "relatedWords": [
+        {"word": "曲がる", "reading": "まがる", "meaning": "꺾다", "relation": "관련동사"}
+      ],
+      "kanji": [
+        {"char": "道", "reading": "みち", "meaning": "길 도"}
+      ],
+      "tags": ["장소", "이동"],
+      "frequency": 106
+    },
+    {
+      "id": "n5_w107",
+      "word": "橋",
+      "reading": "はし",
+      "meaning": "다리",
+      "meaningDetail": "강이나 골짜기를 건너기 위한 구조물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0],
+      "examples": [
+        {"ja": "橋を渡ってください。", "reading": "はしをわたってください。", "ko": "다리를 건너 주세요."},
+        {"ja": "あの橋は古いです。", "reading": "あのはしはふるいです。", "ko": "저 다리는 오래되었습니다."}
+      ],
+      "relatedWords": [
+        {"word": "川", "reading": "かわ", "meaning": "강", "relation": "관련어"},
+        {"word": "渡る", "reading": "わたる", "meaning": "건너다", "relation": "관련동사"}
+      ],
+      "kanji": [
+        {"char": "橋", "reading": "はし", "meaning": "다리 교"}
+      ],
+      "tags": ["장소", "건축"],
+      "frequency": 107
+    },
+    {
+      "id": "n5_w108",
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "공원",
+      "meaningDetail": "사람들이 쉬거나 운동하는 넓은 장소",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 1],
+      "examples": [
+        {"ja": "公園で遊びます。", "reading": "こうえんであそびます。", "ko": "공원에서 놉니다."},
+        {"ja": "公園を散歩します。", "reading": "こうえんをさんぽします。", "ko": "공원을 산책합니다."}
+      ],
+      "relatedWords": [
+        {"word": "散歩", "reading": "さんぽ", "meaning": "산책", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "公", "reading": "こう", "meaning": "공변될 공"},
+        {"char": "園", "reading": "えん", "meaning": "동산 원"}
+      ],
+      "tags": ["장소", "레저"],
+      "frequency": 108
+    },
+    {
+      "id": "n5_w109",
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "병원",
+      "meaningDetail": "아픈 사람을 치료하는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 1],
+      "examples": [
+        {"ja": "病院に行きます。", "reading": "びょういんにいきます。", "ko": "병원에 갑니다."},
+        {"ja": "病院で働いています。", "reading": "びょういんではたらいています。", "ko": "병원에서 일하고 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "医者", "reading": "いしゃ", "meaning": "의사", "relation": "관련어"},
+        {"word": "薬", "reading": "くすり", "meaning": "약", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "病", "reading": "びょう", "meaning": "병 병"},
+        {"char": "院", "reading": "いん", "meaning": "집 원"}
+      ],
+      "tags": ["장소", "건강"],
+      "frequency": 109
+    },
+    {
+      "id": "n5_w110",
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "은행",
+      "meaningDetail": "돈을 맡기거나 빌리는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1],
+      "examples": [
+        {"ja": "銀行でお金を下ろします。", "reading": "ぎんこうでおかねをおろします。", "ko": "은행에서 돈을 찾습니다."},
+        {"ja": "銀行は何時までですか。", "reading": "ぎんこうはなんじまでですか。", "ko": "은행은 몇 시까지입니까?"}
+      ],
+      "relatedWords": [
+        {"word": "お金", "reading": "おかね", "meaning": "돈", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "銀", "reading": "ぎん", "meaning": "은 은"},
+        {"char": "行", "reading": "こう", "meaning": "갈 행"}
+      ],
+      "tags": ["장소", "금융"],
+      "frequency": 110
+    },
+    {
+      "id": "n5_w111",
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "우체국",
+      "meaningDetail": "편지나 소포를 보내는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "郵便局で手紙を出します。", "reading": "ゆうびんきょくでてがみをだします。", "ko": "우체국에서 편지를 부칩니다."},
+        {"ja": "郵便局は駅の前にあります。", "reading": "ゆうびんきょくはえきのまえにあります。", "ko": "우체국은 역 앞에 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "手紙", "reading": "てがみ", "meaning": "편지", "relation": "관련어"},
+        {"word": "切手", "reading": "きって", "meaning": "우표", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "郵", "reading": "ゆう", "meaning": "우편 우"},
+        {"char": "便", "reading": "びん", "meaning": "편할 편"},
+        {"char": "局", "reading": "きょく", "meaning": "국 국"}
+      ],
+      "tags": ["장소", "공공시설"],
+      "frequency": 111
+    },
+    {
+      "id": "n5_w112",
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "영화관",
+      "meaningDetail": "영화를 상영하는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 0, 1],
+      "examples": [
+        {"ja": "映画館で映画を見ます。", "reading": "えいがかんでえいがをみます。", "ko": "영화관에서 영화를 봅니다."},
+        {"ja": "新しい映画館ができました。", "reading": "あたらしいえいがかんができました。", "ko": "새로운 영화관이 생겼습니다."}
+      ],
+      "relatedWords": [
+        {"word": "映画", "reading": "えいが", "meaning": "영화", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "映", "reading": "えい", "meaning": "비출 영"},
+        {"char": "画", "reading": "が", "meaning": "그림 화"},
+        {"char": "館", "reading": "かん", "meaning": "집 관"}
+      ],
+      "tags": ["장소", "엔터테인먼트"],
+      "frequency": 112
+    },
+    {
+      "id": "n5_w113",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "도서관",
+      "meaningDetail": "책을 읽거나 빌리는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "図書館で本を借ります。", "reading": "としょかんでほんをかります。", "ko": "도서관에서 책을 빌립니다."},
+        {"ja": "図書館で勉強します。", "reading": "としょかんでべんきょうします。", "ko": "도서관에서 공부합니다."}
+      ],
+      "relatedWords": [
+        {"word": "本", "reading": "ほん", "meaning": "책", "relation": "관련어"},
+        {"word": "借りる", "reading": "かりる", "meaning": "빌리다", "relation": "관련동사"}
+      ],
+      "kanji": [
+        {"char": "図", "reading": "と", "meaning": "그림 도"},
+        {"char": "書", "reading": "しょ", "meaning": "글 서"},
+        {"char": "館", "reading": "かん", "meaning": "집 관"}
+      ],
+      "tags": ["장소", "공공시설"],
+      "frequency": 113
+    },
+    {
+      "id": "n5_w114",
+      "word": "デパート",
+      "reading": "デパート",
+      "meaning": "백화점",
+      "meaningDetail": "여러 종류의 상품을 파는 큰 가게",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [2, 0, 0, 0],
+      "examples": [
+        {"ja": "デパートで買い物をします。", "reading": "デパートでかいものをします。", "ko": "백화점에서 쇼핑을 합니다."},
+        {"ja": "デパートは高いです。", "reading": "デパートはたかいです。", "ko": "백화점은 비쌉니다."}
+      ],
+      "relatedWords": [
+        {"word": "店", "reading": "みせ", "meaning": "가게", "relation": "유의어"}
+      ],
+      "kanji": [],
+      "tags": ["장소", "쇼핑", "외래어"],
+      "frequency": 114
+    },
+    {
+      "id": "n5_w115",
+      "word": "スーパー",
+      "reading": "スーパー",
+      "meaning": "슈퍼마켓",
+      "meaningDetail": "식품과 생활용품을 파는 가게",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0, 0],
+      "examples": [
+        {"ja": "スーパーで野菜を買います。", "reading": "スーパーでやさいをかいます。", "ko": "슈퍼에서 야채를 삽니다."},
+        {"ja": "スーパーは安いです。", "reading": "スーパーはやすいです。", "ko": "슈퍼는 쌉니다."}
+      ],
+      "relatedWords": [
+        {"word": "コンビニ", "reading": "コンビニ", "meaning": "편의점", "relation": "유의어"}
+      ],
+      "kanji": [],
+      "tags": ["장소", "쇼핑", "외래어"],
+      "frequency": 115
+    },
+    {
+      "id": "n5_w116",
+      "word": "レストラン",
+      "reading": "レストラン",
+      "meaning": "레스토랑",
+      "meaningDetail": "음식을 먹는 가게",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "レストランで食事をします。", "reading": "レストランでしょくじをします。", "ko": "레스토랑에서 식사를 합니다."},
+        {"ja": "あのレストランはおいしいです。", "reading": "あのレストランはおいしいです。", "ko": "저 레스토랑은 맛있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련동사"}
+      ],
+      "kanji": [],
+      "tags": ["장소", "음식", "외래어"],
+      "frequency": 116
+    },
+    {
+      "id": "n5_w117",
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "찻집, 카페",
+      "meaningDetail": "차나 커피를 마시는 가게",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1, 1],
+      "examples": [
+        {"ja": "喫茶店でコーヒーを飲みます。", "reading": "きっさてんでコーヒーをのみます。", "ko": "찻집에서 커피를 마십니다."},
+        {"ja": "喫茶店で友達と会います。", "reading": "きっさてんでともだちとあいます。", "ko": "찻집에서 친구를 만납니다."}
+      ],
+      "relatedWords": [
+        {"word": "コーヒー", "reading": "コーヒー", "meaning": "커피", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "喫", "reading": "きっ", "meaning": "마실 끽"},
+        {"char": "茶", "reading": "さ", "meaning": "차 다"},
+        {"char": "店", "reading": "てん", "meaning": "가게 점"}
+      ],
+      "tags": ["장소", "음식"],
+      "frequency": 117
+    },
+    {
+      "id": "n5_w118",
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "호텔",
+      "meaningDetail": "여행자가 묵는 숙박시설",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "ホテルに泊まります。", "reading": "ホテルにとまります。", "ko": "호텔에 묵습니다."},
+        {"ja": "ホテルを予約しました。", "reading": "ホテルをよやくしました。", "ko": "호텔을 예약했습니다."}
+      ],
+      "relatedWords": [
+        {"word": "泊まる", "reading": "とまる", "meaning": "묵다", "relation": "관련동사"}
+      ],
+      "kanji": [],
+      "tags": ["장소", "여행", "외래어"],
+      "frequency": 118
+    },
+    {
+      "id": "n5_w119",
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "공항",
+      "meaningDetail": "비행기가 이착륙하는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1],
+      "examples": [
+        {"ja": "空港に迎えに行きます。", "reading": "くうこうにむかえにいきます。", "ko": "공항에 마중 가겠습니다."},
+        {"ja": "空港まで何分ですか。", "reading": "くうこうまでなんぷんですか。", "ko": "공항까지 몇 분입니까?"}
+      ],
+      "relatedWords": [
+        {"word": "飛行機", "reading": "ひこうき", "meaning": "비행기", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "空", "reading": "くう", "meaning": "하늘 공"},
+        {"char": "港", "reading": "こう", "meaning": "항구 항"}
+      ],
+      "tags": ["장소", "여행"],
+      "frequency": 119
+    },
+    {
+      "id": "n5_w120",
+      "word": "階段",
+      "reading": "かいだん",
+      "meaning": "계단",
+      "meaningDetail": "위아래층을 오르내리는 구조물",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 1, 1, 1],
+      "examples": [
+        {"ja": "階段を上ります。", "reading": "かいだんをのぼります。", "ko": "계단을 올라갑니다."},
+        {"ja": "階段を下ります。", "reading": "かいだんをおります。", "ko": "계단을 내려갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "エレベーター", "reading": "エレベーター", "meaning": "엘리베이터", "relation": "유의어"}
+      ],
+      "kanji": [
+        {"char": "階", "reading": "かい", "meaning": "층 계"},
+        {"char": "段", "reading": "だん", "meaning": "단 단"}
+      ],
+      "tags": ["건물", "일상"],
+      "frequency": 120
+    },
+    {
+      "id": "n5_w121",
+      "word": "エレベーター",
+      "reading": "エレベーター",
+      "meaning": "엘리베이터",
+      "meaningDetail": "건물 안에서 사람을 위아래로 이동시키는 기계",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [3, 0, 0, 0, 0, 0],
+      "examples": [
+        {"ja": "エレベーターに乗ります。", "reading": "エレベーターにのります。", "ko": "엘리베이터를 탑니다."},
+        {"ja": "エレベーターで5階に行きます。", "reading": "エレベーターでごかいにいきます。", "ko": "엘리베이터로 5층에 갑니다."}
+      ],
+      "relatedWords": [
+        {"word": "階段", "reading": "かいだん", "meaning": "계단", "relation": "유의어"}
+      ],
+      "kanji": [],
+      "tags": ["건물", "일상", "외래어"],
+      "frequency": 121
+    },
+    {
+      "id": "n5_w122",
+      "word": "入り口",
+      "reading": "いりぐち",
+      "meaning": "입구",
+      "meaningDetail": "들어가는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [0, 0, 0, 1],
+      "examples": [
+        {"ja": "入り口で待っています。", "reading": "いりぐちでまっています。", "ko": "입구에서 기다리고 있습니다."},
+        {"ja": "入り口はどこですか。", "reading": "いりぐちはどこですか。", "ko": "입구는 어디입니까?"}
+      ],
+      "relatedWords": [
+        {"word": "出口", "reading": "でぐち", "meaning": "출구", "relation": "반의어"}
+      ],
+      "kanji": [
+        {"char": "入", "reading": "い", "meaning": "들 입"},
+        {"char": "口", "reading": "ぐち", "meaning": "입 구"}
+      ],
+      "tags": ["건물", "방향"],
+      "frequency": 122
+    },
+    {
+      "id": "n5_w123",
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "출구",
+      "meaningDetail": "나가는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0, 0],
+      "examples": [
+        {"ja": "出口で会いましょう。", "reading": "でぐちであいましょう。", "ko": "출구에서 만납시다."},
+        {"ja": "出口は左にあります。", "reading": "でぐちはひだりにあります。", "ko": "출구는 왼쪽에 있습니다."}
+      ],
+      "relatedWords": [
+        {"word": "入り口", "reading": "いりぐち", "meaning": "입구", "relation": "반의어"}
+      ],
+      "kanji": [
+        {"char": "出", "reading": "で", "meaning": "날 출"},
+        {"char": "口", "reading": "ぐち", "meaning": "입 구"}
+      ],
+      "tags": ["건물", "방향"],
+      "frequency": 123
+    },
+    {
+      "id": "n5_w124",
+      "word": "窓",
+      "reading": "まど",
+      "meaning": "창문",
+      "meaningDetail": "빛이 들어오고 바깥을 볼 수 있는 곳",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "窓を開けてください。", "reading": "まどをあけてください。", "ko": "창문을 열어 주세요."},
+        {"ja": "窓から外を見ます。", "reading": "まどからそとをみます。", "ko": "창문에서 밖을 봅니다."}
+      ],
+      "relatedWords": [
+        {"word": "ドア", "reading": "ドア", "meaning": "문", "relation": "관련어"}
+      ],
+      "kanji": [
+        {"char": "窓", "reading": "まど", "meaning": "창 창"}
+      ],
+      "tags": ["건물", "가구"],
+      "frequency": 124
+    },
+    {
+      "id": "n5_w125",
+      "word": "ドア",
+      "reading": "ドア",
+      "meaning": "문",
+      "meaningDetail": "방이나 건물의 출입구를 여닫는 것",
+      "jlpt": "N5",
+      "category": "명사",
+      "pitch": [1, 0],
+      "examples": [
+        {"ja": "ドアを閉めてください。", "reading": "ドアをしめてください。", "ko": "문을 닫아 주세요."},
+        {"ja": "ドアを開けます。", "reading": "ドアをあけます。", "ko": "문을 엽니다."}
+      ],
+      "relatedWords": [
+        {"word": "窓", "reading": "まど", "meaning": "창문", "relation": "관련어"}
+      ],
+      "kanji": [],
+      "tags": ["건물", "가구", "외래어"],
+      "frequency": 125
+    }
+]

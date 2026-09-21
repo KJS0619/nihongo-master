@@ -1,0 +1,530 @@
+[
+  {
+    "word": "代わる",
+    "reading": "かわる",
+    "meaning": "대신하다",
+    "meaningDetail": "바뀌다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "役割が代わる。", "ko": "역할이 바뀌다." }
+    ]
+  },
+  {
+    "word": "移る",
+    "reading": "うつる",
+    "meaning": "옮겨가다",
+    "meaningDetail": "이동하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "話題が移る。", "ko": "화제가 옮겨가다." }
+    ]
+  },
+  {
+    "word": "移す",
+    "reading": "うつす",
+    "meaning": "옮기다",
+    "meaningDetail": "이동시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を移す。", "ko": "짐을 옮기다." }
+    ]
+  },
+  {
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "meaning": "나르다",
+    "meaningDetail": "운반하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を運ぶ。", "ko": "짐을 나르다." }
+    ]
+  },
+  {
+    "word": "持ち上げる",
+    "reading": "もちあげる",
+    "meaning": "들어올리다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "箱を持ち上げる。", "ko": "상자를 들어올리다." }
+    ]
+  },
+  {
+    "word": "下ろす",
+    "reading": "おろす",
+    "meaning": "내리다",
+    "meaningDetail": "내려놓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を下ろす。", "ko": "짐을 내리다." }
+    ]
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "놓다",
+    "meaningDetail": "두다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "本を置く。", "ko": "책을 놓다." }
+    ]
+  },
+  {
+    "word": "載せる",
+    "reading": "のせる",
+    "meaning": "싣다",
+    "meaningDetail": "올리다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "荷物を車に載せる。", "ko": "짐을 차에 싣다." }
+    ]
+  },
+  {
+    "word": "積む",
+    "reading": "つむ",
+    "meaning": "쌓다",
+    "meaningDetail": "적재하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "箱を積む。", "ko": "상자를 쌓다." }
+    ]
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "늘어놓다",
+    "meaningDetail": "정렬하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "商品を並べる。", "ko": "상품을 늘어놓다." }
+    ]
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "줄 서다",
+    "meaningDetail": "늘어서다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "列に並ぶ。", "ko": "줄을 서다." }
+    ]
+  },
+  {
+    "word": "揃える",
+    "reading": "そろえる",
+    "meaning": "갖추다",
+    "meaningDetail": "정돈하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "道具を揃える。", "ko": "도구를 갖추다." }
+    ]
+  },
+  {
+    "word": "揃う",
+    "reading": "そろう",
+    "meaning": "갖춰지다",
+    "meaningDetail": "모이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "メンバーが揃う。", "ko": "멤버가 모이다." }
+    ]
+  },
+  {
+    "word": "集める",
+    "reading": "あつめる",
+    "meaning": "모으다",
+    "meaningDetail": "수집하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "情報を集める。", "ko": "정보를 모으다." }
+    ]
+  },
+  {
+    "word": "集まる",
+    "reading": "あつまる",
+    "meaning": "모이다",
+    "meaningDetail": "집합하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "人が集まる。", "ko": "사람이 모이다." }
+    ]
+  },
+  {
+    "word": "散る",
+    "reading": "ちる",
+    "meaning": "흩어지다",
+    "meaningDetail": "떨어지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "桜が散る。", "ko": "벚꽃이 지다." }
+    ]
+  },
+  {
+    "word": "散らす",
+    "reading": "ちらす",
+    "meaning": "흩뿌리다",
+    "meaningDetail": "뿌리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "紙を散らす。", "ko": "종이를 흩뿌리다." }
+    ]
+  },
+  {
+    "word": "分ける",
+    "reading": "わける",
+    "meaning": "나누다",
+    "meaningDetail": "분류하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "グループに分ける。", "ko": "그룹으로 나누다." }
+    ]
+  },
+  {
+    "word": "分かれる",
+    "reading": "わかれる",
+    "meaning": "나뉘다",
+    "meaningDetail": "갈라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "道が分かれる。", "ko": "길이 나뉘다." }
+    ]
+  },
+  {
+    "word": "合わせる",
+    "reading": "あわせる",
+    "meaning": "맞추다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "時間を合わせる。", "ko": "시간을 맞추다." }
+    ]
+  },
+  {
+    "word": "合う",
+    "reading": "あう",
+    "meaning": "맞다",
+    "meaningDetail": "어울리다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "サイズが合う。", "ko": "사이즈가 맞다." }
+    ]
+  },
+  {
+    "word": "混ざる",
+    "reading": "まざる",
+    "meaning": "섞이다",
+    "meaningDetail": "혼합되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "色が混ざる。", "ko": "색이 섞이다." }
+    ]
+  },
+  {
+    "word": "溶ける",
+    "reading": "とける",
+    "meaning": "녹다",
+    "meaningDetail": "용해되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "氷が溶ける。", "ko": "얼음이 녹다." }
+    ]
+  },
+  {
+    "word": "溶かす",
+    "reading": "とかす",
+    "meaning": "녹이다",
+    "meaningDetail": "용해시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "砂糖を溶かす。", "ko": "설탕을 녹이다." }
+    ]
+  },
+  {
+    "word": "凍る",
+    "reading": "こおる",
+    "meaning": "얼다",
+    "meaningDetail": "동결되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "水が凍る。", "ko": "물이 얼다." }
+    ]
+  },
+  {
+    "word": "凍らせる",
+    "reading": "こおらせる",
+    "meaning": "얼리다",
+    "meaningDetail": "동결시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "肉を凍らせる。", "ko": "고기를 얼리다." }
+    ]
+  },
+  {
+    "word": "乾く",
+    "reading": "かわく",
+    "meaning": "마르다",
+    "meaningDetail": "건조해지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "洗濯物が乾く。", "ko": "빨래가 마르다." }
+    ]
+  },
+  {
+    "word": "乾かす",
+    "reading": "かわかす",
+    "meaning": "말리다",
+    "meaningDetail": "건조시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "髪を乾かす。", "ko": "머리를 말리다." }
+    ]
+  },
+  {
+    "word": "濡れる",
+    "reading": "ぬれる",
+    "meaning": "젖다",
+    "meaningDetail": "물에 젖다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "雨で濡れる。", "ko": "비에 젖다." }
+    ]
+  },
+  {
+    "word": "濡らす",
+    "reading": "ぬらす",
+    "meaning": "적시다",
+    "meaningDetail": "젖게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "タオルを濡らす。", "ko": "수건을 적시다." }
+    ]
+  },
+  {
+    "word": "汚れる",
+    "reading": "よごれる",
+    "meaning": "더러워지다",
+    "meaningDetail": "지저분해지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "服が汚れる。", "ko": "옷이 더러워지다." }
+    ]
+  },
+  {
+    "word": "汚す",
+    "reading": "よごす",
+    "meaning": "더럽히다",
+    "meaningDetail": "지저분하게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "手を汚す。", "ko": "손을 더럽히다." }
+    ]
+  },
+  {
+    "word": "染まる",
+    "reading": "そまる",
+    "meaning": "물들다",
+    "meaningDetail": "염색되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "赤く染まる。", "ko": "빨갛게 물들다." }
+    ]
+  },
+  {
+    "word": "染める",
+    "reading": "そめる",
+    "meaning": "염색하다",
+    "meaningDetail": "물들이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "髪を染める。", "ko": "머리를 염색하다." }
+    ]
+  },
+  {
+    "word": "光る",
+    "reading": "ひかる",
+    "meaning": "빛나다",
+    "meaningDetail": "반짝이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "星が光る。", "ko": "별이 빛나다." }
+    ]
+  },
+  {
+    "word": "輝く",
+    "reading": "かがやく",
+    "meaning": "빛나다",
+    "meaningDetail": "반짝반짝하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "目が輝く。", "ko": "눈이 빛나다." }
+    ]
+  },
+  {
+    "word": "照らす",
+    "reading": "てらす",
+    "meaning": "비추다",
+    "meaningDetail": "빛을 쏘다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "月が道を照らす。", "ko": "달이 길을 비추다." }
+    ]
+  },
+  {
+    "word": "映る",
+    "reading": "うつる",
+    "meaning": "비치다",
+    "meaningDetail": "보이다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鏡に映る。", "ko": "거울에 비치다." }
+    ]
+  },
+  {
+    "word": "映す",
+    "reading": "うつす",
+    "meaning": "비추다",
+    "meaningDetail": "반사시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "スクリーンに映す。", "ko": "스크린에 비추다." }
+    ]
+  },
+  {
+    "word": "響く",
+    "reading": "ひびく",
+    "meaning": "울리다",
+    "meaningDetail": "울려퍼지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鐘が響く。", "ko": "종이 울리다." }
+    ]
+  },
+  {
+    "word": "鳴る",
+    "reading": "なる",
+    "meaning": "울리다",
+    "meaningDetail": "소리나다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電話が鳴る。", "ko": "전화가 울리다." }
+    ]
+  },
+  {
+    "word": "鳴らす",
+    "reading": "ならす",
+    "meaning": "울리다",
+    "meaningDetail": "소리내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ベルを鳴らす。", "ko": "벨을 울리다." }
+    ]
+  },
+  {
+    "word": "叫ぶ",
+    "reading": "さけぶ",
+    "meaning": "외치다",
+    "meaningDetail": "소리지르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "助けを叫ぶ。", "ko": "도움을 외치다." }
+    ]
+  },
+  {
+    "word": "囁く",
+    "reading": "ささやく",
+    "meaning": "속삭이다",
+    "meaningDetail": "작게 말하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "耳元で囁く。", "ko": "귓가에 속삭이다." }
+    ]
+  },
+  {
+    "word": "黙る",
+    "reading": "だまる",
+    "meaning": "침묵하다",
+    "meaningDetail": "말하지 않다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "急に黙る。", "ko": "갑자기 침묵하다." }
+    ]
+  },
+  {
+    "word": "騒ぐ",
+    "reading": "さわぐ",
+    "meaning": "떠들다",
+    "meaningDetail": "소란피우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "子供が騒ぐ。", "ko": "아이가 떠들다." }
+    ]
+  },
+  {
+    "word": "静まる",
+    "reading": "しずまる",
+    "meaning": "잠잠해지다",
+    "meaningDetail": "조용해지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "場が静まる。", "ko": "장내가 잠잠해지다." }
+    ]
+  },
+  {
+    "word": "静める",
+    "reading": "しずめる",
+    "meaning": "진정시키다",
+    "meaningDetail": "조용하게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "心を静める。", "ko": "마음을 진정시키다." }
+    ]
+  }
+]

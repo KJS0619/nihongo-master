@@ -1,0 +1,482 @@
+[
+  {
+    "word": "日記",
+    "reading": "にっき",
+    "meaning": "일기",
+    "meaningDetail": "기록",
+    "category": "명사",
+    "examples": [
+      { "ja": "日記をつける。", "ko": "일기를 쓰다." }
+    ]
+  },
+  {
+    "word": "手帳",
+    "reading": "てちょう",
+    "meaning": "수첩",
+    "meaningDetail": "노트",
+    "category": "명사",
+    "examples": [
+      { "ja": "手帳に書く。", "ko": "수첩에 쓰다." }
+    ]
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "편지",
+    "meaningDetail": "서신",
+    "category": "명사",
+    "examples": [
+      { "ja": "手紙を送る。", "ko": "편지를 보내다." }
+    ]
+  },
+  {
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning": "봉투",
+    "meaningDetail": "편지봉투",
+    "category": "명사",
+    "examples": [
+      { "ja": "封筒に入れる。", "ko": "봉투에 넣다." }
+    ]
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "meaning": "우표",
+    "meaningDetail": "인지",
+    "category": "명사",
+    "examples": [
+      { "ja": "切手を貼る。", "ko": "우표를 붙이다." }
+    ]
+  },
+  {
+    "word": "郵便",
+    "reading": "ゆうびん",
+    "meaning": "우편",
+    "meaningDetail": "우송",
+    "category": "명사",
+    "examples": [
+      { "ja": "郵便を送る。", "ko": "우편을 보내다." }
+    ]
+  },
+  {
+    "word": "宅配",
+    "reading": "たくはい",
+    "meaning": "택배",
+    "meaningDetail": "배송",
+    "category": "명사",
+    "examples": [
+      { "ja": "宅配が届く。", "ko": "택배가 도착하다." }
+    ]
+  },
+  {
+    "word": "小包",
+    "reading": "こづつみ",
+    "meaning": "소포",
+    "meaningDetail": "꾸러미",
+    "category": "명사",
+    "examples": [
+      { "ja": "小包を送る。", "ko": "소포를 보내다." }
+    ]
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "짐",
+    "meaningDetail": "화물",
+    "category": "명사",
+    "examples": [
+      { "ja": "荷物を運ぶ。", "ko": "짐을 나르다." }
+    ]
+  },
+  {
+    "word": "貨物",
+    "reading": "かもつ",
+    "meaning": "화물",
+    "meaningDetail": "짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "貨物を積む。", "ko": "화물을 싣다." }
+    ]
+  },
+  {
+    "word": "物流",
+    "reading": "ぶつりゅう",
+    "meaning": "물류",
+    "meaningDetail": "유통",
+    "category": "명사",
+    "examples": [
+      { "ja": "物流を管理する。", "ko": "물류를 관리하다." }
+    ]
+  },
+  {
+    "word": "流通",
+    "reading": "りゅうつう",
+    "meaning": "유통",
+    "meaningDetail": "순환",
+    "category": "명사",
+    "examples": [
+      { "ja": "流通を促進する。", "ko": "유통을 촉진하다." }
+    ]
+  },
+  {
+    "word": "取引",
+    "reading": "とりひき",
+    "meaning": "거래",
+    "meaningDetail": "매매",
+    "category": "명사",
+    "examples": [
+      { "ja": "取引を行う。", "ko": "거래를 하다." }
+    ]
+  },
+  {
+    "word": "商売",
+    "reading": "しょうばい",
+    "meaning": "장사",
+    "meaningDetail": "사업",
+    "category": "명사",
+    "examples": [
+      { "ja": "商売をする。", "ko": "장사를 하다." }
+    ]
+  },
+  {
+    "word": "商業",
+    "reading": "しょうぎょう",
+    "meaning": "상업",
+    "meaningDetail": "장사",
+    "category": "명사",
+    "examples": [
+      { "ja": "商業が発達する。", "ko": "상업이 발달하다." }
+    ]
+  },
+  {
+    "word": "産業",
+    "reading": "さんぎょう",
+    "meaning": "산업",
+    "meaningDetail": "공업",
+    "category": "명사",
+    "examples": [
+      { "ja": "産業を育てる。", "ko": "산업을 키우다." }
+    ]
+  },
+  {
+    "word": "工業",
+    "reading": "こうぎょう",
+    "meaning": "공업",
+    "meaningDetail": "제조업",
+    "category": "명사",
+    "examples": [
+      { "ja": "工業が発展する。", "ko": "공업이 발전하다." }
+    ]
+  },
+  {
+    "word": "農業",
+    "reading": "のうぎょう",
+    "meaning": "농업",
+    "meaningDetail": "농사",
+    "category": "명사",
+    "examples": [
+      { "ja": "農業に従事する。", "ko": "농업에 종사하다." }
+    ]
+  },
+  {
+    "word": "漁業",
+    "reading": "ぎょぎょう",
+    "meaning": "어업",
+    "meaningDetail": "고기잡이",
+    "category": "명사",
+    "examples": [
+      { "ja": "漁業が盛んだ。", "ko": "어업이 성하다." }
+    ]
+  },
+  {
+    "word": "林業",
+    "reading": "りんぎょう",
+    "meaning": "임업",
+    "meaningDetail": "산림업",
+    "category": "명사",
+    "examples": [
+      { "ja": "林業に携わる。", "ko": "임업에 종사하다." }
+    ]
+  },
+  {
+    "word": "鉱業",
+    "reading": "こうぎょう",
+    "meaning": "광업",
+    "meaningDetail": "광산업",
+    "category": "명사",
+    "examples": [
+      { "ja": "鉱業が発達する。", "ko": "광업이 발달하다." }
+    ]
+  },
+  {
+    "word": "建設",
+    "reading": "けんせつ",
+    "meaning": "건설",
+    "meaningDetail": "건축",
+    "category": "명사",
+    "examples": [
+      { "ja": "ビルを建設する。", "ko": "빌딩을 건설하다." }
+    ]
+  },
+  {
+    "word": "建築",
+    "reading": "けんちく",
+    "meaning": "건축",
+    "meaningDetail": "짓기",
+    "category": "명사",
+    "examples": [
+      { "ja": "建築を学ぶ。", "ko": "건축을 배우다." }
+    ]
+  },
+  {
+    "word": "土木",
+    "reading": "どぼく",
+    "meaning": "토목",
+    "meaningDetail": "공사",
+    "category": "명사",
+    "examples": [
+      { "ja": "土木工事を行う。", "ko": "토목공사를 하다." }
+    ]
+  },
+  {
+    "word": "工事",
+    "reading": "こうじ",
+    "meaning": "공사",
+    "meaningDetail": "작업",
+    "category": "명사",
+    "examples": [
+      { "ja": "工事が始まる。", "ko": "공사가 시작되다." }
+    ]
+  },
+  {
+    "word": "作業",
+    "reading": "さぎょう",
+    "meaning": "작업",
+    "meaningDetail": "일",
+    "category": "명사",
+    "examples": [
+      { "ja": "作業を進める。", "ko": "작업을 진행하다." }
+    ]
+  },
+  {
+    "word": "操作",
+    "reading": "そうさ",
+    "meaning": "조작",
+    "meaningDetail": "다루기",
+    "category": "명사",
+    "examples": [
+      { "ja": "操作が簡単だ。", "ko": "조작이 간단하다." }
+    ]
+  },
+  {
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "절차",
+    "meaningDetail": "수속",
+    "category": "명사",
+    "examples": [
+      { "ja": "手続きを済ませる。", "ko": "절차를 마치다." }
+    ]
+  },
+  {
+    "word": "処理",
+    "reading": "しょり",
+    "meaning": "처리",
+    "meaningDetail": "다루기",
+    "category": "명사",
+    "examples": [
+      { "ja": "処理を行う。", "ko": "처리를 하다." }
+    ]
+  },
+  {
+    "word": "対応",
+    "reading": "たいおう",
+    "meaning": "대응",
+    "meaningDetail": "응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "対応が早い。", "ko": "대응이 빠르다." }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "meaningDetail": "방책",
+    "category": "명사",
+    "examples": [
+      { "ja": "対策を練る。", "ko": "대책을 세우다." }
+    ]
+  },
+  {
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "해결",
+    "meaningDetail": "풀기",
+    "category": "명사",
+    "examples": [
+      { "ja": "解決に向かう。", "ko": "해결로 향하다." }
+    ]
+  },
+  {
+    "word": "解消",
+    "reading": "かいしょう",
+    "meaning": "해소",
+    "meaningDetail": "없앰",
+    "category": "명사",
+    "examples": [
+      { "ja": "ストレス解消になる。", "ko": "스트레스 해소가 되다." }
+    ]
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "나아짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "改善が見られる。", "ko": "개선이 보이다." }
+    ]
+  },
+  {
+    "word": "改良",
+    "reading": "かいりょう",
+    "meaning": "개량",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "品種を改良する。", "ko": "품종을 개량하다." }
+    ]
+  },
+  {
+    "word": "修理",
+    "reading": "しゅうり",
+    "meaning": "수리",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "修理に出す。", "ko": "수리에 맡기다." }
+    ]
+  },
+  {
+    "word": "修復",
+    "reading": "しゅうふく",
+    "meaning": "수복",
+    "meaningDetail": "되돌림",
+    "category": "명사",
+    "examples": [
+      { "ja": "関係を修復する。", "ko": "관계를 수복하다." }
+    ]
+  },
+  {
+    "word": "修繕",
+    "reading": "しゅうぜん",
+    "meaning": "수선",
+    "meaningDetail": "고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "建物を修繕する。", "ko": "건물을 수선하다." }
+    ]
+  },
+  {
+    "word": "補修",
+    "reading": "ほしゅう",
+    "meaning": "보수",
+    "meaningDetail": "수리",
+    "category": "명사",
+    "examples": [
+      { "ja": "道路を補修する。", "ko": "도로를 보수하다." }
+    ]
+  },
+  {
+    "word": "補助",
+    "reading": "ほじょ",
+    "meaning": "보조",
+    "meaningDetail": "도움",
+    "category": "명사",
+    "examples": [
+      { "ja": "補助を受ける。", "ko": "보조를 받다." }
+    ]
+  },
+  {
+    "word": "補充",
+    "reading": "ほじゅう",
+    "meaning": "보충",
+    "meaningDetail": "채움",
+    "category": "명사",
+    "examples": [
+      { "ja": "人員を補充する。", "ko": "인원을 보충하다." }
+    ]
+  },
+  {
+    "word": "補給",
+    "reading": "ほきゅう",
+    "meaning": "보급",
+    "meaningDetail": "공급",
+    "category": "명사",
+    "examples": [
+      { "ja": "物資を補給する。", "ko": "물자를 보급하다." }
+    ]
+  },
+  {
+    "word": "補償",
+    "reading": "ほしょう",
+    "meaning": "보상",
+    "meaningDetail": "배상",
+    "category": "명사",
+    "examples": [
+      { "ja": "補償を求める。", "ko": "보상을 요구하다." }
+    ]
+  },
+  {
+    "word": "賠償",
+    "reading": "ばいしょう",
+    "meaning": "배상",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "賠償を払う。", "ko": "배상을 지불하다." }
+    ]
+  },
+  {
+    "word": "弁償",
+    "reading": "べんしょう",
+    "meaning": "변상",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "弁償を求める。", "ko": "변상을 요구하다." }
+    ]
+  },
+  {
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "손해",
+    "meaningDetail": "피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "損害を受ける。", "ko": "손해를 입다." }
+    ]
+  },
+  {
+    "word": "損失",
+    "reading": "そんしつ",
+    "meaning": "손실",
+    "meaningDetail": "잃음",
+    "category": "명사",
+    "examples": [
+      { "ja": "損失を計上する。", "ko": "손실을 계상하다." }
+    ]
+  },
+  {
+    "word": "損傷",
+    "reading": "そんしょう",
+    "meaning": "손상",
+    "meaningDetail": "상함",
+    "category": "명사",
+    "examples": [
+      { "ja": "損傷を受ける。", "ko": "손상을 입다." }
+    ]
+  }
+]

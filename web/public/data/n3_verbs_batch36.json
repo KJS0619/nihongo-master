@@ -1,0 +1,519 @@
+[
+  {
+    "word": "比較する",
+    "reading": "ひかくする",
+    "meaning": "비교하다",
+    "meaningDetail": "견주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "価格を比較する。", "ko": "가격을 비교하다." }
+    ]
+  },
+  {
+    "word": "比例する",
+    "reading": "ひれいする",
+    "meaning": "비례하다",
+    "meaningDetail": "균형잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "収入に比例する。", "ko": "수입에 비례하다." }
+    ]
+  },
+  {
+    "word": "区別する",
+    "reading": "くべつする",
+    "meaning": "구별하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "善悪を区別する。", "ko": "선악을 구별하다." }
+    ]
+  },
+  {
+    "word": "区分する",
+    "reading": "くぶんする",
+    "meaning": "구분하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "区域を区分する。", "ko": "구역을 구분하다." }
+    ]
+  },
+  {
+    "word": "分類する",
+    "reading": "ぶんるいする",
+    "meaning": "분류하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを分類する。", "ko": "데이터를 분류하다." }
+    ]
+  },
+  {
+    "word": "分割する",
+    "reading": "ぶんかつする",
+    "meaning": "분할하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "土地を分割する。", "ko": "토지를 분할하다." }
+    ]
+  },
+  {
+    "word": "分担する",
+    "reading": "ぶんたんする",
+    "meaning": "분담하다",
+    "meaningDetail": "나눠맡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "費用を分担する。", "ko": "비용을 분담하다." }
+    ]
+  },
+  {
+    "word": "分散する",
+    "reading": "ぶんさんする",
+    "meaning": "분산하다",
+    "meaningDetail": "흩어지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "リスクを分散する。", "ko": "리스크를 분산하다." }
+    ]
+  },
+  {
+    "word": "集中する",
+    "reading": "しゅうちゅうする",
+    "meaning": "집중하다",
+    "meaningDetail": "모으다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "注意を集中する。", "ko": "주의를 집중하다." }
+    ]
+  },
+  {
+    "word": "集合する",
+    "reading": "しゅうごうする",
+    "meaning": "집합하다",
+    "meaningDetail": "모이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "駅前に集合する。", "ko": "역앞에 집합하다." }
+    ]
+  },
+  {
+    "word": "統合する",
+    "reading": "とうごうする",
+    "meaning": "통합하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "システムを統合する。", "ko": "시스템을 통합하다." }
+    ]
+  },
+  {
+    "word": "統一する",
+    "reading": "とういつする",
+    "meaning": "통일하다",
+    "meaningDetail": "하나로 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を統一する。", "ko": "의견을 통일하다." }
+    ]
+  },
+  {
+    "word": "総合する",
+    "reading": "そうごうする",
+    "meaning": "종합하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を総合する。", "ko": "의견을 종합하다." }
+    ]
+  },
+  {
+    "word": "合併する",
+    "reading": "がっぺいする",
+    "meaning": "합병하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社を合併する。", "ko": "회사를 합병하다." }
+    ]
+  },
+  {
+    "word": "合流する",
+    "reading": "ごうりゅうする",
+    "meaning": "합류하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "川が合流する。", "ko": "강이 합류하다." }
+    ]
+  },
+  {
+    "word": "結合する",
+    "reading": "けつごうする",
+    "meaning": "결합하다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "分子が結合する。", "ko": "분자가 결합하다." }
+    ]
+  },
+  {
+    "word": "連結する",
+    "reading": "れんけつする",
+    "meaning": "연결하다",
+    "meaningDetail": "잇다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "車両を連結する。", "ko": "차량을 연결하다." }
+    ]
+  },
+  {
+    "word": "接続する",
+    "reading": "せつぞくする",
+    "meaning": "접속하다",
+    "meaningDetail": "연결하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "インターネットに接続する。", "ko": "인터넷에 접속하다." }
+    ]
+  },
+  {
+    "word": "交流する",
+    "reading": "こうりゅうする",
+    "meaning": "교류하다",
+    "meaningDetail": "주고받다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "文化を交流する。", "ko": "문화를 교류하다." }
+    ]
+  },
+  {
+    "word": "交換する",
+    "reading": "こうかんする",
+    "meaning": "교환하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "名刺を交換する。", "ko": "명함을 교환하다." }
+    ]
+  },
+  {
+    "word": "交渉する",
+    "reading": "こうしょうする",
+    "meaning": "교섭하다",
+    "meaningDetail": "협상하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条件を交渉する。", "ko": "조건을 교섭하다." }
+    ]
+  },
+  {
+    "word": "協議する",
+    "reading": "きょうぎする",
+    "meaning": "협의하다",
+    "meaningDetail": "상의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を協議する。", "ko": "문제를 협의하다." }
+    ]
+  },
+  {
+    "word": "協力する",
+    "reading": "きょうりょくする",
+    "meaning": "협력하다",
+    "meaningDetail": "돕다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "プロジェクトに協力する。", "ko": "프로젝트에 협력하다." }
+    ]
+  },
+  {
+    "word": "連携する",
+    "reading": "れんけいする",
+    "meaning": "연계하다",
+    "meaningDetail": "협력하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "部署と連携する。", "ko": "부서와 연계하다." }
+    ]
+  },
+  {
+    "word": "提携する",
+    "reading": "ていけいする",
+    "meaning": "제휴하다",
+    "meaningDetail": "협력하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "企業と提携する。", "ko": "기업과 제휴하다." }
+    ]
+  },
+  {
+    "word": "契約する",
+    "reading": "けいやくする",
+    "meaning": "계약하다",
+    "meaningDetail": "맺다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "契約を結ぶ。", "ko": "계약을 맺다." }
+    ]
+  },
+  {
+    "word": "締結する",
+    "reading": "ていけつする",
+    "meaning": "체결하다",
+    "meaningDetail": "맺다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条約を締結する。", "ko": "조약을 체결하다." }
+    ]
+  },
+  {
+    "word": "約束する",
+    "reading": "やくそくする",
+    "meaning": "약속하다",
+    "meaningDetail": "맹세하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "将来を約束する。", "ko": "장래를 약속하다." }
+    ]
+  },
+  {
+    "word": "約定する",
+    "reading": "やくじょうする",
+    "meaning": "약정하다",
+    "meaningDetail": "정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条件を約定する。", "ko": "조건을 약정하다." }
+    ]
+  },
+  {
+    "word": "合意する",
+    "reading": "ごういする",
+    "meaning": "합의하다",
+    "meaningDetail": "동의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条件に合意する。", "ko": "조건에 합의하다." }
+    ]
+  },
+  {
+    "word": "調印する",
+    "reading": "ちょういんする",
+    "meaning": "조인하다",
+    "meaningDetail": "서명하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条約に調印する。", "ko": "조약에 조인하다." }
+    ]
+  },
+  {
+    "word": "署名する",
+    "reading": "しょめいする",
+    "meaning": "서명하다",
+    "meaningDetail": "사인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "書類に署名する。", "ko": "서류에 서명하다." }
+    ]
+  },
+  {
+    "word": "登録する",
+    "reading": "とうろくする",
+    "meaning": "등록하다",
+    "meaningDetail": "기재하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会員に登録する。", "ko": "회원에 등록하다." }
+    ]
+  },
+  {
+    "word": "記載する",
+    "reading": "きさいする",
+    "meaning": "기재하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "住所を記載する。", "ko": "주소를 기재하다." }
+    ]
+  },
+  {
+    "word": "記入する",
+    "reading": "きにゅうする",
+    "meaning": "기입하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "名前を記入する。", "ko": "이름을 기입하다." }
+    ]
+  },
+  {
+    "word": "記述する",
+    "reading": "きじゅつする",
+    "meaning": "기술하다",
+    "meaningDetail": "쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "内容を記述する。", "ko": "내용을 기술하다." }
+    ]
+  },
+  {
+    "word": "記録する",
+    "reading": "きろくする",
+    "meaning": "기록하다",
+    "meaningDetail": "남기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "歴史を記録する。", "ko": "역사를 기록하다." }
+    ]
+  },
+  {
+    "word": "記憶する",
+    "reading": "きおくする",
+    "meaning": "기억하다",
+    "meaningDetail": "외우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "名前を記憶する。", "ko": "이름을 기억하다." }
+    ]
+  },
+  {
+    "word": "暗記する",
+    "reading": "あんきする",
+    "meaning": "암기하다",
+    "meaningDetail": "외우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "単語を暗記する。", "ko": "단어를 암기하다." }
+    ]
+  },
+  {
+    "word": "習得する",
+    "reading": "しゅうとくする",
+    "meaning": "습득하다",
+    "meaningDetail": "익히다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "技術を習得する。", "ko": "기술을 습득하다." }
+    ]
+  },
+  {
+    "word": "取得する",
+    "reading": "しゅとくする",
+    "meaning": "취득하다",
+    "meaningDetail": "얻다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資格を取得する。", "ko": "자격을 취득하다." }
+    ]
+  },
+  {
+    "word": "獲得する",
+    "reading": "かくとくする",
+    "meaning": "획득하다",
+    "meaningDetail": "얻다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "金メダルを獲得する。", "ko": "금메달을 획득하다." }
+    ]
+  },
+  {
+    "word": "入手する",
+    "reading": "にゅうしゅする",
+    "meaning": "입수하다",
+    "meaningDetail": "얻다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "情報を入手する。", "ko": "정보를 입수하다." }
+    ]
+  },
+  {
+    "word": "受領する",
+    "reading": "じゅりょうする",
+    "meaning": "수령하다",
+    "meaningDetail": "받다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を受領する。", "ko": "짐을 수령하다." }
+    ]
+  },
+  {
+    "word": "受付ける",
+    "reading": "うけつける",
+    "meaning": "접수하다",
+    "meaningDetail": "받다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "申請を受付ける。", "ko": "신청을 접수하다." }
+    ]
+  },
+  {
+    "word": "受け入れる",
+    "reading": "うけいれる",
+    "meaning": "받아들이다",
+    "meaningDetail": "수용하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "意見を受け入れる。", "ko": "의견을 받아들이다." }
+    ]
+  },
+  {
+    "word": "受け取る",
+    "reading": "うけとる",
+    "meaning": "받다",
+    "meaningDetail": "수령하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を受け取る。", "ko": "짐을 받다." }
+    ]
+  }
+]

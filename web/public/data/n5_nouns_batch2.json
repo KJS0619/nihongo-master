@@ -1,0 +1,1795 @@
+[
+  {
+    "id": "w_n5_n2_001",
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "머리",
+    "meaningDetail": "사람이나 동물의 목 위에 있는 부분",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "頭が痛いです。", "reading": "あたまがいたいです。", "ko": "머리가 아픕니다."},
+      {"ja": "頭を使って考えてください。", "reading": "あたまをつかってかんがえてください。", "ko": "머리를 써서 생각해 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "顔", "reading": "かお", "meaning": "얼굴", "relation": "관련어"},
+      {"word": "髪", "reading": "かみ", "meaning": "머리카락", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "頭", "reading": "あたま", "meaning": "머리 두"}],
+    "tags": ["신체", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_002",
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "얼굴",
+    "meaningDetail": "눈, 코, 입이 있는 머리의 앞부분",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "顔を洗います。", "reading": "かおをあらいます。", "ko": "얼굴을 씻습니다."},
+      {"ja": "彼女は顔が小さいです。", "reading": "かのじょはかおがちいさいです。", "ko": "그녀는 얼굴이 작습니다."}
+    ],
+    "relatedWords": [
+      {"word": "頭", "reading": "あたま", "meaning": "머리", "relation": "관련어"},
+      {"word": "目", "reading": "め", "meaning": "눈", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "顔", "reading": "かお", "meaning": "얼굴 안"}],
+    "tags": ["신체", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_n2_003",
+    "word": "目",
+    "reading": "め",
+    "meaning": "눈",
+    "meaningDetail": "보는 기관, 시력을 담당하는 신체 부위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "目が大きいですね。", "reading": "めがおおきいですね。", "ko": "눈이 크네요."},
+      {"ja": "目を閉じてください。", "reading": "めをとじてください。", "ko": "눈을 감아 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "耳", "reading": "みみ", "meaning": "귀", "relation": "관련어"},
+      {"word": "眼鏡", "reading": "めがね", "meaning": "안경", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "目", "reading": "め", "meaning": "눈 목"}],
+    "tags": ["신체", "N5"],
+    "frequency": 90
+  },
+  {
+    "id": "w_n5_n2_004",
+    "word": "耳",
+    "reading": "みみ",
+    "meaning": "귀",
+    "meaningDetail": "소리를 듣는 기관",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "耳が聞こえません。", "reading": "みみがきこえません。", "ko": "귀가 들리지 않습니다."},
+      {"ja": "耳にイヤホンをつけています。", "reading": "みみにいやほんをつけています。", "ko": "귀에 이어폰을 끼고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "目", "reading": "め", "meaning": "눈", "relation": "관련어"},
+      {"word": "口", "reading": "くち", "meaning": "입", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "耳", "reading": "みみ", "meaning": "귀 이"}],
+    "tags": ["신체", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_005",
+    "word": "口",
+    "reading": "くち",
+    "meaning": "입",
+    "meaningDetail": "음식을 먹고 말을 하는 기관",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "口を開けてください。", "reading": "くちをあけてください。", "ko": "입을 벌려 주세요."},
+      {"ja": "口が小さいです。", "reading": "くちがちいさいです。", "ko": "입이 작습니다."}
+    ],
+    "relatedWords": [
+      {"word": "歯", "reading": "は", "meaning": "이", "relation": "관련어"},
+      {"word": "鼻", "reading": "はな", "meaning": "코", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "口", "reading": "くち", "meaning": "입 구"}],
+    "tags": ["신체", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_n2_006",
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "코",
+    "meaningDetail": "냄새를 맡고 숨을 쉬는 기관",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "鼻が高いですね。", "reading": "はながたかいですね。", "ko": "코가 높네요."},
+      {"ja": "鼻水が出ます。", "reading": "はなみずがでます。", "ko": "콧물이 납니다."}
+    ],
+    "relatedWords": [
+      {"word": "口", "reading": "くち", "meaning": "입", "relation": "관련어"},
+      {"word": "目", "reading": "め", "meaning": "눈", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "鼻", "reading": "はな", "meaning": "코 비"}],
+    "tags": ["신체", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_n2_007",
+    "word": "歯",
+    "reading": "は",
+    "meaning": "이, 치아",
+    "meaningDetail": "음식을 씹는 데 사용하는 뼈 조직",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "歯を磨きます。", "reading": "はをみがきます。", "ko": "이를 닦습니다."},
+      {"ja": "歯が痛いです。", "reading": "はがいたいです。", "ko": "이가 아픕니다."}
+    ],
+    "relatedWords": [
+      {"word": "口", "reading": "くち", "meaning": "입", "relation": "관련어"},
+      {"word": "歯医者", "reading": "はいしゃ", "meaning": "치과의사", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "歯", "reading": "は", "meaning": "이 치"}],
+    "tags": ["신체", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_008",
+    "word": "手",
+    "reading": "て",
+    "meaning": "손",
+    "meaningDetail": "물건을 잡거나 만지는 신체 부위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "手を洗ってください。", "reading": "てをあらってください。", "ko": "손을 씻어 주세요."},
+      {"ja": "手が冷たいです。", "reading": "てがつめたいです。", "ko": "손이 차갑습니다."}
+    ],
+    "relatedWords": [
+      {"word": "足", "reading": "あし", "meaning": "발, 다리", "relation": "관련어"},
+      {"word": "指", "reading": "ゆび", "meaning": "손가락", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "手", "reading": "て", "meaning": "손 수"}],
+    "tags": ["신체", "N5"],
+    "frequency": 92
+  },
+  {
+    "id": "w_n5_n2_009",
+    "word": "足",
+    "reading": "あし",
+    "meaning": "발, 다리",
+    "meaningDetail": "걷거나 서는 데 사용하는 신체 부위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "足が速いですね。", "reading": "あしがはやいですね。", "ko": "발이 빠르네요."},
+      {"ja": "足が疲れました。", "reading": "あしがつかれました。", "ko": "다리가 피곤해졌습니다."}
+    ],
+    "relatedWords": [
+      {"word": "手", "reading": "て", "meaning": "손", "relation": "관련어"},
+      {"word": "靴", "reading": "くつ", "meaning": "신발", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "足", "reading": "あし", "meaning": "발 족"}],
+    "tags": ["신체", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_010",
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "몸, 신체",
+    "meaningDetail": "사람이나 동물의 전체적인 물리적 구조",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "体に気をつけてください。", "reading": "からだにきをつけてください。", "ko": "몸조심하세요."},
+      {"ja": "体が丈夫です。", "reading": "からだがじょうぶです。", "ko": "몸이 튼튼합니다."}
+    ],
+    "relatedWords": [
+      {"word": "健康", "reading": "けんこう", "meaning": "건강", "relation": "관련어"},
+      {"word": "心", "reading": "こころ", "meaning": "마음", "relation": "반의어"}
+    ],
+    "kanji": [{"char": "体", "reading": "からだ", "meaning": "몸 체"}],
+    "tags": ["신체", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_n2_011",
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "배",
+    "meaningDetail": "몸의 중간 부분, 위장이 있는 곳",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "お腹が空きました。", "reading": "おなかがすきました。", "ko": "배가 고픕니다."},
+      {"ja": "お腹がいっぱいです。", "reading": "おなかがいっぱいです。", "ko": "배가 부릅니다."}
+    ],
+    "relatedWords": [
+      {"word": "背中", "reading": "せなか", "meaning": "등", "relation": "관련어"},
+      {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "腹", "reading": "なか", "meaning": "배 복"}],
+    "tags": ["신체", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_012",
+    "word": "背中",
+    "reading": "せなか",
+    "meaning": "등",
+    "meaningDetail": "몸의 뒷부분",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "背中が痛いです。", "reading": "せなかがいたいです。", "ko": "등이 아픕니다."},
+      {"ja": "背中を見せてください。", "reading": "せなかをみせてください。", "ko": "등을 보여 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "お腹", "reading": "おなか", "meaning": "배", "relation": "관련어"},
+      {"word": "肩", "reading": "かた", "meaning": "어깨", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "背", "reading": "せ", "meaning": "등 배"},
+      {"char": "中", "reading": "なか", "meaning": "가운데 중"}
+    ],
+    "tags": ["신체", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_013",
+    "word": "首",
+    "reading": "くび",
+    "meaning": "목",
+    "meaningDetail": "머리와 몸을 연결하는 부분",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "首が長いですね。", "reading": "くびがながいですね。", "ko": "목이 기네요."},
+      {"ja": "首にネックレスをしています。", "reading": "くびにねっくれすをしています。", "ko": "목에 목걸이를 하고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "頭", "reading": "あたま", "meaning": "머리", "relation": "관련어"},
+      {"word": "肩", "reading": "かた", "meaning": "어깨", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "首", "reading": "くび", "meaning": "목 수"}],
+    "tags": ["신체", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_014",
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "옷",
+    "meaningDetail": "몸에 입는 것의 총칭",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "新しい服を買いました。", "reading": "あたらしいふくをかいました。", "ko": "새 옷을 샀습니다."},
+      {"ja": "服を着てください。", "reading": "ふくをきてください。", "ko": "옷을 입어 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "着る", "reading": "きる", "meaning": "입다", "relation": "관련어"},
+      {"word": "洋服", "reading": "ようふく", "meaning": "양복", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "服", "reading": "ふく", "meaning": "옷 복"}],
+    "tags": ["의류", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_015",
+    "word": "シャツ",
+    "reading": "しゃつ",
+    "meaning": "셔츠",
+    "meaningDetail": "상의의 일종, 보통 단추가 달린 옷",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "白いシャツを着ています。", "reading": "しろいしゃつをきています。", "ko": "흰 셔츠를 입고 있습니다."},
+      {"ja": "シャツを洗いました。", "reading": "しゃつをあらいました。", "ko": "셔츠를 빨았습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ズボン", "reading": "ずぼん", "meaning": "바지", "relation": "관련어"},
+      {"word": "Tシャツ", "reading": "てぃーしゃつ", "meaning": "티셔츠", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의류", "N5", "외래어"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_016",
+    "word": "ズボン",
+    "reading": "ずぼん",
+    "meaning": "바지",
+    "meaningDetail": "다리를 덮는 옷",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 0],
+    "examples": [
+      {"ja": "ズボンが長いです。", "reading": "ずぼんがながいです。", "ko": "바지가 깁니다."},
+      {"ja": "黒いズボンを履いています。", "reading": "くろいずぼんをはいています。", "ko": "검은 바지를 입고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "シャツ", "reading": "しゃつ", "meaning": "셔츠", "relation": "관련어"},
+      {"word": "スカート", "reading": "すかーと", "meaning": "치마", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의류", "N5", "외래어"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_017",
+    "word": "スカート",
+    "reading": "すかーと",
+    "meaning": "치마",
+    "meaningDetail": "여성이 입는 하의의 일종",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "スカートが短いです。", "reading": "すかーとがみじかいです。", "ko": "치마가 짧습니다."},
+      {"ja": "赤いスカートを履きたいです。", "reading": "あかいすかーとをはきたいです。", "ko": "빨간 치마를 입고 싶습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ズボン", "reading": "ずぼん", "meaning": "바지", "relation": "관련어"},
+      {"word": "ワンピース", "reading": "わんぴーす", "meaning": "원피스", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["의류", "N5", "외래어"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_018",
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "신발, 구두",
+    "meaningDetail": "발에 신는 것",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "靴を履いてください。", "reading": "くつをはいてください。", "ko": "신발을 신어 주세요."},
+      {"ja": "新しい靴を買いたいです。", "reading": "あたらしいくつをかいたいです。", "ko": "새 신발을 사고 싶습니다."}
+    ],
+    "relatedWords": [
+      {"word": "靴下", "reading": "くつした", "meaning": "양말", "relation": "관련어"},
+      {"word": "足", "reading": "あし", "meaning": "발", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "靴", "reading": "くつ", "meaning": "신발 화"}],
+    "tags": ["의류", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_019",
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "양말",
+    "meaningDetail": "발에 신는 얇은 천",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "靴下を履きます。", "reading": "くつしたをはきます。", "ko": "양말을 신습니다."},
+      {"ja": "白い靴下が好きです。", "reading": "しろいくつしたがすきです。", "ko": "흰 양말을 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "靴", "reading": "くつ", "meaning": "신발", "relation": "관련어"},
+      {"word": "足", "reading": "あし", "meaning": "발", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "靴", "reading": "くつ", "meaning": "신발 화"},
+      {"char": "下", "reading": "した", "meaning": "아래 하"}
+    ],
+    "tags": ["의류", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_020",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "모자",
+    "meaningDetail": "머리에 쓰는 것",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "帽子をかぶってください。", "reading": "ぼうしをかぶってください。", "ko": "모자를 써 주세요."},
+      {"ja": "赤い帽子がかわいいです。", "reading": "あかいぼうしがかわいいです。", "ko": "빨간 모자가 귀엽습니다."}
+    ],
+    "relatedWords": [
+      {"word": "眼鏡", "reading": "めがね", "meaning": "안경", "relation": "관련어"},
+      {"word": "頭", "reading": "あたま", "meaning": "머리", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "帽", "reading": "ぼう", "meaning": "모자 모"},
+      {"char": "子", "reading": "し", "meaning": "아들 자"}
+    ],
+    "tags": ["의류", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_n2_021",
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaning": "안경",
+    "meaningDetail": "눈에 쓰는 시력 보조 기구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "眼鏡をかけています。", "reading": "めがねをかけています。", "ko": "안경을 쓰고 있습니다."},
+      {"ja": "眼鏡がなくて見えません。", "reading": "めがねがなくてみえません。", "ko": "안경이 없어서 보이지 않습니다."}
+    ],
+    "relatedWords": [
+      {"word": "目", "reading": "め", "meaning": "눈", "relation": "관련어"},
+      {"word": "サングラス", "reading": "さんぐらす", "meaning": "선글라스", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "眼", "reading": "め", "meaning": "눈 안"},
+      {"char": "鏡", "reading": "かがみ", "meaning": "거울 경"}
+    ],
+    "tags": ["의류", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_022",
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "시계",
+    "meaningDetail": "시간을 알려주는 기구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "時計を見てください。", "reading": "とけいをみてください。", "ko": "시계를 봐 주세요."},
+      {"ja": "腕時計を買いました。", "reading": "うでどけいをかいました。", "ko": "손목시계를 샀습니다."}
+    ],
+    "relatedWords": [
+      {"word": "時間", "reading": "じかん", "meaning": "시간", "relation": "관련어"},
+      {"word": "腕時計", "reading": "うでどけい", "meaning": "손목시계", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "時", "reading": "と", "meaning": "때 시"},
+      {"char": "計", "reading": "けい", "meaning": "셀 계"}
+    ],
+    "tags": ["물건", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_n2_023",
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "열쇠",
+    "meaningDetail": "문을 잠그거나 여는 도구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "鍵をなくしました。", "reading": "かぎをなくしました。", "ko": "열쇠를 잃어버렸습니다."},
+      {"ja": "ドアに鍵をかけてください。", "reading": "どあにかぎをかけてください。", "ko": "문에 열쇠를 잠가 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "ドア", "reading": "どあ", "meaning": "문", "relation": "관련어"},
+      {"word": "窓", "reading": "まど", "meaning": "창문", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "鍵", "reading": "かぎ", "meaning": "열쇠 건"}],
+    "tags": ["물건", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_024",
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "지갑",
+    "meaningDetail": "돈이나 카드를 넣어 두는 작은 주머니",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "財布を忘れました。", "reading": "さいふをわすれました。", "ko": "지갑을 잊어버렸습니다."},
+      {"ja": "財布にお金がありません。", "reading": "さいふにおかねがありません。", "ko": "지갑에 돈이 없습니다."}
+    ],
+    "relatedWords": [
+      {"word": "お金", "reading": "おかね", "meaning": "돈", "relation": "관련어"},
+      {"word": "かばん", "reading": "かばん", "meaning": "가방", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "財", "reading": "さい", "meaning": "재물 재"},
+      {"char": "布", "reading": "ふ", "meaning": "천 포"}
+    ],
+    "tags": ["물건", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_025",
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning": "표, 티켓",
+    "meaningDetail": "교통수단이나 입장을 위한 증명서",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "切符を買います。", "reading": "きっぷをかいます。", "ko": "표를 삽니다."},
+      {"ja": "切符をなくしました。", "reading": "きっぷをなくしました。", "ko": "표를 잃어버렸습니다."}
+    ],
+    "relatedWords": [
+      {"word": "電車", "reading": "でんしゃ", "meaning": "전차", "relation": "관련어"},
+      {"word": "駅", "reading": "えき", "meaning": "역", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "切", "reading": "きっ", "meaning": "끊을 절"},
+      {"char": "符", "reading": "ぷ", "meaning": "부신 부"}
+    ],
+    "tags": ["물건", "교통", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_026",
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "종이",
+    "meaningDetail": "글을 쓰거나 인쇄하는 데 쓰는 얇은 재료",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "紙に書いてください。", "reading": "かみにかいてください。", "ko": "종이에 써 주세요."},
+      {"ja": "紙がありません。", "reading": "かみがありません。", "ko": "종이가 없습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ノート", "reading": "のーと", "meaning": "노트", "relation": "관련어"},
+      {"word": "ペン", "reading": "ぺん", "meaning": "펜", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "紙", "reading": "かみ", "meaning": "종이 지"}],
+    "tags": ["물건", "문구", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_027",
+    "word": "ペン",
+    "reading": "ぺん",
+    "meaning": "펜",
+    "meaningDetail": "글씨를 쓰는 도구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "ペンを貸してください。", "reading": "ぺんをかしてください。", "ko": "펜을 빌려 주세요."},
+      {"ja": "ペンがありますか。", "reading": "ぺんがありますか。", "ko": "펜이 있습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "鉛筆", "reading": "えんぴつ", "meaning": "연필", "relation": "유의어"},
+      {"word": "紙", "reading": "かみ", "meaning": "종이", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["물건", "문구", "N5", "외래어"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_028",
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "연필",
+    "meaningDetail": "흑연으로 글씨를 쓰는 필기구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "鉛筆で書きます。", "reading": "えんぴつでかきます。", "ko": "연필로 씁니다."},
+      {"ja": "鉛筆を削ります。", "reading": "えんぴつをけずります。", "ko": "연필을 깎습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ペン", "reading": "ぺん", "meaning": "펜", "relation": "유의어"},
+      {"word": "消しゴム", "reading": "けしごむ", "meaning": "지우개", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "鉛", "reading": "えん", "meaning": "납 연"},
+      {"char": "筆", "reading": "ぴつ", "meaning": "붓 필"}
+    ],
+    "tags": ["물건", "문구", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_029",
+    "word": "消しゴム",
+    "reading": "けしごむ",
+    "meaning": "지우개",
+    "meaningDetail": "연필 자국을 지우는 도구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "消しゴムで消します。", "reading": "けしごむでけします。", "ko": "지우개로 지웁니다."},
+      {"ja": "消しゴムを貸してください。", "reading": "けしごむをかしてください。", "ko": "지우개를 빌려 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "鉛筆", "reading": "えんぴつ", "meaning": "연필", "relation": "관련어"},
+      {"word": "消す", "reading": "けす", "meaning": "지우다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "消", "reading": "け", "meaning": "사라질 소"}],
+    "tags": ["물건", "문구", "N5"],
+    "frequency": 60
+  },
+  {
+    "id": "w_n5_n2_030",
+    "word": "ノート",
+    "reading": "のーと",
+    "meaning": "노트, 공책",
+    "meaningDetail": "글을 쓰기 위한 종이를 묶은 책",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "ノートに書いてください。", "reading": "のーとにかいてください。", "ko": "노트에 써 주세요."},
+      {"ja": "ノートを忘れました。", "reading": "のーとをわすれました。", "ko": "노트를 잊어버렸습니다."}
+    ],
+    "relatedWords": [
+      {"word": "本", "reading": "ほん", "meaning": "책", "relation": "관련어"},
+      {"word": "鉛筆", "reading": "えんぴつ", "meaning": "연필", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["물건", "문구", "N5", "외래어"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_031",
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "사전",
+    "meaningDetail": "단어의 뜻을 찾아보는 책",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "辞書で調べます。", "reading": "じしょでしらべます。", "ko": "사전에서 찾아봅니다."},
+      {"ja": "電子辞書を使っています。", "reading": "でんしじしょをつかっています。", "ko": "전자사전을 사용하고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "本", "reading": "ほん", "meaning": "책", "relation": "관련어"},
+      {"word": "調べる", "reading": "しらべる", "meaning": "조사하다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "辞", "reading": "じ", "meaning": "말씀 사"},
+      {"char": "書", "reading": "しょ", "meaning": "글 서"}
+    ],
+    "tags": ["물건", "문구", "학습", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_032",
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "책상",
+    "meaningDetail": "공부하거나 일할 때 사용하는 가구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "机の上に本があります。", "reading": "つくえのうえにほんがあります。", "ko": "책상 위에 책이 있습니다."},
+      {"ja": "机を片付けてください。", "reading": "つくえをかたづけてください。", "ko": "책상을 정리해 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "椅子", "reading": "いす", "meaning": "의자", "relation": "관련어"},
+      {"word": "テーブル", "reading": "てーぶる", "meaning": "테이블", "relation": "유의어"}
+    ],
+    "kanji": [{"char": "机", "reading": "つくえ", "meaning": "책상 궤"}],
+    "tags": ["가구", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_033",
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "의자",
+    "meaningDetail": "앉기 위한 가구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "椅子に座ってください。", "reading": "いすにすわってください。", "ko": "의자에 앉아 주세요."},
+      {"ja": "この椅子は高いです。", "reading": "このいすはたかいです。", "ko": "이 의자는 높습니다."}
+    ],
+    "relatedWords": [
+      {"word": "机", "reading": "つくえ", "meaning": "책상", "relation": "관련어"},
+      {"word": "座る", "reading": "すわる", "meaning": "앉다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "椅", "reading": "い", "meaning": "의자 의"},
+      {"char": "子", "reading": "す", "meaning": "아들 자"}
+    ],
+    "tags": ["가구", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_034",
+    "word": "テーブル",
+    "reading": "てーぶる",
+    "meaning": "테이블, 탁자",
+    "meaningDetail": "물건을 올려놓는 평평한 가구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "テーブルの上に花があります。", "reading": "てーぶるのうえにはながあります。", "ko": "테이블 위에 꽃이 있습니다."},
+      {"ja": "テーブルを拭きます。", "reading": "てーぶるをふきます。", "ko": "테이블을 닦습니다."}
+    ],
+    "relatedWords": [
+      {"word": "机", "reading": "つくえ", "meaning": "책상", "relation": "유의어"},
+      {"word": "椅子", "reading": "いす", "meaning": "의자", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["가구", "N5", "외래어"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_035",
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "창문",
+    "meaningDetail": "빛과 공기가 들어오는 벽의 구멍",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "窓を開けてください。", "reading": "まどをあけてください。", "ko": "창문을 열어 주세요."},
+      {"ja": "窓から山が見えます。", "reading": "まどからやまがみえます。", "ko": "창문에서 산이 보입니다."}
+    ],
+    "relatedWords": [
+      {"word": "ドア", "reading": "どあ", "meaning": "문", "relation": "관련어"},
+      {"word": "開ける", "reading": "あける", "meaning": "열다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "窓", "reading": "まど", "meaning": "창 창"}],
+    "tags": ["건물", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_036",
+    "word": "ドア",
+    "reading": "どあ",
+    "meaning": "문",
+    "meaningDetail": "방이나 건물의 출입구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "ドアを閉めてください。", "reading": "どあをしめてください。", "ko": "문을 닫아 주세요."},
+      {"ja": "ドアが開いています。", "reading": "どあがあいています。", "ko": "문이 열려 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "窓", "reading": "まど", "meaning": "창문", "relation": "관련어"},
+      {"word": "鍵", "reading": "かぎ", "meaning": "열쇠", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["건물", "N5", "외래어"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_n2_037",
+    "word": "壁",
+    "reading": "かべ",
+    "meaning": "벽",
+    "meaningDetail": "방을 둘러싸는 수직 구조물",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "壁に絵があります。", "reading": "かべにえがあります。", "ko": "벽에 그림이 있습니다."},
+      {"ja": "壁を塗りました。", "reading": "かべをぬりました。", "ko": "벽을 칠했습니다."}
+    ],
+    "relatedWords": [
+      {"word": "窓", "reading": "まど", "meaning": "창문", "relation": "관련어"},
+      {"word": "天井", "reading": "てんじょう", "meaning": "천장", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "壁", "reading": "かべ", "meaning": "벽 벽"}],
+    "tags": ["건물", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_038",
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "바닥, 마루",
+    "meaningDetail": "방의 밑면",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "床に座ります。", "reading": "ゆかにすわります。", "ko": "바닥에 앉습니다."},
+      {"ja": "床を掃除します。", "reading": "ゆかをそうじします。", "ko": "바닥을 청소합니다."}
+    ],
+    "relatedWords": [
+      {"word": "壁", "reading": "かべ", "meaning": "벽", "relation": "관련어"},
+      {"word": "天井", "reading": "てんじょう", "meaning": "천장", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "床", "reading": "ゆか", "meaning": "평상 상"}],
+    "tags": ["건물", "N5"],
+    "frequency": 62
+  },
+  {
+    "id": "w_n5_n2_039",
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "계단",
+    "meaningDetail": "위아래 층을 연결하는 구조물",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "階段を上ります。", "reading": "かいだんをのぼります。", "ko": "계단을 올라갑니다."},
+      {"ja": "階段で降りましょう。", "reading": "かいだんでおりましょう。", "ko": "계단으로 내려갑시다."}
+    ],
+    "relatedWords": [
+      {"word": "エレベーター", "reading": "えれべーたー", "meaning": "엘리베이터", "relation": "관련어"},
+      {"word": "上る", "reading": "のぼる", "meaning": "오르다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "階", "reading": "かい", "meaning": "층 계"},
+      {"char": "段", "reading": "だん", "meaning": "층계 단"}
+    ],
+    "tags": ["건물", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_040",
+    "word": "エレベーター",
+    "reading": "えれべーたー",
+    "meaning": "엘리베이터",
+    "meaningDetail": "건물의 층을 오르내리는 기계",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "エレベーターで5階へ行きます。", "reading": "えれべーたーでごかいへいきます。", "ko": "엘리베이터로 5층에 갑니다."},
+      {"ja": "エレベーターに乗ります。", "reading": "えれべーたーにのります。", "ko": "엘리베이터를 탑니다."}
+    ],
+    "relatedWords": [
+      {"word": "階段", "reading": "かいだん", "meaning": "계단", "relation": "관련어"},
+      {"word": "エスカレーター", "reading": "えすかれーたー", "meaning": "에스컬레이터", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["건물", "N5", "외래어"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_041",
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "정원, 마당",
+    "meaningDetail": "집 안이나 주위의 작은 땅",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "庭に花を植えました。", "reading": "にわにはなをうえました。", "ko": "정원에 꽃을 심었습니다."},
+      {"ja": "庭で遊びます。", "reading": "にわであそびます。", "ko": "마당에서 놉니다."}
+    ],
+    "relatedWords": [
+      {"word": "家", "reading": "いえ", "meaning": "집", "relation": "관련어"},
+      {"word": "花", "reading": "はな", "meaning": "꽃", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "庭", "reading": "にわ", "meaning": "뜰 정"}],
+    "tags": ["건물", "자연", "N5"],
+    "frequency": 60
+  },
+  {
+    "id": "w_n5_n2_042",
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "욕조, 목욕",
+    "meaningDetail": "목욕하는 장소나 행위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "お風呂に入ります。", "reading": "おふろにはいります。", "ko": "목욕합니다."},
+      {"ja": "お風呂のお湯が熱いです。", "reading": "おふろのおゆがあついです。", "ko": "욕조 물이 뜨겁습니다."}
+    ],
+    "relatedWords": [
+      {"word": "シャワー", "reading": "しゃわー", "meaning": "샤워", "relation": "관련어"},
+      {"word": "入る", "reading": "はいる", "meaning": "들어가다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "風", "reading": "ふ", "meaning": "바람 풍"},
+      {"char": "呂", "reading": "ろ", "meaning": "등뼈 려"}
+    ],
+    "tags": ["건물", "생활", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_043",
+    "word": "トイレ",
+    "reading": "といれ",
+    "meaning": "화장실",
+    "meaningDetail": "용변을 보는 장소",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "トイレはどこですか。", "reading": "といれはどこですか。", "ko": "화장실은 어디입니까?"},
+      {"ja": "トイレに行きます。", "reading": "といれにいきます。", "ko": "화장실에 갑니다."}
+    ],
+    "relatedWords": [
+      {"word": "お手洗い", "reading": "おてあらい", "meaning": "화장실(정중)", "relation": "유의어"},
+      {"word": "お風呂", "reading": "おふろ", "meaning": "욕실", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["건물", "생활", "N5", "외래어"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_044",
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "부엌",
+    "meaningDetail": "요리하는 장소",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "台所で料理します。", "reading": "だいどころでりょうりします。", "ko": "부엌에서 요리합니다."},
+      {"ja": "台所を掃除しました。", "reading": "だいどころをそうじしました。", "ko": "부엌을 청소했습니다."}
+    ],
+    "relatedWords": [
+      {"word": "料理", "reading": "りょうり", "meaning": "요리", "relation": "관련어"},
+      {"word": "冷蔵庫", "reading": "れいぞうこ", "meaning": "냉장고", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "台", "reading": "だい", "meaning": "대 대"},
+      {"char": "所", "reading": "どころ", "meaning": "곳 소"}
+    ],
+    "tags": ["건물", "생활", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_045",
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "현관",
+    "meaningDetail": "집의 출입구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "玄関で靴を脱ぎます。", "reading": "げんかんでくつをぬぎます。", "ko": "현관에서 신발을 벗습니다."},
+      {"ja": "玄関のベルが鳴りました。", "reading": "げんかんのべるがなりました。", "ko": "현관 벨이 울렸습니다."}
+    ],
+    "relatedWords": [
+      {"word": "ドア", "reading": "どあ", "meaning": "문", "relation": "관련어"},
+      {"word": "靴", "reading": "くつ", "meaning": "신발", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "玄", "reading": "げん", "meaning": "검을 현"},
+      {"char": "関", "reading": "かん", "meaning": "관계할 관"}
+    ],
+    "tags": ["건물", "N5"],
+    "frequency": 62
+  },
+  {
+    "id": "w_n5_n2_046",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "냉장고",
+    "meaningDetail": "음식을 차갑게 보관하는 기계",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "冷蔵庫に牛乳があります。", "reading": "れいぞうこにぎゅうにゅうがあります。", "ko": "냉장고에 우유가 있습니다."},
+      {"ja": "冷蔵庫を開けてください。", "reading": "れいぞうこをあけてください。", "ko": "냉장고를 열어 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "台所", "reading": "だいどころ", "meaning": "부엌", "relation": "관련어"},
+      {"word": "電子レンジ", "reading": "でんしれんじ", "meaning": "전자레인지", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "冷", "reading": "れい", "meaning": "찰 냉"},
+      {"char": "蔵", "reading": "ぞう", "meaning": "감출 장"},
+      {"char": "庫", "reading": "こ", "meaning": "곳집 고"}
+    ],
+    "tags": ["가전", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_n2_047",
+    "word": "電子レンジ",
+    "reading": "でんしれんじ",
+    "meaning": "전자레인지",
+    "meaningDetail": "음식을 데우는 기계",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "電子レンジで温めます。", "reading": "でんしれんじであたためます。", "ko": "전자레인지로 데웁니다."},
+      {"ja": "電子レンジが壊れました。", "reading": "でんしれんじがこわれました。", "ko": "전자레인지가 고장 났습니다."}
+    ],
+    "relatedWords": [
+      {"word": "冷蔵庫", "reading": "れいぞうこ", "meaning": "냉장고", "relation": "관련어"},
+      {"word": "台所", "reading": "だいどころ", "meaning": "부엌", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "電", "reading": "でん", "meaning": "번개 전"},
+      {"char": "子", "reading": "し", "meaning": "아들 자"}
+    ],
+    "tags": ["가전", "N5"],
+    "frequency": 58
+  },
+  {
+    "id": "w_n5_n2_048",
+    "word": "洗濯機",
+    "reading": "せんたくき",
+    "meaning": "세탁기",
+    "meaningDetail": "옷을 빠는 기계",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "洗濯機で洗います。", "reading": "せんたくきであらいます。", "ko": "세탁기로 빨래합니다."},
+      {"ja": "洗濯機を回しています。", "reading": "せんたくきをまわしています。", "ko": "세탁기를 돌리고 있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "洗濯", "reading": "せんたく", "meaning": "빨래", "relation": "관련어"},
+      {"word": "服", "reading": "ふく", "meaning": "옷", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "洗", "reading": "せん", "meaning": "씻을 세"},
+      {"char": "濯", "reading": "たく", "meaning": "빨 탁"},
+      {"char": "機", "reading": "き", "meaning": "틀 기"}
+    ],
+    "tags": ["가전", "N5"],
+    "frequency": 55
+  },
+  {
+    "id": "w_n5_n2_049",
+    "word": "エアコン",
+    "reading": "えあこん",
+    "meaning": "에어컨",
+    "meaningDetail": "공기를 냉방하거나 난방하는 기계",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "エアコンをつけてください。", "reading": "えあこんをつけてください。", "ko": "에어컨을 켜 주세요."},
+      {"ja": "エアコンが寒いです。", "reading": "えあこんがさむいです。", "ko": "에어컨이 춥습니다."}
+    ],
+    "relatedWords": [
+      {"word": "暑い", "reading": "あつい", "meaning": "덥다", "relation": "관련어"},
+      {"word": "寒い", "reading": "さむい", "meaning": "춥다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["가전", "N5", "외래어"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_050",
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "사진",
+    "meaningDetail": "카메라로 찍은 이미지",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "写真を撮ってください。", "reading": "しゃしんをとってください。", "ko": "사진을 찍어 주세요."},
+      {"ja": "この写真はきれいです。", "reading": "このしゃしんはきれいです。", "ko": "이 사진은 예쁩니다."}
+    ],
+    "relatedWords": [
+      {"word": "カメラ", "reading": "かめら", "meaning": "카메라", "relation": "관련어"},
+      {"word": "撮る", "reading": "とる", "meaning": "찍다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "写", "reading": "しゃ", "meaning": "베낄 사"},
+      {"char": "真", "reading": "しん", "meaning": "참 진"}
+    ],
+    "tags": ["물건", "취미", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_051",
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "영화",
+    "meaningDetail": "스크린에 보여지는 동영상 작품",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "映画を見に行きます。", "reading": "えいがをみにいきます。", "ko": "영화를 보러 갑니다."},
+      {"ja": "この映画は面白いです。", "reading": "このえいがはおもしろいです。", "ko": "이 영화는 재미있습니다."}
+    ],
+    "relatedWords": [
+      {"word": "映画館", "reading": "えいがかん", "meaning": "영화관", "relation": "관련어"},
+      {"word": "見る", "reading": "みる", "meaning": "보다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "映", "reading": "えい", "meaning": "비칠 영"},
+      {"char": "画", "reading": "が", "meaning": "그림 화"}
+    ],
+    "tags": ["취미", "엔터테인먼트", "N5"],
+    "frequency": 88
+  },
+  {
+    "id": "w_n5_n2_052",
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "음악",
+    "meaningDetail": "소리와 리듬으로 구성된 예술",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "音楽を聞きます。", "reading": "おんがくをききます。", "ko": "음악을 듣습니다."},
+      {"ja": "音楽が好きです。", "reading": "おんがくがすきです。", "ko": "음악을 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "歌", "reading": "うた", "meaning": "노래", "relation": "관련어"},
+      {"word": "聞く", "reading": "きく", "meaning": "듣다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "音", "reading": "おん", "meaning": "소리 음"},
+      {"char": "楽", "reading": "がく", "meaning": "즐길 악"}
+    ],
+    "tags": ["취미", "엔터테인먼트", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_053",
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "노래",
+    "meaningDetail": "가사가 있는 음악",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "歌を歌います。", "reading": "うたをうたいます。", "ko": "노래를 부릅니다."},
+      {"ja": "この歌は有名です。", "reading": "このうたはゆうめいです。", "ko": "이 노래는 유명합니다."}
+    ],
+    "relatedWords": [
+      {"word": "音楽", "reading": "おんがく", "meaning": "음악", "relation": "관련어"},
+      {"word": "歌う", "reading": "うたう", "meaning": "노래하다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "歌", "reading": "うた", "meaning": "노래 가"}],
+    "tags": ["취미", "엔터테인먼트", "N5"],
+    "frequency": 80
+  },
+  {
+    "id": "w_n5_n2_054",
+    "word": "絵",
+    "reading": "え",
+    "meaning": "그림",
+    "meaningDetail": "붓이나 연필로 그린 예술 작품",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1],
+    "examples": [
+      {"ja": "絵を描きます。", "reading": "えをかきます。", "ko": "그림을 그립니다."},
+      {"ja": "この絵は美しいです。", "reading": "このえはうつくしいです。", "ko": "이 그림은 아름답습니다."}
+    ],
+    "relatedWords": [
+      {"word": "描く", "reading": "かく", "meaning": "그리다", "relation": "관련어"},
+      {"word": "写真", "reading": "しゃしん", "meaning": "사진", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "絵", "reading": "え", "meaning": "그림 회"}],
+    "tags": ["취미", "예술", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_055",
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaning": "취미",
+    "meaningDetail": "즐기기 위해 하는 활동",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "趣味は何ですか。", "reading": "しゅみはなんですか。", "ko": "취미가 뭐예요?"},
+      {"ja": "趣味は読書です。", "reading": "しゅみはどくしょです。", "ko": "취미는 독서입니다."}
+    ],
+    "relatedWords": [
+      {"word": "好き", "reading": "すき", "meaning": "좋아하다", "relation": "관련어"},
+      {"word": "楽しい", "reading": "たのしい", "meaning": "즐겁다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "趣", "reading": "しゅ", "meaning": "뜻 취"},
+      {"char": "味", "reading": "み", "meaning": "맛 미"}
+    ],
+    "tags": ["취미", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_056",
+    "word": "スポーツ",
+    "reading": "すぽーつ",
+    "meaning": "스포츠, 운동",
+    "meaningDetail": "신체 활동을 통한 경기나 운동",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "スポーツをします。", "reading": "すぽーつをします。", "ko": "운동을 합니다."},
+      {"ja": "スポーツが好きです。", "reading": "すぽーつがすきです。", "ko": "스포츠를 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "サッカー", "reading": "さっかー", "meaning": "축구", "relation": "관련어"},
+      {"word": "野球", "reading": "やきゅう", "meaning": "야구", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["취미", "N5", "외래어"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_057",
+    "word": "サッカー",
+    "reading": "さっかー",
+    "meaning": "축구",
+    "meaningDetail": "발로 공을 차는 스포츠",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "サッカーをします。", "reading": "さっかーをします。", "ko": "축구를 합니다."},
+      {"ja": "サッカーの試合を見ました。", "reading": "さっかーのしあいをみました。", "ko": "축구 경기를 봤습니다."}
+    ],
+    "relatedWords": [
+      {"word": "野球", "reading": "やきゅう", "meaning": "야구", "relation": "관련어"},
+      {"word": "スポーツ", "reading": "すぽーつ", "meaning": "스포츠", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["취미", "스포츠", "N5", "외래어"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_058",
+    "word": "野球",
+    "reading": "やきゅう",
+    "meaning": "야구",
+    "meaningDetail": "배트와 공을 사용하는 스포츠",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "野球をします。", "reading": "やきゅうをします。", "ko": "야구를 합니다."},
+      {"ja": "野球が上手です。", "reading": "やきゅうがじょうずです。", "ko": "야구를 잘합니다."}
+    ],
+    "relatedWords": [
+      {"word": "サッカー", "reading": "さっかー", "meaning": "축구", "relation": "관련어"},
+      {"word": "スポーツ", "reading": "すぽーつ", "meaning": "스포츠", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "野", "reading": "や", "meaning": "들 야"},
+      {"char": "球", "reading": "きゅう", "meaning": "공 구"}
+    ],
+    "tags": ["취미", "스포츠", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_n2_059",
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "여행",
+    "meaningDetail": "다른 곳을 방문하는 활동",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "旅行に行きます。", "reading": "りょこうにいきます。", "ko": "여행을 갑니다."},
+      {"ja": "日本旅行は楽しかったです。", "reading": "にほんりょこうはたのしかったです。", "ko": "일본 여행은 즐거웠습니다."}
+    ],
+    "relatedWords": [
+      {"word": "行く", "reading": "いく", "meaning": "가다", "relation": "관련어"},
+      {"word": "飛行機", "reading": "ひこうき", "meaning": "비행기", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "旅", "reading": "りょ", "meaning": "나그네 려"},
+      {"char": "行", "reading": "こう", "meaning": "다닐 행"}
+    ],
+    "tags": ["취미", "여행", "N5"],
+    "frequency": 82
+  },
+  {
+    "id": "w_n5_n2_060",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "산책",
+    "meaningDetail": "걸어서 돌아다니는 것",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "散歩をします。", "reading": "さんぽをします。", "ko": "산책합니다."},
+      {"ja": "公園で散歩しました。", "reading": "こうえんでさんぽしました。", "ko": "공원에서 산책했습니다."}
+    ],
+    "relatedWords": [
+      {"word": "歩く", "reading": "あるく", "meaning": "걷다", "relation": "관련어"},
+      {"word": "公園", "reading": "こうえん", "meaning": "공원", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "散", "reading": "さん", "meaning": "흩어질 산"},
+      {"char": "歩", "reading": "ぽ", "meaning": "걸음 보"}
+    ],
+    "tags": ["취미", "생활", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_061",
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "요리",
+    "meaningDetail": "음식을 만드는 행위 또는 만든 음식",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0, 0],
+    "examples": [
+      {"ja": "料理を作ります。", "reading": "りょうりをつくります。", "ko": "요리를 만듭니다."},
+      {"ja": "日本料理が好きです。", "reading": "にほんりょうりがすきです。", "ko": "일본 요리를 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "作る", "reading": "つくる", "meaning": "만들다", "relation": "관련어"},
+      {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "料", "reading": "りょう", "meaning": "헤아릴 료"},
+      {"char": "理", "reading": "り", "meaning": "다스릴 리"}
+    ],
+    "tags": ["음식", "취미", "N5"],
+    "frequency": 85
+  },
+  {
+    "id": "w_n5_n2_062",
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "식사",
+    "meaningDetail": "음식을 먹는 행위",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "食事をします。", "reading": "しょくじをします。", "ko": "식사합니다."},
+      {"ja": "食事の時間です。", "reading": "しょくじのじかんです。", "ko": "식사 시간입니다."}
+    ],
+    "relatedWords": [
+      {"word": "食べる", "reading": "たべる", "meaning": "먹다", "relation": "관련어"},
+      {"word": "料理", "reading": "りょうり", "meaning": "요리", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "食", "reading": "しょく", "meaning": "먹을 식"},
+      {"char": "事", "reading": "じ", "meaning": "일 사"}
+    ],
+    "tags": ["음식", "생활", "N5"],
+    "frequency": 78
+  },
+  {
+    "id": "w_n5_n2_063",
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "아침밥",
+    "meaningDetail": "아침에 먹는 식사",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "朝ご飯を食べます。", "reading": "あさごはんをたべます。", "ko": "아침밥을 먹습니다."},
+      {"ja": "朝ご飯は何を食べましたか。", "reading": "あさごはんはなにをたべましたか。", "ko": "아침밥은 무엇을 먹었습니까?"}
+    ],
+    "relatedWords": [
+      {"word": "昼ご飯", "reading": "ひるごはん", "meaning": "점심밥", "relation": "관련어"},
+      {"word": "晩ご飯", "reading": "ばんごはん", "meaning": "저녁밥", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "朝", "reading": "あさ", "meaning": "아침 조"},
+      {"char": "飯", "reading": "はん", "meaning": "밥 반"}
+    ],
+    "tags": ["음식", "시간", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_064",
+    "word": "昼ご飯",
+    "reading": "ひるごはん",
+    "meaning": "점심밥",
+    "meaningDetail": "낮에 먹는 식사",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "昼ご飯を食べましょう。", "reading": "ひるごはんをたべましょう。", "ko": "점심밥을 먹읍시다."},
+      {"ja": "昼ご飯はラーメンです。", "reading": "ひるごはんはらーめんです。", "ko": "점심밥은 라면입니다."}
+    ],
+    "relatedWords": [
+      {"word": "朝ご飯", "reading": "あさごはん", "meaning": "아침밥", "relation": "관련어"},
+      {"word": "晩ご飯", "reading": "ばんごはん", "meaning": "저녁밥", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "昼", "reading": "ひる", "meaning": "낮 주"},
+      {"char": "飯", "reading": "はん", "meaning": "밥 반"}
+    ],
+    "tags": ["음식", "시간", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_065",
+    "word": "晩ご飯",
+    "reading": "ばんごはん",
+    "meaning": "저녁밥",
+    "meaningDetail": "저녁에 먹는 식사",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "晩ご飯を食べます。", "reading": "ばんごはんをたべます。", "ko": "저녁밥을 먹습니다."},
+      {"ja": "晩ご飯は何ですか。", "reading": "ばんごはんはなんですか。", "ko": "저녁밥은 뭐예요?"}
+    ],
+    "relatedWords": [
+      {"word": "朝ご飯", "reading": "あさごはん", "meaning": "아침밥", "relation": "관련어"},
+      {"word": "昼ご飯", "reading": "ひるごはん", "meaning": "점심밥", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "晩", "reading": "ばん", "meaning": "저녁 만"},
+      {"char": "飯", "reading": "はん", "meaning": "밥 반"}
+    ],
+    "tags": ["음식", "시간", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_066",
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "계란, 달걀",
+    "meaningDetail": "닭이 낳은 알",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "卵を買います。", "reading": "たまごをかいます。", "ko": "계란을 삽니다."},
+      {"ja": "卵焼きを作ります。", "reading": "たまごやきをつくります。", "ko": "계란말이를 만듭니다."}
+    ],
+    "relatedWords": [
+      {"word": "肉", "reading": "にく", "meaning": "고기", "relation": "관련어"},
+      {"word": "魚", "reading": "さかな", "meaning": "생선", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "卵", "reading": "たまご", "meaning": "알 란"}],
+    "tags": ["음식", "N5"],
+    "frequency": 70
+  },
+  {
+    "id": "w_n5_n2_067",
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "채소, 야채",
+    "meaningDetail": "식용으로 재배하는 식물",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "野菜を食べます。", "reading": "やさいをたべます。", "ko": "야채를 먹습니다."},
+      {"ja": "野菜は体にいいです。", "reading": "やさいはからだにいいです。", "ko": "야채는 몸에 좋습니다."}
+    ],
+    "relatedWords": [
+      {"word": "果物", "reading": "くだもの", "meaning": "과일", "relation": "관련어"},
+      {"word": "肉", "reading": "にく", "meaning": "고기", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "野", "reading": "や", "meaning": "들 야"},
+      {"char": "菜", "reading": "さい", "meaning": "나물 채"}
+    ],
+    "tags": ["음식", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_068",
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "과일",
+    "meaningDetail": "나무나 덩굴에서 열리는 달콤한 식품",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "果物を食べます。", "reading": "くだものをたべます。", "ko": "과일을 먹습니다."},
+      {"ja": "果物が好きです。", "reading": "くだものがすきです。", "ko": "과일을 좋아합니다."}
+    ],
+    "relatedWords": [
+      {"word": "野菜", "reading": "やさい", "meaning": "야채", "relation": "관련어"},
+      {"word": "りんご", "reading": "りんご", "meaning": "사과", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "果", "reading": "くだ", "meaning": "열매 과"},
+      {"char": "物", "reading": "もの", "meaning": "물건 물"}
+    ],
+    "tags": ["음식", "N5"],
+    "frequency": 72
+  },
+  {
+    "id": "w_n5_n2_069",
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "술",
+    "meaningDetail": "알코올이 포함된 음료",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "お酒を飲みます。", "reading": "おさけをのみます。", "ko": "술을 마십니다."},
+      {"ja": "お酒は好きですか。", "reading": "おさけはすきですか。", "ko": "술을 좋아합니까?"}
+    ],
+    "relatedWords": [
+      {"word": "飲む", "reading": "のむ", "meaning": "마시다", "relation": "관련어"},
+      {"word": "ビール", "reading": "びーる", "meaning": "맥주", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "酒", "reading": "さけ", "meaning": "술 주"}],
+    "tags": ["음식", "음료", "N5"],
+    "frequency": 75
+  },
+  {
+    "id": "w_n5_n2_070",
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "우유",
+    "meaningDetail": "소에서 나오는 흰 음료",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "牛乳を飲みます。", "reading": "ぎゅうにゅうをのみます。", "ko": "우유를 마십니다."},
+      {"ja": "牛乳はカルシウムが多いです。", "reading": "ぎゅうにゅうはかるしうむがおおいです。", "ko": "우유는 칼슘이 많습니다."}
+    ],
+    "relatedWords": [
+      {"word": "お茶", "reading": "おちゃ", "meaning": "차", "relation": "관련어"},
+      {"word": "水", "reading": "みず", "meaning": "물", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "牛", "reading": "ぎゅう", "meaning": "소 우"},
+      {"char": "乳", "reading": "にゅう", "meaning": "젖 유"}
+    ],
+    "tags": ["음식", "음료", "N5"],
+    "frequency": 68
+  },
+  {
+    "id": "w_n5_n2_071",
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "도시락",
+    "meaningDetail": "휴대용 식사",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1, 1],
+    "examples": [
+      {"ja": "お弁当を作ります。", "reading": "おべんとうをつくります。", "ko": "도시락을 만듭니다."},
+      {"ja": "お弁当を持って行きます。", "reading": "おべんとうをもっていきます。", "ko": "도시락을 가지고 갑니다."}
+    ],
+    "relatedWords": [
+      {"word": "昼ご飯", "reading": "ひるごはん", "meaning": "점심", "relation": "관련어"},
+      {"word": "作る", "reading": "つくる", "meaning": "만들다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "弁", "reading": "べん", "meaning": "분별할 변"},
+      {"char": "当", "reading": "とう", "meaning": "당할 당"}
+    ],
+    "tags": ["음식", "생활", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_072",
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "설탕",
+    "meaningDetail": "단맛을 내는 흰 가루",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "砂糖を入れます。", "reading": "さとうをいれます。", "ko": "설탕을 넣습니다."},
+      {"ja": "砂糖は甘いです。", "reading": "さとうはあまいです。", "ko": "설탕은 답니다."}
+    ],
+    "relatedWords": [
+      {"word": "塩", "reading": "しお", "meaning": "소금", "relation": "관련어"},
+      {"word": "甘い", "reading": "あまい", "meaning": "달다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "砂", "reading": "さ", "meaning": "모래 사"},
+      {"char": "糖", "reading": "とう", "meaning": "사탕 당"}
+    ],
+    "tags": ["음식", "조미료", "N5"],
+    "frequency": 58
+  },
+  {
+    "id": "w_n5_n2_073",
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "소금",
+    "meaningDetail": "짠맛을 내는 흰 가루",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "塩を入れてください。", "reading": "しおをいれてください。", "ko": "소금을 넣어 주세요."},
+      {"ja": "塩が足りません。", "reading": "しおがたりません。", "ko": "소금이 부족합니다."}
+    ],
+    "relatedWords": [
+      {"word": "砂糖", "reading": "さとう", "meaning": "설탕", "relation": "관련어"},
+      {"word": "辛い", "reading": "からい", "meaning": "짜다/맵다", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "塩", "reading": "しお", "meaning": "소금 염"}],
+    "tags": ["음식", "조미료", "N5"],
+    "frequency": 58
+  },
+  {
+    "id": "w_n5_n2_074",
+    "word": "箸",
+    "reading": "はし",
+    "meaning": "젓가락",
+    "meaningDetail": "음식을 집어 먹는 도구",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [1, 0],
+    "examples": [
+      {"ja": "箸で食べます。", "reading": "はしでたべます。", "ko": "젓가락으로 먹습니다."},
+      {"ja": "箸を使います。", "reading": "はしをつかいます。", "ko": "젓가락을 사용합니다."}
+    ],
+    "relatedWords": [
+      {"word": "スプーン", "reading": "すぷーん", "meaning": "숟가락", "relation": "관련어"},
+      {"word": "フォーク", "reading": "ふぉーく", "meaning": "포크", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "箸", "reading": "はし", "meaning": "젓가락 저"}],
+    "tags": ["음식", "도구", "N5"],
+    "frequency": 62
+  },
+  {
+    "id": "w_n5_n2_075",
+    "word": "皿",
+    "reading": "さら",
+    "meaning": "접시",
+    "meaningDetail": "음식을 담는 평평한 그릇",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1],
+    "examples": [
+      {"ja": "皿を洗います。", "reading": "さらをあらいます。", "ko": "접시를 씻습니다."},
+      {"ja": "皿に料理を盛ります。", "reading": "さらにりょうりをもります。", "ko": "접시에 요리를 담습니다."}
+    ],
+    "relatedWords": [
+      {"word": "茶碗", "reading": "ちゃわん", "meaning": "밥그릇", "relation": "관련어"},
+      {"word": "コップ", "reading": "こっぷ", "meaning": "컵", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "皿", "reading": "さら", "meaning": "그릇 명"}],
+    "tags": ["음식", "도구", "N5"],
+    "frequency": 60
+  },
+  {
+    "id": "w_n5_n2_076",
+    "word": "コップ",
+    "reading": "こっぷ",
+    "meaning": "컵, 유리잔",
+    "meaningDetail": "음료를 담아 마시는 용기",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "コップに水を入れます。", "reading": "こっぷにみずをいれます。", "ko": "컵에 물을 넣습니다."},
+      {"ja": "コップを洗ってください。", "reading": "こっぷをあらってください。", "ko": "컵을 씻어 주세요."}
+    ],
+    "relatedWords": [
+      {"word": "皿", "reading": "さら", "meaning": "접시", "relation": "관련어"},
+      {"word": "飲む", "reading": "のむ", "meaning": "마시다", "relation": "관련어"}
+    ],
+    "kanji": [],
+    "tags": ["음식", "도구", "N5", "외래어"],
+    "frequency": 62
+  },
+  {
+    "id": "w_n5_n2_077",
+    "word": "お皿",
+    "reading": "おさら",
+    "meaning": "접시(정중)",
+    "meaningDetail": "음식을 담는 평평한 그릇(정중한 표현)",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "お皿を並べてください。", "reading": "おさらをならべてください。", "ko": "접시를 나열해 주세요."},
+      {"ja": "お皿が割れました。", "reading": "おさらがわれました。", "ko": "접시가 깨졌습니다."}
+    ],
+    "relatedWords": [
+      {"word": "皿", "reading": "さら", "meaning": "접시", "relation": "유의어"},
+      {"word": "茶碗", "reading": "ちゃわん", "meaning": "밥그릇", "relation": "관련어"}
+    ],
+    "kanji": [{"char": "皿", "reading": "さら", "meaning": "그릇 명"}],
+    "tags": ["음식", "도구", "경어", "N5"],
+    "frequency": 58
+  },
+  {
+    "id": "w_n5_n2_078",
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "meaning": "밥그릇, 찻잔",
+    "meaningDetail": "밥이나 차를 담는 그릇",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "茶碗にご飯を入れます。", "reading": "ちゃわんにごはんをいれます。", "ko": "밥그릇에 밥을 담습니다."},
+      {"ja": "茶碗を洗います。", "reading": "ちゃわんをあらいます。", "ko": "밥그릇을 씻습니다."}
+    ],
+    "relatedWords": [
+      {"word": "皿", "reading": "さら", "meaning": "접시", "relation": "관련어"},
+      {"word": "ご飯", "reading": "ごはん", "meaning": "밥", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "茶", "reading": "ちゃ", "meaning": "차 다"},
+      {"char": "碗", "reading": "わん", "meaning": "사발 완"}
+    ],
+    "tags": ["음식", "도구", "N5"],
+    "frequency": 55
+  },
+  {
+    "id": "w_n5_n2_079",
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "짐, 수하물",
+    "meaningDetail": "운반하는 물건",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1],
+    "examples": [
+      {"ja": "荷物を持ちます。", "reading": "にもつをもちます。", "ko": "짐을 듭니다."},
+      {"ja": "荷物が多いですね。", "reading": "にもつがおおいですね。", "ko": "짐이 많네요."}
+    ],
+    "relatedWords": [
+      {"word": "かばん", "reading": "かばん", "meaning": "가방", "relation": "관련어"},
+      {"word": "持つ", "reading": "もつ", "meaning": "들다", "relation": "관련어"}
+    ],
+    "kanji": [
+      {"char": "荷", "reading": "に", "meaning": "짐 하"},
+      {"char": "物", "reading": "もつ", "meaning": "물건 물"}
+    ],
+    "tags": ["물건", "여행", "N5"],
+    "frequency": 65
+  },
+  {
+    "id": "w_n5_n2_080",
+    "word": "お土産",
+    "reading": "おみやげ",
+    "meaning": "선물, 기념품",
+    "meaningDetail": "여행에서 가져오는 선물",
+    "jlpt": "N5",
+    "category": "명사",
+    "pitch": [0, 1, 1, 1],
+    "examples": [
+      {"ja": "お土産を買いました。", "reading": "おみやげをかいました。", "ko": "기념품을 샀습니다."},
+      {"ja": "これはお土産です。", "reading": "これはおみやげです。", "ko": "이것은 선물입니다."}
+    ],
+    "relatedWords": [
+      {"word": "旅行", "reading": "りょこう", "meaning": "여행", "relation": "관련어"},
+      {"word": "プレゼント", "reading": "ぷれぜんと", "meaning": "선물", "relation": "유의어"}
+    ],
+    "kanji": [
+      {"char": "土", "reading": "み", "meaning": "흙 토"},
+      {"char": "産", "reading": "やげ", "meaning": "낳을 산"}
+    ],
+    "tags": ["물건", "여행", "N5"],
+    "frequency": 68
+  }
+]

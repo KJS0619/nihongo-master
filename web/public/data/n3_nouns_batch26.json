@@ -1,0 +1,482 @@
+[
+  {
+    "word": "気候",
+    "reading": "きこう",
+    "meaning": "기후",
+    "meaningDetail": "날씨 특성",
+    "category": "명사",
+    "examples": [
+      { "ja": "気候が温暖だ。", "ko": "기후가 온난하다." }
+    ]
+  },
+  {
+    "word": "気温",
+    "reading": "きおん",
+    "meaning": "기온",
+    "meaningDetail": "공기 온도",
+    "category": "명사",
+    "examples": [
+      { "ja": "気温が上がる。", "ko": "기온이 오르다." }
+    ]
+  },
+  {
+    "word": "湿度",
+    "reading": "しつど",
+    "meaning": "습도",
+    "meaningDetail": "습한 정도",
+    "category": "명사",
+    "examples": [
+      { "ja": "湿度が高い。", "ko": "습도가 높다." }
+    ]
+  },
+  {
+    "word": "降水",
+    "reading": "こうすい",
+    "meaning": "강수",
+    "meaningDetail": "비와 눈",
+    "category": "명사",
+    "examples": [
+      { "ja": "降水量を測る。", "ko": "강수량을 재다." }
+    ]
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "태풍",
+    "meaningDetail": "열대성 폭풍",
+    "category": "명사",
+    "examples": [
+      { "ja": "台風が接近する。", "ko": "태풍이 접근하다." }
+    ]
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "지진",
+    "meaningDetail": "땅 흔들림",
+    "category": "명사",
+    "examples": [
+      { "ja": "地震が起きる。", "ko": "지진이 발생하다." }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "재해",
+    "meaningDetail": "피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비하다." }
+    ]
+  },
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "meaningDetail": "해를 입음",
+    "category": "명사",
+    "examples": [
+      { "ja": "被害を受ける。", "ko": "피해를 입다." }
+    ]
+  },
+  {
+    "word": "津波",
+    "reading": "つなみ",
+    "meaning": "쓰나미",
+    "meaningDetail": "해일",
+    "category": "명사",
+    "examples": [
+      { "ja": "津波が発生する。", "ko": "쓰나미가 발생하다." }
+    ]
+  },
+  {
+    "word": "噴火",
+    "reading": "ふんか",
+    "meaning": "분화",
+    "meaningDetail": "화산 폭발",
+    "category": "명사",
+    "examples": [
+      { "ja": "火山が噴火する。", "ko": "화산이 분화하다." }
+    ]
+  },
+  {
+    "word": "洪水",
+    "reading": "こうずい",
+    "meaning": "홍수",
+    "meaningDetail": "물난리",
+    "category": "명사",
+    "examples": [
+      { "ja": "洪水が起こる。", "ko": "홍수가 일어나다." }
+    ]
+  },
+  {
+    "word": "干ばつ",
+    "reading": "かんばつ",
+    "meaning": "가뭄",
+    "meaningDetail": "비가 안 옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "干ばつが続く。", "ko": "가뭄이 계속되다." }
+    ]
+  },
+  {
+    "word": "竜巻",
+    "reading": "たつまき",
+    "meaning": "토네이도",
+    "meaningDetail": "회오리바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "竜巻が発生する。", "ko": "토네이도가 발생하다." }
+    ]
+  },
+  {
+    "word": "雷",
+    "reading": "かみなり",
+    "meaning": "천둥",
+    "meaningDetail": "번개 소리",
+    "category": "명사",
+    "examples": [
+      { "ja": "雷が鳴る。", "ko": "천둥이 치다." }
+    ]
+  },
+  {
+    "word": "稲妻",
+    "reading": "いなずま",
+    "meaning": "번개",
+    "meaningDetail": "전광",
+    "category": "명사",
+    "examples": [
+      { "ja": "稲妻が光る。", "ko": "번개가 치다." }
+    ]
+  },
+  {
+    "word": "霧",
+    "reading": "きり",
+    "meaning": "안개",
+    "meaningDetail": "물 입자",
+    "category": "명사",
+    "examples": [
+      { "ja": "霧が出る。", "ko": "안개가 끼다." }
+    ]
+  },
+  {
+    "word": "霜",
+    "reading": "しも",
+    "meaning": "서리",
+    "meaningDetail": "얼음 결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "霜が降りる。", "ko": "서리가 내리다." }
+    ]
+  },
+  {
+    "word": "露",
+    "reading": "つゆ",
+    "meaning": "이슬",
+    "meaningDetail": "물방울",
+    "category": "명사",
+    "examples": [
+      { "ja": "露が付く。", "ko": "이슬이 맺히다." }
+    ]
+  },
+  {
+    "word": "虹",
+    "reading": "にじ",
+    "meaning": "무지개",
+    "meaningDetail": "일곱 색",
+    "category": "명사",
+    "examples": [
+      { "ja": "虹が出る。", "ko": "무지개가 뜨다." }
+    ]
+  },
+  {
+    "word": "日差し",
+    "reading": "ひざし",
+    "meaning": "햇살",
+    "meaningDetail": "햇빛",
+    "category": "명사",
+    "examples": [
+      { "ja": "日差しが強い。", "ko": "햇살이 강하다." }
+    ]
+  },
+  {
+    "word": "日陰",
+    "reading": "ひかげ",
+    "meaning": "그늘",
+    "meaningDetail": "그림자",
+    "category": "명사",
+    "examples": [
+      { "ja": "日陰で休む。", "ko": "그늘에서 쉬다." }
+    ]
+  },
+  {
+    "word": "紫外線",
+    "reading": "しがいせん",
+    "meaning": "자외선",
+    "meaningDetail": "UV",
+    "category": "명사",
+    "examples": [
+      { "ja": "紫外線を防ぐ。", "ko": "자외선을 막다." }
+    ]
+  },
+  {
+    "word": "体育",
+    "reading": "たいいく",
+    "meaning": "체육",
+    "meaningDetail": "운동 교육",
+    "category": "명사",
+    "examples": [
+      { "ja": "体育の授業がある。", "ko": "체육 수업이 있다." }
+    ]
+  },
+  {
+    "word": "競技",
+    "reading": "きょうぎ",
+    "meaning": "경기",
+    "meaningDetail": "시합",
+    "category": "명사",
+    "examples": [
+      { "ja": "競技に参加する。", "ko": "경기에 참가하다." }
+    ]
+  },
+  {
+    "word": "選手",
+    "reading": "せんしゅ",
+    "meaning": "선수",
+    "meaningDetail": "운동선수",
+    "category": "명사",
+    "examples": [
+      { "ja": "選手として活躍する。", "ko": "선수로서 활약하다." }
+    ]
+  },
+  {
+    "word": "優勝",
+    "reading": "ゆうしょう",
+    "meaning": "우승",
+    "meaningDetail": "일등",
+    "category": "명사",
+    "examples": [
+      { "ja": "優勝を目指す。", "ko": "우승을 목표로 하다." }
+    ]
+  },
+  {
+    "word": "準優勝",
+    "reading": "じゅんゆうしょう",
+    "meaning": "준우승",
+    "meaningDetail": "이등",
+    "category": "명사",
+    "examples": [
+      { "ja": "準優勝に終わる。", "ko": "준우승에 그치다." }
+    ]
+  },
+  {
+    "word": "決勝",
+    "reading": "けっしょう",
+    "meaning": "결승",
+    "meaningDetail": "최종전",
+    "category": "명사",
+    "examples": [
+      { "ja": "決勝に進む。", "ko": "결승에 진출하다." }
+    ]
+  },
+  {
+    "word": "予選",
+    "reading": "よせん",
+    "meaning": "예선",
+    "meaningDetail": "본선 전 경기",
+    "category": "명사",
+    "examples": [
+      { "ja": "予選を通過する。", "ko": "예선을 통과하다." }
+    ]
+  },
+  {
+    "word": "審判",
+    "reading": "しんぱん",
+    "meaning": "심판",
+    "meaningDetail": "판정자",
+    "category": "명사",
+    "examples": [
+      { "ja": "審判が判定する。", "ko": "심판이 판정하다." }
+    ]
+  },
+  {
+    "word": "記録",
+    "reading": "きろく",
+    "meaning": "기록",
+    "meaningDetail": "성적",
+    "category": "명사",
+    "examples": [
+      { "ja": "記録を更新する。", "ko": "기록을 갱신하다." }
+    ]
+  },
+  {
+    "word": "得点",
+    "reading": "とくてん",
+    "meaning": "득점",
+    "meaningDetail": "점수 획득",
+    "category": "명사",
+    "examples": [
+      { "ja": "得点を挙げる。", "ko": "득점을 올리다." }
+    ]
+  },
+  {
+    "word": "勝敗",
+    "reading": "しょうはい",
+    "meaning": "승패",
+    "meaningDetail": "이기고 짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "勝敗が決まる。", "ko": "승패가 결정되다." }
+    ]
+  },
+  {
+    "word": "引き分け",
+    "reading": "ひきわけ",
+    "meaning": "무승부",
+    "meaningDetail": "동점",
+    "category": "명사",
+    "examples": [
+      { "ja": "引き分けに終わる。", "ko": "무승부로 끝나다." }
+    ]
+  },
+  {
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "응원",
+    "meaningDetail": "격려",
+    "category": "명사",
+    "examples": [
+      { "ja": "応援に駆けつける。", "ko": "응원하러 달려가다." }
+    ]
+  },
+  {
+    "word": "観客",
+    "reading": "かんきゃく",
+    "meaning": "관객",
+    "meaningDetail": "보는 사람",
+    "category": "명사",
+    "examples": [
+      { "ja": "観客が拍手する。", "ko": "관객이 박수치다." }
+    ]
+  },
+  {
+    "word": "芸術",
+    "reading": "げいじゅつ",
+    "meaning": "예술",
+    "meaningDetail": "아트",
+    "category": "명사",
+    "examples": [
+      { "ja": "芸術を鑑賞する。", "ko": "예술을 감상하다." }
+    ]
+  },
+  {
+    "word": "美術",
+    "reading": "びじゅつ",
+    "meaning": "미술",
+    "meaningDetail": "그림 예술",
+    "category": "명사",
+    "examples": [
+      { "ja": "美術館に行く。", "ko": "미술관에 가다." }
+    ]
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "음악",
+    "meaningDetail": "노래와 악기",
+    "category": "명사",
+    "examples": [
+      { "ja": "音楽を聴く。", "ko": "음악을 듣다." }
+    ]
+  },
+  {
+    "word": "絵画",
+    "reading": "かいが",
+    "meaning": "회화",
+    "meaningDetail": "그림",
+    "category": "명사",
+    "examples": [
+      { "ja": "絵画を描く。", "ko": "회화를 그리다." }
+    ]
+  },
+  {
+    "word": "彫刻",
+    "reading": "ちょうこく",
+    "meaning": "조각",
+    "meaningDetail": "조형물",
+    "category": "명사",
+    "examples": [
+      { "ja": "彫刻を制作する。", "ko": "조각을 제작하다." }
+    ]
+  },
+  {
+    "word": "陶芸",
+    "reading": "とうげい",
+    "meaning": "도예",
+    "meaningDetail": "도자기 공예",
+    "category": "명사",
+    "examples": [
+      { "ja": "陶芸を習う。", "ko": "도예를 배우다." }
+    ]
+  },
+  {
+    "word": "書道",
+    "reading": "しょどう",
+    "meaning": "서예",
+    "meaningDetail": "글씨 예술",
+    "category": "명사",
+    "examples": [
+      { "ja": "書道を練習する。", "ko": "서예를 연습하다." }
+    ]
+  },
+  {
+    "word": "演劇",
+    "reading": "えんげき",
+    "meaning": "연극",
+    "meaningDetail": "무대극",
+    "category": "명사",
+    "examples": [
+      { "ja": "演劇を観る。", "ko": "연극을 보다." }
+    ]
+  },
+  {
+    "word": "舞台",
+    "reading": "ぶたい",
+    "meaning": "무대",
+    "meaningDetail": "스테이지",
+    "category": "명사",
+    "examples": [
+      { "ja": "舞台に立つ。", "ko": "무대에 서다." }
+    ]
+  },
+  {
+    "word": "俳優",
+    "reading": "はいゆう",
+    "meaning": "배우",
+    "meaningDetail": "연기자",
+    "category": "명사",
+    "examples": [
+      { "ja": "俳優になる。", "ko": "배우가 되다." }
+    ]
+  },
+  {
+    "word": "監督",
+    "reading": "かんとく",
+    "meaning": "감독",
+    "meaningDetail": "지도자",
+    "category": "명사",
+    "examples": [
+      { "ja": "監督が指示する。", "ko": "감독이 지시하다." }
+    ]
+  },
+  {
+    "word": "脚本",
+    "reading": "きゃくほん",
+    "meaning": "각본",
+    "meaningDetail": "대본",
+    "category": "명사",
+    "examples": [
+      { "ja": "脚本を書く。", "ko": "각본을 쓰다." }
+    ]
+  }
+]

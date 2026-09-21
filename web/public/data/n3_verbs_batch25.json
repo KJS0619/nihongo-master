@@ -1,0 +1,530 @@
+[
+  {
+    "word": "料理する",
+    "reading": "りょうりする",
+    "meaning": "요리하다",
+    "meaningDetail": "음식을 만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "夕食を料理する。", "ko": "저녁을 요리하다." }
+    ]
+  },
+  {
+    "word": "煮る",
+    "reading": "にる",
+    "meaning": "끓이다",
+    "meaningDetail": "삶다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "野菜を煮る。", "ko": "야채를 끓이다." }
+    ]
+  },
+  {
+    "word": "焼く",
+    "reading": "やく",
+    "meaning": "굽다",
+    "meaningDetail": "구워 익히다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "肉を焼く。", "ko": "고기를 굽다." }
+    ]
+  },
+  {
+    "word": "揚げる",
+    "reading": "あげる",
+    "meaning": "튀기다",
+    "meaningDetail": "기름에 튀기다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "天ぷらを揚げる。", "ko": "덴푸라를 튀기다." }
+    ]
+  },
+  {
+    "word": "蒸す",
+    "reading": "むす",
+    "meaning": "찌다",
+    "meaningDetail": "김에 익히다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "野菜を蒸す。", "ko": "야채를 찌다." }
+    ]
+  },
+  {
+    "word": "炒める",
+    "reading": "いためる",
+    "meaning": "볶다",
+    "meaningDetail": "기름에 볶다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "野菜を炒める。", "ko": "야채를 볶다." }
+    ]
+  },
+  {
+    "word": "茹でる",
+    "reading": "ゆでる",
+    "meaning": "삶다",
+    "meaningDetail": "끓는 물에 익히다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "卵を茹でる。", "ko": "달걀을 삶다." }
+    ]
+  },
+  {
+    "word": "冷やす",
+    "reading": "ひやす",
+    "meaning": "식히다",
+    "meaningDetail": "차갑게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ビールを冷やす。", "ko": "맥주를 식히다." }
+    ]
+  },
+  {
+    "word": "温める",
+    "reading": "あたためる",
+    "meaning": "데우다",
+    "meaningDetail": "따뜻하게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "牛乳を温める。", "ko": "우유를 데우다." }
+    ]
+  },
+  {
+    "word": "混ぜる",
+    "reading": "まぜる",
+    "meaning": "섞다",
+    "meaningDetail": "합치다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "材料を混ぜる。", "ko": "재료를 섞다." }
+    ]
+  },
+  {
+    "word": "刻む",
+    "reading": "きざむ",
+    "meaning": "다지다",
+    "meaningDetail": "잘게 썰다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "野菜を刻む。", "ko": "야채를 다지다." }
+    ]
+  },
+  {
+    "word": "剥く",
+    "reading": "むく",
+    "meaning": "껍질을 벗기다",
+    "meaningDetail": "껍데기를 벗기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "りんごを剥く。", "ko": "사과를 깎다." }
+    ]
+  },
+  {
+    "word": "絞る",
+    "reading": "しぼる",
+    "meaning": "짜다",
+    "meaningDetail": "쥐어짜다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "レモンを絞る。", "ko": "레몬을 짜다." }
+    ]
+  },
+  {
+    "word": "盛る",
+    "reading": "もる",
+    "meaning": "담다",
+    "meaningDetail": "그릇에 담다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ご飯を盛る。", "ko": "밥을 담다." }
+    ]
+  },
+  {
+    "word": "注ぐ",
+    "reading": "そそぐ",
+    "meaning": "붓다",
+    "meaningDetail": "따르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "お茶を注ぐ。", "ko": "차를 따르다." }
+    ]
+  },
+  {
+    "word": "味わう",
+    "reading": "あじわう",
+    "meaning": "맛보다",
+    "meaningDetail": "음미하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "料理を味わう。", "ko": "요리를 맛보다." }
+    ]
+  },
+  {
+    "word": "噛む",
+    "reading": "かむ",
+    "meaning": "씹다",
+    "meaningDetail": "이로 씹다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "よく噛んで食べる。", "ko": "잘 씹어서 먹다." }
+    ]
+  },
+  {
+    "word": "飲み込む",
+    "reading": "のみこむ",
+    "meaning": "삼키다",
+    "meaningDetail": "넘기다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "食べ物を飲み込む。", "ko": "음식을 삼키다." }
+    ]
+  },
+  {
+    "word": "消化する",
+    "reading": "しょうかする",
+    "meaning": "소화하다",
+    "meaningDetail": "음식을 분해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "食べ物を消化する。", "ko": "음식을 소화하다." }
+    ]
+  },
+  {
+    "word": "吸収する",
+    "reading": "きゅうしゅうする",
+    "meaning": "흡수하다",
+    "meaningDetail": "빨아들이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "栄養を吸収する。", "ko": "영양을 흡수하다." }
+    ]
+  },
+  {
+    "word": "建てる",
+    "reading": "たてる",
+    "meaning": "짓다",
+    "meaningDetail": "세우다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家を建てる。", "ko": "집을 짓다." }
+    ]
+  },
+  {
+    "word": "建設する",
+    "reading": "けんせつする",
+    "meaning": "건설하다",
+    "meaningDetail": "세우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ビルを建設する。", "ko": "빌딩을 건설하다." }
+    ]
+  },
+  {
+    "word": "設計する",
+    "reading": "せっけいする",
+    "meaning": "설계하다",
+    "meaningDetail": "계획을 세우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "建物を設計する。", "ko": "건물을 설계하다." }
+    ]
+  },
+  {
+    "word": "解体する",
+    "reading": "かいたいする",
+    "meaning": "해체하다",
+    "meaningDetail": "분해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "建物を解体する。", "ko": "건물을 해체하다." }
+    ]
+  },
+  {
+    "word": "改装する",
+    "reading": "かいそうする",
+    "meaning": "개조하다",
+    "meaningDetail": "새로 꾸미다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "店を改装する。", "ko": "가게를 개조하다." }
+    ]
+  },
+  {
+    "word": "改修する",
+    "reading": "かいしゅうする",
+    "meaning": "개수하다",
+    "meaningDetail": "고쳐 수리하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "道路を改修する。", "ko": "도로를 개수하다." }
+    ]
+  },
+  {
+    "word": "舗装する",
+    "reading": "ほそうする",
+    "meaning": "포장하다",
+    "meaningDetail": "도로를 깔다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "道を舗装する。", "ko": "길을 포장하다." }
+    ]
+  },
+  {
+    "word": "整備する",
+    "reading": "せいびする",
+    "meaning": "정비하다",
+    "meaningDetail": "손질하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "設備を整備する。", "ko": "설비를 정비하다." }
+    ]
+  },
+  {
+    "word": "点検する",
+    "reading": "てんけんする",
+    "meaning": "점검하다",
+    "meaningDetail": "확인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "車を点検する。", "ko": "차를 점검하다." }
+    ]
+  },
+  {
+    "word": "修理する",
+    "reading": "しゅうりする",
+    "meaning": "수리하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械を修理する。", "ko": "기계를 수리하다." }
+    ]
+  },
+  {
+    "word": "組み立てる",
+    "reading": "くみたてる",
+    "meaning": "조립하다",
+    "meaningDetail": "부품을 맞추다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家具を組み立てる。", "ko": "가구를 조립하다." }
+    ]
+  },
+  {
+    "word": "分解する",
+    "reading": "ぶんかいする",
+    "meaning": "분해하다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "機械を分解する。", "ko": "기계를 분해하다." }
+    ]
+  },
+  {
+    "word": "製造する",
+    "reading": "せいぞうする",
+    "meaning": "제조하다",
+    "meaningDetail": "만들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を製造する。", "ko": "제품을 제조하다." }
+    ]
+  },
+  {
+    "word": "加工する",
+    "reading": "かこうする",
+    "meaning": "가공하다",
+    "meaningDetail": "손질하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "木材を加工する。", "ko": "목재를 가공하다." }
+    ]
+  },
+  {
+    "word": "輸出する",
+    "reading": "ゆしゅつする",
+    "meaning": "수출하다",
+    "meaningDetail": "내보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "車を輸出する。", "ko": "차를 수출하다." }
+    ]
+  },
+  {
+    "word": "輸入する",
+    "reading": "ゆにゅうする",
+    "meaning": "수입하다",
+    "meaningDetail": "들여오다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "石油を輸入する。", "ko": "석유를 수입하다." }
+    ]
+  },
+  {
+    "word": "生産する",
+    "reading": "せいさんする",
+    "meaning": "생산하다",
+    "meaningDetail": "만들어내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を生産する。", "ko": "제품을 생산하다." }
+    ]
+  },
+  {
+    "word": "消費する",
+    "reading": "しょうひする",
+    "meaning": "소비하다",
+    "meaningDetail": "쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "エネルギーを消費する。", "ko": "에너지를 소비하다." }
+    ]
+  },
+  {
+    "word": "供給する",
+    "reading": "きょうきゅうする",
+    "meaning": "공급하다",
+    "meaningDetail": "제공하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "電力を供給する。", "ko": "전력을 공급하다." }
+    ]
+  },
+  {
+    "word": "需要する",
+    "reading": "じゅようする",
+    "meaning": "수요하다",
+    "meaningDetail": "필요로 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "市場が需要する。", "ko": "시장이 수요하다." }
+    ]
+  },
+  {
+    "word": "流通する",
+    "reading": "りゅうつうする",
+    "meaning": "유통되다",
+    "meaningDetail": "돌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品が流通する。", "ko": "상품이 유통되다." }
+    ]
+  },
+  {
+    "word": "配送する",
+    "reading": "はいそうする",
+    "meaning": "배송하다",
+    "meaningDetail": "배달하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を配送する。", "ko": "상품을 배송하다." }
+    ]
+  },
+  {
+    "word": "配達する",
+    "reading": "はいたつする",
+    "meaning": "배달하다",
+    "meaningDetail": "전달하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を配達する。", "ko": "짐을 배달하다." }
+    ]
+  },
+  {
+    "word": "注文する",
+    "reading": "ちゅうもんする",
+    "meaning": "주문하다",
+    "meaningDetail": "사달라고 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "料理を注文する。", "ko": "요리를 주문하다." }
+    ]
+  },
+  {
+    "word": "発送する",
+    "reading": "はっそうする",
+    "meaning": "발송하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "荷物を発送する。", "ko": "짐을 발송하다." }
+    ]
+  },
+  {
+    "word": "受け取る",
+    "reading": "うけとる",
+    "meaning": "받다",
+    "meaningDetail": "수령하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "荷物を受け取る。", "ko": "짐을 받다." }
+    ]
+  },
+  {
+    "word": "引き渡す",
+    "reading": "ひきわたす",
+    "meaning": "인도하다",
+    "meaningDetail": "넘겨주다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "鍵を引き渡す。", "ko": "열쇠를 인도하다." }
+    ]
+  },
+  {
+    "word": "返品する",
+    "reading": "へんぴんする",
+    "meaning": "반품하다",
+    "meaningDetail": "물건을 돌려주다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を返品する。", "ko": "상품을 반품하다." }
+    ]
+  }
+]

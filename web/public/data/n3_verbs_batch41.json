@@ -1,0 +1,508 @@
+[
+  {
+    "word": "話し掛ける",
+    "reading": "はなしかける",
+    "meaning": "말을 걸다",
+    "meaningDetail": "다가가다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "知らない人に話し掛ける。", "ko": "모르는 사람에게 말을 걸다." }
+    ]
+  },
+  {
+    "word": "問いかける",
+    "reading": "といかける",
+    "meaning": "질문하다",
+    "meaningDetail": "묻다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "自分に問いかける。", "ko": "자신에게 질문하다." }
+    ]
+  },
+  {
+    "word": "語りかける",
+    "reading": "かたりかける",
+    "meaning": "말을 걸다",
+    "meaningDetail": "이야기하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "子供に語りかける。", "ko": "아이에게 말을 걸다." }
+    ]
+  },
+  {
+    "word": "働きかける",
+    "reading": "はたらきかける",
+    "meaning": "호소하다",
+    "meaningDetail": "작용하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "政府に働きかける。", "ko": "정부에 호소하다." }
+    ]
+  },
+  {
+    "word": "呼び起こす",
+    "reading": "よびおこす",
+    "meaning": "불러일으키다",
+    "meaningDetail": "깨우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "記憶を呼び起こす。", "ko": "기억을 불러일으키다." }
+    ]
+  },
+  {
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "meaning": "끌어내다",
+    "meaningDetail": "인출하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "能力を引き出す。", "ko": "능력을 끌어내다." }
+    ]
+  },
+  {
+    "word": "引き寄せる",
+    "reading": "ひきよせる",
+    "meaning": "끌어당기다",
+    "meaningDetail": "끌다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "注目を引き寄せる。", "ko": "주목을 끌다." }
+    ]
+  },
+  {
+    "word": "引き留める",
+    "reading": "ひきとめる",
+    "meaning": "붙잡다",
+    "meaningDetail": "만류하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "退職を引き留める。", "ko": "퇴직을 만류하다." }
+    ]
+  },
+  {
+    "word": "引き延ばす",
+    "reading": "ひきのばす",
+    "meaning": "늘리다",
+    "meaningDetail": "연장하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "時間を引き延ばす。", "ko": "시간을 늘리다." }
+    ]
+  },
+  {
+    "word": "追い上げる",
+    "reading": "おいあげる",
+    "meaning": "따라잡다",
+    "meaningDetail": "추격하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "首位を追い上げる。", "ko": "1위를 추격하다." }
+    ]
+  },
+  {
+    "word": "追い抜く",
+    "reading": "おいぬく",
+    "meaning": "추월하다",
+    "meaningDetail": "앞지르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "ライバルを追い抜く。", "ko": "라이벌을 추월하다." }
+    ]
+  },
+  {
+    "word": "追い立てる",
+    "reading": "おいたてる",
+    "meaning": "몰아세우다",
+    "meaningDetail": "쫓다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "仕事に追い立てられる。", "ko": "일에 쫓기다." }
+    ]
+  },
+  {
+    "word": "追いやる",
+    "reading": "おいやる",
+    "meaning": "몰아붙이다",
+    "meaningDetail": "쫓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "窮地に追いやる。", "ko": "궁지로 몰아붙이다." }
+    ]
+  },
+  {
+    "word": "付き合う",
+    "reading": "つきあう",
+    "meaning": "사귀다",
+    "meaningDetail": "교제하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "友人と付き合う。", "ko": "친구와 사귀다." }
+    ]
+  },
+  {
+    "word": "付き添う",
+    "reading": "つきそう",
+    "meaning": "동반하다",
+    "meaningDetail": "따라가다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病人に付き添う。", "ko": "환자에 동반하다." }
+    ]
+  },
+  {
+    "word": "付き纏う",
+    "reading": "つきまとう",
+    "meaning": "따라다니다",
+    "meaningDetail": "붙어다니다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "不安が付き纏う。", "ko": "불안이 따라다니다." }
+    ]
+  },
+  {
+    "word": "纏わる",
+    "reading": "まつわる",
+    "meaning": "관련되다",
+    "meaningDetail": "얽히다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "歴史に纏わる話。", "ko": "역사에 관련된 이야기." }
+    ]
+  },
+  {
+    "word": "絡む",
+    "reading": "からむ",
+    "meaning": "얽히다",
+    "meaningDetail": "연관되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "利害が絡む。", "ko": "이해가 얽히다." }
+    ]
+  },
+  {
+    "word": "絡み合う",
+    "reading": "からみあう",
+    "meaning": "얽히다",
+    "meaningDetail": "복잡해지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "問題が絡み合う。", "ko": "문제가 얽히다." }
+    ]
+  },
+  {
+    "word": "結び付く",
+    "reading": "むすびつく",
+    "meaning": "연결되다",
+    "meaningDetail": "이어지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "成功に結び付く。", "ko": "성공에 연결되다." }
+    ]
+  },
+  {
+    "word": "結び付ける",
+    "reading": "むすびつける",
+    "meaning": "연결하다",
+    "meaningDetail": "이어주다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "点と点を結び付ける。", "ko": "점과 점을 연결하다." }
+    ]
+  },
+  {
+    "word": "繋がる",
+    "reading": "つながる",
+    "meaning": "연결되다",
+    "meaningDetail": "이어지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "電話が繋がる。", "ko": "전화가 연결되다." }
+    ]
+  },
+  {
+    "word": "繋げる",
+    "reading": "つなげる",
+    "meaning": "연결하다",
+    "meaningDetail": "잇다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "人と人を繋げる。", "ko": "사람과 사람을 연결하다." }
+    ]
+  },
+  {
+    "word": "繋ぎ止める",
+    "reading": "つなぎとめる",
+    "meaning": "붙잡아두다",
+    "meaningDetail": "유지하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "顧客を繋ぎ止める。", "ko": "고객을 붙잡아두다." }
+    ]
+  },
+  {
+    "word": "食い下がる",
+    "reading": "くいさがる",
+    "meaning": "물고 늘어지다",
+    "meaningDetail": "고집하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "質問に食い下がる。", "ko": "질문에 물고 늘어지다." }
+    ]
+  },
+  {
+    "word": "根付く",
+    "reading": "ねづく",
+    "meaning": "뿌리내리다",
+    "meaningDetail": "정착하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "文化が根付く。", "ko": "문화가 뿌리내리다." }
+    ]
+  },
+  {
+    "word": "芽生える",
+    "reading": "めばえる",
+    "meaning": "싹트다",
+    "meaningDetail": "시작되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "愛情が芽生える。", "ko": "애정이 싹트다." }
+    ]
+  },
+  {
+    "word": "花開く",
+    "reading": "はなひらく",
+    "meaning": "꽃피다",
+    "meaningDetail": "성취되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "才能が花開く。", "ko": "재능이 꽃피다." }
+    ]
+  },
+  {
+    "word": "実を結ぶ",
+    "reading": "みをむすぶ",
+    "meaning": "열매를 맺다",
+    "meaningDetail": "결실하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "努力が実を結ぶ。", "ko": "노력이 결실을 맺다." }
+    ]
+  },
+  {
+    "word": "枯れる",
+    "reading": "かれる",
+    "meaning": "마르다",
+    "meaningDetail": "시들다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "花が枯れる。", "ko": "꽃이 시들다." }
+    ]
+  },
+  {
+    "word": "萎える",
+    "reading": "なえる",
+    "meaning": "시들다",
+    "meaningDetail": "약해지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "気力が萎える。", "ko": "기력이 약해지다." }
+    ]
+  },
+  {
+    "word": "育む",
+    "reading": "はぐくむ",
+    "meaning": "기르다",
+    "meaningDetail": "키우다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "才能を育む。", "ko": "재능을 기르다." }
+    ]
+  },
+  {
+    "word": "養う",
+    "reading": "やしなう",
+    "meaning": "기르다",
+    "meaningDetail": "부양하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "家族を養う。", "ko": "가족을 부양하다." }
+    ]
+  },
+  {
+    "word": "培う",
+    "reading": "つちかう",
+    "meaning": "기르다",
+    "meaningDetail": "쌓다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "信頼を培う。", "ko": "신뢰를 쌓다." }
+    ]
+  },
+  {
+    "word": "携わる",
+    "reading": "たずさわる",
+    "meaning": "종사하다",
+    "meaningDetail": "관여하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "研究に携わる。", "ko": "연구에 종사하다." }
+    ]
+  },
+  {
+    "word": "関わる",
+    "reading": "かかわる",
+    "meaning": "관련되다",
+    "meaningDetail": "관여하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事件に関わる。", "ko": "사건에 관련되다." }
+    ]
+  },
+  {
+    "word": "踏まえる",
+    "reading": "ふまえる",
+    "meaning": "토대로 삼다",
+    "meaningDetail": "참고하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "経験を踏まえる。", "ko": "경험을 토대로 삼다." }
+    ]
+  },
+  {
+    "word": "基づく",
+    "reading": "もとづく",
+    "meaning": "기반하다",
+    "meaningDetail": "근거하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "事実に基づく。", "ko": "사실에 기반하다." }
+    ]
+  },
+  {
+    "word": "拠る",
+    "reading": "よる",
+    "meaning": "의거하다",
+    "meaningDetail": "따르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "法律に拠る。", "ko": "법률에 의거하다." }
+    ]
+  },
+  {
+    "word": "沿う",
+    "reading": "そう",
+    "meaning": "따르다",
+    "meaningDetail": "따르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "方針に沿う。", "ko": "방침에 따르다." }
+    ]
+  },
+  {
+    "word": "則る",
+    "reading": "のっとる",
+    "meaning": "따르다",
+    "meaningDetail": "준수하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "規則に則る。", "ko": "규칙에 따르다." }
+    ]
+  },
+  {
+    "word": "逸れる",
+    "reading": "それる",
+    "meaning": "벗어나다",
+    "meaningDetail": "빗나가다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "話が逸れる。", "ko": "이야기가 벗어나다." }
+    ]
+  },
+  {
+    "word": "外れる",
+    "reading": "はずれる",
+    "meaning": "벗어나다",
+    "meaningDetail": "어긋나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "予想が外れる。", "ko": "예상이 어긋나다." }
+    ]
+  },
+  {
+    "word": "逸脱する",
+    "reading": "いつだつする",
+    "meaning": "일탈하다",
+    "meaningDetail": "벗어나다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ルールから逸脱する。", "ko": "규칙에서 일탈하다." }
+    ]
+  },
+  {
+    "word": "脱する",
+    "reading": "だっする",
+    "meaning": "벗어나다",
+    "meaningDetail": "탈출하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "危機を脱する。", "ko": "위기를 벗어나다." }
+    ]
+  },
+  {
+    "word": "抜け出す",
+    "reading": "ぬけだす",
+    "meaning": "빠져나오다",
+    "meaningDetail": "탈출하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "困難から抜け出す。", "ko": "곤란에서 빠져나오다." }
+    ]
+  }
+]

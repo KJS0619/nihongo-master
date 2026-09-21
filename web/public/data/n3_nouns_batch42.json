@@ -1,0 +1,482 @@
+[
+  {
+    "word": "保険",
+    "reading": "ほけん",
+    "meaning": "보험",
+    "meaningDetail": "담보",
+    "category": "명사",
+    "examples": [
+      { "ja": "保険に入る。", "ko": "보험에 가입하다." }
+    ]
+  },
+  {
+    "word": "年金",
+    "reading": "ねんきん",
+    "meaning": "연금",
+    "meaningDetail": "급부금",
+    "category": "명사",
+    "examples": [
+      { "ja": "年金を受け取る。", "ko": "연금을 받다." }
+    ]
+  },
+  {
+    "word": "税金",
+    "reading": "ぜいきん",
+    "meaning": "세금",
+    "meaningDetail": "조세",
+    "category": "명사",
+    "examples": [
+      { "ja": "税金を払う。", "ko": "세금을 내다." }
+    ]
+  },
+  {
+    "word": "消費税",
+    "reading": "しょうひぜい",
+    "meaning": "소비세",
+    "meaningDetail": "부가세",
+    "category": "명사",
+    "examples": [
+      { "ja": "消費税が上がる。", "ko": "소비세가 오르다." }
+    ]
+  },
+  {
+    "word": "所得税",
+    "reading": "しょとくぜい",
+    "meaning": "소득세",
+    "meaningDetail": "세금",
+    "category": "명사",
+    "examples": [
+      { "ja": "所得税を納める。", "ko": "소득세를 내다." }
+    ]
+  },
+  {
+    "word": "法人税",
+    "reading": "ほうじんぜい",
+    "meaning": "법인세",
+    "meaningDetail": "세금",
+    "category": "명사",
+    "examples": [
+      { "ja": "法人税を計算する。", "ko": "법인세를 계산하다." }
+    ]
+  },
+  {
+    "word": "納税",
+    "reading": "のうぜい",
+    "meaning": "납세",
+    "meaningDetail": "세금납부",
+    "category": "명사",
+    "examples": [
+      { "ja": "納税の義務がある。", "ko": "납세 의무가 있다." }
+    ]
+  },
+  {
+    "word": "控除",
+    "reading": "こうじょ",
+    "meaning": "공제",
+    "meaningDetail": "차감",
+    "category": "명사",
+    "examples": [
+      { "ja": "控除を受ける。", "ko": "공제를 받다." }
+    ]
+  },
+  {
+    "word": "申告",
+    "reading": "しんこく",
+    "meaning": "신고",
+    "meaningDetail": "보고",
+    "category": "명사",
+    "examples": [
+      { "ja": "申告を行う。", "ko": "신고를 하다." }
+    ]
+  },
+  {
+    "word": "届出",
+    "reading": "とどけで",
+    "meaning": "신고",
+    "meaningDetail": "제출",
+    "category": "명사",
+    "examples": [
+      { "ja": "届出を済ませる。", "ko": "신고를 마치다." }
+    ]
+  },
+  {
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "meaningDetail": "승인",
+    "category": "명사",
+    "examples": [
+      { "ja": "許可をもらう。", "ko": "허가를 받다." }
+    ]
+  },
+  {
+    "word": "認可",
+    "reading": "にんか",
+    "meaning": "인가",
+    "meaningDetail": "승인",
+    "category": "명사",
+    "examples": [
+      { "ja": "認可を得る。", "ko": "인가를 받다." }
+    ]
+  },
+  {
+    "word": "免許",
+    "reading": "めんきょ",
+    "meaning": "면허",
+    "meaningDetail": "자격증",
+    "category": "명사",
+    "examples": [
+      { "ja": "免許を取得する。", "ko": "면허를 취득하다." }
+    ]
+  },
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "자격증",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を持っている。", "ko": "자격을 갖고 있다." }
+    ]
+  },
+  {
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "등록",
+    "meaningDetail": "신청",
+    "category": "명사",
+    "examples": [
+      { "ja": "登録を完了する。", "ko": "등록을 완료하다." }
+    ]
+  },
+  {
+    "word": "届け",
+    "reading": "とどけ",
+    "meaning": "신고서",
+    "meaningDetail": "서류",
+    "category": "명사",
+    "examples": [
+      { "ja": "届けを出す。", "ko": "신고서를 내다." }
+    ]
+  },
+  {
+    "word": "届け出",
+    "reading": "とどけで",
+    "meaning": "신고",
+    "meaningDetail": "제출",
+    "category": "명사",
+    "examples": [
+      { "ja": "届け出が必要だ。", "ko": "신고가 필요하다." }
+    ]
+  },
+  {
+    "word": "手配",
+    "reading": "てはい",
+    "meaning": "수배",
+    "meaningDetail": "준비",
+    "category": "명사",
+    "examples": [
+      { "ja": "手配を進める。", "ko": "수배를 진행하다." }
+    ]
+  },
+  {
+    "word": "配置",
+    "reading": "はいち",
+    "meaning": "배치",
+    "meaningDetail": "배열",
+    "category": "명사",
+    "examples": [
+      { "ja": "配置を決める。", "ko": "배치를 정하다." }
+    ]
+  },
+  {
+    "word": "配分",
+    "reading": "はいぶん",
+    "meaning": "배분",
+    "meaningDetail": "할당",
+    "category": "명사",
+    "examples": [
+      { "ja": "配分を決める。", "ko": "배분을 정하다." }
+    ]
+  },
+  {
+    "word": "配慮",
+    "reading": "はいりょ",
+    "meaning": "배려",
+    "meaningDetail": "고려",
+    "category": "명사",
+    "examples": [
+      { "ja": "配慮が足りない。", "ko": "배려가 부족하다." }
+    ]
+  },
+  {
+    "word": "考慮",
+    "reading": "こうりょ",
+    "meaning": "고려",
+    "meaningDetail": "참작",
+    "category": "명사",
+    "examples": [
+      { "ja": "考慮に入れる。", "ko": "고려에 넣다." }
+    ]
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaning": "검토",
+    "meaningDetail": "조사",
+    "category": "명사",
+    "examples": [
+      { "ja": "検討を重ねる。", "ko": "검토를 거듭하다." }
+    ]
+  },
+  {
+    "word": "検証",
+    "reading": "けんしょう",
+    "meaning": "검증",
+    "meaningDetail": "확인",
+    "category": "명사",
+    "examples": [
+      { "ja": "検証を行う。", "ko": "검증을 하다." }
+    ]
+  },
+  {
+    "word": "検査",
+    "reading": "けんさ",
+    "meaning": "검사",
+    "meaningDetail": "조사",
+    "category": "명사",
+    "examples": [
+      { "ja": "検査を受ける。", "ko": "검사를 받다." }
+    ]
+  },
+  {
+    "word": "監査",
+    "reading": "かんさ",
+    "meaning": "감사",
+    "meaningDetail": "검사",
+    "category": "명사",
+    "examples": [
+      { "ja": "監査を実施する。", "ko": "감사를 실시하다." }
+    ]
+  },
+  {
+    "word": "審査",
+    "reading": "しんさ",
+    "meaning": "심사",
+    "meaningDetail": "검토",
+    "category": "명사",
+    "examples": [
+      { "ja": "審査に通る。", "ko": "심사에 통과하다." }
+    ]
+  },
+  {
+    "word": "審議",
+    "reading": "しんぎ",
+    "meaning": "심의",
+    "meaningDetail": "검토",
+    "category": "명사",
+    "examples": [
+      { "ja": "審議を行う。", "ko": "심의를 하다." }
+    ]
+  },
+  {
+    "word": "協議",
+    "reading": "きょうぎ",
+    "meaning": "협의",
+    "meaningDetail": "상의",
+    "category": "명사",
+    "examples": [
+      { "ja": "協議を重ねる。", "ko": "협의를 거듭하다." }
+    ]
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "회의",
+    "meaningDetail": "회합",
+    "category": "명사",
+    "examples": [
+      { "ja": "会議を開く。", "ko": "회의를 열다." }
+    ]
+  },
+  {
+    "word": "会合",
+    "reading": "かいごう",
+    "meaning": "회합",
+    "meaningDetail": "모임",
+    "category": "명사",
+    "examples": [
+      { "ja": "会合に出席する。", "ko": "회합에 출석하다." }
+    ]
+  },
+  {
+    "word": "会談",
+    "reading": "かいだん",
+    "meaning": "회담",
+    "meaningDetail": "대화",
+    "category": "명사",
+    "examples": [
+      { "ja": "会談を行う。", "ko": "회담을 하다." }
+    ]
+  },
+  {
+    "word": "面談",
+    "reading": "めんだん",
+    "meaning": "면담",
+    "meaningDetail": "대화",
+    "category": "명사",
+    "examples": [
+      { "ja": "面談を予約する。", "ko": "면담을 예약하다." }
+    ]
+  },
+  {
+    "word": "面接",
+    "reading": "めんせつ",
+    "meaning": "면접",
+    "meaningDetail": "인터뷰",
+    "category": "명사",
+    "examples": [
+      { "ja": "面接を受ける。", "ko": "면접을 받다." }
+    ]
+  },
+  {
+    "word": "面会",
+    "reading": "めんかい",
+    "meaning": "면회",
+    "meaningDetail": "만남",
+    "category": "명사",
+    "examples": [
+      { "ja": "面会を希望する。", "ko": "면회를 희망하다." }
+    ]
+  },
+  {
+    "word": "訪問",
+    "reading": "ほうもん",
+    "meaning": "방문",
+    "meaningDetail": "찾아감",
+    "category": "명사",
+    "examples": [
+      { "ja": "訪問を予定する。", "ko": "방문을 예정하다." }
+    ]
+  },
+  {
+    "word": "来訪",
+    "reading": "らいほう",
+    "meaning": "방문",
+    "meaningDetail": "찾아옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "来訪を歓迎する。", "ko": "방문을 환영하다." }
+    ]
+  },
+  {
+    "word": "招待",
+    "reading": "しょうたい",
+    "meaning": "초대",
+    "meaningDetail": "초청",
+    "category": "명사",
+    "examples": [
+      { "ja": "招待を受ける。", "ko": "초대를 받다." }
+    ]
+  },
+  {
+    "word": "招聘",
+    "reading": "しょうへい",
+    "meaning": "초빙",
+    "meaningDetail": "초청",
+    "category": "명사",
+    "examples": [
+      { "ja": "招聘を受ける。", "ko": "초빙을 받다." }
+    ]
+  },
+  {
+    "word": "派遣",
+    "reading": "はけん",
+    "meaning": "파견",
+    "meaningDetail": "보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "派遣を要請する。", "ko": "파견을 요청하다." }
+    ]
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "meaning": "출장",
+    "meaningDetail": "출근",
+    "category": "명사",
+    "examples": [
+      { "ja": "出張に行く。", "ko": "출장을 가다." }
+    ]
+  },
+  {
+    "word": "出勤",
+    "reading": "しゅっきん",
+    "meaning": "출근",
+    "meaningDetail": "출퇴근",
+    "category": "명사",
+    "examples": [
+      { "ja": "出勤時間を守る。", "ko": "출근 시간을 지키다." }
+    ]
+  },
+  {
+    "word": "退勤",
+    "reading": "たいきん",
+    "meaning": "퇴근",
+    "meaningDetail": "퇴출",
+    "category": "명사",
+    "examples": [
+      { "ja": "退勤する。", "ko": "퇴근하다." }
+    ]
+  },
+  {
+    "word": "残業",
+    "reading": "ざんぎょう",
+    "meaning": "잔업",
+    "meaningDetail": "야근",
+    "category": "명사",
+    "examples": [
+      { "ja": "残業が多い。", "ko": "잔업이 많다." }
+    ]
+  },
+  {
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaning": "휴가",
+    "meaningDetail": "쉼",
+    "category": "명사",
+    "examples": [
+      { "ja": "休暇を取る。", "ko": "휴가를 쓰다." }
+    ]
+  },
+  {
+    "word": "有給",
+    "reading": "ゆうきゅう",
+    "meaning": "유급",
+    "meaningDetail": "급여 있는",
+    "category": "명사",
+    "examples": [
+      { "ja": "有給休暇を使う。", "ko": "유급 휴가를 쓰다." }
+    ]
+  },
+  {
+    "word": "休日",
+    "reading": "きゅうじつ",
+    "meaning": "휴일",
+    "meaningDetail": "쉬는 날",
+    "category": "명사",
+    "examples": [
+      { "ja": "休日を楽しむ。", "ko": "휴일을 즐기다." }
+    ]
+  },
+  {
+    "word": "祝日",
+    "reading": "しゅくじつ",
+    "meaning": "공휴일",
+    "meaningDetail": "경축일",
+    "category": "명사",
+    "examples": [
+      { "ja": "祝日に休む。", "ko": "공휴일에 쉬다." }
+    ]
+  }
+]

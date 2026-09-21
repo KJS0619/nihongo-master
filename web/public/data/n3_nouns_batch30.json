@@ -1,0 +1,482 @@
+[
+  {
+    "word": "心理",
+    "reading": "しんり",
+    "meaning": "심리",
+    "meaningDetail": "마음 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "心理を分析する。", "ko": "심리를 분석하다." }
+    ]
+  },
+  {
+    "word": "精神",
+    "reading": "せいしん",
+    "meaning": "정신",
+    "meaningDetail": "마음",
+    "category": "명사",
+    "examples": [
+      { "ja": "精神を鍛える。", "ko": "정신을 단련하다." }
+    ]
+  },
+  {
+    "word": "意識",
+    "reading": "いしき",
+    "meaning": "의식",
+    "meaningDetail": "자각",
+    "category": "명사",
+    "examples": [
+      { "ja": "意識を失う。", "ko": "의식을 잃다." }
+    ]
+  },
+  {
+    "word": "感情",
+    "reading": "かんじょう",
+    "meaning": "감정",
+    "meaningDetail": "기분",
+    "category": "명사",
+    "examples": [
+      { "ja": "感情を抑える。", "ko": "감정을 억누르다." }
+    ]
+  },
+  {
+    "word": "感覚",
+    "reading": "かんかく",
+    "meaning": "감각",
+    "meaningDetail": "느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "感覚が鋭い。", "ko": "감각이 예리하다." }
+    ]
+  },
+  {
+    "word": "知覚",
+    "reading": "ちかく",
+    "meaning": "지각",
+    "meaningDetail": "인지",
+    "category": "명사",
+    "examples": [
+      { "ja": "知覚を研究する。", "ko": "지각을 연구하다." }
+    ]
+  },
+  {
+    "word": "記憶",
+    "reading": "きおく",
+    "meaning": "기억",
+    "meaningDetail": "추억",
+    "category": "명사",
+    "examples": [
+      { "ja": "記憶をたどる。", "ko": "기억을 더듬다." }
+    ]
+  },
+  {
+    "word": "思考",
+    "reading": "しこう",
+    "meaning": "사고",
+    "meaningDetail": "생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "思考を整理する。", "ko": "사고를 정리하다." }
+    ]
+  },
+  {
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "판단",
+    "meaningDetail": "결정",
+    "category": "명사",
+    "examples": [
+      { "ja": "判断を下す。", "ko": "판단을 내리다." }
+    ]
+  },
+  {
+    "word": "直感",
+    "reading": "ちょっかん",
+    "meaning": "직감",
+    "meaningDetail": "직관",
+    "category": "명사",
+    "examples": [
+      { "ja": "直感を信じる。", "ko": "직감을 믿다." }
+    ]
+  },
+  {
+    "word": "想像",
+    "reading": "そうぞう",
+    "meaning": "상상",
+    "meaningDetail": "꿈꾸기",
+    "category": "명사",
+    "examples": [
+      { "ja": "想像力が豊かだ。", "ko": "상상력이 풍부하다." }
+    ]
+  },
+  {
+    "word": "空想",
+    "reading": "くうそう",
+    "meaning": "공상",
+    "meaningDetail": "허황된 생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "空想にふける。", "ko": "공상에 잠기다." }
+    ]
+  },
+  {
+    "word": "妄想",
+    "reading": "もうそう",
+    "meaning": "망상",
+    "meaningDetail": "헛된 생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "妄想を抱く。", "ko": "망상을 품다." }
+    ]
+  },
+  {
+    "word": "欲望",
+    "reading": "よくぼう",
+    "meaning": "욕망",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "欲望を抑える。", "ko": "욕망을 억제하다." }
+    ]
+  },
+  {
+    "word": "願望",
+    "reading": "がんぼう",
+    "meaning": "소원",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "願望を叶える。", "ko": "소원을 이루다." }
+    ]
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "희망",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "希望を持つ。", "ko": "희망을 갖다." }
+    ]
+  },
+  {
+    "word": "絶望",
+    "reading": "ぜつぼう",
+    "meaning": "절망",
+    "meaningDetail": "낙담",
+    "category": "명사",
+    "examples": [
+      { "ja": "絶望に陥る。", "ko": "절망에 빠지다." }
+    ]
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "meaningDetail": "바람",
+    "category": "명사",
+    "examples": [
+      { "ja": "期待に応える。", "ko": "기대에 부응하다." }
+    ]
+  },
+  {
+    "word": "失望",
+    "reading": "しつぼう",
+    "meaning": "실망",
+    "meaningDetail": "낙담",
+    "category": "명사",
+    "examples": [
+      { "ja": "失望する。", "ko": "실망하다." }
+    ]
+  },
+  {
+    "word": "喜び",
+    "reading": "よろこび",
+    "meaning": "기쁨",
+    "meaningDetail": "즐거움",
+    "category": "명사",
+    "examples": [
+      { "ja": "喜びを感じる。", "ko": "기쁨을 느끼다." }
+    ]
+  },
+  {
+    "word": "悲しみ",
+    "reading": "かなしみ",
+    "meaning": "슬픔",
+    "meaningDetail": "서러움",
+    "category": "명사",
+    "examples": [
+      { "ja": "悲しみに暮れる。", "ko": "슬픔에 잠기다." }
+    ]
+  },
+  {
+    "word": "怒り",
+    "reading": "いかり",
+    "meaning": "분노",
+    "meaningDetail": "화",
+    "category": "명사",
+    "examples": [
+      { "ja": "怒りを抑える。", "ko": "분노를 참다." }
+    ]
+  },
+  {
+    "word": "恐怖",
+    "reading": "きょうふ",
+    "meaning": "공포",
+    "meaningDetail": "두려움",
+    "category": "명사",
+    "examples": [
+      { "ja": "恐怖を感じる。", "ko": "공포를 느끼다." }
+    ]
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meaning": "불안",
+    "meaningDetail": "걱정",
+    "category": "명사",
+    "examples": [
+      { "ja": "不安を覚える。", "ko": "불안을 느끼다." }
+    ]
+  },
+  {
+    "word": "安心",
+    "reading": "あんしん",
+    "meaning": "안심",
+    "meaningDetail": "마음 놓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "安心する。", "ko": "안심하다." }
+    ]
+  },
+  {
+    "word": "緊張",
+    "reading": "きんちょう",
+    "meaning": "긴장",
+    "meaningDetail": "조마조마함",
+    "category": "명사",
+    "examples": [
+      { "ja": "緊張が高まる。", "ko": "긴장이 고조되다." }
+    ]
+  },
+  {
+    "word": "興奮",
+    "reading": "こうふん",
+    "meaning": "흥분",
+    "meaningDetail": "들뜸",
+    "category": "명사",
+    "examples": [
+      { "ja": "興奮を抑える。", "ko": "흥분을 가라앉히다." }
+    ]
+  },
+  {
+    "word": "感動",
+    "reading": "かんどう",
+    "meaning": "감동",
+    "meaningDetail": "감명",
+    "category": "명사",
+    "examples": [
+      { "ja": "感動を与える。", "ko": "감동을 주다." }
+    ]
+  },
+  {
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "감사",
+    "meaningDetail": "고마움",
+    "category": "명사",
+    "examples": [
+      { "ja": "感謝の気持ち。", "ko": "감사의 마음." }
+    ]
+  },
+  {
+    "word": "後悔",
+    "reading": "こうかい",
+    "meaning": "후회",
+    "meaningDetail": "뉘우침",
+    "category": "명사",
+    "examples": [
+      { "ja": "後悔する。", "ko": "후회하다." }
+    ]
+  },
+  {
+    "word": "反省",
+    "reading": "はんせい",
+    "meaning": "반성",
+    "meaningDetail": "되돌아봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "反省する。", "ko": "반성하다." }
+    ]
+  },
+  {
+    "word": "同情",
+    "reading": "どうじょう",
+    "meaning": "동정",
+    "meaningDetail": "불쌍히 여김",
+    "category": "명사",
+    "examples": [
+      { "ja": "同情する。", "ko": "동정하다." }
+    ]
+  },
+  {
+    "word": "共感",
+    "reading": "きょうかん",
+    "meaning": "공감",
+    "meaningDetail": "같이 느낌",
+    "category": "명사",
+    "examples": [
+      { "ja": "共感を得る。", "ko": "공감을 얻다." }
+    ]
+  },
+  {
+    "word": "嫉妬",
+    "reading": "しっと",
+    "meaning": "질투",
+    "meaningDetail": "시기",
+    "category": "명사",
+    "examples": [
+      { "ja": "嫉妬を感じる。", "ko": "질투를 느끼다." }
+    ]
+  },
+  {
+    "word": "羨望",
+    "reading": "せんぼう",
+    "meaning": "선망",
+    "meaningDetail": "부러움",
+    "category": "명사",
+    "examples": [
+      { "ja": "羨望の的になる。", "ko": "선망의 대상이 되다." }
+    ]
+  },
+  {
+    "word": "軽蔑",
+    "reading": "けいべつ",
+    "meaning": "경멸",
+    "meaningDetail": "업신여김",
+    "category": "명사",
+    "examples": [
+      { "ja": "軽蔑する。", "ko": "경멸하다." }
+    ]
+  },
+  {
+    "word": "尊敬",
+    "reading": "そんけい",
+    "meaning": "존경",
+    "meaningDetail": "우러러봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "尊敬する。", "ko": "존경하다." }
+    ]
+  },
+  {
+    "word": "敬意",
+    "reading": "けいい",
+    "meaning": "경의",
+    "meaningDetail": "공경",
+    "category": "명사",
+    "examples": [
+      { "ja": "敬意を表する。", "ko": "경의를 표하다." }
+    ]
+  },
+  {
+    "word": "愛情",
+    "reading": "あいじょう",
+    "meaning": "애정",
+    "meaningDetail": "사랑",
+    "category": "명사",
+    "examples": [
+      { "ja": "愛情を注ぐ。", "ko": "애정을 쏟다." }
+    ]
+  },
+  {
+    "word": "友情",
+    "reading": "ゆうじょう",
+    "meaning": "우정",
+    "meaningDetail": "벗사이",
+    "category": "명사",
+    "examples": [
+      { "ja": "友情を育む。", "ko": "우정을 키우다." }
+    ]
+  },
+  {
+    "word": "信頼",
+    "reading": "しんらい",
+    "meaning": "신뢰",
+    "meaningDetail": "믿음",
+    "category": "명사",
+    "examples": [
+      { "ja": "信頼を得る。", "ko": "신뢰를 얻다." }
+    ]
+  },
+  {
+    "word": "裏切り",
+    "reading": "うらぎり",
+    "meaning": "배신",
+    "meaningDetail": "뒷통수",
+    "category": "명사",
+    "examples": [
+      { "ja": "裏切りにあう。", "ko": "배신당하다." }
+    ]
+  },
+  {
+    "word": "誤解",
+    "reading": "ごかい",
+    "meaning": "오해",
+    "meaningDetail": "잘못된 이해",
+    "category": "명사",
+    "examples": [
+      { "ja": "誤解を招く。", "ko": "오해를 일으키다." }
+    ]
+  },
+  {
+    "word": "理解",
+    "reading": "りかい",
+    "meaning": "이해",
+    "meaningDetail": "깨달음",
+    "category": "명사",
+    "examples": [
+      { "ja": "理解を深める。", "ko": "이해를 깊이 하다." }
+    ]
+  },
+  {
+    "word": "納得",
+    "reading": "なっとく",
+    "meaning": "납득",
+    "meaningDetail": "수긍",
+    "category": "명사",
+    "examples": [
+      { "ja": "納得する。", "ko": "납득하다." }
+    ]
+  },
+  {
+    "word": "賛成",
+    "reading": "さんせい",
+    "meaning": "찬성",
+    "meaningDetail": "동의",
+    "category": "명사",
+    "examples": [
+      { "ja": "賛成する。", "ko": "찬성하다." }
+    ]
+  },
+  {
+    "word": "反対",
+    "reading": "はんたい",
+    "meaning": "반대",
+    "meaningDetail": "거부",
+    "category": "명사",
+    "examples": [
+      { "ja": "反対する。", "ko": "반대하다." }
+    ]
+  },
+  {
+    "word": "中立",
+    "reading": "ちゅうりつ",
+    "meaning": "중립",
+    "meaningDetail": "어느 쪽도 아님",
+    "category": "명사",
+    "examples": [
+      { "ja": "中立を保つ。", "ko": "중립을 유지하다." }
+    ]
+  }
+]

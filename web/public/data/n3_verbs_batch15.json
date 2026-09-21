@@ -1,0 +1,541 @@
+[
+  {
+    "word": "支える",
+    "reading": "ささえる",
+    "meaning": "지탱하다",
+    "meaningDetail": "버티다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "家族を支える。", "ko": "가족을 지탱하다." }
+    ]
+  },
+  {
+    "word": "支持する",
+    "reading": "しじする",
+    "meaning": "지지하다",
+    "meaningDetail": "뒷받침하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を支持する。", "ko": "의견을 지지하다." }
+    ]
+  },
+  {
+    "word": "援助する",
+    "reading": "えんじょする",
+    "meaning": "원조하다",
+    "meaningDetail": "돕다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "発展途上国を援助する。", "ko": "개발도상국을 원조하다." }
+    ]
+  },
+  {
+    "word": "協力する",
+    "reading": "きょうりょくする",
+    "meaning": "협력하다",
+    "meaningDetail": "함께 힘쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "プロジェクトに協力する。", "ko": "프로젝트에 협력하다." }
+    ]
+  },
+  {
+    "word": "連携する",
+    "reading": "れんけいする",
+    "meaning": "연계하다",
+    "meaningDetail": "연결하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "他部署と連携する。", "ko": "다른 부서와 연계하다." }
+    ]
+  },
+  {
+    "word": "提携する",
+    "reading": "ていけいする",
+    "meaning": "제휴하다",
+    "meaningDetail": "손잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "企業と提携する。", "ko": "기업과 제휴하다." }
+    ]
+  },
+  {
+    "word": "参加する",
+    "reading": "さんかする",
+    "meaning": "참가하다",
+    "meaningDetail": "함께하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会議に参加する。", "ko": "회의에 참가하다." }
+    ]
+  },
+  {
+    "word": "参照する",
+    "reading": "さんしょうする",
+    "meaning": "참조하다",
+    "meaningDetail": "참고하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資料を参照する。", "ko": "자료를 참조하다." }
+    ]
+  },
+  {
+    "word": "参考にする",
+    "reading": "さんこうにする",
+    "meaning": "참고하다",
+    "meaningDetail": "참조하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を参考にする。", "ko": "의견을 참고하다." }
+    ]
+  },
+  {
+    "word": "引用する",
+    "reading": "いんようする",
+    "meaning": "인용하다",
+    "meaningDetail": "빌려 쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "文献を引用する。", "ko": "문헌을 인용하다." }
+    ]
+  },
+  {
+    "word": "利用する",
+    "reading": "りようする",
+    "meaning": "이용하다",
+    "meaningDetail": "쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "サービスを利用する。", "ko": "서비스를 이용하다." }
+    ]
+  },
+  {
+    "word": "活用する",
+    "reading": "かつようする",
+    "meaning": "활용하다",
+    "meaningDetail": "잘 쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資源を活用する。", "ko": "자원을 활용하다." }
+    ]
+  },
+  {
+    "word": "応用する",
+    "reading": "おうようする",
+    "meaning": "응용하다",
+    "meaningDetail": "적용하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "理論を応用する。", "ko": "이론을 응용하다." }
+    ]
+  },
+  {
+    "word": "適用する",
+    "reading": "てきようする",
+    "meaning": "적용하다",
+    "meaningDetail": "알맞게 쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "ルールを適用する。", "ko": "규칙을 적용하다." }
+    ]
+  },
+  {
+    "word": "採用する",
+    "reading": "さいようする",
+    "meaning": "채용하다",
+    "meaningDetail": "고용하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新人を採用する。", "ko": "신입을 채용하다." }
+    ]
+  },
+  {
+    "word": "雇用する",
+    "reading": "こようする",
+    "meaning": "고용하다",
+    "meaningDetail": "일을 시키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "労働者を雇用する。", "ko": "노동자를 고용하다." }
+    ]
+  },
+  {
+    "word": "解雇する",
+    "reading": "かいこする",
+    "meaning": "해고하다",
+    "meaningDetail": "자르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "社員を解雇する。", "ko": "사원을 해고하다." }
+    ]
+  },
+  {
+    "word": "退職する",
+    "reading": "たいしょくする",
+    "meaning": "퇴직하다",
+    "meaningDetail": "일을 그만두다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社を退職する。", "ko": "회사를 퇴직하다." }
+    ]
+  },
+  {
+    "word": "就職する",
+    "reading": "しゅうしょくする",
+    "meaning": "취직하다",
+    "meaningDetail": "직장을 얻다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "大企業に就職する。", "ko": "대기업에 취직하다." }
+    ]
+  },
+  {
+    "word": "転職する",
+    "reading": "てんしょくする",
+    "meaning": "이직하다",
+    "meaningDetail": "직장을 옮기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "IT業界に転職する。", "ko": "IT 업계로 이직하다." }
+    ]
+  },
+  {
+    "word": "昇進する",
+    "reading": "しょうしんする",
+    "meaning": "승진하다",
+    "meaningDetail": "올라가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "部長に昇進する。", "ko": "부장으로 승진하다." }
+    ]
+  },
+  {
+    "word": "降格する",
+    "reading": "こうかくする",
+    "meaning": "강등하다",
+    "meaningDetail": "내리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "課長に降格する。", "ko": "과장으로 강등하다." }
+    ]
+  },
+  {
+    "word": "異動する",
+    "reading": "いどうする",
+    "meaning": "이동하다",
+    "meaningDetail": "부서를 옮기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "他の部署に異動する。", "ko": "다른 부서로 이동하다." }
+    ]
+  },
+  {
+    "word": "配属する",
+    "reading": "はいぞくする",
+    "meaning": "배속하다",
+    "meaningDetail": "소속시키다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新入社員を配属する。", "ko": "신입 사원을 배속하다." }
+    ]
+  },
+  {
+    "word": "派遣する",
+    "reading": "はけんする",
+    "meaning": "파견하다",
+    "meaningDetail": "보내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "社員を派遣する。", "ko": "사원을 파견하다." }
+    ]
+  },
+  {
+    "word": "出張する",
+    "reading": "しゅっちょうする",
+    "meaning": "출장 가다",
+    "meaningDetail": "업무로 가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "海外に出張する。", "ko": "해외로 출장 가다." }
+    ]
+  },
+  {
+    "word": "出勤する",
+    "reading": "しゅっきんする",
+    "meaning": "출근하다",
+    "meaningDetail": "일하러 가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "毎朝9時に出勤する。", "ko": "매일 아침 9시에 출근하다." }
+    ]
+  },
+  {
+    "word": "退勤する",
+    "reading": "たいきんする",
+    "meaning": "퇴근하다",
+    "meaningDetail": "일을 끝내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "6時に退勤する。", "ko": "6시에 퇴근하다." }
+    ]
+  },
+  {
+    "word": "残業する",
+    "reading": "ざんぎょうする",
+    "meaning": "잔업하다",
+    "meaningDetail": "야근하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "毎日残業する。", "ko": "매일 잔업하다." }
+    ]
+  },
+  {
+    "word": "休憩する",
+    "reading": "きゅうけいする",
+    "meaning": "휴식하다",
+    "meaningDetail": "쉬다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "昼食後に休憩する。", "ko": "점심 후에 휴식하다." }
+    ]
+  },
+  {
+    "word": "休暇を取る",
+    "reading": "きゅうかをとる",
+    "meaning": "휴가를 내다",
+    "meaningDetail": "쉬다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "夏に休暇を取る。", "ko": "여름에 휴가를 내다." }
+    ]
+  },
+  {
+    "word": "欠勤する",
+    "reading": "けっきんする",
+    "meaning": "결근하다",
+    "meaningDetail": "빠지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "病気で欠勤する。", "ko": "병으로 결근하다." }
+    ]
+  },
+  {
+    "word": "遅刻する",
+    "reading": "ちこくする",
+    "meaning": "지각하다",
+    "meaningDetail": "늦다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会議に遅刻する。", "ko": "회의에 지각하다." }
+    ]
+  },
+  {
+    "word": "早退する",
+    "reading": "そうたいする",
+    "meaning": "조퇴하다",
+    "meaningDetail": "일찍 가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "体調不良で早退する。", "ko": "컨디션 불량으로 조퇴하다." }
+    ]
+  },
+  {
+    "word": "報告する",
+    "reading": "ほうこくする",
+    "meaning": "보고하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "上司に報告する。", "ko": "상사에게 보고하다." }
+    ]
+  },
+  {
+    "word": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "연락하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "担当者に連絡する。", "ko": "담당자에게 연락하다." }
+    ]
+  },
+  {
+    "word": "相談する",
+    "reading": "そうだんする",
+    "meaning": "상담하다",
+    "meaningDetail": "의논하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "専門家に相談する。", "ko": "전문가에게 상담하다." }
+    ]
+  },
+  {
+    "word": "打ち合わせる",
+    "reading": "うちあわせる",
+    "meaning": "협의하다",
+    "meaningDetail": "사전 조율하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "事前に打ち合わせる。", "ko": "사전에 협의하다." }
+    ]
+  },
+  {
+    "word": "交渉する",
+    "reading": "こうしょうする",
+    "meaning": "교섭하다",
+    "meaningDetail": "협상하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "価格を交渉する。", "ko": "가격을 교섭하다." }
+    ]
+  },
+  {
+    "word": "契約する",
+    "reading": "けいやくする",
+    "meaning": "계약하다",
+    "meaningDetail": "약정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社と契約する。", "ko": "회사와 계약하다." }
+    ]
+  },
+  {
+    "word": "締結する",
+    "reading": "ていけつする",
+    "meaning": "체결하다",
+    "meaningDetail": "맺다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条約を締結する。", "ko": "조약을 체결하다." }
+    ]
+  },
+  {
+    "word": "発注する",
+    "reading": "はっちゅうする",
+    "meaning": "발주하다",
+    "meaningDetail": "주문하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品を発注する。", "ko": "상품을 발주하다." }
+    ]
+  },
+  {
+    "word": "受注する",
+    "reading": "じゅちゅうする",
+    "meaning": "수주하다",
+    "meaningDetail": "주문을 받다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "大型案件を受注する。", "ko": "대형 안건을 수주하다." }
+    ]
+  },
+  {
+    "word": "納品する",
+    "reading": "のうひんする",
+    "meaning": "납품하다",
+    "meaningDetail": "물건을 넘기다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を納品する。", "ko": "제품을 납품하다." }
+    ]
+  },
+  {
+    "word": "請求する",
+    "reading": "せいきゅうする",
+    "meaning": "청구하다",
+    "meaningDetail": "요청하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "料金を請求する。", "ko": "요금을 청구하다." }
+    ]
+  },
+  {
+    "word": "支払う",
+    "reading": "しはらう",
+    "meaning": "지불하다",
+    "meaningDetail": "내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "代金を支払う。", "ko": "대금을 지불하다." }
+    ]
+  },
+  {
+    "word": "振り込む",
+    "reading": "ふりこむ",
+    "meaning": "송금하다",
+    "meaningDetail": "입금하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "口座に振り込む。", "ko": "계좌에 송금하다." }
+    ]
+  },
+  {
+    "word": "精算する",
+    "reading": "せいさんする",
+    "meaning": "정산하다",
+    "meaningDetail": "계산하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "経費を精算する。", "ko": "경비를 정산하다." }
+    ]
+  },
+  {
+    "word": "決済する",
+    "reading": "けっさいする",
+    "meaning": "결제하다",
+    "meaningDetail": "지불하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "カードで決済する。", "ko": "카드로 결제하다." }
+    ]
+  }
+]

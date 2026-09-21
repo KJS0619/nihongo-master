@@ -1,0 +1,492 @@
+[
+  {
+    "word": "科学",
+    "reading": "かがく",
+    "meaning": "과학",
+    "meaningDetail": "자연 현상을 연구함",
+    "category": "명사",
+    "examples": [
+      { "ja": "科学を研究する。", "ko": "과학을 연구한다." }
+    ]
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "기능, 테크닉",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術が進歩する。", "ko": "기술이 진보한다." }
+    ]
+  },
+  {
+    "word": "研究",
+    "reading": "けんきゅう",
+    "meaning": "연구",
+    "meaningDetail": "조사하고 탐구함",
+    "category": "명사",
+    "examples": [
+      { "ja": "研究を続ける。", "ko": "연구를 계속한다." }
+    ]
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "meaning": "실험",
+    "meaningDetail": "시험해 봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "実験を行う。", "ko": "실험을 한다." }
+    ]
+  },
+  {
+    "word": "開発",
+    "reading": "かいはつ",
+    "meaning": "개발",
+    "meaningDetail": "새로 만들어 냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "新製品を開発する。", "ko": "신제품을 개발한다." }
+    ]
+  },
+  {
+    "word": "発見",
+    "reading": "はっけん",
+    "meaning": "발견",
+    "meaningDetail": "찾아냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい発見をする。", "ko": "새로운 발견을 한다." }
+    ]
+  },
+  {
+    "word": "発明",
+    "reading": "はつめい",
+    "meaning": "발명",
+    "meaningDetail": "새로 만들어 냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "発明を特許登録する。", "ko": "발명을 특허 등록한다." }
+    ]
+  },
+  {
+    "word": "理論",
+    "reading": "りろん",
+    "meaning": "이론",
+    "meaningDetail": "원리를 설명함",
+    "category": "명사",
+    "examples": [
+      { "ja": "理論を立てる。", "ko": "이론을 세운다." }
+    ]
+  },
+  {
+    "word": "原理",
+    "reading": "げんり",
+    "meaning": "원리",
+    "meaningDetail": "근본적인 법칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "原理を説明する。", "ko": "원리를 설명한다." }
+    ]
+  },
+  {
+    "word": "法則",
+    "reading": "ほうそく",
+    "meaning": "법칙",
+    "meaningDetail": "규칙",
+    "category": "명사",
+    "examples": [
+      { "ja": "物理の法則を学ぶ。", "ko": "물리 법칙을 배운다." }
+    ]
+  },
+  {
+    "word": "システム",
+    "reading": "システム",
+    "meaning": "시스템",
+    "meaningDetail": "체계",
+    "category": "명사",
+    "examples": [
+      { "ja": "システムを構築する。", "ko": "시스템을 구축한다." }
+    ]
+  },
+  {
+    "word": "ネットワーク",
+    "reading": "ネットワーク",
+    "meaning": "네트워크",
+    "meaningDetail": "연결망",
+    "category": "명사",
+    "examples": [
+      { "ja": "ネットワークに接続する。", "ko": "네트워크에 접속한다." }
+    ]
+  },
+  {
+    "word": "コンピュータ",
+    "reading": "コンピュータ",
+    "meaning": "컴퓨터",
+    "meaningDetail": "전자계산기",
+    "category": "명사",
+    "examples": [
+      { "ja": "コンピュータを使う。", "ko": "컴퓨터를 사용한다." }
+    ]
+  },
+  {
+    "word": "インターネット",
+    "reading": "インターネット",
+    "meaning": "인터넷",
+    "meaningDetail": "정보 통신망",
+    "category": "명사",
+    "examples": [
+      { "ja": "インターネットで調べる。", "ko": "인터넷으로 조사한다." }
+    ]
+  },
+  {
+    "word": "ソフトウェア",
+    "reading": "ソフトウェア",
+    "meaning": "소프트웨어",
+    "meaningDetail": "프로그램",
+    "category": "명사",
+    "examples": [
+      { "ja": "ソフトウェアを開発する。", "ko": "소프트웨어를 개발한다." }
+    ]
+  },
+  {
+    "word": "通信",
+    "reading": "つうしん",
+    "meaning": "통신",
+    "meaningDetail": "소식을 전함",
+    "category": "명사",
+    "examples": [
+      { "ja": "通信手段を使う。", "ko": "통신 수단을 사용한다." }
+    ]
+  },
+  {
+    "word": "電波",
+    "reading": "でんぱ",
+    "meaning": "전파",
+    "meaningDetail": "라디오파",
+    "category": "명사",
+    "examples": [
+      { "ja": "電波が届かない。", "ko": "전파가 닿지 않는다." }
+    ]
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "신호",
+    "meaningDetail": "표시, 사인",
+    "category": "명사",
+    "examples": [
+      { "ja": "信号を待つ。", "ko": "신호를 기다린다." }
+    ]
+  },
+  {
+    "word": "エネルギー",
+    "reading": "エネルギー",
+    "meaning": "에너지",
+    "meaningDetail": "활동력",
+    "category": "명사",
+    "examples": [
+      { "ja": "エネルギーを節約する。", "ko": "에너지를 절약한다." }
+    ]
+  },
+  {
+    "word": "電力",
+    "reading": "でんりょく",
+    "meaning": "전력",
+    "meaningDetail": "전기 에너지",
+    "category": "명사",
+    "examples": [
+      { "ja": "電力を供給する。", "ko": "전력을 공급한다." }
+    ]
+  },
+  {
+    "word": "燃料",
+    "reading": "ねんりょう",
+    "meaning": "연료",
+    "meaningDetail": "태우는 물질",
+    "category": "명사",
+    "examples": [
+      { "ja": "燃料を補給する。", "ko": "연료를 보급한다." }
+    ]
+  },
+  {
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "자원",
+    "meaningDetail": "천연 재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を有効に使う。", "ko": "자원을 유효하게 사용한다." }
+    ]
+  },
+  {
+    "word": "汚染",
+    "reading": "おせん",
+    "meaning": "오염",
+    "meaningDetail": "더럽혀짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境汚染が深刻だ。", "ko": "환경오염이 심각하다." }
+    ]
+  },
+  {
+    "word": "公害",
+    "reading": "こうがい",
+    "meaning": "공해",
+    "meaningDetail": "환경 피해",
+    "category": "명사",
+    "examples": [
+      { "ja": "公害を防止する。", "ko": "공해를 방지한다." }
+    ]
+  },
+  {
+    "word": "廃棄物",
+    "reading": "はいきぶつ",
+    "meaning": "폐기물",
+    "meaningDetail": "버리는 물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "廃棄物を処理する。", "ko": "폐기물을 처리한다." }
+    ]
+  },
+  {
+    "word": "リサイクル",
+    "reading": "リサイクル",
+    "meaning": "재활용",
+    "meaningDetail": "다시 사용함",
+    "category": "명사",
+    "examples": [
+      { "ja": "リサイクルに出す。", "ko": "재활용에 내놓는다." }
+    ]
+  },
+  {
+    "word": "保護",
+    "reading": "ほご",
+    "meaning": "보호",
+    "meaningDetail": "지켜줌",
+    "category": "명사",
+    "examples": [
+      { "ja": "動物を保護する。", "ko": "동물을 보호한다." }
+    ]
+  },
+  {
+    "word": "保存",
+    "reading": "ほぞん",
+    "meaning": "보존",
+    "meaningDetail": "간직함",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを保存する。", "ko": "데이터를 보존한다." }
+    ]
+  },
+  {
+    "word": "維持",
+    "reading": "いじ",
+    "meaning": "유지",
+    "meaningDetail": "보존함",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康を維持する。", "ko": "건강을 유지한다." }
+    ]
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "개선",
+    "meaningDetail": "좋게 고침",
+    "category": "명사",
+    "examples": [
+      { "ja": "品質を改善する。", "ko": "품질을 개선한다." }
+    ]
+  },
+  {
+    "word": "改革",
+    "reading": "かいかく",
+    "meaning": "개혁",
+    "meaningDetail": "크게 바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "制度を改革する。", "ko": "제도를 개혁한다." }
+    ]
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "변경",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "予定を変更する。", "ko": "예정을 변경한다." }
+    ]
+  },
+  {
+    "word": "調整",
+    "reading": "ちょうせい",
+    "meaning": "조정",
+    "meaningDetail": "맞춤",
+    "category": "명사",
+    "examples": [
+      { "ja": "スケジュールを調整する。", "ko": "스케줄을 조정한다." }
+    ]
+  },
+  {
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaning": "조사",
+    "meaningDetail": "알아봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "市場調査を行う。", "ko": "시장 조사를 한다." }
+    ]
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "확인",
+    "meaningDetail": "틀림없는지 봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "内容を確認する。", "ko": "내용을 확인한다." }
+    ]
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaning": "검토",
+    "meaningDetail": "살펴봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "提案を検討する。", "ko": "제안을 검토한다." }
+    ]
+  },
+  {
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "판단",
+    "meaningDetail": "결정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "判断を下す。", "ko": "판단을 내린다." }
+    ]
+  },
+  {
+    "word": "決定",
+    "reading": "けってい",
+    "meaning": "결정",
+    "meaningDetail": "정함",
+    "category": "명사",
+    "examples": [
+      { "ja": "決定を待つ。", "ko": "결정을 기다린다." }
+    ]
+  },
+  {
+    "word": "選択",
+    "reading": "せんたく",
+    "meaning": "선택",
+    "meaningDetail": "고름",
+    "category": "명사",
+    "examples": [
+      { "ja": "選択肢を考える。", "ko": "선택지를 생각한다." }
+    ]
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaning": "채용",
+    "meaningDetail": "뽑아서 씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "新人を採用する。", "ko": "신인을 채용한다." }
+    ]
+  },
+  {
+    "word": "導入",
+    "reading": "どうにゅう",
+    "meaning": "도입",
+    "meaningDetail": "들여옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "新システムを導入する。", "ko": "새 시스템을 도입한다." }
+    ]
+  },
+  {
+    "word": "実施",
+    "reading": "じっし",
+    "meaning": "실시",
+    "meaningDetail": "실제로 행함",
+    "category": "명사",
+    "examples": [
+      { "ja": "計画を実施する。", "ko": "계획을 실시한다." }
+    ]
+  },
+  {
+    "word": "実現",
+    "reading": "じつげん",
+    "meaning": "실현",
+    "meaningDetail": "이루어짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "夢を実現する。", "ko": "꿈을 실현한다." }
+    ]
+  },
+  {
+    "word": "達成",
+    "reading": "たっせい",
+    "meaning": "달성",
+    "meaningDetail": "이룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "目標を達成する。", "ko": "목표를 달성한다." }
+    ]
+  },
+  {
+    "word": "完成",
+    "reading": "かんせい",
+    "meaning": "완성",
+    "meaningDetail": "다 만듦",
+    "category": "명사",
+    "examples": [
+      { "ja": "作品を完成する。", "ko": "작품을 완성한다." }
+    ]
+  },
+  {
+    "word": "終了",
+    "reading": "しゅうりょう",
+    "meaning": "종료",
+    "meaningDetail": "끝남",
+    "category": "명사",
+    "examples": [
+      { "ja": "イベントが終了する。", "ko": "이벤트가 종료된다." }
+    ]
+  },
+  {
+    "word": "開始",
+    "reading": "かいし",
+    "meaning": "개시",
+    "meaningDetail": "시작함",
+    "category": "명사",
+    "examples": [
+      { "ja": "営業を開始する。", "ko": "영업을 개시한다." }
+    ]
+  },
+  {
+    "word": "継続",
+    "reading": "けいぞく",
+    "meaning": "계속",
+    "meaningDetail": "이어감",
+    "category": "명사",
+    "examples": [
+      { "ja": "努力を継続する。", "ko": "노력을 계속한다." }
+    ]
+  },
+  {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaning": "중지",
+    "meaningDetail": "멈춤",
+    "category": "명사",
+    "examples": [
+      { "ja": "試合が中止になる。", "ko": "시합이 중지된다." }
+    ]
+  }
+]

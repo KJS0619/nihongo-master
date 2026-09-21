@@ -1,0 +1,482 @@
+[
+  {
+    "word": "議題",
+    "reading": "ぎだい",
+    "meaning": "의제",
+    "meaningDetail": "안건",
+    "category": "명사",
+    "examples": [
+      { "ja": "議題を提出する。", "ko": "의제를 제출하다." }
+    ]
+  },
+  {
+    "word": "課題",
+    "reading": "かだい",
+    "meaning": "과제",
+    "meaningDetail": "숙제",
+    "category": "명사",
+    "examples": [
+      { "ja": "課題を解決する。", "ko": "과제를 해결하다." }
+    ]
+  },
+  {
+    "word": "問題",
+    "reading": "もんだい",
+    "meaning": "문제",
+    "meaningDetail": "질문",
+    "category": "명사",
+    "examples": [
+      { "ja": "問題を解く。", "ko": "문제를 풀다." }
+    ]
+  },
+  {
+    "word": "疑問",
+    "reading": "ぎもん",
+    "meaning": "의문",
+    "meaningDetail": "물음",
+    "category": "명사",
+    "examples": [
+      { "ja": "疑問を持つ。", "ko": "의문을 갖다." }
+    ]
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "질문",
+    "meaningDetail": "물음",
+    "category": "명사",
+    "examples": [
+      { "ja": "質問をする。", "ko": "질문을 하다." }
+    ]
+  },
+  {
+    "word": "回答",
+    "reading": "かいとう",
+    "meaning": "회답",
+    "meaningDetail": "답변",
+    "category": "명사",
+    "examples": [
+      { "ja": "回答を得る。", "ko": "회답을 얻다." }
+    ]
+  },
+  {
+    "word": "解答",
+    "reading": "かいとう",
+    "meaning": "해답",
+    "meaningDetail": "정답",
+    "category": "명사",
+    "examples": [
+      { "ja": "解答を確認する。", "ko": "해답을 확인하다." }
+    ]
+  },
+  {
+    "word": "正解",
+    "reading": "せいかい",
+    "meaning": "정답",
+    "meaningDetail": "맞음",
+    "category": "명사",
+    "examples": [
+      { "ja": "正解を発表する。", "ko": "정답을 발표하다." }
+    ]
+  },
+  {
+    "word": "返答",
+    "reading": "へんとう",
+    "meaning": "답변",
+    "meaningDetail": "대답",
+    "category": "명사",
+    "examples": [
+      { "ja": "返答を待つ。", "ko": "답변을 기다리다." }
+    ]
+  },
+  {
+    "word": "応答",
+    "reading": "おうとう",
+    "meaning": "응답",
+    "meaningDetail": "대답",
+    "category": "명사",
+    "examples": [
+      { "ja": "応答がない。", "ko": "응답이 없다." }
+    ]
+  },
+  {
+    "word": "返事",
+    "reading": "へんじ",
+    "meaning": "대답",
+    "meaningDetail": "응답",
+    "category": "명사",
+    "examples": [
+      { "ja": "返事をする。", "ko": "대답을 하다." }
+    ]
+  },
+  {
+    "word": "報告",
+    "reading": "ほうこく",
+    "meaning": "보고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "報告を受ける。", "ko": "보고를 받다." }
+    ]
+  },
+  {
+    "word": "連絡",
+    "reading": "れんらく",
+    "meaning": "연락",
+    "meaningDetail": "통지",
+    "category": "명사",
+    "examples": [
+      { "ja": "連絡を取る。", "ko": "연락을 취하다." }
+    ]
+  },
+  {
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "통지",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "通知を送る。", "ko": "통지를 보내다." }
+    ]
+  },
+  {
+    "word": "通信",
+    "reading": "つうしん",
+    "meaning": "통신",
+    "meaningDetail": "연락",
+    "category": "명사",
+    "examples": [
+      { "ja": "通信が途絶える。", "ko": "통신이 끊기다." }
+    ]
+  },
+  {
+    "word": "通話",
+    "reading": "つうわ",
+    "meaning": "통화",
+    "meaningDetail": "전화",
+    "category": "명사",
+    "examples": [
+      { "ja": "通話を終える。", "ko": "통화를 끝내다." }
+    ]
+  },
+  {
+    "word": "伝達",
+    "reading": "でんたつ",
+    "meaning": "전달",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を伝達する。", "ko": "정보를 전달하다." }
+    ]
+  },
+  {
+    "word": "伝言",
+    "reading": "でんごん",
+    "meaning": "전언",
+    "meaningDetail": "메시지",
+    "category": "명사",
+    "examples": [
+      { "ja": "伝言を残す。", "ko": "전언을 남기다." }
+    ]
+  },
+  {
+    "word": "発信",
+    "reading": "はっしん",
+    "meaning": "발신",
+    "meaningDetail": "보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "発信する。", "ko": "발신하다." }
+    ]
+  },
+  {
+    "word": "受信",
+    "reading": "じゅしん",
+    "meaning": "수신",
+    "meaningDetail": "받음",
+    "category": "명사",
+    "examples": [
+      { "ja": "受信する。", "ko": "수신하다." }
+    ]
+  },
+  {
+    "word": "送信",
+    "reading": "そうしん",
+    "meaning": "송신",
+    "meaningDetail": "보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "メールを送信する。", "ko": "메일을 송신하다." }
+    ]
+  },
+  {
+    "word": "配信",
+    "reading": "はいしん",
+    "meaning": "배신",
+    "meaningDetail": "전송",
+    "category": "명사",
+    "examples": [
+      { "ja": "ニュースを配信する。", "ko": "뉴스를 배신하다." }
+    ]
+  },
+  {
+    "word": "放送",
+    "reading": "ほうそう",
+    "meaning": "방송",
+    "meaningDetail": "송출",
+    "category": "명사",
+    "examples": [
+      { "ja": "放送を見る。", "ko": "방송을 보다." }
+    ]
+  },
+  {
+    "word": "放映",
+    "reading": "ほうえい",
+    "meaning": "방영",
+    "meaningDetail": "방송",
+    "category": "명사",
+    "examples": [
+      { "ja": "ドラマを放映する。", "ko": "드라마를 방영하다." }
+    ]
+  },
+  {
+    "word": "上映",
+    "reading": "じょうえい",
+    "meaning": "상영",
+    "meaningDetail": "영사",
+    "category": "명사",
+    "examples": [
+      { "ja": "映画を上映する。", "ko": "영화를 상영하다." }
+    ]
+  },
+  {
+    "word": "公開",
+    "reading": "こうかい",
+    "meaning": "공개",
+    "meaningDetail": "개방",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を公開する。", "ko": "정보를 공개하다." }
+    ]
+  },
+  {
+    "word": "公表",
+    "reading": "こうひょう",
+    "meaning": "공표",
+    "meaningDetail": "발표",
+    "category": "명사",
+    "examples": [
+      { "ja": "結果を公表する。", "ko": "결과를 공표하다." }
+    ]
+  },
+  {
+    "word": "掲載",
+    "reading": "けいさい",
+    "meaning": "게재",
+    "meaningDetail": "실음",
+    "category": "명사",
+    "examples": [
+      { "ja": "記事を掲載する。", "ko": "기사를 게재하다." }
+    ]
+  },
+  {
+    "word": "掲示",
+    "reading": "けいじ",
+    "meaning": "게시",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "掲示板に貼る。", "ko": "게시판에 붙이다." }
+    ]
+  },
+  {
+    "word": "告知",
+    "reading": "こくち",
+    "meaning": "고지",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "告知を行う。", "ko": "고지를 하다." }
+    ]
+  },
+  {
+    "word": "予告",
+    "reading": "よこく",
+    "meaning": "예고",
+    "meaningDetail": "미리 알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "予告なしに。", "ko": "예고 없이." }
+    ]
+  },
+  {
+    "word": "警告",
+    "reading": "けいこく",
+    "meaning": "경고",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "警告を発する。", "ko": "경고를 발하다." }
+    ]
+  },
+  {
+    "word": "忠告",
+    "reading": "ちゅうこく",
+    "meaning": "충고",
+    "meaningDetail": "조언",
+    "category": "명사",
+    "examples": [
+      { "ja": "忠告を聞く。", "ko": "충고를 듣다." }
+    ]
+  },
+  {
+    "word": "助言",
+    "reading": "じょげん",
+    "meaning": "조언",
+    "meaningDetail": "충고",
+    "category": "명사",
+    "examples": [
+      { "ja": "助言を求める。", "ko": "조언을 구하다." }
+    ]
+  },
+  {
+    "word": "提言",
+    "reading": "ていげん",
+    "meaning": "제언",
+    "meaningDetail": "건의",
+    "category": "명사",
+    "examples": [
+      { "ja": "提言を行う。", "ko": "제언을 하다." }
+    ]
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "의견",
+    "meaningDetail": "생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "意見を述べる。", "ko": "의견을 말하다." }
+    ]
+  },
+  {
+    "word": "見解",
+    "reading": "けんかい",
+    "meaning": "견해",
+    "meaningDetail": "생각",
+    "category": "명사",
+    "examples": [
+      { "ja": "見解を示す。", "ko": "견해를 보이다." }
+    ]
+  },
+  {
+    "word": "見通し",
+    "reading": "みとおし",
+    "meaning": "전망",
+    "meaningDetail": "예상",
+    "category": "명사",
+    "examples": [
+      { "ja": "見通しが立つ。", "ko": "전망이 서다." }
+    ]
+  },
+  {
+    "word": "展望",
+    "reading": "てんぼう",
+    "meaning": "전망",
+    "meaningDetail": "조망",
+    "category": "명사",
+    "examples": [
+      { "ja": "将来を展望する。", "ko": "장래를 전망하다." }
+    ]
+  },
+  {
+    "word": "予報",
+    "reading": "よほう",
+    "meaning": "예보",
+    "meaningDetail": "예측",
+    "category": "명사",
+    "examples": [
+      { "ja": "天気予報を見る。", "ko": "일기예보를 보다." }
+    ]
+  },
+  {
+    "word": "速報",
+    "reading": "そくほう",
+    "meaning": "속보",
+    "meaningDetail": "빠른 보도",
+    "category": "명사",
+    "examples": [
+      { "ja": "速報が入る。", "ko": "속보가 들어오다." }
+    ]
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "정보",
+    "meaningDetail": "소식",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報を集める。", "ko": "정보를 모으다." }
+    ]
+  },
+  {
+    "word": "データ",
+    "reading": "でーた",
+    "meaning": "데이터",
+    "meaningDetail": "자료",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석하다." }
+    ]
+  },
+  {
+    "word": "ファイル",
+    "reading": "ふぁいる",
+    "meaning": "파일",
+    "meaningDetail": "서류철",
+    "category": "명사",
+    "examples": [
+      { "ja": "ファイルを保存する。", "ko": "파일을 저장하다." }
+    ]
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "자료",
+    "meaningDetail": "문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を準備する。", "ko": "자료를 준비하다." }
+    ]
+  },
+  {
+    "word": "文書",
+    "reading": "ぶんしょ",
+    "meaning": "문서",
+    "meaningDetail": "서류",
+    "category": "명사",
+    "examples": [
+      { "ja": "文書を作成する。", "ko": "문서를 작성하다." }
+    ]
+  },
+  {
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "서류",
+    "meaningDetail": "문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "書類を提出する。", "ko": "서류를 제출하다." }
+    ]
+  },
+  {
+    "word": "記録",
+    "reading": "きろく",
+    "meaning": "기록",
+    "meaningDetail": "문서",
+    "category": "명사",
+    "examples": [
+      { "ja": "記録を残す。", "ko": "기록을 남기다." }
+    ]
+  }
+]

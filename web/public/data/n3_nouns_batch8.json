@@ -1,0 +1,492 @@
+[
+  {
+    "word": "連絡",
+    "reading": "れんらく",
+    "meaning": "연락",
+    "meaningDetail": "소식을 주고받음",
+    "category": "명사",
+    "examples": [
+      { "ja": "後で連絡します。", "ko": "나중에 연락하겠습니다." }
+    ]
+  },
+  {
+    "word": "話題",
+    "reading": "わだい",
+    "meaning": "화제",
+    "meaningDetail": "이야기의 주제",
+    "category": "명사",
+    "examples": [
+      { "ja": "話題を変えよう。", "ko": "화제를 바꾸자." }
+    ]
+  },
+  {
+    "word": "割合",
+    "reading": "わりあい",
+    "meaning": "비율",
+    "meaningDetail": "비례, 비교적",
+    "category": "명사",
+    "examples": [
+      { "ja": "男女の割合は半々だ。", "ko": "남녀 비율은 반반이다." }
+    ]
+  },
+  {
+    "word": "悪影響",
+    "reading": "あくえいきょう",
+    "meaning": "악영향",
+    "meaningDetail": "나쁜 영향",
+    "category": "명사",
+    "examples": [
+      { "ja": "健康に悪影響を与える。", "ko": "건강에 악영향을 미친다." }
+    ]
+  },
+  {
+    "word": "味方",
+    "reading": "みかた",
+    "meaning": "아군, 편",
+    "meaningDetail": "같은 편",
+    "category": "명사",
+    "examples": [
+      { "ja": "私はあなたの味方です。", "ko": "나는 당신 편입니다." }
+    ]
+  },
+  {
+    "word": "敵",
+    "reading": "てき",
+    "meaning": "적",
+    "meaningDetail": "대적하는 상대",
+    "category": "명사",
+    "examples": [
+      { "ja": "敵を倒す。", "ko": "적을 쓰러뜨린다." }
+    ]
+  },
+  {
+    "word": "温度",
+    "reading": "おんど",
+    "meaning": "온도",
+    "meaningDetail": "더움과 차가움의 정도",
+    "category": "명사",
+    "examples": [
+      { "ja": "室温を確認する。", "ko": "실내 온도를 확인한다." }
+    ]
+  },
+  {
+    "word": "湿度",
+    "reading": "しつど",
+    "meaning": "습도",
+    "meaningDetail": "공기 중의 수분량",
+    "category": "명사",
+    "examples": [
+      { "ja": "湿度が高い。", "ko": "습도가 높다." }
+    ]
+  },
+  {
+    "word": "気温",
+    "reading": "きおん",
+    "meaning": "기온",
+    "meaningDetail": "대기의 온도",
+    "category": "명사",
+    "examples": [
+      { "ja": "今日の気温は30度だ。", "ko": "오늘 기온은 30도다." }
+    ]
+  },
+  {
+    "word": "天候",
+    "reading": "てんこう",
+    "meaning": "날씨",
+    "meaningDetail": "기상 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "天候に恵まれた。", "ko": "날씨가 좋았다." }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "재해",
+    "meaningDetail": "자연재해",
+    "category": "명사",
+    "examples": [
+      { "ja": "災害に備える。", "ko": "재해에 대비한다." }
+    ]
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "지진",
+    "meaningDetail": "땅이 흔들리는 현상",
+    "category": "명사",
+    "examples": [
+      { "ja": "大きな地震が起きた。", "ko": "큰 지진이 일어났다." }
+    ]
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "태풍",
+    "meaningDetail": "열대성 저기압",
+    "category": "명사",
+    "examples": [
+      { "ja": "台風が接近している。", "ko": "태풍이 접근하고 있다." }
+    ]
+  },
+  {
+    "word": "洪水",
+    "reading": "こうずい",
+    "meaning": "홍수",
+    "meaningDetail": "물이 넘침",
+    "category": "명사",
+    "examples": [
+      { "ja": "洪水で被害を受けた。", "ko": "홍수로 피해를 입었다." }
+    ]
+  },
+  {
+    "word": "火事",
+    "reading": "かじ",
+    "meaning": "화재",
+    "meaningDetail": "불이 남",
+    "category": "명사",
+    "examples": [
+      { "ja": "火事に注意する。", "ko": "화재에 주의한다." }
+    ]
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "meaningDetail": "뜻하지 않은 재난",
+    "category": "명사",
+    "examples": [
+      { "ja": "交通事故が起きた。", "ko": "교통사고가 났다." }
+    ]
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "위험",
+    "meaningDetail": "해를 입을 가능성",
+    "category": "명사",
+    "examples": [
+      { "ja": "危険を避ける。", "ko": "위험을 피한다." }
+    ]
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "안전",
+    "meaningDetail": "위험하지 않음",
+    "category": "명사",
+    "examples": [
+      { "ja": "安全を確保する。", "ko": "안전을 확보한다." }
+    ]
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaning": "평균",
+    "meaningDetail": "중간값",
+    "category": "명사",
+    "examples": [
+      { "ja": "平均点を計算する。", "ko": "평균 점수를 계산한다." }
+    ]
+  },
+  {
+    "word": "合計",
+    "reading": "ごうけい",
+    "meaning": "합계",
+    "meaningDetail": "전체를 합한 수",
+    "category": "명사",
+    "examples": [
+      { "ja": "合計を出す。", "ko": "합계를 내다." }
+    ]
+  },
+  {
+    "word": "最高",
+    "reading": "さいこう",
+    "meaning": "최고",
+    "meaningDetail": "가장 높음",
+    "category": "명사",
+    "examples": [
+      { "ja": "最高の結果だ。", "ko": "최고의 결과다." }
+    ]
+  },
+  {
+    "word": "最低",
+    "reading": "さいてい",
+    "meaning": "최저",
+    "meaningDetail": "가장 낮음",
+    "category": "명사",
+    "examples": [
+      { "ja": "最低気温は5度だ。", "ko": "최저 기온은 5도다." }
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "meaningDetail": "결과로 나타나는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "効果が現れた。", "ko": "효과가 나타났다." }
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "meaningDetail": "어떤 일의 끝",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験の結果が出た。", "ko": "시험 결과가 나왔다." }
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "meaningDetail": "일의 근본",
+    "category": "명사",
+    "examples": [
+      { "ja": "事故の原因を調べる。", "ko": "사고 원인을 조사한다." }
+    ]
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "이유",
+    "meaningDetail": "까닭",
+    "category": "명사",
+    "examples": [
+      { "ja": "理由を説明する。", "ko": "이유를 설명한다." }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "meaningDetail": "하려는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "旅行の目的は何ですか。", "ko": "여행 목적이 무엇입니까?" }
+    ]
+  },
+  {
+    "word": "成功",
+    "reading": "せいこう",
+    "meaning": "성공",
+    "meaningDetail": "목적을 이룸",
+    "category": "명사",
+    "examples": [
+      { "ja": "成功を祈る。", "ko": "성공을 빈다." }
+    ]
+  },
+  {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "meaning": "실패",
+    "meaningDetail": "잘못됨",
+    "category": "명사",
+    "examples": [
+      { "ja": "失敗を恐れない。", "ko": "실패를 두려워하지 않는다." }
+    ]
+  },
+  {
+    "word": "努力",
+    "reading": "どりょく",
+    "meaning": "노력",
+    "meaningDetail": "힘씀",
+    "category": "명사",
+    "examples": [
+      { "ja": "努力が実を結ぶ。", "ko": "노력이 결실을 맺다." }
+    ]
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "경험",
+    "meaningDetail": "실제로 해봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "いい経験になった。", "ko": "좋은 경험이 됐다." }
+    ]
+  },
+  {
+    "word": "知識",
+    "reading": "ちしき",
+    "meaning": "지식",
+    "meaningDetail": "알고 있는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "知識を深める。", "ko": "지식을 넓힌다." }
+    ]
+  },
+  {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "meaningDetail": "기능, 테크닉",
+    "category": "명사",
+    "examples": [
+      { "ja": "技術を身につける。", "ko": "기술을 익힌다." }
+    ]
+  },
+  {
+    "word": "能力",
+    "reading": "のうりょく",
+    "meaning": "능력",
+    "meaningDetail": "할 수 있는 힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "能力を発揮する。", "ko": "능력을 발휘한다." }
+    ]
+  },
+  {
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "meaningDetail": "할 수 있는 조건",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取る。", "ko": "자격을 딴다." }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "meaningDetail": "전제가 되는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "条件を満たす。", "ko": "조건을 충족한다." }
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "meaningDetail": "표준",
+    "category": "명사",
+    "examples": [
+      { "ja": "基準を設ける。", "ko": "기준을 정한다." }
+    ]
+  },
+  {
+    "word": "標準",
+    "reading": "ひょうじゅん",
+    "meaning": "표준",
+    "meaningDetail": "기준이 되는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "標準に合わせる。", "ko": "표준에 맞춘다." }
+    ]
+  },
+  {
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "meaningDetail": "정해진 약속",
+    "category": "명사",
+    "examples": [
+      { "ja": "規則を守る。", "ko": "규칙을 지킨다." }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meaning": "법률",
+    "meaningDetail": "법",
+    "category": "명사",
+    "examples": [
+      { "ja": "法律に従う。", "ko": "법률에 따른다." }
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "권리",
+    "meaningDetail": "할 수 있는 자격",
+    "category": "명사",
+    "examples": [
+      { "ja": "権利を主張する。", "ko": "권리를 주장한다." }
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "meaningDetail": "해야 하는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "義務を果たす。", "ko": "의무를 다한다." }
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "meaningDetail": "맡아서 해야 할 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "責任を取る。", "ko": "책임을 진다." }
+    ]
+  },
+  {
+    "word": "立場",
+    "reading": "たちば",
+    "meaning": "입장",
+    "meaningDetail": "처해 있는 위치",
+    "category": "명사",
+    "examples": [
+      { "ja": "私の立場を考えてください。", "ko": "제 입장을 생각해 주세요." }
+    ]
+  },
+  {
+    "word": "地位",
+    "reading": "ちい",
+    "meaning": "지위",
+    "meaningDetail": "사회적 위치",
+    "category": "명사",
+    "examples": [
+      { "ja": "高い地位に就く。", "ko": "높은 지위에 오른다." }
+    ]
+  },
+  {
+    "word": "役職",
+    "reading": "やくしょく",
+    "meaning": "직책",
+    "meaningDetail": "맡은 직위",
+    "category": "명사",
+    "examples": [
+      { "ja": "新しい役職に就いた。", "ko": "새로운 직책을 맡았다." }
+    ]
+  },
+  {
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "담당",
+    "meaningDetail": "맡은 일",
+    "category": "명사",
+    "examples": [
+      { "ja": "担当者に聞いてください。", "ko": "담당자에게 물어보세요." }
+    ]
+  },
+  {
+    "word": "部署",
+    "reading": "ぶしょ",
+    "meaning": "부서",
+    "meaningDetail": "조직의 일부",
+    "category": "명사",
+    "examples": [
+      { "ja": "別の部署に異動した。", "ko": "다른 부서로 이동했다." }
+    ]
+  },
+  {
+    "word": "組織",
+    "reading": "そしき",
+    "meaning": "조직",
+    "meaningDetail": "체계적인 집단",
+    "category": "명사",
+    "examples": [
+      { "ja": "組織を改革する。", "ko": "조직을 개혁한다." }
+    ]
+  }
+]

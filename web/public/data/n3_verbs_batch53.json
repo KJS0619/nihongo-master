@@ -1,0 +1,486 @@
+[
+  {
+    "word": "警戒する",
+    "reading": "けいかいする",
+    "meaning": "경계하다",
+    "meaningDetail": "주의하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "テロを警戒する。", "ko": "테러를 경계하다." }
+    ]
+  },
+  {
+    "word": "監視する",
+    "reading": "かんしする",
+    "meaning": "감시하다",
+    "meaningDetail": "주시하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "動向を監視する。", "ko": "동향을 감시하다." }
+    ]
+  },
+  {
+    "word": "見張る",
+    "reading": "みはる",
+    "meaning": "감시하다",
+    "meaningDetail": "지켜보다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "入口を見張る。", "ko": "입구를 감시하다." }
+    ]
+  },
+  {
+    "word": "巡回する",
+    "reading": "じゅんかいする",
+    "meaning": "순회하다",
+    "meaningDetail": "순찰하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "地域を巡回する。", "ko": "지역을 순회하다." }
+    ]
+  },
+  {
+    "word": "捜査する",
+    "reading": "そうさする",
+    "meaning": "수사하다",
+    "meaningDetail": "조사하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事件を捜査する。", "ko": "사건을 수사하다." }
+    ]
+  },
+  {
+    "word": "捜索する",
+    "reading": "そうさくする",
+    "meaning": "수색하다",
+    "meaningDetail": "찾다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "行方不明者を捜索する。", "ko": "행방불명자를 수색하다." }
+    ]
+  },
+  {
+    "word": "調査する",
+    "reading": "ちょうさする",
+    "meaning": "조사하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原因を調査する。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "分析する",
+    "reading": "ぶんせきする",
+    "meaning": "분석하다",
+    "meaningDetail": "해석하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석하다." }
+    ]
+  },
+  {
+    "word": "解析する",
+    "reading": "かいせきする",
+    "meaning": "해석하다",
+    "meaningDetail": "분석하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "構造を解析する。", "ko": "구조를 해석하다." }
+    ]
+  },
+  {
+    "word": "検討する",
+    "reading": "けんとうする",
+    "meaning": "검토하다",
+    "meaningDetail": "고려하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "案を検討する。", "ko": "안을 검토하다." }
+    ]
+  },
+  {
+    "word": "検証する",
+    "reading": "けんしょうする",
+    "meaning": "검증하다",
+    "meaningDetail": "확인하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "仮説を検証する。", "ko": "가설을 검증하다." }
+    ]
+  },
+  {
+    "word": "実験する",
+    "reading": "じっけんする",
+    "meaning": "실험하다",
+    "meaningDetail": "시험하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "新薬を実験する。", "ko": "신약을 실험하다." }
+    ]
+  },
+  {
+    "word": "観察する",
+    "reading": "かんさつする",
+    "meaning": "관찰하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "行動を観察する。", "ko": "행동을 관찰하다." }
+    ]
+  },
+  {
+    "word": "観測する",
+    "reading": "かんそくする",
+    "meaning": "관측하다",
+    "meaningDetail": "측정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "天気を観測する。", "ko": "날씨를 관측하다." }
+    ]
+  },
+  {
+    "word": "測定する",
+    "reading": "そくていする",
+    "meaning": "측정하다",
+    "meaningDetail": "재다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "距離を測定する。", "ko": "거리를 측정하다." }
+    ]
+  },
+  {
+    "word": "測る",
+    "reading": "はかる",
+    "meaning": "재다",
+    "meaningDetail": "측정하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "体重を測る。", "ko": "체중을 재다." }
+    ]
+  },
+  {
+    "word": "計測する",
+    "reading": "けいそくする",
+    "meaning": "계측하다",
+    "meaningDetail": "측정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "速度を計測する。", "ko": "속도를 계측하다." }
+    ]
+  },
+  {
+    "word": "記録する",
+    "reading": "きろくする",
+    "meaning": "기록하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを記録する。", "ko": "데이터를 기록하다." }
+    ]
+  },
+  {
+    "word": "記載する",
+    "reading": "きさいする",
+    "meaning": "기재하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "情報を記載する。", "ko": "정보를 기재하다." }
+    ]
+  },
+  {
+    "word": "記入する",
+    "reading": "きにゅうする",
+    "meaning": "기입하다",
+    "meaningDetail": "적다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "名前を記入する。", "ko": "이름을 기입하다." }
+    ]
+  },
+  {
+    "word": "記述する",
+    "reading": "きじゅつする",
+    "meaning": "기술하다",
+    "meaningDetail": "서술하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "詳細を記述する。", "ko": "상세를 기술하다." }
+    ]
+  },
+  {
+    "word": "描写する",
+    "reading": "びょうしゃする",
+    "meaning": "묘사하다",
+    "meaningDetail": "그리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "情景を描写する。", "ko": "정경을 묘사하다." }
+    ]
+  },
+  {
+    "word": "描く",
+    "reading": "えがく",
+    "meaning": "그리다",
+    "meaningDetail": "묘사하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "夢を描く。", "ko": "꿈을 그리다." }
+    ]
+  },
+  {
+    "word": "表現する",
+    "reading": "ひょうげんする",
+    "meaning": "표현하다",
+    "meaningDetail": "나타내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "感情を表現する。", "ko": "감정을 표현하다." }
+    ]
+  },
+  {
+    "word": "表明する",
+    "reading": "ひょうめいする",
+    "meaning": "표명하다",
+    "meaningDetail": "밝히다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を表明する。", "ko": "의견을 표명하다." }
+    ]
+  },
+  {
+    "word": "表示する",
+    "reading": "ひょうじする",
+    "meaning": "표시하다",
+    "meaningDetail": "나타내다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果を表示する。", "ko": "결과를 표시하다." }
+    ]
+  },
+  {
+    "word": "表す",
+    "reading": "あらわす",
+    "meaning": "나타내다",
+    "meaningDetail": "표현하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "感謝を表す。", "ko": "감사를 나타내다." }
+    ]
+  },
+  {
+    "word": "現す",
+    "reading": "あらわす",
+    "meaning": "드러내다",
+    "meaningDetail": "나타내다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "姿を現す。", "ko": "모습을 드러내다." }
+    ]
+  },
+  {
+    "word": "現れる",
+    "reading": "あらわれる",
+    "meaning": "나타나다",
+    "meaningDetail": "드러나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "症状が現れる。", "ko": "증상이 나타나다." }
+    ]
+  },
+  {
+    "word": "隠す",
+    "reading": "かくす",
+    "meaning": "숨기다",
+    "meaningDetail": "감추다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "秘密を隠す。", "ko": "비밀을 숨기다." }
+    ]
+  },
+  {
+    "word": "隠れる",
+    "reading": "かくれる",
+    "meaning": "숨다",
+    "meaningDetail": "감추어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "影に隠れる。", "ko": "그늘에 숨다." }
+    ]
+  },
+  {
+    "word": "潜む",
+    "reading": "ひそむ",
+    "meaning": "잠복하다",
+    "meaningDetail": "숨다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "危険が潜む。", "ko": "위험이 잠복하다." }
+    ]
+  },
+  {
+    "word": "潜る",
+    "reading": "もぐる",
+    "meaning": "잠수하다",
+    "meaningDetail": "숨다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "海に潜る。", "ko": "바다에 잠수하다." }
+    ]
+  },
+  {
+    "word": "浮かぶ",
+    "reading": "うかぶ",
+    "meaning": "떠오르다",
+    "meaningDetail": "뜨다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "アイデアが浮かぶ。", "ko": "아이디어가 떠오르다." }
+    ]
+  },
+  {
+    "word": "浮く",
+    "reading": "うく",
+    "meaning": "뜨다",
+    "meaningDetail": "떠다니다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "船が浮く。", "ko": "배가 뜨다." }
+    ]
+  },
+  {
+    "word": "沈む",
+    "reading": "しずむ",
+    "meaning": "가라앉다",
+    "meaningDetail": "침몰하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "太陽が沈む。", "ko": "태양이 가라앉다." }
+    ]
+  },
+  {
+    "word": "沈める",
+    "reading": "しずめる",
+    "meaning": "가라앉히다",
+    "meaningDetail": "침몰시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "船を沈める。", "ko": "배를 가라앉히다." }
+    ]
+  },
+  {
+    "word": "漂う",
+    "reading": "ただよう",
+    "meaning": "떠다니다",
+    "meaningDetail": "표류하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "香りが漂う。", "ko": "향기가 떠다니다." }
+    ]
+  },
+  {
+    "word": "流れる",
+    "reading": "ながれる",
+    "meaning": "흐르다",
+    "meaningDetail": "유출하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "川が流れる。", "ko": "강이 흐르다." }
+    ]
+  },
+  {
+    "word": "流す",
+    "reading": "ながす",
+    "meaning": "흘리다",
+    "meaningDetail": "유출하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "涙を流す。", "ko": "눈물을 흘리다." }
+    ]
+  },
+  {
+    "word": "流出する",
+    "reading": "りゅうしゅつする",
+    "meaning": "유출하다",
+    "meaningDetail": "흘러나가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "情報が流出する。", "ko": "정보가 유출하다." }
+    ]
+  },
+  {
+    "word": "流入する",
+    "reading": "りゅうにゅうする",
+    "meaning": "유입하다",
+    "meaningDetail": "흘러들다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資金が流入する。", "ko": "자금이 유입하다." }
+    ]
+  },
+  {
+    "word": "流通する",
+    "reading": "りゅうつうする",
+    "meaning": "유통하다",
+    "meaningDetail": "돌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "商品が流通する。", "ko": "상품이 유통하다." }
+    ]
+  },
+  {
+    "word": "循環する",
+    "reading": "じゅんかんする",
+    "meaning": "순환하다",
+    "meaningDetail": "돌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "血液が循環する。", "ko": "혈액이 순환하다." }
+    ]
+  }
+]

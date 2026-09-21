@@ -1,0 +1,482 @@
+[
+  {
+    "word": "観測",
+    "reading": "かんそく",
+    "meaning": "관측",
+    "meaningDetail": "측정",
+    "category": "명사",
+    "examples": [
+      { "ja": "天体を観測する。", "ko": "천체를 관측하다." }
+    ]
+  },
+  {
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaning": "관찰",
+    "meaningDetail": "주시",
+    "category": "명사",
+    "examples": [
+      { "ja": "動物を観察する。", "ko": "동물을 관찰하다." }
+    ]
+  },
+  {
+    "word": "実験",
+    "reading": "じっけん",
+    "meaning": "실험",
+    "meaningDetail": "테스트",
+    "category": "명사",
+    "examples": [
+      { "ja": "実験を行う。", "ko": "실험을 하다." }
+    ]
+  },
+  {
+    "word": "実証",
+    "reading": "じっしょう",
+    "meaning": "실증",
+    "meaningDetail": "증명",
+    "category": "명사",
+    "examples": [
+      { "ja": "理論を実証する。", "ko": "이론을 실증하다." }
+    ]
+  },
+  {
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaning": "증명",
+    "meaningDetail": "입증",
+    "category": "명사",
+    "examples": [
+      { "ja": "身分を証明する。", "ko": "신분을 증명하다." }
+    ]
+  },
+  {
+    "word": "立証",
+    "reading": "りっしょう",
+    "meaning": "입증",
+    "meaningDetail": "증명",
+    "category": "명사",
+    "examples": [
+      { "ja": "無罪を立証する。", "ko": "무죄를 입증하다." }
+    ]
+  },
+  {
+    "word": "論証",
+    "reading": "ろんしょう",
+    "meaning": "논증",
+    "meaningDetail": "증명",
+    "category": "명사",
+    "examples": [
+      { "ja": "論証を展開する。", "ko": "논증을 전개하다." }
+    ]
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "분석",
+    "meaningDetail": "해석",
+    "category": "명사",
+    "examples": [
+      { "ja": "データを分析する。", "ko": "데이터를 분석하다." }
+    ]
+  },
+  {
+    "word": "解析",
+    "reading": "かいせき",
+    "meaning": "해석",
+    "meaningDetail": "분석",
+    "category": "명사",
+    "examples": [
+      { "ja": "解析を進める。", "ko": "해석을 진행하다." }
+    ]
+  },
+  {
+    "word": "検出",
+    "reading": "けんしゅつ",
+    "meaning": "검출",
+    "meaningDetail": "탐지",
+    "category": "명사",
+    "examples": [
+      { "ja": "成分を検出する。", "ko": "성분을 검출하다." }
+    ]
+  },
+  {
+    "word": "抽出",
+    "reading": "ちゅうしゅつ",
+    "meaning": "추출",
+    "meaningDetail": "뽑아냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "エキスを抽出する。", "ko": "엑기스를 추출하다." }
+    ]
+  },
+  {
+    "word": "選出",
+    "reading": "せんしゅつ",
+    "meaning": "선출",
+    "meaningDetail": "뽑음",
+    "category": "명사",
+    "examples": [
+      { "ja": "代表を選出する。", "ko": "대표를 선출하다." }
+    ]
+  },
+  {
+    "word": "排出",
+    "reading": "はいしゅつ",
+    "meaning": "배출",
+    "meaningDetail": "방출",
+    "category": "명사",
+    "examples": [
+      { "ja": "二酸化炭素を排出する。", "ko": "이산화탄소를 배출하다." }
+    ]
+  },
+  {
+    "word": "放出",
+    "reading": "ほうしゅつ",
+    "meaning": "방출",
+    "meaningDetail": "내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "エネルギーを放出する。", "ko": "에너지를 방출하다." }
+    ]
+  },
+  {
+    "word": "流出",
+    "reading": "りゅうしゅつ",
+    "meaning": "유출",
+    "meaningDetail": "흘러나감",
+    "category": "명사",
+    "examples": [
+      { "ja": "情報が流出する。", "ko": "정보가 유출되다." }
+    ]
+  },
+  {
+    "word": "流入",
+    "reading": "りゅうにゅう",
+    "meaning": "유입",
+    "meaningDetail": "들어옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "資金が流入する。", "ko": "자금이 유입되다." }
+    ]
+  },
+  {
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "meaningDetail": "내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を輸出する。", "ko": "제품을 수출하다." }
+    ]
+  },
+  {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "meaningDetail": "들여옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "原料を輸入する。", "ko": "원료를 수입하다." }
+    ]
+  },
+  {
+    "word": "輸送",
+    "reading": "ゆそう",
+    "meaning": "수송",
+    "meaningDetail": "운송",
+    "category": "명사",
+    "examples": [
+      { "ja": "貨物を輸送する。", "ko": "화물을 수송하다." }
+    ]
+  },
+  {
+    "word": "運搬",
+    "reading": "うんぱん",
+    "meaning": "운반",
+    "meaningDetail": "나름",
+    "category": "명사",
+    "examples": [
+      { "ja": "荷物を運搬する。", "ko": "짐을 운반하다." }
+    ]
+  },
+  {
+    "word": "搬入",
+    "reading": "はんにゅう",
+    "meaning": "반입",
+    "meaningDetail": "들여놓음",
+    "category": "명사",
+    "examples": [
+      { "ja": "機材を搬入する。", "ko": "기자재를 반입하다." }
+    ]
+  },
+  {
+    "word": "搬出",
+    "reading": "はんしゅつ",
+    "meaning": "반출",
+    "meaningDetail": "내보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "廃棄物を搬出する。", "ko": "폐기물을 반출하다." }
+    ]
+  },
+  {
+    "word": "配送",
+    "reading": "はいそう",
+    "meaning": "배송",
+    "meaningDetail": "배달",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を配送する。", "ko": "상품을 배송하다." }
+    ]
+  },
+  {
+    "word": "配達",
+    "reading": "はいたつ",
+    "meaning": "배달",
+    "meaningDetail": "전달",
+    "category": "명사",
+    "examples": [
+      { "ja": "荷物を配達する。", "ko": "짐을 배달하다." }
+    ]
+  },
+  {
+    "word": "発送",
+    "reading": "はっそう",
+    "meaning": "발송",
+    "meaningDetail": "보냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を発送する。", "ko": "상품을 발송하다." }
+    ]
+  },
+  {
+    "word": "到着",
+    "reading": "とうちゃく",
+    "meaning": "도착",
+    "meaningDetail": "도달",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的地に到着する。", "ko": "목적지에 도착하다." }
+    ]
+  },
+  {
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "출발",
+    "meaningDetail": "떠남",
+    "category": "명사",
+    "examples": [
+      { "ja": "朝早く出発する。", "ko": "아침 일찍 출발하다." }
+    ]
+  },
+  {
+    "word": "出航",
+    "reading": "しゅっこう",
+    "meaning": "출항",
+    "meaningDetail": "떠남",
+    "category": "명사",
+    "examples": [
+      { "ja": "船が出航する。", "ko": "배가 출항하다." }
+    ]
+  },
+  {
+    "word": "入港",
+    "reading": "にゅうこう",
+    "meaning": "입항",
+    "meaningDetail": "들어옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "船が入港する。", "ko": "배가 입항하다." }
+    ]
+  },
+  {
+    "word": "離陸",
+    "reading": "りりく",
+    "meaning": "이륙",
+    "meaningDetail": "날아오름",
+    "category": "명사",
+    "examples": [
+      { "ja": "飛行機が離陸する。", "ko": "비행기가 이륙하다." }
+    ]
+  },
+  {
+    "word": "着陸",
+    "reading": "ちゃくりく",
+    "meaning": "착륙",
+    "meaningDetail": "내림",
+    "category": "명사",
+    "examples": [
+      { "ja": "飛行機が着陸する。", "ko": "비행기가 착륙하다." }
+    ]
+  },
+  {
+    "word": "航空",
+    "reading": "こうくう",
+    "meaning": "항공",
+    "meaningDetail": "비행",
+    "category": "명사",
+    "examples": [
+      { "ja": "航空便で送る。", "ko": "항공편으로 보내다." }
+    ]
+  },
+  {
+    "word": "航海",
+    "reading": "こうかい",
+    "meaning": "항해",
+    "meaningDetail": "배 여행",
+    "category": "명사",
+    "examples": [
+      { "ja": "太平洋を航海する。", "ko": "태평양을 항해하다." }
+    ]
+  },
+  {
+    "word": "航路",
+    "reading": "こうろ",
+    "meaning": "항로",
+    "meaningDetail": "뱃길",
+    "category": "명사",
+    "examples": [
+      { "ja": "航路を変更する。", "ko": "항로를 변경하다." }
+    ]
+  },
+  {
+    "word": "経路",
+    "reading": "けいろ",
+    "meaning": "경로",
+    "meaningDetail": "루트",
+    "category": "명사",
+    "examples": [
+      { "ja": "経路を確認する。", "ko": "경로를 확인하다." }
+    ]
+  },
+  {
+    "word": "進路",
+    "reading": "しんろ",
+    "meaning": "진로",
+    "meaningDetail": "방향",
+    "category": "명사",
+    "examples": [
+      { "ja": "進路を決める。", "ko": "진로를 정하다." }
+    ]
+  },
+  {
+    "word": "道路",
+    "reading": "どうろ",
+    "meaning": "도로",
+    "meaningDetail": "길",
+    "category": "명사",
+    "examples": [
+      { "ja": "道路を整備する。", "ko": "도로를 정비하다." }
+    ]
+  },
+  {
+    "word": "通路",
+    "reading": "つうろ",
+    "meaning": "통로",
+    "meaningDetail": "복도",
+    "category": "명사",
+    "examples": [
+      { "ja": "通路を確保する。", "ko": "통로를 확보하다." }
+    ]
+  },
+  {
+    "word": "回廊",
+    "reading": "かいろう",
+    "meaning": "회랑",
+    "meaningDetail": "복도",
+    "category": "명사",
+    "examples": [
+      { "ja": "回廊を歩く。", "ko": "회랑을 걷다." }
+    ]
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "계단",
+    "meaningDetail": "층계",
+    "category": "명사",
+    "examples": [
+      { "ja": "階段を上る。", "ko": "계단을 오르다." }
+    ]
+  },
+  {
+    "word": "踊り場",
+    "reading": "おどりば",
+    "meaning": "계단참",
+    "meaningDetail": "층계참",
+    "category": "명사",
+    "examples": [
+      { "ja": "踊り場で休む。", "ko": "계단참에서 쉬다." }
+    ]
+  },
+  {
+    "word": "手すり",
+    "reading": "てすり",
+    "meaning": "난간",
+    "meaningDetail": "손잡이",
+    "category": "명사",
+    "examples": [
+      { "ja": "手すりにつかまる。", "ko": "난간을 잡다." }
+    ]
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "현관",
+    "meaningDetail": "입구",
+    "category": "명사",
+    "examples": [
+      { "ja": "玄関で靴を脱ぐ。", "ko": "현관에서 신발을 벗다." }
+    ]
+  },
+  {
+    "word": "廊下",
+    "reading": "ろうか",
+    "meaning": "복도",
+    "meaningDetail": "통로",
+    "category": "명사",
+    "examples": [
+      { "ja": "廊下を走らない。", "ko": "복도에서 뛰지 않다." }
+    ]
+  },
+  {
+    "word": "居間",
+    "reading": "いま",
+    "meaning": "거실",
+    "meaningDetail": "응접실",
+    "category": "명사",
+    "examples": [
+      { "ja": "居間でくつろぐ。", "ko": "거실에서 쉬다." }
+    ]
+  },
+  {
+    "word": "寝室",
+    "reading": "しんしつ",
+    "meaning": "침실",
+    "meaningDetail": "방",
+    "category": "명사",
+    "examples": [
+      { "ja": "寝室で眠る。", "ko": "침실에서 자다." }
+    ]
+  },
+  {
+    "word": "書斎",
+    "reading": "しょさい",
+    "meaning": "서재",
+    "meaningDetail": "공부방",
+    "category": "명사",
+    "examples": [
+      { "ja": "書斎で仕事をする。", "ko": "서재에서 일하다." }
+    ]
+  },
+  {
+    "word": "物置",
+    "reading": "ものおき",
+    "meaning": "창고",
+    "meaningDetail": "저장소",
+    "category": "명사",
+    "examples": [
+      { "ja": "物置に収納する。", "ko": "창고에 수납하다." }
+    ]
+  }
+]

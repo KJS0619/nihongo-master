@@ -1,0 +1,482 @@
+[
+  {
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "자연",
+    "meaningDetail": "자연환경",
+    "category": "명사",
+    "examples": [
+      { "ja": "自然を守る。", "ko": "자연을 지키다." }
+    ]
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "환경",
+    "meaningDetail": "주변 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "環境を保護する。", "ko": "환경을 보호하다." }
+    ]
+  },
+  {
+    "word": "生態",
+    "reading": "せいたい",
+    "meaning": "생태",
+    "meaningDetail": "생물 상태",
+    "category": "명사",
+    "examples": [
+      { "ja": "生態系を守る。", "ko": "생태계를 지키다." }
+    ]
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "동물",
+    "meaningDetail": "짐승",
+    "category": "명사",
+    "examples": [
+      { "ja": "動物を飼う。", "ko": "동물을 키우다." }
+    ]
+  },
+  {
+    "word": "植物",
+    "reading": "しょくぶつ",
+    "meaning": "식물",
+    "meaningDetail": "풀과 나무",
+    "category": "명사",
+    "examples": [
+      { "ja": "植物を育てる。", "ko": "식물을 키우다." }
+    ]
+  },
+  {
+    "word": "生物",
+    "reading": "せいぶつ",
+    "meaning": "생물",
+    "meaningDetail": "살아있는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "生物を研究する。", "ko": "생물을 연구하다." }
+    ]
+  },
+  {
+    "word": "微生物",
+    "reading": "びせいぶつ",
+    "meaning": "미생물",
+    "meaningDetail": "작은 생물",
+    "category": "명사",
+    "examples": [
+      { "ja": "微生物を観察する。", "ko": "미생물을 관찰하다." }
+    ]
+  },
+  {
+    "word": "哺乳類",
+    "reading": "ほにゅうるい",
+    "meaning": "포유류",
+    "meaningDetail": "젖먹이 동물",
+    "category": "명사",
+    "examples": [
+      { "ja": "哺乳類の特徴。", "ko": "포유류의 특징." }
+    ]
+  },
+  {
+    "word": "爬虫類",
+    "reading": "はちゅうるい",
+    "meaning": "파충류",
+    "meaningDetail": "기어다니는 동물",
+    "category": "명사",
+    "examples": [
+      { "ja": "爬虫類を飼う。", "ko": "파충류를 키우다." }
+    ]
+  },
+  {
+    "word": "昆虫",
+    "reading": "こんちゅう",
+    "meaning": "곤충",
+    "meaningDetail": "벌레",
+    "category": "명사",
+    "examples": [
+      { "ja": "昆虫を採集する。", "ko": "곤충을 채집하다." }
+    ]
+  },
+  {
+    "word": "鳥類",
+    "reading": "ちょうるい",
+    "meaning": "조류",
+    "meaningDetail": "새",
+    "category": "명사",
+    "examples": [
+      { "ja": "鳥類を観察する。", "ko": "조류를 관찰하다." }
+    ]
+  },
+  {
+    "word": "魚類",
+    "reading": "ぎょるい",
+    "meaning": "어류",
+    "meaningDetail": "물고기",
+    "category": "명사",
+    "examples": [
+      { "ja": "魚類を研究する。", "ko": "어류를 연구하다." }
+    ]
+  },
+  {
+    "word": "野生",
+    "reading": "やせい",
+    "meaning": "야생",
+    "meaningDetail": "자연 그대로",
+    "category": "명사",
+    "examples": [
+      { "ja": "野生動物を保護する。", "ko": "야생동물을 보호하다." }
+    ]
+  },
+  {
+    "word": "絶滅",
+    "reading": "ぜつめつ",
+    "meaning": "멸종",
+    "meaningDetail": "사라짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "絶滅を防ぐ。", "ko": "멸종을 막다." }
+    ]
+  },
+  {
+    "word": "森林",
+    "reading": "しんりん",
+    "meaning": "삼림",
+    "meaningDetail": "숲",
+    "category": "명사",
+    "examples": [
+      { "ja": "森林を保護する。", "ko": "삼림을 보호하다." }
+    ]
+  },
+  {
+    "word": "山脈",
+    "reading": "さんみゃく",
+    "meaning": "산맥",
+    "meaningDetail": "산줄기",
+    "category": "명사",
+    "examples": [
+      { "ja": "山脈を越える。", "ko": "산맥을 넘다." }
+    ]
+  },
+  {
+    "word": "火山",
+    "reading": "かざん",
+    "meaning": "화산",
+    "meaningDetail": "불 뿜는 산",
+    "category": "명사",
+    "examples": [
+      { "ja": "火山が噴火する。", "ko": "화산이 분화하다." }
+    ]
+  },
+  {
+    "word": "湖",
+    "reading": "みずうみ",
+    "meaning": "호수",
+    "meaningDetail": "큰 물웅덩이",
+    "category": "명사",
+    "examples": [
+      { "ja": "湖で泳ぐ。", "ko": "호수에서 수영하다." }
+    ]
+  },
+  {
+    "word": "河川",
+    "reading": "かせん",
+    "meaning": "하천",
+    "meaningDetail": "강과 시내",
+    "category": "명사",
+    "examples": [
+      { "ja": "河川を整備する。", "ko": "하천을 정비하다." }
+    ]
+  },
+  {
+    "word": "海洋",
+    "reading": "かいよう",
+    "meaning": "해양",
+    "meaningDetail": "바다",
+    "category": "명사",
+    "examples": [
+      { "ja": "海洋を研究する。", "ko": "해양을 연구하다." }
+    ]
+  },
+  {
+    "word": "大陸",
+    "reading": "たいりく",
+    "meaning": "대륙",
+    "meaningDetail": "큰 땅덩어리",
+    "category": "명사",
+    "examples": [
+      { "ja": "大陸を横断する。", "ko": "대륙을 횡단하다." }
+    ]
+  },
+  {
+    "word": "島",
+    "reading": "しま",
+    "meaning": "섬",
+    "meaningDetail": "물로 둘러싸인 땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "島に渡る。", "ko": "섬으로 건너가다." }
+    ]
+  },
+  {
+    "word": "半島",
+    "reading": "はんとう",
+    "meaning": "반도",
+    "meaningDetail": "바다로 뻗은 땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "半島に住む。", "ko": "반도에 살다." }
+    ]
+  },
+  {
+    "word": "砂漠",
+    "reading": "さばく",
+    "meaning": "사막",
+    "meaningDetail": "모래벌판",
+    "category": "명사",
+    "examples": [
+      { "ja": "砂漠を横断する。", "ko": "사막을 횡단하다." }
+    ]
+  },
+  {
+    "word": "平野",
+    "reading": "へいや",
+    "meaning": "평야",
+    "meaningDetail": "넓은 벌판",
+    "category": "명사",
+    "examples": [
+      { "ja": "平野に広がる。", "ko": "평야에 펼쳐지다." }
+    ]
+  },
+  {
+    "word": "盆地",
+    "reading": "ぼんち",
+    "meaning": "분지",
+    "meaningDetail": "산으로 둘러싸인 땅",
+    "category": "명사",
+    "examples": [
+      { "ja": "盆地に位置する。", "ko": "분지에 위치하다." }
+    ]
+  },
+  {
+    "word": "谷",
+    "reading": "たに",
+    "meaning": "골짜기",
+    "meaningDetail": "산 사이 움푹한 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "谷を下る。", "ko": "골짜기를 내려가다." }
+    ]
+  },
+  {
+    "word": "崖",
+    "reading": "がけ",
+    "meaning": "절벽",
+    "meaningDetail": "낭떠러지",
+    "category": "명사",
+    "examples": [
+      { "ja": "崖から落ちる。", "ko": "절벽에서 떨어지다." }
+    ]
+  },
+  {
+    "word": "海岸",
+    "reading": "かいがん",
+    "meaning": "해안",
+    "meaningDetail": "바닷가",
+    "category": "명사",
+    "examples": [
+      { "ja": "海岸を歩く。", "ko": "해안을 걷다." }
+    ]
+  },
+  {
+    "word": "浜",
+    "reading": "はま",
+    "meaning": "해변",
+    "meaningDetail": "모래사장",
+    "category": "명사",
+    "examples": [
+      { "ja": "浜で遊ぶ。", "ko": "해변에서 놀다." }
+    ]
+  },
+  {
+    "word": "波",
+    "reading": "なみ",
+    "meaning": "파도",
+    "meaningDetail": "물결",
+    "category": "명사",
+    "examples": [
+      { "ja": "波に乗る。", "ko": "파도를 타다." }
+    ]
+  },
+  {
+    "word": "潮",
+    "reading": "しお",
+    "meaning": "조수",
+    "meaningDetail": "밀물썰물",
+    "category": "명사",
+    "examples": [
+      { "ja": "潮が満ちる。", "ko": "밀물이 들다." }
+    ]
+  },
+  {
+    "word": "流れ",
+    "reading": "ながれ",
+    "meaning": "흐름",
+    "meaningDetail": "물길",
+    "category": "명사",
+    "examples": [
+      { "ja": "流れに乗る。", "ko": "흐름에 따르다." }
+    ]
+  },
+  {
+    "word": "滝",
+    "reading": "たき",
+    "meaning": "폭포",
+    "meaningDetail": "물이 떨어지는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "滝を見る。", "ko": "폭포를 보다." }
+    ]
+  },
+  {
+    "word": "泉",
+    "reading": "いずみ",
+    "meaning": "샘",
+    "meaningDetail": "물이 솟는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "泉の水を飲む。", "ko": "샘물을 마시다." }
+    ]
+  },
+  {
+    "word": "井戸",
+    "reading": "いど",
+    "meaning": "우물",
+    "meaningDetail": "물 퍼는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "井戸を掘る。", "ko": "우물을 파다." }
+    ]
+  },
+  {
+    "word": "地層",
+    "reading": "ちそう",
+    "meaning": "지층",
+    "meaningDetail": "땅의 켜",
+    "category": "명사",
+    "examples": [
+      { "ja": "地層を調べる。", "ko": "지층을 조사하다." }
+    ]
+  },
+  {
+    "word": "鉱物",
+    "reading": "こうぶつ",
+    "meaning": "광물",
+    "meaningDetail": "돌 자원",
+    "category": "명사",
+    "examples": [
+      { "ja": "鉱物を採掘する。", "ko": "광물을 채굴하다." }
+    ]
+  },
+  {
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "자원",
+    "meaningDetail": "원천",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を節約する。", "ko": "자원을 절약하다." }
+    ]
+  },
+  {
+    "word": "エネルギー",
+    "reading": "えねるぎー",
+    "meaning": "에너지",
+    "meaningDetail": "힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "エネルギーを節約する。", "ko": "에너지를 절약하다." }
+    ]
+  },
+  {
+    "word": "太陽",
+    "reading": "たいよう",
+    "meaning": "태양",
+    "meaningDetail": "해",
+    "category": "명사",
+    "examples": [
+      { "ja": "太陽が昇る。", "ko": "태양이 뜨다." }
+    ]
+  },
+  {
+    "word": "月",
+    "reading": "つき",
+    "meaning": "달",
+    "meaningDetail": "달빛",
+    "category": "명사",
+    "examples": [
+      { "ja": "月を見る。", "ko": "달을 보다." }
+    ]
+  },
+  {
+    "word": "星",
+    "reading": "ほし",
+    "meaning": "별",
+    "meaningDetail": "천체",
+    "category": "명사",
+    "examples": [
+      { "ja": "星を眺める。", "ko": "별을 바라보다." }
+    ]
+  },
+  {
+    "word": "惑星",
+    "reading": "わくせい",
+    "meaning": "행성",
+    "meaningDetail": "떠도는 별",
+    "category": "명사",
+    "examples": [
+      { "ja": "惑星を観測する。", "ko": "행성을 관측하다." }
+    ]
+  },
+  {
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "우주",
+    "meaningDetail": "온 세상",
+    "category": "명사",
+    "examples": [
+      { "ja": "宇宙を探査する。", "ko": "우주를 탐사하다." }
+    ]
+  },
+  {
+    "word": "銀河",
+    "reading": "ぎんが",
+    "meaning": "은하",
+    "meaningDetail": "별 무리",
+    "category": "명사",
+    "examples": [
+      { "ja": "銀河を観察する。", "ko": "은하를 관찰하다." }
+    ]
+  },
+  {
+    "word": "衛星",
+    "reading": "えいせい",
+    "meaning": "위성",
+    "meaningDetail": "돌고 있는 천체",
+    "category": "명사",
+    "examples": [
+      { "ja": "衛星を打ち上げる。", "ko": "위성을 발사하다." }
+    ]
+  },
+  {
+    "word": "ロケット",
+    "reading": "ろけっと",
+    "meaning": "로켓",
+    "meaningDetail": "발사체",
+    "category": "명사",
+    "examples": [
+      { "ja": "ロケットを発射する。", "ko": "로켓을 발사하다." }
+    ]
+  }
+]

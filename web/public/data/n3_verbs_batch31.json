@@ -1,0 +1,530 @@
+[
+  {
+    "word": "通じる",
+    "reading": "つうじる",
+    "meaning": "통하다",
+    "meaningDetail": "연결되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "英語が通じる。", "ko": "영어가 통하다." }
+    ]
+  },
+  {
+    "word": "連絡する",
+    "reading": "れんらくする",
+    "meaning": "연락하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "電話で連絡する。", "ko": "전화로 연락하다." }
+    ]
+  },
+  {
+    "word": "相談する",
+    "reading": "そうだんする",
+    "meaning": "상담하다",
+    "meaningDetail": "의논하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "専門家に相談する。", "ko": "전문가에게 상담하다." }
+    ]
+  },
+  {
+    "word": "交換する",
+    "reading": "こうかんする",
+    "meaning": "교환하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "意見を交換する。", "ko": "의견을 교환하다." }
+    ]
+  },
+  {
+    "word": "交流する",
+    "reading": "こうりゅうする",
+    "meaning": "교류하다",
+    "meaningDetail": "왕래하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "文化を交流する。", "ko": "문화를 교류하다." }
+    ]
+  },
+  {
+    "word": "参加する",
+    "reading": "さんかする",
+    "meaning": "참가하다",
+    "meaningDetail": "참여하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会議に参加する。", "ko": "회의에 참가하다." }
+    ]
+  },
+  {
+    "word": "参照する",
+    "reading": "さんしょうする",
+    "meaning": "참조하다",
+    "meaningDetail": "참고하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "資料を参照する。", "ko": "자료를 참조하다." }
+    ]
+  },
+  {
+    "word": "出席する",
+    "reading": "しゅっせきする",
+    "meaning": "출석하다",
+    "meaningDetail": "참석하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "授業に出席する。", "ko": "수업에 출석하다." }
+    ]
+  },
+  {
+    "word": "欠席する",
+    "reading": "けっせきする",
+    "meaning": "결석하다",
+    "meaningDetail": "빠지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会議を欠席する。", "ko": "회의에 결석하다." }
+    ]
+  },
+  {
+    "word": "招待する",
+    "reading": "しょうたいする",
+    "meaning": "초대하다",
+    "meaningDetail": "부르다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "友人を招待する。", "ko": "친구를 초대하다." }
+    ]
+  },
+  {
+    "word": "訪問する",
+    "reading": "ほうもんする",
+    "meaning": "방문하다",
+    "meaningDetail": "찾아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会社を訪問する。", "ko": "회사를 방문하다." }
+    ]
+  },
+  {
+    "word": "訪れる",
+    "reading": "おとずれる",
+    "meaning": "방문하다",
+    "meaningDetail": "찾아오다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "友人を訪れる。", "ko": "친구를 방문하다." }
+    ]
+  },
+  {
+    "word": "案内する",
+    "reading": "あんないする",
+    "meaning": "안내하다",
+    "meaningDetail": "이끌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "観光客を案内する。", "ko": "관광객을 안내하다." }
+    ]
+  },
+  {
+    "word": "紹介する",
+    "reading": "しょうかいする",
+    "meaning": "소개하다",
+    "meaningDetail": "알리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "友人を紹介する。", "ko": "친구를 소개하다." }
+    ]
+  },
+  {
+    "word": "推薦する",
+    "reading": "すいせんする",
+    "meaning": "추천하다",
+    "meaningDetail": "권하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "候補者を推薦する。", "ko": "후보자를 추천하다." }
+    ]
+  },
+  {
+    "word": "評価する",
+    "reading": "ひょうかする",
+    "meaning": "평가하다",
+    "meaningDetail": "판정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成果を評価する。", "ko": "성과를 평가하다." }
+    ]
+  },
+  {
+    "word": "判定する",
+    "reading": "はんていする",
+    "meaning": "판정하다",
+    "meaningDetail": "결정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "勝敗を判定する。", "ko": "승패를 판정하다." }
+    ]
+  },
+  {
+    "word": "審査する",
+    "reading": "しんさする",
+    "meaning": "심사하다",
+    "meaningDetail": "검토하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "申請を審査する。", "ko": "신청을 심사하다." }
+    ]
+  },
+  {
+    "word": "検討する",
+    "reading": "けんとうする",
+    "meaning": "검토하다",
+    "meaningDetail": "살피다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "提案を検討する。", "ko": "제안을 검토하다." }
+    ]
+  },
+  {
+    "word": "調査する",
+    "reading": "ちょうさする",
+    "meaning": "조사하다",
+    "meaningDetail": "알아보다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "原因を調査する。", "ko": "원인을 조사하다." }
+    ]
+  },
+  {
+    "word": "把握する",
+    "reading": "はあくする",
+    "meaning": "파악하다",
+    "meaningDetail": "이해하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況を把握する。", "ko": "상황을 파악하다." }
+    ]
+  },
+  {
+    "word": "認識する",
+    "reading": "にんしきする",
+    "meaning": "인식하다",
+    "meaningDetail": "알아차리다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "問題を認識する。", "ko": "문제를 인식하다." }
+    ]
+  },
+  {
+    "word": "自覚する",
+    "reading": "じかくする",
+    "meaning": "자각하다",
+    "meaningDetail": "깨닫다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "責任を自覚する。", "ko": "책임을 자각하다." }
+    ]
+  },
+  {
+    "word": "察する",
+    "reading": "さっする",
+    "meaning": "헤아리다",
+    "meaningDetail": "짐작하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "気持ちを察する。", "ko": "마음을 헤아리다." }
+    ]
+  },
+  {
+    "word": "推測する",
+    "reading": "すいそくする",
+    "meaning": "추측하다",
+    "meaningDetail": "짐작하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果を推測する。", "ko": "결과를 추측하다." }
+    ]
+  },
+  {
+    "word": "予想する",
+    "reading": "よそうする",
+    "meaning": "예상하다",
+    "meaningDetail": "예측하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "結果を予想する。", "ko": "결과를 예상하다." }
+    ]
+  },
+  {
+    "word": "想定する",
+    "reading": "そうていする",
+    "meaning": "상정하다",
+    "meaningDetail": "가정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "事態を想定する。", "ko": "사태를 상정하다." }
+    ]
+  },
+  {
+    "word": "仮定する",
+    "reading": "かていする",
+    "meaning": "가정하다",
+    "meaningDetail": "가설을 세우다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "条件を仮定する。", "ko": "조건을 가정하다." }
+    ]
+  },
+  {
+    "word": "前提する",
+    "reading": "ぜんていする",
+    "meaning": "전제하다",
+    "meaningDetail": "먼저 정하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成功を前提する。", "ko": "성공을 전제하다." }
+    ]
+  },
+  {
+    "word": "推進する",
+    "reading": "すいしんする",
+    "meaning": "추진하다",
+    "meaningDetail": "밀어붙이다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画を推進する。", "ko": "계획을 추진하다." }
+    ]
+  },
+  {
+    "word": "促進する",
+    "reading": "そくしんする",
+    "meaning": "촉진하다",
+    "meaningDetail": "재촉하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "成長を促進する。", "ko": "성장을 촉진하다." }
+    ]
+  },
+  {
+    "word": "進行する",
+    "reading": "しんこうする",
+    "meaning": "진행하다",
+    "meaningDetail": "나아가다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "会議が進行する。", "ko": "회의가 진행되다." }
+    ]
+  },
+  {
+    "word": "進展する",
+    "reading": "しんてんする",
+    "meaning": "진전하다",
+    "meaningDetail": "발전하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "交渉が進展する。", "ko": "협상이 진전되다." }
+    ]
+  },
+  {
+    "word": "発展する",
+    "reading": "はってんする",
+    "meaning": "발전하다",
+    "meaningDetail": "성장하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "経済が発展する。", "ko": "경제가 발전하다." }
+    ]
+  },
+  {
+    "word": "成長する",
+    "reading": "せいちょうする",
+    "meaning": "성장하다",
+    "meaningDetail": "자라다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "子供が成長する。", "ko": "아이가 성장하다." }
+    ]
+  },
+  {
+    "word": "向上する",
+    "reading": "こうじょうする",
+    "meaning": "향상하다",
+    "meaningDetail": "나아지다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "能力が向上する。", "ko": "능력이 향상되다." }
+    ]
+  },
+  {
+    "word": "改良する",
+    "reading": "かいりょうする",
+    "meaning": "개량하다",
+    "meaningDetail": "좋게 고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "製品を改良する。", "ko": "제품을 개량하다." }
+    ]
+  },
+  {
+    "word": "改善する",
+    "reading": "かいぜんする",
+    "meaning": "개선하다",
+    "meaningDetail": "좋게 하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "状況を改善する。", "ko": "상황을 개선하다." }
+    ]
+  },
+  {
+    "word": "修正する",
+    "reading": "しゅうせいする",
+    "meaning": "수정하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "計画を修正する。", "ko": "계획을 수정하다." }
+    ]
+  },
+  {
+    "word": "訂正する",
+    "reading": "ていせいする",
+    "meaning": "정정하다",
+    "meaningDetail": "바로잡다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "誤りを訂正する。", "ko": "잘못을 정정하다." }
+    ]
+  },
+  {
+    "word": "変更する",
+    "reading": "へんこうする",
+    "meaning": "변경하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "予定を変更する。", "ko": "예정을 변경하다." }
+    ]
+  },
+  {
+    "word": "変換する",
+    "reading": "へんかんする",
+    "meaning": "변환하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "データを変換する。", "ko": "데이터를 변환하다." }
+    ]
+  },
+  {
+    "word": "交替する",
+    "reading": "こうたいする",
+    "meaning": "교대하다",
+    "meaningDetail": "바뀌다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "担当を交替する。", "ko": "담당을 교대하다." }
+    ]
+  },
+  {
+    "word": "入れ替える",
+    "reading": "いれかえる",
+    "meaning": "바꾸다",
+    "meaningDetail": "교체하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "電池を入れ替える。", "ko": "배터리를 바꾸다." }
+    ]
+  },
+  {
+    "word": "取り替える",
+    "reading": "とりかえる",
+    "meaning": "교환하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "部品を取り替える。", "ko": "부품을 교환하다." }
+    ]
+  },
+  {
+    "word": "置き換える",
+    "reading": "おきかえる",
+    "meaning": "대체하다",
+    "meaningDetail": "바꾸다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "言葉を置き換える。", "ko": "말을 대체하다." }
+    ]
+  },
+  {
+    "word": "代用する",
+    "reading": "だいようする",
+    "meaning": "대용하다",
+    "meaningDetail": "대신 쓰다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "砂糖を蜂蜜で代用する。", "ko": "설탕을 꿀로 대용하다." }
+    ]
+  },
+  {
+    "word": "代行する",
+    "reading": "だいこうする",
+    "meaning": "대행하다",
+    "meaningDetail": "대신하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "業務を代行する。", "ko": "업무를 대행하다." }
+    ]
+  }
+]

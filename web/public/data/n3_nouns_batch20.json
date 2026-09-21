@@ -1,0 +1,492 @@
+[
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "여행",
+    "meaningDetail": "다녀옴",
+    "category": "명사",
+    "examples": [
+      { "ja": "海外旅行に行く。", "ko": "해외여행을 간다." }
+    ]
+  },
+  {
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "출발",
+    "meaningDetail": "떠남",
+    "category": "명사",
+    "examples": [
+      { "ja": "出発の時間だ。", "ko": "출발 시간이다." }
+    ]
+  },
+  {
+    "word": "到着",
+    "reading": "とうちゃく",
+    "meaning": "도착",
+    "meaningDetail": "다다름",
+    "category": "명사",
+    "examples": [
+      { "ja": "目的地に到着する。", "ko": "목적지에 도착한다." }
+    ]
+  },
+  {
+    "word": "滞在",
+    "reading": "たいざい",
+    "meaning": "체재",
+    "meaningDetail": "머무름",
+    "category": "명사",
+    "examples": [
+      { "ja": "ホテルに滞在する。", "ko": "호텔에 체재한다." }
+    ]
+  },
+  {
+    "word": "帰国",
+    "reading": "きこく",
+    "meaning": "귀국",
+    "meaningDetail": "나라로 돌아감",
+    "category": "명사",
+    "examples": [
+      { "ja": "来週帰国する。", "ko": "다음 주 귀국한다." }
+    ]
+  },
+  {
+    "word": "出国",
+    "reading": "しゅっこく",
+    "meaning": "출국",
+    "meaningDetail": "나라를 떠남",
+    "category": "명사",
+    "examples": [
+      { "ja": "出国手続きをする。", "ko": "출국 수속을 한다." }
+    ]
+  },
+  {
+    "word": "入国",
+    "reading": "にゅうこく",
+    "meaning": "입국",
+    "meaningDetail": "나라에 들어감",
+    "category": "명사",
+    "examples": [
+      { "ja": "入国審査を受ける。", "ko": "입국 심사를 받는다." }
+    ]
+  },
+  {
+    "word": "搭乗",
+    "reading": "とうじょう",
+    "meaning": "탑승",
+    "meaningDetail": "타기",
+    "category": "명사",
+    "examples": [
+      { "ja": "搭乗手続きをする。", "ko": "탑승 수속을 한다." }
+    ]
+  },
+  {
+    "word": "乗車",
+    "reading": "じょうしゃ",
+    "meaning": "승차",
+    "meaningDetail": "타기",
+    "category": "명사",
+    "examples": [
+      { "ja": "乗車券を買う。", "ko": "승차권을 산다." }
+    ]
+  },
+  {
+    "word": "下車",
+    "reading": "げしゃ",
+    "meaning": "하차",
+    "meaningDetail": "내림",
+    "category": "명사",
+    "examples": [
+      { "ja": "次の駅で下車する。", "ko": "다음 역에서 하차한다." }
+    ]
+  },
+  {
+    "word": "乗り換え",
+    "reading": "のりかえ",
+    "meaning": "환승",
+    "meaningDetail": "갈아타기",
+    "category": "명사",
+    "examples": [
+      { "ja": "乗り換えが必要だ。", "ko": "환승이 필요하다." }
+    ]
+  },
+  {
+    "word": "運賃",
+    "reading": "うんちん",
+    "meaning": "운임",
+    "meaningDetail": "교통비",
+    "category": "명사",
+    "examples": [
+      { "ja": "運賃を払う。", "ko": "운임을 낸다." }
+    ]
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "요금",
+    "meaningDetail": "값",
+    "category": "명사",
+    "examples": [
+      { "ja": "料金を支払う。", "ko": "요금을 지불한다." }
+    ]
+  },
+  {
+    "word": "費用",
+    "reading": "ひよう",
+    "meaning": "비용",
+    "meaningDetail": "돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "費用を計算する。", "ko": "비용을 계산한다." }
+    ]
+  },
+  {
+    "word": "経費",
+    "reading": "けいひ",
+    "meaning": "경비",
+    "meaningDetail": "비용",
+    "category": "명사",
+    "examples": [
+      { "ja": "経費を削減する。", "ko": "경비를 삭감한다." }
+    ]
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "예산",
+    "meaningDetail": "돈 계획",
+    "category": "명사",
+    "examples": [
+      { "ja": "予算を組む。", "ko": "예산을 짠다." }
+    ]
+  },
+  {
+    "word": "収入",
+    "reading": "しゅうにゅう",
+    "meaning": "수입",
+    "meaningDetail": "버는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "収入が増える。", "ko": "수입이 늘다." }
+    ]
+  },
+  {
+    "word": "支出",
+    "reading": "ししゅつ",
+    "meaning": "지출",
+    "meaningDetail": "쓰는 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "支出を抑える。", "ko": "지출을 억제한다." }
+    ]
+  },
+  {
+    "word": "利益",
+    "reading": "りえき",
+    "meaning": "이익",
+    "meaningDetail": "남는 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益を上げる。", "ko": "이익을 올린다." }
+    ]
+  },
+  {
+    "word": "損失",
+    "reading": "そんしつ",
+    "meaning": "손실",
+    "meaningDetail": "잃음",
+    "category": "명사",
+    "examples": [
+      { "ja": "損失を被る。", "ko": "손실을 입다." }
+    ]
+  },
+  {
+    "word": "赤字",
+    "reading": "あかじ",
+    "meaning": "적자",
+    "meaningDetail": "손해",
+    "category": "명사",
+    "examples": [
+      { "ja": "赤字を出す。", "ko": "적자를 내다." }
+    ]
+  },
+  {
+    "word": "黒字",
+    "reading": "くろじ",
+    "meaning": "흑자",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "黒字に転換する。", "ko": "흑자로 전환한다." }
+    ]
+  },
+  {
+    "word": "売上",
+    "reading": "うりあげ",
+    "meaning": "매출",
+    "meaningDetail": "판 돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上を伸ばす。", "ko": "매출을 늘린다." }
+    ]
+  },
+  {
+    "word": "売却",
+    "reading": "ばいきゃく",
+    "meaning": "매각",
+    "meaningDetail": "팔아 넘김",
+    "category": "명사",
+    "examples": [
+      { "ja": "資産を売却する。", "ko": "자산을 매각한다." }
+    ]
+  },
+  {
+    "word": "購買",
+    "reading": "こうばい",
+    "meaning": "구매",
+    "meaningDetail": "사들임",
+    "category": "명사",
+    "examples": [
+      { "ja": "購買力がある。", "ko": "구매력이 있다." }
+    ]
+  },
+  {
+    "word": "取得",
+    "reading": "しゅとく",
+    "meaning": "취득",
+    "meaningDetail": "얻음",
+    "category": "명사",
+    "examples": [
+      { "ja": "資格を取得する。", "ko": "자격을 취득한다." }
+    ]
+  },
+  {
+    "word": "獲得",
+    "reading": "かくとく",
+    "meaning": "획득",
+    "meaningDetail": "얻음",
+    "category": "명사",
+    "examples": [
+      { "ja": "賞を獲得する。", "ko": "상을 획득한다." }
+    ]
+  },
+  {
+    "word": "所有",
+    "reading": "しょゆう",
+    "meaning": "소유",
+    "meaningDetail": "가짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "土地を所有する。", "ko": "토지를 소유한다." }
+    ]
+  },
+  {
+    "word": "所持",
+    "reading": "しょじ",
+    "meaning": "소지",
+    "meaningDetail": "가짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "現金を所持する。", "ko": "현금을 소지한다." }
+    ]
+  },
+  {
+    "word": "所属",
+    "reading": "しょぞく",
+    "meaning": "소속",
+    "meaningDetail": "속함",
+    "category": "명사",
+    "examples": [
+      { "ja": "会社に所属する。", "ko": "회사에 소속한다." }
+    ]
+  },
+  {
+    "word": "所在",
+    "reading": "しょざい",
+    "meaning": "소재",
+    "meaningDetail": "있는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "所在を確認する。", "ko": "소재를 확인한다." }
+    ]
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "주소",
+    "meaningDetail": "사는 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "住所を記入する。", "ko": "주소를 기입한다." }
+    ]
+  },
+  {
+    "word": "住居",
+    "reading": "じゅうきょ",
+    "meaning": "주거",
+    "meaningDetail": "살 곳",
+    "category": "명사",
+    "examples": [
+      { "ja": "住居を構える。", "ko": "주거를 정한다." }
+    ]
+  },
+  {
+    "word": "居住",
+    "reading": "きょじゅう",
+    "meaning": "거주",
+    "meaningDetail": "삶",
+    "category": "명사",
+    "examples": [
+      { "ja": "外国に居住する。", "ko": "외국에 거주한다." }
+    ]
+  },
+  {
+    "word": "定住",
+    "reading": "ていじゅう",
+    "meaning": "정주",
+    "meaningDetail": "자리 잡음",
+    "category": "명사",
+    "examples": [
+      { "ja": "地方に定住する。", "ko": "지방에 정주한다." }
+    ]
+  },
+  {
+    "word": "移住",
+    "reading": "いじゅう",
+    "meaning": "이주",
+    "meaningDetail": "옮겨 삶",
+    "category": "명사",
+    "examples": [
+      { "ja": "海外に移住する。", "ko": "해외로 이주한다." }
+    ]
+  },
+  {
+    "word": "引っ越し",
+    "reading": "ひっこし",
+    "meaning": "이사",
+    "meaningDetail": "옮김",
+    "category": "명사",
+    "examples": [
+      { "ja": "来月引っ越しする。", "ko": "다음 달 이사한다." }
+    ]
+  },
+  {
+    "word": "転居",
+    "reading": "てんきょ",
+    "meaning": "전거",
+    "meaningDetail": "이사",
+    "category": "명사",
+    "examples": [
+      { "ja": "転居届を出す。", "ko": "전거 신고를 낸다." }
+    ]
+  },
+  {
+    "word": "通勤",
+    "reading": "つうきん",
+    "meaning": "통근",
+    "meaningDetail": "출퇴근",
+    "category": "명사",
+    "examples": [
+      { "ja": "電車で通勤する。", "ko": "전철로 통근한다." }
+    ]
+  },
+  {
+    "word": "通学",
+    "reading": "つうがく",
+    "meaning": "통학",
+    "meaningDetail": "등하교",
+    "category": "명사",
+    "examples": [
+      { "ja": "バスで通学する。", "ko": "버스로 통학한다." }
+    ]
+  },
+  {
+    "word": "登校",
+    "reading": "とうこう",
+    "meaning": "등교",
+    "meaningDetail": "학교에 감",
+    "category": "명사",
+    "examples": [
+      { "ja": "毎朝登校する。", "ko": "매일 아침 등교한다." }
+    ]
+  },
+  {
+    "word": "下校",
+    "reading": "げこう",
+    "meaning": "하교",
+    "meaningDetail": "학교에서 돌아감",
+    "category": "명사",
+    "examples": [
+      { "ja": "一緒に下校する。", "ko": "함께 하교한다." }
+    ]
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "입학",
+    "meaningDetail": "학교에 들어감",
+    "category": "명사",
+    "examples": [
+      { "ja": "大学に入学する。", "ko": "대학에 입학한다." }
+    ]
+  },
+  {
+    "word": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "졸업",
+    "meaningDetail": "학교를 마침",
+    "category": "명사",
+    "examples": [
+      { "ja": "大学を卒業する。", "ko": "대학을 졸업한다." }
+    ]
+  },
+  {
+    "word": "留学",
+    "reading": "りゅうがく",
+    "meaning": "유학",
+    "meaningDetail": "해외 공부",
+    "category": "명사",
+    "examples": [
+      { "ja": "アメリカに留学する。", "ko": "미국에 유학한다." }
+    ]
+  },
+  {
+    "word": "進学",
+    "reading": "しんがく",
+    "meaning": "진학",
+    "meaningDetail": "상급 학교 진입",
+    "category": "명사",
+    "examples": [
+      { "ja": "大学に進学する。", "ko": "대학에 진학한다." }
+    ]
+  },
+  {
+    "word": "受験",
+    "reading": "じゅけん",
+    "meaning": "수험",
+    "meaningDetail": "시험 봄",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験を受験する。", "ko": "시험을 수험한다." }
+    ]
+  },
+  {
+    "word": "合格",
+    "reading": "ごうかく",
+    "meaning": "합격",
+    "meaningDetail": "통과",
+    "category": "명사",
+    "examples": [
+      { "ja": "試験に合格する。", "ko": "시험에 합격한다." }
+    ]
+  },
+  {
+    "word": "不合格",
+    "reading": "ふごうかく",
+    "meaning": "불합격",
+    "meaningDetail": "떨어짐",
+    "category": "명사",
+    "examples": [
+      { "ja": "不合格になる。", "ko": "불합격이 된다." }
+    ]
+  }
+]

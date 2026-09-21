@@ -1,0 +1,5923 @@
+{
+  "version": "1.0.0",
+  "level": "N5",
+  "totalCount": 80,
+  "grammar": [
+    {
+      "id": "n5_001",
+      "pattern": "〜は〜です",
+      "patternReading": "〜は〜です",
+      "meaning": "~은/는 ~입니다",
+      "jlpt": "N5",
+      "category": "기본문형",
+      "order": 1,
+      "explanation": {
+        "summary": "명사 문장의 기본형. 주어를 나타내는 'は'와 정중한 단정을 나타내는 'です'의 조합",
+        "detail": "'は'는 주제를 나타내는 조사로, 한국어의 '은/는'에 해당합니다. 'です'는 '~입니다'라는 정중한 단정의 의미입니다.",
+        "koreanComparison": "한국어 '~은/는 ~입니다'와 거의 동일한 구조입니다. 다만 일본어는 주어 생략이 더 자연스럽습니다.",
+        "commonMistakes": [
+          "'가/이'에 해당하는 'が'와 혼동하지 않도록 주의",
+          "형용사 문장에서는 'です' 앞에 명사가 오지 않음"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": {
+          "form": "〜は〜です",
+          "meaning": "~은/는 ~입니다"
+        },
+        "polite_negative": {
+          "form": "〜は〜ではありません",
+          "meaning": "~은/는 ~이/가 아닙니다"
+        },
+        "polite_past": {
+          "form": "〜は〜でした",
+          "meaning": "~은/는 ~이었습니다"
+        },
+        "polite_past_negative": {
+          "form": "〜は〜ではありませんでした",
+          "meaning": "~은/는 ~이/가 아니었습니다"
+        },
+        "casual_positive": {
+          "form": "〜は〜だ",
+          "meaning": "~은/는 ~이다"
+        },
+        "casual_negative": {
+          "form": "〜は〜じゃない",
+          "meaning": "~은/는 ~이/가 아니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "私は学生です。",
+          "reading": "わたしはがくせいです。",
+          "ko": "저는 학생입니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは先生です。",
+          "reading": "たなかさんはせんせいです。",
+          "ko": "다나카 씨는 선생님입니다.",
+          "audio": null
+        },
+        {
+          "ja": "これは本です。",
+          "reading": "これはほんです。",
+          "ko": "이것은 책입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "山田さん＿＿会社員です。",
+          "options": [
+            "は",
+            "が",
+            "を",
+            "に"
+          ],
+          "answer": "は",
+          "explanation": "주제를 나타내는 조사 'は'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "저는 회사원입니다.",
+          "answer": "私は会社員です。",
+          "acceptableAnswers": [
+            "わたしはかいしゃいんです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_002"
+      ],
+      "relatedKanji": [
+        "私",
+        "学",
+        "生"
+      ],
+      "tags": [
+        "기초",
+        "명사문",
+        "조사"
+      ]
+    },
+    {
+      "id": "n5_002",
+      "pattern": "〜ではありません",
+      "patternReading": "〜ではありません",
+      "meaning": "~이/가 아닙니다",
+      "jlpt": "N5",
+      "category": "부정",
+      "order": 2,
+      "explanation": {
+        "summary": "명사 문장의 부정형. 'です'의 부정 표현",
+        "detail": "'ではありません'은 'です'의 정중한 부정형입니다. 구어체에서는 'じゃありません' 또는 'じゃないです'도 자주 사용됩니다.",
+        "koreanComparison": "한국어 '~이/가 아닙니다'와 동일한 의미입니다.",
+        "commonMistakes": [
+          "'ではありません'과 'じゃありません'은 같은 의미 (じゃ가 더 구어적)",
+          "동사의 부정형 'ません'과 혼동하지 않기"
+        ]
+      },
+      "conjugation": {
+        "polite_negative": {
+          "form": "〜ではありません",
+          "meaning": "~이/가 아닙니다"
+        },
+        "polite_negative_casual": {
+          "form": "〜じゃありません",
+          "meaning": "~이/가 아닙니다 (구어)"
+        },
+        "polite_past_negative": {
+          "form": "〜ではありませんでした",
+          "meaning": "~이/가 아니었습니다"
+        },
+        "casual_negative": {
+          "form": "〜じゃない",
+          "meaning": "~이/가 아니야"
+        }
+      },
+      "examples": [
+        {
+          "ja": "私は学生ではありません。",
+          "reading": "わたしはがくせいではありません。",
+          "ko": "저는 학생이 아닙니다.",
+          "audio": null
+        },
+        {
+          "ja": "これは私の本じゃありません。",
+          "reading": "これはわたしのほんじゃありません。",
+          "ko": "이것은 제 책이 아닙니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは医者ではありません。先生です。",
+          "reading": "たなかさんはいしゃではありません。せんせいです。",
+          "ko": "다나카 씨는 의사가 아닙니다. 선생님입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "これは辞書＿＿＿＿＿＿。本です。",
+          "options": [
+            "ではありません",
+            "です",
+            "でした",
+            "ます"
+          ],
+          "answer": "ではありません",
+          "explanation": "뒤에 '本です(책입니다)'가 오므로, 앞은 부정형이 적절합니다."
+        },
+        {
+          "type": "convert",
+          "question": "私は日本人です。→ 부정문으로",
+          "answer": "私は日本人ではありません。",
+          "acceptableAnswers": [
+            "私は日本人じゃありません。",
+            "私は日本人じゃないです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001"
+      ],
+      "relatedKanji": [
+        "学",
+        "生",
+        "本"
+      ],
+      "tags": [
+        "기초",
+        "부정",
+        "명사문"
+      ]
+    },
+    {
+      "id": "n5_003",
+      "pattern": "〜があります／います",
+      "patternReading": "〜があります／います",
+      "meaning": "~이/가 있습니다",
+      "jlpt": "N5",
+      "category": "존재",
+      "order": 3,
+      "explanation": {
+        "summary": "존재를 나타내는 표현. 무생물에는 'あります', 생물에는 'います' 사용",
+        "detail": "'あります'는 무생물(책, 건물 등)의 존재를, 'います'는 생물(사람, 동물 등)의 존재를 나타냅니다. 장소는 'に' 조사로 표시합니다.",
+        "koreanComparison": "한국어는 '있다' 하나로 표현하지만, 일본어는 생물/무생물을 구분합니다.",
+        "commonMistakes": [
+          "식물은 무생물로 취급하여 'あります' 사용",
+          "로봇, 인형 등 움직이지 않는 것은 'あります'",
+          "택시(승객이 탄)는 'います'로 쓰기도 함"
+        ]
+      },
+      "conjugation": {
+        "polite_positive_inanimate": {
+          "form": "あります",
+          "meaning": "있습니다 (무생물)"
+        },
+        "polite_positive_animate": {
+          "form": "います",
+          "meaning": "있습니다 (생물)"
+        },
+        "polite_negative_inanimate": {
+          "form": "ありません",
+          "meaning": "없습니다 (무생물)"
+        },
+        "polite_negative_animate": {
+          "form": "いません",
+          "meaning": "없습니다 (생물)"
+        },
+        "casual_positive_inanimate": {
+          "form": "ある",
+          "meaning": "있어 (무생물)"
+        },
+        "casual_positive_animate": {
+          "form": "いる",
+          "meaning": "있어 (생물)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "机の上に本があります。",
+          "reading": "つくえのうえにほんがあります。",
+          "ko": "책상 위에 책이 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "教室に学生がいます。",
+          "reading": "きょうしつにがくせいがいます。",
+          "ko": "교실에 학생이 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "庭に猫がいます。",
+          "reading": "にわにねこがいます。",
+          "ko": "정원에 고양이가 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "公園に犬が＿＿＿。",
+          "options": [
+            "あります",
+            "います",
+            "です",
+            "ます"
+          ],
+          "answer": "います",
+          "explanation": "犬(개)는 생물이므로 'います'를 사용합니다."
+        },
+        {
+          "type": "choice",
+          "question": "部屋にテレビが＿＿＿。",
+          "options": [
+            "あります",
+            "います",
+            "です",
+            "ます"
+          ],
+          "answer": "あります",
+          "explanation": "テレビ(TV)는 무생물이므로 'あります'를 사용합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001",
+        "n5_005"
+      ],
+      "relatedKanji": [
+        "机",
+        "上",
+        "本",
+        "教",
+        "室"
+      ],
+      "tags": [
+        "기초",
+        "존재",
+        "あります",
+        "います"
+      ]
+    },
+    {
+      "id": "n5_004",
+      "pattern": "〜を〜ます",
+      "patternReading": "〜を〜ます",
+      "meaning": "~을/를 ~합니다",
+      "jlpt": "N5",
+      "category": "동사",
+      "order": 4,
+      "explanation": {
+        "summary": "타동사 문장의 기본형. 목적어를 나타내는 'を'와 동사의 정중형 'ます'",
+        "detail": "'を'는 동작의 대상(목적어)을 나타내는 조사입니다. 동사의 'ます형'은 정중한 표현입니다.",
+        "koreanComparison": "한국어 '~을/를 ~합니다'와 동일한 구조입니다.",
+        "commonMistakes": [
+          "'を'는 'お'로 발음하지만 조사로 쓸 때는 'を'로 표기",
+          "자동사에는 'を' 사용 불가 (예: 行きます에는 を가 아닌 に/へ)"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": {
+          "form": "〜ます",
+          "meaning": "~합니다"
+        },
+        "polite_negative": {
+          "form": "〜ません",
+          "meaning": "~하지 않습니다"
+        },
+        "polite_past": {
+          "form": "〜ました",
+          "meaning": "~했습니다"
+        },
+        "polite_past_negative": {
+          "form": "〜ませんでした",
+          "meaning": "~하지 않았습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "本を読みます。",
+          "reading": "ほんをよみます。",
+          "ko": "책을 읽습니다.",
+          "audio": null
+        },
+        {
+          "ja": "朝ごはんを食べます。",
+          "reading": "あさごはんをたべます。",
+          "ko": "아침밥을 먹습니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本語を勉強します。",
+          "reading": "にほんごをべんきょうします。",
+          "ko": "일본어를 공부합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "コーヒー＿＿飲みます。",
+          "options": [
+            "を",
+            "は",
+            "が",
+            "に"
+          ],
+          "answer": "を",
+          "explanation": "飲みます(마십니다)의 목적어이므로 'を'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "음악을 듣습니다.",
+          "answer": "音楽を聞きます。",
+          "acceptableAnswers": [
+            "おんがくをききます。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001",
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "本",
+        "読",
+        "食",
+        "勉",
+        "強"
+      ],
+      "tags": [
+        "기초",
+        "동사",
+        "조사",
+        "목적어"
+      ]
+    },
+    {
+      "id": "n5_005",
+      "pattern": "〜に行きます／来ます／帰ります",
+      "patternReading": "〜にいきます／きます／かえります",
+      "meaning": "~에 갑니다/옵니다/돌아갑니다",
+      "jlpt": "N5",
+      "category": "이동",
+      "order": 5,
+      "explanation": {
+        "summary": "이동의 목적지를 나타내는 표현. 장소 + に + 이동동사",
+        "detail": "'に'는 이동의 도착점(목적지)을 나타냅니다. '行きます(갑니다)', '来ます(옵니다)', '帰ります(돌아갑니다)' 등의 이동 동사와 함께 사용합니다.",
+        "koreanComparison": "한국어 '~에 가다'와 동일합니다. 'へ'도 같은 의미로 사용 가능합니다.",
+        "commonMistakes": [
+          "'に'와 'へ'는 이동 동사와 함께 쓸 때 거의 같은 의미",
+          "'で'(수단/장소)와 혼동하지 않기"
+        ]
+      },
+      "conjugation": {
+        "go_polite": {
+          "form": "行きます",
+          "meaning": "갑니다"
+        },
+        "come_polite": {
+          "form": "来ます",
+          "meaning": "옵니다"
+        },
+        "return_polite": {
+          "form": "帰ります",
+          "meaning": "돌아갑니다"
+        },
+        "go_negative": {
+          "form": "行きません",
+          "meaning": "가지 않습니다"
+        },
+        "go_past": {
+          "form": "行きました",
+          "meaning": "갔습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "学校に行きます。",
+          "reading": "がっこうにいきます。",
+          "ko": "학교에 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本に来ました。",
+          "reading": "にほんにきました。",
+          "ko": "일본에 왔습니다.",
+          "audio": null
+        },
+        {
+          "ja": "家に帰ります。",
+          "reading": "いえにかえります。",
+          "ko": "집에 돌아갑니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "明日、東京＿＿行きます。",
+          "options": [
+            "に",
+            "を",
+            "で",
+            "は"
+          ],
+          "answer": "に",
+          "explanation": "이동의 목적지를 나타내므로 'に'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "어제 회사에 갔습니다.",
+          "answer": "昨日、会社に行きました。",
+          "acceptableAnswers": [
+            "きのう、かいしゃにいきました。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_003",
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "行",
+        "来",
+        "帰",
+        "学",
+        "校"
+      ],
+      "tags": [
+        "기초",
+        "이동",
+        "동사",
+        "조사"
+      ]
+    },
+    {
+      "id": "n5_006",
+      "pattern": "〜たいです",
+      "patternReading": "〜たいです",
+      "meaning": "~고 싶습니다",
+      "jlpt": "N5",
+      "category": "희망",
+      "order": 6,
+      "explanation": {
+        "summary": "화자의 희망/욕구를 나타내는 표현. 동사 ます형 어간 + たい",
+        "detail": "'たい'는 동사의 ます형에서 'ます'를 빼고 붙입니다. 1인칭(나)의 희망만 표현하며, 타인의 희망은 '〜たがっています'를 사용합니다.",
+        "koreanComparison": "한국어 '~고 싶다'와 동일합니다.",
+        "commonMistakes": [
+          "3인칭에게는 'たい'를 직접 사용하지 않음",
+          "'たい'는 い형용사처럼 활용 (たくない, たかった)"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": {
+          "form": "〜たいです",
+          "meaning": "~고 싶습니다"
+        },
+        "polite_negative": {
+          "form": "〜たくないです",
+          "meaning": "~고 싶지 않습니다"
+        },
+        "polite_past": {
+          "form": "〜たかったです",
+          "meaning": "~고 싶었습니다"
+        },
+        "casual_positive": {
+          "form": "〜たい",
+          "meaning": "~고 싶어"
+        },
+        "casual_negative": {
+          "form": "〜たくない",
+          "meaning": "~고 싶지 않아"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本に行きたいです。",
+          "reading": "にほんにいきたいです。",
+          "ko": "일본에 가고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "寿司を食べたいです。",
+          "reading": "すしをたべたいです。",
+          "ko": "초밥을 먹고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "新しい車を買いたいです。",
+          "reading": "あたらしいくるまをかいたいです。",
+          "ko": "새 차를 사고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲みます → 희망형으로",
+          "answer": "飲みたいです",
+          "acceptableAnswers": [
+            "のみたいです"
+          ]
+        },
+        {
+          "type": "translate",
+          "question": "영화를 보고 싶습니다.",
+          "answer": "映画を見たいです。",
+          "acceptableAnswers": [
+            "えいがをみたいです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "行",
+        "食",
+        "買",
+        "見"
+      ],
+      "tags": [
+        "희망",
+        "동사",
+        "1인칭"
+      ]
+    },
+    {
+      "id": "n5_007",
+      "pattern": "〜てください",
+      "patternReading": "〜てください",
+      "meaning": "~해 주세요",
+      "jlpt": "N5",
+      "category": "의뢰",
+      "order": 7,
+      "explanation": {
+        "summary": "정중한 의뢰/부탁을 나타내는 표현. 동사 て형 + ください",
+        "detail": "'てください'는 상대방에게 정중하게 부탁할 때 사용합니다. 동사를 て형으로 바꾸고 'ください'를 붙입니다.",
+        "koreanComparison": "한국어 '~해 주세요'와 동일합니다.",
+        "commonMistakes": [
+          "て형 변환 규칙 숙지 필요 (5단/1단/불규칙 동사)",
+          "더 정중하게는 'ていただけませんか'"
+        ]
+      },
+      "conjugation": {
+        "group1_u": {
+          "form": "買う → 買ってください",
+          "meaning": "사 주세요"
+        },
+        "group1_ku": {
+          "form": "書く → 書いてください",
+          "meaning": "써 주세요"
+        },
+        "group1_gu": {
+          "form": "泳ぐ → 泳いでください",
+          "meaning": "수영해 주세요"
+        },
+        "group1_su": {
+          "form": "話す → 話してください",
+          "meaning": "말해 주세요"
+        },
+        "group1_tsu": {
+          "form": "待つ → 待ってください",
+          "meaning": "기다려 주세요"
+        },
+        "group1_nu": {
+          "form": "死ぬ → 死んでください",
+          "meaning": "죽어 주세요"
+        },
+        "group1_bu": {
+          "form": "遊ぶ → 遊んでください",
+          "meaning": "놀아 주세요"
+        },
+        "group1_mu": {
+          "form": "読む → 読んでください",
+          "meaning": "읽어 주세요"
+        },
+        "group1_ru": {
+          "form": "帰る → 帰ってください",
+          "meaning": "돌아가 주세요"
+        },
+        "group2": {
+          "form": "食べる → 食べてください",
+          "meaning": "먹어 주세요"
+        },
+        "irregular_suru": {
+          "form": "する → してください",
+          "meaning": "해 주세요"
+        },
+        "irregular_kuru": {
+          "form": "来る → 来てください",
+          "meaning": "와 주세요"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ここに名前を書いてください。",
+          "reading": "ここになまえをかいてください。",
+          "ko": "여기에 이름을 써 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "写真を撮ってください。",
+          "reading": "しゃしんをとってください。",
+          "ko": "사진을 찍어 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "ちょっと待ってください。",
+          "reading": "ちょっとまってください。",
+          "ko": "잠깐 기다려 주세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "見ます → 의뢰형으로",
+          "answer": "見てください",
+          "acceptableAnswers": [
+            "みてください"
+          ]
+        },
+        {
+          "type": "fill_blank",
+          "question": "日本語で＿＿＿＿ください。(話す)",
+          "options": [
+            "話して",
+            "話し",
+            "話す",
+            "話した"
+          ],
+          "answer": "話して",
+          "explanation": "話す의 て형은 話して입니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_008",
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "書",
+        "写",
+        "真",
+        "待"
+      ],
+      "tags": [
+        "의뢰",
+        "て형",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_008",
+      "pattern": "〜ている",
+      "patternReading": "〜ている",
+      "meaning": "~하고 있다 / ~해 있다",
+      "jlpt": "N5",
+      "category": "진행/상태",
+      "order": 8,
+      "explanation": {
+        "summary": "동작의 진행 또는 결과 상태를 나타내는 표현. 동사 て형 + いる",
+        "detail": "'ている'은 두 가지 의미가 있습니다: 1) 동작의 진행 (~하고 있다), 2) 결과 상태의 지속 (~해 있다). 동사의 종류에 따라 의미가 달라집니다.",
+        "koreanComparison": "한국어 '~하고 있다'와 비슷하지만, 상태 지속의 의미도 포함합니다.",
+        "commonMistakes": [
+          "住んでいます(살고 있습니다)는 진행이 아닌 상태",
+          "知っています(알고 있습니다)는 상태 (진행형 아님)",
+          "구어체에서는 'てる'로 축약"
+        ]
+      },
+      "conjugation": {
+        "polite_positive": {
+          "form": "〜ています",
+          "meaning": "~하고 있습니다"
+        },
+        "polite_negative": {
+          "form": "〜ていません",
+          "meaning": "~하고 있지 않습니다"
+        },
+        "casual_positive": {
+          "form": "〜ている/てる",
+          "meaning": "~하고 있어"
+        },
+        "casual_negative": {
+          "form": "〜ていない/てない",
+          "meaning": "~하고 있지 않아"
+        }
+      },
+      "examples": [
+        {
+          "ja": "今、本を読んでいます。",
+          "reading": "いま、ほんをよんでいます。",
+          "ko": "지금 책을 읽고 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは東京に住んでいます。",
+          "reading": "たなかさんはとうきょうにすんでいます。",
+          "ko": "다나카 씨는 도쿄에 살고 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "窓が開いています。",
+          "reading": "まどがあいています。",
+          "ko": "창문이 열려 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "食べます → 진행형으로",
+          "answer": "食べています",
+          "acceptableAnswers": [
+            "たべています"
+          ]
+        },
+        {
+          "type": "choice",
+          "question": "「結婚しています」의 의미는?",
+          "options": [
+            "결혼하고 있는 중이다",
+            "결혼한 상태이다",
+            "결혼할 것이다",
+            "결혼했었다"
+          ],
+          "answer": "결혼한 상태이다",
+          "explanation": "結婚する는 순간 동사이므로 'ている'은 결과 상태를 나타냅니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_007",
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "読",
+        "住",
+        "開"
+      ],
+      "tags": [
+        "진행",
+        "상태",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_009",
+      "pattern": "〜た（過去形）",
+      "patternReading": "〜た（かこけい）",
+      "meaning": "~했다",
+      "jlpt": "N5",
+      "category": "과거",
+      "order": 9,
+      "explanation": {
+        "summary": "동사의 과거형. 'た'는 동사 て형에서 'て'를 'た'로, 'で'를 'だ'로 바꿈",
+        "detail": "동사의 た형(과거형)은 て형 변환 규칙과 같습니다. 'て→た', 'で→だ'로 바꾸면 됩니다. 정중형은 'ました'를 사용합니다.",
+        "koreanComparison": "한국어 '~했다'와 동일합니다.",
+        "commonMistakes": [
+          "た형은 て형 변환을 알면 쉽게 만들 수 있음",
+          "정중형(ました)과 보통형(た)의 사용 구분"
+        ]
+      },
+      "conjugation": {
+        "group1_u": {
+          "form": "買う → 買った",
+          "meaning": "샀다"
+        },
+        "group1_ku": {
+          "form": "書く → 書いた",
+          "meaning": "썼다"
+        },
+        "group1_gu": {
+          "form": "泳ぐ → 泳いだ",
+          "meaning": "수영했다"
+        },
+        "group1_su": {
+          "form": "話す → 話した",
+          "meaning": "말했다"
+        },
+        "group1_tsu": {
+          "form": "待つ → 待った",
+          "meaning": "기다렸다"
+        },
+        "group1_mu": {
+          "form": "読む → 読んだ",
+          "meaning": "읽었다"
+        },
+        "group2": {
+          "form": "食べる → 食べた",
+          "meaning": "먹었다"
+        },
+        "irregular_suru": {
+          "form": "する → した",
+          "meaning": "했다"
+        },
+        "irregular_kuru": {
+          "form": "来る → 来た",
+          "meaning": "왔다"
+        },
+        "polite": {
+          "form": "〜ました",
+          "meaning": "~했습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "昨日、映画を見ました。",
+          "reading": "きのう、えいがをみました。",
+          "ko": "어제 영화를 봤습니다.",
+          "audio": null
+        },
+        {
+          "ja": "朝ごはんを食べた。",
+          "reading": "あさごはんをたべた。",
+          "ko": "아침밥을 먹었다.",
+          "audio": null
+        },
+        {
+          "ja": "友達が日本から来ました。",
+          "reading": "ともだちがにほんからきました。",
+          "ko": "친구가 일본에서 왔습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲みます → 과거형으로",
+          "answer": "飲みました",
+          "acceptableAnswers": [
+            "のみました"
+          ]
+        },
+        {
+          "type": "convert",
+          "question": "行く → た형으로",
+          "answer": "行った",
+          "acceptableAnswers": [
+            "いった"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "昨",
+        "日",
+        "映",
+        "画",
+        "見"
+      ],
+      "tags": [
+        "과거",
+        "동사",
+        "활용"
+      ]
+    },
+    {
+      "id": "n5_010",
+      "pattern": "〜から（理由）",
+      "patternReading": "〜から（りゆう）",
+      "meaning": "~때문에, ~이니까",
+      "jlpt": "N5",
+      "category": "이유",
+      "order": 10,
+      "explanation": {
+        "summary": "이유/원인을 나타내는 표현. 문장 + から",
+        "detail": "'から'는 이유를 나타내는 접속조사입니다. 정중형(です/ます) 뒤에도, 보통형 뒤에도 붙을 수 있습니다. 'ので'보다 직접적이고 주관적인 이유를 나타냅니다.",
+        "koreanComparison": "한국어 '~때문에', '~이니까', '~이라서'와 유사합니다.",
+        "commonMistakes": [
+          "'から'는 주관적, 'ので'는 객관적 이유 (N4에서 배움)",
+          "문말에 'から'가 오면 '~거든요'의 뉘앙스"
+        ]
+      },
+      "conjugation": {
+        "with_desu": {
+          "form": "〜ですから",
+          "meaning": "~이니까 (정중)"
+        },
+        "with_masu": {
+          "form": "〜ますから",
+          "meaning": "~하니까 (정중)"
+        },
+        "with_da": {
+          "form": "〜だから",
+          "meaning": "~이니까 (보통)"
+        },
+        "with_plain": {
+          "form": "〜から",
+          "meaning": "~하니까"
+        },
+        "sentence_end": {
+          "form": "〜からです",
+          "meaning": "~때문입니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "暑いですから、窓を開けてください。",
+          "reading": "あついですから、まどをあけてください。",
+          "ko": "더우니까 창문을 열어 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "時間がないから、タクシーで行きます。",
+          "reading": "じかんがないから、タクシーでいきます。",
+          "ko": "시간이 없어서 택시로 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "どうして遅刻しましたか。—電車が遅れたからです。",
+          "reading": "どうしておそくしましたか。—でんしゃがおくれたからです。",
+          "ko": "왜 지각했습니까? —전철이 늦어서입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "疲れた＿＿、早く寝ます。",
+          "options": [
+            "から",
+            "ので",
+            "けど",
+            "が"
+          ],
+          "answer": "から",
+          "explanation": "이유를 나타내는 'から'가 적절합니다."
+        },
+        {
+          "type": "translate",
+          "question": "바쁘니까 갈 수 없습니다.",
+          "answer": "忙しいですから、行けません。",
+          "acceptableAnswers": [
+            "いそがしいですから、いけません。",
+            "忙しいから、行けません。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001",
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "暑",
+        "窓",
+        "開",
+        "時",
+        "間"
+      ],
+      "tags": [
+        "이유",
+        "접속",
+        "から"
+      ]
+    },
+    {
+      "id": "n5_011",
+      "pattern": "〜も",
+      "patternReading": "〜も",
+      "meaning": "~도",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 11,
+      "explanation": {
+        "summary": "추가/포함을 나타내는 조사. '~도'의 의미",
+        "detail": "'も'는 'は'나 'が' 대신 사용하여 '~도'라는 추가의 의미를 나타냅니다. 목적어에 사용할 때는 'を'를 대체합니다.",
+        "koreanComparison": "한국어 '~도'와 동일합니다.",
+        "commonMistakes": [
+          "'も'는 'は', 'が', 'を'를 대체함",
+          "'に'나 'で' 뒤에는 'にも', 'でも'로 사용"
+        ]
+      },
+      "conjugation": {
+        "subject": {
+          "form": "〜も",
+          "meaning": "~도"
+        },
+        "with_ni": {
+          "form": "〜にも",
+          "meaning": "~에도"
+        },
+        "with_de": {
+          "form": "〜でも",
+          "meaning": "~에서도/~로도"
+        }
+      },
+      "examples": [
+        {
+          "ja": "私も学生です。",
+          "reading": "わたしもがくせいです。",
+          "ko": "저도 학생입니다.",
+          "audio": null
+        },
+        {
+          "ja": "コーヒーも紅茶も好きです。",
+          "reading": "コーヒーもこうちゃもすきです。",
+          "ko": "커피도 홍차도 좋아합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "田中さん＿＿日本人です。",
+          "options": [
+            "も",
+            "は",
+            "が",
+            "を"
+          ],
+          "answer": "も",
+          "explanation": "다른 사람에 추가하여 '~도'의 의미이므로 'も'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001"
+      ],
+      "relatedKanji": [
+        "私",
+        "学",
+        "生"
+      ],
+      "tags": [
+        "조사",
+        "추가",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_012",
+      "pattern": "〜の",
+      "patternReading": "〜の",
+      "meaning": "~의",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 12,
+      "explanation": {
+        "summary": "소유, 소속, 관계를 나타내는 조사",
+        "detail": "'の'는 명사와 명사를 연결하여 소유, 소속, 속성 등의 관계를 나타냅니다.",
+        "koreanComparison": "한국어 '~의'와 유사하지만, 일본어에서는 더 다양한 관계에 사용됩니다.",
+        "commonMistakes": [
+          "'私の本'(나의 책)처럼 소유 표현",
+          "'日本語の本'(일본어 책)처럼 속성 표현"
+        ]
+      },
+      "conjugation": {
+        "possession": {
+          "form": "A의 B",
+          "meaning": "A의 B"
+        },
+        "attribute": {
+          "form": "명사+の+명사",
+          "meaning": "~의 ~"
+        }
+      },
+      "examples": [
+        {
+          "ja": "これは私の本です。",
+          "reading": "これはわたしのほんです。",
+          "ko": "이것은 제 책입니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本語の先生",
+          "reading": "にほんごのせんせい",
+          "ko": "일본어 선생님",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "これは田中さん＿＿かばんです。",
+          "options": [
+            "の",
+            "は",
+            "が",
+            "を"
+          ],
+          "answer": "の",
+          "explanation": "소유를 나타내므로 'の'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001"
+      ],
+      "relatedKanji": [
+        "私",
+        "本",
+        "日",
+        "本",
+        "語"
+      ],
+      "tags": [
+        "조사",
+        "소유",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_013",
+      "pattern": "〜と",
+      "patternReading": "〜と",
+      "meaning": "~와/과, ~라고",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 13,
+      "explanation": {
+        "summary": "나열(~와/과) 또는 인용(~라고)을 나타내는 조사",
+        "detail": "'と'는 1) 명사를 나열할 때 '~와/과', 2) 인용을 나타낼 때 '~라고'의 의미로 사용됩니다.",
+        "koreanComparison": "한국어 '~와/과'(나열), '~라고'(인용)에 해당합니다.",
+        "commonMistakes": [
+          "나열의 'と'는 모든 항목을 연결 (A와 B)",
+          "인용의 'と'는 '思います', '言います' 앞에 사용"
+        ]
+      },
+      "conjugation": {
+        "listing": {
+          "form": "AとB",
+          "meaning": "A와 B"
+        },
+        "quotation": {
+          "form": "〜と思います",
+          "meaning": "~라고 생각합니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ペンと鉛筆を買いました。",
+          "reading": "ペンとえんぴつをかいました。",
+          "ko": "펜과 연필을 샀습니다.",
+          "audio": null
+        },
+        {
+          "ja": "明日は雨だと思います。",
+          "reading": "あしたはあめだとおもいます。",
+          "ko": "내일은 비라고 생각합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "コーヒー＿＿紅茶、どちらがいいですか。",
+          "options": [
+            "と",
+            "も",
+            "や",
+            "か"
+          ],
+          "answer": "と",
+          "explanation": "두 가지를 나열하므로 'と'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001",
+        "n5_011"
+      ],
+      "relatedKanji": [
+        "買",
+        "明",
+        "日",
+        "雨"
+      ],
+      "tags": [
+        "조사",
+        "나열",
+        "인용"
+      ]
+    },
+    {
+      "id": "n5_014",
+      "pattern": "〜で（場所）",
+      "patternReading": "〜で（ばしょ）",
+      "meaning": "~에서 (장소)",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 14,
+      "explanation": {
+        "summary": "동작이 일어나는 장소를 나타내는 조사",
+        "detail": "'で'는 동작이 이루어지는 장소를 나타냅니다. 존재(있다)에는 'に', 동작(하다)에는 'で'를 사용합니다.",
+        "koreanComparison": "한국어 '~에서'와 동일합니다.",
+        "commonMistakes": [
+          "'に'는 존재/도착점, 'で'는 동작 장소",
+          "학교에 있다=学校にいる, 학교에서 공부한다=学校で勉強する"
+        ]
+      },
+      "conjugation": {
+        "place_action": {
+          "form": "장소+で+동사",
+          "meaning": "~에서 ~하다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "図書館で勉強します。",
+          "reading": "としょかんでべんきょうします。",
+          "ko": "도서관에서 공부합니다.",
+          "audio": null
+        },
+        {
+          "ja": "レストランで食べました。",
+          "reading": "レストランでたべました。",
+          "ko": "레스토랑에서 먹었습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "公園＿＿遊びます。",
+          "options": [
+            "で",
+            "に",
+            "を",
+            "が"
+          ],
+          "answer": "で",
+          "explanation": "동작(놀다)의 장소이므로 'で'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_003",
+        "n5_005"
+      ],
+      "relatedKanji": [
+        "図",
+        "書",
+        "館",
+        "勉",
+        "強"
+      ],
+      "tags": [
+        "조사",
+        "장소",
+        "동작"
+      ]
+    },
+    {
+      "id": "n5_015",
+      "pattern": "〜で（手段）",
+      "patternReading": "〜で（しゅだん）",
+      "meaning": "~으로 (수단/방법)",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 15,
+      "explanation": {
+        "summary": "수단, 방법, 재료를 나타내는 조사",
+        "detail": "'で'는 동작의 수단이나 방법을 나타냅니다. 교통수단, 도구, 언어 등에 사용합니다.",
+        "koreanComparison": "한국어 '~으로', '~(으)로'와 동일합니다.",
+        "commonMistakes": [
+          "バスで行く(버스로 가다)",
+          "箸で食べる(젓가락으로 먹다)",
+          "日本語で話す(일본어로 말하다)"
+        ]
+      },
+      "conjugation": {
+        "means": {
+          "form": "수단+で+동사",
+          "meaning": "~으로 ~하다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "電車で会社に行きます。",
+          "reading": "でんしゃでかいしゃにいきます。",
+          "ko": "전철로 회사에 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本語で話してください。",
+          "reading": "にほんごではなしてください。",
+          "ko": "일본어로 말해 주세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "箸＿＿ご飯を食べます。",
+          "options": [
+            "で",
+            "を",
+            "に",
+            "が"
+          ],
+          "answer": "で",
+          "explanation": "수단(젓가락으로)을 나타내므로 'で'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_014"
+      ],
+      "relatedKanji": [
+        "電",
+        "車",
+        "会",
+        "社",
+        "日",
+        "本",
+        "語"
+      ],
+      "tags": [
+        "조사",
+        "수단",
+        "방법"
+      ]
+    },
+    {
+      "id": "n5_016",
+      "pattern": "〜に（時間）",
+      "patternReading": "〜に（じかん）",
+      "meaning": "~에 (시간)",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 16,
+      "explanation": {
+        "summary": "특정 시간/날짜를 나타내는 조사",
+        "detail": "'に'는 특정 시점을 나타낼 때 사용합니다. 단, 今日, 明日, 来週 등 상대적 시간에는 사용하지 않습니다.",
+        "koreanComparison": "한국어 '~에'와 동일합니다.",
+        "commonMistakes": [
+          "7時に起きる(7시에 일어나다) - 'に' 필요",
+          "明日会う(내일 만나다) - 'に' 불필요",
+          "月曜日に行く(월요일에 가다) - 'に' 선택적"
+        ]
+      },
+      "conjugation": {
+        "time_point": {
+          "form": "시간+に+동사",
+          "meaning": "~에 ~하다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "7時に起きます。",
+          "reading": "しちじにおきます。",
+          "ko": "7시에 일어납니다.",
+          "audio": null
+        },
+        {
+          "ja": "3月に日本に行きます。",
+          "reading": "さんがつににほんにいきます。",
+          "ko": "3월에 일본에 갑니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "毎朝6時＿＿起きます。",
+          "options": [
+            "に",
+            "で",
+            "を",
+            "は"
+          ],
+          "answer": "に",
+          "explanation": "특정 시간을 나타내므로 'に'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_005"
+      ],
+      "relatedKanji": [
+        "時",
+        "起",
+        "月",
+        "日",
+        "本"
+      ],
+      "tags": [
+        "조사",
+        "시간",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_017",
+      "pattern": "〜や〜など",
+      "patternReading": "〜や〜など",
+      "meaning": "~나 ~ 등",
+      "jlpt": "N5",
+      "category": "조사",
+      "order": 17,
+      "explanation": {
+        "summary": "예시를 나열할 때 사용하는 표현",
+        "detail": "'や'는 예시를 들 때 사용하며, 나열하지 않은 다른 것들도 있음을 암시합니다. 'と'와 달리 불완전한 나열입니다.",
+        "koreanComparison": "한국어 '~나 ~ 등'과 동일합니다.",
+        "commonMistakes": [
+          "'と'는 전부 나열, 'や'는 예시만 나열",
+          "'など'는 생략 가능하지만 있으면 더 명확"
+        ]
+      },
+      "conjugation": {
+        "example_list": {
+          "form": "AやBなど",
+          "meaning": "A나 B 등"
+        }
+      },
+      "examples": [
+        {
+          "ja": "りんごやみかんなどを買いました。",
+          "reading": "りんごやみかんなどをかいました。",
+          "ko": "사과나 귤 등을 샀습니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本や韓国や中国に行きたいです。",
+          "reading": "にほんやかんこくやちゅうごくにいきたいです。",
+          "ko": "일본이나 한국이나 중국에 가고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "本＿＿雑誌などを読みます。",
+          "options": [
+            "や",
+            "と",
+            "も",
+            "か"
+          ],
+          "answer": "や",
+          "explanation": "예시를 나열하므로 'や'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_013"
+      ],
+      "relatedKanji": [
+        "買",
+        "日",
+        "本",
+        "韓",
+        "国"
+      ],
+      "tags": [
+        "조사",
+        "예시",
+        "나열"
+      ]
+    },
+    {
+      "id": "n5_018",
+      "pattern": "〜か（疑問）",
+      "patternReading": "〜か（ぎもん）",
+      "meaning": "~입니까? (의문)",
+      "jlpt": "N5",
+      "category": "종조사",
+      "order": 18,
+      "explanation": {
+        "summary": "의문문을 만드는 종조사",
+        "detail": "'か'는 문장 끝에 붙여 의문문을 만듭니다. 정중체에서는 억양 상승 없이도 의문 표현이 됩니다.",
+        "koreanComparison": "한국어 '~입니까?', '~합니까?'에 해당합니다.",
+        "commonMistakes": [
+          "정중체: です/ます+か",
+          "반말체: 억양만으로도 의문 가능",
+          "'か'와 '?'를 함께 쓰지 않는 것이 전통적"
+        ]
+      },
+      "conjugation": {
+        "polite_question": {
+          "form": "〜ですか",
+          "meaning": "~입니까?"
+        },
+        "verb_question": {
+          "form": "〜ますか",
+          "meaning": "~합니까?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "これは何ですか。",
+          "reading": "これはなんですか。",
+          "ko": "이것은 무엇입니까?",
+          "audio": null
+        },
+        {
+          "ja": "日本語を話しますか。",
+          "reading": "にほんごをはなしますか。",
+          "ko": "일본어를 말합니까?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "これは本です。→ 의문문으로",
+          "answer": "これは本ですか。",
+          "acceptableAnswers": [
+            "これはほんですか。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001"
+      ],
+      "relatedKanji": [
+        "何",
+        "日",
+        "本",
+        "語",
+        "話"
+      ],
+      "tags": [
+        "종조사",
+        "의문",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_019",
+      "pattern": "〜ね",
+      "patternReading": "〜ね",
+      "meaning": "~네요, ~죠",
+      "jlpt": "N5",
+      "category": "종조사",
+      "order": 19,
+      "explanation": {
+        "summary": "동의 확인, 감탄을 나타내는 종조사",
+        "detail": "'ね'는 상대방의 동의를 구하거나 감탄을 표현할 때 사용합니다. 부드러운 느낌을 줍니다.",
+        "koreanComparison": "한국어 '~네요', '~죠'와 유사합니다.",
+        "commonMistakes": [
+          "상대방과 공유하는 정보에 사용",
+          "자신만 아는 정보에는 부적절"
+        ]
+      },
+      "conjugation": {
+        "agreement": {
+          "form": "〜ですね",
+          "meaning": "~네요/~이죠"
+        },
+        "exclamation": {
+          "form": "〜ね",
+          "meaning": "~네"
+        }
+      },
+      "examples": [
+        {
+          "ja": "今日は暑いですね。",
+          "reading": "きょうはあついですね。",
+          "ko": "오늘은 덥네요.",
+          "audio": null
+        },
+        {
+          "ja": "この料理はおいしいですね。",
+          "reading": "このりょうりはおいしいですね。",
+          "ko": "이 요리는 맛있네요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "「きれいですね」는 어떤 상황에서 사용하나요?",
+          "options": [
+            "상대와 함께 보면서 감탄할 때",
+            "혼자 말할 때",
+            "질문할 때",
+            "부정할 때"
+          ],
+          "answer": "상대와 함께 보면서 감탄할 때",
+          "explanation": "'ね'는 상대와 공유하는 상황에서 동의/감탄을 표현합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_020"
+      ],
+      "relatedKanji": [
+        "今",
+        "日",
+        "暑",
+        "料",
+        "理"
+      ],
+      "tags": [
+        "종조사",
+        "동의",
+        "감탄"
+      ]
+    },
+    {
+      "id": "n5_020",
+      "pattern": "〜よ",
+      "patternReading": "〜よ",
+      "meaning": "~요 (강조/알림)",
+      "jlpt": "N5",
+      "category": "종조사",
+      "order": 20,
+      "explanation": {
+        "summary": "정보 전달, 강조를 나타내는 종조사",
+        "detail": "'よ'는 상대방이 모르는 정보를 알려주거나 강조할 때 사용합니다.",
+        "koreanComparison": "한국어 '~(이)요', '~거든요'와 유사합니다.",
+        "commonMistakes": [
+          "'ね'와 반대로 상대방이 모르는 정보에 사용",
+          "'よ'를 너무 자주 쓰면 강압적으로 들릴 수 있음"
+        ]
+      },
+      "conjugation": {
+        "inform": {
+          "form": "〜ですよ",
+          "meaning": "~이에요 (알림)"
+        },
+        "emphasis": {
+          "form": "〜よ",
+          "meaning": "~야 (강조)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この本は面白いですよ。",
+          "reading": "このほんはおもしろいですよ。",
+          "ko": "이 책은 재미있어요.",
+          "audio": null
+        },
+        {
+          "ja": "明日は休みですよ。",
+          "reading": "あしたはやすみですよ。",
+          "ko": "내일은 휴일이에요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "친구에게 새로운 정보를 알려줄 때 어떤 종조사를 쓰나요?",
+          "options": [
+            "よ",
+            "ね",
+            "か",
+            "な"
+          ],
+          "answer": "よ",
+          "explanation": "'よ'는 상대방이 모르는 정보를 알려줄 때 사용합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_019"
+      ],
+      "relatedKanji": [
+        "本",
+        "面",
+        "白",
+        "明",
+        "日"
+      ],
+      "tags": [
+        "종조사",
+        "강조",
+        "알림"
+      ]
+    },
+    {
+      "id": "n5_021",
+      "pattern": "い形容詞",
+      "patternReading": "いけいようし",
+      "meaning": "い형용사 활용",
+      "jlpt": "N5",
+      "category": "형용사",
+      "order": 21,
+      "explanation": {
+        "summary": "い로 끝나는 형용사의 기본 활용",
+        "detail": "い형용사는 い로 끝나며, 활용 시 い를 빼고 다른 어미를 붙입니다.",
+        "koreanComparison": "한국어 형용사 '크다, 작다'처럼 활용하지만 어미 변화가 다릅니다.",
+        "commonMistakes": [
+          "きれい, 有名 등은 な형용사임 (い로 끝나도)",
+          "い→く (부정/연결), い→かった (과거)"
+        ]
+      },
+      "conjugation": {
+        "present_positive": {
+          "form": "〜い",
+          "meaning": "~다"
+        },
+        "present_negative": {
+          "form": "〜くない",
+          "meaning": "~지 않다"
+        },
+        "past_positive": {
+          "form": "〜かった",
+          "meaning": "~았/었다"
+        },
+        "past_negative": {
+          "form": "〜くなかった",
+          "meaning": "~지 않았다"
+        },
+        "te_form": {
+          "form": "〜くて",
+          "meaning": "~고/~해서"
+        },
+        "adverb": {
+          "form": "〜く",
+          "meaning": "~게"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この本は面白いです。",
+          "reading": "このほんはおもしろいです。",
+          "ko": "이 책은 재미있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "昨日は暑くなかったです。",
+          "reading": "きのうはあつくなかったです。",
+          "ko": "어제는 덥지 않았습니다.",
+          "audio": null
+        },
+        {
+          "ja": "この部屋は広くて明るいです。",
+          "reading": "このへやはひろくてあかるいです。",
+          "ko": "이 방은 넓고 밝습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "高い → 부정형",
+          "answer": "高くない",
+          "acceptableAnswers": [
+            "たかくない"
+          ]
+        },
+        {
+          "type": "convert",
+          "question": "寒い → 과거형",
+          "answer": "寒かった",
+          "acceptableAnswers": [
+            "さむかった"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_022"
+      ],
+      "relatedKanji": [
+        "面",
+        "白",
+        "暑",
+        "広",
+        "明"
+      ],
+      "tags": [
+        "형용사",
+        "활용",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_022",
+      "pattern": "な形容詞",
+      "patternReading": "なけいようし",
+      "meaning": "な형용사 활용",
+      "jlpt": "N5",
+      "category": "형용사",
+      "order": 22,
+      "explanation": {
+        "summary": "명사 수식 시 な를 붙이는 형용사",
+        "detail": "な형용사(형용동사)는 명사를 수식할 때 'な'를 붙입니다. 활용은 명사와 비슷합니다.",
+        "koreanComparison": "한국어의 '조용하다, 유명하다'와 같이 활용합니다.",
+        "commonMistakes": [
+          "きれい(예쁜), 有名(유명한)은 な형용사",
+          "명사 수식: 静かな部屋 (조용한 방)"
+        ]
+      },
+      "conjugation": {
+        "present_positive": {
+          "form": "〜だ/です",
+          "meaning": "~다/~입니다"
+        },
+        "present_negative": {
+          "form": "〜ではない/じゃない",
+          "meaning": "~이 아니다"
+        },
+        "past_positive": {
+          "form": "〜だった/でした",
+          "meaning": "~이었다/~였습니다"
+        },
+        "past_negative": {
+          "form": "〜ではなかった",
+          "meaning": "~이 아니었다"
+        },
+        "te_form": {
+          "form": "〜で",
+          "meaning": "~이고/~해서"
+        },
+        "noun_modifier": {
+          "form": "〜な+명사",
+          "meaning": "~한 명사"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この町は静かです。",
+          "reading": "このまちはしずかです。",
+          "ko": "이 마을은 조용합니다.",
+          "audio": null
+        },
+        {
+          "ja": "彼は有名な歌手です。",
+          "reading": "かれはゆうめいなかしゅです。",
+          "ko": "그는 유명한 가수입니다.",
+          "audio": null
+        },
+        {
+          "ja": "部屋はきれいで広いです。",
+          "reading": "へやはきれいでひろいです。",
+          "ko": "방은 깨끗하고 넓습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "元気 → 부정형",
+          "answer": "元気ではない",
+          "acceptableAnswers": [
+            "げんきではない",
+            "元気じゃない"
+          ]
+        },
+        {
+          "type": "fill_blank",
+          "question": "静か＿＿場所が好きです。",
+          "options": [
+            "な",
+            "の",
+            "に",
+            "で"
+          ],
+          "answer": "な",
+          "explanation": "な형용사가 명사를 수식할 때 'な'를 붙입니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_021"
+      ],
+      "relatedKanji": [
+        "静",
+        "町",
+        "有",
+        "名",
+        "歌"
+      ],
+      "tags": [
+        "형용사",
+        "활용",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_023",
+      "pattern": "〜くなります",
+      "patternReading": "〜くなります",
+      "meaning": "~해지다 (い형용사 변화)",
+      "jlpt": "N5",
+      "category": "변화",
+      "order": 23,
+      "explanation": {
+        "summary": "い형용사의 상태 변화를 나타내는 표현",
+        "detail": "い형용사의 い를 く로 바꾸고 なります를 붙여 변화를 표현합니다.",
+        "koreanComparison": "한국어 '~해지다'와 동일합니다.",
+        "commonMistakes": [
+          "寒い→寒くなる (추워지다)",
+          "よい→よくなる (좋아지다, 예외)"
+        ]
+      },
+      "conjugation": {
+        "become": {
+          "form": "〜くなります",
+          "meaning": "~해집니다"
+        },
+        "became": {
+          "form": "〜くなりました",
+          "meaning": "~해졌습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "天気が暖かくなりました。",
+          "reading": "てんきがあたたかくなりました。",
+          "ko": "날씨가 따뜻해졌습니다.",
+          "audio": null
+        },
+        {
+          "ja": "日本語が上手になりたいです。",
+          "reading": "にほんごがじょうずになりたいです。",
+          "ko": "일본어를 잘하고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "寒い → 변화형",
+          "answer": "寒くなります",
+          "acceptableAnswers": [
+            "さむくなります"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_021",
+        "n5_024"
+      ],
+      "relatedKanji": [
+        "天",
+        "気",
+        "暖",
+        "日",
+        "本"
+      ],
+      "tags": [
+        "변화",
+        "형용사",
+        "なる"
+      ]
+    },
+    {
+      "id": "n5_024",
+      "pattern": "〜になります",
+      "patternReading": "〜になります",
+      "meaning": "~이/가 되다 (명사/な형용사 변화)",
+      "jlpt": "N5",
+      "category": "변화",
+      "order": 24,
+      "explanation": {
+        "summary": "명사나 な형용사의 상태 변화를 나타내는 표현",
+        "detail": "명사나 な형용사 뒤에 に なります를 붙여 변화를 표현합니다.",
+        "koreanComparison": "한국어 '~이/가 되다'와 동일합니다.",
+        "commonMistakes": [
+          "先生になる (선생님이 되다)",
+          "静かになる (조용해지다)"
+        ]
+      },
+      "conjugation": {
+        "become_noun": {
+          "form": "명사+になります",
+          "meaning": "~이/가 됩니다"
+        },
+        "become_na_adj": {
+          "form": "な형용사+になります",
+          "meaning": "~해집니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "将来、医者になりたいです。",
+          "reading": "しょうらい、いしゃになりたいです。",
+          "ko": "장래에 의사가 되고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "部屋がきれいになりました。",
+          "reading": "へやがきれいになりました。",
+          "ko": "방이 깨끗해졌습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "大人＿＿なりました。",
+          "options": [
+            "に",
+            "く",
+            "で",
+            "を"
+          ],
+          "answer": "に",
+          "explanation": "명사의 변화는 'になります'를 사용합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_023",
+        "n5_022"
+      ],
+      "relatedKanji": [
+        "将",
+        "来",
+        "医",
+        "者",
+        "部"
+      ],
+      "tags": [
+        "변화",
+        "명사",
+        "なる"
+      ]
+    },
+    {
+      "id": "n5_025",
+      "pattern": "〜ない",
+      "patternReading": "〜ない",
+      "meaning": "~하지 않다 (동사 부정)",
+      "jlpt": "N5",
+      "category": "동사",
+      "order": 25,
+      "explanation": {
+        "summary": "동사의 부정형 (반말)",
+        "detail": "동사를 ない형으로 바꾸어 부정을 표현합니다. 그룹별로 변환 규칙이 다릅니다.",
+        "koreanComparison": "한국어 '~하지 않다', '안 ~하다'와 동일합니다.",
+        "commonMistakes": [
+          "1그룹: u→a+ない (書く→書かない)",
+          "2그룹: る→ない (食べる→食べない)",
+          "불규칙: する→しない, くる→こない"
+        ]
+      },
+      "conjugation": {
+        "group1": {
+          "form": "〜あない",
+          "meaning": "~지 않는다"
+        },
+        "group2": {
+          "form": "〜ない",
+          "meaning": "~지 않는다"
+        },
+        "suru": {
+          "form": "しない",
+          "meaning": "하지 않는다"
+        },
+        "kuru": {
+          "form": "こない",
+          "meaning": "오지 않는다"
+        },
+        "special": {
+          "form": "ある→ない",
+          "meaning": "없다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "朝ごはんを食べない。",
+          "reading": "あさごはんをたべない。",
+          "ko": "아침밥을 안 먹는다.",
+          "audio": null
+        },
+        {
+          "ja": "今日は学校に行かない。",
+          "reading": "きょうはがっこうにいかない。",
+          "ko": "오늘은 학교에 안 간다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲む → ない형",
+          "answer": "飲まない",
+          "acceptableAnswers": [
+            "のまない"
+          ]
+        },
+        {
+          "type": "convert",
+          "question": "見る → ない형",
+          "answer": "見ない",
+          "acceptableAnswers": [
+            "みない"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004",
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "朝",
+        "食",
+        "学",
+        "校",
+        "行"
+      ],
+      "tags": [
+        "동사",
+        "부정",
+        "활용"
+      ]
+    },
+    {
+      "id": "n5_026",
+      "pattern": "〜ましょう",
+      "patternReading": "〜ましょう",
+      "meaning": "~합시다 (청유)",
+      "jlpt": "N5",
+      "category": "청유",
+      "order": 26,
+      "explanation": {
+        "summary": "함께 하자고 제안하는 표현",
+        "detail": "동사 ます형에서 ます를 ましょう로 바꿔 청유를 표현합니다.",
+        "koreanComparison": "한국어 '~합시다', '~하자'와 동일합니다.",
+        "commonMistakes": [
+          "ましょう는 함께 하자는 제안",
+          "ましょうか는 도움 제안 (제가 ~할까요?)"
+        ]
+      },
+      "conjugation": {
+        "suggestion": {
+          "form": "〜ましょう",
+          "meaning": "~합시다"
+        },
+        "offer": {
+          "form": "〜ましょうか",
+          "meaning": "~할까요?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "一緒に食べましょう。",
+          "reading": "いっしょにたべましょう。",
+          "ko": "함께 먹읍시다.",
+          "audio": null
+        },
+        {
+          "ja": "荷物を持ちましょうか。",
+          "reading": "にもつをもちましょうか。",
+          "ko": "짐을 들어드릴까요?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "行きます → 청유형",
+          "answer": "行きましょう",
+          "acceptableAnswers": [
+            "いきましょう"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_027",
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "一",
+        "緒",
+        "食",
+        "荷",
+        "物"
+      ],
+      "tags": [
+        "청유",
+        "동사",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_027",
+      "pattern": "〜ませんか",
+      "patternReading": "〜ませんか",
+      "meaning": "~하지 않으시겠습니까? (권유)",
+      "jlpt": "N5",
+      "category": "권유",
+      "order": 27,
+      "explanation": {
+        "summary": "정중하게 권유하는 표현",
+        "detail": "동사 ます형에서 ます를 ませんか로 바꿔 정중한 권유를 표현합니다. ましょう보다 더 정중합니다.",
+        "koreanComparison": "한국어 '~하시겠어요?', '~하지 않으시겠어요?'와 유사합니다.",
+        "commonMistakes": [
+          "ましょう: 함께 하자 (적극적)",
+          "ませんか: 하실래요? (정중한 권유)"
+        ]
+      },
+      "conjugation": {
+        "invitation": {
+          "form": "〜ませんか",
+          "meaning": "~하시겠습니까?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "一緒に映画を見ませんか。",
+          "reading": "いっしょにえいがをみませんか。",
+          "ko": "함께 영화를 보시겠습니까?",
+          "audio": null
+        },
+        {
+          "ja": "コーヒーを飲みませんか。",
+          "reading": "コーヒーをのみませんか。",
+          "ko": "커피를 마시지 않으시겠습니까?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "食べます → 권유형",
+          "answer": "食べませんか",
+          "acceptableAnswers": [
+            "たべませんか"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_026"
+      ],
+      "relatedKanji": [
+        "一",
+        "緒",
+        "映",
+        "画",
+        "見"
+      ],
+      "tags": [
+        "권유",
+        "동사",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_028",
+      "pattern": "〜てもいいです",
+      "patternReading": "〜てもいいです",
+      "meaning": "~해도 됩니다 (허가)",
+      "jlpt": "N5",
+      "category": "허가",
+      "order": 28,
+      "explanation": {
+        "summary": "허가를 나타내거나 허가를 구하는 표현",
+        "detail": "동사 て형 + もいいです로 '해도 된다'는 허가의 의미를 나타냅니다.",
+        "koreanComparison": "한국어 '~해도 됩니다', '~해도 괜찮습니다'와 동일합니다.",
+        "commonMistakes": [
+          "てもいいですか: 해도 될까요? (허가 요청)",
+          "てもいいです: 해도 됩니다 (허가)"
+        ]
+      },
+      "conjugation": {
+        "permission": {
+          "form": "〜てもいいです",
+          "meaning": "~해도 됩니다"
+        },
+        "asking": {
+          "form": "〜てもいいですか",
+          "meaning": "~해도 될까요?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ここで写真を撮ってもいいですか。",
+          "reading": "ここでしゃしんをとってもいいですか。",
+          "ko": "여기서 사진을 찍어도 될까요?",
+          "audio": null
+        },
+        {
+          "ja": "このペンを使ってもいいですよ。",
+          "reading": "このペンをつかってもいいですよ。",
+          "ko": "이 펜을 사용해도 돼요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "入ります → 허가 요청형",
+          "answer": "入ってもいいですか",
+          "acceptableAnswers": [
+            "はいってもいいですか"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_029",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "写",
+        "真",
+        "撮",
+        "使"
+      ],
+      "tags": [
+        "허가",
+        "て형",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_029",
+      "pattern": "〜てはいけません",
+      "patternReading": "〜てはいけません",
+      "meaning": "~하면 안 됩니다 (금지)",
+      "jlpt": "N5",
+      "category": "금지",
+      "order": 29,
+      "explanation": {
+        "summary": "금지를 나타내는 표현",
+        "detail": "동사 て형 + はいけません으로 '하면 안 된다'는 금지의 의미를 나타냅니다.",
+        "koreanComparison": "한국어 '~하면 안 됩니다'와 동일합니다.",
+        "commonMistakes": [
+          "てはだめです: 구어체 금지",
+          "ないでください: 하지 말아 주세요 (부탁)"
+        ]
+      },
+      "conjugation": {
+        "prohibition": {
+          "form": "〜てはいけません",
+          "meaning": "~하면 안 됩니다"
+        },
+        "casual": {
+          "form": "〜てはだめです",
+          "meaning": "~하면 안 돼요"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ここでタバコを吸ってはいけません。",
+          "reading": "ここでタバコをすってはいけません。",
+          "ko": "여기서 담배를 피우면 안 됩니다.",
+          "audio": null
+        },
+        {
+          "ja": "授業中に携帯を使ってはいけません。",
+          "reading": "じゅぎょうちゅうにけいたいをつかってはいけません。",
+          "ko": "수업 중에 휴대폰을 사용하면 안 됩니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "走ります → 금지형",
+          "answer": "走ってはいけません",
+          "acceptableAnswers": [
+            "はしってはいけません"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_028",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "吸",
+        "授",
+        "業",
+        "中",
+        "携"
+      ],
+      "tags": [
+        "금지",
+        "て형",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_030",
+      "pattern": "〜なくてもいいです",
+      "patternReading": "〜なくてもいいです",
+      "meaning": "~하지 않아도 됩니다",
+      "jlpt": "N5",
+      "category": "불필요",
+      "order": 30,
+      "explanation": {
+        "summary": "할 필요가 없음을 나타내는 표현",
+        "detail": "동사 ない형에서 ない를 なくて로 바꾸고 もいいです를 붙입니다.",
+        "koreanComparison": "한국어 '~하지 않아도 됩니다', '~안 해도 됩니다'와 동일합니다.",
+        "commonMistakes": [
+          "書かない→書かなくてもいい",
+          "食べない→食べなくてもいい"
+        ]
+      },
+      "conjugation": {
+        "unnecessary": {
+          "form": "〜なくてもいいです",
+          "meaning": "~하지 않아도 됩니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日は来なくてもいいです。",
+          "reading": "あしたはこなくてもいいです。",
+          "ko": "내일은 오지 않아도 됩니다.",
+          "audio": null
+        },
+        {
+          "ja": "全部食べなくてもいいですよ。",
+          "reading": "ぜんぶたべなくてもいいですよ。",
+          "ko": "전부 먹지 않아도 돼요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "急ぎます → 불필요형",
+          "answer": "急がなくてもいいです",
+          "acceptableAnswers": [
+            "いそがなくてもいいです"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_028",
+        "n5_025"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "来",
+        "全",
+        "部"
+      ],
+      "tags": [
+        "불필요",
+        "ない형",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_031",
+      "pattern": "〜なければなりません",
+      "patternReading": "〜なければなりません",
+      "meaning": "~해야 합니다 (의무)",
+      "jlpt": "N5",
+      "category": "의무",
+      "order": 31,
+      "explanation": {
+        "summary": "해야 할 의무를 나타내는 표현",
+        "detail": "동사 ない형에서 ない를 なければ로 바꾸고 なりません을 붙입니다.",
+        "koreanComparison": "한국어 '~해야 합니다', '~해야만 합니다'와 동일합니다.",
+        "commonMistakes": [
+          "なければならない (반말)",
+          "なきゃ (축약형, 구어)",
+          "ないといけません도 같은 의미"
+        ]
+      },
+      "conjugation": {
+        "obligation": {
+          "form": "〜なければなりません",
+          "meaning": "~해야 합니다"
+        },
+        "casual": {
+          "form": "〜なければならない",
+          "meaning": "~해야 한다"
+        },
+        "colloquial": {
+          "form": "〜なきゃ",
+          "meaning": "~해야 해"
+        }
+      },
+      "examples": [
+        {
+          "ja": "宿題をしなければなりません。",
+          "reading": "しゅくだいをしなければなりません。",
+          "ko": "숙제를 해야 합니다.",
+          "audio": null
+        },
+        {
+          "ja": "毎日薬を飲まなければなりません。",
+          "reading": "まいにちくすりをのまなければなりません。",
+          "ko": "매일 약을 먹어야 합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "起きます → 의무형",
+          "answer": "起きなければなりません",
+          "acceptableAnswers": [
+            "おきなければなりません"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_030",
+        "n5_025"
+      ],
+      "relatedKanji": [
+        "宿",
+        "題",
+        "毎",
+        "日",
+        "薬"
+      ],
+      "tags": [
+        "의무",
+        "ない형",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_032",
+      "pattern": "〜ことができます",
+      "patternReading": "〜ことができます",
+      "meaning": "~할 수 있습니다 (가능)",
+      "jlpt": "N5",
+      "category": "가능",
+      "order": 32,
+      "explanation": {
+        "summary": "능력이나 가능성을 나타내는 표현",
+        "detail": "동사 사전형 + ことができます로 '~할 수 있다'를 표현합니다.",
+        "koreanComparison": "한국어 '~할 수 있습니다'와 동일합니다.",
+        "commonMistakes": [
+          "가능동사(食べられる)도 같은 의미",
+          "ことができる가 더 격식체"
+        ]
+      },
+      "conjugation": {
+        "can": {
+          "form": "〜ことができます",
+          "meaning": "~할 수 있습니다"
+        },
+        "cannot": {
+          "form": "〜ことができません",
+          "meaning": "~할 수 없습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本語を話すことができます。",
+          "reading": "にほんごをはなすことができます。",
+          "ko": "일본어를 말할 수 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "車を運転することができません。",
+          "reading": "くるまをうんてんすることができません。",
+          "ko": "차를 운전할 수 없습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "泳ぎます → 가능형",
+          "answer": "泳ぐことができます",
+          "acceptableAnswers": [
+            "およぐことができます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "日",
+        "本",
+        "語",
+        "話",
+        "車"
+      ],
+      "tags": [
+        "가능",
+        "동사",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_033",
+      "pattern": "〜前に",
+      "patternReading": "〜まえに",
+      "meaning": "~하기 전에",
+      "jlpt": "N5",
+      "category": "시간",
+      "order": 33,
+      "explanation": {
+        "summary": "동작 전의 시점을 나타내는 표현",
+        "detail": "동사 사전형 + 前に로 '~하기 전에'를 표현합니다. 명사의 경우 명사+の+前に입니다.",
+        "koreanComparison": "한국어 '~하기 전에'와 동일합니다.",
+        "commonMistakes": [
+          "동사: 食べる前に",
+          "명사: 食事の前に",
+          "前에는 항상 사전형을 사용"
+        ]
+      },
+      "conjugation": {
+        "before_verb": {
+          "form": "동사사전형+前に",
+          "meaning": "~하기 전에"
+        },
+        "before_noun": {
+          "form": "명사+の+前に",
+          "meaning": "~ 전에"
+        }
+      },
+      "examples": [
+        {
+          "ja": "寝る前に歯を磨きます。",
+          "reading": "ねるまえにはをみがきます。",
+          "ko": "자기 전에 이를 닦습니다.",
+          "audio": null
+        },
+        {
+          "ja": "食事の前に手を洗います。",
+          "reading": "しょくじのまえにてをあらいます。",
+          "ko": "식사 전에 손을 씻습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "出かける＿＿、電気を消してください。",
+          "options": [
+            "前に",
+            "後で",
+            "ながら",
+            "ために"
+          ],
+          "answer": "前に",
+          "explanation": "나가기 '전에'이므로 '前に'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_034"
+      ],
+      "relatedKanji": [
+        "寝",
+        "前",
+        "歯",
+        "磨",
+        "食"
+      ],
+      "tags": [
+        "시간",
+        "전",
+        "동사"
+      ]
+    },
+    {
+      "id": "n5_034",
+      "pattern": "〜た後で",
+      "patternReading": "〜たあとで",
+      "meaning": "~한 후에",
+      "jlpt": "N5",
+      "category": "시간",
+      "order": 34,
+      "explanation": {
+        "summary": "동작 후의 시점을 나타내는 표현",
+        "detail": "동사 た형 + 後で로 '~한 후에'를 표현합니다. 명사의 경우 명사+の+後で입니다.",
+        "koreanComparison": "한국어 '~한 후에', '~하고 나서'와 동일합니다.",
+        "commonMistakes": [
+          "동사: 食べた後で",
+          "명사: 食事の後で",
+          "てから도 비슷한 의미"
+        ]
+      },
+      "conjugation": {
+        "after_verb": {
+          "form": "동사た형+後で",
+          "meaning": "~한 후에"
+        },
+        "after_noun": {
+          "form": "명사+の+後で",
+          "meaning": "~ 후에"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ご飯を食べた後で、散歩します。",
+          "reading": "ごはんをたべたあとで、さんぽします。",
+          "ko": "밥을 먹은 후에 산책합니다.",
+          "audio": null
+        },
+        {
+          "ja": "仕事の後で飲みに行きましょう。",
+          "reading": "しごとのあとでのみにいきましょう。",
+          "ko": "일 후에 술 마시러 갑시다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "映画を見た＿＿、レストランに行きました。",
+          "options": [
+            "後で",
+            "前に",
+            "ながら",
+            "ために"
+          ],
+          "answer": "後で",
+          "explanation": "영화를 본 '후에'이므로 '後で'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_033",
+        "n5_035"
+      ],
+      "relatedKanji": [
+        "飯",
+        "食",
+        "後",
+        "散",
+        "歩"
+      ],
+      "tags": [
+        "시간",
+        "후",
+        "동사"
+      ]
+    },
+    {
+      "id": "n5_035",
+      "pattern": "〜てから",
+      "patternReading": "〜てから",
+      "meaning": "~하고 나서",
+      "jlpt": "N5",
+      "category": "시간/순서",
+      "order": 35,
+      "explanation": {
+        "summary": "동작의 순서를 나타내는 표현 (앞 동작 완료 후)",
+        "detail": "동사 て형 + から로 '~하고 나서'를 표현합니다. た後で보다 순서 강조가 강합니다.",
+        "koreanComparison": "한국어 '~하고 나서'와 동일합니다.",
+        "commonMistakes": [
+          "てから: 순서 강조",
+          "た後で: 시간적 전후 관계",
+          "てから는 반드시 앞 동작이 완료되어야 함"
+        ]
+      },
+      "conjugation": {
+        "sequence": {
+          "form": "〜てから",
+          "meaning": "~하고 나서"
+        }
+      },
+      "examples": [
+        {
+          "ja": "手を洗ってから、食べてください。",
+          "reading": "てをあらってから、たべてください。",
+          "ko": "손을 씻고 나서 드세요.",
+          "audio": null
+        },
+        {
+          "ja": "シャワーを浴びてから寝ます。",
+          "reading": "シャワーをあびてからねます。",
+          "ko": "샤워하고 나서 잡니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "宿題をし＿＿＿、遊びに行きます。",
+          "options": [
+            "てから",
+            "前に",
+            "ながら",
+            "ために"
+          ],
+          "answer": "てから",
+          "explanation": "숙제를 하고 '나서' 놀러 가므로 'てから'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_034",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "手",
+        "洗",
+        "食",
+        "寝"
+      ],
+      "tags": [
+        "시간",
+        "순서",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_036",
+      "pattern": "〜ながら",
+      "patternReading": "〜ながら",
+      "meaning": "~하면서",
+      "jlpt": "N5",
+      "category": "동시동작",
+      "order": 36,
+      "explanation": {
+        "summary": "두 동작을 동시에 함을 나타내는 표현",
+        "detail": "동사 ます형 어간 + ながら로 '~하면서'를 표현합니다. 뒤에 오는 동작이 주된 동작입니다.",
+        "koreanComparison": "한국어 '~하면서'와 동일합니다.",
+        "commonMistakes": [
+          "音楽を聞きながら勉強する (음악을 들으면서 공부하다)",
+          "주된 동작이 뒤에 옴",
+          "같은 주어여야 함"
+        ]
+      },
+      "conjugation": {
+        "simultaneous": {
+          "form": "ます어간+ながら",
+          "meaning": "~하면서"
+        }
+      },
+      "examples": [
+        {
+          "ja": "音楽を聞きながら勉強します。",
+          "reading": "おんがくをききながらべんきょうします。",
+          "ko": "음악을 들으면서 공부합니다.",
+          "audio": null
+        },
+        {
+          "ja": "歩きながら電話しないでください。",
+          "reading": "あるきながらでんわしないでください。",
+          "ko": "걸으면서 전화하지 마세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "テレビを見ます + ご飯を食べます → 동시동작",
+          "answer": "テレビを見ながらご飯を食べます",
+          "acceptableAnswers": [
+            "テレビをみながらごはんをたべます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "音",
+        "楽",
+        "聞",
+        "勉",
+        "強"
+      ],
+      "tags": [
+        "동시",
+        "동작",
+        "ます형"
+      ]
+    },
+    {
+      "id": "n5_037",
+      "pattern": "〜たり〜たりします",
+      "patternReading": "〜たり〜たりします",
+      "meaning": "~하거나 ~하거나 합니다",
+      "jlpt": "N5",
+      "category": "열거",
+      "order": 37,
+      "explanation": {
+        "summary": "여러 동작을 예시로 나열하는 표현",
+        "detail": "동사 た형 + り로 여러 동작을 나열하고, 마지막에 します를 붙입니다.",
+        "koreanComparison": "한국어 '~하거나 ~하거나 합니다'와 동일합니다.",
+        "commonMistakes": [
+          "나열한 것 외에 다른 것도 있음을 암시",
+          "형용사도 가능: 暑かったり寒かったり"
+        ]
+      },
+      "conjugation": {
+        "listing": {
+          "form": "〜たり〜たりします",
+          "meaning": "~하거나 ~하거나 합니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "休みの日は本を読んだり映画を見たりします。",
+          "reading": "やすみのひはほんをよんだりえいがをみたりします。",
+          "ko": "쉬는 날은 책을 읽거나 영화를 보거나 합니다.",
+          "audio": null
+        },
+        {
+          "ja": "週末は友達と遊んだり買い物したりします。",
+          "reading": "しゅうまつはともだちとあそんだりかいものしたりします。",
+          "ko": "주말에는 친구와 놀거나 쇼핑하거나 합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "歌います + 踊ります → 열거형",
+          "answer": "歌ったり踊ったりします",
+          "acceptableAnswers": [
+            "うたったりおどったりします"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "休",
+        "日",
+        "本",
+        "読",
+        "映"
+      ],
+      "tags": [
+        "열거",
+        "た형",
+        "동작"
+      ]
+    },
+    {
+      "id": "n5_038",
+      "pattern": "〜より〜のほうが",
+      "patternReading": "〜より〜のほうが",
+      "meaning": "~보다 ~이/가 더",
+      "jlpt": "N5",
+      "category": "비교",
+      "order": 38,
+      "explanation": {
+        "summary": "두 가지를 비교하는 표현",
+        "detail": "A より B のほうが~로 'A보다 B가 더 ~하다'를 표현합니다.",
+        "koreanComparison": "한국어 '~보다 ~이/가 더'와 동일합니다.",
+        "commonMistakes": [
+          "より: ~보다 (기준)",
+          "のほうが: ~쪽이 (비교 대상)",
+          "형용사나 동사가 뒤에 옴"
+        ]
+      },
+      "conjugation": {
+        "comparison": {
+          "form": "AよりBのほうが〜",
+          "meaning": "A보다 B가 더 ~하다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "夏より冬のほうが好きです。",
+          "reading": "なつよりふゆのほうがすきです。",
+          "ko": "여름보다 겨울이 더 좋습니다.",
+          "audio": null
+        },
+        {
+          "ja": "電車よりバスのほうが安いです。",
+          "reading": "でんしゃよりバスのほうがやすいです。",
+          "ko": "전철보다 버스가 더 쌉니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "커피보다 차가 더 좋습니다.",
+          "answer": "コーヒーより紅茶のほうが好きです。",
+          "acceptableAnswers": [
+            "コーヒーよりこうちゃのほうがすきです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_039",
+        "n5_040"
+      ],
+      "relatedKanji": [
+        "夏",
+        "冬",
+        "好",
+        "電",
+        "車"
+      ],
+      "tags": [
+        "비교",
+        "より",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_039",
+      "pattern": "〜と同じ",
+      "patternReading": "〜とおなじ",
+      "meaning": "~와/과 같다",
+      "jlpt": "N5",
+      "category": "비교",
+      "order": 39,
+      "explanation": {
+        "summary": "두 가지가 같음을 나타내는 표현",
+        "detail": "A と同じで 'A와 같다'를 표현합니다. 명사를 수식할 때는 同じ+명사입니다.",
+        "koreanComparison": "한국어 '~와/과 같다'와 동일합니다.",
+        "commonMistakes": [
+          "同じ大学 (같은 대학)",
+          "AとBは同じです (A와 B는 같습니다)"
+        ]
+      },
+      "conjugation": {
+        "same_as": {
+          "form": "Aと同じ",
+          "meaning": "A와 같다"
+        },
+        "same_noun": {
+          "form": "同じ+명사",
+          "meaning": "같은 ~"
+        }
+      },
+      "examples": [
+        {
+          "ja": "私の意見はあなたと同じです。",
+          "reading": "わたしのいけんはあなたとおなじです。",
+          "ko": "제 의견은 당신과 같습니다.",
+          "audio": null
+        },
+        {
+          "ja": "同じ会社で働いています。",
+          "reading": "おなじかいしゃではたらいています。",
+          "ko": "같은 회사에서 일하고 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "私＿＿同じ年です。",
+          "options": [
+            "と",
+            "に",
+            "で",
+            "が"
+          ],
+          "answer": "と",
+          "explanation": "비교 대상을 나타내므로 'と'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_038"
+      ],
+      "relatedKanji": [
+        "同",
+        "意",
+        "見",
+        "会",
+        "社"
+      ],
+      "tags": [
+        "비교",
+        "동일",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_040",
+      "pattern": "いちばん〜",
+      "patternReading": "いちばん〜",
+      "meaning": "가장 ~, 제일 ~",
+      "jlpt": "N5",
+      "category": "최상급",
+      "order": 40,
+      "explanation": {
+        "summary": "최상급을 나타내는 표현",
+        "detail": "いちばん + 형용사/부사로 '가장 ~하다'를 표현합니다.",
+        "koreanComparison": "한국어 '가장', '제일'과 동일합니다.",
+        "commonMistakes": [
+          "~の中で一番: ~중에서 가장",
+          "何が一番~ですか: 무엇이 가장 ~합니까?"
+        ]
+      },
+      "conjugation": {
+        "superlative": {
+          "form": "一番〜",
+          "meaning": "가장 ~"
+        },
+        "in_group": {
+          "form": "〜の中で一番〜",
+          "meaning": "~ 중에서 가장 ~"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本で一番高い山は富士山です。",
+          "reading": "にほんでいちばんたかいやまはふじさんです。",
+          "ko": "일본에서 가장 높은 산은 후지산입니다.",
+          "audio": null
+        },
+        {
+          "ja": "季節の中で春が一番好きです。",
+          "reading": "きせつのなかではるがいちばんすきです。",
+          "ko": "계절 중에서 봄이 가장 좋습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "이 반에서 누가 가장 키가 큽니까?",
+          "answer": "このクラスで誰が一番背が高いですか。",
+          "acceptableAnswers": [
+            "このクラスでだれがいちばんせがたかいですか。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_038"
+      ],
+      "relatedKanji": [
+        "一",
+        "番",
+        "高",
+        "山",
+        "春"
+      ],
+      "tags": [
+        "최상급",
+        "비교",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_041",
+      "pattern": "〜でしょう",
+      "patternReading": "〜でしょう",
+      "meaning": "~이겠지요 (추측)",
+      "jlpt": "N5",
+      "category": "추측",
+      "order": 41,
+      "explanation": {
+        "summary": "추측이나 확인을 나타내는 표현",
+        "detail": "문장 끝에 でしょう를 붙여 추측을 표현합니다. 동사/형용사 보통형 뒤에 붙습니다.",
+        "koreanComparison": "한국어 '~이겠지요', '~일 것입니다'와 유사합니다.",
+        "commonMistakes": [
+          "날씨 예보에서 자주 사용",
+          "でしょう↑: 확인 요청",
+          "でしょう↓: 추측"
+        ]
+      },
+      "conjugation": {
+        "conjecture": {
+          "form": "〜でしょう",
+          "meaning": "~이겠지요"
+        },
+        "confirmation": {
+          "form": "〜でしょう？",
+          "meaning": "~이죠?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日は雨でしょう。",
+          "reading": "あしたはあめでしょう。",
+          "ko": "내일은 비가 오겠지요.",
+          "audio": null
+        },
+        {
+          "ja": "この映画は面白いでしょう。",
+          "reading": "このえいがはおもしろいでしょう。",
+          "ko": "이 영화는 재미있겠지요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "寒いです → 추측형",
+          "answer": "寒いでしょう",
+          "acceptableAnswers": [
+            "さむいでしょう"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_042"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "雨",
+        "映",
+        "画"
+      ],
+      "tags": [
+        "추측",
+        "확인",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_042",
+      "pattern": "〜かもしれません",
+      "patternReading": "〜かもしれません",
+      "meaning": "~일지도 모릅니다",
+      "jlpt": "N5",
+      "category": "추측",
+      "order": 42,
+      "explanation": {
+        "summary": "가능성/불확실한 추측을 나타내는 표현",
+        "detail": "보통형 + かもしれません으로 '~일지도 모른다'를 표현합니다. でしょう보다 불확실합니다.",
+        "koreanComparison": "한국어 '~일지도 모릅니다', '~일 수도 있습니다'와 동일합니다.",
+        "commonMistakes": [
+          "でしょう: 확신 높음",
+          "かもしれない: 확신 낮음",
+          "명사/な형용사: だ를 빼고 접속"
+        ]
+      },
+      "conjugation": {
+        "might": {
+          "form": "〜かもしれません",
+          "meaning": "~일지도 모릅니다"
+        },
+        "casual": {
+          "form": "〜かもしれない",
+          "meaning": "~일지도 몰라"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日は雨が降るかもしれません。",
+          "reading": "あしたはあめがふるかもしれません。",
+          "ko": "내일은 비가 올지도 모릅니다.",
+          "audio": null
+        },
+        {
+          "ja": "彼は病気かもしれません。",
+          "reading": "かれはびょうきかもしれません。",
+          "ko": "그는 아플지도 모릅니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "遅れます → 불확실 추측형",
+          "answer": "遅れるかもしれません",
+          "acceptableAnswers": [
+            "おくれるかもしれません"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_041"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "雨",
+        "降",
+        "病"
+      ],
+      "tags": [
+        "추측",
+        "가능성",
+        "정중"
+      ]
+    },
+    {
+      "id": "n5_043",
+      "pattern": "〜と思います",
+      "patternReading": "〜とおもいます",
+      "meaning": "~라고 생각합니다",
+      "jlpt": "N5",
+      "category": "의견",
+      "order": 43,
+      "explanation": {
+        "summary": "자신의 생각이나 의견을 나타내는 표현",
+        "detail": "보통형 + と思います로 '~라고 생각한다'를 표현합니다.",
+        "koreanComparison": "한국어 '~라고 생각합니다'와 동일합니다.",
+        "commonMistakes": [
+          "1인칭 의견: と思います",
+          "3인칭: と思っています (지속적 생각)"
+        ]
+      },
+      "conjugation": {
+        "think": {
+          "form": "〜と思います",
+          "meaning": "~라고 생각합니다"
+        },
+        "dont_think": {
+          "form": "〜とは思いません",
+          "meaning": "~라고는 생각하지 않습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この本は面白いと思います。",
+          "reading": "このほんはおもしろいとおもいます。",
+          "ko": "이 책은 재미있다고 생각합니다.",
+          "audio": null
+        },
+        {
+          "ja": "彼は来ないと思います。",
+          "reading": "かれはこないとおもいます。",
+          "ko": "그는 오지 않을 거라고 생각합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "내일은 맑을 거라고 생각합니다.",
+          "answer": "明日は晴れると思います。",
+          "acceptableAnswers": [
+            "あしたははれるとおもいます。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_013"
+      ],
+      "relatedKanji": [
+        "本",
+        "面",
+        "白",
+        "思",
+        "来"
+      ],
+      "tags": [
+        "의견",
+        "생각",
+        "인용"
+      ]
+    },
+    {
+      "id": "n5_044",
+      "pattern": "〜つもりです",
+      "patternReading": "〜つもりです",
+      "meaning": "~할 예정입니다/~할 생각입니다",
+      "jlpt": "N5",
+      "category": "의도",
+      "order": 44,
+      "explanation": {
+        "summary": "의도나 계획을 나타내는 표현",
+        "detail": "동사 사전형/ない형 + つもりです로 '~할 생각이다'를 표현합니다.",
+        "koreanComparison": "한국어 '~할 예정입니다', '~할 생각입니다'와 동일합니다.",
+        "commonMistakes": [
+          "사전형+つもり: ~할 생각",
+          "ない형+つもり: ~안 할 생각",
+          "予定(よてい)보다 개인 의지 강조"
+        ]
+      },
+      "conjugation": {
+        "intend_to": {
+          "form": "〜つもりです",
+          "meaning": "~할 생각입니다"
+        },
+        "intend_not_to": {
+          "form": "〜ないつもりです",
+          "meaning": "~안 할 생각입니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "来年、日本に行くつもりです。",
+          "reading": "らいねん、にほんにいくつもりです。",
+          "ko": "내년에 일본에 갈 생각입니다.",
+          "audio": null
+        },
+        {
+          "ja": "今日は何もしないつもりです。",
+          "reading": "きょうはなにもしないつもりです。",
+          "ko": "오늘은 아무것도 안 할 생각입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "大学に入ります → 의도형",
+          "answer": "大学に入るつもりです",
+          "acceptableAnswers": [
+            "だいがくにはいるつもりです"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_043"
+      ],
+      "relatedKanji": [
+        "来",
+        "年",
+        "日",
+        "本",
+        "今"
+      ],
+      "tags": [
+        "의도",
+        "계획",
+        "동사"
+      ]
+    },
+    {
+      "id": "n5_045",
+      "pattern": "〜ことがあります",
+      "patternReading": "〜ことがあります",
+      "meaning": "~한 적이 있습니다 (경험)",
+      "jlpt": "N5",
+      "category": "경험",
+      "order": 45,
+      "explanation": {
+        "summary": "과거 경험을 나타내는 표현",
+        "detail": "동사 た형 + ことがあります로 '~한 적이 있다'를 표현합니다.",
+        "koreanComparison": "한국어 '~한 적이 있습니다'와 동일합니다.",
+        "commonMistakes": [
+          "た형+ことがある: 경험 있음",
+          "た형+ことがない: 경험 없음"
+        ]
+      },
+      "conjugation": {
+        "have_done": {
+          "form": "〜たことがあります",
+          "meaning": "~한 적이 있습니다"
+        },
+        "have_not_done": {
+          "form": "〜たことがありません",
+          "meaning": "~한 적이 없습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本に行ったことがあります。",
+          "reading": "にほんにいったことがあります。",
+          "ko": "일본에 간 적이 있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "寿司を食べたことがありません。",
+          "reading": "すしをたべたことがありません。",
+          "ko": "초밥을 먹은 적이 없습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "富士山に登ります → 경험형",
+          "answer": "富士山に登ったことがあります",
+          "acceptableAnswers": [
+            "ふじさんにのぼったことがあります"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "日",
+        "本",
+        "行",
+        "寿",
+        "司"
+      ],
+      "tags": [
+        "경험",
+        "た형",
+        "과거"
+      ]
+    },
+    {
+      "id": "n5_046",
+      "pattern": "〜けど/〜が",
+      "patternReading": "〜けど/〜が",
+      "meaning": "~지만 (역접)",
+      "jlpt": "N5",
+      "category": "접속",
+      "order": 46,
+      "explanation": {
+        "summary": "역접(대조)을 나타내는 접속 표현",
+        "detail": "문장 끝에 けど/が를 붙여 역접을 표현합니다. が가 더 격식체입니다.",
+        "koreanComparison": "한국어 '~지만', '~인데'와 동일합니다.",
+        "commonMistakes": [
+          "けど: 구어체",
+          "が: 문어체/격식체",
+          "전환/도입에도 사용 (역접 아님)"
+        ]
+      },
+      "conjugation": {
+        "but_casual": {
+          "form": "〜けど",
+          "meaning": "~지만 (구어)"
+        },
+        "but_formal": {
+          "form": "〜が",
+          "meaning": "~지만 (격식)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "高いですが、おいしいです。",
+          "reading": "たかいですが、おいしいです。",
+          "ko": "비싸지만 맛있습니다.",
+          "audio": null
+        },
+        {
+          "ja": "行きたいけど、時間がありません。",
+          "reading": "いきたいけど、じかんがありません。",
+          "ko": "가고 싶지만 시간이 없습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "この料理はおいしい＿＿、高いです。",
+          "options": [
+            "けど",
+            "から",
+            "ので",
+            "て"
+          ],
+          "answer": "けど",
+          "explanation": "역접을 나타내므로 'けど'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_010"
+      ],
+      "relatedKanji": [
+        "高",
+        "行",
+        "時",
+        "間"
+      ],
+      "tags": [
+        "접속",
+        "역접",
+        "대조"
+      ]
+    },
+    {
+      "id": "n5_047",
+      "pattern": "〜し〜し",
+      "patternReading": "〜し〜し",
+      "meaning": "~하고, ~하고 (이유 나열)",
+      "jlpt": "N5",
+      "category": "접속",
+      "order": 47,
+      "explanation": {
+        "summary": "이유나 특성을 나열하는 표현",
+        "detail": "보통형 + し로 여러 이유를 나열합니다. 마지막에는 결론이 옵니다.",
+        "koreanComparison": "한국어 '~하고, ~도 하고'와 유사합니다.",
+        "commonMistakes": [
+          "여러 이유를 강조할 때 사용",
+          "긍정적/부정적 이유 모두 가능"
+        ]
+      },
+      "conjugation": {
+        "listing_reasons": {
+          "form": "〜し、〜し",
+          "meaning": "~하고, ~도 하고"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この店は安いし、おいしいし、よく来ます。",
+          "reading": "このみせはやすいし、おいしいし、よくきます。",
+          "ko": "이 가게는 싸고 맛있고 해서 자주 옵니다.",
+          "audio": null
+        },
+        {
+          "ja": "今日は忙しいし、疲れているし、早く帰りたいです。",
+          "reading": "きょうはいそがしいし、つかれているし、はやくかえりたいです。",
+          "ko": "오늘은 바쁘고 피곤하고 해서 빨리 돌아가고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "이 방은 넓고 밝아서 좋습니다.",
+          "answer": "この部屋は広いし、明るいし、いいです。",
+          "acceptableAnswers": [
+            "このへやはひろいし、あかるいし、いいです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_010",
+        "n5_046"
+      ],
+      "relatedKanji": [
+        "店",
+        "安",
+        "忙",
+        "疲",
+        "早"
+      ],
+      "tags": [
+        "접속",
+        "이유",
+        "나열"
+      ]
+    },
+    {
+      "id": "n5_048",
+      "pattern": "どうして/なぜ",
+      "patternReading": "どうして/なぜ",
+      "meaning": "왜",
+      "jlpt": "N5",
+      "category": "의문사",
+      "order": 48,
+      "explanation": {
+        "summary": "이유를 묻는 의문사",
+        "detail": "どうして와 なぜ 모두 '왜'의 의미입니다. どうして가 더 일반적이고, なぜ가 더 격식체입니다.",
+        "koreanComparison": "한국어 '왜'와 동일합니다.",
+        "commonMistakes": [
+          "どうして: 일반적 구어",
+          "なぜ: 격식체/문어",
+          "대답은 ~からです로"
+        ]
+      },
+      "conjugation": {
+        "why_casual": {
+          "form": "どうして〜ですか",
+          "meaning": "왜 ~입니까?"
+        },
+        "why_formal": {
+          "form": "なぜ〜ですか",
+          "meaning": "왜 ~입니까?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "どうして遅刻したんですか。",
+          "reading": "どうしてちこくしたんですか。",
+          "ko": "왜 지각했습니까?",
+          "audio": null
+        },
+        {
+          "ja": "なぜ日本語を勉強していますか。",
+          "reading": "なぜにほんごをべんきょうしていますか。",
+          "ko": "왜 일본어를 공부하고 있습니까?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "왜 어제 오지 않았습니까?",
+          "answer": "どうして昨日来なかったんですか。",
+          "acceptableAnswers": [
+            "なぜきのうこなかったんですか。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_010",
+        "n5_018"
+      ],
+      "relatedKanji": [
+        "遅",
+        "刻",
+        "日",
+        "本",
+        "語"
+      ],
+      "tags": [
+        "의문사",
+        "이유",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_049",
+      "pattern": "どのくらい/どれくらい",
+      "patternReading": "どのくらい/どれくらい",
+      "meaning": "얼마나",
+      "jlpt": "N5",
+      "category": "의문사",
+      "order": 49,
+      "explanation": {
+        "summary": "정도나 양을 묻는 의문사",
+        "detail": "どのくらい/どれくらい는 시간, 거리, 양 등의 정도를 물을 때 사용합니다.",
+        "koreanComparison": "한국어 '얼마나', '어느 정도'와 동일합니다.",
+        "commonMistakes": [
+          "どのくらいかかりますか: 얼마나 걸립니까?",
+          "どのくらいありますか: 얼마나 있습니까?"
+        ]
+      },
+      "conjugation": {
+        "how_much": {
+          "form": "どのくらい〜",
+          "meaning": "얼마나 ~"
+        },
+        "how_long": {
+          "form": "どのくらいかかりますか",
+          "meaning": "얼마나 걸립니까?"
+        }
+      },
+      "examples": [
+        {
+          "ja": "駅までどのくらいかかりますか。",
+          "reading": "えきまでどのくらいかかりますか。",
+          "ko": "역까지 얼마나 걸립니까?",
+          "audio": null
+        },
+        {
+          "ja": "日本にどれくらいいましたか。",
+          "reading": "にほんにどれくらいいましたか。",
+          "ko": "일본에 얼마나 있었습니까?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "일본어를 얼마나 공부했습니까?",
+          "answer": "日本語をどのくらい勉強しましたか。",
+          "acceptableAnswers": [
+            "にほんごをどのくらいべんきょうしましたか。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_018"
+      ],
+      "relatedKanji": [
+        "駅",
+        "日",
+        "本",
+        "語"
+      ],
+      "tags": [
+        "의문사",
+        "정도",
+        "기초"
+      ]
+    },
+    {
+      "id": "n5_050",
+      "pattern": "〜んです",
+      "patternReading": "〜んです",
+      "meaning": "~거든요 (설명/강조)",
+      "jlpt": "N5",
+      "category": "설명",
+      "order": 50,
+      "explanation": {
+        "summary": "설명이나 이유를 강조하는 표현",
+        "detail": "보통형 + んです로 상황을 설명하거나 이유를 강조합니다. 의문문에서는 상황 설명을 요구합니다.",
+        "koreanComparison": "한국어 '~거든요', '~(이)라서요'와 유사합니다.",
+        "commonMistakes": [
+          "명사/な형용사: なんです",
+          "동사/い형용사: んです",
+          "会話체: の→ん"
+        ]
+      },
+      "conjugation": {
+        "explanation": {
+          "form": "〜んです",
+          "meaning": "~거든요"
+        },
+        "question": {
+          "form": "〜んですか",
+          "meaning": "~인가요? (사정을 물음)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日は試験があるんです。",
+          "reading": "あしたはしけんがあるんです。",
+          "ko": "내일 시험이 있거든요.",
+          "audio": null
+        },
+        {
+          "ja": "どうしたんですか。",
+          "reading": "どうしたんですか。",
+          "ko": "무슨 일이에요?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "頭が痛いです → 설명형",
+          "answer": "頭が痛いんです",
+          "acceptableAnswers": [
+            "あたまがいたいんです"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_010",
+        "n5_048"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "試",
+        "験",
+        "頭"
+      ],
+      "tags": [
+        "설명",
+        "강조",
+        "회화"
+      ]
+    },
+    {
+      "id": "n5_051",
+      "pattern": "〜ないでください",
+      "patternReading": "〜ないでください",
+      "meaning": "~하지 말아 주세요",
+      "jlpt": "N5",
+      "category": "금지요청",
+      "order": 51,
+      "explanation": {
+        "summary": "정중하게 하지 말도록 부탁하는 표현",
+        "detail": "동사 ない형 + でください로 '~하지 말아 주세요'를 표현합니다.",
+        "koreanComparison": "한국어 '~하지 말아 주세요'와 동일합니다.",
+        "commonMistakes": [
+          "ないでください: 정중한 부탁",
+          "てはいけません: 금지",
+          "な: 반말 금지 (食べるな)"
+        ]
+      },
+      "conjugation": {
+        "request_not_to": {
+          "form": "〜ないでください",
+          "meaning": "~하지 말아 주세요"
+        }
+      },
+      "examples": [
+        {
+          "ja": "ここで写真を撮らないでください。",
+          "reading": "ここでしゃしんをとらないでください。",
+          "ko": "여기서 사진을 찍지 말아 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "心配しないでください。",
+          "reading": "しんぱいしないでください。",
+          "ko": "걱정하지 마세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "ここで食べます → 금지 부탁형",
+          "answer": "ここで食べないでください",
+          "acceptableAnswers": [
+            "ここでたべないでください"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_029",
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "写",
+        "真",
+        "撮",
+        "心",
+        "配"
+      ],
+      "tags": [
+        "금지",
+        "부탁",
+        "ない형"
+      ]
+    },
+    {
+      "id": "n5_052",
+      "pattern": "〜方",
+      "patternReading": "〜かた",
+      "meaning": "~하는 방법",
+      "jlpt": "N5",
+      "category": "방법",
+      "order": 52,
+      "explanation": {
+        "summary": "동작의 방법을 나타내는 표현",
+        "detail": "동사 ます형 어간 + 方で '~하는 방법'을 표현합니다.",
+        "koreanComparison": "한국어 '~하는 방법', '~법'과 동일합니다.",
+        "commonMistakes": [
+          "読みます→読み方 (읽는 방법)",
+          "使います→使い方 (사용법)",
+          "作ります→作り方 (만드는 법)"
+        ]
+      },
+      "conjugation": {
+        "how_to": {
+          "form": "ます어간+方",
+          "meaning": "~하는 방법"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この漢字の読み方を教えてください。",
+          "reading": "このかんじのよみかたをおしえてください。",
+          "ko": "이 한자의 읽는 법을 가르쳐 주세요.",
+          "audio": null
+        },
+        {
+          "ja": "箸の使い方が分かりません。",
+          "reading": "はしのつかいかたがわかりません。",
+          "ko": "젓가락 사용법을 모르겠습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "作ります → 방법 명사",
+          "answer": "作り方",
+          "acceptableAnswers": [
+            "つくりかた"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_004"
+      ],
+      "relatedKanji": [
+        "漢",
+        "字",
+        "読",
+        "方",
+        "箸"
+      ],
+      "tags": [
+        "방법",
+        "명사화",
+        "ます형"
+      ]
+    },
+    {
+      "id": "n5_053",
+      "pattern": "〜すぎます",
+      "patternReading": "〜すぎます",
+      "meaning": "너무 ~합니다",
+      "jlpt": "N5",
+      "category": "정도",
+      "order": 53,
+      "explanation": {
+        "summary": "과도함을 나타내는 표현",
+        "detail": "동사 ます형 어간/い형용사 어간/な형용사 어간 + すぎます로 '너무 ~하다'를 표현합니다.",
+        "koreanComparison": "한국어 '너무 ~하다'와 동일합니다.",
+        "commonMistakes": [
+          "食べすぎる (너무 먹다)",
+          "高すぎる (너무 비싸다)",
+          "静かすぎる (너무 조용하다)"
+        ]
+      },
+      "conjugation": {
+        "too_much_verb": {
+          "form": "ます어간+すぎます",
+          "meaning": "너무 ~합니다"
+        },
+        "too_much_i_adj": {
+          "form": "い→すぎます",
+          "meaning": "너무 ~합니다"
+        },
+        "too_much_na_adj": {
+          "form": "어간+すぎます",
+          "meaning": "너무 ~합니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "昨日、食べすぎました。",
+          "reading": "きのう、たべすぎました。",
+          "ko": "어제 너무 많이 먹었습니다.",
+          "audio": null
+        },
+        {
+          "ja": "この問題は難しすぎます。",
+          "reading": "このもんだいはむずかしすぎます。",
+          "ko": "이 문제는 너무 어렵습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "飲みます → 과도형",
+          "answer": "飲みすぎます",
+          "acceptableAnswers": [
+            "のみすぎます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_021"
+      ],
+      "relatedKanji": [
+        "昨",
+        "日",
+        "食",
+        "問",
+        "題"
+      ],
+      "tags": [
+        "정도",
+        "과도",
+        "ます형"
+      ]
+    },
+    {
+      "id": "n5_054",
+      "pattern": "〜やすい/〜にくい",
+      "patternReading": "〜やすい/〜にくい",
+      "meaning": "~하기 쉽다/어렵다",
+      "jlpt": "N5",
+      "category": "난이도",
+      "order": 54,
+      "explanation": {
+        "summary": "동작의 용이함/어려움을 나타내는 표현",
+        "detail": "동사 ます형 어간 + やすい/にくい로 '~하기 쉽다/어렵다'를 표현합니다.",
+        "koreanComparison": "한국어 '~하기 쉽다', '~하기 어렵다'와 동일합니다.",
+        "commonMistakes": [
+          "읽みやすい (읽기 쉽다)",
+          "分かりにくい (알기 어렵다)",
+          "い형용사처럼 활용"
+        ]
+      },
+      "conjugation": {
+        "easy_to": {
+          "form": "ます어간+やすい",
+          "meaning": "~하기 쉽다"
+        },
+        "hard_to": {
+          "form": "ます어간+にくい",
+          "meaning": "~하기 어렵다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この本は読みやすいです。",
+          "reading": "このほんはよみやすいです。",
+          "ko": "이 책은 읽기 쉽습니다.",
+          "audio": null
+        },
+        {
+          "ja": "この漢字は覚えにくいです。",
+          "reading": "このかんじはおぼえにくいです。",
+          "ko": "이 한자는 외우기 어렵습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "使います → 쉬움 형용사",
+          "answer": "使いやすい",
+          "acceptableAnswers": [
+            "つかいやすい"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_021"
+      ],
+      "relatedKanji": [
+        "本",
+        "読",
+        "漢",
+        "字",
+        "覚"
+      ],
+      "tags": [
+        "난이도",
+        "형용사화",
+        "ます형"
+      ]
+    },
+    {
+      "id": "n5_055",
+      "pattern": "〜ために",
+      "patternReading": "〜ために",
+      "meaning": "~하기 위해",
+      "jlpt": "N5",
+      "category": "목적",
+      "order": 55,
+      "explanation": {
+        "summary": "목적을 나타내는 표현",
+        "detail": "동사 사전형/명사+の + ために로 '~하기 위해'를 표현합니다.",
+        "koreanComparison": "한국어 '~하기 위해', '~을 위해'와 동일합니다.",
+        "commonMistakes": [
+          "동사: 食べるために",
+          "명사: 健康のために",
+          "주어가 같아야 함"
+        ]
+      },
+      "conjugation": {
+        "in_order_to": {
+          "form": "동사사전형+ために",
+          "meaning": "~하기 위해"
+        },
+        "for_noun": {
+          "form": "명사+のために",
+          "meaning": "~을 위해"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本語を勉強するために、日本に来ました。",
+          "reading": "にほんごをべんきょうするために、にほんにきました。",
+          "ko": "일본어를 공부하기 위해 일본에 왔습니다.",
+          "audio": null
+        },
+        {
+          "ja": "健康のために、毎日運動します。",
+          "reading": "けんこうのために、まいにちうんどうします。",
+          "ko": "건강을 위해 매일 운동합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "大学に入る＿＿＿、勉強しています。",
+          "options": [
+            "ために",
+            "から",
+            "ので",
+            "けど"
+          ],
+          "answer": "ために",
+          "explanation": "목적을 나타내므로 'ために'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_010"
+      ],
+      "relatedKanji": [
+        "日",
+        "本",
+        "語",
+        "勉",
+        "強"
+      ],
+      "tags": [
+        "목적",
+        "동사",
+        "접속"
+      ]
+    },
+    {
+      "id": "n5_056",
+      "pattern": "〜に行きます/来ます",
+      "patternReading": "〜にいきます/きます",
+      "meaning": "~하러 갑니다/옵니다 (목적)",
+      "jlpt": "N5",
+      "category": "목적",
+      "order": 56,
+      "explanation": {
+        "summary": "이동 목적을 나타내는 표현",
+        "detail": "동사 ます형 어간 + に行きます/来ます로 '~하러 가다/오다'를 표현합니다.",
+        "koreanComparison": "한국어 '~하러 갑니다', '~하러 옵니다'와 동일합니다.",
+        "commonMistakes": [
+          "食べに行く (먹으러 가다)",
+          "見に来る (보러 오다)",
+          "명사: 買い物に行く"
+        ]
+      },
+      "conjugation": {
+        "go_to_do": {
+          "form": "ます어간+に行きます",
+          "meaning": "~하러 갑니다"
+        },
+        "come_to_do": {
+          "form": "ます어간+に来ます",
+          "meaning": "~하러 옵니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "映画を見に行きます。",
+          "reading": "えいがをみにいきます。",
+          "ko": "영화를 보러 갑니다.",
+          "audio": null
+        },
+        {
+          "ja": "友達が遊びに来ます。",
+          "reading": "ともだちがあそびにきます。",
+          "ko": "친구가 놀러 옵니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "買い物します → 목적 이동형",
+          "answer": "買い物に行きます",
+          "acceptableAnswers": [
+            "かいものにいきます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_005",
+        "n5_055"
+      ],
+      "relatedKanji": [
+        "映",
+        "画",
+        "見",
+        "友",
+        "達"
+      ],
+      "tags": [
+        "목적",
+        "이동",
+        "ます형"
+      ]
+    },
+    {
+      "id": "n5_057",
+      "pattern": "〜まだ〜ていません",
+      "patternReading": "〜まだ〜ていません",
+      "meaning": "아직 ~하지 않았습니다",
+      "jlpt": "N5",
+      "category": "상태",
+      "order": 57,
+      "explanation": {
+        "summary": "아직 완료되지 않은 상태를 나타내는 표현",
+        "detail": "まだ + 동사 ていません으로 '아직 ~하지 않았다'를 표현합니다.",
+        "koreanComparison": "한국어 '아직 ~하지 않았습니다'와 동일합니다.",
+        "commonMistakes": [
+          "まだ食べていません (아직 안 먹었습니다)",
+          "もう食べました (이미 먹었습니다)와 반대"
+        ]
+      },
+      "conjugation": {
+        "not_yet": {
+          "form": "まだ〜ていません",
+          "meaning": "아직 ~하지 않았습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "まだ朝ごはんを食べていません。",
+          "reading": "まだあさごはんをたべていません。",
+          "ko": "아직 아침밥을 먹지 않았습니다.",
+          "audio": null
+        },
+        {
+          "ja": "宿題はまだ終わっていません。",
+          "reading": "しゅくだいはまだおわっていません。",
+          "ko": "숙제는 아직 끝나지 않았습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "아직 그 영화를 보지 않았습니다.",
+          "answer": "まだその映画を見ていません。",
+          "acceptableAnswers": [
+            "まだそのえいがをみていません。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_058",
+        "n5_008"
+      ],
+      "relatedKanji": [
+        "朝",
+        "食",
+        "宿",
+        "題",
+        "終"
+      ],
+      "tags": [
+        "상태",
+        "부정",
+        "아직"
+      ]
+    },
+    {
+      "id": "n5_058",
+      "pattern": "〜もう〜ました",
+      "patternReading": "〜もう〜ました",
+      "meaning": "이미 ~했습니다",
+      "jlpt": "N5",
+      "category": "상태",
+      "order": 58,
+      "explanation": {
+        "summary": "이미 완료된 상태를 나타내는 표현",
+        "detail": "もう + 동사 ました로 '이미 ~했다'를 표현합니다.",
+        "koreanComparison": "한국어 '이미 ~했습니다', '벌써 ~했습니다'와 동일합니다.",
+        "commonMistakes": [
+          "もう食べました (이미 먹었습니다)",
+          "もういい (됐어/그만해)"
+        ]
+      },
+      "conjugation": {
+        "already": {
+          "form": "もう〜ました",
+          "meaning": "이미 ~했습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "もう宿題をしました。",
+          "reading": "もうしゅくだいをしました。",
+          "ko": "이미 숙제를 했습니다.",
+          "audio": null
+        },
+        {
+          "ja": "電車はもう出ました。",
+          "reading": "でんしゃはもうでました。",
+          "ko": "전철은 이미 출발했습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "이미 점심을 먹었습니다.",
+          "answer": "もう昼ご飯を食べました。",
+          "acceptableAnswers": [
+            "もうひるごはんをたべました。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_057",
+        "n5_009"
+      ],
+      "relatedKanji": [
+        "宿",
+        "題",
+        "電",
+        "車",
+        "出"
+      ],
+      "tags": [
+        "상태",
+        "완료",
+        "이미"
+      ]
+    },
+    {
+      "id": "n5_059",
+      "pattern": "〜ほしい",
+      "patternReading": "〜ほしい",
+      "meaning": "~을/를 원하다",
+      "jlpt": "N5",
+      "category": "희망",
+      "order": 59,
+      "explanation": {
+        "summary": "물건이나 상태를 원함을 나타내는 표현",
+        "detail": "명사 + がほしい로 '~을 원하다'를 표현합니다. 1인칭에만 직접 사용합니다.",
+        "koreanComparison": "한국어 '~을/를 갖고 싶다', '~을/를 원하다'와 동일합니다.",
+        "commonMistakes": [
+          "물건: 車がほしい (차가 갖고 싶다)",
+          "동작: ~てほしい (N4) - 해주길 바란다",
+          "3인칭: ほしがっている"
+        ]
+      },
+      "conjugation": {
+        "want_thing": {
+          "form": "〜がほしい",
+          "meaning": "~을/를 원하다"
+        },
+        "dont_want": {
+          "form": "〜がほしくない",
+          "meaning": "~을/를 원하지 않다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "新しいパソコンがほしいです。",
+          "reading": "あたらしいパソコンがほしいです。",
+          "ko": "새 컴퓨터가 갖고 싶습니다.",
+          "audio": null
+        },
+        {
+          "ja": "時間がほしいです。",
+          "reading": "じかんがほしいです。",
+          "ko": "시간이 필요합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "큰 집이 갖고 싶습니다.",
+          "answer": "大きい家がほしいです。",
+          "acceptableAnswers": [
+            "おおきいいえがほしいです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_006"
+      ],
+      "relatedKanji": [
+        "新",
+        "時",
+        "間",
+        "大",
+        "家"
+      ],
+      "tags": [
+        "희망",
+        "물건",
+        "형용사"
+      ]
+    },
+    {
+      "id": "n5_060",
+      "pattern": "〜は〜が〜",
+      "patternReading": "〜は〜が〜",
+      "meaning": "~은/는 ~이/가 ~하다 (대상 주어)",
+      "jlpt": "N5",
+      "category": "문형",
+      "order": 60,
+      "explanation": {
+        "summary": "주제와 대상을 함께 나타내는 문형",
+        "detail": "Xは Yが 형용사/동사 구문으로, X가 주제이고 Y가 대상입니다. 감정, 능력, 소유 등에 사용합니다.",
+        "koreanComparison": "한국어 '~은/는 ~이/가 ~하다'와 동일합니다.",
+        "commonMistakes": [
+          "私は日本語ができます (나는 일본어를 할 수 있다)",
+          "象は鼻が長い (코끼리는 코가 길다)"
+        ]
+      },
+      "conjugation": {
+        "topic_subject": {
+          "form": "Xは Yが 형용사",
+          "meaning": "X는 Y가 ~하다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "私は日本語が好きです。",
+          "reading": "わたしはにほんごがすきです。",
+          "ko": "저는 일본어가 좋습니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは頭がいいです。",
+          "reading": "たなかさんはあたまがいいです。",
+          "ko": "다나카 씨는 머리가 좋습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "私＿＿料理＿＿上手です。",
+          "options": [
+            "は、が",
+            "が、は",
+            "を、が",
+            "は、を"
+          ],
+          "answer": "は、が",
+          "explanation": "주제(私)는 は, 대상(料理)는 が를 사용합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_001"
+      ],
+      "relatedKanji": [
+        "私",
+        "日",
+        "本",
+        "語",
+        "好"
+      ],
+      "tags": [
+        "문형",
+        "주제",
+        "대상"
+      ]
+    },
+    {
+      "id": "n5_061",
+      "pattern": "〜と言います",
+      "patternReading": "〜といいます",
+      "meaning": "~라고 합니다 (인용)",
+      "jlpt": "N5",
+      "category": "인용",
+      "order": 61,
+      "explanation": {
+        "summary": "인용을 나타내는 표현",
+        "detail": "と言います로 누군가의 말을 인용하거나 이름을 소개할 때 사용합니다.",
+        "koreanComparison": "한국어 '~라고 합니다', '~라고 말합니다'와 동일합니다.",
+        "commonMistakes": [
+          "直接인용: 「〜」と言いました",
+          "間接인용: 〜と言いました",
+          "이름: 田中と申します"
+        ]
+      },
+      "conjugation": {
+        "say": {
+          "form": "〜と言います",
+          "meaning": "~라고 합니다"
+        },
+        "said": {
+          "form": "〜と言いました",
+          "meaning": "~라고 했습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "先生は「静かにしてください」と言いました。",
+          "reading": "せんせいは「しずかにしてください」といいました。",
+          "ko": "선생님은 '조용히 하세요'라고 말했습니다.",
+          "audio": null
+        },
+        {
+          "ja": "私は田中と申します。",
+          "reading": "わたしはたなかともうします。",
+          "ko": "저는 다나카라고 합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "친구가 '내일 만나자'라고 했습니다.",
+          "answer": "友達が「明日会おう」と言いました。",
+          "acceptableAnswers": [
+            "ともだちが「あしたあおう」といいました。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_013",
+        "n5_043"
+      ],
+      "relatedKanji": [
+        "先",
+        "生",
+        "静",
+        "私",
+        "田"
+      ],
+      "tags": [
+        "인용",
+        "말하다",
+        "と"
+      ]
+    },
+    {
+      "id": "n5_062",
+      "pattern": "〜ても",
+      "patternReading": "〜ても",
+      "meaning": "~해도 (양보)",
+      "jlpt": "N5",
+      "category": "양보",
+      "order": 62,
+      "explanation": {
+        "summary": "양보를 나타내는 표현 (해도)",
+        "detail": "동사 て형/い형용사 くても/な형용사 でも로 '~해도'를 표현합니다.",
+        "koreanComparison": "한국어 '~해도', '~더라도'와 동일합니다.",
+        "commonMistakes": [
+          "食べても (먹어도)",
+          "高くても (비싸도)",
+          "静かでも (조용해도)"
+        ]
+      },
+      "conjugation": {
+        "even_if_verb": {
+          "form": "て형+も",
+          "meaning": "~해도"
+        },
+        "even_if_i_adj": {
+          "form": "〜くても",
+          "meaning": "~해도"
+        },
+        "even_if_na_adj": {
+          "form": "〜でも",
+          "meaning": "~해도"
+        }
+      },
+      "examples": [
+        {
+          "ja": "雨が降っても、サッカーをします。",
+          "reading": "あめがふっても、サッカーをします。",
+          "ko": "비가 와도 축구를 합니다.",
+          "audio": null
+        },
+        {
+          "ja": "高くても買います。",
+          "reading": "たかくてもかいます。",
+          "ko": "비싸도 삽니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "忙しいです → 양보형",
+          "answer": "忙しくても",
+          "acceptableAnswers": [
+            "いそがしくても"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_007",
+        "n5_046"
+      ],
+      "relatedKanji": [
+        "雨",
+        "降",
+        "高",
+        "買"
+      ],
+      "tags": [
+        "양보",
+        "て형",
+        "접속"
+      ]
+    },
+    {
+      "id": "n5_063",
+      "pattern": "〜ことにします",
+      "patternReading": "〜ことにします",
+      "meaning": "~하기로 합니다 (결정)",
+      "jlpt": "N5",
+      "category": "결정",
+      "order": 63,
+      "explanation": {
+        "summary": "결정을 나타내는 표현",
+        "detail": "동사 사전형/ない형 + ことにします로 '~하기로 하다'를 표현합니다.",
+        "koreanComparison": "한국어 '~하기로 합니다', '~하기로 결정합니다'와 동일합니다.",
+        "commonMistakes": [
+          "ことにする: 스스로 결정",
+          "ことになる: 결정이 됨 (타인/상황)",
+          "ない형+ことにする: 안 하기로 하다"
+        ]
+      },
+      "conjugation": {
+        "decide_to": {
+          "form": "〜ことにします",
+          "meaning": "~하기로 합니다"
+        },
+        "decide_not_to": {
+          "form": "〜ないことにします",
+          "meaning": "~안 하기로 합니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "来年、日本に行くことにしました。",
+          "reading": "らいねん、にほんにいくことにしました。",
+          "ko": "내년에 일본에 가기로 했습니다.",
+          "audio": null
+        },
+        {
+          "ja": "今日から運動することにします。",
+          "reading": "きょうかうんどうすることにします。",
+          "ko": "오늘부터 운동하기로 합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "タバコをやめます → 결정형",
+          "answer": "タバコをやめることにします",
+          "acceptableAnswers": [
+            "タバコをやめることにします"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_044"
+      ],
+      "relatedKanji": [
+        "来",
+        "年",
+        "日",
+        "本",
+        "今"
+      ],
+      "tags": [
+        "결정",
+        "동사",
+        "의지"
+      ]
+    },
+    {
+      "id": "n5_064",
+      "pattern": "〜てみます",
+      "patternReading": "〜てみます",
+      "meaning": "~해 봅니다 (시도)",
+      "jlpt": "N5",
+      "category": "시도",
+      "order": 64,
+      "explanation": {
+        "summary": "시도를 나타내는 표현",
+        "detail": "동사 て형 + みます로 '~해 보다'를 표현합니다.",
+        "koreanComparison": "한국어 '~해 봅니다'와 동일합니다.",
+        "commonMistakes": [
+          "食べてみる (먹어 보다)",
+          "着てみる (입어 보다)",
+          "やってみる (해 보다)"
+        ]
+      },
+      "conjugation": {
+        "try": {
+          "form": "〜てみます",
+          "meaning": "~해 봅니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この料理を食べてみてください。",
+          "reading": "このりょうりをたべてみてください。",
+          "ko": "이 요리를 먹어 보세요.",
+          "audio": null
+        },
+        {
+          "ja": "一度日本に行ってみたいです。",
+          "reading": "いちどにほんにいってみたいです。",
+          "ko": "한번 일본에 가 보고 싶습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "着ます → 시도형",
+          "answer": "着てみます",
+          "acceptableAnswers": [
+            "きてみます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "料",
+        "理",
+        "食",
+        "一",
+        "度"
+      ],
+      "tags": [
+        "시도",
+        "て형",
+        "경험"
+      ]
+    },
+    {
+      "id": "n5_065",
+      "pattern": "〜てしまいます",
+      "patternReading": "〜てしまいます",
+      "meaning": "~해 버립니다 (완료/유감)",
+      "jlpt": "N5",
+      "category": "완료",
+      "order": 65,
+      "explanation": {
+        "summary": "완료 또는 유감을 나타내는 표현",
+        "detail": "동사 て형 + しまいます로 '~해 버리다'를 표현합니다. 완료나 유감의 뉘앙스가 있습니다.",
+        "koreanComparison": "한국어 '~해 버리다'와 동일합니다.",
+        "commonMistakes": [
+          "完了: 食べてしまった (다 먹어버렸다)",
+          "遺憾: 財布をなくしてしまった (지갑을 잃어버렸다)",
+          "口語: ~ちゃう/~じゃう"
+        ]
+      },
+      "conjugation": {
+        "complete": {
+          "form": "〜てしまいます",
+          "meaning": "~해 버립니다"
+        },
+        "casual": {
+          "form": "〜ちゃう/〜じゃう",
+          "meaning": "~해 버려 (구어)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "全部食べてしまいました。",
+          "reading": "ぜんぶたべてしまいました。",
+          "ko": "전부 먹어 버렸습니다.",
+          "audio": null
+        },
+        {
+          "ja": "電車に傘を忘れてしまいました。",
+          "reading": "でんしゃにかさをわすれてしまいました。",
+          "ko": "전철에 우산을 두고 와 버렸습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "なくします → 유감 완료형",
+          "answer": "なくしてしまいます",
+          "acceptableAnswers": [
+            "なくしてしまいます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "全",
+        "部",
+        "食",
+        "電",
+        "車"
+      ],
+      "tags": [
+        "완료",
+        "유감",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_066",
+      "pattern": "〜といい",
+      "patternReading": "〜といい",
+      "meaning": "~하면 좋겠다",
+      "jlpt": "N5",
+      "category": "희망",
+      "order": 66,
+      "explanation": {
+        "summary": "희망이나 바람을 나타내는 표현",
+        "detail": "보통형 + といいです로 '~하면 좋겠다'를 표현합니다.",
+        "koreanComparison": "한국어 '~하면 좋겠다', '~했으면 좋겠다'와 동일합니다.",
+        "commonMistakes": [
+          "晴れるといい (맑으면 좋겠다)",
+          "来るといい (오면 좋겠다)",
+          "자신: といいなあ"
+        ]
+      },
+      "conjugation": {
+        "hope": {
+          "form": "〜といいです",
+          "meaning": "~하면 좋겠습니다"
+        },
+        "hope_casual": {
+          "form": "〜といいなあ",
+          "meaning": "~하면 좋겠다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日、天気がいいといいですね。",
+          "reading": "あした、てんきがいいといいですね。",
+          "ko": "내일 날씨가 좋으면 좋겠네요.",
+          "audio": null
+        },
+        {
+          "ja": "試験に受かるといいなあ。",
+          "reading": "しけんにうかるといいなあ。",
+          "ko": "시험에 붙으면 좋겠다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "비가 그치면 좋겠습니다.",
+          "answer": "雨がやむといいです。",
+          "acceptableAnswers": [
+            "あめがやむといいです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_006",
+        "n5_043"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "天",
+        "気",
+        "試"
+      ],
+      "tags": [
+        "희망",
+        "바람",
+        "조건"
+      ]
+    },
+    {
+      "id": "n5_067",
+      "pattern": "〜ておきます",
+      "patternReading": "〜ておきます",
+      "meaning": "~해 둡니다 (준비/방치)",
+      "jlpt": "N5",
+      "category": "준비",
+      "order": 67,
+      "explanation": {
+        "summary": "사전 준비나 방치를 나타내는 표현",
+        "detail": "동사 て형 + おきます로 '~해 두다'를 표현합니다. 미리 해두거나 그대로 두는 뉘앙스입니다.",
+        "koreanComparison": "한국어 '~해 둡니다'와 동일합니다.",
+        "commonMistakes": [
+          "準備: 予約しておく (예약해 두다)",
+          "放置: 窓を開けておく (창문을 열어 두다)",
+          "口語: ~とく"
+        ]
+      },
+      "conjugation": {
+        "prepare": {
+          "form": "〜ておきます",
+          "meaning": "~해 둡니다"
+        },
+        "casual": {
+          "form": "〜とく",
+          "meaning": "~해 둬 (구어)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "レストランを予約しておきました。",
+          "reading": "レストランをよやくしておきました。",
+          "ko": "레스토랑을 예약해 두었습니다.",
+          "audio": null
+        },
+        {
+          "ja": "冷蔵庫に入れておいてください。",
+          "reading": "れいぞうこにいれておいてください。",
+          "ko": "냉장고에 넣어 두세요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "準備します → 준비해둠 형",
+          "answer": "準備しておきます",
+          "acceptableAnswers": [
+            "じゅんびしておきます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_007"
+      ],
+      "relatedKanji": [
+        "予",
+        "約",
+        "冷",
+        "蔵",
+        "庫"
+      ],
+      "tags": [
+        "준비",
+        "방치",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_068",
+      "pattern": "〜てあげます",
+      "patternReading": "〜てあげます",
+      "meaning": "~해 줍니다 (수혜)",
+      "jlpt": "N5",
+      "category": "수수",
+      "order": 68,
+      "explanation": {
+        "summary": "다른 사람을 위해 해주는 것을 나타내는 표현",
+        "detail": "동사 て형 + あげます로 '(다른 사람에게) ~해 주다'를 표현합니다.",
+        "koreanComparison": "한국어 '~해 줍니다'와 동일합니다.",
+        "commonMistakes": [
+          "あげる: 나→타인",
+          "もらう: 타인→나",
+          "くれる: 타인→나 (감사)"
+        ]
+      },
+      "conjugation": {
+        "do_for": {
+          "form": "〜てあげます",
+          "meaning": "~해 줍니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "友達に日本語を教えてあげました。",
+          "reading": "ともだちににほんごをおしえてあげました。",
+          "ko": "친구에게 일본어를 가르쳐 주었습니다.",
+          "audio": null
+        },
+        {
+          "ja": "荷物を持ってあげましょうか。",
+          "reading": "にもつをもってあげましょうか。",
+          "ko": "짐을 들어 드릴까요?",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "手伝います → 수혜표현",
+          "answer": "手伝ってあげます",
+          "acceptableAnswers": [
+            "てつだってあげます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_069",
+        "n5_070"
+      ],
+      "relatedKanji": [
+        "友",
+        "達",
+        "日",
+        "本",
+        "語"
+      ],
+      "tags": [
+        "수수",
+        "호의",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_069",
+      "pattern": "〜てもらいます",
+      "patternReading": "〜てもらいます",
+      "meaning": "~해 받습니다",
+      "jlpt": "N5",
+      "category": "수수",
+      "order": 69,
+      "explanation": {
+        "summary": "다른 사람으로부터 받는 것을 나타내는 표현",
+        "detail": "동사 て형 + もらいます로 '(다른 사람에게) ~해 받다'를 표현합니다.",
+        "koreanComparison": "한국어 '~해 받습니다'와 동일합니다.",
+        "commonMistakes": [
+          "에게: に",
+          "친구에게 가르쳐 받다 = 친구가 가르쳐 주다"
+        ]
+      },
+      "conjugation": {
+        "receive": {
+          "form": "〜てもらいます",
+          "meaning": "~해 받습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "友達に引っ越しを手伝ってもらいました。",
+          "reading": "ともだちにひっこしをてつだってもらいました。",
+          "ko": "친구에게 이사를 도와 받았습니다.",
+          "audio": null
+        },
+        {
+          "ja": "先生に推薦状を書いてもらいました。",
+          "reading": "せんせいにすいせんじょうをかいてもらいました。",
+          "ko": "선생님께 추천서를 써 받았습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "教えます → 수혜받음 표현",
+          "answer": "教えてもらいます",
+          "acceptableAnswers": [
+            "おしえてもらいます"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_068",
+        "n5_070"
+      ],
+      "relatedKanji": [
+        "友",
+        "達",
+        "引",
+        "越",
+        "手"
+      ],
+      "tags": [
+        "수수",
+        "받음",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_070",
+      "pattern": "〜てくれます",
+      "patternReading": "〜てくれます",
+      "meaning": "~해 줍니다 (감사)",
+      "jlpt": "N5",
+      "category": "수수",
+      "order": 70,
+      "explanation": {
+        "summary": "다른 사람이 나를 위해 해주는 것을 감사히 표현",
+        "detail": "동사 て형 + くれます로 '(타인이 나에게) ~해 주다'를 표현합니다. 감사의 뉘앙스가 있습니다.",
+        "koreanComparison": "한국어 '(고맙게도) ~해 줍니다'와 유사합니다.",
+        "commonMistakes": [
+          "くれる: 타인→나/나의 영역",
+          "あげる: 나→타인",
+          "감사의 뉘앙스 포함"
+        ]
+      },
+      "conjugation": {
+        "do_for_me": {
+          "form": "〜てくれます",
+          "meaning": "~해 줍니다 (감사)"
+        }
+      },
+      "examples": [
+        {
+          "ja": "母が料理を作ってくれました。",
+          "reading": "ははがりょうりをつくってくれました。",
+          "ko": "어머니가 요리를 만들어 주셨습니다.",
+          "audio": null
+        },
+        {
+          "ja": "友達が駅まで送ってくれました。",
+          "reading": "ともだちがえきまでおくってくれました。",
+          "ko": "친구가 역까지 바래다 주었습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "先生が本を貸して＿＿＿ました。",
+          "options": [
+            "くれ",
+            "あげ",
+            "もらい",
+            "おき"
+          ],
+          "answer": "くれ",
+          "explanation": "선생님(타인)이 나에게 해준 것이므로 'くれ'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_068",
+        "n5_069"
+      ],
+      "relatedKanji": [
+        "母",
+        "料",
+        "理",
+        "作",
+        "友"
+      ],
+      "tags": [
+        "수수",
+        "감사",
+        "て형"
+      ]
+    },
+    {
+      "id": "n5_071",
+      "pattern": "〜という",
+      "patternReading": "〜という",
+      "meaning": "~라고 하는",
+      "jlpt": "N5",
+      "category": "명칭",
+      "order": 71,
+      "explanation": {
+        "summary": "명칭이나 이름을 나타내는 표현",
+        "detail": "명사 + という + 명사로 '~라고 하는 ~'를 표현합니다.",
+        "koreanComparison": "한국어 '~라고 하는', '~라는'과 동일합니다.",
+        "commonMistakes": [
+          "「桜」という花 (사쿠라라고 하는 꽃)",
+          "田中という人 (다나카라는 사람)"
+        ]
+      },
+      "conjugation": {
+        "called": {
+          "form": "〜という〜",
+          "meaning": "~라고 하는 ~"
+        }
+      },
+      "examples": [
+        {
+          "ja": "「すし」という料理を知っていますか。",
+          "reading": "「すし」というりょうりをしっていますか。",
+          "ko": "'스시'라고 하는 요리를 알고 있습니까?",
+          "audio": null
+        },
+        {
+          "ja": "東京という町に住んでいます。",
+          "reading": "とうきょうというまちにすんでいます。",
+          "ko": "도쿄라는 마을에 살고 있습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "「富士山」＿＿＿＿山は日本で一番高いです。",
+          "options": [
+            "という",
+            "との",
+            "とは",
+            "とが"
+          ],
+          "answer": "という",
+          "explanation": "이름을 소개하므로 'という'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_061"
+      ],
+      "relatedKanji": [
+        "料",
+        "理",
+        "知",
+        "東",
+        "京"
+      ],
+      "tags": [
+        "명칭",
+        "이름",
+        "소개"
+      ]
+    },
+    {
+      "id": "n5_072",
+      "pattern": "〜とき",
+      "patternReading": "〜とき",
+      "meaning": "~할 때",
+      "jlpt": "N5",
+      "category": "시간",
+      "order": 72,
+      "explanation": {
+        "summary": "시점이나 상황을 나타내는 표현",
+        "detail": "동사 사전형/た형/형용사/명사の + とき로 '~할 때'를 표현합니다.",
+        "koreanComparison": "한국어 '~할 때', '~했을 때'와 동일합니다.",
+        "commonMistakes": [
+          "行くとき (갈 때 - 아직 안 감)",
+          "行ったとき (갔을 때 - 이미 감)",
+          "子供のとき (어릴 때)"
+        ]
+      },
+      "conjugation": {
+        "when_present": {
+          "form": "사전형+とき",
+          "meaning": "~할 때"
+        },
+        "when_past": {
+          "form": "た형+とき",
+          "meaning": "~했을 때"
+        },
+        "when_noun": {
+          "form": "명사+のとき",
+          "meaning": "~ 때"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本に行くとき、パスポートが必要です。",
+          "reading": "にほんにいくとき、パスポートがひつようです。",
+          "ko": "일본에 갈 때 여권이 필요합니다.",
+          "audio": null
+        },
+        {
+          "ja": "子供のとき、よくここで遊びました。",
+          "reading": "こどものとき、よくここであそびました。",
+          "ko": "어릴 때 자주 여기서 놀았습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "寝る＿＿＿、歯を磨きます。",
+          "options": [
+            "とき",
+            "から",
+            "ので",
+            "ために"
+          ],
+          "answer": "とき",
+          "explanation": "~할 때를 나타내므로 'とき'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_033",
+        "n5_034"
+      ],
+      "relatedKanji": [
+        "日",
+        "本",
+        "行",
+        "子",
+        "供"
+      ],
+      "tags": [
+        "시간",
+        "때",
+        "조건"
+      ]
+    },
+    {
+      "id": "n5_073",
+      "pattern": "〜ところ",
+      "patternReading": "〜ところ",
+      "meaning": "~하는 중/막 ~한 참",
+      "jlpt": "N5",
+      "category": "상태",
+      "order": 73,
+      "explanation": {
+        "summary": "동작의 단계/시점을 나타내는 표현",
+        "detail": "동사 사전형/ている/た형 + ところ로 '막 ~하려는/하는 중인/한 참'을 표현합니다.",
+        "koreanComparison": "한국어 '~하는 중', '막 ~한 참'과 동일합니다.",
+        "commonMistakes": [
+          "食べるところ (막 먹으려는 참)",
+          "食べているところ (먹는 중)",
+          "食べたところ (막 먹은 참)"
+        ]
+      },
+      "conjugation": {
+        "about_to": {
+          "form": "사전형+ところ",
+          "meaning": "막 ~하려는 참"
+        },
+        "in_middle": {
+          "form": "ている+ところ",
+          "meaning": "~하는 중"
+        },
+        "just_did": {
+          "form": "た형+ところ",
+          "meaning": "막 ~한 참"
+        }
+      },
+      "examples": [
+        {
+          "ja": "今、出かけるところです。",
+          "reading": "いま、でかけるところです。",
+          "ko": "지금 막 나가려는 참입니다.",
+          "audio": null
+        },
+        {
+          "ja": "今、ご飯を食べているところです。",
+          "reading": "いま、ごはんをたべているところです。",
+          "ko": "지금 밥을 먹고 있는 중입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "「今、起きたところです」의 의미는?",
+          "options": [
+            "막 일어난 참이다",
+            "일어나려는 참이다",
+            "일어나고 있다",
+            "일어날 것이다"
+          ],
+          "answer": "막 일어난 참이다",
+          "explanation": "た형+ところ는 '막 ~한 참'입니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_008"
+      ],
+      "relatedKanji": [
+        "今",
+        "出",
+        "飯",
+        "食",
+        "起"
+      ],
+      "tags": [
+        "상태",
+        "시점",
+        "동작"
+      ]
+    },
+    {
+      "id": "n5_074",
+      "pattern": "〜はずです",
+      "patternReading": "〜はずです",
+      "meaning": "~할 것입니다/~인 것입니다",
+      "jlpt": "N5",
+      "category": "추측",
+      "order": 74,
+      "explanation": {
+        "summary": "당연한 예상이나 추측을 나타내는 표현",
+        "detail": "보통형 + はずです로 '당연히 ~일 것이다'를 표현합니다. 확신이 있는 추측입니다.",
+        "koreanComparison": "한국어 '~할 것입니다', '~일 것입니다' (당연히)와 동일합니다.",
+        "commonMistakes": [
+          "でしょう보다 확신 높음",
+          "明日は晴れるはず (내일은 맑을 것이다)",
+          "부정: はずがない"
+        ]
+      },
+      "conjugation": {
+        "should_be": {
+          "form": "〜はずです",
+          "meaning": "~일 것입니다"
+        },
+        "shouldnt_be": {
+          "form": "〜はずがありません",
+          "meaning": "~일 리가 없습니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "彼は知っているはずです。",
+          "reading": "かれはしっているはずです。",
+          "ko": "그는 알고 있을 것입니다.",
+          "audio": null
+        },
+        {
+          "ja": "電車はもうすぐ来るはずです。",
+          "reading": "でんしゃはもうすぐくるはずです。",
+          "ko": "전철은 곧 올 것입니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "그녀는 여기에 있을 것입니다.",
+          "answer": "彼女はここにいるはずです。",
+          "acceptableAnswers": [
+            "かのじょはここにいるはずです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_041",
+        "n5_042"
+      ],
+      "relatedKanji": [
+        "彼",
+        "知",
+        "電",
+        "車",
+        "来"
+      ],
+      "tags": [
+        "추측",
+        "확신",
+        "예상"
+      ]
+    },
+    {
+      "id": "n5_075",
+      "pattern": "〜みたいです",
+      "patternReading": "〜みたいです",
+      "meaning": "~같습니다/~인 것 같습니다",
+      "jlpt": "N5",
+      "category": "추측",
+      "order": 75,
+      "explanation": {
+        "summary": "추측이나 비유를 나타내는 구어적 표현",
+        "detail": "보통형/명사 + みたいです로 '~같다', '~인 것 같다'를 표현합니다. ようです보다 구어적입니다.",
+        "koreanComparison": "한국어 '~같습니다', '~인 것 같습니다'와 동일합니다.",
+        "commonMistakes": [
+          "추측: 雨が降るみたい (비가 올 것 같다)",
+          "비유: 子供みたい (아이 같다)",
+          "ようです: 격식체"
+        ]
+      },
+      "conjugation": {
+        "seems_like": {
+          "form": "〜みたいです",
+          "meaning": "~인 것 같습니다"
+        },
+        "like_noun": {
+          "form": "명사+みたい",
+          "meaning": "~ 같다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "彼は忙しいみたいです。",
+          "reading": "かれはいそがしいみたいです。",
+          "ko": "그는 바쁜 것 같습니다.",
+          "audio": null
+        },
+        {
+          "ja": "この問題は簡単みたいですね。",
+          "reading": "このもんだいはかんたんみたいですね。",
+          "ko": "이 문제는 간단한 것 같네요.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "translate",
+          "question": "비가 올 것 같습니다.",
+          "answer": "雨が降るみたいです。",
+          "acceptableAnswers": [
+            "あめがふるみたいです。"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_041",
+        "n5_042"
+      ],
+      "relatedKanji": [
+        "彼",
+        "忙",
+        "問",
+        "題",
+        "簡"
+      ],
+      "tags": [
+        "추측",
+        "비유",
+        "구어"
+      ]
+    },
+    {
+      "id": "n5_076",
+      "pattern": "〜そうです（様態）",
+      "patternReading": "〜そうです（ようたい）",
+      "meaning": "~할 것 같다 (외관 판단)",
+      "jlpt": "N5",
+      "category": "추측",
+      "order": 76,
+      "explanation": {
+        "summary": "외관이나 상황으로 보이는 상태를 나타내는 표현",
+        "detail": "동사 ます형 어간/い형용사 어간/な형용사 어간 + そうです로 '~할 것 같다'를 표현합니다.",
+        "koreanComparison": "한국어 '~할 것 같다', '~해 보인다'와 동일합니다.",
+        "commonMistakes": [
+          "おいしそう (맛있어 보인다)",
+          "雨が降りそう (비가 올 것 같다)",
+          "いい→よさそう, ない→なさそう"
+        ]
+      },
+      "conjugation": {
+        "looks_verb": {
+          "form": "ます어간+そうです",
+          "meaning": "~할 것 같습니다"
+        },
+        "looks_i_adj": {
+          "form": "い→そうです",
+          "meaning": "~해 보입니다"
+        },
+        "looks_na_adj": {
+          "form": "어간+そうです",
+          "meaning": "~해 보입니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "この料理はおいしそうですね。",
+          "reading": "このりょうりはおいしそうですね。",
+          "ko": "이 요리는 맛있어 보이네요.",
+          "audio": null
+        },
+        {
+          "ja": "雨が降りそうです。",
+          "reading": "あめがふりそうです。",
+          "ko": "비가 올 것 같습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "難しいです → 외관 추측형",
+          "answer": "難しそうです",
+          "acceptableAnswers": [
+            "むずかしそうです"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_077"
+      ],
+      "relatedKanji": [
+        "料",
+        "理",
+        "雨",
+        "降"
+      ],
+      "tags": [
+        "추측",
+        "외관",
+        "판단"
+      ]
+    },
+    {
+      "id": "n5_077",
+      "pattern": "〜そうです（伝聞）",
+      "patternReading": "〜そうです（でんぶん）",
+      "meaning": "~라고 합니다 (전문)",
+      "jlpt": "N5",
+      "category": "전문",
+      "order": 77,
+      "explanation": {
+        "summary": "들은 정보를 전달하는 표현",
+        "detail": "보통형 + そうです로 '~라고 합니다'를 표현합니다. 様態의 そう와 접속이 다릅니다.",
+        "koreanComparison": "한국어 '~라고 합니다', '~라고 들었습니다'와 동일합니다.",
+        "commonMistakes": [
+          "様態: おいしそう (맛있어 보인다)",
+          "伝聞: おいしいそうだ (맛있다고 한다)",
+          "伝聞은 보통형에 직접 접속"
+        ]
+      },
+      "conjugation": {
+        "heard_that": {
+          "form": "보통형+そうです",
+          "meaning": "~라고 합니다"
+        }
+      },
+      "examples": [
+        {
+          "ja": "明日は雨だそうです。",
+          "reading": "あしたはあめだそうです。",
+          "ko": "내일은 비라고 합니다.",
+          "audio": null
+        },
+        {
+          "ja": "田中さんは結婚したそうです。",
+          "reading": "たなかさんはけっこんしたそうです。",
+          "ko": "다나카 씨는 결혼했다고 합니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "question": "「彼は忙しいそうです」의 의미는?",
+          "options": [
+            "그가 바쁘다고 들었다",
+            "그가 바빠 보인다",
+            "그가 바쁠 것이다",
+            "그가 바쁘면 좋겠다"
+          ],
+          "answer": "그가 바쁘다고 들었다",
+          "explanation": "보통형+そうです는 전문입니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_076",
+        "n5_061"
+      ],
+      "relatedKanji": [
+        "明",
+        "日",
+        "雨",
+        "田",
+        "中"
+      ],
+      "tags": [
+        "전문",
+        "정보",
+        "인용"
+      ]
+    },
+    {
+      "id": "n5_078",
+      "pattern": "〜なら",
+      "patternReading": "〜なら",
+      "meaning": "~라면 (조건)",
+      "jlpt": "N5",
+      "category": "조건",
+      "order": 78,
+      "explanation": {
+        "summary": "조건이나 화제를 제시하는 표현",
+        "detail": "명사/보통형 + なら로 '~라면'을 표현합니다. 상대방의 말을 받아서 조건을 제시합니다.",
+        "koreanComparison": "한국어 '~라면'과 동일합니다.",
+        "commonMistakes": [
+          "日本に行くなら (일본에 간다면)",
+          "안드면なら (안드라면)",
+          "상대 발언을 받을 때 주로 사용"
+        ]
+      },
+      "conjugation": {
+        "if_noun": {
+          "form": "명사+なら",
+          "meaning": "~라면"
+        },
+        "if_verb": {
+          "form": "보통형+なら",
+          "meaning": "~라면"
+        }
+      },
+      "examples": [
+        {
+          "ja": "日本に行くなら、京都がおすすめです。",
+          "reading": "にほんにいくなら、きょうとがおすすめです。",
+          "ko": "일본에 간다면 교토를 추천합니다.",
+          "audio": null
+        },
+        {
+          "ja": "安いなら、買います。",
+          "reading": "やすいなら、かいます。",
+          "ko": "싸다면 삽니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "fill_blank",
+          "question": "時間がある＿＿＿、手伝ってください。",
+          "options": [
+            "なら",
+            "から",
+            "けど",
+            "ので"
+          ],
+          "answer": "なら",
+          "explanation": "조건을 나타내므로 'なら'가 적절합니다."
+        }
+      ],
+      "relatedGrammar": [
+        "n5_079"
+      ],
+      "relatedKanji": [
+        "日",
+        "本",
+        "行",
+        "京",
+        "都"
+      ],
+      "tags": [
+        "조건",
+        "화제",
+        "가정"
+      ]
+    },
+    {
+      "id": "n5_079",
+      "pattern": "〜たら",
+      "patternReading": "〜たら",
+      "meaning": "~하면/~했더니 (조건)",
+      "jlpt": "N5",
+      "category": "조건",
+      "order": 79,
+      "explanation": {
+        "summary": "조건이나 가정을 나타내는 표현",
+        "detail": "동사 た형 + ら로 '~하면', '~했더니'를 표현합니다. 완료 후의 결과를 나타냅니다.",
+        "koreanComparison": "한국어 '~하면', '~했더니'와 동일합니다.",
+        "commonMistakes": [
+          "食べたら (먹으면)",
+          "雨が降ったら (비가 오면)",
+          "과거: 行ったら、いなかった (갔더니 없었다)"
+        ]
+      },
+      "conjugation": {
+        "if_verb": {
+          "form": "た형+ら",
+          "meaning": "~하면"
+        },
+        "if_adj": {
+          "form": "かったら",
+          "meaning": "~하면"
+        },
+        "if_noun": {
+          "form": "だったら",
+          "meaning": "~라면"
+        }
+      },
+      "examples": [
+        {
+          "ja": "時間があったら、遊びに来てください。",
+          "reading": "じかんがあったら、あそびにきてください。",
+          "ko": "시간이 있으면 놀러 오세요.",
+          "audio": null
+        },
+        {
+          "ja": "窓を開けたら、鳥が入ってきました。",
+          "reading": "まどをあけたら、とりがはいってきました。",
+          "ko": "창문을 열었더니 새가 들어왔습니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "終わります → 조건형",
+          "answer": "終わったら",
+          "acceptableAnswers": [
+            "おわったら"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_078",
+        "n5_080"
+      ],
+      "relatedKanji": [
+        "時",
+        "間",
+        "遊",
+        "窓",
+        "開"
+      ],
+      "tags": [
+        "조건",
+        "가정",
+        "た형"
+      ]
+    },
+    {
+      "id": "n5_080",
+      "pattern": "〜ば",
+      "patternReading": "〜ば",
+      "meaning": "~하면 (조건)",
+      "jlpt": "N5",
+      "category": "조건",
+      "order": 80,
+      "explanation": {
+        "summary": "가정 조건을 나타내는 표현",
+        "detail": "동사 ば형으로 '~하면'을 표현합니다. 일반적인 조건을 나타냅니다.",
+        "koreanComparison": "한국어 '~하면'과 동일합니다.",
+        "commonMistakes": [
+          "1그룹: u→e+ば (書く→書けば)",
+          "2그룹: る→れば (食べる→食べれば)",
+          "ある→あれば, いる→いれば"
+        ]
+      },
+      "conjugation": {
+        "if_group1": {
+          "form": "う→えば",
+          "meaning": "~하면"
+        },
+        "if_group2": {
+          "form": "る→れば",
+          "meaning": "~하면"
+        },
+        "if_i_adj": {
+          "form": "い→ければ",
+          "meaning": "~하면"
+        },
+        "if_na_adj": {
+          "form": "なら/であれば",
+          "meaning": "~하면"
+        }
+      },
+      "examples": [
+        {
+          "ja": "早く起きれば、間に合います。",
+          "reading": "はやくおきれば、まにあいます。",
+          "ko": "일찍 일어나면 시간에 맞습니다.",
+          "audio": null
+        },
+        {
+          "ja": "安ければ買います。",
+          "reading": "やすければかいます。",
+          "ko": "싸면 삽니다.",
+          "audio": null
+        },
+        {
+          "ja": "春になれば、桜が咲きます。",
+          "reading": "はるになれば、さくらがさきます。",
+          "ko": "봄이 되면 벚꽃이 핍니다.",
+          "audio": null
+        }
+      ],
+      "practice": [
+        {
+          "type": "convert",
+          "question": "読みます → ば형",
+          "answer": "読めば",
+          "acceptableAnswers": [
+            "よめば"
+          ]
+        },
+        {
+          "type": "convert",
+          "question": "食べます → ば형",
+          "answer": "食べれば",
+          "acceptableAnswers": [
+            "たべれば"
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "n5_079",
+        "n5_078"
+      ],
+      "relatedKanji": [
+        "早",
+        "起",
+        "間",
+        "合",
+        "春"
+      ],
+      "tags": [
+        "조건",
+        "가정",
+        "ば형"
+      ]
+    }
+  ]
+}

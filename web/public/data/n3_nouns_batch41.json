@@ -1,0 +1,482 @@
+[
+  {
+    "word": "支払い",
+    "reading": "しはらい",
+    "meaning": "지불",
+    "meaningDetail": "납부",
+    "category": "명사",
+    "examples": [
+      { "ja": "支払いを済ませる。", "ko": "지불을 마치다." }
+    ]
+  },
+  {
+    "word": "受け取り",
+    "reading": "うけとり",
+    "meaning": "수령",
+    "meaningDetail": "받음",
+    "category": "명사",
+    "examples": [
+      { "ja": "受け取りを確認する。", "ko": "수령을 확인하다." }
+    ]
+  },
+  {
+    "word": "振り込み",
+    "reading": "ふりこみ",
+    "meaning": "송금",
+    "meaningDetail": "입금",
+    "category": "명사",
+    "examples": [
+      { "ja": "振り込みが完了する。", "ko": "송금이 완료되다." }
+    ]
+  },
+  {
+    "word": "引き落とし",
+    "reading": "ひきおとし",
+    "meaning": "자동이체",
+    "meaningDetail": "출금",
+    "category": "명사",
+    "examples": [
+      { "ja": "引き落としを設定する。", "ko": "자동이체를 설정하다." }
+    ]
+  },
+  {
+    "word": "残高",
+    "reading": "ざんだか",
+    "meaning": "잔고",
+    "meaningDetail": "잔액",
+    "category": "명사",
+    "examples": [
+      { "ja": "残高を確認する。", "ko": "잔고를 확인하다." }
+    ]
+  },
+  {
+    "word": "預金",
+    "reading": "よきん",
+    "meaning": "예금",
+    "meaningDetail": "저축",
+    "category": "명사",
+    "examples": [
+      { "ja": "預金を引き出す。", "ko": "예금을 인출하다." }
+    ]
+  },
+  {
+    "word": "貯金",
+    "reading": "ちょきん",
+    "meaning": "저금",
+    "meaningDetail": "저축",
+    "category": "명사",
+    "examples": [
+      { "ja": "貯金をする。", "ko": "저금을 하다." }
+    ]
+  },
+  {
+    "word": "貯蓄",
+    "reading": "ちょちく",
+    "meaning": "저축",
+    "meaningDetail": "모으기",
+    "category": "명사",
+    "examples": [
+      { "ja": "貯蓄を増やす。", "ko": "저축을 늘리다." }
+    ]
+  },
+  {
+    "word": "投資",
+    "reading": "とうし",
+    "meaning": "투자",
+    "meaningDetail": "출자",
+    "category": "명사",
+    "examples": [
+      { "ja": "投資を行う。", "ko": "투자를 하다." }
+    ]
+  },
+  {
+    "word": "融資",
+    "reading": "ゆうし",
+    "meaning": "융자",
+    "meaningDetail": "대출",
+    "category": "명사",
+    "examples": [
+      { "ja": "融資を受ける。", "ko": "융자를 받다." }
+    ]
+  },
+  {
+    "word": "借入",
+    "reading": "かりいれ",
+    "meaning": "차입",
+    "meaningDetail": "빌림",
+    "category": "명사",
+    "examples": [
+      { "ja": "借入を返済する。", "ko": "차입을 상환하다." }
+    ]
+  },
+  {
+    "word": "返済",
+    "reading": "へんさい",
+    "meaning": "상환",
+    "meaningDetail": "갚음",
+    "category": "명사",
+    "examples": [
+      { "ja": "返済が完了する。", "ko": "상환이 완료되다." }
+    ]
+  },
+  {
+    "word": "利息",
+    "reading": "りそく",
+    "meaning": "이자",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "利息がつく。", "ko": "이자가 붙다." }
+    ]
+  },
+  {
+    "word": "利子",
+    "reading": "りし",
+    "meaning": "이자",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "利子を払う。", "ko": "이자를 지불하다." }
+    ]
+  },
+  {
+    "word": "金利",
+    "reading": "きんり",
+    "meaning": "금리",
+    "meaningDetail": "이율",
+    "category": "명사",
+    "examples": [
+      { "ja": "金利が上がる。", "ko": "금리가 오르다." }
+    ]
+  },
+  {
+    "word": "利率",
+    "reading": "りりつ",
+    "meaning": "이율",
+    "meaningDetail": "이자율",
+    "category": "명사",
+    "examples": [
+      { "ja": "利率を比較する。", "ko": "이율을 비교하다." }
+    ]
+  },
+  {
+    "word": "為替",
+    "reading": "かわせ",
+    "meaning": "환율",
+    "meaningDetail": "환전",
+    "category": "명사",
+    "examples": [
+      { "ja": "為替レートを確認する。", "ko": "환율을 확인하다." }
+    ]
+  },
+  {
+    "word": "外貨",
+    "reading": "がいか",
+    "meaning": "외화",
+    "meaningDetail": "외국돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "外貨を両替する。", "ko": "외화를 환전하다." }
+    ]
+  },
+  {
+    "word": "両替",
+    "reading": "りょうがえ",
+    "meaning": "환전",
+    "meaningDetail": "바꿈",
+    "category": "명사",
+    "examples": [
+      { "ja": "両替をする。", "ko": "환전을 하다." }
+    ]
+  },
+  {
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "물가",
+    "meaningDetail": "가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "物価が上がる。", "ko": "물가가 오르다." }
+    ]
+  },
+  {
+    "word": "価格",
+    "reading": "かかく",
+    "meaning": "가격",
+    "meaningDetail": "값",
+    "category": "명사",
+    "examples": [
+      { "ja": "価格を下げる。", "ko": "가격을 내리다." }
+    ]
+  },
+  {
+    "word": "値段",
+    "reading": "ねだん",
+    "meaning": "값",
+    "meaningDetail": "가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "値段を確認する。", "ko": "값을 확인하다." }
+    ]
+  },
+  {
+    "word": "単価",
+    "reading": "たんか",
+    "meaning": "단가",
+    "meaningDetail": "개당 가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "単価を計算する。", "ko": "단가를 계산하다." }
+    ]
+  },
+  {
+    "word": "定価",
+    "reading": "ていか",
+    "meaning": "정가",
+    "meaningDetail": "표준가격",
+    "category": "명사",
+    "examples": [
+      { "ja": "定価で販売する。", "ko": "정가로 판매하다." }
+    ]
+  },
+  {
+    "word": "原価",
+    "reading": "げんか",
+    "meaning": "원가",
+    "meaningDetail": "비용",
+    "category": "명사",
+    "examples": [
+      { "ja": "原価を削減する。", "ko": "원가를 절감하다." }
+    ]
+  },
+  {
+    "word": "経費",
+    "reading": "けいひ",
+    "meaning": "경비",
+    "meaningDetail": "비용",
+    "category": "명사",
+    "examples": [
+      { "ja": "経費を計上する。", "ko": "경비를 계상하다." }
+    ]
+  },
+  {
+    "word": "費用",
+    "reading": "ひよう",
+    "meaning": "비용",
+    "meaningDetail": "돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "費用を負担する。", "ko": "비용을 부담하다." }
+    ]
+  },
+  {
+    "word": "代金",
+    "reading": "だいきん",
+    "meaning": "대금",
+    "meaningDetail": "값",
+    "category": "명사",
+    "examples": [
+      { "ja": "代金を払う。", "ko": "대금을 지불하다." }
+    ]
+  },
+  {
+    "word": "料金",
+    "reading": "りょうきん",
+    "meaning": "요금",
+    "meaningDetail": "비용",
+    "category": "명사",
+    "examples": [
+      { "ja": "料金を支払う。", "ko": "요금을 지불하다." }
+    ]
+  },
+  {
+    "word": "手数料",
+    "reading": "てすうりょう",
+    "meaning": "수수료",
+    "meaningDetail": "비용",
+    "category": "명사",
+    "examples": [
+      { "ja": "手数料がかかる。", "ko": "수수료가 들다." }
+    ]
+  },
+  {
+    "word": "送料",
+    "reading": "そうりょう",
+    "meaning": "송료",
+    "meaningDetail": "배송비",
+    "category": "명사",
+    "examples": [
+      { "ja": "送料が無料になる。", "ko": "송료가 무료가 되다." }
+    ]
+  },
+  {
+    "word": "運賃",
+    "reading": "うんちん",
+    "meaning": "운임",
+    "meaningDetail": "요금",
+    "category": "명사",
+    "examples": [
+      { "ja": "運賃を払う。", "ko": "운임을 지불하다." }
+    ]
+  },
+  {
+    "word": "家賃",
+    "reading": "やちん",
+    "meaning": "집세",
+    "meaningDetail": "임대료",
+    "category": "명사",
+    "examples": [
+      { "ja": "家賃を支払う。", "ko": "집세를 지불하다." }
+    ]
+  },
+  {
+    "word": "賃金",
+    "reading": "ちんぎん",
+    "meaning": "임금",
+    "meaningDetail": "급료",
+    "category": "명사",
+    "examples": [
+      { "ja": "賃金が上がる。", "ko": "임금이 오르다." }
+    ]
+  },
+  {
+    "word": "給与",
+    "reading": "きゅうよ",
+    "meaning": "급여",
+    "meaningDetail": "월급",
+    "category": "명사",
+    "examples": [
+      { "ja": "給与を受け取る。", "ko": "급여를 받다." }
+    ]
+  },
+  {
+    "word": "報酬",
+    "reading": "ほうしゅう",
+    "meaning": "보수",
+    "meaningDetail": "대가",
+    "category": "명사",
+    "examples": [
+      { "ja": "報酬を得る。", "ko": "보수를 얻다." }
+    ]
+  },
+  {
+    "word": "手当",
+    "reading": "てあて",
+    "meaning": "수당",
+    "meaningDetail": "급부",
+    "category": "명사",
+    "examples": [
+      { "ja": "手当をもらう。", "ko": "수당을 받다." }
+    ]
+  },
+  {
+    "word": "ボーナス",
+    "reading": "ぼーなす",
+    "meaning": "보너스",
+    "meaningDetail": "상여금",
+    "category": "명사",
+    "examples": [
+      { "ja": "ボーナスが出る。", "ko": "보너스가 나오다." }
+    ]
+  },
+  {
+    "word": "年収",
+    "reading": "ねんしゅう",
+    "meaning": "연수입",
+    "meaningDetail": "연봉",
+    "category": "명사",
+    "examples": [
+      { "ja": "年収を計算する。", "ko": "연수입을 계산하다." }
+    ]
+  },
+  {
+    "word": "月収",
+    "reading": "げっしゅう",
+    "meaning": "월수입",
+    "meaningDetail": "월급",
+    "category": "명사",
+    "examples": [
+      { "ja": "月収が増える。", "ko": "월수입이 늘다." }
+    ]
+  },
+  {
+    "word": "売上",
+    "reading": "うりあげ",
+    "meaning": "매출",
+    "meaningDetail": "판매액",
+    "category": "명사",
+    "examples": [
+      { "ja": "売上が伸びる。", "ko": "매출이 늘다." }
+    ]
+  },
+  {
+    "word": "利益",
+    "reading": "りえき",
+    "meaning": "이익",
+    "meaningDetail": "이윤",
+    "category": "명사",
+    "examples": [
+      { "ja": "利益を上げる。", "ko": "이익을 올리다." }
+    ]
+  },
+  {
+    "word": "赤字",
+    "reading": "あかじ",
+    "meaning": "적자",
+    "meaningDetail": "손실",
+    "category": "명사",
+    "examples": [
+      { "ja": "赤字になる。", "ko": "적자가 되다." }
+    ]
+  },
+  {
+    "word": "黒字",
+    "reading": "くろじ",
+    "meaning": "흑자",
+    "meaningDetail": "이익",
+    "category": "명사",
+    "examples": [
+      { "ja": "黒字を達成する。", "ko": "흑자를 달성하다." }
+    ]
+  },
+  {
+    "word": "配当",
+    "reading": "はいとう",
+    "meaning": "배당",
+    "meaningDetail": "분배",
+    "category": "명사",
+    "examples": [
+      { "ja": "配当を受ける。", "ko": "배당을 받다." }
+    ]
+  },
+  {
+    "word": "株式",
+    "reading": "かぶしき",
+    "meaning": "주식",
+    "meaningDetail": "주",
+    "category": "명사",
+    "examples": [
+      { "ja": "株式を購入する。", "ko": "주식을 구입하다." }
+    ]
+  },
+  {
+    "word": "債券",
+    "reading": "さいけん",
+    "meaning": "채권",
+    "meaningDetail": "증권",
+    "category": "명사",
+    "examples": [
+      { "ja": "債券を発行する。", "ko": "채권을 발행하다." }
+    ]
+  },
+  {
+    "word": "証券",
+    "reading": "しょうけん",
+    "meaning": "증권",
+    "meaningDetail": "유가증권",
+    "category": "명사",
+    "examples": [
+      { "ja": "証券を取引する。", "ko": "증권을 거래하다." }
+    ]
+  }
+]

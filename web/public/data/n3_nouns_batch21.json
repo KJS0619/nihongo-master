@@ -1,0 +1,492 @@
+[
+  {
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "meaningDetail": "가르침",
+    "category": "명사",
+    "examples": [
+      { "ja": "教育を受ける。", "ko": "교육을 받는다." }
+    ]
+  },
+  {
+    "word": "学習",
+    "reading": "がくしゅう",
+    "meaning": "학습",
+    "meaningDetail": "배움",
+    "category": "명사",
+    "examples": [
+      { "ja": "学習を続ける。", "ko": "학습을 계속한다." }
+    ]
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "공부",
+    "meaningDetail": "배움",
+    "category": "명사",
+    "examples": [
+      { "ja": "勉強に励む。", "ko": "공부에 힘쓴다." }
+    ]
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning": "연습",
+    "meaningDetail": "익힘",
+    "category": "명사",
+    "examples": [
+      { "ja": "練習を重ねる。", "ko": "연습을 거듭한다." }
+    ]
+  },
+  {
+    "word": "訓練",
+    "reading": "くんれん",
+    "meaning": "훈련",
+    "meaningDetail": "단련",
+    "category": "명사",
+    "examples": [
+      { "ja": "訓練を受ける。", "ko": "훈련을 받는다." }
+    ]
+  },
+  {
+    "word": "研修",
+    "reading": "けんしゅう",
+    "meaning": "연수",
+    "meaningDetail": "교육 훈련",
+    "category": "명사",
+    "examples": [
+      { "ja": "研修に参加する。", "ko": "연수에 참가한다." }
+    ]
+  },
+  {
+    "word": "講習",
+    "reading": "こうしゅう",
+    "meaning": "강습",
+    "meaningDetail": "가르침",
+    "category": "명사",
+    "examples": [
+      { "ja": "講習を受ける。", "ko": "강습을 받는다." }
+    ]
+  },
+  {
+    "word": "講義",
+    "reading": "こうぎ",
+    "meaning": "강의",
+    "meaningDetail": "수업",
+    "category": "명사",
+    "examples": [
+      { "ja": "講義を聴く。", "ko": "강의를 듣는다." }
+    ]
+  },
+  {
+    "word": "講演",
+    "reading": "こうえん",
+    "meaning": "강연",
+    "meaningDetail": "연설",
+    "category": "명사",
+    "examples": [
+      { "ja": "講演を行う。", "ko": "강연을 한다." }
+    ]
+  },
+  {
+    "word": "演説",
+    "reading": "えんぜつ",
+    "meaning": "연설",
+    "meaningDetail": "연설",
+    "category": "명사",
+    "examples": [
+      { "ja": "演説をする。", "ko": "연설을 한다." }
+    ]
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "발표",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "発表を行う。", "ko": "발표를 한다." }
+    ]
+  },
+  {
+    "word": "報道",
+    "reading": "ほうどう",
+    "meaning": "보도",
+    "meaningDetail": "알림",
+    "category": "명사",
+    "examples": [
+      { "ja": "報道を見る。", "ko": "보도를 본다." }
+    ]
+  },
+  {
+    "word": "放送",
+    "reading": "ほうそう",
+    "meaning": "방송",
+    "meaningDetail": "송출",
+    "category": "명사",
+    "examples": [
+      { "ja": "放送を見る。", "ko": "방송을 본다." }
+    ]
+  },
+  {
+    "word": "出版",
+    "reading": "しゅっぱん",
+    "meaning": "출판",
+    "meaningDetail": "발행",
+    "category": "명사",
+    "examples": [
+      { "ja": "本を出版する。", "ko": "책을 출판한다." }
+    ]
+  },
+  {
+    "word": "発行",
+    "reading": "はっこう",
+    "meaning": "발행",
+    "meaningDetail": "냄",
+    "category": "명사",
+    "examples": [
+      { "ja": "雑誌を発行する。", "ko": "잡지를 발행한다." }
+    ]
+  },
+  {
+    "word": "印刷",
+    "reading": "いんさつ",
+    "meaning": "인쇄",
+    "meaningDetail": "찍기",
+    "category": "명사",
+    "examples": [
+      { "ja": "書類を印刷する。", "ko": "서류를 인쇄한다." }
+    ]
+  },
+  {
+    "word": "複写",
+    "reading": "ふくしゃ",
+    "meaning": "복사",
+    "meaningDetail": "베끼기",
+    "category": "명사",
+    "examples": [
+      { "ja": "書類を複写する。", "ko": "서류를 복사한다." }
+    ]
+  },
+  {
+    "word": "撮影",
+    "reading": "さつえい",
+    "meaning": "촬영",
+    "meaningDetail": "찍기",
+    "category": "명사",
+    "examples": [
+      { "ja": "映画を撮影する。", "ko": "영화를 촬영한다." }
+    ]
+  },
+  {
+    "word": "録音",
+    "reading": "ろくおん",
+    "meaning": "녹음",
+    "meaningDetail": "소리 녹음",
+    "category": "명사",
+    "examples": [
+      { "ja": "音声を録音する。", "ko": "음성을 녹음한다." }
+    ]
+  },
+  {
+    "word": "録画",
+    "reading": "ろくが",
+    "meaning": "녹화",
+    "meaningDetail": "영상 녹음",
+    "category": "명사",
+    "examples": [
+      { "ja": "番組を録画する。", "ko": "프로그램을 녹화한다." }
+    ]
+  },
+  {
+    "word": "編集",
+    "reading": "へんしゅう",
+    "meaning": "편집",
+    "meaningDetail": "다듬기",
+    "category": "명사",
+    "examples": [
+      { "ja": "動画を編集する。", "ko": "동영상을 편집한다." }
+    ]
+  },
+  {
+    "word": "制作",
+    "reading": "せいさく",
+    "meaning": "제작",
+    "meaningDetail": "만들기",
+    "category": "명사",
+    "examples": [
+      { "ja": "映画を制作する。", "ko": "영화를 제작한다." }
+    ]
+  },
+  {
+    "word": "作成",
+    "reading": "さくせい",
+    "meaning": "작성",
+    "meaningDetail": "만들기",
+    "category": "명사",
+    "examples": [
+      { "ja": "資料を作成する。", "ko": "자료를 작성한다." }
+    ]
+  },
+  {
+    "word": "作品",
+    "reading": "さくひん",
+    "meaning": "작품",
+    "meaningDetail": "만든 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "作品を発表する。", "ko": "작품을 발표한다." }
+    ]
+  },
+  {
+    "word": "製品",
+    "reading": "せいひん",
+    "meaning": "제품",
+    "meaningDetail": "상품",
+    "category": "명사",
+    "examples": [
+      { "ja": "製品を開発する。", "ko": "제품을 개발한다." }
+    ]
+  },
+  {
+    "word": "商品",
+    "reading": "しょうひん",
+    "meaning": "상품",
+    "meaningDetail": "물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "商品を販売する。", "ko": "상품을 판매한다." }
+    ]
+  },
+  {
+    "word": "物品",
+    "reading": "ぶっぴん",
+    "meaning": "물품",
+    "meaningDetail": "물건",
+    "category": "명사",
+    "examples": [
+      { "ja": "物品を購入する。", "ko": "물품을 구입한다." }
+    ]
+  },
+  {
+    "word": "食品",
+    "reading": "しょくひん",
+    "meaning": "식품",
+    "meaningDetail": "먹거리",
+    "category": "명사",
+    "examples": [
+      { "ja": "食品を保存する。", "ko": "식품을 보존한다." }
+    ]
+  },
+  {
+    "word": "飲料",
+    "reading": "いんりょう",
+    "meaning": "음료",
+    "meaningDetail": "마실 것",
+    "category": "명사",
+    "examples": [
+      { "ja": "飲料を販売する。", "ko": "음료를 판매한다." }
+    ]
+  },
+  {
+    "word": "衣料",
+    "reading": "いりょう",
+    "meaning": "의료",
+    "meaningDetail": "옷감",
+    "category": "명사",
+    "examples": [
+      { "ja": "衣料品を買う。", "ko": "의료품을 산다." }
+    ]
+  },
+  {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "meaningDetail": "소재",
+    "category": "명사",
+    "examples": [
+      { "ja": "材料を揃える。", "ko": "재료를 갖추다." }
+    ]
+  },
+  {
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaning": "원료",
+    "meaningDetail": "재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "原料を輸入する。", "ko": "원료를 수입한다." }
+    ]
+  },
+  {
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "자원",
+    "meaningDetail": "재료",
+    "category": "명사",
+    "examples": [
+      { "ja": "資源を活用する。", "ko": "자원을 활용한다." }
+    ]
+  },
+  {
+    "word": "資金",
+    "reading": "しきん",
+    "meaning": "자금",
+    "meaningDetail": "돈",
+    "category": "명사",
+    "examples": [
+      { "ja": "資金を調達する。", "ko": "자금을 조달한다." }
+    ]
+  },
+  {
+    "word": "資本",
+    "reading": "しほん",
+    "meaning": "자본",
+    "meaningDetail": "밑천",
+    "category": "명사",
+    "examples": [
+      { "ja": "資本を投入する。", "ko": "자본을 투입한다." }
+    ]
+  },
+  {
+    "word": "資産",
+    "reading": "しさん",
+    "meaning": "자산",
+    "meaningDetail": "재산",
+    "category": "명사",
+    "examples": [
+      { "ja": "資産を管理する。", "ko": "자산을 관리한다." }
+    ]
+  },
+  {
+    "word": "財産",
+    "reading": "ざいさん",
+    "meaning": "재산",
+    "meaningDetail": "재물",
+    "category": "명사",
+    "examples": [
+      { "ja": "財産を守る。", "ko": "재산을 지킨다." }
+    ]
+  },
+  {
+    "word": "財政",
+    "reading": "ざいせい",
+    "meaning": "재정",
+    "meaningDetail": "돈 관리",
+    "category": "명사",
+    "examples": [
+      { "ja": "財政を健全化する。", "ko": "재정을 건전화한다." }
+    ]
+  },
+  {
+    "word": "経済",
+    "reading": "けいざい",
+    "meaning": "경제",
+    "meaningDetail": "돈의 흐름",
+    "category": "명사",
+    "examples": [
+      { "ja": "経済が成長する。", "ko": "경제가 성장한다." }
+    ]
+  },
+  {
+    "word": "景気",
+    "reading": "けいき",
+    "meaning": "경기",
+    "meaningDetail": "경제 상황",
+    "category": "명사",
+    "examples": [
+      { "ja": "景気が回復する。", "ko": "경기가 회복된다." }
+    ]
+  },
+  {
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "물가",
+    "meaningDetail": "값",
+    "category": "명사",
+    "examples": [
+      { "ja": "物価が上がる。", "ko": "물가가 오른다." }
+    ]
+  },
+  {
+    "word": "株価",
+    "reading": "かぶか",
+    "meaning": "주가",
+    "meaningDetail": "주식 값",
+    "category": "명사",
+    "examples": [
+      { "ja": "株価が上昇する。", "ko": "주가가 상승한다." }
+    ]
+  },
+  {
+    "word": "為替",
+    "reading": "かわせ",
+    "meaning": "환율",
+    "meaningDetail": "화폐 교환",
+    "category": "명사",
+    "examples": [
+      { "ja": "為替レートを確認する。", "ko": "환율을 확인한다." }
+    ]
+  },
+  {
+    "word": "金利",
+    "reading": "きんり",
+    "meaning": "금리",
+    "meaningDetail": "이자율",
+    "category": "명사",
+    "examples": [
+      { "ja": "金利が下がる。", "ko": "금리가 내린다." }
+    ]
+  },
+  {
+    "word": "融資",
+    "reading": "ゆうし",
+    "meaning": "융자",
+    "meaningDetail": "대출",
+    "category": "명사",
+    "examples": [
+      { "ja": "融資を受ける。", "ko": "융자를 받는다." }
+    ]
+  },
+  {
+    "word": "投資",
+    "reading": "とうし",
+    "meaning": "투자",
+    "meaningDetail": "돈 넣기",
+    "category": "명사",
+    "examples": [
+      { "ja": "投資を行う。", "ko": "투자를 한다." }
+    ]
+  },
+  {
+    "word": "預金",
+    "reading": "よきん",
+    "meaning": "예금",
+    "meaningDetail": "저축",
+    "category": "명사",
+    "examples": [
+      { "ja": "預金を下ろす。", "ko": "예금을 찾는다." }
+    ]
+  },
+  {
+    "word": "貯蓄",
+    "reading": "ちょちく",
+    "meaning": "저축",
+    "meaningDetail": "모으기",
+    "category": "명사",
+    "examples": [
+      { "ja": "貯蓄を増やす。", "ko": "저축을 늘린다." }
+    ]
+  },
+  {
+    "word": "保険",
+    "reading": "ほけん",
+    "meaning": "보험",
+    "meaningDetail": "대비",
+    "category": "명사",
+    "examples": [
+      { "ja": "保険に加入する。", "ko": "보험에 가입한다." }
+    ]
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "word": "狭まる",
+    "reading": "せばまる",
+    "meaning": "좁아지다",
+    "meaningDetail": "줄어들다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "選択肢が狭まる。", "ko": "선택지가 좁아지다." }
+    ]
+  },
+  {
+    "word": "狭める",
+    "reading": "せばめる",
+    "meaning": "좁히다",
+    "meaningDetail": "줄이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "範囲を狭める。", "ko": "범위를 좁히다." }
+    ]
+  },
+  {
+    "word": "縮まる",
+    "reading": "ちぢまる",
+    "meaning": "줄어들다",
+    "meaningDetail": "수축하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "距離が縮まる。", "ko": "거리가 줄어들다." }
+    ]
+  },
+  {
+    "word": "縮める",
+    "reading": "ちぢめる",
+    "meaning": "줄이다",
+    "meaningDetail": "단축하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "時間を縮める。", "ko": "시간을 줄이다." }
+    ]
+  },
+  {
+    "word": "縮む",
+    "reading": "ちぢむ",
+    "meaning": "줄다",
+    "meaningDetail": "수축하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "セーターが縮む。", "ko": "스웨터가 줄다." }
+    ]
+  },
+  {
+    "word": "膨らむ",
+    "reading": "ふくらむ",
+    "meaning": "부풀다",
+    "meaningDetail": "팽창하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "風船が膨らむ。", "ko": "풍선이 부풀다." }
+    ]
+  },
+  {
+    "word": "膨らませる",
+    "reading": "ふくらませる",
+    "meaning": "부풀리다",
+    "meaningDetail": "팽창시키다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "夢を膨らませる。", "ko": "꿈을 부풀리다." }
+    ]
+  },
+  {
+    "word": "膨れる",
+    "reading": "ふくれる",
+    "meaning": "부어오르다",
+    "meaningDetail": "부풀다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "顔が膨れる。", "ko": "얼굴이 부어오르다." }
+    ]
+  },
+  {
+    "word": "腫れる",
+    "reading": "はれる",
+    "meaning": "붓다",
+    "meaningDetail": "부어오르다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "足が腫れる。", "ko": "발이 붓다." }
+    ]
+  },
+  {
+    "word": "痩せる",
+    "reading": "やせる",
+    "meaning": "살이 빠지다",
+    "meaningDetail": "마르다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ダイエットで痩せる。", "ko": "다이어트로 살이 빠지다." }
+    ]
+  },
+  {
+    "word": "太る",
+    "reading": "ふとる",
+    "meaning": "살이 찌다",
+    "meaningDetail": "뚱뚱해지다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "食べすぎて太る。", "ko": "과식해서 살이 찌다." }
+    ]
+  },
+  {
+    "word": "老いる",
+    "reading": "おいる",
+    "meaning": "늙다",
+    "meaningDetail": "노화하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "人は皆老いる。", "ko": "사람은 모두 늙다." }
+    ]
+  },
+  {
+    "word": "衰える",
+    "reading": "おとろえる",
+    "meaning": "쇠퇴하다",
+    "meaningDetail": "약해지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "体力が衰える。", "ko": "체력이 쇠퇴하다." }
+    ]
+  },
+  {
+    "word": "老ける",
+    "reading": "ふける",
+    "meaning": "늙어 보이다",
+    "meaningDetail": "나이 들어 보이다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "急に老けた。", "ko": "갑자기 늙어 보이다." }
+    ]
+  },
+  {
+    "word": "若返る",
+    "reading": "わかがえる",
+    "meaning": "젊어지다",
+    "meaningDetail": "회춘하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "肌が若返る。", "ko": "피부가 젊어지다." }
+    ]
+  },
+  {
+    "word": "生き返る",
+    "reading": "いきかえる",
+    "meaning": "살아나다",
+    "meaningDetail": "소생하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "花が生き返る。", "ko": "꽃이 살아나다." }
+    ]
+  },
+  {
+    "word": "蘇る",
+    "reading": "よみがえる",
+    "meaning": "되살아나다",
+    "meaningDetail": "부활하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "記憶が蘇る。", "ko": "기억이 되살아나다." }
+    ]
+  },
+  {
+    "word": "栄える",
+    "reading": "さかえる",
+    "meaning": "번영하다",
+    "meaningDetail": "번창하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "町が栄える。", "ko": "마을이 번영하다." }
+    ]
+  },
+  {
+    "word": "廃れる",
+    "reading": "すたれる",
+    "meaning": "쇠퇴하다",
+    "meaningDetail": "사라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "伝統が廃れる。", "ko": "전통이 쇠퇴하다." }
+    ]
+  },
+  {
+    "word": "滅びる",
+    "reading": "ほろびる",
+    "meaning": "멸망하다",
+    "meaningDetail": "사라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "文明が滅びる。", "ko": "문명이 멸망하다." }
+    ]
+  },
+  {
+    "word": "滅ぼす",
+    "reading": "ほろぼす",
+    "meaning": "멸망시키다",
+    "meaningDetail": "파괴하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "敵を滅ぼす。", "ko": "적을 멸망시키다." }
+    ]
+  },
+  {
+    "word": "滅する",
+    "reading": "めっする",
+    "meaning": "멸하다",
+    "meaningDetail": "소멸하다",
+    "category": "동사",
+    "verbType": "する동사",
+    "examples": [
+      { "ja": "国が滅する。", "ko": "나라가 멸하다." }
+    ]
+  },
+  {
+    "word": "絶える",
+    "reading": "たえる",
+    "meaning": "끊기다",
+    "meaningDetail": "단절되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "連絡が絶える。", "ko": "연락이 끊기다." }
+    ]
+  },
+  {
+    "word": "絶やす",
+    "reading": "たやす",
+    "meaning": "끊다",
+    "meaningDetail": "단절시키다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "笑顔を絶やさない。", "ko": "웃음을 끊지 않다." }
+    ]
+  },
+  {
+    "word": "絶つ",
+    "reading": "たつ",
+    "meaning": "끊다",
+    "meaningDetail": "단절하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "関係を絶つ。", "ko": "관계를 끊다." }
+    ]
+  },
+  {
+    "word": "断つ",
+    "reading": "たつ",
+    "meaning": "끊다",
+    "meaningDetail": "단절하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "酒を断つ。", "ko": "술을 끊다." }
+    ]
+  },
+  {
+    "word": "断ち切る",
+    "reading": "たちきる",
+    "meaning": "끊어버리다",
+    "meaningDetail": "단절하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "過去を断ち切る。", "ko": "과거를 끊어버리다." }
+    ]
+  },
+  {
+    "word": "裂く",
+    "reading": "さく",
+    "meaning": "찢다",
+    "meaningDetail": "가르다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "紙を裂く。", "ko": "종이를 찢다." }
+    ]
+  },
+  {
+    "word": "裂ける",
+    "reading": "さける",
+    "meaning": "찢어지다",
+    "meaningDetail": "갈라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "布が裂ける。", "ko": "천이 찢어지다." }
+    ]
+  },
+  {
+    "word": "割く",
+    "reading": "さく",
+    "meaning": "할애하다",
+    "meaningDetail": "투자하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "時間を割く。", "ko": "시간을 할애하다." }
+    ]
+  },
+  {
+    "word": "割る",
+    "reading": "わる",
+    "meaning": "깨다",
+    "meaningDetail": "나누다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "コップを割る。", "ko": "컵을 깨다." }
+    ]
+  },
+  {
+    "word": "割れる",
+    "reading": "われる",
+    "meaning": "깨지다",
+    "meaningDetail": "갈라지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "ガラスが割れる。", "ko": "유리가 깨지다." }
+    ]
+  },
+  {
+    "word": "砕く",
+    "reading": "くだく",
+    "meaning": "부수다",
+    "meaningDetail": "깨부수다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "岩を砕く。", "ko": "바위를 부수다." }
+    ]
+  },
+  {
+    "word": "砕ける",
+    "reading": "くだける",
+    "meaning": "부서지다",
+    "meaningDetail": "깨지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "氷が砕ける。", "ko": "얼음이 부서지다." }
+    ]
+  },
+  {
+    "word": "壊す",
+    "reading": "こわす",
+    "meaning": "부수다",
+    "meaningDetail": "파괴하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "建物を壊す。", "ko": "건물을 부수다." }
+    ]
+  },
+  {
+    "word": "壊れる",
+    "reading": "こわれる",
+    "meaning": "부서지다",
+    "meaningDetail": "고장나다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "機械が壊れる。", "ko": "기계가 고장나다." }
+    ]
+  },
+  {
+    "word": "崩す",
+    "reading": "くずす",
+    "meaning": "무너뜨리다",
+    "meaningDetail": "허물다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "体調を崩す。", "ko": "컨디션을 망치다." }
+    ]
+  },
+  {
+    "word": "崩れる",
+    "reading": "くずれる",
+    "meaning": "무너지다",
+    "meaningDetail": "허물어지다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "山が崩れる。", "ko": "산이 무너지다." }
+    ]
+  },
+  {
+    "word": "潰す",
+    "reading": "つぶす",
+    "meaning": "짓누르다",
+    "meaningDetail": "으깨다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "缶を潰す。", "ko": "캔을 짓누르다." }
+    ]
+  },
+  {
+    "word": "潰れる",
+    "reading": "つぶれる",
+    "meaning": "찌그러지다",
+    "meaningDetail": "망하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "会社が潰れる。", "ko": "회사가 망하다." }
+    ]
+  },
+  {
+    "word": "傷つく",
+    "reading": "きずつく",
+    "meaning": "상처 입다",
+    "meaningDetail": "다치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "心が傷つく。", "ko": "마음이 상처 입다." }
+    ]
+  },
+  {
+    "word": "傷つける",
+    "reading": "きずつける",
+    "meaning": "상처 입히다",
+    "meaningDetail": "다치게 하다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "相手を傷つける。", "ko": "상대방에게 상처 입히다." }
+    ]
+  },
+  {
+    "word": "癒す",
+    "reading": "いやす",
+    "meaning": "치유하다",
+    "meaningDetail": "낫게 하다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "心を癒す。", "ko": "마음을 치유하다." }
+    ]
+  },
+  {
+    "word": "癒える",
+    "reading": "いえる",
+    "meaning": "낫다",
+    "meaningDetail": "치유되다",
+    "category": "동사",
+    "verbType": "る동사",
+    "examples": [
+      { "ja": "傷が癒える。", "ko": "상처가 낫다." }
+    ]
+  },
+  {
+    "word": "治る",
+    "reading": "なおる",
+    "meaning": "낫다",
+    "meaningDetail": "회복되다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気が治る。", "ko": "병이 낫다." }
+    ]
+  },
+  {
+    "word": "治す",
+    "reading": "なおす",
+    "meaning": "치료하다",
+    "meaningDetail": "고치다",
+    "category": "동사",
+    "verbType": "う동사",
+    "examples": [
+      { "ja": "病気を治す。", "ko": "병을 치료하다." }
+    ]
+  }
+]
