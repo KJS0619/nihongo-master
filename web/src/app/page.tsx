@@ -10,6 +10,8 @@ interface StudyStats {
   learnedKanji: number;
   totalWords: number;
   learnedWords: number;
+  totalGrammar: number;
+  totalConversation: number;
 }
 
 interface RecentItem {
@@ -26,8 +28,10 @@ export default function Home() {
     streak: 0,
     totalKanji: 2136,
     learnedKanji: 0,
-    totalWords: 0,
+    totalWords: 4463,
     learnedWords: 0,
+    totalGrammar: 80,
+    totalConversation: 50,
   });
   const [recentItems, setRecentItems] = useState<RecentItem[]>([]);
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -88,7 +92,7 @@ export default function Home() {
       title: "한자",
       subtitle: "漢字",
       icon: "🀄",
-      count: `${stats.learnedKanji}/${stats.totalKanji}`,
+      count: `${stats.totalKanji.toLocaleString()}자`,
       gradient: "from-red-500 to-orange-500",
     },
     {
@@ -96,7 +100,7 @@ export default function Home() {
       title: "단어",
       subtitle: "単語",
       icon: "📚",
-      count: `${stats.learnedWords}개`,
+      count: `${stats.totalWords.toLocaleString()}개`,
       gradient: "from-blue-500 to-cyan-500",
     },
     {
@@ -104,7 +108,7 @@ export default function Home() {
       title: "문법",
       subtitle: "文法",
       icon: "📝",
-      count: "준비중",
+      count: `${stats.totalGrammar}개`,
       gradient: "from-purple-500 to-pink-500",
     },
     {
@@ -112,7 +116,7 @@ export default function Home() {
       title: "회화",
       subtitle: "会話",
       icon: "💬",
-      count: "준비중",
+      count: `${stats.totalConversation}개`,
       gradient: "from-green-500 to-teal-500",
     },
   ];
