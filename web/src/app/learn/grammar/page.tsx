@@ -24,13 +24,21 @@ export default function GrammarLearnPage() {
     setTimeout(() => setAddedToReview(false), 2000);
   };
 
-  // 데이터 로드
+  // 데이터 로드 (N5 + N4)
   useEffect(() => {
     async function loadData() {
       try {
-        const response = await fetch("/data/grammar_n5.json");
-        const data: GrammarData = await response.json();
-        setGrammarData(data.grammar);
+        const [n5Response, n4Response] = await Promise.all([
+          fetch("/data/grammar_n5.json"),
+          fetch("/data/grammar_n4.json")
+        ]);
+
+        const n5Data: GrammarData = await n5Response.json();
+        const n4Data: GrammarData = await n4Response.json();
+
+        // N5, N4 문법 합치기
+        const allGrammar = [...n5Data.grammar, ...n4Data.grammar];
+        setGrammarData(allGrammar);
       } catch (error) {
         console.error("Failed to load grammar data:", error);
       } finally {
@@ -72,6 +80,7 @@ export default function GrammarLearnPage() {
   }, [grammarData, levelFilter, categoryFilter, searchQuery]);
 
   const categoryColors: Record<string, string> = {
+    // N5 카테고리
     "기본문형": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
     "부정": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
     "존재": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
@@ -82,6 +91,85 @@ export default function GrammarLearnPage() {
     "진행/상태": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
     "과거": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
     "이유": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    // N4 카테고리
+    "가능": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "수수표현": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "조건": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "역접": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "접속": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "추측": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "전문": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "의지": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "경험": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "결정": "bg-zinc-100 text-zinc-700 dark:bg-zinc-900/30 dark:text-zinc-300",
+    "노력": "bg-neutral-100 text-neutral-700 dark:bg-neutral-900/30 dark:text-neutral-300",
+    "변화": "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
+    "목적": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "원인": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "완료": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
+    "준비": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
+    "상태": "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
+    "시도": "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
+    "사역": "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
+    "수동": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "사역수동": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    "인용": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "의견": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "의문": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "비교": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "한정": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "시점": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "빈도": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "주제": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "수단": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "관점": "bg-zinc-100 text-zinc-700 dark:bg-zinc-900/30 dark:text-zinc-300",
+    "대상": "bg-neutral-100 text-neutral-700 dark:bg-neutral-900/30 dark:text-neutral-300",
+    "경어": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "열거": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "의무": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "불필요": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
+    "당위": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
+    "금지": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "습관": "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
+    "규칙": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    "논리": "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
+    "부분부정": "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
+    "강한부정": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "시작": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "계속": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "정도": "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
+    "난이도": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "사과": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "감정": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "방법": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "범위": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "시간": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "기한": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "대체": "bg-zinc-100 text-zinc-700 dark:bg-zinc-900/30 dark:text-zinc-300",
+    "직후": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "지시": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "전형": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "경향": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "명사화": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "양보": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "방식": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "배분": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "자격": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "비례": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "본성": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "감탄": "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
+    "무익": "bg-neutral-100 text-neutral-700 dark:bg-neutral-900/30 dark:text-neutral-300",
+    "계기": "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
+    "후회": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "미완료": "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
+    "재시행": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
+    "상호": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
+    "부정의지": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    "결과": "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
+    "진행": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "전달": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "정의": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "강조": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
   };
 
   return (
@@ -153,6 +241,33 @@ export default function GrammarLearnPage() {
             </svg>
           </div>
 
+          {/* JLPT 레벨 필터 */}
+          <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
+            <button
+              onClick={() => setLevelFilter("all")}
+              className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${
+                levelFilter === "all"
+                  ? "bg-indigo-600 text-white"
+                  : "bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300"
+              }`}
+            >
+              전체 레벨
+            </button>
+            {(["N5", "N4", "N3", "N2", "N1"] as JlptGrammarLevel[]).map(level => (
+              <button
+                key={level}
+                onClick={() => setLevelFilter(level)}
+                className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${
+                  levelFilter === level
+                    ? "bg-indigo-600 text-white"
+                    : "bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300"
+                }`}
+              >
+                {level}
+              </button>
+            ))}
+          </div>
+
           {/* 카테고리 필터 */}
           <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
             <button
@@ -163,7 +278,7 @@ export default function GrammarLearnPage() {
                   : "bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300"
               }`}
             >
-              전체
+              전체 카테고리
             </button>
             {categories.map(cat => (
               <button
