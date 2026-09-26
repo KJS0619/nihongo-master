@@ -30,7 +30,7 @@ export default function Home() {
     learnedKanji: 0,
     totalWords: 4463,
     learnedWords: 0,
-    totalGrammar: 80,
+    totalGrammar: 360,
     totalConversation: 50,
   });
   const [recentItems, setRecentItems] = useState<RecentItem[]>([]);

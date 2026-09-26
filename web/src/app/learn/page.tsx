@@ -30,7 +30,7 @@ export default function LearnPage() {
       subtitle: "文法",
       description: "체계적인 일본어 문법",
       icon: "📝",
-      count: "준비중",
+      count: "360개",
       gradient: "from-purple-500 to-pink-500",
       features: ["JLPT 레벨별", "한국어 비교", "패턴 연습", "실전 문제"],
     },
