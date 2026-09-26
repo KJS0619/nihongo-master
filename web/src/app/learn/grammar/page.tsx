@@ -27,25 +27,47 @@ export default function GrammarLearnPage() {
   // 데이터 로드 (N5 + N4 + N3)
   useEffect(() => {
     async function loadData() {
+      const allGrammar: Grammar[] = [];
+
+      // N5 로드
       try {
-        const [n5Response, n4Response, n3Response] = await Promise.all([
-          fetch("/data/grammar_n5.json"),
-          fetch("/data/grammar_n4.json"),
-          fetch("/data/grammar_n3.json")
-        ]);
-
-        const n5Data: GrammarData = await n5Response.json();
-        const n4Data: GrammarData = await n4Response.json();
-        const n3Data: GrammarData = await n3Response.json();
-
-        // N5, N4, N3 문법 합치기
-        const allGrammar = [...n5Data.grammar, ...n4Data.grammar, ...n3Data.grammar];
-        setGrammarData(allGrammar);
+        const n5Response = await fetch("/data/grammar_n5.json");
+        if (n5Response.ok) {
+          const n5Data: GrammarData = await n5Response.json();
+          allGrammar.push(...n5Data.grammar);
+          console.log("N5 loaded:", n5Data.grammar.length);
+        }
       } catch (error) {
-        console.error("Failed to load grammar data:", error);
-      } finally {
-        setIsLoading(false);
+        console.error("Failed to load N5 grammar:", error);
       }
+
+      // N4 로드
+      try {
+        const n4Response = await fetch("/data/grammar_n4.json");
+        if (n4Response.ok) {
+          const n4Data: GrammarData = await n4Response.json();
+          allGrammar.push(...n4Data.grammar);
+          console.log("N4 loaded:", n4Data.grammar.length);
+        }
+      } catch (error) {
+        console.error("Failed to load N4 grammar:", error);
+      }
+
+      // N3 로드
+      try {
+        const n3Response = await fetch("/data/grammar_n3.json");
+        if (n3Response.ok) {
+          const n3Data: GrammarData = await n3Response.json();
+          allGrammar.push(...n3Data.grammar);
+          console.log("N3 loaded:", n3Data.grammar.length);
+        }
+      } catch (error) {
+        console.error("Failed to load N3 grammar:", error);
+      }
+
+      console.log("Total grammar loaded:", allGrammar.length);
+      setGrammarData(allGrammar);
+      setIsLoading(false);
     }
     loadData();
   }, []);
