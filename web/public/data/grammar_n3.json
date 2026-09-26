@@ -1,0 +1,4083 @@
+{
+  "version": "1.0.0",
+  "level": "N3",
+  "totalCount": 150,
+  "grammar": [
+    {
+      "id": "n3_001",
+      "pattern": "〜ば",
+      "patternReading": "〜ば",
+      "meaning": "~하면 (가정)",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 1,
+      "explanation": {
+        "summary": "동사・형용사의 가정형. 일반적인 조건이나 가정을 나타냄",
+        "detail": "동사: う단→え단+ば, い형용사: い→ければ, な형용사/명사: なら(ば). 항상 성립하는 조건이나 일반적 진리에 자주 사용됩니다.",
+        "koreanComparison": "한국어 '~하면'에 해당하지만, ~たら보다 일반적・항상적 조건에 사용",
+        "commonMistakes": ["후문에 의지・명령・권유 표현 불가 (×読めば読んでください)", "과거 사실에는 사용 불가"]
+      },
+      "conjugation": {
+        "verb_group1": {"form": "う段→え段+ば", "meaning": "書く→書けば, 読む→読めば"},
+        "verb_group2": {"form": "る→れば", "meaning": "食べる→食べれば"},
+        "verb_group3": {"form": "する→すれば, くる→くれば", "meaning": "勉強する→勉強すれば"},
+        "i_adjective": {"form": "い→ければ", "meaning": "高い→高ければ"},
+        "na_adjective": {"form": "なら(ば)", "meaning": "静かなら(ば)"}
+      },
+      "examples": [
+        {"ja": "春になれば、桜が咲きます。", "reading": "はるになれば、さくらがさきます。", "ko": "봄이 되면 벚꽃이 핍니다.", "audio": null},
+        {"ja": "安ければ買います。", "reading": "やすければかいます。", "ko": "싸면 삽니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "時間が＿＿＿、映画を見に行きます。", "options": ["あれば", "あったら", "あると", "あるなら"], "answer": "あれば", "explanation": "일반적 조건을 나타내는 ば형이 적절합니다."}],
+      "relatedGrammar": ["n3_002", "n3_003"],
+      "relatedKanji": ["春", "桜"],
+      "tags": ["조건", "가정", "기본"]
+    },
+    {
+      "id": "n3_002",
+      "pattern": "〜たら",
+      "patternReading": "〜たら",
+      "meaning": "~하면, ~했더니",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 2,
+      "explanation": {
+        "summary": "동사 た형+ら. 가정・확정 조건, 발견을 나타냄",
+        "detail": "~ば보다 구체적・개별적 상황에 사용. 후문에 의지・명령・권유 표현 가능. 과거 발견(~했더니)으로도 사용",
+        "koreanComparison": "한국어 '~하면', '~했더니'에 해당",
+        "commonMistakes": ["た형+ら 형태 주의", "발견의 용법은 과거 사실만 가능"]
+      },
+      "conjugation": {
+        "verb": {"form": "た形+ら", "meaning": "食べた→食べたら, 行った→行ったら"},
+        "i_adjective": {"form": "かった+ら", "meaning": "高かった→高かったら"},
+        "na_adjective": {"form": "だった+ら", "meaning": "静かだった→静かだったら"},
+        "noun": {"form": "だった+ら", "meaning": "学生だった→学生だったら"}
+      },
+      "examples": [
+        {"ja": "駅に着いたら、電話してください。", "reading": "えきについたら、でんわしてください。", "ko": "역에 도착하면 전화해 주세요.", "audio": null},
+        {"ja": "窓を開けたら、鳥がいた。", "reading": "まどをあけたら、とりがいた。", "ko": "창문을 열었더니 새가 있었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "家に帰＿＿＿、すぐ宿題をします。", "options": ["ったら", "れば", "ると", "るなら"], "answer": "ったら", "explanation": "후문에 의지 표현이 있으므로 たら가 적절합니다."}],
+      "relatedGrammar": ["n3_001", "n3_003"],
+      "relatedKanji": ["駅", "電話"],
+      "tags": ["조건", "가정", "발견"]
+    },
+    {
+      "id": "n3_003",
+      "pattern": "〜なら",
+      "patternReading": "〜なら",
+      "meaning": "~라면, ~라고 하면",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 3,
+      "explanation": {
+        "summary": "상대방의 말이나 상황을 받아 그것을 조건으로 제시",
+        "detail": "상대방이 말한 내용이나 화제를 전제로 조언・제안할 때 사용. 명사/동사 기본형에 직접 접속 가능",
+        "koreanComparison": "한국어 '~라면', '~라고 하면'에 해당",
+        "commonMistakes": ["なら 앞의 내용이 아직 실현되지 않은 것이어야 함", "시간 순서 불필요 (후문이 먼저 일어나도 됨)"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+なら", "meaning": "日本なら, 寿司なら"},
+        "verb_plain": {"form": "동사 기본형+なら", "meaning": "行くなら, 買うなら"},
+        "verb_past": {"form": "동사 た형+なら", "meaning": "行ったなら"}
+      },
+      "examples": [
+        {"ja": "日本に行くなら、京都がおすすめです。", "reading": "にほんにいくなら、きょうとがおすすめです。", "ko": "일본에 간다면 교토를 추천합니다.", "audio": null},
+        {"ja": "寿司なら、あの店がおいしいよ。", "reading": "すしなら、あのみせがおいしいよ。", "ko": "스시라면 그 가게가 맛있어.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "「旅行に行きたいんですが...」「＿＿＿、沖縄はどうですか。」", "options": ["行くなら", "行けば", "行ったら", "行くと"], "answer": "行くなら", "explanation": "상대방의 말을 받아 조언하므로 なら가 적절합니다."}],
+      "relatedGrammar": ["n3_001", "n3_002"],
+      "relatedKanji": ["京都", "店"],
+      "tags": ["조건", "가정", "화제"]
+    },
+    {
+      "id": "n3_004",
+      "pattern": "〜と",
+      "patternReading": "〜と",
+      "meaning": "~하면 (항상/자동적으로)",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 4,
+      "explanation": {
+        "summary": "동사 기본형/ない형+と. 항상 일어나는 결과, 자연현상, 기계 조작 등",
+        "detail": "A하면 반드시/자동으로 B가 된다는 인과관계. 후문에 의지・명령・권유 표현 불가",
+        "koreanComparison": "한국어 '~하면 (항상)'에 해당",
+        "commonMistakes": ["후문에 의지 표현 불가 (×押すと押してください)", "일회적 가정에는 부적절"]
+      },
+      "conjugation": {
+        "verb_positive": {"form": "동사 기본형+と", "meaning": "押す→押すと, 食べる→食べると"},
+        "verb_negative": {"form": "동사 ない형+と", "meaning": "食べない→食べないと"}
+      },
+      "examples": [
+        {"ja": "このボタンを押すと、ドアが開きます。", "reading": "このボタンをおすと、ドアがあきます。", "ko": "이 버튼을 누르면 문이 열립니다.", "audio": null},
+        {"ja": "春になると、花が咲く。", "reading": "はるになると、はながさく。", "ko": "봄이 되면 꽃이 핀다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "右に曲がる＿＿、郵便局があります。", "options": ["と", "たら", "ば", "なら"], "answer": "と", "explanation": "항상 성립하는 사실(위치)을 설명하므로 と가 적절합니다."}],
+      "relatedGrammar": ["n3_001", "n3_002"],
+      "relatedKanji": ["押", "開"],
+      "tags": ["조건", "자연현상", "기계"]
+    },
+    {
+      "id": "n3_005",
+      "pattern": "〜ても",
+      "patternReading": "〜ても",
+      "meaning": "~해도, ~하더라도",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 5,
+      "explanation": {
+        "summary": "역접 가정. 예상과 다른 결과를 나타냄",
+        "detail": "동사 て형+も, い형용사 くても, な형용사/명사 でも. '설령 ~해도'의 의미",
+        "koreanComparison": "한국어 '~해도', '~하더라도'에 해당",
+        "commonMistakes": ["でも(~라도)와 구별", "의문사+ても = 무엇을 해도"]
+      },
+      "conjugation": {
+        "verb": {"form": "て形+も", "meaning": "食べる→食べても, 行く→行っても"},
+        "i_adjective": {"form": "く+ても", "meaning": "高い→高くても"},
+        "na_adjective": {"form": "で+も", "meaning": "静か→静かでも"},
+        "noun": {"form": "で+も", "meaning": "学生→学生でも"}
+      },
+      "examples": [
+        {"ja": "雨が降っても、サッカーをします。", "reading": "あめがふっても、サッカーをします。", "ko": "비가 와도 축구를 합니다.", "audio": null},
+        {"ja": "何度説明しても、わからない。", "reading": "なんどせつめいしても、わからない。", "ko": "몇 번 설명해도 모르겠다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "高＿＿＿、買いたいです。", "options": ["くても", "いでも", "ければ", "いなら"], "answer": "くても", "explanation": "い형용사의 역접 가정은 くても입니다."}],
+      "relatedGrammar": ["n3_006"],
+      "relatedKanji": ["雨", "説明"],
+      "tags": ["역접", "가정"]
+    },
+    {
+      "id": "n3_006",
+      "pattern": "〜たとしても",
+      "patternReading": "〜たとしても",
+      "meaning": "설령 ~한다 해도",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 6,
+      "explanation": {
+        "summary": "강한 역접 가정. ~ても보다 가정성이 강함",
+        "detail": "실현 가능성이 낮거나 극단적인 상황을 가정할 때 사용. 'たとえ~としても'로도 사용",
+        "koreanComparison": "한국어 '설령 ~한다 해도', '가령 ~해도'에 해당",
+        "commonMistakes": ["과거형 た+としても 형태 주의", "실제로 일어나지 않을 가능성이 높은 상황에 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "た形+としても", "meaning": "行った→行ったとしても"},
+        "i_adjective": {"form": "かった+としても", "meaning": "高かった→高かったとしても"},
+        "na_adjective": {"form": "だった+としても", "meaning": "静かだった→静かだったとしても"}
+      },
+      "examples": [
+        {"ja": "たとえ失敗したとしても、後悔しない。", "reading": "たとえしっぱいしたとしても、こうかいしない。", "ko": "설령 실패한다 해도 후회하지 않는다.", "audio": null},
+        {"ja": "お金があったとしても、買わないだろう。", "reading": "おかねがあったとしても、かわないだろう。", "ko": "돈이 있다 해도 사지 않을 것이다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "たとえ雨が降＿＿＿＿＿、試合は行います。", "options": ["ったとしても", "っても", "ったら", "れば"], "answer": "ったとしても", "explanation": "강한 역접 가정을 나타내는 たとしても가 적절합니다."}],
+      "relatedGrammar": ["n3_005"],
+      "relatedKanji": ["失敗", "後悔"],
+      "tags": ["역접", "강조", "가정"]
+    },
+    {
+      "id": "n3_007",
+      "pattern": "〜さえ〜ば",
+      "patternReading": "〜さえ〜ば",
+      "meaning": "~만 ~하면",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 7,
+      "explanation": {
+        "summary": "최소 조건을 강조. '그것만 있으면/하면 충분하다'",
+        "detail": "명사+さえ+동사ば형, 동사 ます형+さえすれば. 하나의 조건만 충족되면 된다는 의미",
+        "koreanComparison": "한국어 '~만 ~하면'에 해당",
+        "commonMistakes": ["さえ의 위치에 따라 강조 대상이 달라짐", "동사는 ます형+さえすれば 형태"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+さえ+동사ば형", "meaning": "お金さえあれば"},
+        "verb": {"form": "ます形+さえすれば", "meaning": "努力しさえすれば"}
+      },
+      "examples": [
+        {"ja": "お金さえあれば、何でも買える。", "reading": "おかねさえあれば、なんでもかえる。", "ko": "돈만 있으면 뭐든 살 수 있다.", "audio": null},
+        {"ja": "努力しさえすれば、成功できる。", "reading": "どりょくしさえすれば、せいこうできる。", "ko": "노력만 하면 성공할 수 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "時間＿＿＿あれば、旅行に行きたい。", "options": ["さえ", "だけ", "しか", "ばかり"], "answer": "さえ", "explanation": "최소 조건을 강조하는 さえ가 적절합니다."}],
+      "relatedGrammar": ["n3_001"],
+      "relatedKanji": ["努力", "成功"],
+      "tags": ["조건", "강조", "최소"]
+    },
+    {
+      "id": "n3_008",
+      "pattern": "〜ないことには",
+      "patternReading": "〜ないことには",
+      "meaning": "~하지 않으면 (안 된다)",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 8,
+      "explanation": {
+        "summary": "필수 조건. '~하지 않으면 ~할 수 없다/안 된다'",
+        "detail": "동사 ない형+ことには. 후문에는 부정적인 결과나 불가능을 나타내는 표현이 옴",
+        "koreanComparison": "한국어 '~하지 않으면', '~하지 않고서는'에 해당",
+        "commonMistakes": ["후문에 긍정문 불가", "필수 조건을 강조할 때 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "ない形+ことには", "meaning": "やらない→やらないことには"}
+      },
+      "examples": [
+        {"ja": "やってみないことには、わからない。", "reading": "やってみないことには、わからない。", "ko": "해보지 않으면 모른다.", "audio": null},
+        {"ja": "実際に見ないことには、信じられない。", "reading": "じっさいにみないことには、しんじられない。", "ko": "실제로 보지 않으면 믿을 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "食べてみ＿＿＿＿＿、おいしいかどうかわからない。", "options": ["ないことには", "なければ", "ないと", "なくては"], "answer": "ないことには", "explanation": "필수 조건을 강조하는 ないことには가 적절합니다."}],
+      "relatedGrammar": ["n3_001"],
+      "relatedKanji": ["実際", "信"],
+      "tags": ["조건", "필수", "부정"]
+    },
+    {
+      "id": "n3_009",
+      "pattern": "〜かぎり",
+      "patternReading": "〜かぎり",
+      "meaning": "~하는 한",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 9,
+      "explanation": {
+        "summary": "조건의 범위・한계. '~하는 한, ~하는 동안은'",
+        "detail": "동사 기본형/ない형/ている+限り. 그 조건이 계속되는 동안의 상태를 나타냄",
+        "koreanComparison": "한국어 '~하는 한', '~하는 이상'에 해당",
+        "commonMistakes": ["限り(かぎり)와 限る(かぎる)의 차이", "범위를 나타내는 용법과 구별"]
+      },
+      "conjugation": {
+        "verb_plain": {"form": "기본형+限り", "meaning": "生きる限り"},
+        "verb_negative": {"form": "ない形+限り", "meaning": "あきらめない限り"},
+        "verb_continuous": {"form": "ている+限り", "meaning": "働いている限り"}
+      },
+      "examples": [
+        {"ja": "生きている限り、夢を追い続ける。", "reading": "いきているかぎり、ゆめをおいつづける。", "ko": "살아 있는 한 꿈을 계속 쫓겠다.", "audio": null},
+        {"ja": "努力する限り、成功の可能性はある。", "reading": "どりょくするかぎり、せいこうのかのうせいはある。", "ko": "노력하는 한 성공 가능성은 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "あきらめ＿＿＿限り、チャンスはある。", "options": ["ない", "る", "て", "た"], "answer": "ない", "explanation": "ない形+限り 형태입니다."}],
+      "relatedGrammar": ["n3_010"],
+      "relatedKanji": ["限", "夢"],
+      "tags": ["조건", "범위", "한계"]
+    },
+    {
+      "id": "n3_010",
+      "pattern": "〜以上(は)",
+      "patternReading": "〜いじょう(は)",
+      "meaning": "~하는 이상, ~한 이상",
+      "jlpt": "N3",
+      "category": "조건/가정",
+      "order": 10,
+      "explanation": {
+        "summary": "이미 결정된 조건. '~한 이상(은)'",
+        "detail": "동사 기본형/た형+以上(は). 이미 그렇게 된 이상, 당연히/마땅히 ~해야 한다",
+        "koreanComparison": "한국어 '~한 이상', '~하는 바에는'에 해당",
+        "commonMistakes": ["以上(수량 이상)과 구별", "후문에 의무・당연함 표현이 많음"]
+      },
+      "conjugation": {
+        "verb_plain": {"form": "기본형+以上(は)", "meaning": "やる以上は"},
+        "verb_past": {"form": "た形+以上(は)", "meaning": "決めた以上は"}
+      },
+      "examples": [
+        {"ja": "約束した以上は、必ず守ります。", "reading": "やくそくしたいじょうは、かならずまもります。", "ko": "약속한 이상 반드시 지키겠습니다.", "audio": null},
+        {"ja": "やる以上、最後までやり遂げる。", "reading": "やるいじょう、さいごまでやりとげる。", "ko": "하는 이상 끝까지 해내겠다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "引き受けた＿＿＿、責任を持ってやります。", "options": ["以上", "限り", "から", "ので"], "answer": "以上", "explanation": "이미 결정된 조건에 대한 책임을 나타내므로 以上가 적절합니다."}],
+      "relatedGrammar": ["n3_009"],
+      "relatedKanji": ["約束", "守"],
+      "tags": ["조건", "의무", "결정"]
+    },
+    {
+      "id": "n3_011",
+      "pattern": "〜ようだ",
+      "patternReading": "〜ようだ",
+      "meaning": "~인 것 같다 (추측/비유)",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 11,
+      "explanation": {
+        "summary": "오감이나 정보를 바탕으로 한 추측. 비유로도 사용",
+        "detail": "동사 기본형/た형+ようだ, い형용사+ようだ, な형용사+な+ようだ, 명사+の+ようだ",
+        "koreanComparison": "한국어 '~인 것 같다', '~처럼'에 해당",
+        "commonMistakes": ["らしい(전문・추측)와 구별", "비유와 추측의 용법 구별"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+ようだ", "meaning": "雨が降るようだ"},
+        "i_adjective": {"form": "い+ようだ", "meaning": "寒いようだ"},
+        "na_adjective": {"form": "な+ようだ", "meaning": "静かなようだ"},
+        "noun": {"form": "の+ようだ", "meaning": "夢のようだ"}
+      },
+      "examples": [
+        {"ja": "彼は疲れているようだ。", "reading": "かれはつかれているようだ。", "ko": "그는 피곤한 것 같다.", "audio": null},
+        {"ja": "まるで夢のようだ。", "reading": "まるでゆめのようだ。", "ko": "마치 꿈 같다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "外は寒い＿＿＿です。", "options": ["よう", "らしい", "みたい", "そう"], "answer": "よう", "explanation": "관찰에 근거한 추측이므로 ようだ가 적절합니다."}],
+      "relatedGrammar": ["n3_012", "n3_013"],
+      "relatedKanji": ["疲", "夢"],
+      "tags": ["추측", "비유"]
+    },
+    {
+      "id": "n3_012",
+      "pattern": "〜らしい",
+      "patternReading": "〜らしい",
+      "meaning": "~인 것 같다 (전문), ~답다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 12,
+      "explanation": {
+        "summary": "전문(들은 정보) 기반 추측 또는 전형적 특징",
+        "detail": "동사・형용사 기본형+らしい, 명사+らしい. 간접 정보 기반 추측 또는 '~답다'의 의미",
+        "koreanComparison": "한국어 '~인 것 같다(전문)', '~답다'에 해당",
+        "commonMistakes": ["ようだ(직접 관찰)와 구별", "명사+らしい는 '~답다'의 의미"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+らしい", "meaning": "来るらしい"},
+        "i_adjective": {"form": "い+らしい", "meaning": "寒いらしい"},
+        "na_adjective": {"form": "語幹+らしい", "meaning": "静からしい"},
+        "noun": {"form": "명사+らしい", "meaning": "男らしい(~답다)"}
+      },
+      "examples": [
+        {"ja": "明日は雨が降るらしい。", "reading": "あしたはあめがふるらしい。", "ko": "(들으니) 내일 비가 온다고 한다.", "audio": null},
+        {"ja": "彼は男らしい。", "reading": "かれはおとこらしい。", "ko": "그는 남자답다.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "「ニュースで言ってたけど、台風が来る＿＿＿」", "options": ["らしいよ", "ようだよ", "みたいだよ", "そうだよ"], "answer": "らしいよ", "explanation": "전문(뉴스에서 들은 정보)이므로 らしい가 적절합니다."}],
+      "relatedGrammar": ["n3_011", "n3_013"],
+      "relatedKanji": ["雨", "男"],
+      "tags": ["추측", "전문", "특징"]
+    },
+    {
+      "id": "n3_013",
+      "pattern": "〜みたいだ",
+      "patternReading": "〜みたいだ",
+      "meaning": "~인 것 같다, ~처럼",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 13,
+      "explanation": {
+        "summary": "ようだ의 구어체. 추측・비유를 나타냄",
+        "detail": "동사・형용사 기본형+みたいだ, 명사+みたいだ. ようだ보다 캐주얼한 표현",
+        "koreanComparison": "한국어 '~인 것 같다', '~처럼'에 해당",
+        "commonMistakes": ["문어체에서는 ようだ 사용", "명사 접속 시 の 불필요"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+みたいだ", "meaning": "忘れたみたいだ"},
+        "i_adjective": {"form": "い+みたいだ", "meaning": "楽しいみたいだ"},
+        "na_adjective": {"form": "語幹+みたいだ", "meaning": "元気みたいだ"},
+        "noun": {"form": "명사+みたいだ", "meaning": "子供みたいだ"}
+      },
+      "examples": [
+        {"ja": "彼、怒ってるみたいだよ。", "reading": "かれ、おこってるみたいだよ。", "ko": "그, 화난 것 같아.", "audio": null},
+        {"ja": "まるで映画みたいだ。", "reading": "まるでえいがみたいだ。", "ko": "마치 영화 같다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "あの人、有名人＿＿＿だね。", "options": ["みたい", "のよう", "らしい", "っぽい"], "answer": "みたい", "explanation": "구어체 추측이므로 みたい가 적절합니다."}],
+      "relatedGrammar": ["n3_011", "n3_014"],
+      "relatedKanji": ["怒", "映画"],
+      "tags": ["추측", "비유", "구어"]
+    },
+    {
+      "id": "n3_014",
+      "pattern": "〜っぽい",
+      "patternReading": "〜っぽい",
+      "meaning": "~스럽다, ~같다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 14,
+      "explanation": {
+        "summary": "~의 경향이 있다, ~스럽다 (구어적)",
+        "detail": "명사・동사 ます형+っぽい. 그 성질이나 경향이 있음을 나타냄. 약간 부정적 뉘앙스",
+        "koreanComparison": "한국어 '~스럽다', '~틱하다'에 해당",
+        "commonMistakes": ["らしい(긍정적)와 달리 약간 부정적 뉘앙스", "い형용사처럼 활용"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+っぽい", "meaning": "子供っぽい(어린애같다)"},
+        "verb": {"form": "ます形+っぽい", "meaning": "忘れっぽい(잘 잊는다)"},
+        "color": {"form": "색+っぽい", "meaning": "黒っぽい(검은 빛깔의)"}
+      },
+      "examples": [
+        {"ja": "彼女は怒りっぽい。", "reading": "かのじょはおこりっぽい。", "ko": "그녀는 화를 잘 낸다.", "audio": null},
+        {"ja": "あの服、ちょっと安っぽいね。", "reading": "あのふく、ちょっとやすっぽいね。", "ko": "그 옷 좀 싸구려 같네.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "最近、忘れ＿＿＿なってきた。", "options": ["っぽく", "らしく", "みたいに", "ように"], "answer": "っぽく", "explanation": "'잘 잊게 되었다'는 의미로 っぽい의 연용형입니다."}],
+      "relatedGrammar": ["n3_012"],
+      "relatedKanji": ["怒", "安"],
+      "tags": ["경향", "구어", "특징"]
+    },
+    {
+      "id": "n3_015",
+      "pattern": "〜そうだ（様態）",
+      "patternReading": "〜そうだ（ようたい）",
+      "meaning": "~할 것 같다, ~해 보인다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 15,
+      "explanation": {
+        "summary": "겉모습・상태를 보고 판단. 곧 일어날 것 같은 상황",
+        "detail": "동사 ます형+そうだ, い형용사 어간+そうだ, な형용사 어간+そうだ",
+        "koreanComparison": "한국어 '~할 것 같다', '~해 보인다'에 해당",
+        "commonMistakes": ["전문의 そうだ와 구별 (접속 방식 다름)", "いい→よさそう, ない→なさそう 불규칙"]
+      },
+      "conjugation": {
+        "verb": {"form": "ます形+そうだ", "meaning": "降る→降りそうだ"},
+        "i_adjective": {"form": "어간+そうだ", "meaning": "おいしい→おいしそうだ"},
+        "na_adjective": {"form": "어간+そうだ", "meaning": "元気→元気そうだ"},
+        "irregular": {"form": "いい→よさそう, ない→なさそう", "meaning": "불규칙 변환"}
+      },
+      "examples": [
+        {"ja": "雨が降りそうだ。", "reading": "あめがふりそうだ。", "ko": "비가 올 것 같다.", "audio": null},
+        {"ja": "このケーキ、おいしそう！", "reading": "このケーキ、おいしそう！", "ko": "이 케이크, 맛있어 보여!", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼女は元気＿＿＿ですね。", "options": ["そう", "らしい", "みたい", "よう"], "answer": "そう", "explanation": "겉모습을 보고 판단하므로 様態의 そうだ가 적절합니다."}],
+      "relatedGrammar": ["n3_025"],
+      "relatedKanji": ["雨", "降"],
+      "tags": ["추측", "외관", "양태"]
+    },
+    {
+      "id": "n3_016",
+      "pattern": "〜にちがいない",
+      "patternReading": "〜にちがいない",
+      "meaning": "~임에 틀림없다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 16,
+      "explanation": {
+        "summary": "강한 확신을 나타내는 추측",
+        "detail": "동사・형용사 기본형+に違いない, 명사+に違いない. 화자의 강한 확신",
+        "koreanComparison": "한국어 '~임에 틀림없다', '분명 ~이다'에 해당",
+        "commonMistakes": ["はずだ보다 주관적 확신이 강함", "객관적 근거보다 화자의 직감"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+に違いない", "meaning": "来るに違いない"},
+        "i_adjective": {"form": "い+に違いない", "meaning": "難しいに違いない"},
+        "na_adjective": {"form": "語幹+に違いない", "meaning": "大変に違いない"},
+        "noun": {"form": "명사+に違いない", "meaning": "彼に違いない"}
+      },
+      "examples": [
+        {"ja": "彼が犯人に違いない。", "reading": "かれがはんにんにちがいない。", "ko": "그가 범인임에 틀림없다.", "audio": null},
+        {"ja": "あの店は高いに違いない。", "reading": "あのみせはたかいにちがいない。", "ko": "그 가게는 비쌀 것임에 틀림없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼女は知っている＿＿＿＿＿。", "options": ["に違いない", "かもしれない", "はずだ", "だろう"], "answer": "に違いない", "explanation": "강한 확신을 나타내므로 に違いない가 적절합니다."}],
+      "relatedGrammar": ["n3_017"],
+      "relatedKanji": ["違", "犯人"],
+      "tags": ["추측", "확신", "강조"]
+    },
+    {
+      "id": "n3_017",
+      "pattern": "〜はずだ",
+      "patternReading": "〜はずだ",
+      "meaning": "~일 것이다, ~할 터이다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 17,
+      "explanation": {
+        "summary": "논리적・객관적 근거에 기반한 추측",
+        "detail": "동사 기본형+はずだ, 형용사+はずだ. 당연한 결과나 예상을 나타냄",
+        "koreanComparison": "한국어 '~일 것이다', '~할 터이다'에 해당",
+        "commonMistakes": ["に違いない(주관적)보다 객관적", "はずがない는 강한 부정"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+はずだ", "meaning": "来るはずだ"},
+        "verb_negative": {"form": "ない形+はずだ", "meaning": "来ないはずだ"},
+        "negative": {"form": "はずがない", "meaning": "~일 리가 없다"}
+      },
+      "examples": [
+        {"ja": "彼は3時に来るはずだ。", "reading": "かれはさんじにくるはずだ。", "ko": "그는 3시에 올 것이다.", "audio": null},
+        {"ja": "そんなはずがない！", "reading": "そんなはずがない！", "ko": "그럴 리가 없어!", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "予約したから、席がある＿＿＿。", "options": ["はずだ", "かもしれない", "に違いない", "そうだ"], "answer": "はずだ", "explanation": "예약이라는 논리적 근거가 있으므로 はずだ가 적절합니다."}],
+      "relatedGrammar": ["n3_016"],
+      "relatedKanji": ["予約", "席"],
+      "tags": ["추측", "논리", "예상"]
+    },
+    {
+      "id": "n3_018",
+      "pattern": "〜おそれがある",
+      "patternReading": "〜おそれがある",
+      "meaning": "~할 우려가 있다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 18,
+      "explanation": {
+        "summary": "부정적인 일이 일어날 가능성. 공식적 표현",
+        "detail": "동사 기본형+恐れがある. 뉴스, 공문서 등에서 자주 사용",
+        "koreanComparison": "한국어 '~할 우려가 있다'에 해당",
+        "commonMistakes": ["긍정적인 일에는 사용 불가", "かもしれない보다 공식적"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+恐れがある", "meaning": "起きる恐れがある"}
+      },
+      "examples": [
+        {"ja": "台風で電車が止まる恐れがある。", "reading": "たいふうででんしゃがとまるおそれがある。", "ko": "태풍으로 전철이 멈출 우려가 있다.", "audio": null},
+        {"ja": "地震が発生する恐れがあります。", "reading": "じしんがはっせいするおそれがあります。", "ko": "지진이 발생할 우려가 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "大雨で洪水が起きる＿＿＿＿＿。", "options": ["恐れがある", "かもしれない", "はずだ", "そうだ"], "answer": "恐れがある", "explanation": "공식적인 경고 표현이므로 恐れがある가 적절합니다."}],
+      "relatedGrammar": ["n3_019"],
+      "relatedKanji": ["恐", "台風"],
+      "tags": ["추측", "우려", "공식"]
+    },
+    {
+      "id": "n3_019",
+      "pattern": "〜可能性がある",
+      "patternReading": "〜かのうせいがある",
+      "meaning": "~할 가능성이 있다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 19,
+      "explanation": {
+        "summary": "가능성을 객관적으로 서술",
+        "detail": "동사 기본형+可能性がある. 恐れがある보다 중립적",
+        "koreanComparison": "한국어 '~할 가능성이 있다'에 해당",
+        "commonMistakes": ["긍정적・부정적 모두 사용 가능", "공식적인 표현"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+可能性がある", "meaning": "成功する可能性がある"}
+      },
+      "examples": [
+        {"ja": "このプロジェクトは成功する可能性が高い。", "reading": "このプロジェクトはせいこうするかのうせいがたかい。", "ko": "이 프로젝트는 성공할 가능성이 높다.", "audio": null},
+        {"ja": "明日は雪が降る可能性があります。", "reading": "あしたはゆきがふるかのうせいがあります。", "ko": "내일은 눈이 올 가능성이 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "新しい治療法が見つかる＿＿＿＿＿がある。", "options": ["可能性", "恐れ", "はず", "わけ"], "answer": "可能性", "explanation": "긍정적인 가능성이므로 可能性가 적절합니다."}],
+      "relatedGrammar": ["n3_018"],
+      "relatedKanji": ["可能", "成功"],
+      "tags": ["추측", "가능성", "객관"]
+    },
+    {
+      "id": "n3_020",
+      "pattern": "〜気がする",
+      "patternReading": "〜きがする",
+      "meaning": "~한 느낌이 들다",
+      "jlpt": "N3",
+      "category": "추측/추정",
+      "order": 20,
+      "explanation": {
+        "summary": "주관적인 느낌・예감",
+        "detail": "동사 기본형/ない형+気がする, 명사+の気がする",
+        "koreanComparison": "한국어 '~한 느낌이 든다', '~한 기분이다'에 해당",
+        "commonMistakes": ["매우 주관적인 표현", "확실한 근거 없이 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+気がする", "meaning": "忘れた気がする"},
+        "verb_negative": {"form": "ない形+気がする", "meaning": "できない気がする"},
+        "noun": {"form": "명사+の気がする", "meaning": "嘘の気がする"}
+      },
+      "examples": [
+        {"ja": "何か忘れた気がする。", "reading": "なにかわすれたきがする。", "ko": "뭔가 잊은 느낌이 든다.", "audio": null},
+        {"ja": "今日はいいことがある気がする。", "reading": "きょうはいいことがあるきがする。", "ko": "오늘은 좋은 일이 있을 것 같은 느낌이 든다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "前にどこかで会った＿＿＿＿＿。", "options": ["気がする", "はずだ", "らしい", "ようだ"], "answer": "気がする", "explanation": "확실하지 않은 주관적 느낌이므로 気がする가 적절합니다."}],
+      "relatedGrammar": ["n3_011"],
+      "relatedKanji": ["気", "忘"],
+      "tags": ["추측", "주관", "느낌"]
+    },
+    {
+      "id": "n3_021",
+      "pattern": "〜ようになる",
+      "patternReading": "〜ようになる",
+      "meaning": "~하게 되다 (변화)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 21,
+      "explanation": {
+        "summary": "상태나 능력의 변화를 나타냄",
+        "detail": "동사 기본형/ない형+ようになる. 이전에 없던 능력・습관이 생김",
+        "koreanComparison": "한국어 '~하게 되다'에 해당",
+        "commonMistakes": ["ことにする(의지적 결정)와 구별", "자연스러운 변화를 나타냄"]
+      },
+      "conjugation": {
+        "verb_positive": {"form": "기본형+ようになる", "meaning": "話せるようになる"},
+        "verb_negative": {"form": "ない形+ようになる", "meaning": "食べないようになる"}
+      },
+      "examples": [
+        {"ja": "日本語が話せるようになりました。", "reading": "にほんごがはなせるようになりました。", "ko": "일본어를 말할 수 있게 되었습니다.", "audio": null},
+        {"ja": "最近、早起きするようになった。", "reading": "さいきん、はやおきするようになった。", "ko": "최근 일찍 일어나게 되었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "練習して、泳げる＿＿＿＿＿なりました。", "options": ["ように", "ことに", "ために", "のに"], "answer": "ように", "explanation": "능력의 변화를 나타내므로 ようになる가 적절합니다."}],
+      "relatedGrammar": ["n3_022", "n3_023"],
+      "relatedKanji": ["話", "早起"],
+      "tags": ["변화", "능력", "습관"]
+    },
+    {
+      "id": "n3_022",
+      "pattern": "〜ことにする",
+      "patternReading": "〜ことにする",
+      "meaning": "~하기로 하다 (결정)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 22,
+      "explanation": {
+        "summary": "화자의 의지로 결정함",
+        "detail": "동사 기본형/ない형+ことにする. 스스로 결정을 내림",
+        "koreanComparison": "한국어 '~하기로 하다'에 해당",
+        "commonMistakes": ["ことになる(외부적 결정)와 구별", "화자의 의지가 포함됨"]
+      },
+      "conjugation": {
+        "verb_positive": {"form": "기본형+ことにする", "meaning": "やめることにする"},
+        "verb_negative": {"form": "ない形+ことにする", "meaning": "行かないことにする"},
+        "habitual": {"form": "ことにしている", "meaning": "~하기로 하고 있다 (습관)"}
+      },
+      "examples": [
+        {"ja": "来月から運動することにした。", "reading": "らいげつからうんどうすることにした。", "ko": "다음 달부터 운동하기로 했다.", "audio": null},
+        {"ja": "毎朝6時に起きることにしています。", "reading": "まいあさろくじにおきることにしています。", "ko": "매일 아침 6시에 일어나기로 하고 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "健康のために、お酒をやめる＿＿＿＿した。", "options": ["ことに", "ように", "ために", "のに"], "answer": "ことに", "explanation": "스스로의 결정이므로 ことにする가 적절합니다."}],
+      "relatedGrammar": ["n3_023"],
+      "relatedKanji": ["運動", "健康"],
+      "tags": ["결정", "의지", "습관"]
+    },
+    {
+      "id": "n3_023",
+      "pattern": "〜ことになる",
+      "patternReading": "〜ことになる",
+      "meaning": "~하게 되다 (외부적 결정)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 23,
+      "explanation": {
+        "summary": "외부 요인에 의해 결정됨",
+        "detail": "동사 기본형/ない형+ことになる. 회사, 규칙 등 외부 결정",
+        "koreanComparison": "한국어 '~하게 되다'에 해당 (타의적)",
+        "commonMistakes": ["ことにする(자발적)와 구별", "본인 의지와 무관한 결정"]
+      },
+      "conjugation": {
+        "verb_positive": {"form": "기본형+ことになる", "meaning": "転勤することになる"},
+        "verb_negative": {"form": "ない形+ことになる", "meaning": "参加しないことになる"},
+        "established": {"form": "ことになっている", "meaning": "~하게 되어 있다 (규칙)"}
+      },
+      "examples": [
+        {"ja": "来月、大阪に転勤することになりました。", "reading": "らいげつ、おおさかにてんきんすることになりました。", "ko": "다음 달 오사카로 전근하게 되었습니다.", "audio": null},
+        {"ja": "ここでは土足禁止ということになっています。", "reading": "ここではどそくきんしということになっています。", "ko": "여기서는 신발 착용 금지로 되어 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "会社の都合で、急に出張に行く＿＿＿なった。", "options": ["ことに", "ように", "ために", "はずに"], "answer": "ことに", "explanation": "회사 사정에 의한 결정이므로 ことになる가 적절합니다."}],
+      "relatedGrammar": ["n3_022"],
+      "relatedKanji": ["転勤", "禁止"],
+      "tags": ["결정", "외부", "규칙"]
+    },
+    {
+      "id": "n3_024",
+      "pattern": "〜てしまう",
+      "patternReading": "〜てしまう",
+      "meaning": "~해 버리다 (완료/유감)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 24,
+      "explanation": {
+        "summary": "완료 또는 유감・후회를 나타냄",
+        "detail": "동사 て형+しまう. 구어에서 ちゃう/じゃう로 축약",
+        "koreanComparison": "한국어 '~해 버리다'에 해당",
+        "commonMistakes": ["완료와 유감 두 가지 용법 구별", "구어 축약형 주의"]
+      },
+      "conjugation": {
+        "written": {"form": "て形+しまう", "meaning": "食べてしまう"},
+        "spoken_te": {"form": "ちゃう", "meaning": "食べちゃう"},
+        "spoken_de": {"form": "じゃう", "meaning": "飲んじゃう"}
+      },
+      "examples": [
+        {"ja": "宿題を忘れてしまった。", "reading": "しゅくだいをわすれてしまった。", "ko": "숙제를 잊어버렸다.", "audio": null},
+        {"ja": "ケーキを全部食べちゃった。", "reading": "ケーキをぜんぶたべちゃった。", "ko": "케이크를 전부 먹어버렸다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "電車に傘を忘れて＿＿＿＿。", "options": ["しまった", "おいた", "あった", "みた"], "answer": "しまった", "explanation": "유감을 나타내므로 てしまう가 적절합니다."}],
+      "relatedGrammar": ["n3_025"],
+      "relatedKanji": ["忘", "全部"],
+      "tags": ["완료", "유감", "후회"]
+    },
+    {
+      "id": "n3_025",
+      "pattern": "〜ておく",
+      "patternReading": "〜ておく",
+      "meaning": "~해 두다 (준비/방치)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 25,
+      "explanation": {
+        "summary": "미리 준비하거나 그 상태로 둠",
+        "detail": "동사 て형+おく. 구어에서 とく로 축약",
+        "koreanComparison": "한국어 '~해 두다'에 해당",
+        "commonMistakes": ["준비와 방치 두 가지 용법", "구어 축약형 주의"]
+      },
+      "conjugation": {
+        "written": {"form": "て形+おく", "meaning": "買っておく"},
+        "spoken": {"form": "とく", "meaning": "買っとく"}
+      },
+      "examples": [
+        {"ja": "明日の準備をしておきます。", "reading": "あしたのじゅんびをしておきます。", "ko": "내일 준비를 해 두겠습니다.", "audio": null},
+        {"ja": "窓を開けておいてください。", "reading": "まどをあけておいてください。", "ko": "창문을 열어 두세요.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "パーティーの前に、部屋を掃除して＿＿＿。", "options": ["おく", "しまう", "みる", "ある"], "answer": "おく", "explanation": "미리 준비하는 의미이므로 ておく가 적절합니다."}],
+      "relatedGrammar": ["n3_024", "n3_026"],
+      "relatedKanji": ["準備", "窓"],
+      "tags": ["준비", "방치", "상태"]
+    },
+    {
+      "id": "n3_026",
+      "pattern": "〜てある",
+      "patternReading": "〜てある",
+      "meaning": "~되어 있다 (결과 상태)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 26,
+      "explanation": {
+        "summary": "누군가가 의도적으로 한 행위의 결과 상태",
+        "detail": "타동사 て형+ある. 목적어가 주어가 됨 (が로 표시)",
+        "koreanComparison": "한국어 '~되어 있다'에 해당",
+        "commonMistakes": ["ている(진행/상태)와 구별", "타동사만 사용 가능"]
+      },
+      "conjugation": {
+        "pattern": {"form": "타동사 て形+ある", "meaning": "窓が開けてある"}
+      },
+      "examples": [
+        {"ja": "壁にカレンダーが貼ってある。", "reading": "かべにカレンダーがはってある。", "ko": "벽에 달력이 붙어 있다.", "audio": null},
+        {"ja": "テーブルの上に花が飾ってあります。", "reading": "テーブルのうえにはながかざってあります。", "ko": "테이블 위에 꽃이 장식되어 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "冷蔵庫にビールが入れて＿＿＿。", "options": ["ある", "いる", "おく", "しまう"], "answer": "ある", "explanation": "누군가가 넣어둔 결과 상태이므로 てある가 적절합니다."}],
+      "relatedGrammar": ["n3_025"],
+      "relatedKanji": ["壁", "飾"],
+      "tags": ["결과", "상태", "타동사"]
+    },
+    {
+      "id": "n3_027",
+      "pattern": "〜きる",
+      "patternReading": "〜きる",
+      "meaning": "완전히 ~하다",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 27,
+      "explanation": {
+        "summary": "동작의 완전한 완료",
+        "detail": "동사 ます형+きる. 끝까지, 완전히의 의미",
+        "koreanComparison": "한국어 '완전히 ~하다', '다 ~하다'에 해당",
+        "commonMistakes": ["きれる(가능)와 きれない(불가능) 구별", "긍정/부정 모두 사용"]
+      },
+      "conjugation": {
+        "positive": {"form": "ます形+きる", "meaning": "走りきる"},
+        "negative": {"form": "ます形+きれない", "meaning": "食べきれない"}
+      },
+      "examples": [
+        {"ja": "マラソンを走りきった。", "reading": "マラソンをはしりきった。", "ko": "마라톤을 끝까지 뛰었다.", "audio": null},
+        {"ja": "この量は一人で食べきれない。", "reading": "このりょうはひとりでたべきれない。", "ko": "이 양은 혼자서 다 먹을 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "疲れ＿＿＿て、もう動けない。", "options": ["きっ", "かけ", "だし", "はじめ"], "answer": "きっ", "explanation": "완전히 지쳤다는 의미이므로 きる가 적절합니다."}],
+      "relatedGrammar": ["n3_028"],
+      "relatedKanji": ["走", "量"],
+      "tags": ["완료", "완전", "복합동사"]
+    },
+    {
+      "id": "n3_028",
+      "pattern": "〜かける／かけの",
+      "patternReading": "〜かける／かけの",
+      "meaning": "~하다가 말다, 반쯤 ~한",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 28,
+      "explanation": {
+        "summary": "동작이 중간에 멈춤, 미완성 상태",
+        "detail": "동사 ます형+かける/かけの. 시작했지만 끝나지 않음",
+        "koreanComparison": "한국어 '~하다가 말다', '반쯤 ~한'에 해당",
+        "commonMistakes": ["かけの+명사 형태 주의", "막 ~하려고 하다의 의미도 있음"]
+      },
+      "conjugation": {
+        "verb": {"form": "ます形+かける", "meaning": "言いかける"},
+        "noun_modifier": {"form": "ます形+かけの+명사", "meaning": "読みかけの本"}
+      },
+      "examples": [
+        {"ja": "何か言いかけてやめた。", "reading": "なにかいいかけてやめた。", "ko": "뭔가 말하려다가 그만두었다.", "audio": null},
+        {"ja": "読みかけの本がたくさんある。", "reading": "よみかけのほんがたくさんある。", "ko": "읽다 만 책이 많이 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "食べ＿＿＿のケーキを冷蔵庫に入れた。", "options": ["かけ", "きり", "だし", "はじめ"], "answer": "かけ", "explanation": "먹다 만 상태이므로 かけ가 적절합니다."}],
+      "relatedGrammar": ["n3_027"],
+      "relatedKanji": ["言", "読"],
+      "tags": ["미완료", "중단", "복합동사"]
+    },
+    {
+      "id": "n3_029",
+      "pattern": "〜だす",
+      "patternReading": "〜だす",
+      "meaning": "~하기 시작하다 (갑자기)",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 29,
+      "explanation": {
+        "summary": "갑작스러운 동작의 시작",
+        "detail": "동사 ます형+出す. 예상 밖의 갑작스러운 시작",
+        "koreanComparison": "한국어 '갑자기 ~하기 시작하다'에 해당",
+        "commonMistakes": ["はじめる(계획적)와 구별", "갑작스러운 뉘앙스"]
+      },
+      "conjugation": {
+        "verb": {"form": "ます形+出す", "meaning": "泣き出す, 笑い出す"}
+      },
+      "examples": [
+        {"ja": "急に雨が降り出した。", "reading": "きゅうにあめがふりだした。", "ko": "갑자기 비가 내리기 시작했다.", "audio": null},
+        {"ja": "子供が突然泣き出した。", "reading": "こどもがとつぜんなきだした。", "ko": "아이가 갑자기 울기 시작했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼女は突然笑い＿＿＿。", "options": ["出した", "始めた", "かけた", "続けた"], "answer": "出した", "explanation": "갑작스러운 시작이므로 出す가 적절합니다."}],
+      "relatedGrammar": ["n3_030"],
+      "relatedKanji": ["雨", "泣"],
+      "tags": ["시작", "갑작", "복합동사"]
+    },
+    {
+      "id": "n3_030",
+      "pattern": "〜はじめる",
+      "patternReading": "〜はじめる",
+      "meaning": "~하기 시작하다",
+      "jlpt": "N3",
+      "category": "변화/결과",
+      "order": 30,
+      "explanation": {
+        "summary": "동작의 시작 (계획적)",
+        "detail": "동사 ます형+始める. 의도적・계획적인 시작",
+        "koreanComparison": "한국어 '~하기 시작하다'에 해당",
+        "commonMistakes": ["出す(갑작스러움)와 구별", "계획적 뉘앙스"]
+      },
+      "conjugation": {
+        "verb": {"form": "ます形+始める", "meaning": "勉強し始める"}
+      },
+      "examples": [
+        {"ja": "来月から日本語を勉強し始めます。", "reading": "らいげつからにほんごをべんきょうしはじめます。", "ko": "다음 달부터 일본어를 공부하기 시작합니다.", "audio": null},
+        {"ja": "彼は最近、料理を作り始めた。", "reading": "かれはさいきん、りょうりをつくりはじめた。", "ko": "그는 최근 요리를 만들기 시작했다.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "大学に入ってから、一人暮らしを＿＿＿。", "options": ["し始めた", "し出した", "しかけた", "しきった"], "answer": "し始めた", "explanation": "계획적인 시작이므로 始める가 적절합니다."}],
+      "relatedGrammar": ["n3_029"],
+      "relatedKanji": ["始", "勉強"],
+      "tags": ["시작", "계획", "복합동사"]
+    },
+    {
+      "id": "n3_031",
+      "pattern": "〜ため(に)",
+      "patternReading": "〜ため(に)",
+      "meaning": "~하기 위해서, ~때문에",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 31,
+      "explanation": {
+        "summary": "목적 또는 원인을 나타냄",
+        "detail": "동사 기본형+ために(목적), 동사 た형/명사+の+ために(원인)",
+        "koreanComparison": "한국어 '~하기 위해서', '~때문에'에 해당",
+        "commonMistakes": ["목적(기본형)과 원인(た형) 구별", "의지 동사는 목적, 무의지 동사는 원인"]
+      },
+      "conjugation": {
+        "purpose": {"form": "기본형+ために", "meaning": "合格するために"},
+        "cause": {"form": "た形/명사の+ために", "meaning": "雨のために, 風邪をひいたために"}
+      },
+      "examples": [
+        {"ja": "日本に留学するために、お金を貯めています。", "reading": "にほんにりゅうがくするために、おかねをためています。", "ko": "일본에 유학하기 위해 돈을 모으고 있습니다.", "audio": null},
+        {"ja": "事故のために、電車が遅れた。", "reading": "じこのために、でんしゃがおくれた。", "ko": "사고 때문에 전철이 늦었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "健康の＿＿＿、毎日運動しています。", "options": ["ために", "せいで", "おかげで", "から"], "answer": "ために", "explanation": "목적을 나타내므로 ために가 적절합니다."}],
+      "relatedGrammar": ["n3_032", "n3_033"],
+      "relatedKanji": ["留学", "事故"],
+      "tags": ["목적", "원인", "이유"]
+    },
+    {
+      "id": "n3_032",
+      "pattern": "〜せいで／せいか",
+      "patternReading": "〜せいで／せいか",
+      "meaning": "~탓에, ~때문에 (부정적)",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 32,
+      "explanation": {
+        "summary": "부정적인 결과의 원인",
+        "detail": "동사 기본형/た형+せいで, 명사+の+せいで. 나쁜 결과의 원인",
+        "koreanComparison": "한국어 '~탓에', '~때문에(부정적)'에 해당",
+        "commonMistakes": ["おかげで(긍정)와 반대", "せいか는 불확실한 원인 추측"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+のせいで", "meaning": "雨のせいで"},
+        "verb": {"form": "동사 기본형/た形+せいで", "meaning": "遅刻したせいで"},
+        "uncertain": {"form": "~せいか", "meaning": "~탓인지"}
+      },
+      "examples": [
+        {"ja": "風邪のせいで、試験に落ちた。", "reading": "かぜのせいで、しけんにおちた。", "ko": "감기 탓에 시험에 떨어졌다.", "audio": null},
+        {"ja": "年のせいか、最近疲れやすい。", "reading": "としのせいか、さいきんつかれやすい。", "ko": "나이 탓인지 요즘 피곤하기 쉽다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "寝不足の＿＿＿、頭が痛い。", "options": ["せいで", "おかげで", "ために", "から"], "answer": "せいで", "explanation": "부정적 결과의 원인이므로 せいで가 적절합니다."}],
+      "relatedGrammar": ["n3_033"],
+      "relatedKanji": ["風邪", "試験"],
+      "tags": ["원인", "부정적", "이유"]
+    },
+    {
+      "id": "n3_033",
+      "pattern": "〜おかげで／おかげか",
+      "patternReading": "〜おかげで／おかげか",
+      "meaning": "~덕분에 (긍정적)",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 33,
+      "explanation": {
+        "summary": "긍정적인 결과의 원인",
+        "detail": "동사 기본형/た형+おかげで, 명사+の+おかげで. 좋은 결과의 원인",
+        "koreanComparison": "한국어 '~덕분에'에 해당",
+        "commonMistakes": ["せいで(부정)와 반대", "おかげさまで는 관용 표현"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+のおかげで", "meaning": "先生のおかげで"},
+        "verb": {"form": "동사 기본형/た形+おかげで", "meaning": "手伝ってくれたおかげで"}
+      },
+      "examples": [
+        {"ja": "先生のおかげで、試験に合格しました。", "reading": "せんせいのおかげで、しけんにごうかくしました。", "ko": "선생님 덕분에 시험에 합격했습니다.", "audio": null},
+        {"ja": "みんなが手伝ってくれたおかげで、早く終わった。", "reading": "みんながてつだってくれたおかげで、はやくおわった。", "ko": "모두가 도와준 덕분에 빨리 끝났다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼の＿＿＿、問題が解決した。", "options": ["おかげで", "せいで", "ために", "から"], "answer": "おかげで", "explanation": "긍정적 결과이므로 おかげで가 적절합니다."}],
+      "relatedGrammar": ["n3_032"],
+      "relatedKanji": ["先生", "合格"],
+      "tags": ["원인", "긍정적", "감사"]
+    },
+    {
+      "id": "n3_034",
+      "pattern": "〜わけだ",
+      "patternReading": "〜わけだ",
+      "meaning": "~인 셈이다, 당연히 ~하다",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 34,
+      "explanation": {
+        "summary": "논리적 귀결・납득을 나타냄",
+        "detail": "동사・형용사 기본형+わけだ. '그러니까 당연히'의 뉘앙스",
+        "koreanComparison": "한국어 '~인 셈이다', '그러니까 ~하는 거구나'에 해당",
+        "commonMistakes": ["わけがない, わけではない와 구별", "논리적 결론을 도출할 때 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+わけだ", "meaning": "忙しいわけだ"},
+        "na_adj": {"form": "な+わけだ", "meaning": "大変なわけだ"},
+        "noun": {"form": "という/の+わけだ", "meaning": "休みというわけだ"}
+      },
+      "examples": [
+        {"ja": "毎日10時間働いている。疲れるわけだ。", "reading": "まいにちじゅうじかんはたらいている。つかれるわけだ。", "ko": "매일 10시간 일하고 있다. 피곤할 수밖에.", "audio": null},
+        {"ja": "彼は日本に5年いた。日本語が上手なわけだ。", "reading": "かれはにほんにごねんいた。にほんごがじょうずなわけだ。", "ko": "그는 일본에 5년 있었다. 일본어가 능숙할 수밖에.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "A：彼女、今日来ないって。B：そう、病気な＿＿＿。", "options": ["わけだ", "はずだ", "ようだ", "そうだ"], "answer": "わけだ", "explanation": "이유를 듣고 납득하므로 わけだ가 적절합니다."}],
+      "relatedGrammar": ["n3_035", "n3_036"],
+      "relatedKanji": ["疲", "上手"],
+      "tags": ["납득", "귀결", "이유"]
+    },
+    {
+      "id": "n3_035",
+      "pattern": "〜わけがない",
+      "patternReading": "〜わけがない",
+      "meaning": "~일 리가 없다",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 35,
+      "explanation": {
+        "summary": "강한 부정. 그럴 가능성이 없다",
+        "detail": "동사・형용사 기본형+わけがない. 논리적으로 불가능함을 강조",
+        "koreanComparison": "한국어 '~일 리가 없다'에 해당",
+        "commonMistakes": ["はずがない와 유사하지만 더 강함", "구어에서 わけない로 축약"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+わけがない", "meaning": "知るわけがない"},
+        "spoken": {"form": "わけない", "meaning": "知るわけない (구어)"}
+      },
+      "examples": [
+        {"ja": "彼がそんなことをするわけがない。", "reading": "かれがそんなことをするわけがない。", "ko": "그가 그런 짓을 할 리가 없다.", "audio": null},
+        {"ja": "一日で終わるわけがない。", "reading": "いちにちでおわるわけがない。", "ko": "하루 만에 끝날 리가 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "初めて会った人を信用する＿＿＿＿＿。", "options": ["わけがない", "わけだ", "わけではない", "わけにはいかない"], "answer": "わけがない", "explanation": "논리적으로 불가능하므로 わけがない가 적절합니다."}],
+      "relatedGrammar": ["n3_034", "n3_036"],
+      "relatedKanji": ["知", "終"],
+      "tags": ["부정", "불가능", "강조"]
+    },
+    {
+      "id": "n3_036",
+      "pattern": "〜わけではない",
+      "patternReading": "〜わけではない",
+      "meaning": "~인 것은 아니다 (부분 부정)",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 36,
+      "explanation": {
+        "summary": "부분 부정. 전면적으로 그런 것은 아님",
+        "detail": "동사・형용사 기본형+わけではない. 오해 정정, 부분 부정",
+        "koreanComparison": "한국어 '~인 것은 아니다'에 해당",
+        "commonMistakes": ["완전 부정이 아닌 부분 부정", "というわけではない도 같은 의미"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+わけではない", "meaning": "嫌いなわけではない"},
+        "emphasis": {"form": "というわけではない", "meaning": "~라는 것은 아니다"}
+      },
+      "examples": [
+        {"ja": "嫌いなわけではないが、苦手だ。", "reading": "きらいなわけではないが、にがてだ。", "ko": "싫은 것은 아니지만 어렵다.", "audio": null},
+        {"ja": "お金がないわけではないが、節約している。", "reading": "おかねがないわけではないが、せつやくしている。", "ko": "돈이 없는 것은 아니지만 절약하고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "行きたくない＿＿＿＿＿が、時間がない。", "options": ["わけではない", "わけがない", "わけだ", "わけにはいかない"], "answer": "わけではない", "explanation": "부분 부정이므로 わけではない가 적절합니다."}],
+      "relatedGrammar": ["n3_034", "n3_035"],
+      "relatedKanji": ["嫌", "苦手"],
+      "tags": ["부정", "부분", "정정"]
+    },
+    {
+      "id": "n3_037",
+      "pattern": "〜わけにはいかない",
+      "patternReading": "〜わけにはいかない",
+      "meaning": "~할 수는 없다 (사정상)",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 37,
+      "explanation": {
+        "summary": "사회적・도덕적으로 할 수 없음",
+        "detail": "동사 기본형+わけにはいかない. 개인 사정이 아닌 외적 이유로 불가",
+        "koreanComparison": "한국어 '~할 수는 없다', '~하면 안 된다'에 해당",
+        "commonMistakes": ["できない(능력)와 구별", "ないわけにはいかない = 안 할 수 없다"]
+      },
+      "conjugation": {
+        "positive": {"form": "기본형+わけにはいかない", "meaning": "休むわけにはいかない"},
+        "negative": {"form": "ない形+わけにはいかない", "meaning": "行かないわけにはいかない(안 갈 수 없다)"}
+      },
+      "examples": [
+        {"ja": "締め切りが近いので、休むわけにはいかない。", "reading": "しめきりがちかいので、やすむわけにはいかない。", "ko": "마감이 가까워서 쉴 수는 없다.", "audio": null},
+        {"ja": "約束したので、行かないわけにはいかない。", "reading": "やくそくしたので、いかないわけにはいかない。", "ko": "약속했으니 안 갈 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "上司に頼まれたから、断る＿＿＿＿＿。", "options": ["わけにはいかない", "わけがない", "わけではない", "わけだ"], "answer": "わけにはいかない", "explanation": "사회적 이유로 거절 불가이므로 わけにはいかない가 적절합니다."}],
+      "relatedGrammar": ["n3_034"],
+      "relatedKanji": ["休", "約束"],
+      "tags": ["불가", "의무", "사회적"]
+    },
+    {
+      "id": "n3_038",
+      "pattern": "〜からといって",
+      "patternReading": "〜からといって",
+      "meaning": "~라고 해서 (반드시 ~은 아니다)",
+      "jlpt": "N3",
+      "category": "이유/원인",
+      "order": 38,
+      "explanation": {
+        "summary": "이유만으로 단정할 수 없음",
+        "detail": "동사・형용사 기본형+からといって. 후문에 부정・반박이 옴",
+        "koreanComparison": "한국어 '~라고 해서'에 해당",
+        "commonMistakes": ["후문에 부정적 표현이 자주 옴", "からって는 구어 축약형"]
+      },
+      "conjugation": {
+        "formal": {"form": "기본형+からといって", "meaning": "安いからといって"},
+        "casual": {"form": "からって", "meaning": "安いからって (구어)"}
+      },
+      "examples": [
+        {"ja": "安いからといって、買いすぎてはいけない。", "reading": "やすいからといって、かいすぎてはいけない。", "ko": "싸다고 해서 너무 사면 안 된다.", "audio": null},
+        {"ja": "日本人だからといって、全員が敬語を使えるわけではない。", "reading": "にほんじんだからといって、ぜんいんがけいごをつかえるわけではない。", "ko": "일본인이라고 해서 전원이 경어를 쓸 수 있는 것은 아니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "有名だ＿＿＿＿＿、おいしいとは限らない。", "options": ["からといって", "から", "ので", "ために"], "answer": "からといって", "explanation": "'~라고 해서 반드시 ~은 아니다'의 의미이므로 からといって가 적절합니다."}],
+      "relatedGrammar": ["n3_034"],
+      "relatedKanji": ["安", "全員"],
+      "tags": ["이유", "반박", "부정"]
+    },
+    {
+      "id": "n3_039",
+      "pattern": "〜のに",
+      "patternReading": "〜のに",
+      "meaning": "~인데도 (불구하고)",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 39,
+      "explanation": {
+        "summary": "예상과 다른 결과. 불만・유감",
+        "detail": "동사・형용사 기본형+のに, 명사+な+のに. 기대와 다른 결과에 대한 실망",
+        "koreanComparison": "한국어 '~인데도', '~는데'에 해당",
+        "commonMistakes": ["けど/が(단순 역접)보다 불만 뉘앙스", "후문에 의지 표현 불가"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+のに", "meaning": "頑張ったのに"},
+        "i_adj": {"form": "い+のに", "meaning": "高いのに"},
+        "na_adj": {"form": "な+のに", "meaning": "静かなのに"},
+        "noun": {"form": "な+のに", "meaning": "休みなのに"}
+      },
+      "examples": [
+        {"ja": "一生懸命勉強したのに、試験に落ちた。", "reading": "いっしょうけんめいべんきょうしたのに、しけんにおちた。", "ko": "열심히 공부했는데도 시험에 떨어졌다.", "audio": null},
+        {"ja": "高いのに、おいしくない。", "reading": "たかいのに、おいしくない。", "ko": "비싼데도 맛없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "約束した＿＿＿、来なかった。", "options": ["のに", "から", "ので", "けど"], "answer": "のに", "explanation": "기대와 다른 결과에 대한 실망이므로 のに가 적절합니다."}],
+      "relatedGrammar": ["n3_040"],
+      "relatedKanji": ["勉強", "試験"],
+      "tags": ["역접", "불만", "유감"]
+    },
+    {
+      "id": "n3_040",
+      "pattern": "〜にもかかわらず",
+      "patternReading": "〜にもかかわらず",
+      "meaning": "~임에도 불구하고",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 40,
+      "explanation": {
+        "summary": "강한 역접. 문어적 표현",
+        "detail": "동사・형용사 기본형+にもかかわらず. のに보다 격식적",
+        "koreanComparison": "한국어 '~임에도 불구하고'에 해당",
+        "commonMistakes": ["문어체・공식적 표현", "구어에서는 のに 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+にもかかわらず", "meaning": "注意したにもかかわらず"},
+        "noun": {"form": "명사+にもかかわらず", "meaning": "雨にもかかわらず"}
+      },
+      "examples": [
+        {"ja": "雨にもかかわらず、多くの人が集まった。", "reading": "あめにもかかわらず、おおくのひとがあつまった。", "ko": "비에도 불구하고 많은 사람이 모였다.", "audio": null},
+        {"ja": "何度も注意したにもかかわらず、改善されない。", "reading": "なんどもちゅういしたにもかかわらず、かいぜんされない。", "ko": "몇 번이나 주의했음에도 불구하고 개선되지 않는다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "努力した＿＿＿＿＿＿、結果が出なかった。", "options": ["にもかかわらず", "のに", "けど", "が"], "answer": "にもかかわらず", "explanation": "격식적인 역접이므로 にもかかわらず가 적절합니다."}],
+      "relatedGrammar": ["n3_039"],
+      "relatedKanji": ["雨", "注意"],
+      "tags": ["역접", "격식", "문어"]
+    },
+    {
+      "id": "n3_041",
+      "pattern": "〜くせに",
+      "patternReading": "〜くせに",
+      "meaning": "~주제에, ~면서",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 41,
+      "explanation": {
+        "summary": "비난・불만을 담은 역접",
+        "detail": "동사・형용사 기본형+くせに. 상대방에 대한 비난",
+        "koreanComparison": "한국어 '~주제에', '~면서'에 해당",
+        "commonMistakes": ["부정적 뉘앙스가 강함", "친한 사이에서 장난으로 사용하기도"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+くせに", "meaning": "知らないくせに"},
+        "na_adj": {"form": "な+くせに", "meaning": "下手なくせに"},
+        "noun": {"form": "の+くせに", "meaning": "子供のくせに"}
+      },
+      "examples": [
+        {"ja": "知らないくせに、知ったふりをするな。", "reading": "しらないくせに、しったふりをするな。", "ko": "모르면서 아는 척하지 마.", "audio": null},
+        {"ja": "子供のくせに、生意気だ。", "reading": "こどものくせに、なまいきだ。", "ko": "애 주제에 건방지다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "自分でできない＿＿＿、人に文句を言うな。", "options": ["くせに", "のに", "けど", "から"], "answer": "くせに", "explanation": "비난의 뉘앙스가 있으므로 くせに가 적절합니다."}],
+      "relatedGrammar": ["n3_039"],
+      "relatedKanji": ["知", "子供"],
+      "tags": ["역접", "비난", "불만"]
+    },
+    {
+      "id": "n3_042",
+      "pattern": "〜ながら(も)",
+      "patternReading": "〜ながら(も)",
+      "meaning": "~이면서도, ~에도 불구하고",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 42,
+      "explanation": {
+        "summary": "역접의 ながら. 동시 진행의 ながら와 구별",
+        "detail": "동사 ます형/형용사 어간+ながら(も). 모순된 두 상황의 공존",
+        "koreanComparison": "한국어 '~이면서도'에 해당",
+        "commonMistakes": ["동시 동작(~하면서)과 구별", "역접은 주로 ながらも 형태"]
+      },
+      "conjugation": {
+        "verb": {"form": "ます形+ながら(も)", "meaning": "知りながら(も)"},
+        "i_adj": {"form": "어간+ながら(も)", "meaning": "小さいながらも→小さながら"}
+      },
+      "examples": [
+        {"ja": "悪いと知りながら、やめられない。", "reading": "わるいとしりながら、やめられない。", "ko": "나쁜 줄 알면서도 그만둘 수 없다.", "audio": null},
+        {"ja": "狭いながらも、快適な部屋だ。", "reading": "せまいながらも、かいてきなへやだ。", "ko": "좁지만 쾌적한 방이다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "残念＿＿＿、今回は参加できません。", "options": ["ながら", "のに", "けど", "が"], "answer": "ながら", "explanation": "역접의 ながら가 적절합니다."}],
+      "relatedGrammar": ["n3_039"],
+      "relatedKanji": ["悪", "狭"],
+      "tags": ["역접", "동시", "모순"]
+    },
+    {
+      "id": "n3_043",
+      "pattern": "〜ものの",
+      "patternReading": "〜ものの",
+      "meaning": "~하기는 하지만",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 43,
+      "explanation": {
+        "summary": "앞 내용을 인정하면서 역접. 문어적",
+        "detail": "동사・형용사 기본형+ものの. 문어체・격식적 역접",
+        "koreanComparison": "한국어 '~하기는 하지만', '~긴 하지만'에 해당",
+        "commonMistakes": ["けど/が보다 격식적", "문어체에서 주로 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+ものの", "meaning": "買ったものの"},
+        "i_adj": {"form": "い+ものの", "meaning": "高いものの"}
+      },
+      "examples": [
+        {"ja": "買ったものの、一度も使っていない。", "reading": "かったものの、いちどもつかっていない。", "ko": "사긴 했지만 한 번도 사용하지 않았다.", "audio": null},
+        {"ja": "説明を聞いたものの、よくわからない。", "reading": "せつめいをきいたものの、よくわからない。", "ko": "설명을 듣긴 했지만 잘 모르겠다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "申し込んだ＿＿＿、行けるかどうかわからない。", "options": ["ものの", "のに", "から", "ので"], "answer": "ものの", "explanation": "앞 내용을 인정하면서 역접이므로 ものの가 적절합니다."}],
+      "relatedGrammar": ["n3_044"],
+      "relatedKanji": ["買", "説明"],
+      "tags": ["역접", "문어", "격식"]
+    },
+    {
+      "id": "n3_044",
+      "pattern": "〜にしては",
+      "patternReading": "〜にしては",
+      "meaning": "~치고는, ~에 비해서는",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 44,
+      "explanation": {
+        "summary": "기준에 비해 예상과 다름",
+        "detail": "명사+にしては. 그 기준에서 예상되는 것과 다른 결과",
+        "koreanComparison": "한국어 '~치고는', '~에 비해'에 해당",
+        "commonMistakes": ["비교 기준을 제시함", "예상과 다른 결과 강조"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+にしては", "meaning": "初心者にしては"},
+        "verb": {"form": "동사 기본형+にしては", "meaning": "急いで作ったにしては"}
+      },
+      "examples": [
+        {"ja": "初心者にしては、上手ですね。", "reading": "しょしんしゃにしては、じょうずですね。", "ko": "초보자치고는 잘하네요.", "audio": null},
+        {"ja": "12月にしては、暖かい日だ。", "reading": "じゅうにがつにしては、あたたかいひだ。", "ko": "12월치고는 따뜻한 날이다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "日本人＿＿＿＿、背が高いですね。", "options": ["にしては", "として", "にとって", "について"], "answer": "にしては", "explanation": "기준에 비해 예상과 다르므로 にしては가 적절합니다."}],
+      "relatedGrammar": ["n3_045"],
+      "relatedKanji": ["初心者", "暖"],
+      "tags": ["비교", "역접", "기준"]
+    },
+    {
+      "id": "n3_045",
+      "pattern": "〜わりに(は)",
+      "patternReading": "〜わりに(は)",
+      "meaning": "~에 비해, ~치고는",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 45,
+      "explanation": {
+        "summary": "비례하지 않는 결과",
+        "detail": "동사・형용사 기본형+わりに. 예상되는 정도와 맞지 않음",
+        "koreanComparison": "한국어 '~에 비해', '~하는 것치고는'에 해당",
+        "commonMistakes": ["にしては와 유사", "비율・정도의 불일치 강조"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+わりに", "meaning": "食べるわりに"},
+        "noun": {"form": "명사+の+わりに", "meaning": "値段のわりに"}
+      },
+      "examples": [
+        {"ja": "よく食べるわりに、太らない。", "reading": "よくたべるわりに、ふとらない。", "ko": "많이 먹는 것에 비해 살이 안 찐다.", "audio": null},
+        {"ja": "この店は値段のわりに、量が多い。", "reading": "このみせはねだんのわりに、りょうがおおい。", "ko": "이 가게는 가격에 비해 양이 많다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "勉強した＿＿＿、点数が悪かった。", "options": ["わりに", "にしては", "ために", "せいで"], "answer": "わりに", "explanation": "노력에 비해 결과가 맞지 않으므로 わりに가 적절합니다."}],
+      "relatedGrammar": ["n3_044"],
+      "relatedKanji": ["食", "値段"],
+      "tags": ["비교", "불일치", "정도"]
+    },
+    {
+      "id": "n3_046",
+      "pattern": "〜反面／一方(で)",
+      "patternReading": "〜はんめん／いっぽう(で)",
+      "meaning": "~반면, 한편으로는",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 46,
+      "explanation": {
+        "summary": "대조적인 두 측면을 제시",
+        "detail": "동사・형용사 기본형+反面/一方. 두 가지 상반된 면을 설명",
+        "koreanComparison": "한국어 '~반면', '한편으로는'에 해당",
+        "commonMistakes": ["같은 대상의 두 측면", "一方で는 다른 화제로 전환에도 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+反面/一方(で)", "meaning": "便利な反面"},
+        "na_adj": {"form": "な/である+反面", "meaning": "便利である反面"}
+      },
+      "examples": [
+        {"ja": "都会は便利な反面、物価が高い。", "reading": "とかいはべんりなはんめん、ぶっかがたかい。", "ko": "도시는 편리한 반면 물가가 비싸다.", "audio": null},
+        {"ja": "彼は優しい一方で、厳しいところもある。", "reading": "かれはやさしいいっぽうで、きびしいところもある。", "ko": "그는 다정한 한편 엄격한 면도 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "インターネットは便利な＿＿＿、危険もある。", "options": ["反面", "のに", "から", "ので"], "answer": "反面", "explanation": "대조적 측면이므로 反面가 적절합니다."}],
+      "relatedGrammar": ["n3_047"],
+      "relatedKanji": ["便利", "物価"],
+      "tags": ["대비", "대조", "양면"]
+    },
+    {
+      "id": "n3_047",
+      "pattern": "〜かわりに",
+      "patternReading": "〜かわりに",
+      "meaning": "~대신에",
+      "jlpt": "N3",
+      "category": "대비/역접",
+      "order": 47,
+      "explanation": {
+        "summary": "대체・교환을 나타냄",
+        "detail": "동사 기본형/た형+かわりに, 명사+の+かわりに",
+        "koreanComparison": "한국어 '~대신에'에 해당",
+        "commonMistakes": ["대체와 교환 두 가지 용법", "そのかわり(그 대신)도 자주 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+かわりに", "meaning": "行くかわりに"},
+        "noun": {"form": "명사+の+かわりに", "meaning": "母のかわりに"}
+      },
+      "examples": [
+        {"ja": "電車のかわりに、バスで行った。", "reading": "でんしゃのかわりに、バスでいった。", "ko": "전철 대신에 버스로 갔다.", "audio": null},
+        {"ja": "手伝ってあげるかわりに、お昼をおごってね。", "reading": "てつだってあげるかわりに、おひるをおごってね。", "ko": "도와줄 테니까 대신 점심 사.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "コーヒーの＿＿＿＿、紅茶はいかがですか。", "options": ["かわりに", "ために", "せいで", "おかげで"], "answer": "かわりに", "explanation": "대체를 나타내므로 かわりに가 적절합니다."}],
+      "relatedGrammar": ["n3_046"],
+      "relatedKanji": ["電車", "手伝"],
+      "tags": ["대체", "교환", "조건"]
+    },
+    {
+      "id": "n3_048",
+      "pattern": "〜たとたん(に)",
+      "patternReading": "〜たとたん(に)",
+      "meaning": "~하자마자",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 48,
+      "explanation": {
+        "summary": "직후에 예상 밖의 일 발생",
+        "detail": "동사 た형+とたん(に). 어떤 동작 직후 예상치 못한 일",
+        "koreanComparison": "한국어 '~하자마자'에 해당",
+        "commonMistakes": ["예상 밖의 일에 사용", "의지적 동작은 후문 불가"]
+      },
+      "conjugation": {
+        "verb": {"form": "た形+とたん(に)", "meaning": "開けたとたん(に)"}
+      },
+      "examples": [
+        {"ja": "ドアを開けたとたん、猫が飛び出した。", "reading": "ドアをあけたとたん、ねこがとびだした。", "ko": "문을 열자마자 고양이가 뛰어나왔다.", "audio": null},
+        {"ja": "立ち上がったとたん、めまいがした。", "reading": "たちあがったとたん、めまいがした。", "ko": "일어서자마자 현기증이 났다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "外に出た＿＿＿＿、雨が降り出した。", "options": ["とたん", "あとで", "まえに", "ながら"], "answer": "とたん", "explanation": "직후의 예상 밖 일이므로 とたん가 적절합니다."}],
+      "relatedGrammar": ["n3_049"],
+      "relatedKanji": ["開", "猫"],
+      "tags": ["시점", "직후", "예상외"]
+    },
+    {
+      "id": "n3_049",
+      "pattern": "〜次第",
+      "patternReading": "〜しだい",
+      "meaning": "~하는 대로, ~에 달려 있다",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 49,
+      "explanation": {
+        "summary": "직후 행동 또는 의존 관계",
+        "detail": "동사 ます형+次第 (하는 대로), 명사+次第 (~에 달려 있다)",
+        "koreanComparison": "한국어 '~하는 대로', '~에 달려 있다'에 해당",
+        "commonMistakes": ["두 가지 용법 구별", "ます形接続과 명사 접속 다름"]
+      },
+      "conjugation": {
+        "immediately": {"form": "ます形+次第", "meaning": "届き次第(도착하는 대로)"},
+        "depends": {"form": "명사+次第", "meaning": "結果次第(결과에 달려 있다)"}
+      },
+      "examples": [
+        {"ja": "届き次第、連絡します。", "reading": "とどきしだい、れんらくします。", "ko": "도착하는 대로 연락하겠습니다.", "audio": null},
+        {"ja": "成功するかどうかは、努力次第だ。", "reading": "せいこうするかどうかは、どりょくしだいだ。", "ko": "성공할지 어떨지는 노력에 달려 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "わかり＿＿＿、お知らせします。", "options": ["次第", "とたん", "ながら", "つつ"], "answer": "次第", "explanation": "'알게 되는 대로'의 의미이므로 次第가 적절합니다."}],
+      "relatedGrammar": ["n3_048"],
+      "relatedKanji": ["届", "成功"],
+      "tags": ["시점", "직후", "의존"]
+    },
+    {
+      "id": "n3_050",
+      "pattern": "〜うちに",
+      "patternReading": "〜うちに",
+      "meaning": "~하는 동안에, ~하기 전에",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 50,
+      "explanation": {
+        "summary": "상태가 변하기 전에, 그 동안에",
+        "detail": "동사 기본형/ない형+うちに, 형용사+うちに. 시간적 한계 강조",
+        "koreanComparison": "한국어 '~하는 동안에', '~하기 전에'에 해당",
+        "commonMistakes": ["ないうちに = ~하기 전에", "상태 변화 전에 행동 권유"]
+      },
+      "conjugation": {
+        "verb_positive": {"form": "기본형+うちに", "meaning": "覚えているうちに"},
+        "verb_negative": {"form": "ない形+うちに", "meaning": "忘れないうちに"},
+        "i_adj": {"form": "い+うちに", "meaning": "若いうちに"}
+      },
+      "examples": [
+        {"ja": "忘れないうちに、メモしておこう。", "reading": "わすれないうちに、メモしておこう。", "ko": "잊기 전에 메모해 두자.", "audio": null},
+        {"ja": "若いうちに、いろいろ経験したい。", "reading": "わかいうちに、いろいろけいけんしたい。", "ko": "젊을 때 여러 가지 경험하고 싶다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "熱い＿＿＿＿、食べてください。", "options": ["うちに", "あいだに", "とき", "ながら"], "answer": "うちに", "explanation": "상태가 변하기 전에의 의미이므로 うちに가 적절합니다."}],
+      "relatedGrammar": ["n3_051"],
+      "relatedKanji": ["忘", "若"],
+      "tags": ["시점", "기간", "변화"]
+    },
+    {
+      "id": "n3_051",
+      "pattern": "〜ところ",
+      "patternReading": "〜ところ",
+      "meaning": "~하는 참이다, ~한 참이다",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 51,
+      "explanation": {
+        "summary": "동작의 단계・국면을 나타냄",
+        "detail": "동사 기본형(직전)/ている(진행중)/た형(직후)+ところ",
+        "koreanComparison": "한국어 '~하려는 참이다', '~하는 중이다', '~한 참이다'에 해당",
+        "commonMistakes": ["동사 형태에 따라 시점이 달라짐", "ところに/ところへ/ところを도 있음"]
+      },
+      "conjugation": {
+        "before": {"form": "기본형+ところだ", "meaning": "今から食べるところだ(막 ~하려는 참)"},
+        "during": {"form": "ている+ところだ", "meaning": "今食べているところだ(~하는 중)"},
+        "after": {"form": "た形+ところだ", "meaning": "今食べたところだ(막 ~한 참)"}
+      },
+      "examples": [
+        {"ja": "今から出かけるところです。", "reading": "いまからでかけるところです。", "ko": "지금 막 나가려는 참입니다.", "audio": null},
+        {"ja": "ちょうど話していたところです。", "reading": "ちょうどはなしていたところです。", "ko": "마침 이야기하고 있던 참입니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "今、宿題をしている＿＿＿だよ。", "options": ["ところ", "うち", "あいだ", "とき"], "answer": "ところ", "explanation": "진행 중인 국면이므로 ているところ가 적절합니다."}],
+      "relatedGrammar": ["n3_050"],
+      "relatedKanji": ["出", "話"],
+      "tags": ["시점", "국면", "단계"]
+    },
+    {
+      "id": "n3_052",
+      "pattern": "〜て以来",
+      "patternReading": "〜ていらい",
+      "meaning": "~한 이래로",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 52,
+      "explanation": {
+        "summary": "어떤 시점 이후 계속되는 상태",
+        "detail": "동사 て형+以来. 과거 시점부터 현재까지의 계속",
+        "koreanComparison": "한국어 '~한 이래로', '~한 이후로'에 해당",
+        "commonMistakes": ["てから보다 격식적", "계속 상태 강조"]
+      },
+      "conjugation": {
+        "verb": {"form": "て形+以来", "meaning": "会って以来"}
+      },
+      "examples": [
+        {"ja": "大学を卒業して以来、彼とは会っていない。", "reading": "だいがくをそつぎょうしていらい、かれとはあっていない。", "ko": "대학을 졸업한 이래로 그와는 만나지 않았다.", "audio": null},
+        {"ja": "日本に来て以来、ずっと東京に住んでいる。", "reading": "にほんにきていらい、ずっととうきょうにすんでいる。", "ko": "일본에 온 이래로 쭉 도쿄에 살고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "あの事件があっ＿＿＿＿、町が静かになった。", "options": ["て以来", "てから", "たあと", "たとき"], "answer": "て以来", "explanation": "그 이후 계속되는 상태이므로 て以来가 적절합니다."}],
+      "relatedGrammar": ["n3_053"],
+      "relatedKanji": ["卒業", "住"],
+      "tags": ["시점", "계속", "이래"]
+    },
+    {
+      "id": "n3_053",
+      "pattern": "〜際(に)",
+      "patternReading": "〜さい(に)",
+      "meaning": "~할 때, ~에 즈음하여",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 53,
+      "explanation": {
+        "summary": "특별한 경우・기회. 격식적",
+        "detail": "동사 기본형/た형+際, 명사+の+際. とき보다 격식적",
+        "koreanComparison": "한국어 '~할 때', '~에 즈음하여'에 해당",
+        "commonMistakes": ["とき보다 격식적・문어적", "특별한 상황에 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+際(に)", "meaning": "お越しの際(오실 때)"},
+        "noun": {"form": "명사+の+際(に)", "meaning": "緊急の際(긴급 시)"}
+      },
+      "examples": [
+        {"ja": "お帰りの際は、お気をつけて。", "reading": "おかえりのさいは、おきをつけて。", "ko": "돌아가실 때 조심하세요.", "audio": null},
+        {"ja": "ご不明な点がある際は、お問い合わせください。", "reading": "ごふめいなてんがあるさいは、おといあわせください。", "ko": "불명확한 점이 있으실 때는 문의해 주세요.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "お越しの＿＿＿は、事前にご連絡ください。", "options": ["際", "とき", "場合", "ところ"], "answer": "際", "explanation": "격식적 표현이므로 際가 적절합니다."}],
+      "relatedGrammar": ["n3_054"],
+      "relatedKanji": ["帰", "緊急"],
+      "tags": ["시점", "격식", "기회"]
+    },
+    {
+      "id": "n3_054",
+      "pattern": "〜を通じて／を通して",
+      "patternReading": "〜をつうじて／をとおして",
+      "meaning": "~을 통해서",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 54,
+      "explanation": {
+        "summary": "수단・매개 또는 전 기간을 나타냄",
+        "detail": "명사+を通じて/を通して. 매개체 또는 기간 전체",
+        "koreanComparison": "한국어 '~을 통해서'에 해당",
+        "commonMistakes": ["を通じて는 매개, を通して는 기간에 더 자주 사용", "둘 다 거의 같은 의미로 사용 가능"]
+      },
+      "conjugation": {
+        "means": {"form": "명사+を通じて", "meaning": "インターネットを通じて(매개)"},
+        "period": {"form": "명사+を通して", "meaning": "一年を通して(기간)"}
+      },
+      "examples": [
+        {"ja": "インターネットを通じて、情報を集める。", "reading": "インターネットをつうじて、じょうほうをあつめる。", "ko": "인터넷을 통해 정보를 모은다.", "audio": null},
+        {"ja": "一年を通して、この地域は雨が多い。", "reading": "いちねんをとおして、このちいきはあめがおおい。", "ko": "일 년 내내 이 지역은 비가 많다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "友人を＿＿＿、彼女と知り合った。", "options": ["通じて", "通って", "渡って", "越えて"], "answer": "通じて", "explanation": "매개를 나타내므로 を通じて가 적절합니다."}],
+      "relatedGrammar": ["n3_055"],
+      "relatedKanji": ["通", "情報"],
+      "tags": ["매개", "기간", "수단"]
+    },
+    {
+      "id": "n3_055",
+      "pattern": "〜にかけて",
+      "patternReading": "〜にかけて",
+      "meaning": "~에 걸쳐서",
+      "jlpt": "N3",
+      "category": "시점/계기",
+      "order": 55,
+      "explanation": {
+        "summary": "시간・공간의 범위",
+        "detail": "명사+から+명사+にかけて. A부터 B까지의 범위",
+        "koreanComparison": "한국어 '~에 걸쳐서'에 해당",
+        "commonMistakes": ["から~にかけて 형태로 자주 사용", "시간・장소 모두 가능"]
+      },
+      "conjugation": {
+        "pattern": {"form": "A+から+B+にかけて", "meaning": "春から夏にかけて"}
+      },
+      "examples": [
+        {"ja": "春から夏にかけて、花が咲く。", "reading": "はるからなつにかけて、はながさく。", "ko": "봄부터 여름에 걸쳐 꽃이 핀다.", "audio": null},
+        {"ja": "東京から大阪にかけて、雨が降るでしょう。", "reading": "とうきょうからおおさかにかけて、あめがふるでしょう。", "ko": "도쿄부터 오사카에 걸쳐 비가 내리겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "今週末から来週＿＿＿＿、台風が来る予定だ。", "options": ["にかけて", "を通じて", "の際に", "のうちに"], "answer": "にかけて", "explanation": "기간의 범위를 나타내므로 にかけて가 적절합니다."}],
+      "relatedGrammar": ["n3_054"],
+      "relatedKanji": ["春", "夏"],
+      "tags": ["범위", "기간", "공간"]
+    },
+    {
+      "id": "n3_056",
+      "pattern": "〜ほど",
+      "patternReading": "〜ほど",
+      "meaning": "~할수록, ~만큼",
+      "jlpt": "N3",
+      "category": "정도/비교",
+      "order": 56,
+      "explanation": {
+        "summary": "정도・비례를 나타냄",
+        "detail": "동사 기본형+ほど, 명사+ほど. 정도나 비례 관계",
+        "koreanComparison": "한국어 '~할수록', '~만큼'에 해당",
+        "commonMistakes": ["~ば~ほど = ~하면 할수록", "부정에도 사용: ほど~ない"]
+      },
+      "conjugation": {
+        "degree": {"form": "동사 기본형+ほど", "meaning": "死ぬほど(죽을 만큼)"},
+        "proportion": {"form": "~ば~ほど", "meaning": "見れば見るほど(보면 볼수록)"},
+        "comparison": {"form": "명사+ほど~ない", "meaning": "彼ほど~ない(그만큼~없다)"}
+      },
+      "examples": [
+        {"ja": "この映画は見れば見るほど面白い。", "reading": "このえいがはみればみるほどおもしろい。", "ko": "이 영화는 보면 볼수록 재미있다.", "audio": null},
+        {"ja": "彼ほど頭がいい人はいない。", "reading": "かれほどあたまがいいひとはいない。", "ko": "그만큼 머리가 좋은 사람은 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "練習すれば練習する＿＿＿、上手になる。", "options": ["ほど", "くらい", "だけ", "ばかり"], "answer": "ほど", "explanation": "비례 관계이므로 ~ば~ほど가 적절합니다."}],
+      "relatedGrammar": ["n3_057"],
+      "relatedKanji": ["死", "頭"],
+      "tags": ["정도", "비례", "비교"]
+    },
+    {
+      "id": "n3_057",
+      "pattern": "〜くらい／ぐらい",
+      "patternReading": "〜くらい／ぐらい",
+      "meaning": "~정도, ~만큼",
+      "jlpt": "N3",
+      "category": "정도/비교",
+      "order": 57,
+      "explanation": {
+        "summary": "대략적인 정도・수량",
+        "detail": "명사/동사 기본형+くらい. 대략・최소한의 정도",
+        "koreanComparison": "한국어 '~정도', '~쯤'에 해당",
+        "commonMistakes": ["くらい와 ぐらい는 거의 같음", "최소한의 의미로도 사용"]
+      },
+      "conjugation": {
+        "approximate": {"form": "수량+くらい", "meaning": "30分くらい(30분 정도)"},
+        "degree": {"form": "동사 기본형+くらい", "meaning": "泣くくらい(울 정도로)"},
+        "minimum": {"form": "~くらい~", "meaning": "挨拶くらいはしろ(인사 정도는 해라)"}
+      },
+      "examples": [
+        {"ja": "駅まで歩いて10分くらいです。", "reading": "えきまであるいてじゅっぷんくらいです。", "ko": "역까지 걸어서 10분 정도입니다.", "audio": null},
+        {"ja": "挨拶くらいはできるでしょう。", "reading": "あいさつくらいはできるでしょう。", "ko": "인사 정도는 할 수 있겠지.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "涙が出る＿＿＿嬉しかった。", "options": ["くらい", "ほど", "だけ", "ばかり"], "answer": "くらい", "explanation": "정도를 나타내므로 くらい가 적절합니다."}],
+      "relatedGrammar": ["n3_056"],
+      "relatedKanji": ["歩", "挨拶"],
+      "tags": ["정도", "대략", "최소"]
+    },
+    {
+      "id": "n3_058",
+      "pattern": "〜だけ",
+      "patternReading": "〜だけ",
+      "meaning": "~만큼, ~하는 만큼",
+      "jlpt": "N3",
+      "category": "정도/비교",
+      "order": 58,
+      "explanation": {
+        "summary": "한정・최대한을 나타냄",
+        "detail": "동사 기본형/가능형+だけ. 가능한 한 최대로",
+        "koreanComparison": "한국어 '~만큼', '~하는 대로'에 해당",
+        "commonMistakes": ["だけ(한정)과 だけ(최대한) 구별", "できるだけ = 가능한 한"]
+      },
+      "conjugation": {
+        "limit": {"form": "명사+だけ", "meaning": "これだけ(이것만)"},
+        "maximum": {"form": "동사 가능형+だけ", "meaning": "食べられるだけ(먹을 수 있는 만큼)"},
+        "as_much": {"form": "동사 기본형+だけ", "meaning": "欲しいだけ(원하는 만큼)"}
+      },
+      "examples": [
+        {"ja": "食べたいだけ食べていいよ。", "reading": "たべたいだけたべていいよ。", "ko": "먹고 싶은 만큼 먹어도 돼.", "audio": null},
+        {"ja": "できるだけ早く来てください。", "reading": "できるだけはやくきてください。", "ko": "가능한 한 빨리 와 주세요.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "できる＿＿＿協力します。", "options": ["だけ", "ほど", "くらい", "ばかり"], "answer": "だけ", "explanation": "가능한 최대한의 의미이므로 だけ가 적절합니다."}],
+      "relatedGrammar": ["n3_059"],
+      "relatedKanji": ["食", "早"],
+      "tags": ["한정", "최대", "정도"]
+    },
+    {
+      "id": "n3_059",
+      "pattern": "〜ばかり",
+      "patternReading": "〜ばかり",
+      "meaning": "~만, ~뿐",
+      "jlpt": "N3",
+      "category": "정도/비교",
+      "order": 59,
+      "explanation": {
+        "summary": "한정・과도함을 나타냄",
+        "detail": "명사+ばかり, 동사 て형+ばかりいる. 그것만 반복",
+        "koreanComparison": "한국어 '~만', '~뿐'에 해당",
+        "commonMistakes": ["だけ보다 부정적 뉘앙스", "たばかり = 막 ~했다"]
+      },
+      "conjugation": {
+        "only": {"form": "명사+ばかり", "meaning": "肉ばかり(고기만)"},
+        "repetition": {"form": "て形+ばかりいる", "meaning": "遊んでばかりいる(놀기만 하다)"},
+        "just_did": {"form": "た形+ばかり", "meaning": "来たばかり(막 왔다)"}
+      },
+      "examples": [
+        {"ja": "彼は文句ばかり言っている。", "reading": "かれはもんくばかりいっている。", "ko": "그는 불평만 하고 있다.", "audio": null},
+        {"ja": "日本に来たばかりです。", "reading": "にほんにきたばかりです。", "ko": "일본에 막 왔습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "最近、忙しくて寝て＿＿＿いる。", "options": ["ばかり", "だけ", "しか", "のみ"], "answer": "ばかり", "explanation": "반복을 나타내므로 てばかりいる가 적절합니다."}],
+      "relatedGrammar": ["n3_058"],
+      "relatedKanji": ["文句", "忙"],
+      "tags": ["한정", "반복", "과도"]
+    },
+    {
+      "id": "n3_060",
+      "pattern": "〜ように",
+      "patternReading": "〜ように",
+      "meaning": "~하도록, ~처럼",
+      "jlpt": "N3",
+      "category": "정도/비교",
+      "order": 60,
+      "explanation": {
+        "summary": "목적・비유・요청을 나타냄",
+        "detail": "동사 기본형/ない형+ように. 목적, 비유, 간접 명령",
+        "koreanComparison": "한국어 '~하도록', '~처럼'에 해당",
+        "commonMistakes": ["ために(목적)와 구별: ように는 무의지 동사", "ように言う = ~하라고 말하다"]
+      },
+      "conjugation": {
+        "purpose": {"form": "기본형/ない形+ように", "meaning": "忘れないように(잊지 않도록)"},
+        "simile": {"form": "명사+の+ように", "meaning": "夢のように(꿈처럼)"},
+        "request": {"form": "ようにしてください", "meaning": "~하도록 해 주세요"}
+      },
+      "examples": [
+        {"ja": "遅刻しないように、早く起きた。", "reading": "ちこくしないように、はやくおきた。", "ko": "지각하지 않도록 일찍 일어났다.", "audio": null},
+        {"ja": "鳥のように空を飛びたい。", "reading": "とりのようにそらをとびたい。", "ko": "새처럼 하늘을 날고 싶다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "風邪をひかない＿＿＿、気をつけてください。", "options": ["ように", "ために", "のに", "から"], "answer": "ように", "explanation": "무의지 동사의 목적이므로 ように가 적절합니다."}],
+      "relatedGrammar": ["n3_021"],
+      "relatedKanji": ["遅刻", "鳥"],
+      "tags": ["목적", "비유", "요청"]
+    },
+    {
+      "id": "n3_061",
+      "pattern": "〜(ら)れる（受身）",
+      "patternReading": "〜(ら)れる（うけみ）",
+      "meaning": "~되다, ~당하다 (수동)",
+      "jlpt": "N3",
+      "category": "수동/사역",
+      "order": 61,
+      "explanation": {
+        "summary": "수동태. 동작을 받는 쪽이 주어",
+        "detail": "1그룹: う→あれる, 2그룹: る→られる, 3그룹: する→される",
+        "koreanComparison": "한국어 '~되다', '~당하다'에 해당",
+        "commonMistakes": ["직접 수동과 간접 수동(피해) 구별", "가능형과 형태 동일 (2그룹)"]
+      },
+      "conjugation": {
+        "group1": {"form": "う段→あ段+れる", "meaning": "書く→書かれる"},
+        "group2": {"form": "る→られる", "meaning": "食べる→食べられる"},
+        "group3": {"form": "する→される, くる→こられる", "meaning": "招待する→招待される"}
+      },
+      "examples": [
+        {"ja": "先生に褒められた。", "reading": "せんせいにほめられた。", "ko": "선생님께 칭찬받았다.", "audio": null},
+        {"ja": "電車で足を踏まれた。", "reading": "でんしゃであしをふまれた。", "ko": "전철에서 발을 밟혔다.", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "母が私を起こす → 수동태로", "answer": "私は母に起こされる", "explanation": "능동문의 목적어가 수동문의 주어가 됩니다."}],
+      "relatedGrammar": ["n3_062"],
+      "relatedKanji": ["褒", "踏"],
+      "tags": ["수동", "문법", "변환"]
+    },
+    {
+      "id": "n3_062",
+      "pattern": "〜(さ)せる（使役）",
+      "patternReading": "〜(さ)せる（しえき）",
+      "meaning": "~시키다 (사역)",
+      "jlpt": "N3",
+      "category": "수동/사역",
+      "order": 62,
+      "explanation": {
+        "summary": "사역태. 누군가에게 동작을 시킴",
+        "detail": "1그룹: う→あせる, 2그룹: る→させる, 3그룹: する→させる",
+        "koreanComparison": "한국어 '~시키다', '~하게 하다'에 해당",
+        "commonMistakes": ["강제와 허용 두 가지 의미", "を/に 조사 사용 구별"]
+      },
+      "conjugation": {
+        "group1": {"form": "う段→あ段+せる", "meaning": "書く→書かせる"},
+        "group2": {"form": "る→させる", "meaning": "食べる→食べさせる"},
+        "group3": {"form": "する→させる, くる→こさせる", "meaning": "勉強する→勉強させる"}
+      },
+      "examples": [
+        {"ja": "子供に野菜を食べさせる。", "reading": "こどもにやさいをたべさせる。", "ko": "아이에게 야채를 먹게 한다.", "audio": null},
+        {"ja": "部長は部下を残業させた。", "reading": "ぶちょうはぶかをざんぎょうさせた。", "ko": "부장은 부하를 야근시켰다.", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "弟が掃除する → 사역형으로", "answer": "弟に掃除させる", "explanation": "자동사는 に, 타동사는 を로 대상 표시."}],
+      "relatedGrammar": ["n3_061", "n3_063"],
+      "relatedKanji": ["食", "残業"],
+      "tags": ["사역", "문법", "변환"]
+    },
+    {
+      "id": "n3_063",
+      "pattern": "〜(さ)せられる",
+      "patternReading": "〜(さ)せられる",
+      "meaning": "~당하다 (사역수동)",
+      "jlpt": "N3",
+      "category": "수동/사역",
+      "order": 63,
+      "explanation": {
+        "summary": "사역수동. 억지로 시킴을 당함",
+        "detail": "사역형+られる. 본의 아니게 ~하게 됨",
+        "koreanComparison": "한국어 '~하게 되다(강제)', '억지로 ~당하다'에 해당",
+        "commonMistakes": ["1그룹 축약형: させられる→される 가능", "피해・불만의 뉘앙스"]
+      },
+      "conjugation": {
+        "group1": {"form": "書く→書かせられる/書かされる", "meaning": "쓰게 시킴을 당하다"},
+        "group2": {"form": "食べる→食べさせられる", "meaning": "먹게 시킴을 당하다"},
+        "group3": {"form": "する→させられる", "meaning": "하게 시킴을 당하다"}
+      },
+      "examples": [
+        {"ja": "毎日残業させられている。", "reading": "まいにちざんぎょうさせられている。", "ko": "매일 야근을 당하고 있다.", "audio": null},
+        {"ja": "子供の頃、ピアノを習わされた。", "reading": "こどものころ、ピアノをならわされた。", "ko": "어렸을 때 피아노를 억지로 배웠다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "嫌いな野菜を食べ＿＿＿＿＿。", "options": ["させられた", "させた", "された", "られた"], "answer": "させられた", "explanation": "강제로 먹게 됨이므로 사역수동입니다."}],
+      "relatedGrammar": ["n3_061", "n3_062"],
+      "relatedKanji": ["残業", "習"],
+      "tags": ["사역수동", "피해", "강제"]
+    },
+    {
+      "id": "n3_064",
+      "pattern": "〜てもらう／ていただく",
+      "patternReading": "〜てもらう／ていただく",
+      "meaning": "~해 받다",
+      "jlpt": "N3",
+      "category": "수동/사역",
+      "order": 64,
+      "explanation": {
+        "summary": "누군가의 행위를 받음. 감사의 뉘앙스",
+        "detail": "동사 て형+もらう/いただく. いただく는 겸양",
+        "koreanComparison": "한국어 '~해 받다', '~해 주시다'에 해당",
+        "commonMistakes": ["てくれる와 시점 차이", "もらう는 받는 사람 중심"]
+      },
+      "conjugation": {
+        "plain": {"form": "て形+もらう", "meaning": "教えてもらう"},
+        "polite": {"form": "て形+いただく", "meaning": "教えていただく (겸양)"}
+      },
+      "examples": [
+        {"ja": "友達に引っ越しを手伝ってもらった。", "reading": "ともだちにひっこしをてつだってもらった。", "ko": "친구에게 이사를 도와 받았다.", "audio": null},
+        {"ja": "先生に推薦状を書いていただきました。", "reading": "せんせいにすいせんじょうをかいていただきました。", "ko": "선생님께 추천서를 써 주셨습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "医者＿＿診てもらった。", "options": ["に", "が", "を", "で"], "answer": "に", "explanation": "행위자는 に로 표시합니다."}],
+      "relatedGrammar": ["n3_065"],
+      "relatedKanji": ["手伝", "推薦"],
+      "tags": ["수수표현", "감사", "겸양"]
+    },
+    {
+      "id": "n3_065",
+      "pattern": "〜させてもらう／いただく",
+      "patternReading": "〜させてもらう／いただく",
+      "meaning": "~하게 해 주시다",
+      "jlpt": "N3",
+      "category": "수동/사역",
+      "order": 65,
+      "explanation": {
+        "summary": "허락을 받아 ~함. 겸손한 표현",
+        "detail": "동사 사역형+てもらう/いただく. 상대 허락 강조",
+        "koreanComparison": "한국어 '~하게 해 주시다'에 해당",
+        "commonMistakes": ["비즈니스에서 자주 사용", "させていただきます는 정중"]
+      },
+      "conjugation": {
+        "plain": {"form": "させてもらう", "meaning": "休ませてもらう"},
+        "polite": {"form": "させていただく", "meaning": "休ませていただく"},
+        "fixed": {"form": "させていただきます", "meaning": "~하겠습니다 (정중)"}
+      },
+      "examples": [
+        {"ja": "今日は早退させてもらいます。", "reading": "きょうはそうたいさせてもらいます。", "ko": "오늘은 조퇴하겠습니다.", "audio": null},
+        {"ja": "ご説明させていただきます。", "reading": "ごせつめいさせていただきます。", "ko": "설명드리겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "それでは、始め＿＿＿＿＿＿＿＿。", "options": ["させていただきます", "てもらいます", "ていただきます", "させてください"], "answer": "させていただきます", "explanation": "정중한 시작 표현입니다."}],
+      "relatedGrammar": ["n3_064"],
+      "relatedKanji": ["早退", "説明"],
+      "tags": ["사역", "겸양", "비즈니스"]
+    },
+    {
+      "id": "n3_066",
+      "pattern": "お／ご〜になる",
+      "patternReading": "お／ご〜になる",
+      "meaning": "~하시다 (존경)",
+      "jlpt": "N3",
+      "category": "경어",
+      "order": 66,
+      "explanation": {
+        "summary": "존경어 패턴. 상대방 동작을 높임",
+        "detail": "お+ます形+になる (和語), ご+한자어+になる",
+        "koreanComparison": "한국어 '~하시다'에 해당",
+        "commonMistakes": ["和語는 お, 漢語는 ご 사용", "이미 존경어인 단어에는 불가"]
+      },
+      "conjugation": {
+        "wago": {"form": "お+ます形+になる", "meaning": "お読みになる"},
+        "kango": {"form": "ご+한자어+になる", "meaning": "ご出席になる"}
+      },
+      "examples": [
+        {"ja": "社長はもうお帰りになりました。", "reading": "しゃちょうはもうおかえりになりました。", "ko": "사장님은 이미 퇴근하셨습니다.", "audio": null},
+        {"ja": "先生はこの本をお読みになりましたか。", "reading": "せんせいはこのほんをおよみになりましたか。", "ko": "선생님은 이 책을 읽으셨습니까?", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "部長が出発する → 존경어로", "answer": "部長がご出発になる", "explanation": "한자어이므로 ご~になる 형태입니다."}],
+      "relatedGrammar": ["n3_067"],
+      "relatedKanji": ["帰", "読"],
+      "tags": ["존경", "경어", "높임"]
+    },
+    {
+      "id": "n3_067",
+      "pattern": "お／ご〜する／いたす",
+      "patternReading": "お／ご〜する／いたす",
+      "meaning": "~해 드리다 (겸양)",
+      "jlpt": "N3",
+      "category": "경어",
+      "order": 67,
+      "explanation": {
+        "summary": "겸양어 패턴. 자신의 동작을 낮춤",
+        "detail": "お+ます形+する/いたす. いたす가 더 정중",
+        "koreanComparison": "한국어 '~해 드리다'에 해당",
+        "commonMistakes": ["상대를 위한 동작에만 사용", "자기 자신만의 동작에는 불가"]
+      },
+      "conjugation": {
+        "humble1": {"form": "お+ます形+する", "meaning": "お持ちする"},
+        "humble2": {"form": "お+ます形+いたす", "meaning": "お持ちいたす (더 정중)"},
+        "kango": {"form": "ご+한자어+する/いたす", "meaning": "ご案内する"}
+      },
+      "examples": [
+        {"ja": "お荷物をお持ちします。", "reading": "おにもつをおもちします。", "ko": "짐을 들어 드리겠습니다.", "audio": null},
+        {"ja": "後ほどご連絡いたします。", "reading": "のちほどごれんらくいたします。", "ko": "나중에 연락드리겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "説明する → 겸양어로", "answer": "ご説明する/ご説明いたす", "explanation": "한자어이므로 ご~する 형태입니다."}],
+      "relatedGrammar": ["n3_066"],
+      "relatedKanji": ["持", "連絡"],
+      "tags": ["겸양", "경어", "낮춤"]
+    },
+    {
+      "id": "n3_068",
+      "pattern": "〜ていらっしゃる",
+      "patternReading": "〜ていらっしゃる",
+      "meaning": "~하고 계시다 (존경)",
+      "jlpt": "N3",
+      "category": "경어",
+      "order": 68,
+      "explanation": {
+        "summary": "ている의 존경어. 상태/진행의 높임",
+        "detail": "동사 て형+いらっしゃる. いる의 존경어",
+        "koreanComparison": "한국어 '~하고 계시다'에 해당",
+        "commonMistakes": ["いらっしゃる = いる/行く/来る의 존경어", "ています→ていらっしゃいます"]
+      },
+      "conjugation": {
+        "state": {"form": "て形+いらっしゃる", "meaning": "知っていらっしゃる"},
+        "polite": {"form": "て形+いらっしゃいます", "meaning": "住んでいらっしゃいます"}
+      },
+      "examples": [
+        {"ja": "先生は今、電話していらっしゃいます。", "reading": "せんせいはいま、でんわしていらっしゃいます。", "ko": "선생님은 지금 전화하고 계십니다.", "audio": null},
+        {"ja": "お父様はお元気でいらっしゃいますか。", "reading": "おとうさまはおげんきでいらっしゃいますか。", "ko": "아버님은 건강하십니까?", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "社長は会議室にいます → 존경어로", "answer": "社長は会議室にいらっしゃいます", "explanation": "いる를 いらっしゃる로 바꿉니다."}],
+      "relatedGrammar": ["n3_066"],
+      "relatedKanji": ["電話", "元気"],
+      "tags": ["존경", "상태", "진행"]
+    },
+    {
+      "id": "n3_069",
+      "pattern": "〜ておる／おります",
+      "patternReading": "〜ておる／おります",
+      "meaning": "~하고 있습니다 (겸양)",
+      "jlpt": "N3",
+      "category": "경어",
+      "order": 69,
+      "explanation": {
+        "summary": "ている의 겸양어. 자신의 상태/진행을 낮춤",
+        "detail": "동사 て형+おる/おります. いる의 겸양어",
+        "koreanComparison": "한국어 '~하고 있습니다(겸양)'에 해당",
+        "commonMistakes": ["ております는 비즈니스 표현", "おる는 고어적 느낌도 있음"]
+      },
+      "conjugation": {
+        "plain": {"form": "て形+おる", "meaning": "知っておる"},
+        "polite": {"form": "て形+おります", "meaning": "存じております"}
+      },
+      "examples": [
+        {"ja": "ただいま担当者が席を外しております。", "reading": "ただいまたんとうしゃがせきをはずしております。", "ko": "지금 담당자가 자리를 비우고 있습니다.", "audio": null},
+        {"ja": "その件については存じております。", "reading": "そのけんについてはぞんじております。", "ko": "그 건에 대해서는 알고 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "convert", "question": "待っています → 겸양어로", "answer": "お待ちしております", "explanation": "비즈니스에서 자주 쓰는 겸양 표현입니다."}],
+      "relatedGrammar": ["n3_067"],
+      "relatedKanji": ["担当", "存"],
+      "tags": ["겸양", "비즈니스", "상태"]
+    },
+    {
+      "id": "n3_070",
+      "pattern": "特別尊敬語・謙譲語",
+      "patternReading": "とくべつそんけいご・けんじょうご",
+      "meaning": "특별 존경어・겸양어",
+      "jlpt": "N3",
+      "category": "경어",
+      "order": 70,
+      "explanation": {
+        "summary": "기본 동사의 특별 경어 형태",
+        "detail": "いる→いらっしゃる/おる, 行く→いらっしゃる/参る, 食べる→召し上がる/いただく 등",
+        "koreanComparison": "한국어 '계시다/있다', '드시다/먹다' 등에 해당",
+        "commonMistakes": ["일반 패턴이 아닌 암기 필요", "존경・겸양 쌍으로 기억"]
+      },
+      "conjugation": {
+        "iru": {"form": "いらっしゃる(존)/おる(겸)", "meaning": "있다"},
+        "iku": {"form": "いらっしゃる(존)/参る(겸)", "meaning": "가다"},
+        "taberu": {"form": "召し上がる(존)/いただく(겸)", "meaning": "먹다"},
+        "iu": {"form": "おっしゃる(존)/申す(겸)", "meaning": "말하다"},
+        "miru": {"form": "ご覧になる(존)/拝見する(겸)", "meaning": "보다"},
+        "shiru": {"form": "ご存じ(존)/存じる(겸)", "meaning": "알다"}
+      },
+      "examples": [
+        {"ja": "何を召し上がりますか。", "reading": "なにをめしあがりますか。", "ko": "무엇을 드시겠습니까?", "audio": null},
+        {"ja": "田中と申します。", "reading": "たなかともうします。", "ko": "다나카라고 합니다.", "audio": null}
+      ],
+      "practice": [{"type": "choice", "question": "社長が＿＿＿ました。(말씀하셨다)", "options": ["おっしゃい", "申し", "言い", "話し"], "answer": "おっしゃい", "explanation": "言う의 존경어는 おっしゃる입니다."}],
+      "relatedGrammar": ["n3_066", "n3_067"],
+      "relatedKanji": ["召", "申"],
+      "tags": ["존경", "겸양", "특별"]
+    },
+    {
+      "id": "n3_071",
+      "pattern": "〜そうだ（伝聞）",
+      "patternReading": "〜そうだ（でんぶん）",
+      "meaning": "~라고 한다 (전문)",
+      "jlpt": "N3",
+      "category": "전문/인용",
+      "order": 71,
+      "explanation": {
+        "summary": "전해 들은 정보. 간접 인용",
+        "detail": "동사・형용사 기본형+そうだ. 양태의 そうだ와 접속 다름",
+        "koreanComparison": "한국어 '~라고 한다', '~라더라'에 해당",
+        "commonMistakes": ["양태(ます形+そうだ)와 구별", "기본형 그대로 접속"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형+そうだ", "meaning": "来るそうだ"},
+        "i_adj": {"form": "い+そうだ", "meaning": "高いそうだ"},
+        "na_adj": {"form": "だ+そうだ", "meaning": "静かだそうだ"},
+        "noun": {"form": "だ+そうだ", "meaning": "学生だそうだ"}
+      },
+      "examples": [
+        {"ja": "天気予報によると、明日は雨だそうだ。", "reading": "てんきよほうによると、あしたはあめだそうだ。", "ko": "일기예보에 따르면 내일은 비라고 한다.", "audio": null},
+        {"ja": "彼は来月結婚するそうです。", "reading": "かれはらいげつけっこんするそうです。", "ko": "그는 다음 달 결혼한다고 합니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "ニュースによると、地震があった＿＿＿。", "options": ["そうだ", "らしい", "ようだ", "みたいだ"], "answer": "そうだ", "explanation": "뉴스 전문이므로 伝聞の そうだ가 적절합니다."}],
+      "relatedGrammar": ["n3_015", "n3_072"],
+      "relatedKanji": ["天気", "結婚"],
+      "tags": ["전문", "인용", "간접"]
+    },
+    {
+      "id": "n3_072",
+      "pattern": "〜ということだ",
+      "patternReading": "〜ということだ",
+      "meaning": "~라는 것이다, ~라고 한다",
+      "jlpt": "N3",
+      "category": "전문/인용",
+      "order": 72,
+      "explanation": {
+        "summary": "전문 또는 결론을 나타냄",
+        "detail": "문장+ということだ. 전해 들은 정보 또는 '즉 ~라는 것'",
+        "koreanComparison": "한국어 '~라는 것이다', '~라고 한다'에 해당",
+        "commonMistakes": ["전문과 결론 두 가지 용법", "つまり~ということだ = 결론"]
+      },
+      "conjugation": {
+        "hearsay": {"form": "문장+ということだ", "meaning": "来るということだ(전문)"},
+        "conclusion": {"form": "つまり~ということだ", "meaning": "즉 ~라는 것이다(결론)"}
+      },
+      "examples": [
+        {"ja": "彼は明日来ないということです。", "reading": "かれはあしたこないということです。", "ko": "그는 내일 오지 않는다고 합니다.", "audio": null},
+        {"ja": "つまり、君は反対だということだね。", "reading": "つまり、きみははんたいだということだね。", "ko": "즉, 너는 반대라는 거지.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "会議は中止になった＿＿＿＿＿です。", "options": ["ということ", "そう", "らしい", "よう"], "answer": "ということ", "explanation": "전문을 명확히 하는 ということだ가 적절합니다."}],
+      "relatedGrammar": ["n3_071"],
+      "relatedKanji": ["中止", "反対"],
+      "tags": ["전문", "결론", "인용"]
+    },
+    {
+      "id": "n3_073",
+      "pattern": "〜によると／によれば",
+      "patternReading": "〜によると／によれば",
+      "meaning": "~에 따르면",
+      "jlpt": "N3",
+      "category": "전문/인용",
+      "order": 73,
+      "explanation": {
+        "summary": "정보의 출처를 나타냄",
+        "detail": "명사+によると/によれば. 후문에 전문 표현과 함께 사용",
+        "koreanComparison": "한국어 '~에 따르면', '~에 의하면'에 해당",
+        "commonMistakes": ["후문에 そうだ/ということだ/らしい 등 동반", "출처를 명시할 때 사용"]
+      },
+      "conjugation": {
+        "formal": {"form": "명사+によると", "meaning": "ニュースによると"},
+        "more_formal": {"form": "명사+によれば", "meaning": "報告によれば"}
+      },
+      "examples": [
+        {"ja": "天気予報によると、台風が近づいているそうだ。", "reading": "てんきよほうによると、たいふうがちかづいているそうだ。", "ko": "일기예보에 따르면 태풍이 다가오고 있다고 한다.", "audio": null},
+        {"ja": "彼の話によれば、会社を辞めるらしい。", "reading": "かれのはなしによれば、かいしゃをやめるらしい。", "ko": "그의 말에 따르면 회사를 그만둔다고 한다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "新聞＿＿＿、事故があったそうだ。", "options": ["によると", "について", "にとって", "に関して"], "answer": "によると", "explanation": "정보 출처이므로 によると가 적절합니다."}],
+      "relatedGrammar": ["n3_071", "n3_072"],
+      "relatedKanji": ["天気", "報告"],
+      "tags": ["출처", "전문", "인용"]
+    },
+    {
+      "id": "n3_074",
+      "pattern": "〜といわれている",
+      "patternReading": "〜といわれている",
+      "meaning": "~라고 알려져 있다",
+      "jlpt": "N3",
+      "category": "전문/인용",
+      "order": 74,
+      "explanation": {
+        "summary": "일반적으로 알려진 사실",
+        "detail": "문장+と言われている. 세간에 알려진 정보",
+        "koreanComparison": "한국어 '~라고 알려져 있다', '~라고 한다'에 해당",
+        "commonMistakes": ["일반적 사실・통설에 사용", "과학적 사실이나 속설 등"]
+      },
+      "conjugation": {
+        "present": {"form": "と言われている", "meaning": "~라고 알려져 있다"},
+        "past": {"form": "と言われていた", "meaning": "~라고 알려져 있었다"}
+      },
+      "examples": [
+        {"ja": "日本人は勤勉だと言われている。", "reading": "にほんじんはきんべんだといわれている。", "ko": "일본인은 근면하다고 알려져 있다.", "audio": null},
+        {"ja": "この薬は効果があると言われています。", "reading": "このくすりはこうかがあるといわれています。", "ko": "이 약은 효과가 있다고 알려져 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "朝食を食べることは健康にいい＿＿＿＿＿いる。", "options": ["と言われて", "そうだと", "らしいと", "ようだと"], "answer": "と言われて", "explanation": "일반적으로 알려진 사실이므로 と言われている가 적절합니다."}],
+      "relatedGrammar": ["n3_072"],
+      "relatedKanji": ["勤勉", "効果"],
+      "tags": ["통설", "전문", "일반"]
+    },
+    {
+      "id": "n3_075",
+      "pattern": "〜べきだ",
+      "patternReading": "〜べきだ",
+      "meaning": "~해야 한다",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 75,
+      "explanation": {
+        "summary": "의무・당위를 나타냄",
+        "detail": "동사 기본형+べきだ. する→すべきだ/するべきだ",
+        "koreanComparison": "한국어 '~해야 한다', '~하는 것이 당연하다'에 해당",
+        "commonMistakes": ["なければならない보다 주관적 판단", "부정은 べきではない"]
+      },
+      "conjugation": {
+        "positive": {"form": "기본형+べきだ", "meaning": "行くべきだ"},
+        "negative": {"form": "기본형+べきではない", "meaning": "行くべきではない"},
+        "suru": {"form": "すべきだ/するべきだ", "meaning": "둘 다 가능"}
+      },
+      "examples": [
+        {"ja": "約束は守るべきだ。", "reading": "やくそくはまもるべきだ。", "ko": "약속은 지켜야 한다.", "audio": null},
+        {"ja": "そんなことは言うべきではない。", "reading": "そんなことはいうべきではない。", "ko": "그런 말은 하면 안 된다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "学生は勉強する＿＿＿。", "options": ["べきだ", "はずだ", "ものだ", "ことだ"], "answer": "べきだ", "explanation": "의무를 나타내므로 べきだ가 적절합니다."}],
+      "relatedGrammar": ["n3_076"],
+      "relatedKanji": ["約束", "守"],
+      "tags": ["의무", "당위", "조언"]
+    },
+    {
+      "id": "n3_076",
+      "pattern": "〜ものだ",
+      "patternReading": "〜ものだ",
+      "meaning": "~하는 법이다, ~했었다",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 76,
+      "explanation": {
+        "summary": "일반적 진리・상식 또는 회상",
+        "detail": "동사 기본형+ものだ (당연), た형+ものだ (회상)",
+        "koreanComparison": "한국어 '~하는 법이다', '~했었다'에 해당",
+        "commonMistakes": ["당연과 회상 두 가지 용법", "감탄에도 사용: なんて~ものだ"]
+      },
+      "conjugation": {
+        "general": {"form": "기본형+ものだ", "meaning": "子供は遊ぶものだ(당연)"},
+        "recall": {"form": "た形+ものだ", "meaning": "よく遊んだものだ(회상)"},
+        "exclamation": {"form": "なんて~ものだ", "meaning": "なんて美しいものだ(감탄)"}
+      },
+      "examples": [
+        {"ja": "人間は誰でも間違えるものだ。", "reading": "にんげんはだれでもまちがえるものだ。", "ko": "인간은 누구나 실수하는 법이다.", "audio": null},
+        {"ja": "子供の頃、この川でよく泳いだものだ。", "reading": "こどものころ、このかわでよくおよいだものだ。", "ko": "어릴 때 이 강에서 자주 수영했었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "昔はよくここで遊んだ＿＿＿＿。", "options": ["ものだ", "ことだ", "はずだ", "べきだ"], "answer": "ものだ", "explanation": "과거 회상이므로 たものだ가 적절합니다."}],
+      "relatedGrammar": ["n3_075", "n3_077"],
+      "relatedKanji": ["人間", "間違"],
+      "tags": ["당연", "회상", "일반"]
+    },
+    {
+      "id": "n3_077",
+      "pattern": "〜ことだ",
+      "patternReading": "〜ことだ",
+      "meaning": "~하는 것이 좋다 (충고)",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 77,
+      "explanation": {
+        "summary": "충고・조언을 나타냄",
+        "detail": "동사 기본형/ない형+ことだ. べきだ보다 부드러운 충고",
+        "koreanComparison": "한국어 '~하는 것이 좋다'에 해당",
+        "commonMistakes": ["충고・조언에 사용", "べきだ보다 약한 의무감"]
+      },
+      "conjugation": {
+        "positive": {"form": "기본형+ことだ", "meaning": "早く寝ることだ"},
+        "negative": {"form": "ない形+ことだ", "meaning": "無理しないことだ"}
+      },
+      "examples": [
+        {"ja": "健康のためには、よく寝ることだ。", "reading": "けんこうのためには、よくねることだ。", "ko": "건강을 위해서는 잘 자는 것이 좋다.", "audio": null},
+        {"ja": "成功したければ、あきらめないことだ。", "reading": "せいこうしたければ、あきらめないことだ。", "ko": "성공하고 싶으면 포기하지 않는 것이 좋다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "風邪を引いたら、無理しない＿＿＿＿。", "options": ["ことだ", "ものだ", "はずだ", "べきだ"], "answer": "ことだ", "explanation": "부드러운 충고이므로 ことだ가 적절합니다."}],
+      "relatedGrammar": ["n3_075", "n3_078"],
+      "relatedKanji": ["健康", "成功"],
+      "tags": ["충고", "조언", "권유"]
+    },
+    {
+      "id": "n3_078",
+      "pattern": "〜ことはない",
+      "patternReading": "〜ことはない",
+      "meaning": "~할 필요는 없다",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 78,
+      "explanation": {
+        "summary": "불필요함을 나타냄",
+        "detail": "동사 기본형+ことはない. ~할 필요 없다, 걱정 불필요",
+        "koreanComparison": "한국어 '~할 필요는 없다'에 해당",
+        "commonMistakes": ["なくてもいい보다 강조", "위로・안심시킬 때 자주 사용"]
+      },
+      "conjugation": {
+        "pattern": {"form": "기본형+ことはない", "meaning": "心配することはない"}
+      },
+      "examples": [
+        {"ja": "そんなに心配することはないよ。", "reading": "そんなにしんぱいすることはないよ。", "ko": "그렇게 걱정할 필요 없어.", "audio": null},
+        {"ja": "急ぐことはない。ゆっくり来てください。", "reading": "いそぐことはない。ゆっくりきてください。", "ko": "서두를 필요 없어요. 천천히 오세요.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "謝る＿＿＿＿＿。君は悪くない。", "options": ["ことはない", "ものだ", "べきだ", "はずだ"], "answer": "ことはない", "explanation": "불필요함이므로 ことはない가 적절합니다."}],
+      "relatedGrammar": ["n3_079"],
+      "relatedKanji": ["心配", "急"],
+      "tags": ["불필요", "위로", "안심"]
+    },
+    {
+      "id": "n3_079",
+      "pattern": "〜ざるを得ない",
+      "patternReading": "〜ざるをえない",
+      "meaning": "~하지 않을 수 없다",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 79,
+      "explanation": {
+        "summary": "어쩔 수 없이 ~해야 함",
+        "detail": "동사 ない형(ない→ざる)+を得ない. する→せざるを得ない",
+        "koreanComparison": "한국어 '~하지 않을 수 없다'에 해당",
+        "commonMistakes": ["문어적・격식적 표현", "불가피함 강조"]
+      },
+      "conjugation": {
+        "pattern": {"form": "ない形(ない→ざる)+を得ない", "meaning": "行かざるを得ない"},
+        "suru": {"form": "する→せざるを得ない", "meaning": "대응하지 않을 수 없다"}
+      },
+      "examples": [
+        {"ja": "上司の命令なので、従わざるを得ない。", "reading": "じょうしのめいれいなので、したがわざるをえない。", "ko": "상사 명령이라 따르지 않을 수 없다.", "audio": null},
+        {"ja": "この状況では、そう判断せざるを得なかった。", "reading": "このじょうきょうでは、そうはんだんせざるをえなかった。", "ko": "이 상황에서는 그렇게 판단하지 않을 수 없었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "予算がないので、計画を変更＿＿＿＿＿＿。", "options": ["せざるを得ない", "しないことはない", "するべきだ", "しないものだ"], "answer": "せざるを得ない", "explanation": "불가피함이므로 ざるを得ない가 적절합니다."}],
+      "relatedGrammar": ["n3_080"],
+      "relatedKanji": ["命令", "判断"],
+      "tags": ["불가피", "문어", "의무"]
+    },
+    {
+      "id": "n3_080",
+      "pattern": "〜しかない",
+      "patternReading": "〜しかない",
+      "meaning": "~할 수밖에 없다",
+      "jlpt": "N3",
+      "category": "의무/당연",
+      "order": 80,
+      "explanation": {
+        "summary": "유일한 선택지. ~밖에 없다",
+        "detail": "동사 기본형+しかない. 다른 방법이 없음",
+        "koreanComparison": "한국어 '~할 수밖에 없다'에 해당",
+        "commonMistakes": ["ざるを得ない보다 구어적", "체념・결의의 뉘앙스"]
+      },
+      "conjugation": {
+        "pattern": {"form": "기본형+しかない", "meaning": "やるしかない"}
+      },
+      "examples": [
+        {"ja": "もう時間がない。走るしかない。", "reading": "もうじかんがない。はしるしかない。", "ko": "이제 시간이 없다. 뛸 수밖에 없다.", "audio": null},
+        {"ja": "自分でやるしかないね。", "reading": "じぶんでやるしかないね。", "ko": "스스로 할 수밖에 없네.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "誰も助けてくれないなら、自分で解決する＿＿＿＿。", "options": ["しかない", "べきだ", "ものだ", "ことだ"], "answer": "しかない", "explanation": "유일한 선택지이므로 しかない가 적절합니다."}],
+      "relatedGrammar": ["n3_079"],
+      "relatedKanji": ["走", "解決"],
+      "tags": ["체념", "결의", "유일"]
+    },
+    {
+      "id": "n3_081",
+      "pattern": "〜しか〜ない",
+      "patternReading": "〜しか〜ない",
+      "meaning": "~밖에 없다",
+      "jlpt": "N3",
+      "category": "한정/제한",
+      "order": 81,
+      "explanation": {
+        "summary": "한정. 그것만 있고 다른 것은 없음",
+        "detail": "명사+しか+부정. だけ보다 부족함 강조",
+        "koreanComparison": "한국어 '~밖에 없다'에 해당",
+        "commonMistakes": ["반드시 부정과 함께 사용", "だけ는 긍정도 가능"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+しか+ない", "meaning": "100円しかない"},
+        "verb": {"form": "동사 기본형+しか+ない", "meaning": "待つしかない"}
+      },
+      "examples": [
+        {"ja": "財布に1000円しかない。", "reading": "さいふにせんえんしかない。", "ko": "지갑에 1000엔밖에 없다.", "audio": null},
+        {"ja": "彼女にしかわからない。", "reading": "かのじょにしかわからない。", "ko": "그녀밖에 모른다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "あと5分＿＿＿ない。急ごう。", "options": ["しか", "だけ", "ばかり", "ほど"], "answer": "しか", "explanation": "부족함을 강조하므로 しか~ない가 적절합니다."}],
+      "relatedGrammar": ["n3_082"],
+      "relatedKanji": ["財布", "急"],
+      "tags": ["한정", "부족", "부정"]
+    },
+    {
+      "id": "n3_082",
+      "pattern": "〜だけでなく〜も",
+      "patternReading": "〜だけでなく〜も",
+      "meaning": "~뿐만 아니라 ~도",
+      "jlpt": "N3",
+      "category": "한정/제한",
+      "order": 82,
+      "explanation": {
+        "summary": "범위의 확대. A뿐 아니라 B도",
+        "detail": "명사+だけでなく+명사+も. ばかりでなく도 같은 의미",
+        "koreanComparison": "한국어 '~뿐만 아니라 ~도'에 해당",
+        "commonMistakes": ["も를 빼먹지 않도록", "のみならず는 문어적"]
+      },
+      "conjugation": {
+        "pattern": {"form": "A+だけでなく+B+も", "meaning": "日本だけでなく韓国も"}
+      },
+      "examples": [
+        {"ja": "彼は英語だけでなく、中国語も話せる。", "reading": "かれはえいごだけでなく、ちゅうごくごもはなせる。", "ko": "그는 영어뿐만 아니라 중국어도 할 수 있다.", "audio": null},
+        {"ja": "大人だけでなく、子供も楽しめる映画だ。", "reading": "おとなだけでなく、こどももたのしめるえいがだ。", "ko": "어른뿐만 아니라 아이도 즐길 수 있는 영화다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼は頭がいい＿＿＿＿＿、性格もいい。", "options": ["だけでなく", "ばかり", "しか", "だけ"], "answer": "だけでなく", "explanation": "범위 확대이므로 だけでなく~も가 적절합니다."}],
+      "relatedGrammar": ["n3_083"],
+      "relatedKanji": ["英語", "楽"],
+      "tags": ["확대", "추가", "연결"]
+    },
+    {
+      "id": "n3_083",
+      "pattern": "〜にすぎない",
+      "patternReading": "〜にすぎない",
+      "meaning": "~에 불과하다, 단지 ~일 뿐이다",
+      "jlpt": "N3",
+      "category": "한정/제한",
+      "order": 83,
+      "explanation": {
+        "summary": "겸손・과소평가. 그 정도밖에 안 됨",
+        "detail": "명사+にすぎない, 동사 기본형+にすぎない",
+        "koreanComparison": "한국어 '~에 불과하다', '단지 ~일 뿐이다'에 해당",
+        "commonMistakes": ["겸손 또는 경시의 뉘앙스", "だけ보다 강조"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+にすぎない", "meaning": "学生にすぎない"},
+        "verb": {"form": "동사 기본형+にすぎない", "meaning": "聞いたにすぎない"}
+      },
+      "examples": [
+        {"ja": "私はただの会社員にすぎません。", "reading": "わたしはただのかいしゃいんにすぎません。", "ko": "저는 그저 회사원에 불과합니다.", "audio": null},
+        {"ja": "これは私の意見にすぎない。", "reading": "これはわたしのいけんにすぎない。", "ko": "이것은 제 의견에 불과합니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼はまだ新人＿＿＿＿＿。", "options": ["にすぎない", "しかない", "だけだ", "ばかりだ"], "answer": "にすぎない", "explanation": "겸손・경시이므로 にすぎない가 적절합니다."}],
+      "relatedGrammar": ["n3_081"],
+      "relatedKanji": ["会社員", "意見"],
+      "tags": ["한정", "겸손", "경시"]
+    },
+    {
+      "id": "n3_084",
+      "pattern": "〜に限って",
+      "patternReading": "〜にかぎって",
+      "meaning": "~에 한해서, 하필 ~",
+      "jlpt": "N3",
+      "category": "한정/제한",
+      "order": 84,
+      "explanation": {
+        "summary": "한정 또는 공교롭게도",
+        "detail": "명사+に限って. 특정 대상만 해당 또는 예상 밖",
+        "koreanComparison": "한국어 '~에 한해서', '하필 ~일 때'에 해당",
+        "commonMistakes": ["한정(only)과 예상 밖(하필) 두 용법", "に限り는 더 격식적"]
+      },
+      "conjugation": {
+        "limit": {"form": "명사+に限って", "meaning": "今日に限って(오늘만)"},
+        "unexpected": {"form": "명사+に限って", "meaning": "彼に限って(하필 그가)"}
+      },
+      "examples": [
+        {"ja": "今日に限って、電車が遅れた。", "reading": "きょうにかぎって、でんしゃがおくれた。", "ko": "하필 오늘 전철이 늦었다.", "audio": null},
+        {"ja": "彼に限ってそんなことはしない。", "reading": "かれにかぎってそんなことはしない。", "ko": "그에 한해서 그런 짓은 안 한다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "傘を持ってない日＿＿＿＿、雨が降る。", "options": ["に限って", "だけ", "しか", "ばかり"], "answer": "に限って", "explanation": "예상 밖(하필)이므로 に限って가 적절합니다."}],
+      "relatedGrammar": ["n3_085"],
+      "relatedKanji": ["限", "電車"],
+      "tags": ["한정", "예상외", "공교롭게"]
+    },
+    {
+      "id": "n3_085",
+      "pattern": "〜に限る",
+      "patternReading": "〜にかぎる",
+      "meaning": "~가 최고다, ~에 한정하다",
+      "jlpt": "N3",
+      "category": "한정/제한",
+      "order": 85,
+      "explanation": {
+        "summary": "최선 또는 한정을 나타냄",
+        "detail": "명사/동사 기본형+に限る. '~가 최고' 또는 '~로 한정'",
+        "koreanComparison": "한국어 '~가 최고다', '~로 한정하다'에 해당",
+        "commonMistakes": ["추천(최고)과 제한 두 용법", "문맥으로 구별"]
+      },
+      "conjugation": {
+        "best": {"form": "명사+に限る", "meaning": "ビールに限る(맥주가 최고)"},
+        "limit": {"form": "명사+に限る", "meaning": "会員に限る(회원으로 한정)"}
+      },
+      "examples": [
+        {"ja": "暑い日はビールに限る。", "reading": "あついひはビールにかぎる。", "ko": "더운 날은 맥주가 최고다.", "audio": null},
+        {"ja": "参加は20歳以上に限ります。", "reading": "さんかはにじゅっさいいじょうにかぎります。", "ko": "참가는 20세 이상으로 한정합니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "疲れた時は、早く寝る＿＿＿＿。", "options": ["に限る", "に限って", "しかない", "べきだ"], "answer": "に限る", "explanation": "최선을 나타내므로 に限る가 적절합니다."}],
+      "relatedGrammar": ["n3_084"],
+      "relatedKanji": ["暑", "参加"],
+      "tags": ["최선", "한정", "추천"]
+    },
+    {
+      "id": "n3_086",
+      "pattern": "〜上(に)",
+      "patternReading": "〜うえ(に)",
+      "meaning": "~인 데다가",
+      "jlpt": "N3",
+      "category": "연결/나열",
+      "order": 86,
+      "explanation": {
+        "summary": "누적・첨가. A인 데다가 B도",
+        "detail": "동사・형용사 기본형+上(に). 상황의 누적",
+        "koreanComparison": "한국어 '~인 데다가'에 해당",
+        "commonMistakes": ["その上(게다가)도 같은 용법", "보통 같은 방향(긍정+긍정, 부정+부정)"]
+      },
+      "conjugation": {
+        "verb": {"form": "기본형/た形+上(に)", "meaning": "忙しい上に"},
+        "na_adj": {"form": "な/である+上(に)", "meaning": "静かな上に"},
+        "noun": {"form": "の/である+上(に)", "meaning": "学生の上に"}
+      },
+      "examples": [
+        {"ja": "この店は安い上に、おいしい。", "reading": "このみせはやすいうえに、おいしい。", "ko": "이 가게는 싼 데다가 맛있다.", "audio": null},
+        {"ja": "雨が降っている上に、風も強い。", "reading": "あめがふっているうえに、かぜもつよい。", "ko": "비가 오는 데다가 바람도 강하다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼は優秀な＿＿＿、努力家だ。", "options": ["上に", "ほか", "以外", "ため"], "answer": "上に", "explanation": "누적이므로 上に가 적절합니다."}],
+      "relatedGrammar": ["n3_087"],
+      "relatedKanji": ["安", "風"],
+      "tags": ["누적", "첨가", "연결"]
+    },
+    {
+      "id": "n3_087",
+      "pattern": "〜とともに",
+      "patternReading": "〜とともに",
+      "meaning": "~와 함께, ~함에 따라",
+      "jlpt": "N3",
+      "category": "연결/나열",
+      "order": 87,
+      "explanation": {
+        "summary": "동반・동시 변화를 나타냄",
+        "detail": "명사+とともに (동반), 동사 기본형+とともに (동시 변화)",
+        "koreanComparison": "한국어 '~와 함께', '~함에 따라'에 해당",
+        "commonMistakes": ["동반(with)과 변화(~에 따라) 구별", "と一緒に보다 격식적"]
+      },
+      "conjugation": {
+        "accompaniment": {"form": "명사+とともに", "meaning": "家族とともに"},
+        "change": {"form": "동사 기본형+とともに", "meaning": "年をとるとともに"}
+      },
+      "examples": [
+        {"ja": "家族とともに旅行に行った。", "reading": "かぞくとともにりょこうにいった。", "ko": "가족과 함께 여행을 갔다.", "audio": null},
+        {"ja": "時代の変化とともに、生活スタイルも変わった。", "reading": "じだいのへんかとともに、せいかつスタイルもかわった。", "ko": "시대 변화와 함께 생활 스타일도 바뀌었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "年をとる＿＿＿＿、体力が落ちる。", "options": ["とともに", "と一緒に", "につれて", "に従って"], "answer": "とともに", "explanation": "동시 변화이므로 とともに가 적절합니다."}],
+      "relatedGrammar": ["n3_088"],
+      "relatedKanji": ["家族", "時代"],
+      "tags": ["동반", "변화", "연결"]
+    },
+    {
+      "id": "n3_088",
+      "pattern": "〜につれて／にしたがって",
+      "patternReading": "〜につれて／にしたがって",
+      "meaning": "~함에 따라",
+      "jlpt": "N3",
+      "category": "연결/나열",
+      "order": 88,
+      "explanation": {
+        "summary": "비례적 변화. A가 변하면 B도 변함",
+        "detail": "동사 기본형/명사+につれて/にしたがって",
+        "koreanComparison": "한국어 '~함에 따라'에 해당",
+        "commonMistakes": ["につれて는 자연스러운 변화", "にしたがって는 규칙・지시도 포함"]
+      },
+      "conjugation": {
+        "natural": {"form": "동사 기본형+につれて", "meaning": "進むにつれて"},
+        "rule": {"form": "명사+にしたがって", "meaning": "指示にしたがって"}
+      },
+      "examples": [
+        {"ja": "話が進むにつれて、複雑になった。", "reading": "はなしがすすむにつれて、ふくざつになった。", "ko": "이야기가 진행됨에 따라 복잡해졌다.", "audio": null},
+        {"ja": "指示にしたがって、操作してください。", "reading": "しじにしたがって、そうさしてください。", "ko": "지시에 따라 조작해 주세요.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "年齢が上がる＿＿＿＿、責任も増える。", "options": ["につれて", "とともに", "に伴って", "にかけて"], "answer": "につれて", "explanation": "비례적 변화이므로 につれて가 적절합니다."}],
+      "relatedGrammar": ["n3_087"],
+      "relatedKanji": ["進", "指示"],
+      "tags": ["비례", "변화", "연결"]
+    },
+    {
+      "id": "n3_089",
+      "pattern": "〜を始め（として）",
+      "patternReading": "〜をはじめ（として）",
+      "meaning": "~을 비롯하여",
+      "jlpt": "N3",
+      "category": "연결/나열",
+      "order": 89,
+      "explanation": {
+        "summary": "대표 예시를 들어 나열",
+        "detail": "명사+を始め(として). 대표적인 것을 먼저 들고 나열",
+        "koreanComparison": "한국어 '~을 비롯하여', '~을 시작으로'에 해당",
+        "commonMistakes": ["나열의 시작점 제시", "복수의 예시가 이어짐"]
+      },
+      "conjugation": {
+        "pattern": {"form": "명사+を始め(として)", "meaning": "東京を始め"}
+      },
+      "examples": [
+        {"ja": "東京を始め、日本の主要都市を訪問した。", "reading": "とうきょうをはじめ、にほんのしゅようとしをほうもんした。", "ko": "도쿄를 비롯하여 일본의 주요 도시를 방문했다.", "audio": null},
+        {"ja": "社長を始めとして、全社員が参加した。", "reading": "しゃちょうをはじめとして、ぜんしゃいんがさんかした。", "ko": "사장을 비롯하여 전 사원이 참가했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "日本料理は寿司＿＿＿、世界で人気がある。", "options": ["を始め", "だけでなく", "ばかり", "のみ"], "answer": "を始め", "explanation": "대표 예시이므로 を始め가 적절합니다."}],
+      "relatedGrammar": ["n3_082"],
+      "relatedKanji": ["始", "主要"],
+      "tags": ["나열", "예시", "대표"]
+    },
+    {
+      "id": "n3_090",
+      "pattern": "〜に関して／について",
+      "patternReading": "〜にかんして／について",
+      "meaning": "~에 관해서",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 90,
+      "explanation": {
+        "summary": "화제・주제를 나타냄",
+        "detail": "명사+に関して/について. 대상・화제 제시",
+        "koreanComparison": "한국어 '~에 관해서', '~에 대해서'에 해당",
+        "commonMistakes": ["に関して는 더 격식적", "について는 일반적"]
+      },
+      "conjugation": {
+        "formal": {"form": "명사+に関して", "meaning": "その件に関して"},
+        "general": {"form": "명사+について", "meaning": "日本について"}
+      },
+      "examples": [
+        {"ja": "日本の文化について勉強しています。", "reading": "にほんのぶんかについてべんきょうしています。", "ko": "일본 문화에 대해 공부하고 있습니다.", "audio": null},
+        {"ja": "この問題に関しては、後日お答えします。", "reading": "このもんだいにかんしては、ごじつおこたえします。", "ko": "이 문제에 관해서는 후일 답변드리겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "環境問題＿＿＿＿、議論が続いている。", "options": ["について", "によって", "において", "に対して"], "answer": "について", "explanation": "화제이므로 について가 적절합니다."}],
+      "relatedGrammar": ["n3_091"],
+      "relatedKanji": ["関", "文化"],
+      "tags": ["화제", "주제", "격식"]
+    },
+    {
+      "id": "n3_091",
+      "pattern": "〜にとって",
+      "patternReading": "〜にとって",
+      "meaning": "~에게 있어서",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 91,
+      "explanation": {
+        "summary": "입장・관점을 나타냄",
+        "detail": "명사+にとって. 특정 입장에서의 판단・평가",
+        "koreanComparison": "한국어 '~에게 있어서', '~에게는'에 해당",
+        "commonMistakes": ["평가・판단의 기준이 되는 입장", "にとっては로 대비 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+にとって", "meaning": "私にとって"},
+        "emphasis": {"form": "명사+にとっては", "meaning": "彼にとっては"}
+      },
+      "examples": [
+        {"ja": "私にとって、家族が一番大切です。", "reading": "わたしにとって、かぞくがいちばんたいせつです。", "ko": "나에게 있어서 가족이 가장 소중합니다.", "audio": null},
+        {"ja": "外国人にとって、敬語は難しい。", "reading": "がいこくじんにとって、けいごはむずかしい。", "ko": "외국인에게 있어서 경어는 어렵다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "学生＿＿＿＿、この試験は重要です。", "options": ["にとって", "によって", "に対して", "において"], "answer": "にとって", "explanation": "입장을 나타내므로 にとって가 적절합니다."}],
+      "relatedGrammar": ["n3_090", "n3_092"],
+      "relatedKanji": ["大切", "難"],
+      "tags": ["입장", "관점", "평가"]
+    },
+    {
+      "id": "n3_092",
+      "pattern": "〜に対して",
+      "patternReading": "〜にたいして",
+      "meaning": "~에 대해",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 92,
+      "explanation": {
+        "summary": "대상・상대를 나타냄",
+        "detail": "명사+に対して. 행위・태도의 대상 명시",
+        "koreanComparison": "한국어 '~에 대해', '~을 향해'에 해당",
+        "commonMistakes": ["について는 화제", "に対して는 행위의 방향"]
+      },
+      "conjugation": {
+        "action": {"form": "명사+に対して", "meaning": "質問に対して"},
+        "contrast": {"form": "A에 대해 B", "meaning": "男性に対して女性は"}
+      },
+      "examples": [
+        {"ja": "先生の質問に対して、答えた。", "reading": "せんせいのしつもんにたいして、こたえた。", "ko": "선생님의 질문에 대해 대답했다.", "audio": null},
+        {"ja": "彼女は誰に対しても親切だ。", "reading": "かのじょはだれにたいしてもしんせつだ。", "ko": "그녀는 누구에게나 친절하다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "批判＿＿＿＿、冷静に対応した。", "options": ["に対して", "について", "にとって", "によって"], "answer": "に対して", "explanation": "대상이므로 に対して가 적절합니다."}],
+      "relatedGrammar": ["n3_090", "n3_091"],
+      "relatedKanji": ["対", "質問"],
+      "tags": ["대상", "상대", "방향"]
+    },
+    {
+      "id": "n3_093",
+      "pattern": "〜をもとに（して）",
+      "patternReading": "〜をもとに（して）",
+      "meaning": "~을 바탕으로",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 93,
+      "explanation": {
+        "summary": "기초・근거를 나타냄",
+        "detail": "명사+をもとに(して). 정보・자료를 근거로 삼음",
+        "koreanComparison": "한국어 '~을 바탕으로', '~을 토대로'에 해당",
+        "commonMistakes": ["に基づいて는 더 엄격한 준거", "をもとに는 참고・응용"]
+      },
+      "conjugation": {
+        "reference": {"form": "명사+をもとに", "meaning": "データをもとに"},
+        "with_して": {"form": "명사+をもとにして", "meaning": "事実をもとにして"}
+      },
+      "examples": [
+        {"ja": "この映画は実話をもとに作られた。", "reading": "このえいがはじつわをもとにつくられた。", "ko": "이 영화는 실화를 바탕으로 만들어졌다.", "audio": null},
+        {"ja": "アンケートをもとに、改善した。", "reading": "アンケートをもとに、かいぜんした。", "ko": "설문조사를 바탕으로 개선했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "調査結果＿＿＿＿、報告書を作成した。", "options": ["をもとに", "に基づいて", "によって", "において"], "answer": "をもとに", "explanation": "자료를 참고하므로 をもとに가 적절합니다."}],
+      "relatedGrammar": ["n3_094"],
+      "relatedKanji": ["元", "実話"],
+      "tags": ["근거", "기초", "참고"]
+    },
+    {
+      "id": "n3_094",
+      "pattern": "〜に基づいて",
+      "patternReading": "〜にもとづいて",
+      "meaning": "~에 근거하여",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 94,
+      "explanation": {
+        "summary": "엄격한 근거・기준을 나타냄",
+        "detail": "명사+に基づいて. 법률・규칙 등 공식적 근거",
+        "koreanComparison": "한국어 '~에 근거하여', '~에 따라'에 해당",
+        "commonMistakes": ["をもとに보다 공식적", "법률・계약 등에 자주 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "명사+に基づいて", "meaning": "法律に基づいて"},
+        "noun_mod": {"form": "명사+に基づく+명사", "meaning": "事実に基づく話"}
+      },
+      "examples": [
+        {"ja": "法律に基づいて、判断します。", "reading": "ほうりつにもとづいて、はんだんします。", "ko": "법률에 근거하여 판단합니다.", "audio": null},
+        {"ja": "契約に基づく権利がある。", "reading": "けいやくにもとづくけんりがある。", "ko": "계약에 근거한 권리가 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "規則＿＿＿＿＿、処分が決まった。", "options": ["に基づいて", "をもとに", "によると", "において"], "answer": "に基づいて", "explanation": "공식 근거이므로 に基づいて가 적절합니다."}],
+      "relatedGrammar": ["n3_093"],
+      "relatedKanji": ["基", "法律"],
+      "tags": ["근거", "규칙", "공식"]
+    },
+    {
+      "id": "n3_095",
+      "pattern": "〜において（は）",
+      "patternReading": "〜において（は）",
+      "meaning": "~에서, ~에 있어서",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 95,
+      "explanation": {
+        "summary": "장소・분야・상황을 격식체로 나타냄",
+        "detail": "명사+において. で의 격식 표현",
+        "koreanComparison": "한국어 '~에서', '~에 있어서'에 해당 (격식)",
+        "commonMistakes": ["で보다 격식적", "문어・공식 문서에 사용"]
+      },
+      "conjugation": {
+        "place": {"form": "장소+において", "meaning": "東京において"},
+        "field": {"form": "분야+において", "meaning": "経済において"},
+        "modifier": {"form": "명사+における+명사", "meaning": "会議における発言"}
+      },
+      "examples": [
+        {"ja": "この会議において、重要な決定がされた。", "reading": "このかいぎにおいて、じゅうようなけっていがされた。", "ko": "이 회의에서 중요한 결정이 이루어졌다.", "audio": null},
+        {"ja": "日本における外国人労働者が増えている。", "reading": "にほんにおけるがいこくじんろうどうしゃがふえている。", "ko": "일본에서의 외국인 노동자가 늘고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "現代社会＿＿＿＿＿、情報は重要だ。", "options": ["において", "にとって", "に対して", "によって"], "answer": "において", "explanation": "분야를 나타내므로 において가 적절합니다."}],
+      "relatedGrammar": ["n3_090"],
+      "relatedKanji": ["会議", "決定"],
+      "tags": ["장소", "분야", "격식"]
+    },
+    {
+      "id": "n3_096",
+      "pattern": "〜を中心に（して）",
+      "patternReading": "〜をちゅうしんに（して）",
+      "meaning": "~을 중심으로",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 96,
+      "explanation": {
+        "summary": "중심・핵심을 나타냄",
+        "detail": "명사+を中心に. 활동・논의 등의 중심점",
+        "koreanComparison": "한국어 '~을 중심으로'에 해당",
+        "commonMistakes": ["を中心として도 같은 의미", "핵심 대상 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+を中心に", "meaning": "東京を中心に"},
+        "formal": {"form": "명사+を中心として", "meaning": "若者を中心として"}
+      },
+      "examples": [
+        {"ja": "駅を中心に、店が並んでいる。", "reading": "えきをちゅうしんに、みせがならんでいる。", "ko": "역을 중심으로 가게들이 늘어서 있다.", "audio": null},
+        {"ja": "若者を中心に流行している。", "reading": "わかものをちゅうしんにりゅうこうしている。", "ko": "젊은이를 중심으로 유행하고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "健康＿＿＿＿＿、生活を見直した。", "options": ["を中心に", "をもとに", "について", "によって"], "answer": "を中心に", "explanation": "중심을 나타내므로 を中心に가 적절합니다."}],
+      "relatedGrammar": ["n3_093"],
+      "relatedKanji": ["中心", "流行"],
+      "tags": ["중심", "핵심", "초점"]
+    },
+    {
+      "id": "n3_097",
+      "pattern": "〜向け（に／の）",
+      "patternReading": "〜むけ（に／の）",
+      "meaning": "~용, ~대상의",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 97,
+      "explanation": {
+        "summary": "대상・목적을 나타냄",
+        "detail": "명사+向け. 특정 대상을 위한 것임을 표시",
+        "koreanComparison": "한국어 '~용', '~을 위한'에 해당",
+        "commonMistakes": ["向きと의 구별: 向け=대상, 向き=적합"]
+      },
+      "conjugation": {
+        "particle_に": {"form": "명사+向けに+동사", "meaning": "子供向けに作る"},
+        "particle_の": {"form": "명사+向けの+명사", "meaning": "初心者向けの本"}
+      },
+      "examples": [
+        {"ja": "この本は子供向けに書かれた。", "reading": "このほんはこどもむけにかかれた。", "ko": "이 책은 어린이용으로 쓰여졌다.", "audio": null},
+        {"ja": "外国人向けの日本語教室がある。", "reading": "がいこくじんむけのにほんごきょうしつがある。", "ko": "외국인을 위한 일본어 교실이 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "このアプリは初心者＿＿＿だ。", "options": ["向け", "向き", "用", "対象"], "answer": "向け", "explanation": "대상이므로 向け가 적절합니다."}],
+      "relatedGrammar": ["n3_098"],
+      "relatedKanji": ["向", "子供"],
+      "tags": ["대상", "목적", "용도"]
+    },
+    {
+      "id": "n3_098",
+      "pattern": "〜向き（に／の）",
+      "patternReading": "〜むき（に／の）",
+      "meaning": "~에 적합한",
+      "jlpt": "N3",
+      "category": "기타 표현",
+      "order": 98,
+      "explanation": {
+        "summary": "적합성을 나타냄",
+        "detail": "명사+向き. 어떤 것에 적합함을 표시",
+        "koreanComparison": "한국어 '~에 적합한', '~에 맞는'에 해당",
+        "commonMistakes": ["向け=대상용", "向き=성질상 적합"]
+      },
+      "conjugation": {
+        "particle_の": {"form": "명사+向きの+명사", "meaning": "家族向きのレストラン"},
+        "alone": {"form": "명사+向きだ", "meaning": "初心者向きだ"}
+      },
+      "examples": [
+        {"ja": "このレストランは家族向きだ。", "reading": "このレストランはかぞくむきだ。", "ko": "이 레스토랑은 가족에게 적합하다.", "audio": null},
+        {"ja": "この仕事は私には向きではない。", "reading": "このしごとはわたしにはむきではない。", "ko": "이 일은 나에게 맞지 않는다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "この料理は辛いものが苦手な人には＿＿＿ではない。", "options": ["向き", "向け", "むけ", "対象"], "answer": "向き", "explanation": "적합성이므로 向き가 적절합니다."}],
+      "relatedGrammar": ["n3_097"],
+      "relatedKanji": ["向", "家族"],
+      "tags": ["적합", "성질", "맞음"]
+    },
+    {
+      "id": "n3_099",
+      "pattern": "〜がち（に／の）",
+      "patternReading": "〜がち（に／の）",
+      "meaning": "~하기 쉬운, ~하는 경향이 있는",
+      "jlpt": "N3",
+      "category": "경향/습관",
+      "order": 99,
+      "explanation": {
+        "summary": "부정적 경향・습관을 나타냄",
+        "detail": "동사ます형/명사+がち. 바람직하지 않은 경향",
+        "koreanComparison": "한국어 '~하기 쉬운', '자주 ~하는'에 해당",
+        "commonMistakes": ["부정적 뉘앙스가 강함", "긍정적 내용에는 부적합"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사ます형+がち", "meaning": "忘れがち"},
+        "noun": {"form": "명사+がち", "meaning": "病気がち"}
+      },
+      "examples": [
+        {"ja": "彼は最近、遅刻しがちだ。", "reading": "かれはさいきん、ちこくしがちだ。", "ko": "그는 요즘 지각하기 쉽다.", "audio": null},
+        {"ja": "曇りがちの天気が続いている。", "reading": "くもりがちのてんきがつづいている。", "ko": "흐린 날씨가 계속되고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "忙しいと食事を抜き＿＿＿になる。", "options": ["がち", "気味", "っぽい", "らしい"], "answer": "がち", "explanation": "부정적 경향이므로 がち가 적절합니다."}],
+      "relatedGrammar": ["n3_100"],
+      "relatedKanji": ["遅刻", "曇"],
+      "tags": ["경향", "습관", "부정"]
+    },
+    {
+      "id": "n3_100",
+      "pattern": "〜気味",
+      "patternReading": "〜ぎみ",
+      "meaning": "~기미, 약간 ~한",
+      "jlpt": "N3",
+      "category": "경향/습관",
+      "order": 100,
+      "explanation": {
+        "summary": "약간의 상태・조짐을 나타냄",
+        "detail": "동사ます형/명사+気味. 가벼운 증상이나 경향",
+        "koreanComparison": "한국어 '~기미', '좀 ~한'에 해당",
+        "commonMistakes": ["がち보다 정도가 약함", "몸 상태에 자주 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사ます형+気味", "meaning": "疲れ気味"},
+        "noun": {"form": "명사+気味", "meaning": "風邪気味"}
+      },
+      "examples": [
+        {"ja": "最近、疲れ気味だ。", "reading": "さいきん、つかれぎみだ。", "ko": "요즘 좀 피곤하다.", "audio": null},
+        {"ja": "風邪気味なので、早く寝ます。", "reading": "かぜぎみなので、はやくねます。", "ko": "감기기가 있어서 일찍 자겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "最近太り＿＿＿なので、運動を始めた。", "options": ["気味", "がち", "っぽい", "らしい"], "answer": "気味", "explanation": "약간의 상태이므로 気味が 적절합니다."}],
+      "relatedGrammar": ["n3_099"],
+      "relatedKanji": ["気", "疲"],
+      "tags": ["정도", "조짐", "상태"]
+    },
+    {
+      "id": "n3_101",
+      "pattern": "〜っぽい",
+      "patternReading": "〜っぽい",
+      "meaning": "~스러운, ~같은",
+      "jlpt": "N3",
+      "category": "경향/습관",
+      "order": 101,
+      "explanation": {
+        "summary": "성질・경향을 나타냄 (구어)",
+        "detail": "명사/동사ます형/형용사어간+っぽい. 그런 느낌이 있음",
+        "koreanComparison": "한국어 '~스러운', '~같은'에 해당",
+        "commonMistakes": ["구어적 표현", "らしい보다 주관적"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+っぽい", "meaning": "子供っぽい"},
+        "verb": {"form": "동사ます형+っぽい", "meaning": "忘れっぽい"},
+        "adj": {"form": "형용사어간+っぽい", "meaning": "安っぽい"}
+      },
+      "examples": [
+        {"ja": "彼は子供っぽいところがある。", "reading": "かれはこどもっぽいところがある。", "ko": "그는 어린애같은 면이 있다.", "audio": null},
+        {"ja": "このバッグは安っぽく見える。", "reading": "このバッグはやすっぽくみえる。", "ko": "이 가방은 싸구려처럼 보인다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼女は怒り＿＿＿性格だ。", "options": ["っぽい", "らしい", "がち", "気味"], "answer": "っぽい", "explanation": "성질이므로 っぽい가 적절합니다."}],
+      "relatedGrammar": ["n3_099", "n3_100"],
+      "relatedKanji": ["子供", "安"],
+      "tags": ["성질", "느낌", "구어"]
+    },
+    {
+      "id": "n3_102",
+      "pattern": "〜きる／〜きれる／〜きれない",
+      "patternReading": "〜きる／〜きれる／〜きれない",
+      "meaning": "완전히 ~하다 / ~할 수 있다 / 다 ~하지 못하다",
+      "jlpt": "N3",
+      "category": "완료/정도",
+      "order": 102,
+      "explanation": {
+        "summary": "동작의 완료・한계를 나타냄",
+        "detail": "동사ます형+きる/きれる/きれない. 완전히 끝까지 함",
+        "koreanComparison": "한국어 '완전히 ~하다', '다 ~하다'에 해당",
+        "commonMistakes": ["きる=완료", "きれない=불가능・과다"]
+      },
+      "conjugation": {
+        "complete": {"form": "동사ます형+きる", "meaning": "使いきる"},
+        "possible": {"form": "동사ます형+きれる", "meaning": "食べきれる"},
+        "impossible": {"form": "동사ます형+きれない", "meaning": "数えきれない"}
+      },
+      "examples": [
+        {"ja": "お金を使いきってしまった。", "reading": "おかねをつかいきってしまった。", "ko": "돈을 다 써버렸다.", "audio": null},
+        {"ja": "量が多すぎて、食べきれない。", "reading": "りょうがおおすぎて、たべきれない。", "ko": "양이 너무 많아서 다 먹을 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "この本は一日で読み＿＿＿。", "options": ["きれない", "終わらない", "できない", "ない"], "answer": "きれない", "explanation": "완료 불가이므로 きれない가 적절합니다."}],
+      "relatedGrammar": ["n3_103"],
+      "relatedKanji": ["切", "使"],
+      "tags": ["완료", "한계", "정도"]
+    },
+    {
+      "id": "n3_103",
+      "pattern": "〜ぬく",
+      "patternReading": "〜ぬく",
+      "meaning": "끝까지 ~하다",
+      "jlpt": "N3",
+      "category": "완료/정도",
+      "order": 103,
+      "explanation": {
+        "summary": "끝까지 관철함을 나타냄",
+        "detail": "동사ます형+ぬく. 어려움을 극복하고 끝까지",
+        "koreanComparison": "한국어 '끝까지 ~하다', '~해내다'에 해당",
+        "commonMistakes": ["きる보다 노력・인내 뉘앙스 강함", "주로 긍정적 맥락"]
+      },
+      "conjugation": {
+        "endure": {"form": "동사ます형+ぬく", "meaning": "耐えぬく"},
+        "complete": {"form": "동사ます형+ぬく", "meaning": "走りぬく"}
+      },
+      "examples": [
+        {"ja": "マラソンを最後まで走りぬいた。", "reading": "マラソンをさいごまではしりぬいた。", "ko": "마라톤을 끝까지 달렸다.", "audio": null},
+        {"ja": "困難を乗り越え、やりぬいた。", "reading": "こんなんをのりこえ、やりぬいた。", "ko": "곤란을 극복하고 해냈다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "どんなに辛くても、最後まで頑張り＿＿＿。", "options": ["ぬく", "きる", "終わる", "続ける"], "answer": "ぬく", "explanation": "끝까지 관철이므로 ぬく가 적절합니다."}],
+      "relatedGrammar": ["n3_102"],
+      "relatedKanji": ["抜", "走"],
+      "tags": ["완료", "인내", "관철"]
+    },
+    {
+      "id": "n3_104",
+      "pattern": "〜かける／〜かけの",
+      "patternReading": "〜かける／〜かけの",
+      "meaning": "~하다 말다, 반쯤 ~한",
+      "jlpt": "N3",
+      "category": "완료/정도",
+      "order": 104,
+      "explanation": {
+        "summary": "동작의 미완료・중단을 나타냄",
+        "detail": "동사ます형+かける/かけの. 시작했으나 끝나지 않음",
+        "koreanComparison": "한국어 '~하다 말다', '반쯤 ~한'에 해당",
+        "commonMistakes": ["かけの+명사로 수식", "읽다가 만=読みかけ"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사ます형+かける", "meaning": "言いかける"},
+        "modifier": {"form": "동사ます형+かけの+명사", "meaning": "食べかけのパン"}
+      },
+      "examples": [
+        {"ja": "読みかけの本が机にある。", "reading": "よみかけのほんがつくえにある。", "ko": "읽다 만 책이 책상에 있다.", "audio": null},
+        {"ja": "何か言いかけて、やめた。", "reading": "なにかいいかけて、やめた。", "ko": "뭔가 말하려다가 그만뒀다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "食べ＿＿＿のケーキを冷蔵庫に入れた。", "options": ["かけ", "終わり", "始め", "途中"], "answer": "かけ", "explanation": "미완료이므로 かけ가 적절합니다."}],
+      "relatedGrammar": ["n3_102", "n3_103"],
+      "relatedKanji": ["掛", "読"],
+      "tags": ["미완료", "중단", "중간"]
+    },
+    {
+      "id": "n3_105",
+      "pattern": "〜だらけ",
+      "patternReading": "〜だらけ",
+      "meaning": "~투성이",
+      "jlpt": "N3",
+      "category": "상태/정도",
+      "order": 105,
+      "explanation": {
+        "summary": "많이 붙어있음・가득함 (부정적)",
+        "detail": "명사+だらけ. 바람직하지 않은 것이 가득",
+        "koreanComparison": "한국어 '~투성이', '~천지'에 해당",
+        "commonMistakes": ["부정적 뉘앙스", "긍정적 내용에는 부적합"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+だらけ", "meaning": "泥だらけ"}
+      },
+      "examples": [
+        {"ja": "子供が泥だらけで帰ってきた。", "reading": "こどもがどろだらけでかえってきた。", "ko": "아이가 진흙투성이로 돌아왔다.", "audio": null},
+        {"ja": "この作文は間違いだらけだ。", "reading": "このさくぶんはまちがいだらけだ。", "ko": "이 작문은 틀린 것 투성이다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "部屋がゴミ＿＿＿で汚い。", "options": ["だらけ", "まみれ", "ずくめ", "ばかり"], "answer": "だらけ", "explanation": "가득함(부정)이므로 だらけ가 적절합니다."}],
+      "relatedGrammar": ["n3_106"],
+      "relatedKanji": ["泥", "間違"],
+      "tags": ["상태", "가득", "부정"]
+    },
+    {
+      "id": "n3_106",
+      "pattern": "〜まみれ",
+      "patternReading": "〜まみれ",
+      "meaning": "~투성이 (표면에 붙음)",
+      "jlpt": "N3",
+      "category": "상태/정도",
+      "order": 106,
+      "explanation": {
+        "summary": "표면에 덮여있음 (부정적)",
+        "detail": "명사+まみれ. 더러운 것이 표면을 덮음",
+        "koreanComparison": "한국어 '~투성이', '~범벅'에 해당",
+        "commonMistakes": ["だらけ보다 표면에 붙는 느낌 강함", "혈, 땀, 먼지 등에 사용"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+まみれ", "meaning": "血まみれ"}
+      },
+      "examples": [
+        {"ja": "選手は汗まみれだった。", "reading": "せんしゅはあせまみれだった。", "ko": "선수는 땀범벅이었다.", "audio": null},
+        {"ja": "倉庫はほこりまみれだ。", "reading": "そうこはほこりまみれだ。", "ko": "창고는 먼지투성이다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "工事現場で、服が泥＿＿＿になった。", "options": ["まみれ", "だらけ", "ずくめ", "ばかり"], "answer": "まみれ", "explanation": "표면에 붙음이므로 まみれ가 적절합니다."}],
+      "relatedGrammar": ["n3_105"],
+      "relatedKanji": ["汗", "血"],
+      "tags": ["상태", "표면", "더러움"]
+    },
+    {
+      "id": "n3_107",
+      "pattern": "〜ずくめ",
+      "patternReading": "〜ずくめ",
+      "meaning": "온통 ~, ~뿐",
+      "jlpt": "N3",
+      "category": "상태/정도",
+      "order": 107,
+      "explanation": {
+        "summary": "전부 같은 것임을 나타냄",
+        "detail": "명사+ずくめ. 전부・모두가 같은 상태",
+        "koreanComparison": "한국어 '온통 ~', '~뿐'에 해당",
+        "commonMistakes": ["색깔, 좋은 일, 규칙 등에 사용", "黒ずくめ가 대표적"]
+      },
+      "conjugation": {
+        "noun": {"form": "명사+ずくめ", "meaning": "黒ずくめ"}
+      },
+      "examples": [
+        {"ja": "今年はいいことずくめだった。", "reading": "ことしはいいことずくめだった。", "ko": "올해는 좋은 일뿐이었다.", "audio": null},
+        {"ja": "黒ずくめの服を着た人がいた。", "reading": "くろずくめのふくをきたひとがいた。", "ko": "온통 검은 옷을 입은 사람이 있었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "規則＿＿＿の生活は窮屈だ。", "options": ["ずくめ", "だらけ", "まみれ", "ばかり"], "answer": "ずくめ", "explanation": "전부 같음이므로 ずくめ가 적절합니다."}],
+      "relatedGrammar": ["n3_105", "n3_106"],
+      "relatedKanji": ["黒", "規則"],
+      "tags": ["상태", "전부", "동일"]
+    },
+    {
+      "id": "n3_108",
+      "pattern": "〜っけ",
+      "patternReading": "〜っけ",
+      "meaning": "~였던가, ~였지",
+      "jlpt": "N3",
+      "category": "확인/회상",
+      "order": 108,
+      "explanation": {
+        "summary": "기억 확인・회상을 나타냄 (구어)",
+        "detail": "동사た형/명사だった+っけ. 알고 있던 것 확인",
+        "koreanComparison": "한국어 '~였던가?', '~였지?'에 해당",
+        "commonMistakes": ["혼잣말・확인에 사용", "의문문이지만 물음표 없어도 됨"]
+      },
+      "conjugation": {
+        "past": {"form": "동사た형+っけ", "meaning": "言ったっけ"},
+        "noun": {"form": "명사+だったっけ", "meaning": "何だったっけ"}
+      },
+      "examples": [
+        {"ja": "明日の会議は何時だったっけ？", "reading": "あしたのかいぎはなんじだったっけ？", "ko": "내일 회의가 몇 시였더라?", "audio": null},
+        {"ja": "彼の名前、何だったっけ。", "reading": "かれのなまえ、なんだったっけ。", "ko": "그 사람 이름이 뭐였지.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "約束は来週＿＿＿？", "options": ["だったっけ", "だったね", "だよね", "かな"], "answer": "だったっけ", "explanation": "기억 확인이므로 だったっけ가 적절합니다."}],
+      "relatedGrammar": ["n3_109"],
+      "relatedKanji": ["会議", "名前"],
+      "tags": ["확인", "회상", "구어"]
+    },
+    {
+      "id": "n3_109",
+      "pattern": "〜んだっけ",
+      "patternReading": "〜んだっけ",
+      "meaning": "~인 거였지, ~한 거였던가",
+      "jlpt": "N3",
+      "category": "확인/회상",
+      "order": 109,
+      "explanation": {
+        "summary": "설명적 확인・회상 (구어)",
+        "detail": "동사普通形+んだっけ. のだ+っけ의 형태",
+        "koreanComparison": "한국어 '~한 거였지?'에 해당",
+        "commonMistakes": ["っけ보다 설명・이유 뉘앙스", "왜 그랬더라 느낌"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+んだっけ", "meaning": "行くんだっけ"},
+        "adj": {"form": "형용사普通形+んだっけ", "meaning": "高いんだっけ"}
+      },
+      "examples": [
+        {"ja": "明日は休みなんだっけ？", "reading": "あしたはやすみなんだっけ？", "ko": "내일 휴일인 거였지?", "audio": null},
+        {"ja": "なぜそうなったんだっけ。", "reading": "なぜそうなったんだっけ。", "ko": "왜 그렇게 된 거였더라.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼女も参加する＿＿＿？", "options": ["んだっけ", "っけ", "かな", "のかな"], "answer": "んだっけ", "explanation": "설명적 확인이므로 んだっけ가 적절합니다."}],
+      "relatedGrammar": ["n3_108"],
+      "relatedKanji": ["休み", "参加"],
+      "tags": ["확인", "설명", "구어"]
+    },
+    {
+      "id": "n3_110",
+      "pattern": "〜ものか／もんか",
+      "patternReading": "〜ものか／もんか",
+      "meaning": "절대 ~할까 보냐, ~할 리 없다",
+      "jlpt": "N3",
+      "category": "부정/강조",
+      "order": 110,
+      "explanation": {
+        "summary": "강한 부정・반발을 나타냄",
+        "detail": "동사기본형+ものか. 절대로 하지 않겠다는 의지",
+        "koreanComparison": "한국어 '절대 ~하나', '~할 리 있겠어'에 해당",
+        "commonMistakes": ["もんか는 구어", "강한 감정 표현"]
+      },
+      "conjugation": {
+        "formal": {"form": "동사기본형+ものか", "meaning": "許すものか"},
+        "casual": {"form": "동사기본형+もんか", "meaning": "行くもんか"}
+      },
+      "examples": [
+        {"ja": "二度とあんな店に行くものか。", "reading": "にどとあんなみせにいくものか。", "ko": "두 번 다시 그런 가게에 갈까 보냐.", "audio": null},
+        {"ja": "あいつに負けるもんか！", "reading": "あいつにまけるもんか！", "ko": "그 녀석한테 질 줄 알아!", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "こんな辛いダイエット、続ける＿＿＿。", "options": ["ものか", "はずだ", "べきだ", "ことだ"], "answer": "ものか", "explanation": "강한 부정이므로 ものか가 적절합니다."}],
+      "relatedGrammar": ["n3_111"],
+      "relatedKanji": ["許", "負"],
+      "tags": ["부정", "반발", "의지"]
+    },
+    {
+      "id": "n3_111",
+      "pattern": "〜ものだ／ものではない",
+      "patternReading": "〜ものだ／ものではない",
+      "meaning": "~하는 것이다 / ~하는 것이 아니다",
+      "jlpt": "N3",
+      "category": "충고/당위",
+      "order": 111,
+      "explanation": {
+        "summary": "일반적 상식・당위를 나타냄",
+        "detail": "동사기본형+ものだ. 사회적 상식이나 충고",
+        "koreanComparison": "한국어 '~하는 법이다', '~해야 한다'에 해당",
+        "commonMistakes": ["ものではない는 금지", "일반론・충고에 사용"]
+      },
+      "conjugation": {
+        "positive": {"form": "동사기본형+ものだ", "meaning": "感謝するものだ"},
+        "negative": {"form": "동사기본형+ものではない", "meaning": "嘘をつくものではない"}
+      },
+      "examples": [
+        {"ja": "人に助けられたら、感謝するものだ。", "reading": "ひとにたすけられたら、かんしゃするものだ。", "ko": "사람에게 도움을 받으면 감사하는 법이다.", "audio": null},
+        {"ja": "人前で大声を出すものではない。", "reading": "ひとまえでおおごえをだすものではない。", "ko": "사람들 앞에서 큰 소리를 내는 것이 아니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "約束は守る＿＿＿だ。", "options": ["もの", "こと", "はず", "べき"], "answer": "もの", "explanation": "당위이므로 ものだ가 적절합니다."}],
+      "relatedGrammar": ["n3_110", "n3_112"],
+      "relatedKanji": ["感謝", "約束"],
+      "tags": ["충고", "당위", "상식"]
+    },
+    {
+      "id": "n3_112",
+      "pattern": "〜ことだ",
+      "patternReading": "〜ことだ",
+      "meaning": "~하는 것이 좋다, ~해야 한다",
+      "jlpt": "N3",
+      "category": "충고/당위",
+      "order": 112,
+      "explanation": {
+        "summary": "충고・조언을 나타냄",
+        "detail": "동사기본형/ない형+ことだ. 구체적 조언",
+        "koreanComparison": "한국어 '~하는 게 좋다', '~해라'에 해당",
+        "commonMistakes": ["ものだ보다 직접적 충고", "특정 상황에 대한 조언"]
+      },
+      "conjugation": {
+        "affirmative": {"form": "동사기본형+ことだ", "meaning": "早く寝ることだ"},
+        "negative": {"form": "동사ない형+ことだ", "meaning": "無理しないことだ"}
+      },
+      "examples": [
+        {"ja": "健康のために、よく寝ることだ。", "reading": "けんこうのために、よくねることだ。", "ko": "건강을 위해 잘 자는 것이 좋다.", "audio": null},
+        {"ja": "そんなに心配しないことだ。", "reading": "そんなにしんぱいしないことだ。", "ko": "그렇게 걱정하지 않는 게 좋다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "試験に受かりたければ、毎日勉強する＿＿＿。", "options": ["ことだ", "ものだ", "はずだ", "べきだ"], "answer": "ことだ", "explanation": "조언이므로 ことだ가 적절합니다."}],
+      "relatedGrammar": ["n3_111"],
+      "relatedKanji": ["健康", "心配"],
+      "tags": ["충고", "조언", "권유"]
+    },
+    {
+      "id": "n3_113",
+      "pattern": "〜ことはない",
+      "patternReading": "〜ことはない",
+      "meaning": "~할 필요 없다",
+      "jlpt": "N3",
+      "category": "불필요",
+      "order": 113,
+      "explanation": {
+        "summary": "불필요함을 나타냄",
+        "detail": "동사기본형+ことはない. ~할 필요가 없음",
+        "koreanComparison": "한국어 '~할 필요 없다', '~하지 않아도 된다'에 해당",
+        "commonMistakes": ["안심시키는 뉘앙스", "걱정하지 마라 느낌"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사기본형+ことはない", "meaning": "心配することはない"}
+      },
+      "examples": [
+        {"ja": "そんなに謝ることはない。", "reading": "そんなにあやまることはない。", "ko": "그렇게 사과할 필요 없어.", "audio": null},
+        {"ja": "急ぐことはないよ。ゆっくりでいい。", "reading": "いそぐことはないよ。ゆっくりでいい。", "ko": "서두를 필요 없어. 천천히 해도 돼.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "わざわざ来る＿＿＿。電話でいいよ。", "options": ["ことはない", "ことだ", "わけだ", "はずだ"], "answer": "ことはない", "explanation": "불필요이므로 ことはない가 적절합니다."}],
+      "relatedGrammar": ["n3_112"],
+      "relatedKanji": ["謝", "急"],
+      "tags": ["불필요", "안심", "조언"]
+    },
+    {
+      "id": "n3_114",
+      "pattern": "〜ことになっている",
+      "patternReading": "〜ことになっている",
+      "meaning": "~하게 되어 있다",
+      "jlpt": "N3",
+      "category": "규칙/예정",
+      "order": 114,
+      "explanation": {
+        "summary": "규칙・예정을 나타냄",
+        "detail": "동사기본형+ことになっている. 정해진 규칙이나 예정",
+        "koreanComparison": "한국어 '~하게 되어 있다', '~하기로 되어 있다'에 해당",
+        "commonMistakes": ["개인 의지가 아닌 규칙", "ことにしている과 구별"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사기본형+ことになっている", "meaning": "禁止されていることになっている"}
+      },
+      "examples": [
+        {"ja": "この会社では、9時に出社することになっている。", "reading": "このかいしゃでは、くじにしゅっしゃすることになっている。", "ko": "이 회사에서는 9시에 출근하게 되어 있다.", "audio": null},
+        {"ja": "来月、転勤することになっている。", "reading": "らいげつ、てんきんすることになっている。", "ko": "다음 달 전근하게 되어 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "日本では、車は左側を走る＿＿＿＿＿。", "options": ["ことになっている", "ことにしている", "ようにしている", "つもりだ"], "answer": "ことになっている", "explanation": "규칙이므로 ことになっている이 적절합니다."}],
+      "relatedGrammar": ["n3_115"],
+      "relatedKanji": ["出社", "転勤"],
+      "tags": ["규칙", "예정", "결정"]
+    },
+    {
+      "id": "n3_115",
+      "pattern": "〜ことにしている",
+      "patternReading": "〜ことにしている",
+      "meaning": "~하기로 하고 있다",
+      "jlpt": "N3",
+      "category": "습관/결심",
+      "order": 115,
+      "explanation": {
+        "summary": "자신의 습관・결심을 나타냄",
+        "detail": "동사기본형+ことにしている. 스스로 정한 규칙",
+        "koreanComparison": "한국어 '~하기로 하고 있다', '~하는 편이다'에 해당",
+        "commonMistakes": ["ことになっている과 구별: 자기 의지 유무", "개인의 결심・습관"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사기본형+ことにしている", "meaning": "毎日運動することにしている"}
+      },
+      "examples": [
+        {"ja": "毎朝、ジョギングすることにしている。", "reading": "まいあさ、ジョギングすることにしている。", "ko": "매일 아침 조깅하기로 하고 있다.", "audio": null},
+        {"ja": "夜遅くには食べないことにしている。", "reading": "よるおそくにはたべないことにしている。", "ko": "밤늦게는 먹지 않기로 하고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "健康のため、毎日野菜を食べる＿＿＿＿＿。", "options": ["ことにしている", "ことになっている", "つもりだ", "予定だ"], "answer": "ことにしている", "explanation": "개인 습관이므로 ことにしている이 적절합니다."}],
+      "relatedGrammar": ["n3_114"],
+      "relatedKanji": ["毎朝", "健康"],
+      "tags": ["습관", "결심", "자기규칙"]
+    },
+    {
+      "id": "n3_116",
+      "pattern": "〜ようにしている",
+      "patternReading": "〜ようにしている",
+      "meaning": "~하도록 하고 있다",
+      "jlpt": "N3",
+      "category": "습관/노력",
+      "order": 116,
+      "explanation": {
+        "summary": "노력하는 습관을 나타냄",
+        "detail": "동사기본형/ない형+ようにしている. 지속적 노력",
+        "koreanComparison": "한국어 '~하도록 하고 있다', '~하려고 노력한다'에 해당",
+        "commonMistakes": ["ことにしている보다 노력 뉘앙스 강함", "완벽하지 않아도 됨"]
+      },
+      "conjugation": {
+        "affirmative": {"form": "동사기본형+ようにしている", "meaning": "早く寝るようにしている"},
+        "negative": {"form": "동사ない형+ようにしている", "meaning": "遅刻しないようにしている"}
+      },
+      "examples": [
+        {"ja": "野菜をたくさん食べるようにしている。", "reading": "やさいをたくさんたべるようにしている。", "ko": "야채를 많이 먹도록 하고 있다.", "audio": null},
+        {"ja": "人の悪口を言わないようにしている。", "reading": "ひとのわるくちをいわないようにしている。", "ko": "남의 험담을 하지 않도록 하고 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "できるだけ歩く＿＿＿＿＿。", "options": ["ようにしている", "ことにしている", "つもりだ", "はずだ"], "answer": "ようにしている", "explanation": "노력하는 습관이므로 ようにしている이 적절합니다."}],
+      "relatedGrammar": ["n3_115"],
+      "relatedKanji": ["野菜", "悪口"],
+      "tags": ["습관", "노력", "지속"]
+    },
+    {
+      "id": "n3_117",
+      "pattern": "〜ようになる",
+      "patternReading": "〜ようになる",
+      "meaning": "~하게 되다",
+      "jlpt": "N3",
+      "category": "변화",
+      "order": 117,
+      "explanation": {
+        "summary": "능력・상태의 변화를 나타냄",
+        "detail": "동사기본형/가능형+ようになる. 할 수 없던 것이 가능해짐",
+        "koreanComparison": "한국어 '~하게 되다', '~할 수 있게 되다'에 해당",
+        "commonMistakes": ["점진적 변화", "なくなる와 반대"]
+      },
+      "conjugation": {
+        "ability": {"form": "동사기본형+ようになる", "meaning": "話せるようになる"},
+        "habit": {"form": "동사기본형+ようになる", "meaning": "運動するようになる"}
+      },
+      "examples": [
+        {"ja": "日本語が話せるようになった。", "reading": "にほんごがはなせるようになった。", "ko": "일본어를 말할 수 있게 되었다.", "audio": null},
+        {"ja": "最近、早起きするようになった。", "reading": "さいきん、はやおきするようになった。", "ko": "요즘 일찍 일어나게 되었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "練習して、泳げる＿＿＿＿＿。", "options": ["ようになった", "ことになった", "ことにした", "つもりだ"], "answer": "ようになった", "explanation": "능력 변화이므로 ようになった가 적절합니다."}],
+      "relatedGrammar": ["n3_118"],
+      "relatedKanji": ["話", "早起"],
+      "tags": ["변화", "능력", "습관"]
+    },
+    {
+      "id": "n3_118",
+      "pattern": "〜なくなる",
+      "patternReading": "〜なくなる",
+      "meaning": "~하지 않게 되다",
+      "jlpt": "N3",
+      "category": "변화",
+      "order": 118,
+      "explanation": {
+        "summary": "부정적 변화를 나타냄",
+        "detail": "동사ない형+なくなる. 하던 것을 안 하게 됨",
+        "koreanComparison": "한국어 '~하지 않게 되다', '~안 하게 되다'에 해당",
+        "commonMistakes": ["ようになる의 반대", "능력 상실 또는 습관 변화"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사ない형(ない→)+なくなる", "meaning": "食べなくなる"}
+      },
+      "examples": [
+        {"ja": "大人になって、漫画を読まなくなった。", "reading": "おとなになって、まんがをよまなくなった。", "ko": "어른이 되어서 만화를 읽지 않게 되었다.", "audio": null},
+        {"ja": "足を怪我して、走れなくなった。", "reading": "あしをけがして、はしれなくなった。", "ko": "다리를 다쳐서 달릴 수 없게 되었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "年を取って、小さい字が見え＿＿＿＿。", "options": ["なくなった", "ようになった", "ことになった", "ことにした"], "answer": "なくなった", "explanation": "능력 상실이므로 なくなった가 적절합니다."}],
+      "relatedGrammar": ["n3_117"],
+      "relatedKanji": ["大人", "怪我"],
+      "tags": ["변화", "상실", "부정"]
+    },
+    {
+      "id": "n3_119",
+      "pattern": "〜ついでに",
+      "patternReading": "〜ついでに",
+      "meaning": "~하는 김에",
+      "jlpt": "N3",
+      "category": "기회/부수",
+      "order": 119,
+      "explanation": {
+        "summary": "기회를 이용해 덧붙여 함",
+        "detail": "동사た형/명사の+ついでに. 주된 행동의 기회를 활용",
+        "koreanComparison": "한국어 '~하는 김에', '~하는 길에'에 해당",
+        "commonMistakes": ["주된 행동이 먼저", "부수적 행동을 덧붙임"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사た형+ついでに", "meaning": "買い物したついでに"},
+        "noun": {"form": "명사の+ついでに", "meaning": "買い物のついでに"}
+      },
+      "examples": [
+        {"ja": "買い物のついでに、銀行に寄った。", "reading": "かいもののついでに、ぎんこうによった。", "ko": "쇼핑하는 김에 은행에 들렀다.", "audio": null},
+        {"ja": "出張したついでに、観光もした。", "reading": "しゅっちょうしたついでに、かんこうもした。", "ko": "출장 간 김에 관광도 했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "郵便局に行った＿＿＿＿、ATMでお金を下ろした。", "options": ["ついでに", "ために", "ように", "うちに"], "answer": "ついでに", "explanation": "기회 활용이므로 ついでに가 적절합니다."}],
+      "relatedGrammar": ["n3_120"],
+      "relatedKanji": ["買物", "出張"],
+      "tags": ["기회", "부수", "효율"]
+    },
+    {
+      "id": "n3_120",
+      "pattern": "〜がてら",
+      "patternReading": "〜がてら",
+      "meaning": "~하면서, ~할 겸",
+      "jlpt": "N3",
+      "category": "기회/부수",
+      "order": 120,
+      "explanation": {
+        "summary": "겸해서 두 행동을 함",
+        "detail": "동사ます형/명사+がてら. 두 목적을 동시에",
+        "koreanComparison": "한국어 '~할 겸', '~하면서'에 해당",
+        "commonMistakes": ["ついでに보다 문어적", "두 행동이 동등한 비중"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사ます형+がてら", "meaning": "散歩しがてら"},
+        "noun": {"form": "명사+がてら", "meaning": "散歩がてら"}
+      },
+      "examples": [
+        {"ja": "散歩がてら、コンビニに寄った。", "reading": "さんぽがてら、コンビニによった。", "ko": "산책할 겸 편의점에 들렀다.", "audio": null},
+        {"ja": "運動しがてら、買い物に行く。", "reading": "うんどうしがてら、かいものにいく。", "ko": "운동할 겸 쇼핑하러 간다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "花見＿＿＿、公園を散歩した。", "options": ["がてら", "ついでに", "ながら", "とともに"], "answer": "がてら", "explanation": "겸해서이므로 がてら가 적절합니다."}],
+      "relatedGrammar": ["n3_119"],
+      "relatedKanji": ["散歩", "運動"],
+      "tags": ["겸", "동시", "기회"]
+    },
+    {
+      "id": "n3_121",
+      "pattern": "〜次第",
+      "patternReading": "〜しだい",
+      "meaning": "~하는 대로, ~에 달려 있다",
+      "jlpt": "N3",
+      "category": "조건/즉시",
+      "order": 121,
+      "explanation": {
+        "summary": "즉시 또는 의존을 나타냄",
+        "detail": "동사ます형+次第 / 명사+次第. 두 가지 의미",
+        "koreanComparison": "한국어 '~하는 대로', '~에 달렸다'에 해당",
+        "commonMistakes": ["ます형+次第=즉시", "명사+次第=의존"]
+      },
+      "conjugation": {
+        "immediate": {"form": "동사ます형+次第", "meaning": "届き次第"},
+        "depend": {"form": "명사+次第", "meaning": "あなた次第"}
+      },
+      "examples": [
+        {"ja": "届き次第、連絡します。", "reading": "とどきしだい、れんらくします。", "ko": "도착하는 대로 연락드리겠습니다.", "audio": null},
+        {"ja": "結果は努力次第だ。", "reading": "けっかはどりょくしだいだ。", "ko": "결과는 노력에 달렸다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "準備ができ＿＿＿、出発しよう。", "options": ["次第", "たら", "ば", "と"], "answer": "次第", "explanation": "즉시이므로 次第가 적절합니다."}],
+      "relatedGrammar": ["n3_122"],
+      "relatedKanji": ["届", "努力"],
+      "tags": ["즉시", "의존", "조건"]
+    },
+    {
+      "id": "n3_122",
+      "pattern": "〜次第で（は）",
+      "patternReading": "〜しだいで（は）",
+      "meaning": "~에 따라서",
+      "jlpt": "N3",
+      "category": "조건/의존",
+      "order": 122,
+      "explanation": {
+        "summary": "결과가 무엇에 의존하는지 나타냄",
+        "detail": "명사+次第で(は). 조건에 따른 결과 변화",
+        "koreanComparison": "한국어 '~에 따라서', '~여하에 따라'에 해당",
+        "commonMistakes": ["によっては와 유사", "결과 변동 가능성 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+次第で", "meaning": "やり方次第で"},
+        "emphasis": {"form": "명사+次第では", "meaning": "場合によっては"}
+      },
+      "examples": [
+        {"ja": "やり方次第で、結果は変わる。", "reading": "やりかたしだいで、けっかはかわる。", "ko": "방법에 따라 결과는 달라진다.", "audio": null},
+        {"ja": "天気次第では、中止になる。", "reading": "てんきしだいでは、ちゅうしになる。", "ko": "날씨에 따라서는 중지될 수도 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "考え方＿＿＿＿、どちらも正しい。", "options": ["次第で", "によって", "として", "に対して"], "answer": "次第で", "explanation": "의존 조건이므로 次第で가 적절합니다."}],
+      "relatedGrammar": ["n3_121"],
+      "relatedKanji": ["方法", "天気"],
+      "tags": ["의존", "조건", "변화"]
+    },
+    {
+      "id": "n3_123",
+      "pattern": "〜最中に",
+      "patternReading": "〜さいちゅうに",
+      "meaning": "~하는 한창 중에",
+      "jlpt": "N3",
+      "category": "시점",
+      "order": 123,
+      "explanation": {
+        "summary": "행동의 절정기를 나타냄",
+        "detail": "동사ている/명사の+最中に. 진행 중의 핵심 시점",
+        "koreanComparison": "한국어 '~하는 한창 중에', '~하던 중에'에 해당",
+        "commonMistakes": ["ところに보다 진행 강조", "방해가 들어오는 상황에 자주 사용"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사ている+最中に", "meaning": "食べている最中に"},
+        "noun": {"form": "명사の+最中に", "meaning": "会議の最中に"}
+      },
+      "examples": [
+        {"ja": "会議の最中に、電話が鳴った。", "reading": "かいぎのさいちゅうに、でんわがなった。", "ko": "회의 한창 중에 전화가 울렸다.", "audio": null},
+        {"ja": "食事をしている最中に、客が来た。", "reading": "しょくじをしているさいちゅうに、きゃくがきた。", "ko": "식사하는 한창 중에 손님이 왔다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "授業の＿＿＿＿、地震が起きた。", "options": ["最中に", "うちに", "ところに", "間に"], "answer": "最中に", "explanation": "진행 절정이므로 最中に가 적절합니다."}],
+      "relatedGrammar": ["n3_124"],
+      "relatedKanji": ["最中", "会議"],
+      "tags": ["시점", "진행", "절정"]
+    },
+    {
+      "id": "n3_124",
+      "pattern": "〜うちに",
+      "patternReading": "〜うちに",
+      "meaning": "~하는 동안에, ~할 때",
+      "jlpt": "N3",
+      "category": "시점/기간",
+      "order": 124,
+      "explanation": {
+        "summary": "상태가 유지되는 동안을 나타냄",
+        "detail": "동사기본형/ている/ない형/형용사+うちに. 기회의 창",
+        "koreanComparison": "한국어 '~하는 동안에', '~할 때'에 해당",
+        "commonMistakes": ["좋은 기회가 지나가기 전에", "상태 변화 전에 행동"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사기본형/ている+うちに", "meaning": "明るいうちに"},
+        "negative": {"form": "동사ない형+うちに", "meaning": "忘れないうちに"},
+        "adj": {"form": "형용사+うちに", "meaning": "若いうちに"}
+      },
+      "examples": [
+        {"ja": "明るいうちに、帰ろう。", "reading": "あかるいうちに、かえろう。", "ko": "밝을 때 돌아가자.", "audio": null},
+        {"ja": "忘れないうちに、メモしておく。", "reading": "わすれないうちに、メモしておく。", "ko": "잊기 전에 메모해 둔다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "熱い＿＿＿食べてください。", "options": ["うちに", "間に", "最中に", "ところに"], "answer": "うちに", "explanation": "상태 유지 동안이므로 うちに가 적절합니다."}],
+      "relatedGrammar": ["n3_123", "n3_125"],
+      "relatedKanji": ["明", "忘"],
+      "tags": ["기간", "기회", "시점"]
+    },
+    {
+      "id": "n3_125",
+      "pattern": "〜ているうちに",
+      "patternReading": "〜ているうちに",
+      "meaning": "~하는 사이에",
+      "jlpt": "N3",
+      "category": "시점/변화",
+      "order": 125,
+      "explanation": {
+        "summary": "행동 중 자연스러운 변화를 나타냄",
+        "detail": "동사ている+うちに. 행동 중에 일어난 변화",
+        "koreanComparison": "한국어 '~하는 사이에', '~하다 보니'에 해당",
+        "commonMistakes": ["의도치 않은 변화", "자연스럽게 일어남"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사ている+うちに", "meaning": "話しているうちに"}
+      },
+      "examples": [
+        {"ja": "話しているうちに、仲良くなった。", "reading": "はなしているうちに、なかよくなった。", "ko": "이야기하는 사이에 친해졌다.", "audio": null},
+        {"ja": "歩いているうちに、道に迷った。", "reading": "あるいているうちに、みちにまよった。", "ko": "걷는 사이에 길을 잃었다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "勉強している＿＿＿、眠くなった。", "options": ["うちに", "間に", "ところに", "最中に"], "answer": "うちに", "explanation": "자연스러운 변화이므로 うちに가 적절합니다."}],
+      "relatedGrammar": ["n3_124"],
+      "relatedKanji": ["話", "歩"],
+      "tags": ["변화", "자연", "시점"]
+    },
+    {
+      "id": "n3_126",
+      "pattern": "〜たとたん（に）",
+      "patternReading": "〜たとたん（に）",
+      "meaning": "~하자마자",
+      "jlpt": "N3",
+      "category": "즉시",
+      "order": 126,
+      "explanation": {
+        "summary": "직후의 예상치 못한 일을 나타냄",
+        "detail": "동사た형+とたん(に). 직후에 갑자기 일어남",
+        "koreanComparison": "한국어 '~하자마자', '~하는 순간'에 해당",
+        "commonMistakes": ["예상 밖의 일에 사용", "의도적 행동에는 부적합"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사た형+とたん(に)", "meaning": "立ったとたんに"}
+      },
+      "examples": [
+        {"ja": "立ったとたんに、めまいがした。", "reading": "たったとたんに、めまいがした。", "ko": "일어서자마자 현기증이 났다.", "audio": null},
+        {"ja": "外に出たとたん、雨が降り出した。", "reading": "そとにでたとたん、あめがふりだした。", "ko": "밖에 나가자마자 비가 내리기 시작했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "電話を切った＿＿＿＿、また鳴った。", "options": ["とたんに", "次第に", "ついでに", "がてら"], "answer": "とたんに", "explanation": "직후 예상밖이므로 とたんに가 적절합니다."}],
+      "relatedGrammar": ["n3_127"],
+      "relatedKanji": ["立", "外"],
+      "tags": ["즉시", "갑자기", "예상밖"]
+    },
+    {
+      "id": "n3_127",
+      "pattern": "〜か〜ないかのうちに",
+      "patternReading": "〜か〜ないかのうちに",
+      "meaning": "~하자마자, ~할까 말까 할 때",
+      "jlpt": "N3",
+      "category": "즉시",
+      "order": 127,
+      "explanation": {
+        "summary": "거의 동시에 일어남을 나타냄",
+        "detail": "동사た형+か+동사ない형+かのうちに. 극히 짧은 시간",
+        "koreanComparison": "한국어 '~하자마자', '~할까 말까 할 때'에 해당",
+        "commonMistakes": ["とたん보다 더 빠른 느낌", "거의 동시"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사た형+か+동사ない형+かのうちに", "meaning": "着いたか着かないかのうちに"}
+      },
+      "examples": [
+        {"ja": "ベルが鳴ったか鳴らないかのうちに、飛び出した。", "reading": "ベルがなったかならないかのうちに、とびだした。", "ko": "벨이 울리자마자 뛰쳐나갔다.", "audio": null},
+        {"ja": "座ったか座らないかのうちに、また呼ばれた。", "reading": "すわったかすわらないかのうちに、またよばれた。", "ko": "앉자마자 다시 불렸다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "帰った＿＿帰らない＿＿のうちに、電話が来た。", "options": ["か...か", "と...と", "ば...ば", "たら...たら"], "answer": "か...か", "explanation": "동시성이므로 か〜かのうちに가 적절합니다."}],
+      "relatedGrammar": ["n3_126"],
+      "relatedKanji": ["鳴", "座"],
+      "tags": ["동시", "즉시", "빠름"]
+    },
+    {
+      "id": "n3_128",
+      "pattern": "〜てからでないと／でなければ",
+      "patternReading": "〜てからでないと／でなければ",
+      "meaning": "~하고 나서가 아니면",
+      "jlpt": "N3",
+      "category": "조건/순서",
+      "order": 128,
+      "explanation": {
+        "summary": "선행 조건 필수를 나타냄",
+        "detail": "동사て형+からでないと/でなければ. 먼저 해야 함",
+        "koreanComparison": "한국어 '~하고 나서가 아니면', '~한 후에야'에 해당",
+        "commonMistakes": ["순서가 필수임을 강조", "뒤에 부정적 결과"]
+      },
+      "conjugation": {
+        "negative": {"form": "동사て형+からでないと", "meaning": "食べてからでないと"},
+        "conditional": {"form": "동사て형+からでなければ", "meaning": "確認してからでなければ"}
+      },
+      "examples": [
+        {"ja": "薬を飲んでからでないと、運転できない。", "reading": "くすりをのんでからでないと、うんてんできない。", "ko": "약을 먹고 나서가 아니면 운전할 수 없다.", "audio": null},
+        {"ja": "確認してからでなければ、答えられない。", "reading": "かくにんしてからでなければ、こたえられない。", "ko": "확인하고 나서가 아니면 대답할 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "予約して＿＿＿＿＿、入れません。", "options": ["からでないと", "てから", "てからは", "たあとで"], "answer": "からでないと", "explanation": "선행 필수이므로 からでないと가 적절합니다."}],
+      "relatedGrammar": ["n3_129"],
+      "relatedKanji": ["薬", "確認"],
+      "tags": ["조건", "순서", "필수"]
+    },
+    {
+      "id": "n3_129",
+      "pattern": "〜てはじめて",
+      "patternReading": "〜てはじめて",
+      "meaning": "~하고 나서야 비로소",
+      "jlpt": "N3",
+      "category": "계기/깨달음",
+      "order": 129,
+      "explanation": {
+        "summary": "경험 후 깨달음을 나타냄",
+        "detail": "동사て형+はじめて. 그 경험이 없으면 몰랐을 것",
+        "koreanComparison": "한국어 '~하고 나서야', '비로소'에 해당",
+        "commonMistakes": ["깨달음・이해가 따라옴", "경험의 중요성 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사て형+はじめて", "meaning": "失ってはじめて"}
+      },
+      "examples": [
+        {"ja": "失ってはじめて、大切さがわかった。", "reading": "うしなってはじめて、たいせつさがわかった。", "ko": "잃고 나서야 비로소 소중함을 알았다.", "audio": null},
+        {"ja": "親になってはじめて、親のありがたさを知った。", "reading": "おやになってはじめて、おやのありがたさをしった。", "ko": "부모가 되어서야 비로소 부모의 고마움을 알았다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "日本に来て＿＿＿、日本の良さがわかった。", "options": ["はじめて", "からこそ", "だけに", "ばかりに"], "answer": "はじめて", "explanation": "경험 후 깨달음이므로 はじめて가 적절합니다."}],
+      "relatedGrammar": ["n3_128"],
+      "relatedKanji": ["失", "親"],
+      "tags": ["계기", "깨달음", "경험"]
+    },
+    {
+      "id": "n3_130",
+      "pattern": "〜からこそ",
+      "patternReading": "〜からこそ",
+      "meaning": "~이기 때문에야말로",
+      "jlpt": "N3",
+      "category": "이유/강조",
+      "order": 130,
+      "explanation": {
+        "summary": "이유를 강조함",
+        "detail": "동사普通形/명사だ+からこそ. 바로 그 이유 때문에",
+        "koreanComparison": "한국어 '~이기 때문에야말로', '바로 ~이기에'에 해당",
+        "commonMistakes": ["긍정적 이유 강조에 자주 사용", "から보다 강조"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+からこそ", "meaning": "好きだからこそ"},
+        "noun": {"form": "명사だ+からこそ", "meaning": "友達だからこそ"}
+      },
+      "examples": [
+        {"ja": "あなたを愛しているからこそ、厳しく言うのだ。", "reading": "あなたをあいしているからこそ、きびしくいうのだ。", "ko": "당신을 사랑하기 때문에야말로 엄하게 말하는 거야.", "audio": null},
+        {"ja": "親友だからこそ、本音で話せる。", "reading": "しんゆうだからこそ、ほんねではなせる。", "ko": "절친이기 때문에야말로 진심으로 이야기할 수 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "若い＿＿＿＿、挑戦できるのだ。", "options": ["からこそ", "から", "ので", "ために"], "answer": "からこそ", "explanation": "이유 강조이므로 からこそ가 적절합니다."}],
+      "relatedGrammar": ["n3_129"],
+      "relatedKanji": ["愛", "親友"],
+      "tags": ["이유", "강조", "긍정"]
+    },
+    {
+      "id": "n3_131",
+      "pattern": "〜ばかりに",
+      "patternReading": "〜ばかりに",
+      "meaning": "~한 탓에, ~했기 때문에",
+      "jlpt": "N3",
+      "category": "이유/후회",
+      "order": 131,
+      "explanation": {
+        "summary": "후회스러운 이유를 나타냄",
+        "detail": "동사た형/형용사+ばかりに. 그것 때문에 나쁜 결과",
+        "koreanComparison": "한국어 '~한 탓에', '~했기 때문에'에 해당",
+        "commonMistakes": ["부정적 결과에만 사용", "후회 뉘앙스 강함"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사た형+ばかりに", "meaning": "油断したばかりに"},
+        "adj": {"form": "형용사+ばかりに", "meaning": "若いばかりに"}
+      },
+      "examples": [
+        {"ja": "油断したばかりに、事故に遭った。", "reading": "ゆだんしたばかりに、じこにあった。", "ko": "방심한 탓에 사고를 당했다.", "audio": null},
+        {"ja": "お金がないばかりに、進学できなかった。", "reading": "おかねがないばかりに、しんがくできなかった。", "ko": "돈이 없는 탓에 진학하지 못했다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "嘘をついた＿＿＿＿、信用を失った。", "options": ["ばかりに", "からこそ", "だけに", "ために"], "answer": "ばかりに", "explanation": "후회스러운 이유이므로 ばかりに가 적절합니다."}],
+      "relatedGrammar": ["n3_130", "n3_132"],
+      "relatedKanji": ["油断", "事故"],
+      "tags": ["이유", "후회", "부정"]
+    },
+    {
+      "id": "n3_132",
+      "pattern": "〜だけに",
+      "patternReading": "〜だけに",
+      "meaning": "~인 만큼, ~이기 때문에",
+      "jlpt": "N3",
+      "category": "이유/당연",
+      "order": 132,
+      "explanation": {
+        "summary": "당연한 이유를 나타냄",
+        "detail": "동사普通形/명사な+だけに. 그만큼 당연한 결과",
+        "koreanComparison": "한국어 '~인 만큼', '~답게'에 해당",
+        "commonMistakes": ["ばかりに와 달리 긍정・부정 모두 가능", "기대에 부합"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+だけに", "meaning": "期待していただけに"},
+        "noun": {"form": "명사(な)+だけに", "meaning": "プロだけに"}
+      },
+      "examples": [
+        {"ja": "期待していただけに、失望も大きかった。", "reading": "きたいしていただけに、しつぼうもおおきかった。", "ko": "기대했던 만큼 실망도 컸다.", "audio": null},
+        {"ja": "プロだけに、さすがに上手だ。", "reading": "プロだけに、さすがにじょうずだ。", "ko": "프로인 만큼 역시 잘한다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "有名＿＿＿＿、人が多い。", "options": ["なだけに", "なばかりに", "からこそ", "ために"], "answer": "なだけに", "explanation": "당연한 이유이므로 だけに가 적절합니다."}],
+      "relatedGrammar": ["n3_131"],
+      "relatedKanji": ["期待", "失望"],
+      "tags": ["이유", "당연", "정도"]
+    },
+    {
+      "id": "n3_133",
+      "pattern": "〜だけあって",
+      "patternReading": "〜だけあって",
+      "meaning": "~인 만큼, ~답게",
+      "jlpt": "N3",
+      "category": "평가/칭찬",
+      "order": 133,
+      "explanation": {
+        "summary": "기대에 걸맞음을 나타냄",
+        "detail": "동사普通形/명사(な)+だけあって. 명성에 걸맞은 실력",
+        "koreanComparison": "한국어 '~인 만큼', '~답게'에 해당",
+        "commonMistakes": ["だけに보다 칭찬 뉘앙스 강함", "긍정적 평가"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+だけあって", "meaning": "鍛えているだけあって"},
+        "noun": {"form": "명사(な)+だけあって", "meaning": "一流だけあって"}
+      },
+      "examples": [
+        {"ja": "一流のシェフだけあって、料理がおいしい。", "reading": "いちりゅうのシェフだけあって、りょうりがおいしい。", "ko": "일류 셰프답게 요리가 맛있다.", "audio": null},
+        {"ja": "毎日練習しているだけあって、上達が早い。", "reading": "まいにちれんしゅうしているだけあって、じょうたつがはやい。", "ko": "매일 연습하는 만큼 실력 향상이 빠르다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "ベテラン＿＿＿＿、対応が丁寧だ。", "options": ["だけあって", "だけに", "ばかりに", "からこそ"], "answer": "だけあって", "explanation": "기대에 부합이므로 だけあって가 적절합니다."}],
+      "relatedGrammar": ["n3_132"],
+      "relatedKanji": ["一流", "練習"],
+      "tags": ["평가", "칭찬", "기대"]
+    },
+    {
+      "id": "n3_134",
+      "pattern": "〜だけのことはある",
+      "patternReading": "〜だけのことはある",
+      "meaning": "~할 만한 가치가 있다, ~다운 면이 있다",
+      "jlpt": "N3",
+      "category": "평가/인정",
+      "order": 134,
+      "explanation": {
+        "summary": "그만한 가치가 있음을 인정",
+        "detail": "동사た형/명사(な)+だけのことはある. 충분한 이유 있음",
+        "koreanComparison": "한국어 '~할 만하다', '~다운 데가 있다'에 해당",
+        "commonMistakes": ["だけあって와 유사하지만 더 강조", "인정・납득의 뉘앙스"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사た형+だけのことはある", "meaning": "努力しただけのことはある"},
+        "noun": {"form": "명사(な)+だけのことはある", "meaning": "人気があるだけのことはある"}
+      },
+      "examples": [
+        {"ja": "人気があるだけのことはある。", "reading": "にんきがあるだけのことはある。", "ko": "인기가 있을 만하다.", "audio": null},
+        {"ja": "高いだけのことはある。品質がいい。", "reading": "たかいだけのことはある。ひんしつがいい。", "ko": "비싼 만큼의 가치가 있다. 품질이 좋다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "有名な店＿＿＿＿＿。おいしかった。", "options": ["だけのことはある", "だけあって", "ばかりに", "からこそ"], "answer": "だけのことはある", "explanation": "가치 인정이므로 だけのことはある가 적절합니다."}],
+      "relatedGrammar": ["n3_133"],
+      "relatedKanji": ["人気", "品質"],
+      "tags": ["평가", "인정", "가치"]
+    },
+    {
+      "id": "n3_135",
+      "pattern": "〜わけがない／わけはない",
+      "patternReading": "〜わけがない／わけはない",
+      "meaning": "~할 리가 없다",
+      "jlpt": "N3",
+      "category": "부정/판단",
+      "order": 135,
+      "explanation": {
+        "summary": "논리적 불가능을 나타냄",
+        "detail": "동사普通形+わけがない. 상식적으로 있을 수 없음",
+        "koreanComparison": "한국어 '~할 리가 없다', '~일 리 없다'에 해당",
+        "commonMistakes": ["はずがない보다 논리적", "화자의 확신"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+わけがない", "meaning": "知るわけがない"},
+        "adj": {"form": "형용사+わけがない", "meaning": "安いわけがない"}
+      },
+      "examples": [
+        {"ja": "彼がそんなことを知るわけがない。", "reading": "かれがそんなことをしるわけがない。", "ko": "그가 그런 것을 알 리가 없다.", "audio": null},
+        {"ja": "こんな高級品が安いわけがない。", "reading": "こんなこうきゅうひんがやすいわけがない。", "ko": "이런 고급품이 쌀 리가 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "初心者がすぐに上達する＿＿＿＿。", "options": ["わけがない", "はずがない", "ことはない", "ものか"], "answer": "わけがない", "explanation": "논리적 불가이므로 わけがない가 적절합니다."}],
+      "relatedGrammar": ["n3_136"],
+      "relatedKanji": ["知", "高級"],
+      "tags": ["부정", "논리", "판단"]
+    },
+    {
+      "id": "n3_136",
+      "pattern": "〜わけにはいかない",
+      "patternReading": "〜わけにはいかない",
+      "meaning": "~할 수 없다 (사정상)",
+      "jlpt": "N3",
+      "category": "불가/사정",
+      "order": 136,
+      "explanation": {
+        "summary": "사회적・도덕적으로 할 수 없음",
+        "detail": "동사기본형+わけにはいかない. 허락되지 않는 상황",
+        "koreanComparison": "한국어 '~할 수 없다', '~하면 안 된다'에 해당",
+        "commonMistakes": ["능력이 아닌 사정", "ないわけにはいかない와 구별"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사기본형+わけにはいかない", "meaning": "休むわけにはいかない"}
+      },
+      "examples": [
+        {"ja": "約束がある以上、休むわけにはいかない。", "reading": "やくそくがあるいじょう、やすむわけにはいかない。", "ko": "약속이 있는 이상, 쉴 수 없다.", "audio": null},
+        {"ja": "秘密だから、言うわけにはいかない。", "reading": "ひみつだから、いうわけにはいかない。", "ko": "비밀이라서 말할 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "お世話になった人に、失礼する＿＿＿＿。", "options": ["わけにはいかない", "わけがない", "ことはない", "はずがない"], "answer": "わけにはいかない", "explanation": "사정상 불가이므로 わけにはいかない가 적절합니다."}],
+      "relatedGrammar": ["n3_135", "n3_137"],
+      "relatedKanji": ["約束", "秘密"],
+      "tags": ["불가", "사정", "도덕"]
+    },
+    {
+      "id": "n3_137",
+      "pattern": "〜ないわけにはいかない",
+      "patternReading": "〜ないわけにはいかない",
+      "meaning": "~하지 않을 수 없다",
+      "jlpt": "N3",
+      "category": "의무/필연",
+      "order": 137,
+      "explanation": {
+        "summary": "반드시 해야 함을 나타냄",
+        "detail": "동사ない형+わけにはいかない. 안 하면 안 되는 상황",
+        "koreanComparison": "한국어 '~하지 않을 수 없다', '~해야 한다'에 해당",
+        "commonMistakes": ["이중 부정으로 강한 긍정", "의무감 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사ない형(ない→)+ないわけにはいかない", "meaning": "行かないわけにはいかない"}
+      },
+      "examples": [
+        {"ja": "招待されたので、行かないわけにはいかない。", "reading": "しょうたいされたので、いかないわけにはいかない。", "ko": "초대받았으니 가지 않을 수 없다.", "audio": null},
+        {"ja": "頼まれたら、手伝わないわけにはいかない。", "reading": "たのまれたら、てつだわないわけにはいかない。", "ko": "부탁받으면 도와주지 않을 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "上司の命令なら、従わ＿＿＿＿＿。", "options": ["ないわけにはいかない", "ないわけがない", "なければならない", "ないことはない"], "answer": "ないわけにはいかない", "explanation": "필연적 의무이므로 ないわけにはいかない가 적절합니다."}],
+      "relatedGrammar": ["n3_136"],
+      "relatedKanji": ["招待", "手伝"],
+      "tags": ["의무", "필연", "강조"]
+    },
+    {
+      "id": "n3_138",
+      "pattern": "〜わけではない",
+      "patternReading": "〜わけではない",
+      "meaning": "~인 것은 아니다",
+      "jlpt": "N3",
+      "category": "부분부정",
+      "order": 138,
+      "explanation": {
+        "summary": "부분적 부정을 나타냄",
+        "detail": "동사普通形+わけではない. 전적으로 그런 것은 아님",
+        "koreanComparison": "한국어 '~인 것은 아니다', '꼭 ~는 아니다'에 해당",
+        "commonMistakes": ["완전 부정이 아닌 부분 부정", "예외・뉘앙스 제시"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+わけではない", "meaning": "嫌いなわけではない"},
+        "adj": {"form": "형용사+わけではない", "meaning": "高いわけではない"}
+      },
+      "examples": [
+        {"ja": "嫌いなわけではないが、苦手だ。", "reading": "きらいなわけではないが、にがてだ。", "ko": "싫은 것은 아니지만 잘 못한다.", "audio": null},
+        {"ja": "全員が賛成したわけではない。", "reading": "ぜんいんがさんせいしたわけではない。", "ko": "전원이 찬성한 것은 아니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "忙しくない＿＿＿＿が、今日は無理だ。", "options": ["わけではない", "わけがない", "ことはない", "はずがない"], "answer": "わけではない", "explanation": "부분 부정이므로 わけではない가 적절합니다."}],
+      "relatedGrammar": ["n3_135"],
+      "relatedKanji": ["嫌", "全員"],
+      "tags": ["부분부정", "뉘앙스", "예외"]
+    },
+    {
+      "id": "n3_139",
+      "pattern": "〜というわけではない",
+      "patternReading": "〜というわけではない",
+      "meaning": "~라는 것은 아니다",
+      "jlpt": "N3",
+      "category": "부정/설명",
+      "order": 139,
+      "explanation": {
+        "summary": "오해를 정정하는 부정",
+        "detail": "문장+というわけではない. 그렇게 말하는 것은 아님",
+        "koreanComparison": "한국어 '~라는 것은 아니다', '~라고 하는 건 아니다'에 해당",
+        "commonMistakes": ["오해 방지에 사용", "わけではない보다 명확한 정정"]
+      },
+      "conjugation": {
+        "basic": {"form": "문장+というわけではない", "meaning": "反対だというわけではない"}
+      },
+      "examples": [
+        {"ja": "反対だというわけではないが、もう少し考えたい。", "reading": "はんたいだというわけではないが、もうすこしかんがえたい。", "ko": "반대라는 것은 아니지만 좀 더 생각해보고 싶다.", "audio": null},
+        {"ja": "暇だというわけではないが、手伝ってあげる。", "reading": "ひまだというわけではないが、てつだってあげる。", "ko": "한가하다는 건 아니지만 도와줄게.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "嫌い＿＿＿＿＿が、今日は食べたくない。", "options": ["だというわけではない", "なわけではない", "なわけがない", "ということはない"], "answer": "だというわけではない", "explanation": "정정의 부정이므로 というわけではない가 적절합니다."}],
+      "relatedGrammar": ["n3_138"],
+      "relatedKanji": ["反対", "暇"],
+      "tags": ["부정", "정정", "설명"]
+    },
+    {
+      "id": "n3_140",
+      "pattern": "〜としても",
+      "patternReading": "〜としても",
+      "meaning": "~라고 해도",
+      "jlpt": "N3",
+      "category": "양보/가정",
+      "order": 140,
+      "explanation": {
+        "summary": "가정적 양보를 나타냄",
+        "detail": "동사た형/명사だ+としても. 설령 그래도",
+        "koreanComparison": "한국어 '~라고 해도', '설령 ~해도'에 해당",
+        "commonMistakes": ["ても보다 가정적", "미래의 가능성"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사た형+としても", "meaning": "失敗したとしても"},
+        "noun": {"form": "명사だ+としても", "meaning": "本当だとしても"}
+      },
+      "examples": [
+        {"ja": "失敗したとしても、後悔しない。", "reading": "しっぱいしたとしても、こうかいしない。", "ko": "실패한다고 해도 후회하지 않는다.", "audio": null},
+        {"ja": "本当だとしても、信じられない。", "reading": "ほんとうだとしても、しんじられない。", "ko": "사실이라고 해도 믿을 수 없다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "彼が来た＿＿＿＿、何も変わらない。", "options": ["としても", "ても", "のに", "ながら"], "answer": "としても", "explanation": "가정적 양보이므로 としても가 적절합니다."}],
+      "relatedGrammar": ["n3_141"],
+      "relatedKanji": ["失敗", "後悔"],
+      "tags": ["양보", "가정", "설령"]
+    },
+    {
+      "id": "n3_141",
+      "pattern": "〜にしても",
+      "patternReading": "〜にしても",
+      "meaning": "~라고 해도, 어쨌든",
+      "jlpt": "N3",
+      "category": "양보/인정",
+      "order": 141,
+      "explanation": {
+        "summary": "인정하면서 덧붙임",
+        "detail": "동사普通形/명사+にしても. 그 점을 인정해도",
+        "koreanComparison": "한국어 '~라고 해도', '설사 ~라도'에 해당",
+        "commonMistakes": ["としても와 유사", "사실 인정 뉘앙스"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+にしても", "meaning": "忙しいにしても"},
+        "noun": {"form": "명사+にしても", "meaning": "子供にしても"}
+      },
+      "examples": [
+        {"ja": "忙しいにしても、連絡ぐらいはできるだろう。", "reading": "いそがしいにしても、れんらくぐらいはできるだろう。", "ko": "바쁘다고 해도 연락 정도는 할 수 있을 거다.", "audio": null},
+        {"ja": "冗談にしても、ひどすぎる。", "reading": "じょうだんにしても、ひどすぎる。", "ko": "농담이라고 해도 너무 심하다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "安い＿＿＿＿、品質は大事だ。", "options": ["にしても", "としても", "ても", "ながら"], "answer": "にしても", "explanation": "인정 양보이므로 にしても가 적절합니다."}],
+      "relatedGrammar": ["n3_140"],
+      "relatedKanji": ["忙", "冗談"],
+      "tags": ["양보", "인정", "덧붙임"]
+    },
+    {
+      "id": "n3_142",
+      "pattern": "〜にしろ／にせよ",
+      "patternReading": "〜にしろ／にせよ",
+      "meaning": "~든 간에, ~라 해도",
+      "jlpt": "N3",
+      "category": "양보/무관",
+      "order": 142,
+      "explanation": {
+        "summary": "어떤 경우든 상관없음",
+        "detail": "동사普通形/명사+にしろ/にせよ. 어떻든 결론은 같음",
+        "koreanComparison": "한국어 '~든 간에', '~라 해도'에 해당",
+        "commonMistakes": ["にしろ=구어", "にせよ=문어"]
+      },
+      "conjugation": {
+        "casual": {"form": "동사普通形+にしろ", "meaning": "行くにしろ"},
+        "formal": {"form": "동사普通形+にせよ", "meaning": "行くにせよ"}
+      },
+      "examples": [
+        {"ja": "行くにしろ行かないにしろ、返事をください。", "reading": "いくにしろいかないにしろ、へんじをください。", "ko": "가든 안 가든 대답해 주세요.", "audio": null},
+        {"ja": "どんな理由にせよ、遅刻は許されない。", "reading": "どんなりゆうにせよ、ちこくはゆるされない。", "ko": "어떤 이유든 간에 지각은 용납되지 않는다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "賛成＿＿＿反対＿＿＿、理由を述べてください。", "options": ["にしろ...にしろ", "でも...でも", "か...か", "と...と"], "answer": "にしろ...にしろ", "explanation": "어느 쪽이든이므로 にしろ가 적절합니다."}],
+      "relatedGrammar": ["n3_141"],
+      "relatedKanji": ["行", "理由"],
+      "tags": ["양보", "선택", "무관"]
+    },
+    {
+      "id": "n3_143",
+      "pattern": "〜はともかく（として）",
+      "patternReading": "〜はともかく（として）",
+      "meaning": "~는 제쳐두고",
+      "jlpt": "N3",
+      "category": "제외/보류",
+      "order": 143,
+      "explanation": {
+        "summary": "우선 제외하고 다른 것에 집중",
+        "detail": "명사+はともかく(として). 그건 나중에 생각",
+        "koreanComparison": "한국어 '~는 제쳐두고', '~는 그렇다 치고'에 해당",
+        "commonMistakes": ["중요하지 않은 것 보류", "본론으로 이동"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+はともかく", "meaning": "値段はともかく"},
+        "formal": {"form": "명사+はともかくとして", "meaning": "値段はともかくとして"}
+      },
+      "examples": [
+        {"ja": "味はともかく、見た目はきれいだ。", "reading": "あじはともかく、みためはきれいだ。", "ko": "맛은 제쳐두고 외관은 예쁘다.", "audio": null},
+        {"ja": "結果はともかくとして、努力は認める。", "reading": "けっかはともかくとして、どりょくはみとめる。", "ko": "결과는 제쳐두고 노력은 인정한다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "値段＿＿＿＿、品質で選びたい。", "options": ["はともかく", "はもちろん", "にしても", "としても"], "answer": "はともかく", "explanation": "제외이므로 はともかく가 적절합니다."}],
+      "relatedGrammar": ["n3_144"],
+      "relatedKanji": ["味", "結果"],
+      "tags": ["제외", "보류", "본론"]
+    },
+    {
+      "id": "n3_144",
+      "pattern": "〜はもちろん／はもとより",
+      "patternReading": "〜はもちろん／はもとより",
+      "meaning": "~은 물론",
+      "jlpt": "N3",
+      "category": "추가/포함",
+      "order": 144,
+      "explanation": {
+        "summary": "당연한 것을 포함하여 추가",
+        "detail": "명사+はもちろん/はもとより. A는 물론 B도",
+        "koreanComparison": "한국어 '~은 물론', '~은 말할 것도 없고'에 해당",
+        "commonMistakes": ["はもとより가 더 격식적", "추가 강조"]
+      },
+      "conjugation": {
+        "casual": {"form": "명사+はもちろん", "meaning": "日本語はもちろん"},
+        "formal": {"form": "명사+はもとより", "meaning": "日本語はもとより"}
+      },
+      "examples": [
+        {"ja": "日本語はもちろん、中国語も話せる。", "reading": "にほんごはもちろん、ちゅうごくごもはなせる。", "ko": "일본어는 물론 중국어도 할 수 있다.", "audio": null},
+        {"ja": "大人はもとより、子供にも人気がある。", "reading": "おとなはもとより、こどもにもにんきがある。", "ko": "어른은 물론 아이들에게도 인기가 있다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "英語＿＿＿＿、フランス語も勉強している。", "options": ["はもちろん", "はともかく", "にしても", "としても"], "answer": "はもちろん", "explanation": "당연 포함이므로 はもちろん이 적절합니다."}],
+      "relatedGrammar": ["n3_143"],
+      "relatedKanji": ["日本語", "人気"],
+      "tags": ["추가", "포함", "당연"]
+    },
+    {
+      "id": "n3_145",
+      "pattern": "〜を問わず",
+      "patternReading": "〜をとわず",
+      "meaning": "~을 불문하고",
+      "jlpt": "N3",
+      "category": "무관/범위",
+      "order": 145,
+      "explanation": {
+        "summary": "조건에 상관없음을 나타냄",
+        "detail": "명사+を問わず. ~에 관계없이 모두",
+        "koreanComparison": "한국어 '~을 불문하고', '~에 상관없이'에 해당",
+        "commonMistakes": ["공식적・문어적 표현", "광고・공고문에 자주 사용"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+を問わず", "meaning": "性別を問わず"}
+      },
+      "examples": [
+        {"ja": "経験を問わず、誰でも応募できます。", "reading": "けいけんをとわず、だれでもおうぼできます。", "ko": "경험을 불문하고 누구나 지원할 수 있습니다.", "audio": null},
+        {"ja": "年齢・性別を問わず歓迎します。", "reading": "ねんれい・せいべつをとわずかんげいします。", "ko": "나이・성별을 불문하고 환영합니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "国籍＿＿＿＿、参加できます。", "options": ["を問わず", "にかかわらず", "によらず", "を除いて"], "answer": "を問わず", "explanation": "무관이므로 を問わず가 적절합니다."}],
+      "relatedGrammar": ["n3_146"],
+      "relatedKanji": ["経験", "性別"],
+      "tags": ["무관", "범위", "공식"]
+    },
+    {
+      "id": "n3_146",
+      "pattern": "〜にかかわらず／にかかわりなく",
+      "patternReading": "〜にかかわらず／にかかわりなく",
+      "meaning": "~에 관계없이",
+      "jlpt": "N3",
+      "category": "무관/범위",
+      "order": 146,
+      "explanation": {
+        "summary": "조건과 무관함을 나타냄",
+        "detail": "명사+にかかわらず. ~와 상관없이",
+        "koreanComparison": "한국어 '~에 관계없이', '~와 상관없이'에 해당",
+        "commonMistakes": ["を問わず와 유사", "긍정・부정 모두 가능"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+にかかわらず", "meaning": "天候にかかわらず"},
+        "alt": {"form": "명사+にかかわりなく", "meaning": "経験にかかわりなく"}
+      },
+      "examples": [
+        {"ja": "天候にかかわらず、試合は行われます。", "reading": "てんこうにかかわらず、しあいはおこなわれます。", "ko": "날씨에 관계없이 시합은 진행됩니다.", "audio": null},
+        {"ja": "結果にかかわらず、感謝しています。", "reading": "けっかにかかわらず、かんしゃしています。", "ko": "결과에 관계없이 감사하고 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "成功する＿＿＿＿しない＿＿＿＿、やってみよう。", "options": ["にかかわらず", "を問わず", "によらず", "にしろ"], "answer": "にかかわらず", "explanation": "무관이므로 にかかわらず가 적절합니다."}],
+      "relatedGrammar": ["n3_145"],
+      "relatedKanji": ["天候", "結果"],
+      "tags": ["무관", "범위", "조건"]
+    },
+    {
+      "id": "n3_147",
+      "pattern": "〜上（で）",
+      "patternReading": "〜うえ（で）",
+      "meaning": "~에 있어서, ~상",
+      "jlpt": "N3",
+      "category": "관점/분야",
+      "order": 147,
+      "explanation": {
+        "summary": "특정 관점・분야에서를 나타냄",
+        "detail": "명사+上(で). 그 분야에서의 관점",
+        "koreanComparison": "한국어 '~에 있어서', '~상'에 해당",
+        "commonMistakes": ["において와 유사", "분야・측면 강조"]
+      },
+      "conjugation": {
+        "basic": {"form": "명사+上", "meaning": "仕事上"},
+        "with_で": {"form": "명사+上で", "meaning": "法律上で"}
+      },
+      "examples": [
+        {"ja": "仕事上、英語が必要です。", "reading": "しごとじょう、えいごがひつようです。", "ko": "업무상 영어가 필요합니다.", "audio": null},
+        {"ja": "法律上、問題があります。", "reading": "ほうりつじょう、もんだいがあります。", "ko": "법률상 문제가 있습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "安全＿＿、ヘルメットが必要です。", "options": ["上", "中", "下", "内"], "answer": "上", "explanation": "관점이므로 上이 적절합니다."}],
+      "relatedGrammar": ["n3_148"],
+      "relatedKanji": ["仕事", "法律"],
+      "tags": ["관점", "분야", "측면"]
+    },
+    {
+      "id": "n3_148",
+      "pattern": "〜上は",
+      "patternReading": "〜うえは",
+      "meaning": "~한 이상",
+      "jlpt": "N3",
+      "category": "조건/결심",
+      "order": 148,
+      "explanation": {
+        "summary": "이미 결정된 것에 대한 결심",
+        "detail": "동사た형+上は. 이미 그렇게 된 이상",
+        "koreanComparison": "한국어 '~한 이상', '~인 이상'에 해당",
+        "commonMistakes": ["以上と 유사", "결심・각오 뉘앙스"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사た형+上は", "meaning": "決めた上は"}
+      },
+      "examples": [
+        {"ja": "やると決めた上は、最後までやる。", "reading": "やるときめたうえは、さいごまでやる。", "ko": "하기로 결정한 이상 끝까지 한다.", "audio": null},
+        {"ja": "引き受けた上は、責任を持つ。", "reading": "ひきうけたうえは、せきにんをもつ。", "ko": "맡은 이상 책임을 진다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "始めた＿＿＿、途中でやめない。", "options": ["上は", "以上は", "からには", "ものの"], "answer": "上は", "explanation": "결정 후 결심이므로 上は가 적절합니다."}],
+      "relatedGrammar": ["n3_147"],
+      "relatedKanji": ["決", "責任"],
+      "tags": ["조건", "결심", "각오"]
+    },
+    {
+      "id": "n3_149",
+      "pattern": "〜上に",
+      "patternReading": "〜うえに",
+      "meaning": "~인 데다가",
+      "jlpt": "N3",
+      "category": "추가/누적",
+      "order": 149,
+      "explanation": {
+        "summary": "같은 방향의 것을 추가",
+        "detail": "동사普通形/형용사+上に. 더하여 또",
+        "koreanComparison": "한국어 '~인 데다가', '~뿐만 아니라'에 해당",
+        "commonMistakes": ["긍정+긍정 또는 부정+부정", "같은 방향 누적"]
+      },
+      "conjugation": {
+        "verb": {"form": "동사普通形+上に", "meaning": "遅れた上に"},
+        "adj": {"form": "형용사+上に", "meaning": "高い上に"}
+      },
+      "examples": [
+        {"ja": "雨が降った上に、風も強かった。", "reading": "あめがふったうえに、かぜもつよかった。", "ko": "비가 온 데다가 바람도 강했다.", "audio": null},
+        {"ja": "料理がおいしい上に、安い。", "reading": "りょうりがおいしいうえに、やすい。", "ko": "요리가 맛있는 데다가 싸다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "遅刻した＿＿＿、忘れ物もした。", "options": ["上に", "上は", "上で", "上の"], "answer": "上に", "explanation": "추가 누적이므로 上に가 적절합니다."}],
+      "relatedGrammar": ["n3_147", "n3_148"],
+      "relatedKanji": ["雨", "風"],
+      "tags": ["추가", "누적", "더하여"]
+    },
+    {
+      "id": "n3_150",
+      "pattern": "〜た上で",
+      "patternReading": "〜たうえで",
+      "meaning": "~한 후에, ~하고 나서",
+      "jlpt": "N3",
+      "category": "순서/선행",
+      "order": 150,
+      "explanation": {
+        "summary": "선행 동작 후를 나타냄",
+        "detail": "동사た형+上で. 그것을 하고 나서",
+        "koreanComparison": "한국어 '~한 후에', '~하고 나서'에 해당",
+        "commonMistakes": ["てから보다 격식적", "충분히 한 후에 느낌"]
+      },
+      "conjugation": {
+        "basic": {"form": "동사た형+上で", "meaning": "確認した上で"}
+      },
+      "examples": [
+        {"ja": "よく考えた上で、決めてください。", "reading": "よくかんがえたうえで、きめてください。", "ko": "잘 생각한 후에 결정해 주세요.", "audio": null},
+        {"ja": "ご相談の上、決定します。", "reading": "ごそうだんのうえ、けっていします。", "ko": "상담 후에 결정하겠습니다.", "audio": null}
+      ],
+      "practice": [{"type": "fill_blank", "question": "検討した＿＿＿、お返事します。", "options": ["上で", "上に", "上は", "上の"], "answer": "上で", "explanation": "선행 후이므로 上で가 적절합니다."}],
+      "relatedGrammar": ["n3_149"],
+      "relatedKanji": ["考", "相談"],
+      "tags": ["순서", "선행", "후에"]
+    }
+  ]
+}
