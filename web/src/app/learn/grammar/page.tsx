@@ -24,20 +24,22 @@ export default function GrammarLearnPage() {
     setTimeout(() => setAddedToReview(false), 2000);
   };
 
-  // 데이터 로드 (N5 + N4)
+  // 데이터 로드 (N5 + N4 + N3)
   useEffect(() => {
     async function loadData() {
       try {
-        const [n5Response, n4Response] = await Promise.all([
+        const [n5Response, n4Response, n3Response] = await Promise.all([
           fetch("/data/grammar_n5.json"),
-          fetch("/data/grammar_n4.json")
+          fetch("/data/grammar_n4.json"),
+          fetch("/data/grammar_n3.json")
         ]);
 
         const n5Data: GrammarData = await n5Response.json();
         const n4Data: GrammarData = await n4Response.json();
+        const n3Data: GrammarData = await n3Response.json();
 
-        // N5, N4 문법 합치기
-        const allGrammar = [...n5Data.grammar, ...n4Data.grammar];
+        // N5, N4, N3 문법 합치기
+        const allGrammar = [...n5Data.grammar, ...n4Data.grammar, ...n3Data.grammar];
         setGrammarData(allGrammar);
       } catch (error) {
         console.error("Failed to load grammar data:", error);
@@ -170,6 +172,50 @@ export default function GrammarLearnPage() {
     "전달": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
     "정의": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
     "강조": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    // N3 카테고리
+    "조건/가정": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "추측/추정": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "변화/결과": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "이유/원인": "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
+    "대비/역접": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "시점/계기": "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
+    "정도/비교": "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
+    "기타 표현": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "경향/습관": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "완료/정도": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "상태/정도": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "확인/회상": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    "부정/강조": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "충고/당위": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
+    "규칙/예정": "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
+    "습관/결심": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
+    "습관/노력": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "기회/부수": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "조건/즉시": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "조건/의존": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "시점/기간": "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
+    "시점/변화": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "조건/순서": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
+    "계기/깨달음": "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
+    "이유/강조": "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
+    "이유/후회": "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
+    "이유/당연": "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
+    "평가/칭찬": "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
+    "평가/인정": "bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-300",
+    "부정/판단": "bg-slate-100 text-slate-700 dark:bg-slate-900/30 dark:text-slate-300",
+    "불가/사정": "bg-zinc-100 text-zinc-700 dark:bg-zinc-900/30 dark:text-zinc-300",
+    "의무/필연": "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
+    "부정/설명": "bg-neutral-100 text-neutral-700 dark:bg-neutral-900/30 dark:text-neutral-300",
+    "양보/가정": "bg-teal-100 text-teal-700 dark:bg-teal-900/30 dark:text-teal-300",
+    "양보/인정": "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300",
+    "양보/무관": "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
+    "제외/보류": "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
+    "추가/포함": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
+    "무관/범위": "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
+    "관점/분야": "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
+    "조건/결심": "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
+    "추가/누적": "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
+    "순서/선행": "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
   };
 
   return (
