@@ -29,6 +29,16 @@ export default function KanjiLearnPage() {
   const [showKanjiDiff, setShowKanjiDiff] = useState(false);
   const [showKokuji, setShowKokuji] = useState(false);
   const [showHanjaBook, setShowHanjaBook] = useState(false);
+  const [selectMode, setSelectMode] = useState(false);
+  const [selectedChars, setSelectedChars] = useState<Set<string>>(new Set());
+  const toggleChar = useCallback((ch: string) => {
+    setSelectedChars((prev) => {
+      const next = new Set(prev);
+      if (next.has(ch)) next.delete(ch);
+      else next.add(ch);
+      return next;
+    });
+  }, []);
   const [showReviewTest, setShowReviewTest] = useState(false);
   const [addedToReview, setAddedToReview] = useState(false);
 
@@ -120,7 +130,13 @@ export default function KanjiLearnPage() {
     { label: "부수별", icon: "🔤", onClick: () => setShowRadicalKanji(true), gradient: "from-teal-500 to-cyan-500" },
     { label: "한·일 차이", icon: "🔄", onClick: () => setShowKanjiDiff(true), gradient: "from-blue-500 to-purple-500" },
     { label: "국자", icon: "🇯🇵", onClick: () => setShowKokuji(true), gradient: "from-orange-500 to-red-500" },
-    { label: "한자책 출력", icon: "🖨️", onClick: () => setShowHanjaBook(true), gradient: "from-slate-600 to-slate-800" },
+    {
+      label: selectMode ? `선택 모드 끄기${selectedChars.size ? ` (${selectedChars.size})` : ""}` : "한자 선택",
+      icon: selectMode ? "☑️" : "👆",
+      onClick: () => setSelectMode((v) => !v),
+      gradient: selectMode ? "from-blue-600 to-blue-800" : "from-slate-500 to-slate-700",
+    },
+    { label: selectedChars.size ? `한자책 출력 (${selectedChars.size})` : "한자책 출력", icon: "🖨️", onClick: () => setShowHanjaBook(true), gradient: "from-slate-600 to-slate-800" },
     { label: "복습 테스트", icon: "🧠", onClick: () => setShowReviewTest(true), gradient: "from-emerald-500 to-green-500" },
     {
       label: addedToReview ? "추가됨!" : `전체 복습 (${filteredKanji.length})`,
@@ -189,9 +205,37 @@ export default function KanjiLearnPage() {
                 ? `전체 ${stats.total}자`
                 : `${filteredKanji.length}자 / ${stats.total}자`}
             </div>
+            {selectMode && (
+              <div className="mb-2 mx-2 flex flex-wrap items-center gap-2 rounded-lg bg-blue-50 dark:bg-blue-900/30 px-3 py-2 text-sm text-blue-900 dark:text-blue-100">
+                <span>
+                  카드를 눌러 선택하세요 · <b>{selectedChars.size}</b>자 선택됨
+                </span>
+                <button
+                  className="px-2 py-0.5 rounded border border-blue-300 dark:border-blue-700"
+                  onClick={() => setSelectedChars(new Set(filteredKanji.map((k) => k.literal)))}
+                >
+                  현재 목록 전체 선택 ({filteredKanji.length})
+                </button>
+                <button
+                  className="px-2 py-0.5 rounded border border-blue-300 dark:border-blue-700"
+                  onClick={() => setSelectedChars(new Set())}
+                >
+                  선택 해제
+                </button>
+                <button
+                  className="px-2 py-0.5 rounded bg-blue-600 text-white disabled:opacity-40"
+                  disabled={selectedChars.size === 0}
+                  onClick={() => setShowHanjaBook(true)}
+                >
+                  선택 한자 출력
+                </button>
+              </div>
+            )}
             <KanjiGrid
               kanjiList={filteredKanji}
-              onKanjiClick={setSelectedKanji}
+              onKanjiClick={(k) => (selectMode ? toggleChar(k.literal) : setSelectedKanji(k))}
+              selectMode={selectMode}
+              selected={selectedChars}
             />
           </>
         )}
@@ -244,9 +288,9 @@ export default function KanjiLearnPage() {
 
       {showHanjaBook && (
         <HanjaBookPrintModal
-          chars={filteredKanji.map((k) => k.literal)}
+          chars={selectedChars.size > 0 ? Array.from(selectedChars) : filteredKanji.map((k) => k.literal)}
           allowInput
-          title="한자책 출력(양면) · 현재 필터 결과"
+          title={selectedChars.size > 0 ? `한자책 출력(양면) · 선택한 ${selectedChars.size}자` : "한자책 출력(양면) · 현재 필터 결과"}
           onClose={() => setShowHanjaBook(false)}
         />
       )}

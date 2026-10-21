@@ -14,6 +14,9 @@ interface KanjiDiffEntry {
 interface KanjiGridProps {
   kanjiList: Kanji[];
   onKanjiClick: (kanji: Kanji) => void;
+  /** 선택 모드: 카드를 누르면 열기 대신 선택/해제 */
+  selectMode?: boolean;
+  selected?: Set<string>;
 }
 
 // 반응형 열 수 계산
@@ -28,7 +31,7 @@ function getColumns(): number {
   return 12;
 }
 
-export function KanjiGrid({ kanjiList, onKanjiClick }: KanjiGridProps) {
+export function KanjiGrid({ kanjiList, onKanjiClick, selectMode = false, selected }: KanjiGridProps) {
   const parentRef = useRef<HTMLDivElement>(null);
   const [columns, setColumns] = useState(5);
   const [diffMap, setDiffMap] = useState<Map<string, string>>(new Map());
@@ -104,6 +107,8 @@ export function KanjiGrid({ kanjiList, onKanjiClick }: KanjiGridProps) {
                   key={kanji.unicode_hex}
                   kanji={kanji}
                   koreanTraditional={diffMap.get(kanji.literal)}
+                  selectMode={selectMode}
+                  isSelected={selected?.has(kanji.literal) ?? false}
                   onClick={() => onKanjiClick(kanji)}
                 />
               ))}
@@ -118,10 +123,12 @@ export function KanjiGrid({ kanjiList, onKanjiClick }: KanjiGridProps) {
 interface KanjiCardProps {
   kanji: Kanji;
   koreanTraditional?: string; // 한국 정자 (차이가 있는 경우)
+  selectMode?: boolean;
+  isSelected?: boolean;
   onClick: () => void;
 }
 
-function KanjiCard({ kanji, koreanTraditional, onClick }: KanjiCardProps) {
+function KanjiCard({ kanji, koreanTraditional, selectMode, isSelected, onClick }: KanjiCardProps) {
   const hasDiff = koreanTraditional && koreanTraditional !== kanji.literal;
 
   return (
@@ -135,9 +142,22 @@ function KanjiCard({ kanji, koreanTraditional, onClick }: KanjiCardProps) {
         "hover:border-blue-400 dark:hover:border-blue-500",
         "cursor-pointer transition-all",
         // 차이가 있는 경우 왼쪽에 파란 선 표시
-        hasDiff && "border-l-2 border-l-blue-500"
+        hasDiff && "border-l-2 border-l-blue-500",
+        isSelected && "ring-2 ring-blue-500 border-blue-500 bg-blue-50 dark:bg-blue-900/40"
       )}
+      aria-pressed={selectMode ? !!isSelected : undefined}
     >
+      {/* 선택 모드 체크 표시 */}
+      {selectMode && (
+        <span
+          className={clsx(
+            "absolute bottom-0.5 right-0.5 w-4 h-4 rounded-full text-[10px] leading-4 text-center font-bold",
+            isSelected ? "bg-blue-600 text-white" : "border border-gray-300 dark:border-gray-600 text-transparent"
+          )}
+        >
+          ✓
+        </span>
+      )}
       {/* JLPT 배지 */}
       <span
         className={clsx(
