@@ -14,6 +14,7 @@ import { RadicalKanjiModal } from "@/components/RadicalKanjiModal";
 import { KanjiDiffModal } from "@/components/KanjiDiffModal";
 import { KokujiModal } from "@/components/KokujiModal";
 import { HanjaBookPrintModal } from "@/components/HanjaBookPrintModal";
+import { BaejeongModal } from "@/components/BaejeongModal";
 import { ReviewTestModal } from "@/components/ReviewTestModal";
 import { loadReviewData, loadReviewDataSync, addItemsToReview } from "@/services/reviewService";
 
@@ -29,6 +30,7 @@ export default function KanjiLearnPage() {
   const [showKanjiDiff, setShowKanjiDiff] = useState(false);
   const [showKokuji, setShowKokuji] = useState(false);
   const [showHanjaBook, setShowHanjaBook] = useState(false);
+  const [showBaejeong, setShowBaejeong] = useState(false);
   const [selectMode, setSelectMode] = useState(false);
   const [selectedChars, setSelectedChars] = useState<Set<string>>(new Set());
   const toggleChar = useCallback((ch: string) => {
@@ -129,6 +131,7 @@ export default function KanjiLearnPage() {
     { label: "부수 214", icon: "🀄", onClick: () => setShowRadical(true), gradient: "from-purple-500 to-pink-500" },
     { label: "부수별", icon: "🔤", onClick: () => setShowRadicalKanji(true), gradient: "from-teal-500 to-cyan-500" },
     { label: "한·일 차이", icon: "🔄", onClick: () => setShowKanjiDiff(true), gradient: "from-blue-500 to-purple-500" },
+    { label: "배정한자", icon: "📜", onClick: () => setShowBaejeong(true), gradient: "from-emerald-500 to-teal-600" },
     { label: "국자", icon: "🇯🇵", onClick: () => setShowKokuji(true), gradient: "from-orange-500 to-red-500" },
     {
       label: selectMode ? `선택 모드 끄기${selectedChars.size ? ` (${selectedChars.size})` : ""}` : "한자 선택",
@@ -285,6 +288,8 @@ export default function KanjiLearnPage() {
           onClose={() => setShowKanjiDiff(false)}
         />
       )}
+
+      {showBaejeong && <BaejeongModal onClose={() => setShowBaejeong(false)} />}
 
       {showHanjaBook && (
         <HanjaBookPrintModal
