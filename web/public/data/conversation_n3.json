@@ -1,0 +1,171 @@
+{
+  "version": "1.0.0",
+  "totalCount": 25,
+  "conversations": [
+    {
+      "id": "conv_n3_001",
+      "title": "면접 자기소개",
+      "titleJa": "面接での自己紹介",
+      "situation": "취업 면접에서 자기소개하기",
+      "description": "일본 회사 면접에서 사용하는 격식체 자기소개",
+      "jlpt": "N3",
+      "category": "비즈니스",
+      "difficulty": 3,
+      "estimatedTime": 5,
+      "thumbnail": "💼",
+      "dialogue": [
+        {"id": 1, "speaker": "A", "speakerName": "面接官", "speakerNameReading": "めんせつかん", "ja": "では、自己紹介をお願いします。", "reading": "では、じこしょうかいをおねがいします。", "ko": "그럼, 자기소개를 부탁드립니다.", "note": ""},
+        {"id": 2, "speaker": "B", "speakerName": "キム", "speakerNameReading": "キム", "ja": "はい。キム・ミンジと申します。韓国のソウル大学を卒業いたしました。", "reading": "はい。キム・ミンジともうします。かんこくのソウルだいがくをそつぎょういたしました。", "ko": "네. 김민지라고 합니다. 한국 서울대학교를 졸업했습니다.", "note": "'いたしました'는 'しました'의 겸양어"},
+        {"id": 3, "speaker": "B", "speakerName": "キム", "speakerNameReading": "キム", "ja": "大学では経営学を専攻しておりました。", "reading": "だいがくではけいえいがくをせんこうしておりました。", "ko": "대학에서는 경영학을 전공했습니다.", "note": "'ておりました'는 'ていました'의 겸양어"},
+        {"id": 4, "speaker": "A", "speakerName": "面接官", "speakerNameReading": "めんせつかん", "ja": "なるほど。弊社を志望した理由を教えていただけますか。", "reading": "なるほど。へいしゃをしぼうしたりゆうをおしえていただけますか。", "ko": "그렇군요. 저희 회사를 지원한 이유를 알려주시겠습니까?", "note": "'いただけますか'는 정중한 의뢰 표현"},
+        {"id": 5, "speaker": "B", "speakerName": "キム", "speakerNameReading": "キム", "ja": "御社のグローバル展開に大変興味を持っております。私の語学力を活かせると考えました。", "reading": "おんしゃのグローバルてんかいにたいへんきょうみをもっております。わたしのごがくりょくをいかせるとかんがえました。", "ko": "귀사의 글로벌 전개에 매우 관심을 갖고 있습니다. 제 어학 능력을 살릴 수 있다고 생각했습니다.", "note": "'御社'는 상대 회사의 존칭"}
+      ],
+      "keyExpressions": [
+        {"ja": "〜と申します", "reading": "〜ともうします", "ko": "~라고 합니다", "usage": "겸양어로 자기 이름 소개", "formality": "매우 정중"},
+        {"ja": "〜いたしました", "reading": "〜いたしました", "ko": "~했습니다", "usage": "'しました'의 겸양어", "formality": "매우 정중"},
+        {"ja": "〜ていただけますか", "reading": "〜ていただけますか", "ko": "~해 주시겠습니까", "usage": "정중한 의뢰", "formality": "매우 정중"}
+      ],
+      "vocabulary": [
+        {"word": "面接", "reading": "めんせつ", "meaning": "면접"},
+        {"word": "卒業", "reading": "そつぎょう", "meaning": "졸업"},
+        {"word": "専攻", "reading": "せんこう", "meaning": "전공"},
+        {"word": "志望", "reading": "しぼう", "meaning": "지망, 지원"},
+        {"word": "御社", "reading": "おんしゃ", "meaning": "귀사"}
+      ],
+      "culturalNote": "일본 면접에서는 겸양어 사용이 필수입니다. '弊社(へいしゃ)'는 자기 회사, '御社(おんしゃ)'는 상대 회사를 가리킵니다.",
+      "relatedGrammar": ["〜ております", "〜いたします", "〜させていただく"],
+      "practice": {"rolePlay": {"yourRole": "지원자", "situation": "면접관에게 자기소개와 지원 동기 말하기"}, "shadowing": true}
+    },
+    {
+      "id": "conv_n3_002",
+      "title": "병원 진료",
+      "titleJa": "病院での診察",
+      "situation": "병원에서 증상 설명하기",
+      "description": "일본 병원에서 의사에게 증상을 설명하는 표현",
+      "jlpt": "N3",
+      "category": "의료",
+      "difficulty": 3,
+      "estimatedTime": 5,
+      "thumbnail": "🏥",
+      "dialogue": [
+        {"id": 1, "speaker": "A", "speakerName": "医者", "speakerNameReading": "いしゃ", "ja": "今日はどうされましたか。", "reading": "きょうはどうされましたか。", "ko": "오늘은 어떻게 오셨습니까?", "note": "'どうされましたか'는 정중한 '어떻게 되셨습니까'"},
+        {"id": 2, "speaker": "B", "speakerName": "患者", "speakerNameReading": "かんじゃ", "ja": "三日前から熱が続いていて、咳も止まらないんです。", "reading": "みっかまえからねつがつづいていて、せきもとまらないんです。", "ko": "3일 전부터 열이 계속되고, 기침도 멈추지 않습니다.", "note": "'〜ていて'로 상태 지속 표현"},
+        {"id": 3, "speaker": "A", "speakerName": "医者", "speakerNameReading": "いしゃ", "ja": "熱は何度くらいですか。", "reading": "ねつはなんどくらいですか。", "ko": "열은 몇 도 정도입니까?", "note": ""},
+        {"id": 4, "speaker": "B", "speakerName": "患者", "speakerNameReading": "かんじゃ", "ja": "昨日の夜は38度5分ありました。今朝は少し下がったようです。", "reading": "きのうのよるは38どごぶありました。けさはすこしさがったようです。", "ko": "어젯밤에는 38도 5부였습니다. 오늘 아침에는 조금 내린 것 같습니다.", "note": "'ようです'는 추측 표현"},
+        {"id": 5, "speaker": "A", "speakerName": "医者", "speakerNameReading": "いしゃ", "ja": "では、念のためインフルエンザの検査をしましょう。", "reading": "では、ねんのためインフルエンザのけんさをしましょう。", "ko": "그럼, 혹시 모르니 독감 검사를 합시다.", "note": "'念のため'는 '혹시 모르니'"}
+      ],
+      "keyExpressions": [
+        {"ja": "どうされましたか", "reading": "どうされましたか", "ko": "어떻게 오셨습니까", "usage": "병원에서 증상 묻기", "formality": "정중"},
+        {"ja": "〜が続いている", "reading": "〜がつづいている", "ko": "~가 계속되고 있다", "usage": "증상 지속 표현", "formality": "보통"},
+        {"ja": "念のため", "reading": "ねんのため", "ko": "혹시 모르니, 만일을 위해", "usage": "확인 목적", "formality": "보통"}
+      ],
+      "vocabulary": [
+        {"word": "診察", "reading": "しんさつ", "meaning": "진찰"},
+        {"word": "熱", "reading": "ねつ", "meaning": "열"},
+        {"word": "咳", "reading": "せき", "meaning": "기침"},
+        {"word": "検査", "reading": "けんさ", "meaning": "검사"}
+      ],
+      "culturalNote": "일본 병원에서는 보험증(保険証)을 반드시 지참해야 합니다. 초진 시 문진표(問診票)를 작성합니다.",
+      "relatedGrammar": ["〜ようです", "〜ている", "〜てから"],
+      "practice": {"rolePlay": {"yourRole": "환자", "situation": "의사에게 감기 증상 설명하기"}, "shadowing": true}
+    },
+    {
+      "id": "conv_n3_003",
+      "title": "호텔 컴플레인",
+      "titleJa": "ホテルでのクレーム",
+      "situation": "호텔에서 문제 제기하기",
+      "description": "호텔 숙박 중 문제가 생겼을 때 프론트에 말하는 표현",
+      "jlpt": "N3",
+      "category": "여행",
+      "difficulty": 3,
+      "estimatedTime": 4,
+      "thumbnail": "🏨",
+      "dialogue": [
+        {"id": 1, "speaker": "A", "speakerName": "客", "speakerNameReading": "きゃく", "ja": "すみません、部屋のエアコンが動かないんですが。", "reading": "すみません、へやのエアコンがうごかないんですが。", "ko": "저기요, 방 에어컨이 작동하지 않는데요.", "note": "'んですが'로 상황 설명"},
+        {"id": 2, "speaker": "B", "speakerName": "フロント", "speakerNameReading": "フロント", "ja": "大変申し訳ございません。すぐに係の者を向かわせます。", "reading": "たいへんもうしわけございません。すぐにかかりのものをむかわせます。", "ko": "대단히 죄송합니다. 바로 담당자를 보내겠습니다.", "note": "'向かわせます'는 사역형"},
+        {"id": 3, "speaker": "A", "speakerName": "客", "speakerNameReading": "きゃく", "ja": "どのくらい時間がかかりますか。", "reading": "どのくらいじかんがかかりますか。", "ko": "얼마나 시간이 걸릴까요?", "note": ""},
+        {"id": 4, "speaker": "B", "speakerName": "フロント", "speakerNameReading": "フロント", "ja": "10分以内にお伺いいたします。もし修理が難しい場合は、別の部屋をご用意させていただきます。", "reading": "じゅっぷんいないにおうかがいいたします。もししゅうりがむずかしいばあいは、べつのへやをごよういさせていただきます。", "ko": "10분 이내에 찾아뵙겠습니다. 만약 수리가 어려운 경우에는 다른 방을 준비해 드리겠습니다.", "note": "'させていただきます'는 겸양 표현"},
+        {"id": 5, "speaker": "A", "speakerName": "客", "speakerNameReading": "きゃく", "ja": "わかりました。よろしくお願いします。", "reading": "わかりました。よろしくおねがいします。", "ko": "알겠습니다. 잘 부탁드립니다.", "note": ""}
+      ],
+      "keyExpressions": [
+        {"ja": "〜んですが", "reading": "〜んですが", "ko": "~인데요", "usage": "상황 설명/완곡한 요청", "formality": "보통"},
+        {"ja": "申し訳ございません", "reading": "もうしわけございません", "ko": "죄송합니다", "usage": "격식 있는 사과", "formality": "매우 정중"},
+        {"ja": "〜させていただきます", "reading": "〜させていただきます", "ko": "~해 드리겠습니다", "usage": "겸양 표현", "formality": "매우 정중"}
+      ],
+      "vocabulary": [
+        {"word": "クレーム", "reading": "クレーム", "meaning": "컴플레인, 불만"},
+        {"word": "係", "reading": "かかり", "meaning": "담당자"},
+        {"word": "修理", "reading": "しゅうり", "meaning": "수리"},
+        {"word": "用意", "reading": "ようい", "meaning": "준비"}
+      ],
+      "culturalNote": "일본에서는 직접적인 불만 표현보다 '〜んですが'처럼 완곡하게 말하는 것이 일반적입니다.",
+      "relatedGrammar": ["〜んですが", "〜させていただく", "〜場合は"],
+      "practice": {"rolePlay": {"yourRole": "손님", "situation": "호텔 프론트에 방 문제 말하기"}, "shadowing": true}
+    },
+    {
+      "id": "conv_n3_004",
+      "title": "전화 예약",
+      "titleJa": "電話で予約",
+      "situation": "전화로 레스토랑 예약하기",
+      "description": "레스토랑에 전화로 예약하는 상황",
+      "jlpt": "N3",
+      "category": "전화",
+      "difficulty": 3,
+      "estimatedTime": 4,
+      "thumbnail": "📞",
+      "dialogue": [
+        {"id": 1, "speaker": "A", "speakerName": "店員", "speakerNameReading": "てんいん", "ja": "はい、レストラン桜でございます。", "reading": "はい、レストランさくらでございます。", "ko": "네, 레스토랑 사쿠라입니다.", "note": "'でございます'는 'です'의 정중체"},
+        {"id": 2, "speaker": "B", "speakerName": "客", "speakerNameReading": "きゃく", "ja": "予約をしたいのですが、今週の土曜日は空いていますか。", "reading": "よやくをしたいのですが、こんしゅうのどようびはあいていますか。", "ko": "예약을 하고 싶은데요, 이번 주 토요일은 비어 있나요?", "note": "'のですが'로 요청 도입"},
+        {"id": 3, "speaker": "A", "speakerName": "店員", "speakerNameReading": "てんいん", "ja": "何名様でしょうか。", "reading": "なんめいさまでしょうか。", "ko": "몇 분이신가요?", "note": "'〜様'은 손님 존칭"},
+        {"id": 4, "speaker": "B", "speakerName": "客", "speakerNameReading": "きゃく", "ja": "4名です。午後7時ごろお願いできますか。", "reading": "よんめいです。ごごしちじごろおねがいできますか。", "ko": "4명입니다. 오후 7시쯤 부탁드려도 될까요?", "note": ""},
+        {"id": 5, "speaker": "A", "speakerName": "店員", "speakerNameReading": "てんいん", "ja": "少々お待ちください。...お待たせいたしました。7時で4名様、承りました。お名前とご連絡先をお願いいたします。", "reading": "しょうしょうおまちください。...おまたせいたしました。しちじでよんめいさま、うけたまわりました。おなまえとごれんらくさきをおねがいいたします。", "ko": "잠시만 기다려 주세요. ...기다리게 해서 죄송합니다. 7시에 4분, 접수했습니다. 성함과 연락처를 부탁드립니다.", "note": "'承りました'는 '알겠습니다'의 겸양어"}
+      ],
+      "keyExpressions": [
+        {"ja": "〜でございます", "reading": "〜でございます", "ko": "~입니다", "usage": "'です'의 정중체", "formality": "매우 정중"},
+        {"ja": "何名様", "reading": "なんめいさま", "ko": "몇 분", "usage": "인원 묻기 (존경)", "formality": "매우 정중"},
+        {"ja": "承りました", "reading": "うけたまわりました", "ko": "알겠습니다", "usage": "예약 확인 (겸양어)", "formality": "매우 정중"}
+      ],
+      "vocabulary": [
+        {"word": "予約", "reading": "よやく", "meaning": "예약"},
+        {"word": "空く", "reading": "あく", "meaning": "비다"},
+        {"word": "連絡先", "reading": "れんらくさき", "meaning": "연락처"}
+      ],
+      "culturalNote": "일본에서 전화 예약 시 이름과 전화번호를 반드시 물어봅니다. 예약 시간 10분 전 도착이 예의입니다.",
+      "relatedGrammar": ["〜のですが", "〜でございます", "お〜ください"],
+      "practice": {"rolePlay": {"yourRole": "손님", "situation": "레스토랑에 전화로 예약하기"}, "shadowing": true}
+    },
+    {
+      "id": "conv_n3_005",
+      "title": "길 안내",
+      "titleJa": "道案内",
+      "situation": "복잡한 길 안내 듣기",
+      "description": "지하철역에서 목적지까지 가는 길 묻기",
+      "jlpt": "N3",
+      "category": "길찾기",
+      "difficulty": 3,
+      "estimatedTime": 4,
+      "thumbnail": "🗺️",
+      "dialogue": [
+        {"id": 1, "speaker": "A", "speakerName": "旅行者", "speakerNameReading": "りょこうしゃ", "ja": "すみません、東京タワーへはどう行けばいいですか。", "reading": "すみません、とうきょうタワーへはどういけばいいですか。", "ko": "저기요, 도쿄타워는 어떻게 가면 될까요?", "note": "'〜ばいいですか'로 방법 질문"},
+        {"id": 2, "speaker": "B", "speakerName": "通行人", "speakerNameReading": "つうこうにん", "ja": "ここからだと、まず大江戸線に乗って赤羽橋駅で降りてください。", "reading": "ここからだと、まずおおえどせんにのってあかばねばしえきでおりてください。", "ko": "여기서라면, 우선 오에도선을 타고 아카바네바시역에서 내리세요.", "note": "'〜だと'는 '~라면'"},
+        {"id": 3, "speaker": "A", "speakerName": "旅行者", "speakerNameReading": "りょこうしゃ", "ja": "赤羽橋駅からは歩いて行けますか。", "reading": "あかばねばしえきからはあるいていけますか。", "ko": "아카바네바시역에서는 걸어서 갈 수 있나요?", "note": ""},
+        {"id": 4, "speaker": "B", "speakerName": "通行人", "speakerNameReading": "つうこうにん", "ja": "はい、駅を出たら左に曲がって、まっすぐ5分ほど歩くと見えてきますよ。", "reading": "はい、えきをでたらひだりにまがって、まっすぐごふんほどあるくとみえてきますよ。", "ko": "네, 역을 나오면 왼쪽으로 돌아서 직진으로 5분 정도 걸으면 보일 거예요.", "note": "'〜と見えてきます'는 '~하면 보입니다'"},
+        {"id": 5, "speaker": "A", "speakerName": "旅行者", "speakerNameReading": "りょこうしゃ", "ja": "わかりました。ご親切にありがとうございます。", "reading": "わかりました。ごしんせつにありがとうございます。", "ko": "알겠습니다. 친절하게 감사합니다.", "note": "'ご親切に'로 감사 강조"}
+      ],
+      "keyExpressions": [
+        {"ja": "どう行けばいいですか", "reading": "どういけばいいですか", "ko": "어떻게 가면 될까요", "usage": "길 묻기", "formality": "정중"},
+        {"ja": "〜たら〜てください", "reading": "〜たら〜てください", "ko": "~하면 ~하세요", "usage": "순서 설명", "formality": "보통"},
+        {"ja": "〜と見えてきます", "reading": "〜とみえてきます", "ko": "~하면 보입니다", "usage": "결과 설명", "formality": "보통"}
+      ],
+      "vocabulary": [
+        {"word": "道案内", "reading": "みちあんない", "meaning": "길 안내"},
+        {"word": "乗る", "reading": "のる", "meaning": "타다"},
+        {"word": "降りる", "reading": "おりる", "meaning": "내리다"},
+        {"word": "曲がる", "reading": "まがる", "meaning": "돌다, 꺾다"}
+      ],
+      "culturalNote": "일본에서 길을 물을 때는 'すみません'으로 시작합니다. 도움을 받은 후 'ご親切に'를 붙이면 더 정중합니다.",
+      "relatedGrammar": ["〜ばいい", "〜たら", "〜と"],
+      "practice": {"rolePlay": {"yourRole": "여행자", "situation": "역에서 목적지까지 가는 길 묻기"}, "shadowing": true}
+    }
+  ]
+}
