@@ -19,6 +19,7 @@ import {
   WritingPracticeDiffItem,
 } from "@/components/WritingPracticeDiffPrintModal";
 import { StrokePath, Kanji } from "@/types/kanji";
+import { HanjaBookPrintModal } from "@/components/HanjaBookPrintModal";
 
 interface KanjiDiff {
   id: string;
@@ -89,6 +90,7 @@ export function KanjiDiffModal({ onClose }: KanjiDiffModalProps) {
   // 인쇄 모달 상태
   const [showPrintModal, setShowPrintModal] = useState(false);
   const [showWritingPracticeModal, setShowWritingPracticeModal] = useState(false);
+  const [showHanjaBook, setShowHanjaBook] = useState(false);
 
   // 획순 데이터 (kanji_master.json에서 로드)
   const [strokePathsMap, setStrokePathsMap] = useState<Map<string, StrokePath[]>>(new Map());
@@ -608,6 +610,17 @@ export function KanjiDiffModal({ onClose }: KanjiDiffModalProps) {
                   </span>
                 )}
               </button>
+              {/* 한자책(양면) 출력 버튼 */}
+              <button
+                onClick={() => setShowHanjaBook(true)}
+                className="flex items-center gap-1 px-2 py-1.5 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors text-slate-700 dark:text-slate-200"
+                title={selectedIds.size > 0 ? `선택된 ${selectedIds.size}개 한자책 출력(양면)` : "한자책 출력(양면)"}
+              >
+                <span className="text-base leading-none">📘</span>
+                {selectedIds.size > 0 && (
+                  <span className="text-xs font-medium">({selectedIds.size})</span>
+                )}
+              </button>
               {/* 인쇄 버튼 */}
               <button
                 onClick={() => setShowPrintModal(true)}
@@ -1093,6 +1106,15 @@ export function KanjiDiffModal({ onClose }: KanjiDiffModalProps) {
           title="한·일 차이 한자"
           cards={printableCards}
           onClose={() => setShowPrintModal(false)}
+        />
+      )}
+
+      {/* 한자책(양면) 출력 모달 */}
+      {showHanjaBook && (
+        <HanjaBookPrintModal
+          chars={(selectedIds.size > 0 ? selectedKanji : paginatedKanji).map((k) => k.krTraditional)}
+          title="한자책 출력(양면) · 한·일 차이 한자"
+          onClose={() => setShowHanjaBook(false)}
         />
       )}
 

@@ -13,6 +13,7 @@ import { RadicalModal } from "@/components/RadicalModal";
 import { RadicalKanjiModal } from "@/components/RadicalKanjiModal";
 import { KanjiDiffModal } from "@/components/KanjiDiffModal";
 import { KokujiModal } from "@/components/KokujiModal";
+import { HanjaBookPrintModal } from "@/components/HanjaBookPrintModal";
 import { ReviewTestModal } from "@/components/ReviewTestModal";
 import { loadReviewData, loadReviewDataSync, addItemsToReview } from "@/services/reviewService";
 
@@ -27,6 +28,7 @@ export default function KanjiLearnPage() {
   const [showRadicalKanji, setShowRadicalKanji] = useState(false);
   const [showKanjiDiff, setShowKanjiDiff] = useState(false);
   const [showKokuji, setShowKokuji] = useState(false);
+  const [showHanjaBook, setShowHanjaBook] = useState(false);
   const [showReviewTest, setShowReviewTest] = useState(false);
   const [addedToReview, setAddedToReview] = useState(false);
 
@@ -118,6 +120,7 @@ export default function KanjiLearnPage() {
     { label: "부수별", icon: "🔤", onClick: () => setShowRadicalKanji(true), gradient: "from-teal-500 to-cyan-500" },
     { label: "한·일 차이", icon: "🔄", onClick: () => setShowKanjiDiff(true), gradient: "from-blue-500 to-purple-500" },
     { label: "국자", icon: "🇯🇵", onClick: () => setShowKokuji(true), gradient: "from-orange-500 to-red-500" },
+    { label: "한자책 출력", icon: "🖨️", onClick: () => setShowHanjaBook(true), gradient: "from-slate-600 to-slate-800" },
     { label: "복습 테스트", icon: "🧠", onClick: () => setShowReviewTest(true), gradient: "from-emerald-500 to-green-500" },
     {
       label: addedToReview ? "추가됨!" : `전체 복습 (${filteredKanji.length})`,
@@ -236,6 +239,15 @@ export default function KanjiLearnPage() {
       {showKanjiDiff && (
         <KanjiDiffModal
           onClose={() => setShowKanjiDiff(false)}
+        />
+      )}
+
+      {showHanjaBook && (
+        <HanjaBookPrintModal
+          chars={filteredKanji.map((k) => k.literal)}
+          allowInput
+          title="한자책 출력(양면) · 현재 필터 결과"
+          onClose={() => setShowHanjaBook(false)}
         />
       )}
 
