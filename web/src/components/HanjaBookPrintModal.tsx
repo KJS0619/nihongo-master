@@ -90,6 +90,36 @@ function StrokeCells({
   );
 }
 
+/** 한글 음절 → 두음법칙 이전 음절 후보(노→로, 여→려/녀 ...) */
+function origSyllables(ch: string): string[] {
+  const code = ch.charCodeAt(0) - 0xac00;
+  if (code < 0 || code > 11171) return [ch];
+  const l = Math.floor(code / 588);
+  const v = Math.floor((code % 588) / 28);
+  const t = code % 28;
+  const make = (ll: number) => String.fromCharCode(0xac00 + ll * 588 + v * 28 + t);
+  const iType = [2, 3, 6, 7, 12, 17, 20].includes(v); // ㅑ ㅒ ㅕ ㅖ ㅛ ㅠ ㅣ
+  const out = [ch];
+  if (l === 2 && !iType) out.push(make(5)); // ㄴ → ㄹ (노→로)
+  if (l === 11 && iType) { out.push(make(5)); out.push(make(2)); } // ㅇ → ㄹ/ㄴ (여→려/녀)
+  return out;
+}
+
+/** 훈음 문자열 → 음 목록 ("즐길 락 · 노래 악" → ["락","악"]) */
+function eumsOf(hun: string): string[] {
+  return hun
+    .split(" · ")
+    .map((x) => x.replace(/\(.*?\)/g, "").trim().split(/\s+/).pop() ?? "")
+    .filter((x) => /^[\uac00-\ud7a3]$/.test(x));
+}
+
+const GRADE_RANK: Record<string, number> = {
+  "8급": 0, "7급Ⅱ": 1, "7급": 2, "6급Ⅱ": 3, "6급": 4, "5급Ⅱ": 5, "5급": 6,
+  "4급Ⅱ": 7, "4급": 8, "3급Ⅱ": 9, "3급": 10, "2급": 11, "1급": 12,
+};
+
+interface Cand { ch: string; hun: string; g: string; jp?: string; eum: string }
+
 const PAIR_CUTS = [12.4, 77.4, 142.4, 207.4, 272.2];
 const SAME_CUTS = [0, 1, 2, 3, 4, 5].map((k) => 14 + k * 52.5 - 1.5);
 const Cuts = ({ tops }: { tops: number[] }) => (
@@ -306,6 +336,8 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
   const [jpStrokes, setJpStrokes] = useState<Map<string, string[]>>(new Map());
   const [error, setError] = useState("");
   const [custom, setCustom] = useState("");
+  /** 한글 음절별로 사용자가 고른 한자(미조작이면 후보가 1개일 때만 자동 선택) */
+  const [picked, setPicked] = useState<Record<string, string[]>>({});
   const [usePair, setUsePair] = useState(true);
   const [useSame, setUseSame] = useState(true);
   const [chunkSize, setChunkSize] = useState(20);
@@ -335,12 +367,67 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
     return () => { alive = false; };
   }, []);
 
+  /** 음(한글) → 후보 한자 색인: 차이한자는 한국 정자 기준 */
+  const eumIndex = useMemo(() => {
+    const idx = new Map<string, Cand[]>();
+    if (!book) return idx;
+    const add = (c: Cand) => {
+      const a = idx.get(c.eum) ?? [];
+      a.push(c);
+      idx.set(c.eum, a);
+    };
+    Object.entries(book.pairs).forEach(([kr, d]) =>
+      eumsOf(d.hun).forEach((eum) => add({ ch: kr, hun: d.hun, g: d.g, jp: d.jp, eum })));
+    Object.entries(book.same).forEach(([ch, d]) =>
+      eumsOf(d.hun).forEach((eum) => add({ ch, hun: d.hun, g: d.g, eum })));
+    idx.forEach((arr) =>
+      arr.sort((a, b) => (GRADE_RANK[a.g] ?? 99) - (GRADE_RANK[b.g] ?? 99)));
+    return idx;
+  }, [book]);
+
+  /** 입력창의 한글 음절(중복 제거, 입력 순서) → 후보 목록 */
+  const syllables = useMemo(() => {
+    const seen = new Set<string>();
+    const out: { syl: string; cands: Cand[] }[] = [];
+    for (const c of Array.from(custom)) {
+      if (!/[\uac00-\ud7a3]/.test(c) || seen.has(c)) continue;
+      seen.add(c);
+      const cands: Cand[] = [];
+      const dedup = new Set<string>();
+      origSyllables(c).forEach((o) =>
+        (eumIndex.get(o) ?? []).forEach((x) => {
+          if (!dedup.has(x.ch)) { dedup.add(x.ch); cands.push(x); }
+        }));
+      out.push({ syl: c, cands });
+    }
+    return out;
+  }, [custom, eumIndex]);
+
+  const effectivePicked = useCallback((syl: string, cands: Cand[]): string[] => {
+    if (picked[syl]) return picked[syl];
+    return cands.length === 1 ? [cands[0].ch] : [];
+  }, [picked]);
+
+  const togglePick = (syl: string, cands: Cand[], ch: string) => {
+    setPicked((prev) => {
+      const cur = prev[syl] ?? (cands.length === 1 ? [cands[0].ch] : []);
+      const next = cur.includes(ch) ? cur.filter((x) => x !== ch) : [...cur, ch];
+      return { ...prev, [syl]: next };
+    });
+  };
+
   const targetChars = useMemo(() => {
-    const src = allowInput && custom.trim()
-      ? Array.from(custom).filter((c) => /[㐀-鿿豈-﫿]/.test(c))
-      : chars;
+    let src = chars;
+    if (allowInput && custom.trim()) {
+      const hanja = Array.from(custom).filter((c) => /[\u3400-\u9fff\uf900-\ufaff]/.test(c));
+      const fromHangul = syllables.flatMap((x) => effectivePicked(x.syl, x.cands));
+      src = [...hanja, ...fromHangul];
+    }
     return Array.from(new Set(src));
-  }, [chars, custom, allowInput]);
+  }, [chars, custom, allowInput, syllables, effectivePicked]);
+
+  const unresolved = syllables.filter((x) => x.cands.length > 1 && effectivePicked(x.syl, x.cands).length === 0).length;
+  const notFound = syllables.filter((x) => x.cands.length === 0).map((x) => x.syl);
 
   /** 글자 분류: 차이 한자(정자 또는 신자체 어느 쪽이든) / 같은 한자 / 목록 밖 */
   const { pairs, sames, skipped } = useMemo(() => {
@@ -419,10 +506,55 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
 
           {allowInput && (
             <div>
-              <label className="block font-medium mb-1">직접 입력(비워 두면 현재 필터 결과 {chars.length}자)</label>
+              <label className="block font-medium mb-1">직접 입력(비워 두면 {chars.length}자 그대로) · 한자 또는 한글 음</label>
               <textarea value={custom} onChange={(e) => setCustom(e.target.value)} rows={2}
-                placeholder="출력할 한자를 붙여넣으세요 (예: 學校 日本語 亜)"
+                placeholder="한자 또는 한글로 입력하세요 (예: 學校 日本語 / 학교 일본어)"
                 className="w-full border rounded-lg p-2 bg-white dark:bg-gray-900 dark:border-gray-600" />
+              {syllables.length > 0 && (
+                <div className="mt-2 border rounded-lg p-2 dark:border-gray-600 max-h-60 overflow-y-auto space-y-2">
+                  <div className="flex flex-wrap items-center gap-2 text-xs text-gray-600 dark:text-gray-300">
+                    <span>한글 음 → 한자 변환 (여러 개면 눌러서 선택, 복수 선택 가능)</span>
+                    {unresolved > 0 && <span className="text-red-600">선택 필요 {unresolved}개</span>}
+                    {unresolved > 0 && (
+                      <button className="px-2 py-0.5 border rounded"
+                        onClick={() => setPicked((prev) => {
+                          const next = { ...prev };
+                          syllables.forEach((x) => {
+                            if (x.cands.length > 1 && (next[x.syl] ?? []).length === 0) next[x.syl] = [x.cands[0].ch];
+                          });
+                          return next;
+                        })}>미선택은 첫 후보로</button>
+                    )}
+                  </div>
+                  {syllables.map(({ syl, cands }) => {
+                    const sel = effectivePicked(syl, cands);
+                    return (
+                      <div key={syl} className="flex items-start gap-2">
+                        <span className="w-8 shrink-0 text-center text-lg font-bold">{syl}</span>
+                        <div className="flex flex-wrap gap-1">
+                          {cands.length === 0 && <span className="text-xs text-gray-500 py-1">후보 없음(목록에 없는 음)</span>}
+                          {cands.map((c) => (
+                            <button key={c.ch} onClick={() => togglePick(syl, cands, c.ch)}
+                              className={"flex items-center gap-1 px-1.5 py-0.5 rounded border text-left " +
+                                (sel.includes(c.ch)
+                                  ? "bg-blue-600 text-white border-blue-600"
+                                  : "bg-white dark:bg-gray-900 border-gray-300 dark:border-gray-600")}>
+                              <span className="text-lg leading-none">{c.ch}</span>
+                              <span className="text-[10px] leading-tight">
+                                {c.jp ? `→${c.jp} ` : ""}{c.hun.replace(/\(.*?\)/g, "").trim()}
+                                {c.g ? ` ${c.g}` : ""}
+                              </span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+              {notFound.length > 0 && (
+                <div className="text-xs text-gray-500 mt-1">후보가 없는 음: {notFound.join(" ")}</div>
+              )}
             </div>
           )}
 
