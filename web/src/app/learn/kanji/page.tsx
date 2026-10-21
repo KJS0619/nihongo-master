@@ -150,7 +150,7 @@ export default function KanjiLearnPage() {
     <div className="min-h-screen">
       {/* 헤더 */}
       <header className="sticky top-0 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-700">
-        <div className="max-w-7xl mx-auto px-4 py-3">
+        <div className="max-w-lg mx-auto px-4 py-3">
           <div className="flex items-center gap-3">
             <Link href="/" className="p-1 -ml-1 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
               <svg className="w-5 h-5 text-gray-600 dark:text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -168,7 +168,7 @@ export default function KanjiLearnPage() {
       </header>
 
       {/* 도구 버튼들 */}
-      <div className="max-w-7xl mx-auto px-4 py-3">
+      <div className="max-w-lg mx-auto px-4 py-3">
         <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
           {toolButtons.map((btn) => (
             <button
@@ -193,7 +193,7 @@ export default function KanjiLearnPage() {
         onSearchChange={setSearchQuery}
       />
 
-      <main className="flex-1 px-2 sm:px-4 pb-4">
+      <main className="flex-1 max-w-lg mx-auto w-full px-3 pb-4">
         {isLoading ? (
           <div className="flex items-center justify-center h-64">
             <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>

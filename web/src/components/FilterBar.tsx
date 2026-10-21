@@ -35,9 +35,10 @@ export function FilterBar({
   onSearchChange,
 }: FilterBarProps) {
   return (
-    <div className="sticky top-[57px] z-30 bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-700 px-2 sm:px-4 py-3 space-y-3">
+    <div className="sticky top-[57px] z-30 bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-700 py-3">
+      <div className="max-w-lg mx-auto px-4 space-y-3">
       {/* 검색 바 */}
-      <div className="relative max-w-xl">
+      <div className="relative">
         <input
           type="text"
           value={searchQuery}
@@ -71,7 +72,7 @@ export function FilterBar({
       </div>
 
       {/* JLPT 필터 */}
-      <div className="flex flex-wrap gap-2">
+      <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
         <span className="text-xs font-medium text-gray-500 dark:text-gray-400 self-center mr-1">
           JLPT
         </span>
@@ -80,7 +81,7 @@ export function FilterBar({
             key={level}
             onClick={() => onJlptChange(level)}
             className={clsx(
-              "px-3 py-1.5 rounded-full text-sm font-medium transition-all",
+              "px-3 py-1.5 rounded-full text-sm font-medium transition-all whitespace-nowrap shrink-0",
               jlptFilter === level
                 ? level === "all"
                   ? "bg-gray-800 dark:bg-white text-white dark:text-gray-900"
@@ -99,7 +100,7 @@ export function FilterBar({
       </div>
 
       {/* 학년 필터 */}
-      <div className="flex flex-wrap gap-2">
+      <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
         <span className="text-xs font-medium text-gray-500 dark:text-gray-400 self-center mr-1">
           학년
         </span>
@@ -108,7 +109,7 @@ export function FilterBar({
             key={value}
             onClick={() => onGradeChange(value)}
             className={clsx(
-              "px-3 py-1.5 rounded-full text-sm font-medium transition-all",
+              "px-3 py-1.5 rounded-full text-sm font-medium transition-all whitespace-nowrap shrink-0",
               gradeFilter === value
                 ? "bg-blue-600 text-white"
                 : "bg-white dark:bg-gray-700 text-gray-700 dark:text-gray-300 border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-600"
@@ -117,6 +118,7 @@ export function FilterBar({
             {label}
           </button>
         ))}
+      </div>
       </div>
     </div>
   );

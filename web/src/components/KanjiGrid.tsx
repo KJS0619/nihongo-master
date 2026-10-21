@@ -22,13 +22,9 @@ interface KanjiGridProps {
 // 반응형 열 수 계산
 function getColumns(): number {
   if (typeof window === "undefined") return 5;
-  const width = window.innerWidth;
-  if (width < 480) return 5;
-  if (width < 640) return 6;
-  if (width < 768) return 7;
-  if (width < 1024) return 8;
-  if (width < 1280) return 10;
-  return 12;
+  // 모바일 단일 컬럼(max-w-lg = 512px) 기준: 좁은 화면 5열, 그 이상 6열
+  const width = Math.min(window.innerWidth, 512);
+  return width < 400 ? 5 : 6;
 }
 
 export function KanjiGrid({ kanjiList, onKanjiClick, selectMode = false, selected }: KanjiGridProps) {
@@ -74,7 +70,7 @@ export function KanjiGrid({ kanjiList, onKanjiClick, selectMode = false, selecte
   return (
     <div
       ref={parentRef}
-      className="h-[calc(100vh-220px)] overflow-auto"
+      className="h-[calc(100vh-300px)] min-h-[320px] overflow-auto"
       style={{ contain: "strict" }}
     >
       <div
