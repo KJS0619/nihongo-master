@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useCallback, useState, useMemo } from "react";
+import { useEffect, useCallback, useState, useMemo, useRef } from "react";
 import { Kanji, JLPT_COLORS } from "@/types/kanji";
 import clsx from "clsx";
 
@@ -244,6 +244,7 @@ export function SameSoundKanjiModal({
 }: SameSoundKanjiModalProps) {
   const [selectedSound, setSelectedSound] = useState<string | null>(initialSound || null);
   const [searchQuery, setSearchQuery] = useState("");
+  const initializedRef = useRef(false); // 초기 선택 완료 여부
 
   // 음(音)별로 한자 그룹화
   const kanjiBySound = useMemo(() => {
@@ -272,14 +273,18 @@ export function SameSoundKanjiModal({
     return sortedSounds.filter((sound) => sound.includes(query));
   }, [sortedSounds, searchQuery]);
 
-  // 초기 음 선택
+  // 초기 음 선택 (최초 1회만)
   useEffect(() => {
+    if (initializedRef.current) return; // 이미 초기화됨
+
     if (initialSound && kanjiBySound[initialSound]) {
       setSelectedSound(initialSound);
-    } else if (filteredSounds.length > 0 && selectedSound === null) {
+      initializedRef.current = true;
+    } else if (filteredSounds.length > 0) {
       setSelectedSound(filteredSounds[0]);
+      initializedRef.current = true;
     }
-  }, [filteredSounds, selectedSound, initialSound, kanjiBySound]);
+  }, [filteredSounds, initialSound, kanjiBySound]);
 
   // 현재 선택된 음의 한자 목록
   const currentSoundKanji = useMemo(() => {
