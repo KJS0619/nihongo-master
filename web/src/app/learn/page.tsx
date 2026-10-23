@@ -20,7 +20,7 @@ export default function LearnPage() {
       subtitle: "単語",
       description: "JLPT 필수 단어 학습",
       icon: "📚",
-      count: "4,463단어",
+      count: "5,535단어",
       gradient: "from-blue-500 to-cyan-500",
       features: ["JLPT N5~N1", "품사별 분류", "예문 학습", "나만의 단어장"],
     },
