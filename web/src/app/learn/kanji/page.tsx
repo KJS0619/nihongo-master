@@ -16,6 +16,7 @@ import { KokujiModal } from "@/components/KokujiModal";
 import { HanjaBookPrintModal } from "@/components/HanjaBookPrintModal";
 import { BaejeongModal } from "@/components/BaejeongModal";
 import { ReviewTestModal } from "@/components/ReviewTestModal";
+import { SameSoundKanjiModal } from "@/components/SameSoundKanjiModal";
 import { loadReviewData, loadReviewDataSync, addItemsToReview } from "@/services/reviewService";
 
 export default function KanjiLearnPage() {
@@ -42,7 +43,16 @@ export default function KanjiLearnPage() {
     });
   }, []);
   const [showReviewTest, setShowReviewTest] = useState(false);
+  const [showSameSound, setShowSameSound] = useState(false);
+  const [initialSound, setInitialSound] = useState<string | undefined>(undefined);
   const [addedToReview, setAddedToReview] = useState(false);
+
+  // 같은 음 한자 보기
+  const handleSameSoundClick = (sound: string) => {
+    setInitialSound(sound);
+    setShowSameSound(true);
+    setSelectedKanji(null); // KanjiModal 닫기
+  };
 
   // 전체를 복습에 추가
   const handleAddAllToReview = async () => {
@@ -128,6 +138,7 @@ export default function KanjiLearnPage() {
     { label: "플래시카드", icon: "🎴", onClick: () => setShowFlashcard(true), gradient: "from-blue-500 to-indigo-500" },
     { label: "단어 암기", icon: "📖", onClick: () => setShowWordFlashcard(true), gradient: "from-green-500 to-teal-500" },
     { label: "주제별", icon: "📚", onClick: () => setShowTopicKanji(true), gradient: "from-red-500 to-orange-500" },
+    { label: "같은 음", icon: "🔊", onClick: () => { setInitialSound(undefined); setShowSameSound(true); }, gradient: "from-orange-500 to-amber-500" },
     { label: "부수 214", icon: "🀄", onClick: () => setShowRadical(true), gradient: "from-purple-500 to-pink-500" },
     { label: "부수별", icon: "🔤", onClick: () => setShowRadicalKanji(true), gradient: "from-teal-500 to-cyan-500" },
     { label: "한·일 차이", icon: "🔄", onClick: () => setShowKanjiDiff(true), gradient: "from-blue-500 to-purple-500" },
@@ -248,6 +259,7 @@ export default function KanjiLearnPage() {
         <KanjiModal
           kanji={selectedKanji}
           onClose={() => setSelectedKanji(null)}
+          onSameSoundClick={handleSameSoundClick}
         />
       )}
 
@@ -309,6 +321,18 @@ export default function KanjiLearnPage() {
       {showReviewTest && (
         <ReviewTestModal
           onClose={() => setShowReviewTest(false)}
+        />
+      )}
+
+      {showSameSound && (
+        <SameSoundKanjiModal
+          kanjiList={kanjiData}
+          onClose={() => setShowSameSound(false)}
+          onKanjiClick={(k) => {
+            setShowSameSound(false);
+            setSelectedKanji(k);
+          }}
+          initialSound={initialSound}
         />
       )}
     </div>
