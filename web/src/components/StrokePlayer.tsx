@@ -25,6 +25,7 @@ export function StrokePlayer({ kanji }: StrokePlayerProps) {
   const [isPaused, setIsPaused] = useState(false);
   const [currentStroke, setCurrentStroke] = useState(-1);
   const [showNumbers, setShowNumbers] = useState(true);
+  const [showStepGrid, setShowStepGrid] = useState(true);
   const [speed, setSpeed] = useState<PlaybackSpeed>(1);
   const [completedStrokes, setCompletedStrokes] = useState<number[]>([]);
 
@@ -268,7 +269,28 @@ export function StrokePlayer({ kanji }: StrokePlayerProps) {
           </svg>
           {speed}x
         </button>
+
+        {/* 획순 단계 토글 */}
+        <button
+          onClick={() => setShowStepGrid((v) => !v)}
+          className={clsx(
+            "flex items-center gap-1.5 px-4 py-2.5 rounded-lg text-sm font-semibold transition-colors shadow-md",
+            showStepGrid
+              ? "bg-orange-500 text-white"
+              : "bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300"
+          )}
+        >
+          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+          </svg>
+          단계
+        </button>
       </div>
+
+      {/* 획순 단계별 그리드 */}
+      {showStepGrid && strokeCount > 0 && (
+        <StrokeOrderGrid strokePaths={kanji.stroke_paths} />
+      )}
     </div>
   );
 }
@@ -302,5 +324,91 @@ function AnimatedStroke({ path, duration }: { path: string; duration: number }) 
         transition: isReady ? `stroke-dashoffset ${duration}ms ease-out` : 'none',
       }}
     />
+  );
+}
+
+// 획순 단계별 그리드 컴포넌트
+interface StrokeOrderGridProps {
+  strokePaths: { order: number; path: string; start_x: number; start_y: number }[];
+}
+
+function StrokeOrderGrid({ strokePaths }: StrokeOrderGridProps) {
+  const strokeCount = strokePaths.length;
+
+  return (
+    <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
+      <div className="flex items-center justify-between mb-3 px-1">
+        <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300 flex items-center gap-1.5">
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+          </svg>
+          획순 단계별 보기
+        </h4>
+        <span className="text-xs text-gray-500 dark:text-gray-400">
+          총 {strokeCount}획
+        </span>
+      </div>
+
+      <div className={clsx(
+        "grid gap-1.5",
+        strokeCount <= 6 ? "grid-cols-6" :
+        strokeCount <= 10 ? "grid-cols-5" :
+        strokeCount <= 16 ? "grid-cols-8" : "grid-cols-8"
+      )}>
+        {strokePaths.map((_, stepIndex) => (
+          <div
+            key={stepIndex}
+            className="relative aspect-square bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 overflow-hidden"
+          >
+            <svg viewBox="0 0 109 109" className="w-full h-full">
+              {/* 십자 가이드 */}
+              <line x1="54.5" y1="0" x2="54.5" y2="109" stroke="#e5e7eb" strokeWidth="0.3" strokeDasharray="2,2" />
+              <line x1="0" y1="54.5" x2="109" y2="54.5" stroke="#e5e7eb" strokeWidth="0.3" strokeDasharray="2,2" />
+
+              {/* 이전 획들 (검정색) */}
+              {strokePaths.slice(0, stepIndex).map((stroke, i) => (
+                <path
+                  key={`prev-${i}`}
+                  d={stroke.path}
+                  fill="none"
+                  stroke="#374151"
+                  strokeWidth="3.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="dark:stroke-gray-300"
+                />
+              ))}
+
+              {/* 현재 획 (빨간색 강조) */}
+              <path
+                d={strokePaths[stepIndex].path}
+                fill="none"
+                stroke="#dc2626"
+                strokeWidth="4"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+
+            {/* 획 번호 배지 */}
+            <div className="absolute bottom-0.5 right-0.5 w-4 h-4 flex items-center justify-center bg-blue-500 text-white text-[9px] font-bold rounded-full">
+              {stepIndex + 1}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* 범례 */}
+      <div className="mt-2 flex items-center justify-center gap-4 text-xs text-gray-500 dark:text-gray-400">
+        <div className="flex items-center gap-1">
+          <div className="w-3 h-0.5 bg-gray-700 dark:bg-gray-300 rounded"></div>
+          <span>이전 획</span>
+        </div>
+        <div className="flex items-center gap-1">
+          <div className="w-3 h-0.5 bg-red-500 rounded"></div>
+          <span>현재 획</span>
+        </div>
+      </div>
+    </div>
   );
 }
