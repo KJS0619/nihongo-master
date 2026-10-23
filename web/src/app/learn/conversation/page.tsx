@@ -10,15 +10,23 @@ export default function ConversationLearnPage() {
   const [isLoading, setIsLoading] = useState(true);
   const [selectedConversation, setSelectedConversation] = useState<Conversation | null>(null);
   const [categoryFilter, setCategoryFilter] = useState<ConversationCategory | "all">("all");
+  const [jlptFilter, setJlptFilter] = useState<"all" | "N5" | "N4" | "N3">("all");
   const [searchQuery, setSearchQuery] = useState("");
 
-  // 데이터 로드
+  // 데이터 로드 (기본 + N3 추가 데이터 병합)
   useEffect(() => {
     async function loadData() {
       try {
-        const response = await fetch("/data/conversation.json");
-        const data: ConversationData = await response.json();
-        setConversationData(data.conversations);
+        const [mainRes, n3Res] = await Promise.all([
+          fetch("/data/conversation.json"),
+          fetch("/data/conversation_n3.json"),
+        ]);
+        const mainData: ConversationData = await mainRes.json();
+        const n3Data: ConversationData = await n3Res.json();
+
+        // 두 데이터 병합
+        const merged = [...mainData.conversations, ...n3Data.conversations];
+        setConversationData(merged);
       } catch (error) {
         console.error("Failed to load conversation data:", error);
       } finally {
@@ -39,6 +47,11 @@ export default function ConversationLearnPage() {
   const filteredConversations = useMemo(() => {
     let result = conversationData;
 
+    // JLPT 필터
+    if (jlptFilter !== "all") {
+      result = result.filter(c => c.jlpt === jlptFilter);
+    }
+
     if (categoryFilter !== "all") {
       result = result.filter(c => c.category === categoryFilter);
     }
@@ -54,7 +67,7 @@ export default function ConversationLearnPage() {
     }
 
     return result.sort((a, b) => a.difficulty - b.difficulty);
-  }, [conversationData, categoryFilter, searchQuery]);
+  }, [conversationData, jlptFilter, categoryFilter, searchQuery]);
 
   const categoryColors: Record<string, string> = {
     "인사": "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
@@ -111,6 +124,23 @@ export default function ConversationLearnPage() {
             <svg className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
+          </div>
+
+          {/* JLPT 필터 */}
+          <div className="flex gap-2">
+            {(["all", "N5", "N4", "N3"] as const).map(level => (
+              <button
+                key={level}
+                onClick={() => setJlptFilter(level)}
+                className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${
+                  jlptFilter === level
+                    ? "bg-blue-600 text-white"
+                    : "bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300"
+                }`}
+              >
+                {level === "all" ? "전체" : level}
+              </button>
+            ))}
           </div>
 
           {/* 카테고리 필터 */}
