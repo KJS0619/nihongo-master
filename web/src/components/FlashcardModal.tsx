@@ -17,9 +17,21 @@ interface KanjiDiff {
   krSound: string;        // 한국어 훈음
 }
 
+// 단어 데이터 타입
+interface JlptWord {
+  word: string;
+  reading: string;
+  meaning: string;
+  jlpt: string;
+}
+
 interface FlashcardModalProps {
   kanjiList: Kanji[];
   onClose: () => void;
+  /** JLPT 탭 없이 전체 목록 사용 (초성별/같은음에서 사용) */
+  skipJlptFilter?: boolean;
+  /** 모달 제목 (skipJlptFilter 시 표시) */
+  title?: string;
 }
 
 type JlptTab = "N5" | "N4" | "N3" | "N2" | "N1";
@@ -36,7 +48,7 @@ function shuffleArray<T>(array: T[]): T[] {
   return shuffled;
 }
 
-export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
+export function FlashcardModal({ kanjiList, onClose, skipJlptFilter = false, title }: FlashcardModalProps) {
   const [selectedLevel, setSelectedLevel] = useState<JlptTab>("N5");
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
@@ -45,6 +57,9 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
 
   // 한일 한자 차이 데이터 (일본 신자체 → 한국 정자체 매핑)
   const [kanjiDiffMap, setKanjiDiffMap] = useState<Map<string, KanjiDiff>>(new Map());
+
+  // 단어 데이터 (한자 포함 단어 표시용)
+  const [wordList, setWordList] = useState<JlptWord[]>([]);
 
   // TTS 훅
   const { speak, speakSequence, stop, isSpeaking, isSupported } = useKanjiTTS();
@@ -76,16 +91,27 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
       .catch(console.error);
   }, []);
 
+  // 단어 데이터 로드 (한자 포함 단어 표시용) - 4,463개 단어
+  useEffect(() => {
+    fetch("/data/jlpt_words_detail.json")
+      .then((res) => res.json())
+      .then((data) => {
+        setWordList(data.words || []);
+      })
+      .catch(console.error);
+  }, []);
+
   // 자동재생 설정 변경 핸들러
   const handleAutoPlayChange = useCallback((enabled: boolean) => {
     setAutoPlayEnabled(enabled);
     setTTSAutoPlaySetting(enabled);
   }, []);
 
-  // 등급별 한자 필터링
+  // 등급별 한자 필터링 (skipJlptFilter면 전체 사용)
   const filteredByLevel = useMemo(() => {
+    if (skipJlptFilter) return kanjiList;
     return kanjiList.filter((k) => k.jlpt_level === selectedLevel);
-  }, [kanjiList, selectedLevel]);
+  }, [kanjiList, selectedLevel, skipJlptFilter]);
 
   // 등급별 카운트
   const levelCounts = useMemo(() => {
@@ -97,6 +123,16 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
     });
     return counts;
   }, [kanjiList]);
+
+  // 특정 한자의 관련 단어 찾기 (인쇄용)
+  const getRelatedWordsForKanji = useCallback((kanji: string): string => {
+    if (wordList.length === 0) return "";
+    const words = wordList
+      .filter((w) => w.word.includes(kanji) && w.word !== kanji)
+      .slice(0, 3); // 인쇄용은 3개까지
+    if (words.length === 0) return "";
+    return words.map((w) => `${w.word}(${w.reading}) ${w.meaning}`).join(" / ");
+  }, [wordList]);
 
   // 인쇄용 카드 데이터 변환
   const printableCards: PrintableCard[] = useMemo(() => {
@@ -110,9 +146,10 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
         primary: k.ja_on.join(", ") || "-",
         secondary: k.ja_kun.join(", ") || "-",
         tertiary: k.meanings_en.slice(0, 3).join(", "),
+        extra: getRelatedWordsForKanji(k.literal),
       },
     }));
-  }, [deck]);
+  }, [deck, getRelatedWordsForKanji]);
 
   // 초기 덱 셔플
   useEffect(() => {
@@ -137,6 +174,15 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
   }, [filteredByLevel, stop]);
 
   const currentKanji = deck[currentIndex];
+
+  // 현재 한자가 포함된 단어 찾기 (최대 4개)
+  const relatedWords = useMemo(() => {
+    if (!currentKanji || wordList.length === 0) return [];
+    const kanji = currentKanji.literal;
+    return wordList
+      .filter((w) => w.word.includes(kanji) && w.word !== kanji) // 한자만 있는 단어 제외
+      .slice(0, 4); // 최대 4개
+  }, [currentKanji, wordList]);
 
   // 카드 뒤집기 (자동 발음 포함)
   const handleFlip = useCallback(() => {
@@ -262,7 +308,8 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-700">
           <h2 className="text-lg font-bold text-gray-900 dark:text-white flex items-center gap-2">
             <span>🎴</span>
-            플래시카드
+            {skipJlptFilter && title ? title : "플래시카드"}
+            {skipJlptFilter && <span className="text-sm font-normal text-gray-500">({kanjiList.length}자)</span>}
           </h2>
           <div className="flex items-center gap-3">
             {/* TTS 자동재생 토글 */}
@@ -307,39 +354,41 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
           </div>
         </div>
 
-        {/* JLPT 등급 탭 */}
-        <div className="flex border-b border-gray-200 dark:border-gray-700">
-          {JLPT_TABS.map((level) => (
-            <button
-              key={level}
-              onClick={() => handleLevelChange(level)}
-              className={clsx(
-                "flex-1 py-2.5 text-sm font-semibold transition-all relative",
-                selectedLevel === level
-                  ? "text-white"
-                  : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
-              )}
-            >
-              <span className="relative z-10">{level}</span>
-              <span
+        {/* JLPT 등급 탭 (skipJlptFilter 시 숨김) */}
+        {!skipJlptFilter && (
+          <div className="flex border-b border-gray-200 dark:border-gray-700">
+            {JLPT_TABS.map((level) => (
+              <button
+                key={level}
+                onClick={() => handleLevelChange(level)}
                 className={clsx(
-                  "ml-1 text-xs relative z-10",
-                  selectedLevel === level ? "text-white/80" : "text-gray-400"
+                  "flex-1 py-2.5 text-sm font-semibold transition-all relative",
+                  selectedLevel === level
+                    ? "text-white"
+                    : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
                 )}
               >
-                ({levelCounts[level]})
-              </span>
-              {selectedLevel === level && (
-                <div
+                <span className="relative z-10">{level}</span>
+                <span
                   className={clsx(
-                    "absolute inset-0",
-                    JLPT_COLORS[level]
+                    "ml-1 text-xs relative z-10",
+                    selectedLevel === level ? "text-white/80" : "text-gray-400"
                   )}
-                />
-              )}
-            </button>
-          ))}
-        </div>
+                >
+                  ({levelCounts[level]})
+                </span>
+                {selectedLevel === level && (
+                  <div
+                    className={clsx(
+                      "absolute inset-0",
+                      JLPT_COLORS[level]
+                    )}
+                  />
+                )}
+              </button>
+            ))}
+          </div>
+        )}
 
         {/* 진행률 & 셔플 */}
         <div className="flex items-center justify-between px-4 py-3 bg-gray-50 dark:bg-gray-800/50">
@@ -526,6 +575,25 @@ export function FlashcardModal({ kanjiList, onClose }: FlashcardModalProps) {
                         <span className="text-gray-800 dark:text-gray-200">
                           {currentKanji.meanings_en.slice(0, 5).join(", ")}
                         </span>
+                      </div>
+                    )}
+
+                    {/* 관련 단어 */}
+                    {relatedWords.length > 0 && (
+                      <div className="mt-3 pt-3 border-t border-blue-200 dark:border-blue-700">
+                        <div className="flex items-center gap-1 mb-1.5">
+                          <span className="text-xs font-medium text-green-600 dark:text-green-400">📚 관련 단어</span>
+                        </div>
+                        <div className="space-y-1">
+                          {relatedWords.map((w, idx) => (
+                            <div key={idx} className="flex items-center gap-1.5 text-xs bg-green-50 dark:bg-green-900/30 px-2 py-1 rounded">
+                              <span className="font-bold text-gray-800 dark:text-gray-200">{w.word}</span>
+                              <span className="text-gray-500 dark:text-gray-400">({w.reading})</span>
+                              <span className="text-green-700 dark:text-green-300 flex-1">{w.meaning}</span>
+                              <span className="text-green-600 dark:text-green-400 text-[10px] font-medium">{w.jlpt}</span>
+                            </div>
+                          ))}
+                        </div>
                       </div>
                     )}
                   </div>

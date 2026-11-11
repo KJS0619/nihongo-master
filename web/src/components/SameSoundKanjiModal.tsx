@@ -229,11 +229,88 @@ function extractSound(hunEum: string | null): string | null {
   return parts[parts.length - 1]; // 마지막 단어가 음
 }
 
+// ========== 한글 초성/받침 분석 유틸리티 ==========
+const CHOSEONG_LIST = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ'];
+
+// 한글 음절에서 초성 추출
+function getChoseong(char: string): string | null {
+  const code = char.charCodeAt(0) - 0xAC00;
+  if (code < 0 || code > 11171) return null;
+  return CHOSEONG_LIST[Math.floor(code / 588)];
+}
+
+// 한글 음절에 받침이 있는지 확인
+function hasBatchim(char: string): boolean {
+  const code = char.charCodeAt(0) - 0xAC00;
+  if (code < 0 || code > 11171) return false;
+  return (code % 28) !== 0;
+}
+
+// 초성별 그룹 정의 (책의 교육적 순서)
+interface ChoseongGroup {
+  id: string;
+  label: string;
+  description: string;
+  choseong: string[];
+  batchimCondition: "none" | "has" | "any"; // 받침 조건
+}
+
+const CHOSEONG_GROUPS: ChoseongGroup[] = [
+  { id: "g-no-batchim", label: "ㄱ (받침 없음)", description: "가, 고, 구, 기 등", choseong: ["ㄱ"], batchimCondition: "none" },
+  { id: "g-with-batchim", label: "ㄱ/ㄲ (받침 있음)", description: "각, 간, 강, 깊 등", choseong: ["ㄱ", "ㄲ"], batchimCondition: "has" },
+  { id: "ieung", label: "ㅇ", description: "아, 억, 용, 이 등", choseong: ["ㅇ"], batchimCondition: "any" },
+  { id: "kh", label: "ㅋ/ㅎ", description: "카, 코, 하, 호 등", choseong: ["ㅋ", "ㅎ"], batchimCondition: "any" },
+  { id: "dt", label: "ㄷ/ㅌ", description: "다, 도, 타, 토 등", choseong: ["ㄷ", "ㄸ", "ㅌ"], batchimCondition: "any" },
+  { id: "nr", label: "ㄴ/ㄹ", description: "나, 노, 라, 로 등", choseong: ["ㄴ", "ㄹ"], batchimCondition: "any" },
+  { id: "m", label: "ㅁ", description: "마, 모, 무, 미 등", choseong: ["ㅁ"], batchimCondition: "any" },
+  { id: "p", label: "ㅍ", description: "파, 포, 피 등", choseong: ["ㅍ"], batchimCondition: "any" },
+  { id: "b", label: "ㅂ", description: "바, 보, 비, 부 등", choseong: ["ㅂ", "ㅃ"], batchimCondition: "any" },
+  { id: "s", label: "ㅅ/ㅆ", description: "사, 소, 수 등", choseong: ["ㅅ", "ㅆ"], batchimCondition: "any" },
+  { id: "j", label: "ㅈ", description: "자, 조, 주, 지 등", choseong: ["ㅈ", "ㅉ"], batchimCondition: "any" },
+  { id: "ch", label: "ㅊ", description: "차, 초, 추, 치 등", choseong: ["ㅊ"], batchimCondition: "any" },
+];
+
+// 가나다순 정렬용 그룹 순서
+const CHOSEONG_ALPHABET_ORDER = ["ㄱ", "ㄲ", "ㄴ", "ㄷ", "ㄸ", "ㄹ", "ㅁ", "ㅂ", "ㅃ", "ㅅ", "ㅆ", "ㅇ", "ㅈ", "ㅉ", "ㅊ", "ㅋ", "ㅌ", "ㅍ", "ㅎ"];
+
+// 한자가 특정 그룹에 속하는지 확인
+function kanjiMatchesGroup(kanji: Kanji, group: ChoseongGroup): boolean {
+  const sound = extractSound(kanji.korean_hun_eum);
+  if (!sound || sound.length === 0) return false;
+
+  const firstChar = sound[0];
+  const choseong = getChoseong(firstChar);
+  if (!choseong) return false;
+
+  // 초성 일치 확인
+  if (!group.choseong.includes(choseong)) return false;
+
+  // 받침 조건 확인
+  if (group.batchimCondition === "none") {
+    return !hasBatchim(firstChar);
+  } else if (group.batchimCondition === "has") {
+    return hasBatchim(firstChar);
+  }
+  return true; // "any"
+}
+
+// 하위 그룹 키 생성 (한국어 음 + 일본어 음독)
+function getSubGroupKey(kanji: Kanji): string {
+  const krSound = extractSound(kanji.korean_hun_eum) || "?";
+  const jaOn = kanji.ja_on && kanji.ja_on.length > 0 ? kanji.ja_on[0] : "?";
+  return `${krSound} (${jaOn})`;
+}
+
+type TabType = "sound" | "choseong";
+
 interface SameSoundKanjiModalProps {
   kanjiList: Kanji[];
   onClose: () => void;
-  onKanjiClick?: (kanji: Kanji) => void;
-  initialSound?: string; // 초기 선택할 음
+  onKanjiClick?: (kanji: Kanji, fromTab: TabType) => void;
+  initialSound?: string;
+  initialTab?: TabType;
+  onFlashcard?: (kanjiList: Kanji[], title: string, fromTab: TabType) => void;
+  onPrint?: (chars: string[], title: string, fromTab: TabType) => void;
 }
 
 export function SameSoundKanjiModal({
@@ -241,12 +318,19 @@ export function SameSoundKanjiModal({
   onClose,
   onKanjiClick,
   initialSound,
+  initialTab = "sound",
+  onFlashcard,
+  onPrint,
 }: SameSoundKanjiModalProps) {
+  const [activeTab, setActiveTab] = useState<TabType>(initialTab);
   const [selectedSound, setSelectedSound] = useState<string | null>(initialSound || null);
+  const [selectedGroupId, setSelectedGroupId] = useState<string | null>(CHOSEONG_GROUPS[0]?.id || null);
+  const [selectedSubGroup, setSelectedSubGroup] = useState<string | null>(null); // 하위 그룹 선택
   const [searchQuery, setSearchQuery] = useState("");
-  const initializedRef = useRef(false); // 초기 선택 완료 여부
+  const [choseongSortAlpha, setChoseongSortAlpha] = useState(false); // false = 책 순서, true = 가나다순
+  const initializedRef = useRef(false);
 
-  // 음(音)별로 한자 그룹화
+  // ========== 같은 음 탭 로직 ==========
   const kanjiBySound = useMemo(() => {
     const grouped: Record<string, Kanji[]> = {};
     kanjiList.forEach((kanji) => {
@@ -261,22 +345,18 @@ export function SameSoundKanjiModal({
     return grouped;
   }, [kanjiList]);
 
-  // 가나다순으로 정렬된 음 목록
   const sortedSounds = useMemo(() => {
     return Object.keys(kanjiBySound).sort((a, b) => a.localeCompare(b, "ko"));
   }, [kanjiBySound]);
 
-  // 검색 필터링된 음 목록
   const filteredSounds = useMemo(() => {
     if (!searchQuery.trim()) return sortedSounds;
     const query = searchQuery.trim().toLowerCase();
     return sortedSounds.filter((sound) => sound.includes(query));
   }, [sortedSounds, searchQuery]);
 
-  // 초기 음 선택 (최초 1회만)
   useEffect(() => {
-    if (initializedRef.current) return; // 이미 초기화됨
-
+    if (initializedRef.current || activeTab !== "sound") return;
     if (initialSound && kanjiBySound[initialSound]) {
       setSelectedSound(initialSound);
       initializedRef.current = true;
@@ -284,15 +364,79 @@ export function SameSoundKanjiModal({
       setSelectedSound(filteredSounds[0]);
       initializedRef.current = true;
     }
-  }, [filteredSounds, initialSound, kanjiBySound]);
+  }, [filteredSounds, initialSound, kanjiBySound, activeTab]);
 
-  // 현재 선택된 음의 한자 목록
   const currentSoundKanji = useMemo(() => {
     if (selectedSound === null) return [];
     return kanjiBySound[selectedSound] || [];
   }, [kanjiBySound, selectedSound]);
 
-  // ESC 키로 닫기
+  // ========== 초성별 탭 로직 ==========
+  const kanjiByChoseongGroup = useMemo(() => {
+    const grouped: Record<string, Kanji[]> = {};
+    CHOSEONG_GROUPS.forEach((group) => {
+      grouped[group.id] = kanjiList.filter((k) => kanjiMatchesGroup(k, group));
+    });
+    return grouped;
+  }, [kanjiList]);
+
+  // 정렬된 그룹 목록
+  const sortedChoseongGroups = useMemo(() => {
+    if (!choseongSortAlpha) {
+      return CHOSEONG_GROUPS; // 책 순서 그대로
+    }
+    // 가나다순 정렬
+    return [...CHOSEONG_GROUPS].sort((a, b) => {
+      const aFirst = a.choseong[0];
+      const bFirst = b.choseong[0];
+      return CHOSEONG_ALPHABET_ORDER.indexOf(aFirst) - CHOSEONG_ALPHABET_ORDER.indexOf(bFirst);
+    });
+  }, [choseongSortAlpha]);
+
+  const currentGroupKanji = useMemo(() => {
+    if (!selectedGroupId) return [];
+    return kanjiByChoseongGroup[selectedGroupId] || [];
+  }, [kanjiByChoseongGroup, selectedGroupId]);
+
+  const selectedGroup = CHOSEONG_GROUPS.find((g) => g.id === selectedGroupId);
+
+  // ========== 하위 그룹 (한국어 음 + 일본어 음독) ==========
+  const subGroups = useMemo(() => {
+    const grouped: Record<string, Kanji[]> = {};
+    currentGroupKanji.forEach((kanji) => {
+      const key = getSubGroupKey(kanji);
+      if (!grouped[key]) {
+        grouped[key] = [];
+      }
+      grouped[key].push(kanji);
+    });
+    // 가나다순 정렬
+    const sortedKeys = Object.keys(grouped).sort((a, b) => a.localeCompare(b, "ko"));
+    const sorted: Record<string, Kanji[]> = {};
+    sortedKeys.forEach((key) => {
+      sorted[key] = grouped[key];
+    });
+    return sorted;
+  }, [currentGroupKanji]);
+
+  const subGroupKeys = useMemo(() => Object.keys(subGroups), [subGroups]);
+
+  // 그룹 변경 시 하위 그룹 초기화
+  useEffect(() => {
+    if (subGroupKeys.length > 0 && !subGroupKeys.includes(selectedSubGroup || "")) {
+      setSelectedSubGroup(null); // 전체 보기로 리셋
+    }
+  }, [selectedGroupId, subGroupKeys, selectedSubGroup]);
+
+  // 현재 표시할 한자 목록 (하위 그룹 선택 시 필터링)
+  const displayKanjiList = useMemo(() => {
+    if (!selectedSubGroup) {
+      return currentGroupKanji; // 전체 보기
+    }
+    return subGroups[selectedSubGroup] || [];
+  }, [currentGroupKanji, selectedSubGroup, subGroups]);
+
+  // ========== 공통 핸들러 ==========
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
@@ -301,7 +445,6 @@ export function SameSoundKanjiModal({
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [onClose]);
 
-  // 배경 클릭으로 닫기
   const handleBackdropClick = useCallback(
     (e: React.MouseEvent) => {
       if (e.target === e.currentTarget) onClose();
@@ -309,12 +452,14 @@ export function SameSoundKanjiModal({
     [onClose]
   );
 
-  // 한자 클릭 핸들러
   const handleKanjiClick = (kanji: Kanji) => {
     if (onKanjiClick) {
-      onKanjiClick(kanji);
+      onKanjiClick(kanji, activeTab);
     }
   };
+
+  // 현재 보이는 한자 목록
+  const currentKanjiList = activeTab === "sound" ? currentSoundKanji : displayKanjiList;
 
   return (
     <div
@@ -323,7 +468,7 @@ export function SameSoundKanjiModal({
     >
       <div
         className={clsx(
-          "relative w-full max-w-2xl mx-4 sm:mx-0",
+          "relative w-full max-w-3xl mx-4 sm:mx-0",
           "bg-white dark:bg-gray-900 rounded-2xl",
           "shadow-2xl overflow-hidden max-h-[90vh] flex flex-col"
         )}
@@ -332,8 +477,8 @@ export function SameSoundKanjiModal({
         {/* 헤더 */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-700">
           <h2 className="text-lg font-bold text-gray-900 dark:text-white flex items-center gap-2">
-            <span>🔊</span>
-            같은 음(音) 한자
+            <span>{activeTab === "sound" ? "🔊" : "🔤"}</span>
+            {activeTab === "sound" ? "같은 음(音) 한자" : "초성별 한자"}
           </h2>
           <button
             onClick={onClose}
@@ -355,102 +500,318 @@ export function SameSoundKanjiModal({
           </button>
         </div>
 
-        {/* 검색 & 통계 */}
-        <div className="px-4 py-3 bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-700">
-          <div className="flex items-center gap-3">
-            <div className="relative flex-1">
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="음(音) 검색... (예: 사, 수, 기)"
-                className="w-full pl-9 pr-4 py-2 text-sm bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-              />
-              <svg
-                className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                />
-              </svg>
-            </div>
-            <div className="text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">
-              {sortedSounds.length}개 음 · {kanjiList.filter(k => k.korean_hun_eum).length}자
-            </div>
+        {/* 탭 전환 */}
+        <div className="px-4 py-2 bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-700">
+          <div className="flex gap-2">
+            <button
+              onClick={() => setActiveTab("sound")}
+              className={clsx(
+                "flex-1 py-2 px-4 rounded-lg text-sm font-medium transition-all",
+                activeTab === "sound"
+                  ? "bg-orange-500 text-white shadow-md"
+                  : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              )}
+            >
+              🔊 같은 음
+            </button>
+            <button
+              onClick={() => setActiveTab("choseong")}
+              className={clsx(
+                "flex-1 py-2 px-4 rounded-lg text-sm font-medium transition-all",
+                activeTab === "choseong"
+                  ? "bg-blue-500 text-white shadow-md"
+                  : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              )}
+            >
+              🔤 초성별
+            </button>
           </div>
         </div>
 
-        {/* 메인 컨텐츠 - 2열 레이아웃 */}
+        {/* 검색 & 통계 / 정렬 토글 */}
+        <div className="px-4 py-3 bg-gray-50 dark:bg-gray-800/50 border-b border-gray-200 dark:border-gray-700">
+          {activeTab === "sound" ? (
+            <div className="flex items-center gap-3">
+              <div className="relative flex-1">
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="음(音) 검색... (예: 사, 수, 기)"
+                  className="w-full pl-9 pr-4 py-2 text-sm bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                />
+                <svg
+                  className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                  />
+                </svg>
+              </div>
+              <div className="text-sm text-gray-500 dark:text-gray-400 whitespace-nowrap">
+                {sortedSounds.length}개 음 · {kanjiList.filter(k => k.korean_hun_eum).length}자
+              </div>
+            </div>
+          ) : (
+            <div className="flex items-center justify-between">
+              <div className="text-sm text-gray-500 dark:text-gray-400">
+                {CHOSEONG_GROUPS.length}개 그룹 · {kanjiList.filter(k => k.korean_hun_eum).length}자
+              </div>
+              <div className="flex items-center gap-1 bg-gray-100 dark:bg-gray-700 rounded-lg p-0.5">
+                <button
+                  onClick={() => setChoseongSortAlpha(false)}
+                  className={clsx(
+                    "px-2.5 py-1 text-xs font-medium rounded-md transition-all",
+                    !choseongSortAlpha
+                      ? "bg-white dark:bg-gray-600 text-blue-600 dark:text-blue-300 shadow-sm"
+                      : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                  )}
+                >
+                  📚 학습순서
+                </button>
+                <button
+                  onClick={() => setChoseongSortAlpha(true)}
+                  className={clsx(
+                    "px-2.5 py-1 text-xs font-medium rounded-md transition-all",
+                    choseongSortAlpha
+                      ? "bg-white dark:bg-gray-600 text-blue-600 dark:text-blue-300 shadow-sm"
+                      : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+                  )}
+                >
+                  📖 가나다순
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* 메인 컨텐츠 - 2열 또는 3열 레이아웃 */}
         <div className="flex flex-1 min-h-0">
-          {/* 왼쪽: 음 목록 (가나다순) */}
-          <div className="w-1/3 border-r border-gray-200 dark:border-gray-700 overflow-y-auto">
+          {/* 왼쪽: 1단계 그룹 목록 */}
+          <div className={clsx(
+            "border-r border-gray-200 dark:border-gray-700 overflow-y-auto",
+            activeTab === "choseong" ? "w-1/4" : "w-1/3"
+          )}>
             <div className="p-2">
-              <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
-                가나다순 ({filteredSounds.length}개)
-              </div>
-              <div className="space-y-0.5">
-                {filteredSounds.map((sound) => {
-                  const count = kanjiBySound[sound]?.length || 0;
-                  return (
-                    <button
-                      key={sound}
-                      onClick={() => setSelectedSound(sound)}
-                      className={clsx(
-                        "w-full px-3 py-2 text-left rounded-lg transition-all flex items-center justify-between",
-                        selectedSound === sound
-                          ? "bg-orange-500 text-white"
-                          : "hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300"
-                      )}
-                    >
-                      <span className="text-lg font-bold">{sound}</span>
-                      <span
-                        className={clsx(
-                          "text-xs px-1.5 py-0.5 rounded-full",
-                          selectedSound === sound
-                            ? "bg-orange-400 text-white"
-                            : "bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400"
-                        )}
-                      >
-                        {count}
-                      </span>
-                    </button>
-                  );
-                })}
-              </div>
+              {activeTab === "sound" ? (
+                <>
+                  <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
+                    가나다순 ({filteredSounds.length}개)
+                  </div>
+                  <div className="space-y-0.5">
+                    {filteredSounds.map((sound) => {
+                      const count = kanjiBySound[sound]?.length || 0;
+                      return (
+                        <button
+                          key={sound}
+                          onClick={() => setSelectedSound(sound)}
+                          className={clsx(
+                            "w-full px-3 py-2 text-left rounded-lg transition-all flex items-center justify-between",
+                            selectedSound === sound
+                              ? "bg-orange-500 text-white"
+                              : "hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300"
+                          )}
+                        >
+                          <span className="text-lg font-bold">{sound}</span>
+                          <span
+                            className={clsx(
+                              "text-xs px-1.5 py-0.5 rounded-full",
+                              selectedSound === sound
+                                ? "bg-orange-400 text-white"
+                                : "bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400"
+                            )}
+                          >
+                            {count}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              ) : (
+                <>
+                  <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
+                    {choseongSortAlpha ? "📖 가나다순" : "📚 학습순서"} ({sortedChoseongGroups.length}개)
+                  </div>
+                  <div className="space-y-0.5">
+                    {sortedChoseongGroups.map((group, index) => {
+                      const count = kanjiByChoseongGroup[group.id]?.length || 0;
+                      return (
+                        <button
+                          key={group.id}
+                          onClick={() => {
+                            setSelectedGroupId(group.id);
+                            setSelectedSubGroup(null); // 하위 그룹 초기화
+                          }}
+                          className={clsx(
+                            "w-full px-2 py-1.5 text-left rounded-lg transition-all",
+                            selectedGroupId === group.id
+                              ? "bg-blue-500 text-white"
+                              : "hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300"
+                          )}
+                        >
+                          <div className="flex items-center justify-between">
+                            <div className="flex items-center gap-1.5">
+                              <span className="text-[10px] text-gray-400 dark:text-gray-500 w-3">
+                                {index + 1}
+                              </span>
+                              <span className="text-sm font-bold">{group.label}</span>
+                            </div>
+                            <span
+                              className={clsx(
+                                "text-[10px] px-1.5 py-0.5 rounded-full",
+                                selectedGroupId === group.id
+                                  ? "bg-blue-400 text-white"
+                                  : "bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400"
+                              )}
+                            >
+                              {count}
+                            </span>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              )}
             </div>
           </div>
 
-          {/* 오른쪽: 선택된 음의 한자들 */}
+          {/* 중간: 2단계 하위 그룹 (초성별 탭에서만) */}
+          {activeTab === "choseong" && (
+            <div className="w-1/4 border-r border-gray-200 dark:border-gray-700 overflow-y-auto bg-gray-50/50 dark:bg-gray-800/30">
+              <div className="p-2">
+                <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
+                  음(音)+음독(カナ) ({subGroupKeys.length}개)
+                </div>
+                {/* 전체 보기 버튼 */}
+                <button
+                  onClick={() => setSelectedSubGroup(null)}
+                  className={clsx(
+                    "w-full px-2 py-1.5 text-left rounded-lg transition-all mb-1 flex items-center justify-between",
+                    selectedSubGroup === null
+                      ? "bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 font-medium"
+                      : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-600 dark:text-gray-400"
+                  )}
+                >
+                  <span className="text-xs">전체 보기</span>
+                  <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-gray-200 dark:bg-gray-700">
+                    {currentGroupKanji.length}
+                  </span>
+                </button>
+                <div className="space-y-0.5">
+                  {subGroupKeys.map((key) => {
+                    const count = subGroups[key]?.length || 0;
+                    return (
+                      <button
+                        key={key}
+                        onClick={() => setSelectedSubGroup(key)}
+                        className={clsx(
+                          "w-full px-2 py-1.5 text-left rounded-lg transition-all flex items-center justify-between",
+                          selectedSubGroup === key
+                            ? "bg-indigo-500 text-white"
+                            : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-300"
+                        )}
+                      >
+                        <span className="text-sm font-medium">{key}</span>
+                        <span
+                          className={clsx(
+                            "text-[10px] px-1.5 py-0.5 rounded-full",
+                            selectedSubGroup === key
+                              ? "bg-indigo-400 text-white"
+                              : "bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400"
+                          )}
+                        >
+                          {count}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* 오른쪽: 선택된 항목의 한자들 */}
           <div className="flex-1 overflow-y-auto">
-            {selectedSound && currentSoundKanji.length > 0 ? (
+            {currentKanjiList.length > 0 ? (
               <div className="p-4">
-                {/* 선택된 음 헤더 */}
+                {/* 헤더 */}
                 <div className="mb-4 pb-3 border-b border-gray-200 dark:border-gray-700">
-                  <div className="flex items-center gap-3">
-                    <span className="text-4xl font-bold text-orange-500">
-                      {selectedSound}
-                    </span>
-                    <div>
-                      <p className="text-sm font-medium text-gray-900 dark:text-white">
-                        {currentSoundKanji.length}개의 한자
-                      </p>
-                      <p className="text-xs text-gray-500 dark:text-gray-400">
-                        같은 음(音)을 가진 한자들
-                      </p>
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-3">
+                      <span className={clsx(
+                        "text-2xl font-bold",
+                        activeTab === "sound" ? "text-orange-500" : "text-blue-500"
+                      )}>
+                        {activeTab === "sound"
+                          ? selectedSound
+                          : (selectedSubGroup || selectedGroup?.label)
+                        }
+                      </span>
+                      <div>
+                        <p className="text-sm font-medium text-gray-900 dark:text-white">
+                          {currentKanjiList.length}개의 한자
+                        </p>
+                        <p className="text-xs text-gray-500 dark:text-gray-400">
+                          {activeTab === "sound"
+                            ? "같은 음(音)을 가진 한자들"
+                            : selectedSubGroup
+                              ? "한국어 음 + 일본어 음독이 같은 한자들"
+                              : selectedGroup?.description
+                          }
+                        </p>
+                      </div>
+                    </div>
+                    {/* 액션 버튼들 */}
+                    <div className="flex gap-2">
+                      {onFlashcard && (
+                        <button
+                          onClick={() => {
+                            const title = activeTab === "sound"
+                              ? `음 "${selectedSound}" 한자`
+                              : selectedSubGroup
+                                ? `${selectedSubGroup} 한자`
+                                : `${selectedGroup?.label} 한자`;
+                            onFlashcard(currentKanjiList, title, activeTab);
+                          }}
+                          className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300 rounded-lg hover:bg-green-200 dark:hover:bg-green-900 transition-colors"
+                          title="플래시카드로 학습"
+                        >
+                          🎴 학습
+                        </button>
+                      )}
+                      {onPrint && (
+                        <button
+                          onClick={() => {
+                            const title = activeTab === "sound"
+                              ? `음 "${selectedSound}" 한자`
+                              : selectedSubGroup
+                                ? `${selectedSubGroup} 한자`
+                                : `${selectedGroup?.label} 한자`;
+                            onPrint(currentKanjiList.map(k => k.literal), title, activeTab);
+                          }}
+                          className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
+                          title="인쇄하기"
+                        >
+                          🖨️ 출력
+                        </button>
+                      )}
                     </div>
                   </div>
                 </div>
 
                 {/* 한자 그리드 */}
                 <div className="grid grid-cols-3 sm:grid-cols-4 gap-2">
-                  {currentSoundKanji.map((kanji) => {
+                  {currentKanjiList.map((kanji) => {
                     const radicalInfo = kanji.radical ? RADICAL_MAP[kanji.radical] : null;
+                    const jaOnDisplay = kanji.ja_on && kanji.ja_on.length > 0 ? kanji.ja_on[0] : "";
                     return (
                       <button
                         key={kanji.unicode_hex}
@@ -458,7 +819,9 @@ export function SameSoundKanjiModal({
                         className={clsx(
                           "relative flex flex-col items-center p-2 rounded-lg transition-all",
                           "bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700",
-                          "hover:border-orange-400 hover:shadow-md",
+                          activeTab === "sound"
+                            ? "hover:border-orange-400 hover:shadow-md"
+                            : "hover:border-blue-400 hover:shadow-md",
                           onKanjiClick && "cursor-pointer"
                         )}
                       >
@@ -482,9 +845,21 @@ export function SameSoundKanjiModal({
                           {kanji.korean_hun_eum}
                         </span>
 
+                        {/* 일본어 음독 */}
+                        {jaOnDisplay && (
+                          <span className="text-[9px] text-indigo-600 dark:text-indigo-400 mt-0.5 font-medium">
+                            {jaOnDisplay}
+                          </span>
+                        )}
+
                         {/* 부수 */}
                         {radicalInfo && (
-                          <span className="text-[9px] text-orange-600 dark:text-orange-400 mt-0.5">
+                          <span className={clsx(
+                            "text-[9px] mt-0.5",
+                            activeTab === "sound"
+                              ? "text-orange-600 dark:text-orange-400"
+                              : "text-blue-600 dark:text-blue-400"
+                          )}>
                             {radicalInfo.char}부
                           </span>
                         )}
@@ -495,9 +870,10 @@ export function SameSoundKanjiModal({
               </div>
             ) : (
               <div className="flex items-center justify-center h-full text-gray-500 dark:text-gray-400">
-                {filteredSounds.length === 0
-                  ? "검색 결과가 없습니다"
-                  : "왼쪽에서 음을 선택하세요"}
+                {activeTab === "sound"
+                  ? (filteredSounds.length === 0 ? "검색 결과가 없습니다" : "왼쪽에서 음을 선택하세요")
+                  : "왼쪽에서 그룹을 선택하세요"
+                }
               </div>
             )}
           </div>
@@ -506,7 +882,10 @@ export function SameSoundKanjiModal({
         {/* 하단 안내 */}
         <div className="px-4 py-3 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50">
           <p className="text-xs text-gray-500 dark:text-gray-400 text-center">
-            같은 음(音)을 가진 한자를 모아서 학습하면 연상 기억에 도움이 됩니다
+            {activeTab === "sound"
+              ? "같은 음(音)을 가진 한자를 모아서 학습하면 연상 기억에 도움이 됩니다"
+              : "한국어 초성 → 하위 그룹(음+カナ)으로 세분화하여 한일 음독 대응을 학습하세요"
+            }
           </p>
         </div>
       </div>

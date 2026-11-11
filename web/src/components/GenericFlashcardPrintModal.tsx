@@ -161,7 +161,7 @@ export function GenericFlashcardPrintModal({
         : "";
 
       const extraHtml = card.backContent.extra
-        ? `<div style="font-size: 11pt; color: ${primaryColor} !important; font-weight: 900 !important; border-top: 2px solid #000 !important; padding-top: 6px; margin-top: 6px; font-family: sans-serif; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; line-height: 1.3;">${card.backContent.extra}</div>`
+        ? `<div style="font-size: 9pt; color: #166534 !important; font-weight: 700 !important; border-top: 1px solid #999 !important; padding-top: 4px; margin-top: 4px; font-family: sans-serif; -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; line-height: 1.4; word-break: keep-all;">${card.backContent.extra}</div>`
         : "";
 
       return `<div style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">${primaryHtml}${secondaryHtml}${tertiaryHtml}${extraHtml}</div>`;
@@ -479,7 +479,7 @@ export function GenericFlashcardPrintModal({
                                 </span>
                               )}
                               {card.backContent.extra && (
-                                <span className="text-[8px] text-gray-400 italic mt-0.5 line-clamp-1">
+                                <span className="text-[7px] text-green-600 dark:text-green-400 mt-0.5 border-t border-gray-300 pt-0.5 w-full text-center leading-tight">
                                   {card.backContent.extra}
                                 </span>
                               )}

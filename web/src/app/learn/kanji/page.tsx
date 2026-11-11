@@ -47,6 +47,15 @@ export default function KanjiLearnPage() {
   const [initialSound, setInitialSound] = useState<string | undefined>(undefined);
   const [addedToReview, setAddedToReview] = useState(false);
 
+  // 초성별/같은음 모달에서 플래시카드/프린트/한자 연동용
+  const [flashcardKanjiList, setFlashcardKanjiList] = useState<Kanji[] | null>(null);
+  const [flashcardTitle, setFlashcardTitle] = useState<string | null>(null);
+  const [flashcardFromSameSound, setFlashcardFromSameSound] = useState(false);
+  const [printChars, setPrintChars] = useState<string[] | null>(null);
+  const [printFromSameSound, setPrintFromSameSound] = useState(false);
+  const [kanjiModalFromSameSound, setKanjiModalFromSameSound] = useState(false);
+  const [sameSoundTab, setSameSoundTab] = useState<"sound" | "choseong">("sound"); // 복귀할 탭 기억
+
   // 같은 음 한자 보기
   const handleSameSoundClick = (sound: string) => {
     setInitialSound(sound);
@@ -258,15 +267,33 @@ export default function KanjiLearnPage() {
       {selectedKanji && (
         <KanjiModal
           kanji={selectedKanji}
-          onClose={() => setSelectedKanji(null)}
+          onClose={() => {
+            setSelectedKanji(null);
+            // 같은음/초성별 모달에서 왔으면 다시 그 모달 열기
+            if (kanjiModalFromSameSound) {
+              setShowSameSound(true);
+              setKanjiModalFromSameSound(false);
+            }
+          }}
           onSameSoundClick={handleSameSoundClick}
         />
       )}
 
       {showFlashcard && (
         <FlashcardModal
-          kanjiList={kanjiData}
-          onClose={() => setShowFlashcard(false)}
+          kanjiList={flashcardKanjiList || kanjiData}
+          onClose={() => {
+            setShowFlashcard(false);
+            // 같은음/초성별 모달에서 왔으면 다시 그 모달 열기
+            if (flashcardFromSameSound) {
+              setShowSameSound(true);
+              setFlashcardFromSameSound(false);
+            }
+            setFlashcardKanjiList(null);
+            setFlashcardTitle(null);
+          }}
+          skipJlptFilter={flashcardFromSameSound}
+          title={flashcardTitle || undefined}
         />
       )}
 
@@ -305,10 +332,18 @@ export default function KanjiLearnPage() {
 
       {showHanjaBook && (
         <HanjaBookPrintModal
-          chars={selectedChars.size > 0 ? Array.from(selectedChars) : filteredKanji.map((k) => k.literal)}
+          chars={printChars || (selectedChars.size > 0 ? Array.from(selectedChars) : filteredKanji.map((k) => k.literal))}
           allowInput
-          title={selectedChars.size > 0 ? `한자책 출력(양면) · 선택한 ${selectedChars.size}자` : "한자책 출력(양면) · 현재 필터 결과"}
-          onClose={() => setShowHanjaBook(false)}
+          title={printChars ? `한자책 출력(양면) · ${printChars.length}자` : (selectedChars.size > 0 ? `한자책 출력(양면) · 선택한 ${selectedChars.size}자` : "한자책 출력(양면) · 현재 필터 결과")}
+          onClose={() => {
+            setShowHanjaBook(false);
+            // 같은음/초성별 모달에서 왔으면 다시 그 모달 열기
+            if (printFromSameSound) {
+              setShowSameSound(true);
+              setPrintFromSameSound(false);
+            }
+            setPrintChars(null);
+          }}
         />
       )}
 
@@ -328,11 +363,29 @@ export default function KanjiLearnPage() {
         <SameSoundKanjiModal
           kanjiList={kanjiData}
           onClose={() => setShowSameSound(false)}
-          onKanjiClick={(k) => {
+          onKanjiClick={(k, fromTab) => {
+            setSameSoundTab(fromTab);
             setShowSameSound(false);
+            setKanjiModalFromSameSound(true);
             setSelectedKanji(k);
           }}
           initialSound={initialSound}
+          initialTab={sameSoundTab}
+          onFlashcard={(list, title, fromTab) => {
+            setSameSoundTab(fromTab);
+            setFlashcardKanjiList(list);
+            setFlashcardTitle(title);
+            setFlashcardFromSameSound(true);
+            setShowSameSound(false);
+            setShowFlashcard(true);
+          }}
+          onPrint={(chars, title, fromTab) => {
+            setSameSoundTab(fromTab);
+            setPrintChars(chars);
+            setPrintFromSameSound(true);
+            setShowSameSound(false);
+            setShowHanjaBook(true);
+          }}
         />
       )}
     </div>
