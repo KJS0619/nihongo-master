@@ -98,7 +98,7 @@ export default function StoryReaderPage() {
   const progress = ((currentParagraph + 1) / story.paragraphs.length) * 100;
 
   return (
-    <div className="min-h-screen pb-24">
+    <div className="min-h-screen pb-32">
       {/* 헤더 */}
       <header className="sticky top-0 z-40 bg-white/90 dark:bg-gray-900/90 backdrop-blur-md border-b border-gray-200 dark:border-gray-700">
         <div className="max-w-lg mx-auto px-4 py-3">
@@ -209,13 +209,13 @@ export default function StoryReaderPage() {
         </p>
       </main>
 
-      {/* 하단 네비게이션 */}
-      <div className="fixed bottom-0 left-0 right-0 bg-white/90 dark:bg-gray-900/90 backdrop-blur-md border-t border-gray-200 dark:border-gray-700 safe-area-bottom">
-        <div className="max-w-lg mx-auto px-4 py-3 flex items-center justify-between">
+      {/* 하단 네비게이션 - BottomNav 위에 표시 */}
+      <div className="fixed bottom-16 left-0 right-0 bg-white/95 dark:bg-gray-900/95 backdrop-blur-md border-t border-gray-200 dark:border-gray-700 z-40">
+        <div className="max-w-lg mx-auto px-4 py-2 flex items-center justify-between">
           <button
             onClick={goToPrevious}
             disabled={currentParagraph === 0}
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-colors disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-100 dark:hover:bg-gray-800"
+            className="flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 active:scale-95"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -223,14 +223,14 @@ export default function StoryReaderPage() {
             이전
           </button>
 
-          <span className="text-sm text-gray-500 dark:text-gray-400">
+          <span className="text-sm font-medium text-gray-600 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 px-3 py-1.5 rounded-full">
             {currentParagraph + 1} / {story.paragraphs.length}
           </span>
 
           <button
             onClick={goToNext}
             disabled={currentParagraph === story.paragraphs.length - 1}
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-colors disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-100 dark:hover:bg-gray-800"
+            className="flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-medium transition-all disabled:opacity-30 disabled:cursor-not-allowed bg-amber-500 text-white hover:bg-amber-600 active:scale-95"
           >
             다음
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
