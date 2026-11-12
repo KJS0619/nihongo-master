@@ -1,0 +1,632 @@
+{
+  "id": "momotaro",
+  "title": "桃太郎",
+  "titleKo": "모모타로",
+  "titleReading": "ももたろう",
+  "author": "楠山正雄",
+  "source": "青空文庫",
+  "sourceUrl": "https://www.aozora.gr.jp/cards/000329/files/18376_12100.html",
+  "difficulty": "N4",
+  "estimatedMinutes": 10,
+  "themes": ["모험", "동물", "권선징악", "용기"],
+  "summary": "복숭아에서 태어난 소년이 개, 원숭이, 꿩과 함께 도깨비 섬을 정벌하는 이야기",
+  "summaryJa": "桃から生まれた男の子が、犬、猿、雉とともに鬼ヶ島を征伐する物語",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "昔々、あるところに、おじいさんとおばあさんが住んでいました。",
+          "reading": "むかしむかし、あるところに、おじいさんとおばあさんがすんでいました。",
+          "translation": "옛날 옛적, 어느 곳에 할아버지와 할머니가 살고 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ていました",
+              "range": [28, 35],
+              "explanation": "과거의 지속적인 상태를 나타냅니다. '살고 있었습니다'라는 의미로, 이야기의 배경을 설명할 때 자주 사용됩니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "sentences": [
+        {
+          "id": "s2",
+          "text": "おじいさんは山へ柴刈りに、おばあさんは川へ洗濯に行きました。",
+          "reading": "おじいさんはやまへしばかりに、おばあさんはかわへせんたくにいきました。",
+          "translation": "할아버지는 산으로 나무하러, 할머니는 강으로 빨래하러 갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～へ～に行く",
+              "range": [5, 12],
+              "explanation": "'~하러 ~에 가다'라는 목적을 나타내는 표현입니다. へ는 방향, に는 목적을 나타냅니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "sentences": [
+        {
+          "id": "s3",
+          "text": "おばあさんが川で洗濯をしていると、川上から大きな桃がどんぶらこ、どんぶらこと流れてきました。",
+          "reading": "おばあさんがかわでせんたくをしていると、かわかみからおおきなももがどんぶらこ、どんぶらことながれてきました。",
+          "translation": "할머니가 강에서 빨래를 하고 있으니, 강 상류에서 커다란 복숭아가 둥실둥실 떠내려왔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～していると",
+              "range": [11, 17],
+              "explanation": "'~하고 있으니/있는데'라는 의미로, 어떤 행동 중에 다른 일이 일어났음을 나타냅니다.",
+              "jlptLevel": "N4"
+            },
+            {
+              "pattern": "～てきました",
+              "range": [42, 49],
+              "explanation": "'~해 왔습니다'라는 의미로, 화자 쪽으로의 이동이나 변화를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "sentences": [
+        {
+          "id": "s4",
+          "text": "「まあ、大きな桃だこと。おじいさんへのお土産に持って帰りましょう。」",
+          "reading": "「まあ、おおきなももだこと。おじいさんへのおみやげにもってかえりましょう。」",
+          "translation": "\"어머, 커다란 복숭아네. 할아버지께 선물로 가져가야겠다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～だこと",
+              "range": [8, 11],
+              "explanation": "감탄을 나타내는 여성적인 표현입니다. '~이네', '~이구나'라는 의미입니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "～ましょう",
+              "range": [31, 36],
+              "explanation": "'~합시다' 또는 '~해야겠다'라는 의지나 제안을 나타냅니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "sentences": [
+        {
+          "id": "s5",
+          "text": "おばあさんは桃を拾って、家に持って帰りました。",
+          "reading": "おばあさんはももをひろって、いえにもってかえりました。",
+          "translation": "할머니는 복숭아를 주워서 집으로 가져갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～て、～",
+              "range": [10, 13],
+              "explanation": "동작의 순서를 나타내는 연결 표현입니다. '~해서, ~하고'라는 의미입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "sentences": [
+        {
+          "id": "s6",
+          "text": "夕方、おじいさんが山から帰ってきました。",
+          "reading": "ゆうがた、おじいさんがやまからかえってきました。",
+          "translation": "저녁때, 할아버지가 산에서 돌아왔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～から",
+              "range": [11, 13],
+              "explanation": "'~에서'라는 출발점을 나타내는 조사입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "おばあさんは桃を見せて言いました。",
+          "reading": "おばあさんはももをみせていいました。",
+          "translation": "할머니는 복숭아를 보여주며 말했습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "sentences": [
+        {
+          "id": "s8",
+          "text": "「おじいさん、川で大きな桃を拾いましたよ。さあ、食べましょう。」",
+          "reading": "「おじいさん、かわでおおきなももをひろいましたよ。さあ、たべましょう。」",
+          "translation": "\"할아버지, 강에서 커다란 복숭아를 주웠어요. 자, 먹어요.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～ましたよ",
+              "range": [16, 21],
+              "explanation": "과거 사실을 알리면서 상대방의 주의를 끄는 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "sentences": [
+        {
+          "id": "s9",
+          "text": "おじいさんが桃を切ろうとすると、桃がパカッと割れて、中から元気な男の子が飛び出しました。",
+          "reading": "おじいさんがももをきろうとすると、ももがぱかっとわれて、なかからげんきなおとこのこがとびだしました。",
+          "translation": "할아버지가 복숭아를 자르려고 하니, 복숭아가 쩍 갈라지면서 안에서 건강한 남자아이가 튀어나왔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ようとすると",
+              "range": [9, 15],
+              "explanation": "'~하려고 하니'라는 의미로, 어떤 행동을 시도하는 순간에 다른 일이 일어났음을 나타냅니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "sentences": [
+        {
+          "id": "s10",
+          "text": "「これは、桃から生まれた子だから、桃太郎と名付けよう。」",
+          "reading": "「これは、ももからうまれたこだから、ももたろうとなづけよう。」",
+          "translation": "\"이 아이는 복숭아에서 태어난 아이니까, 모모타로라고 이름 짓자.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～から",
+              "range": [6, 8],
+              "explanation": "'~에서'라는 기원/출처를 나타내는 조사입니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "～だから",
+              "range": [13, 16],
+              "explanation": "'~이니까'라는 이유를 나타내는 표현입니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "～と名付ける",
+              "range": [22, 27],
+              "explanation": "'~라고 이름 짓다'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "sentences": [
+        {
+          "id": "s11",
+          "text": "桃太郎はどんどん大きくなり、強くて優しい男の子に育ちました。",
+          "reading": "ももたろうはどんどんおおきくなり、つよくてやさしいおとこのこにそだちました。",
+          "translation": "모모타로는 쑥쑥 자라서, 강하고 다정한 남자아이로 자랐습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "どんどん",
+              "range": [5, 9],
+              "explanation": "'쑥쑥', '점점'이라는 의미의 의태어로, 빠른 진행을 나타냅니다.",
+              "jlptLevel": "N4"
+            },
+            {
+              "pattern": "～くて",
+              "range": [17, 19],
+              "explanation": "い형용사를 연결하는 표현입니다. '~하고'라는 의미입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "sentences": [
+        {
+          "id": "s12",
+          "text": "ある日、桃太郎は言いました。",
+          "reading": "あるひ、ももたろうはいいました。",
+          "translation": "어느 날, 모모타로가 말했습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s13",
+          "text": "「おじいさん、おばあさん、私は鬼ヶ島へ鬼退治に行ってきます。」",
+          "reading": "「おじいさん、おばあさん、わたしはおにがしまへおにたいじにいってきます。」",
+          "translation": "\"할아버지, 할머니, 저는 도깨비 섬으로 도깨비 퇴치하러 다녀오겠습니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～に行く",
+              "range": [24, 27],
+              "explanation": "'~하러 가다'라는 목적을 나타내는 표현입니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "～てきます",
+              "range": [27, 32],
+              "explanation": "'다녀오겠습니다'라는 의미로, 갔다가 돌아올 것임을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "sentences": [
+        {
+          "id": "s14",
+          "text": "おばあさんは日本一のきびだんごを作って、桃太郎に持たせました。",
+          "reading": "おばあさんはにほんいちのきびだんごをつくって、ももたろうにもたせました。",
+          "translation": "할머니는 일본 제일의 기비당고를 만들어서 모모타로에게 들려 보냈습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "日本一",
+              "range": [6, 9],
+              "explanation": "'일본 제일', '일본 최고'라는 의미의 표현입니다.",
+              "jlptLevel": "N4"
+            },
+            {
+              "pattern": "～を持たせる",
+              "range": [26, 31],
+              "explanation": "'~을 들려주다/가지게 하다'라는 사역 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "sentences": [
+        {
+          "id": "s15",
+          "text": "桃太郎が歩いていると、犬がやってきました。",
+          "reading": "ももたろうがあるいていると、いぬがやってきました。",
+          "translation": "모모타로가 걷고 있으니, 개가 다가왔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ていると",
+              "range": [8, 13],
+              "explanation": "'~하고 있으니'라는 의미로, 진행 중인 상황에서 무언가가 일어났음을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s16",
+          "text": "「桃太郎さん、どこへ行くのですか？」",
+          "reading": "「ももたろうさん、どこへいくのですか？」",
+          "translation": "\"모모타로 씨, 어디로 가시나요?\"",
+          "grammarNotes": [
+            {
+              "pattern": "～のですか",
+              "range": [14, 19],
+              "explanation": "설명이나 이유를 물을 때 사용하는 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "sentences": [
+        {
+          "id": "s17",
+          "text": "「鬼ヶ島へ鬼退治に行くのです。」",
+          "reading": "「おにがしまへおにたいじにいくのです。」",
+          "translation": "\"도깨비 섬으로 도깨비 퇴치하러 가는 겁니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～のです",
+              "range": [13, 17],
+              "explanation": "설명을 제공할 때 사용하는 표현입니다. '~하는 것입니다'라는 의미입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s18",
+          "text": "「それでは、私もお供させてください。きびだんごを一つください。」",
+          "reading": "「それでは、わたしもおともさせてください。きびだんごをひとつください。」",
+          "translation": "\"그럼, 저도 동행하게 해주세요. 기비당고를 하나 주세요.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～させてください",
+              "range": [12, 20],
+              "explanation": "'~하게 해주세요'라는 허락을 구하는 사역+수수 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "sentences": [
+        {
+          "id": "s19",
+          "text": "桃太郎は犬にきびだんごを一つあげました。",
+          "reading": "ももたろうはいぬにきびだんごをひとつあげました。",
+          "translation": "모모타로는 개에게 기비당고를 하나 주었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～にあげる",
+              "range": [5, 7],
+              "explanation": "'~에게 주다'라는 수수 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        },
+        {
+          "id": "s20",
+          "text": "犬は桃太郎の家来になりました。",
+          "reading": "いぬはももたろうのけらいになりました。",
+          "translation": "개는 모모타로의 부하가 되었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～になる",
+              "range": [12, 15],
+              "explanation": "'~이/가 되다'라는 변화를 나타내는 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "sentences": [
+        {
+          "id": "s21",
+          "text": "同じようにして、猿と雉も家来になりました。",
+          "reading": "おなじようにして、さるときじもけらいになりました。",
+          "translation": "같은 식으로, 원숭이와 꿩도 부하가 되었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "同じように",
+              "range": [0, 5],
+              "explanation": "'같은 식으로', '마찬가지로'라는 의미입니다.",
+              "jlptLevel": "N4"
+            },
+            {
+              "pattern": "～も",
+              "range": [16, 17],
+              "explanation": "'~도'라는 의미로, 추가를 나타내는 조사입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p17",
+      "sentences": [
+        {
+          "id": "s22",
+          "text": "桃太郎と犬と猿と雉は、鬼ヶ島に着きました。",
+          "reading": "ももたろうといぬとさるときじは、おにがしまにつきました。",
+          "translation": "모모타로와 개와 원숭이와 꿩은 도깨비 섬에 도착했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に着く",
+              "range": [19, 22],
+              "explanation": "'~에 도착하다'라는 의미입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        },
+        {
+          "id": "s23",
+          "text": "鬼たちと戦って、見事に勝ちました。",
+          "reading": "おにたちとたたかって、みごとにかちました。",
+          "translation": "도깨비들과 싸워서 훌륭하게 이겼습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～たち",
+              "range": [1, 3],
+              "explanation": "'~들'이라는 복수를 나타내는 접미사입니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "見事に",
+              "range": [10, 13],
+              "explanation": "'훌륭하게', '멋지게'라는 의미의 부사입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p18",
+      "sentences": [
+        {
+          "id": "s24",
+          "text": "鬼の大将は降参して言いました。",
+          "reading": "おにのたいしょうはこうさんしていいました。",
+          "translation": "도깨비 대장은 항복하며 말했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "降参する",
+              "range": [6, 9],
+              "explanation": "'항복하다'라는 의미의 한자어 동사입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        },
+        {
+          "id": "s25",
+          "text": "「もう悪いことはしません。宝物を全部差し上げます。」",
+          "reading": "「もうわるいことはしません。たからものをぜんぶさしあげます。」",
+          "translation": "\"이제 나쁜 짓은 하지 않겠습니다. 보물을 전부 드리겠습니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "もう～ません",
+              "range": [1, 11],
+              "explanation": "'이제 ~하지 않겠습니다'라는 의미로, 앞으로의 부정을 나타냅니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "差し上げる",
+              "range": [21, 26],
+              "explanation": "'드리다'라는 의미의 겸양어입니다. 상대방에게 주는 행위를 낮춰 표현합니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p19",
+      "sentences": [
+        {
+          "id": "s26",
+          "text": "桃太郎は宝物を持って、おじいさんとおばあさんの元へ帰りました。",
+          "reading": "ももたろうはたからものをもって、おじいさんとおばあさんのもとへかえりました。",
+          "translation": "모모타로는 보물을 가지고 할아버지와 할머니 곁으로 돌아갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～を持って",
+              "range": [7, 11],
+              "explanation": "'~을 가지고'라는 의미로, 소지하면서 이동함을 나타냅니다.",
+              "jlptLevel": "N5"
+            },
+            {
+              "pattern": "～の元へ",
+              "range": [25, 28],
+              "explanation": "'~의 곁으로', '~에게로'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s27",
+          "text": "そして、みんな幸せに暮らしました。",
+          "reading": "そして、みんなしあわせにくらしました。",
+          "translation": "그리고 모두 행복하게 살았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "幸せに暮らす",
+              "range": [6, 13],
+              "explanation": "'행복하게 살다'라는 동화의 결말에 자주 나오는 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "word": "昔々", "reading": "むかしむかし", "meaning": "옛날 옛적", "pos": "副詞", "jlptLevel": "N4", "sentenceIds": ["s1"] },
+    { "word": "住む", "reading": "すむ", "meaning": "살다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s1"] },
+    { "word": "山", "reading": "やま", "meaning": "산", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s2", "s6"] },
+    { "word": "柴刈り", "reading": "しばかり", "meaning": "나무하기", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s2"] },
+    { "word": "川", "reading": "かわ", "meaning": "강", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s2", "s3", "s8"] },
+    { "word": "洗濯", "reading": "せんたく", "meaning": "빨래", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s2", "s3"] },
+    { "word": "桃", "reading": "もも", "meaning": "복숭아", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s3", "s4", "s5", "s9", "s10"] },
+    { "word": "流れる", "reading": "ながれる", "meaning": "흐르다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s3"] },
+    { "word": "拾う", "reading": "ひろう", "meaning": "줍다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s5", "s8"] },
+    { "word": "家", "reading": "いえ", "meaning": "집", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s5"] },
+    { "word": "夕方", "reading": "ゆうがた", "meaning": "저녁때", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s6"] },
+    { "word": "帰る", "reading": "かえる", "meaning": "돌아가다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s6", "s26"] },
+    { "word": "切る", "reading": "きる", "meaning": "자르다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s9"] },
+    { "word": "割れる", "reading": "われる", "meaning": "갈라지다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "元気", "reading": "げんき", "meaning": "건강한", "pos": "形容動詞", "jlptLevel": "N5", "sentenceIds": ["s9"] },
+    { "word": "男の子", "reading": "おとこのこ", "meaning": "남자아이", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s9", "s11"] },
+    { "word": "飛び出す", "reading": "とびだす", "meaning": "튀어나오다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "生まれる", "reading": "うまれる", "meaning": "태어나다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s10"] },
+    { "word": "名付ける", "reading": "なづける", "meaning": "이름 짓다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s10"] },
+    { "word": "大きい", "reading": "おおきい", "meaning": "큰", "pos": "形容詞", "jlptLevel": "N5", "sentenceIds": ["s3", "s4", "s8", "s11"] },
+    { "word": "強い", "reading": "つよい", "meaning": "강한", "pos": "形容詞", "jlptLevel": "N5", "sentenceIds": ["s11"] },
+    { "word": "優しい", "reading": "やさしい", "meaning": "다정한", "pos": "形容詞", "jlptLevel": "N5", "sentenceIds": ["s11"] },
+    { "word": "育つ", "reading": "そだつ", "meaning": "자라다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s11"] },
+    { "word": "鬼", "reading": "おに", "meaning": "도깨비", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s13", "s17", "s22", "s23", "s24"] },
+    { "word": "退治", "reading": "たいじ", "meaning": "퇴치", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s13", "s17"] },
+    { "word": "日本一", "reading": "にほんいち", "meaning": "일본 제일", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s14"] },
+    { "word": "きびだんご", "reading": "きびだんご", "meaning": "기비당고(조로 만든 경단)", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s14", "s18", "s19"] },
+    { "word": "犬", "reading": "いぬ", "meaning": "개", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s15", "s19", "s20", "s22"] },
+    { "word": "家来", "reading": "けらい", "meaning": "부하", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s20", "s21"] },
+    { "word": "猿", "reading": "さる", "meaning": "원숭이", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s21", "s22"] },
+    { "word": "雉", "reading": "きじ", "meaning": "꿩", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s21", "s22"] },
+    { "word": "着く", "reading": "つく", "meaning": "도착하다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s22"] },
+    { "word": "戦う", "reading": "たたかう", "meaning": "싸우다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s23"] },
+    { "word": "勝つ", "reading": "かつ", "meaning": "이기다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s23"] },
+    { "word": "大将", "reading": "たいしょう", "meaning": "대장", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s24"] },
+    { "word": "降参", "reading": "こうさん", "meaning": "항복", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s24"] },
+    { "word": "悪い", "reading": "わるい", "meaning": "나쁜", "pos": "形容詞", "jlptLevel": "N5", "sentenceIds": ["s25"] },
+    { "word": "宝物", "reading": "たからもの", "meaning": "보물", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s25", "s26"] },
+    { "word": "全部", "reading": "ぜんぶ", "meaning": "전부", "pos": "副詞", "jlptLevel": "N5", "sentenceIds": ["s25"] },
+    { "word": "差し上げる", "reading": "さしあげる", "meaning": "드리다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s25"] },
+    { "word": "幸せ", "reading": "しあわせ", "meaning": "행복", "pos": "形容動詞", "jlptLevel": "N4", "sentenceIds": ["s27"] },
+    { "word": "暮らす", "reading": "くらす", "meaning": "살다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s27"] }
+  ],
+  "grammarPoints": [
+    {
+      "id": "g1",
+      "pattern": "～ていました",
+      "explanation": "과거의 지속적인 상태나 진행을 나타냅니다. 이야기의 배경 설명에 자주 사용됩니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "住んでいました", "reading": "すんでいました", "translation": "살고 있었습니다" }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "～へ～に行く",
+      "explanation": "'~하러 ~에 가다'라는 목적을 나타내는 표현입니다.",
+      "jlptLevel": "N5",
+      "examples": [
+        { "sentence": "山へ柴刈りに行く", "reading": "やまへしばかりにいく", "translation": "산으로 나무하러 가다" }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "～ていると",
+      "explanation": "'~하고 있으니/있는데'라는 의미로, 어떤 행동 중에 다른 일이 일어났음을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "洗濯をしていると", "reading": "せんたくをしていると", "translation": "빨래를 하고 있으니" }
+      ]
+    },
+    {
+      "id": "g4",
+      "pattern": "～ようとすると",
+      "explanation": "'~하려고 하니'라는 의미로, 어떤 행동을 시도하는 순간에 다른 일이 일어났음을 나타냅니다.",
+      "jlptLevel": "N3",
+      "examples": [
+        { "sentence": "切ろうとすると", "reading": "きろうとすると", "translation": "자르려고 하니" }
+      ]
+    },
+    {
+      "id": "g5",
+      "pattern": "～させてください",
+      "explanation": "'~하게 해주세요'라는 허락을 구하는 사역+수수 표현입니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "お供させてください", "reading": "おともさせてください", "translation": "동행하게 해주세요" }
+      ]
+    }
+  ]
+}

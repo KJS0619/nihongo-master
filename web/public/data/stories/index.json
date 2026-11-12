@@ -1,0 +1,69 @@
+{
+  "stories": [
+    {
+      "id": "momotaro",
+      "title": "桃太郎",
+      "titleKo": "모모타로",
+      "titleReading": "ももたろう",
+      "author": "楠山正雄",
+      "difficulty": "N4",
+      "estimatedMinutes": 10,
+      "themes": ["모험", "동물", "권선징악", "용기"],
+      "summary": "복숭아에서 태어난 소년이 개, 원숭이, 꿩과 함께 도깨비 섬을 정벌하는 이야기",
+      "sentenceCount": 25,
+      "vocabularyCount": 45
+    },
+    {
+      "id": "urashimataro",
+      "title": "浦島太郎",
+      "titleKo": "우라시마 타로",
+      "titleReading": "うらしまたろう",
+      "author": "楠山正雄",
+      "difficulty": "N4",
+      "estimatedMinutes": 12,
+      "themes": ["바다", "용궁", "시간", "교훈"],
+      "summary": "거북이를 구해준 청년이 용궁을 방문하고 돌아왔을 때 벌어지는 이야기",
+      "sentenceCount": 30,
+      "vocabularyCount": 52
+    },
+    {
+      "id": "kaguyahime",
+      "title": "かぐや姫",
+      "titleKo": "카구야 공주",
+      "titleReading": "かぐやひめ",
+      "author": "日本民話",
+      "difficulty": "N3",
+      "estimatedMinutes": 15,
+      "themes": ["달", "공주", "구혼", "이별"],
+      "summary": "대나무에서 태어난 아름다운 공주가 달로 돌아가는 이야기",
+      "sentenceCount": 40,
+      "vocabularyCount": 68
+    },
+    {
+      "id": "shitakiri",
+      "title": "舌切り雀",
+      "titleKo": "혀 잘린 참새",
+      "titleReading": "したきりすずめ",
+      "author": "楠山正雄",
+      "difficulty": "N4",
+      "estimatedMinutes": 8,
+      "themes": ["동물", "선악", "교훈", "욕심"],
+      "summary": "착한 할아버지와 욕심 많은 할머니, 그리고 참새의 이야기",
+      "sentenceCount": 22,
+      "vocabularyCount": 38
+    },
+    {
+      "id": "kachikachi",
+      "title": "かちかち山",
+      "titleKo": "딱딱산",
+      "titleReading": "かちかちやま",
+      "author": "楠山正雄",
+      "difficulty": "N4",
+      "estimatedMinutes": 10,
+      "themes": ["동물", "복수", "교훈", "토끼"],
+      "summary": "할머니의 원수를 갚기 위해 토끼가 너구리를 징벌하는 이야기",
+      "sentenceCount": 28,
+      "vocabularyCount": 42
+    }
+  ]
+}

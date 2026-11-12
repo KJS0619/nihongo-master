@@ -44,6 +44,16 @@ export default function LearnPage() {
       gradient: "from-green-500 to-teal-500",
       features: ["상황별 회화", "롤플레이", "섀도잉", "청취 연습"],
     },
+    {
+      href: "/learn/story",
+      title: "이야기",
+      subtitle: "昔話",
+      description: "옛날이야기로 배우는 일본어",
+      icon: "📖",
+      count: "5편",
+      gradient: "from-amber-500 to-yellow-500",
+      features: ["문장 분석", "AI 문법 설명", "TTS 읽기", "단어 학습"],
+    },
   ];
 
   return (
