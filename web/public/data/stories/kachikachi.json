@@ -1,0 +1,455 @@
+{
+  "id": "kachikachi",
+  "title": "かちかち山",
+  "titleKo": "딱딱산",
+  "titleReading": "かちかちやま",
+  "author": "楠山正雄",
+  "source": "青空文庫",
+  "sourceUrl": "https://www.aozora.gr.jp/cards/000329/files/18380_11972.html",
+  "difficulty": "N4",
+  "estimatedMinutes": 10,
+  "themes": ["동물", "복수", "교훈", "토끼"],
+  "summary": "할머니의 원수를 갚기 위해 토끼가 너구리를 징벌하는 이야기",
+  "summaryJa": "おばあさんの仇を討つため、うさぎがたぬきを懲らしめる物語",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "昔々、山のふもとに優しいおじいさんとおばあさんが住んでいました。",
+          "reading": "むかしむかし、やまのふもとにやさしいおじいさんとおばあさんがすんでいました。",
+          "translation": "옛날 옛적, 산기슭에 착한 할아버지와 할머니가 살고 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "山のふもと",
+              "range": [5, 10],
+              "explanation": "'산기슭', '산 아래'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "sentences": [
+        {
+          "id": "s2",
+          "text": "ところが、悪い狸が畑の野菜を荒らして困っていました。",
+          "reading": "ところが、わるいたぬきがはたけのやさいをあらしてこまっていました。",
+          "translation": "그런데 나쁜 너구리가 밭의 채소를 헤집어 곤란했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "ところが",
+              "range": [0, 4],
+              "explanation": "'그런데', '그러나'라는 역접의 접속사입니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "～て困る",
+              "range": [20, 24],
+              "explanation": "'~해서 곤란하다'라는 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "sentences": [
+        {
+          "id": "s3",
+          "text": "おじいさんはやっと狸を捕まえました。",
+          "reading": "おじいさんはやっとたぬきをつかまえました。",
+          "translation": "할아버지는 겨우 너구리를 잡았습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s4",
+          "text": "「明日、狸汁にして食べよう。」",
+          "reading": "「あした、たぬきじるにしてたべよう。」",
+          "translation": "\"내일 너구리탕으로 해서 먹자.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～にして",
+              "range": [7, 10],
+              "explanation": "'~으로 해서'라는 변환을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "sentences": [
+        {
+          "id": "s5",
+          "text": "おじいさんが山へ行っている間に、狸はおばあさんに言いました。",
+          "reading": "おじいさんがやまへいっているあいだに、たぬきはおばあさんにいいました。",
+          "translation": "할아버지가 산에 가 있는 사이에 너구리가 할머니에게 말했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ている間に",
+              "range": [11, 17],
+              "explanation": "'~하고 있는 사이에'라는 시간 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "「縄をほどいてくれたら、畑仕事を手伝いますよ。」",
+          "reading": "「なわをほどいてくれたら、はたけしごとをてつだいますよ。」",
+          "translation": "\"밧줄을 풀어주시면 밭일을 도와드릴게요.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～てくれたら",
+              "range": [4, 11],
+              "explanation": "'~해 주시면'이라는 조건부 부탁입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "sentences": [
+        {
+          "id": "s7",
+          "text": "おばあさんは縄をほどいてあげました。",
+          "reading": "おばあさんはなわをほどいてあげました。",
+          "translation": "할머니는 밧줄을 풀어주었습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s8",
+          "text": "すると狸はおばあさんを叩いて逃げてしまいました。",
+          "reading": "するとたぬきはおばあさんをたたいてにげてしまいました。",
+          "translation": "그러자 너구리는 할머니를 때리고 도망가 버렸습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "sentences": [
+        {
+          "id": "s9",
+          "text": "おじいさんが帰ってくると、おばあさんは倒れていました。",
+          "reading": "おじいさんがかえってくると、おばあさんはたおれていました。",
+          "translation": "할아버지가 돌아오니 할머니가 쓰러져 있었습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s10",
+          "text": "おじいさんは悲しみに暮れました。",
+          "reading": "おじいさんはかなしみにくれました。",
+          "translation": "할아버지는 슬픔에 잠겼습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "悲しみに暮れる",
+              "range": [6, 13],
+              "explanation": "'슬픔에 잠기다'라는 관용 표현입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "sentences": [
+        {
+          "id": "s11",
+          "text": "その話を聞いた兎が言いました。",
+          "reading": "そのはなしをきいたうさぎがいいました。",
+          "translation": "그 이야기를 들은 토끼가 말했습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s12",
+          "text": "「おじいさん、私が仇を討ってあげます。」",
+          "reading": "「おじいさん、わたしがかたきをうってあげます。」",
+          "translation": "\"할아버지, 제가 원수를 갚아 드릴게요.\"",
+          "grammarNotes": [
+            {
+              "pattern": "仇を討つ",
+              "range": [9, 14],
+              "explanation": "'원수를 갚다'라는 의미입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "sentences": [
+        {
+          "id": "s13",
+          "text": "兎は狸を山へ誘いました。",
+          "reading": "うさぎはたぬきをやまへさそいました。",
+          "translation": "토끼는 너구리를 산으로 꾀어냈습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s14",
+          "text": "「一緒に柴を刈りに行きましょう。」",
+          "reading": "「いっしょにしばをかりにいきましょう。」",
+          "translation": "\"함께 땔감을 베러 갑시다.\"",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "sentences": [
+        {
+          "id": "s15",
+          "text": "山で柴を刈った後、兎は狸の背中の柴に火をつけました。",
+          "reading": "やまでしばをかったあと、うさぎはたぬきのせなかのしばにひをつけました。",
+          "translation": "산에서 땔감을 벤 후, 토끼는 너구리 등의 땔감에 불을 붙였습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "火をつける",
+              "range": [24, 29],
+              "explanation": "'불을 붙이다'라는 의미입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s16",
+          "text": "「かちかち」と音がしました。",
+          "reading": "「かちかち」とおとがしました。",
+          "translation": "\"딱딱\" 하는 소리가 났습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "sentences": [
+        {
+          "id": "s17",
+          "text": "「何の音だ？」と狸が聞くと、兎は答えました。",
+          "reading": "「なんのおとだ？」とたぬきがきくと、うさぎはこたえました。",
+          "translation": "\"무슨 소리야?\" 하고 너구리가 묻자 토끼가 대답했습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s18",
+          "text": "「ここはかちかち山だから、かちかち鳥が鳴いているのさ。」",
+          "reading": "「ここはかちかちやまだから、かちかちどりがないているのさ。」",
+          "translation": "\"여기는 딱딱산이니까, 딱딱새가 울고 있는 거야.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～のさ",
+              "range": [28, 30],
+              "explanation": "'~인 거야'라는 설명의 종조사입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "sentences": [
+        {
+          "id": "s19",
+          "text": "すると柴に火がついて、狸の背中が燃え始めました。",
+          "reading": "するとしばにひがついて、たぬきのせなかがもえはじめました。",
+          "translation": "그러자 땔감에 불이 붙어 너구리의 등이 타기 시작했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～始める",
+              "range": [21, 24],
+              "explanation": "'~하기 시작하다'라는 동작의 개시를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s20",
+          "text": "狸は大やけどをしました。",
+          "reading": "たぬきはおおやけどをしました。",
+          "translation": "너구리는 큰 화상을 입었습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "sentences": [
+        {
+          "id": "s21",
+          "text": "次に兎は傷に効くと言って、唐辛子の薬を塗ってあげました。",
+          "reading": "つぎにうさぎはきずにきくといって、とうがらしのくすりをぬってあげました。",
+          "translation": "다음에 토끼는 상처에 듣는다고 하면서 고추 약을 발라주었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に効く",
+              "range": [7, 10],
+              "explanation": "'~에 효과가 있다'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s22",
+          "text": "狸はもっと痛くなりました。",
+          "reading": "たぬきはもっといたくなりました。",
+          "translation": "너구리는 더욱 아파졌습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "sentences": [
+        {
+          "id": "s23",
+          "text": "最後に兎は狸を船に乗せました。",
+          "reading": "さいごにうさぎはたぬきをふねにのせました。",
+          "translation": "마지막으로 토끼는 너구리를 배에 태웠습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s24",
+          "text": "兎の船は木の船でしたが、狸の船は泥の船でした。",
+          "reading": "うさぎのふねはきのふねでしたが、たぬきのふねはどろのふねでした。",
+          "translation": "토끼의 배는 나무 배였지만, 너구리의 배는 진흙 배였습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "sentences": [
+        {
+          "id": "s25",
+          "text": "泥の船はだんだん溶けて、沈んでいきました。",
+          "reading": "どろのふねはだんだんとけて、しずんでいきました。",
+          "translation": "진흙 배는 점점 녹아서 가라앉아 갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "だんだん",
+              "range": [6, 10],
+              "explanation": "'점점', '차차'라는 의미의 부사입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s26",
+          "text": "「おばあさんの仇だ！」兎は狸を沈めてしまいました。",
+          "reading": "「おばあさんのかたきだ！」うさぎはたぬきをしずめてしまいました。",
+          "translation": "\"할머니의 원수다!\" 토끼는 너구리를 가라앉혀 버렸습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "sentences": [
+        {
+          "id": "s27",
+          "text": "こうして兎はおばあさんの仇を討ちました。",
+          "reading": "こうしてうさぎはおばあさんのかたきをうちました。",
+          "translation": "이렇게 해서 토끼는 할머니의 원수를 갚았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "こうして",
+              "range": [0, 4],
+              "explanation": "'이렇게 해서'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s28",
+          "text": "悪いことをすると必ず罰が当たる、というお話でした。",
+          "reading": "わるいことをするとかならずばつがあたる、というおはなしでした。",
+          "translation": "나쁜 짓을 하면 반드시 벌을 받는다는 이야기였습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "罰が当たる",
+              "range": [13, 18],
+              "explanation": "'벌을 받다'라는 관용 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "word": "ふもと", "reading": "ふもと", "meaning": "기슭, 산 아래", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s1"] },
+    { "word": "狸", "reading": "たぬき", "meaning": "너구리", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2", "s3", "s4", "s5", "s8", "s13", "s15", "s17", "s20", "s21", "s22", "s23", "s24", "s26"] },
+    { "word": "畑", "reading": "はたけ", "meaning": "밭", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s2", "s6"] },
+    { "word": "野菜", "reading": "やさい", "meaning": "채소", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s2"] },
+    { "word": "荒らす", "reading": "あらす", "meaning": "헤집다, 망치다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s2"] },
+    { "word": "捕まえる", "reading": "つかまえる", "meaning": "잡다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s3"] },
+    { "word": "狸汁", "reading": "たぬきじる", "meaning": "너구리탕", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s4"] },
+    { "word": "縄", "reading": "なわ", "meaning": "밧줄", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s6", "s7"] },
+    { "word": "ほどく", "reading": "ほどく", "meaning": "풀다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s6", "s7"] },
+    { "word": "手伝う", "reading": "てつだう", "meaning": "돕다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s6"] },
+    { "word": "叩く", "reading": "たたく", "meaning": "때리다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s8"] },
+    { "word": "逃げる", "reading": "にげる", "meaning": "도망가다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s8"] },
+    { "word": "倒れる", "reading": "たおれる", "meaning": "쓰러지다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "兎", "reading": "うさぎ", "meaning": "토끼", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s11", "s12", "s13", "s15", "s17", "s21", "s23", "s24", "s26", "s27"] },
+    { "word": "仇", "reading": "かたき", "meaning": "원수", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s12", "s26", "s27"] },
+    { "word": "討つ", "reading": "うつ", "meaning": "치다, 갚다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s12", "s27"] },
+    { "word": "誘う", "reading": "さそう", "meaning": "꾀다, 초대하다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s13"] },
+    { "word": "柴", "reading": "しば", "meaning": "땔감", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s14", "s15", "s19"] },
+    { "word": "刈る", "reading": "かる", "meaning": "베다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s14", "s15"] },
+    { "word": "背中", "reading": "せなか", "meaning": "등", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s15", "s19"] },
+    { "word": "火", "reading": "ひ", "meaning": "불", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s15", "s19"] },
+    { "word": "音", "reading": "おと", "meaning": "소리", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s16", "s17"] },
+    { "word": "鳴く", "reading": "なく", "meaning": "울다(동물)", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s18"] },
+    { "word": "燃える", "reading": "もえる", "meaning": "타다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s19"] },
+    { "word": "やけど", "reading": "やけど", "meaning": "화상", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s20"] },
+    { "word": "傷", "reading": "きず", "meaning": "상처", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s21"] },
+    { "word": "唐辛子", "reading": "とうがらし", "meaning": "고추", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s21"] },
+    { "word": "塗る", "reading": "ぬる", "meaning": "바르다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s21"] },
+    { "word": "船", "reading": "ふね", "meaning": "배", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s23", "s24", "s25"] },
+    { "word": "泥", "reading": "どろ", "meaning": "진흙", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s24", "s25"] },
+    { "word": "溶ける", "reading": "とける", "meaning": "녹다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s25"] },
+    { "word": "沈む", "reading": "しずむ", "meaning": "가라앉다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s25", "s26"] },
+    { "word": "罰", "reading": "ばつ", "meaning": "벌", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s28"] }
+  ],
+  "grammarPoints": [
+    {
+      "id": "g1",
+      "pattern": "～ている間に",
+      "explanation": "'~하고 있는 사이에'라는 시간 표현입니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "行っている間に", "reading": "いっているあいだに", "translation": "가 있는 사이에" }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "～始める",
+      "explanation": "'~하기 시작하다'라는 동작의 개시를 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "燃え始めました", "reading": "もえはじめました", "translation": "타기 시작했습니다" }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "罰が当たる",
+      "explanation": "'벌을 받다'라는 관용 표현입니다.",
+      "jlptLevel": "N3",
+      "examples": [
+        { "sentence": "悪いことをすると罰が当たる", "reading": "わるいことをするとばつがあたる", "translation": "나쁜 짓을 하면 벌을 받는다" }
+      ]
+    }
+  ]
+}

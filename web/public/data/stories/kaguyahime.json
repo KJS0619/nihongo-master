@@ -1,0 +1,454 @@
+{
+  "id": "kaguyahime",
+  "title": "かぐや姫",
+  "titleKo": "카구야 공주",
+  "titleReading": "かぐやひめ",
+  "author": "日本民話",
+  "source": "竹取物語",
+  "difficulty": "N3",
+  "estimatedMinutes": 15,
+  "themes": ["달", "공주", "구혼", "이별"],
+  "summary": "대나무에서 태어난 아름다운 공주가 달로 돌아가는 이야기",
+  "summaryJa": "竹から生まれた美しい姫が月へ帰る物語",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "昔々、竹取の翁という老人がいました。",
+          "reading": "むかしむかし、たけとりのおきなというろうじんがいました。",
+          "translation": "옛날 옛적, 다케토리노 오키나라는 노인이 있었습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s2",
+          "text": "翁は毎日、山へ竹を取りに行っていました。",
+          "reading": "おきなはまいにち、やまへたけをとりにいっていました。",
+          "translation": "노인은 매일 산에 대나무를 캐러 가고 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に行く",
+              "range": [12, 15],
+              "explanation": "'~하러 가다'라는 목적을 나타내는 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "sentences": [
+        {
+          "id": "s3",
+          "text": "ある日、光る竹を見つけました。",
+          "reading": "あるひ、ひかるたけをみつけました。",
+          "translation": "어느 날, 빛나는 대나무를 발견했습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s4",
+          "text": "竹を割ってみると、中に小さな女の子がいました。",
+          "reading": "たけをわってみると、なかにちいさなおんなのこがいました。",
+          "translation": "대나무를 쪼개 보니, 안에 작은 여자아이가 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～てみると",
+              "range": [4, 9],
+              "explanation": "'~해 보니'라는 의미로, 시도한 결과를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "sentences": [
+        {
+          "id": "s5",
+          "text": "翁は女の子を家に連れて帰り、妻と一緒に育てました。",
+          "reading": "おきなはおんなのこをいえにつれてかえり、つまといっしょにそだてました。",
+          "translation": "노인은 여자아이를 집에 데려가서 아내와 함께 키웠습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～と一緒に",
+              "range": [18, 22],
+              "explanation": "'~와 함께'라는 의미입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "sentences": [
+        {
+          "id": "s6",
+          "text": "女の子は三ヶ月で美しい娘に成長しました。",
+          "reading": "おんなのこはさんかげつでうつくしいむすめにせいちょうしました。",
+          "translation": "여자아이는 석 달 만에 아름다운 아가씨로 성장했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～で",
+              "range": [9, 10],
+              "explanation": "'~만에'라는 기간을 나타내는 조사입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "text": "翁は娘を「かぐや姫」と名付けました。",
+          "reading": "おきなはむすめを「かぐやひめ」となづけました。",
+          "translation": "노인은 딸을 '카구야 공주'라고 이름 지었습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "sentences": [
+        {
+          "id": "s8",
+          "text": "かぐや姫の美しさは国中に広まりました。",
+          "reading": "かぐやひめのうつくしさはくにじゅうにひろまりました。",
+          "translation": "카구야 공주의 아름다움은 온 나라에 퍼졌습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～さ",
+              "range": [8, 9],
+              "explanation": "い형용사를 명사화하는 접미사입니다. 美しい→美しさ",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s9",
+          "text": "五人の貴族が姫に結婚を申し込みました。",
+          "reading": "ごにんのきぞくがひめにけっこんをもうしこみました。",
+          "translation": "다섯 명의 귀족이 공주에게 결혼을 신청했습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "sentences": [
+        {
+          "id": "s10",
+          "text": "かぐや姫は言いました。",
+          "reading": "かぐやひめはいいました。",
+          "translation": "카구야 공주가 말했습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s11",
+          "text": "「私が求めるものを持ってきた人と結婚しましょう。」",
+          "reading": "「わたしがもとめるものをもってきたひととけっこんしましょう。」",
+          "translation": "\"제가 원하는 것을 가져온 사람과 결혼하겠습니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～た人と",
+              "range": [16, 19],
+              "explanation": "'~한 사람과'라는 의미로, 과거형+사람을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "sentences": [
+        {
+          "id": "s12",
+          "text": "しかし、姫が求めたものは全て手に入らないものばかりでした。",
+          "reading": "しかし、ひめがもとめたものはすべててにはいらないものばかりでした。",
+          "translation": "그러나 공주가 원한 것은 모두 손에 넣을 수 없는 것들뿐이었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ばかり",
+              "range": [26, 29],
+              "explanation": "'~뿐', '~만'이라는 의미입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s13",
+          "text": "五人の貴族は誰も成功しませんでした。",
+          "reading": "ごにんのきぞくはだれもせいこうしませんでした。",
+          "translation": "다섯 명의 귀족은 아무도 성공하지 못했습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "sentences": [
+        {
+          "id": "s14",
+          "text": "やがて、帝もかぐや姫に心を惹かれました。",
+          "reading": "やがて、みかどもかぐやひめにこころをひかれました。",
+          "translation": "이윽고 천황도 카구야 공주에게 마음이 끌렸습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に心を惹かれる",
+              "range": [11, 19],
+              "explanation": "'~에게 마음이 끌리다'라는 수동 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "sentences": [
+        {
+          "id": "s15",
+          "text": "ある晩、かぐや姫は月を見ながら泣いていました。",
+          "reading": "あるばん、かぐやひめはつきをみながらないていました。",
+          "translation": "어느 날 밤, 카구야 공주는 달을 보며 울고 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ながら",
+              "range": [14, 17],
+              "explanation": "'~하면서'라는 동시 동작을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s16",
+          "text": "「私は月の世界から来ました。もうすぐ帰らなければなりません。」",
+          "reading": "「わたしはつきのせかいからきました。もうすぐかえらなければなりません。」",
+          "translation": "\"저는 달 세계에서 왔습니다. 곧 돌아가야 합니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "もうすぐ",
+              "range": [15, 19],
+              "explanation": "'곧', '이제 곧'이라는 의미입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "sentences": [
+        {
+          "id": "s17",
+          "text": "翁と媼は悲しみましたが、どうすることもできませんでした。",
+          "reading": "おきなとおうなはかなしみましたが、どうすることもできませんでした。",
+          "translation": "노인과 노파는 슬퍼했지만, 어쩔 수가 없었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "どうすることもできない",
+              "range": [13, 27],
+              "explanation": "'어쩔 수 없다', '방법이 없다'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "sentences": [
+        {
+          "id": "s18",
+          "text": "八月十五日の夜、月から迎えが来ました。",
+          "reading": "はちがつじゅうごにちのよる、つきからむかえがきました。",
+          "translation": "8월 15일 밤, 달에서 마중이 왔습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s19",
+          "text": "かぐや姫は天の羽衣を着せられると、人間だった頃の記憶を全て忘れてしまいました。",
+          "reading": "かぐやひめはあまのはごろもをきせられると、にんげんだったころのきおくをすべてわすれてしまいました。",
+          "translation": "카구야 공주는 천의 날개옷을 입게 되자, 인간이었을 때의 기억을 모두 잊어버렸습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～せられる",
+              "range": [13, 17],
+              "explanation": "사역수동 표현으로, '~하게 되다'의 의미입니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "～だった頃",
+              "range": [22, 26],
+              "explanation": "'~이었을 때'라는 과거 시점을 나타냅니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "sentences": [
+        {
+          "id": "s20",
+          "text": "かぐや姫は帝に手紙と不死の薬を残しました。",
+          "reading": "かぐやひめはみかどにてがみとふしのくすりをのこしました。",
+          "translation": "카구야 공주는 천황에게 편지와 불사의 약을 남겼습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s21",
+          "text": "そして、月へと帰っていきました。",
+          "reading": "そして、つきへとかえっていきました。",
+          "translation": "그리고 달로 돌아갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～へと",
+              "range": [4, 7],
+              "explanation": "'~으로(향해)'라는 방향을 강조하는 표현입니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "～ていく",
+              "range": [11, 15],
+              "explanation": "'~해 가다'라는 의미로, 화자에게서 멀어지는 방향을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "sentences": [
+        {
+          "id": "s22",
+          "text": "帝は手紙を読み、深い悲しみに包まれました。",
+          "reading": "みかどはてがみをよみ、ふかいかなしみにつつまれました。",
+          "translation": "천황은 편지를 읽고 깊은 슬픔에 휩싸였습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に包まれる",
+              "range": [14, 20],
+              "explanation": "'~에 싸이다', '~에 휩싸이다'라는 수동 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s23",
+          "text": "「姫がいない世で長生きしても意味がない。」",
+          "reading": "「ひめがいないよでながいきしてもいみがない。」",
+          "translation": "\"공주가 없는 세상에서 오래 살아도 의미가 없다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～ても意味がない",
+              "range": [16, 23],
+              "explanation": "'~해도 의미가 없다'라는 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "sentences": [
+        {
+          "id": "s24",
+          "text": "帝は日本で一番高い山で不死の薬を燃やすように命じました。",
+          "reading": "みかどはにほんでいちばんたかいやまでふしのくすりをもやすようにめいじました。",
+          "translation": "천황은 일본에서 가장 높은 산에서 불사의 약을 태우라고 명했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ように命じる",
+              "range": [24, 31],
+              "explanation": "'~하도록 명하다'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s25",
+          "text": "その山は「不死の山」、つまり「富士山」と呼ばれるようになりました。",
+          "reading": "そのやまは「ふしのやま」、つまり「ふじさん」とよばれるようになりました。",
+          "translation": "그 산은 '불사의 산', 즉 '후지산'이라고 불리게 되었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～と呼ばれるようになる",
+              "range": [24, 35],
+              "explanation": "'~라고 불리게 되다'라는 변화를 나타냅니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "word": "竹取", "reading": "たけとり", "meaning": "대나무 캐기", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s1"] },
+    { "word": "翁", "reading": "おきな", "meaning": "노인(문어체)", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s1", "s2", "s5", "s7", "s17"] },
+    { "word": "竹", "reading": "たけ", "meaning": "대나무", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2", "s3", "s4"] },
+    { "word": "光る", "reading": "ひかる", "meaning": "빛나다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s3"] },
+    { "word": "割る", "reading": "わる", "meaning": "쪼개다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s4"] },
+    { "word": "連れる", "reading": "つれる", "meaning": "데려가다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s5"] },
+    { "word": "妻", "reading": "つま", "meaning": "아내", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s5"] },
+    { "word": "育てる", "reading": "そだてる", "meaning": "키우다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s5"] },
+    { "word": "成長", "reading": "せいちょう", "meaning": "성장", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s6"] },
+    { "word": "美しさ", "reading": "うつくしさ", "meaning": "아름다움", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s8"] },
+    { "word": "国中", "reading": "くにじゅう", "meaning": "온 나라", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s8"] },
+    { "word": "広まる", "reading": "ひろまる", "meaning": "퍼지다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s8"] },
+    { "word": "貴族", "reading": "きぞく", "meaning": "귀족", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s9", "s13"] },
+    { "word": "結婚", "reading": "けっこん", "meaning": "결혼", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s9", "s11"] },
+    { "word": "申し込む", "reading": "もうしこむ", "meaning": "신청하다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "求める", "reading": "もとめる", "meaning": "원하다, 요구하다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s11", "s12"] },
+    { "word": "帝", "reading": "みかど", "meaning": "천황", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s14", "s20", "s22", "s24"] },
+    { "word": "惹かれる", "reading": "ひかれる", "meaning": "끌리다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s14"] },
+    { "word": "月", "reading": "つき", "meaning": "달", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s15", "s16", "s18", "s21"] },
+    { "word": "泣く", "reading": "なく", "meaning": "울다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s15"] },
+    { "word": "媼", "reading": "おうな", "meaning": "노파(문어체)", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s17"] },
+    { "word": "迎え", "reading": "むかえ", "meaning": "마중", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s18"] },
+    { "word": "天の羽衣", "reading": "あまのはごろも", "meaning": "천의 날개옷", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s19"] },
+    { "word": "記憶", "reading": "きおく", "meaning": "기억", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s19"] },
+    { "word": "忘れる", "reading": "わすれる", "meaning": "잊다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s19"] },
+    { "word": "手紙", "reading": "てがみ", "meaning": "편지", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s20", "s22"] },
+    { "word": "不死", "reading": "ふし", "meaning": "불사", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s20", "s24", "s25"] },
+    { "word": "薬", "reading": "くすり", "meaning": "약", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s20", "s24"] },
+    { "word": "包まれる", "reading": "つつまれる", "meaning": "싸이다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s22"] },
+    { "word": "燃やす", "reading": "もやす", "meaning": "태우다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s24"] },
+    { "word": "命じる", "reading": "めいじる", "meaning": "명하다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s24"] },
+    { "word": "富士山", "reading": "ふじさん", "meaning": "후지산", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s25"] }
+  ],
+  "grammarPoints": [
+    {
+      "id": "g1",
+      "pattern": "～てみると",
+      "explanation": "'~해 보니'라는 의미로, 시도한 결과를 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "割ってみると", "reading": "わってみると", "translation": "쪼개 보니" }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "～ながら",
+      "explanation": "'~하면서'라는 동시 동작을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "月を見ながら泣く", "reading": "つきをみながらなく", "translation": "달을 보며 울다" }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "～ていく",
+      "explanation": "'~해 가다'라는 의미로, 화자에게서 멀어지는 방향을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "帰っていきました", "reading": "かえっていきました", "translation": "돌아갔습니다" }
+      ]
+    }
+  ]
+}

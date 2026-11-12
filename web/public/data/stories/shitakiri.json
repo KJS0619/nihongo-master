@@ -1,0 +1,429 @@
+{
+  "id": "shitakiri",
+  "title": "舌切り雀",
+  "titleKo": "혀 잘린 참새",
+  "titleReading": "したきりすずめ",
+  "author": "楠山正雄",
+  "source": "青空文庫",
+  "sourceUrl": "https://www.aozora.gr.jp/cards/000329/files/18378_11970.html",
+  "difficulty": "N4",
+  "estimatedMinutes": 8,
+  "themes": ["동물", "선악", "교훈", "욕심"],
+  "summary": "착한 할아버지와 욕심 많은 할머니, 그리고 참새의 이야기",
+  "summaryJa": "優しいおじいさんと欲張りなおばあさん、そして雀の物語",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "昔々、心優しいおじいさんと、欲張りなおばあさんがいました。",
+          "reading": "むかしむかし、こころやさしいおじいさんと、よくばりなおばあさんがいました。",
+          "translation": "옛날 옛적, 마음씨 착한 할아버지와 욕심 많은 할머니가 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "心優しい",
+              "range": [5, 9],
+              "explanation": "'마음씨가 착한'이라는 의미의 복합 형용사입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "sentences": [
+        {
+          "id": "s2",
+          "text": "おじいさんは傷ついた雀を見つけて、大切に看病してあげました。",
+          "reading": "おじいさんはきずついたすずめをみつけて、たいせつにかんびょうしてあげました。",
+          "translation": "할아버지는 다친 참새를 발견하고 소중히 간호해 주었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "傷ついた",
+              "range": [6, 10],
+              "explanation": "'다친'이라는 의미의 과거형 수식입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "雀はすっかり元気になりました。",
+          "reading": "すずめはすっかりげんきになりました。",
+          "translation": "참새는 완전히 건강해졌습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "すっかり",
+              "range": [3, 7],
+              "explanation": "'완전히', '전부'라는 의미의 부사입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "sentences": [
+        {
+          "id": "s4",
+          "text": "ある日、おばあさんが作った糊を雀が食べてしまいました。",
+          "reading": "あるひ、おばあさんがつくったのりをすずめがたべてしまいました。",
+          "translation": "어느 날, 할머니가 만든 풀을 참새가 먹어버렸습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～てしまう",
+              "range": [24, 29],
+              "explanation": "'~해 버리다'라는 완료나 유감을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "sentences": [
+        {
+          "id": "s5",
+          "text": "おばあさんは怒って、雀の舌をはさみで切ってしまいました。",
+          "reading": "おばあさんはおこって、すずめのしたをはさみできってしまいました。",
+          "translation": "할머니는 화가 나서 참새의 혀를 가위로 잘라버렸습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～で切る",
+              "range": [17, 20],
+              "explanation": "'~로 자르다'라는 도구를 나타내는 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        },
+        {
+          "id": "s6",
+          "text": "「この悪い雀め！出て行け！」",
+          "reading": "「このわるいすずめめ！でていけ！」",
+          "translation": "\"이 못된 참새야! 나가!\"",
+          "grammarNotes": [
+            {
+              "pattern": "～め",
+              "range": [7, 8],
+              "explanation": "경멸이나 욕설을 나타내는 접미사입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "sentences": [
+        {
+          "id": "s7",
+          "text": "おじいさんは雀がかわいそうで、探しに行きました。",
+          "reading": "おじいさんはすずめがかわいそうで、さがしにいきました。",
+          "translation": "할아버지는 참새가 불쌍해서 찾으러 갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～がかわいそうで",
+              "range": [8, 16],
+              "explanation": "'~가 불쌍해서'라는 이유를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "sentences": [
+        {
+          "id": "s8",
+          "text": "「雀さん、雀さん、どこにいますか？」",
+          "reading": "「すずめさん、すずめさん、どこにいますか？」",
+          "translation": "\"참새야, 참새야, 어디 있니?\"",
+          "grammarNotes": []
+        },
+        {
+          "id": "s9",
+          "text": "山を越え、川を渡り、やっと雀の家を見つけました。",
+          "reading": "やまをこえ、かわをわたり、やっとすずめのいえをみつけました。",
+          "translation": "산을 넘고 강을 건너 겨우 참새의 집을 찾았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～を越え、～を渡り",
+              "range": [1, 11],
+              "explanation": "동사의 연용형으로 동작을 나열합니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "やっと",
+              "range": [12, 15],
+              "explanation": "'겨우', '드디어'라는 의미의 부사입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "sentences": [
+        {
+          "id": "s10",
+          "text": "雀は大喜びでおじいさんを迎えました。",
+          "reading": "すずめはおおよろこびでおじいさんをむかえました。",
+          "translation": "참새는 기뻐하며 할아버지를 맞이했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "大喜びで",
+              "range": [3, 7],
+              "explanation": "'크게 기뻐하며'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s11",
+          "text": "ごちそうをたくさん出して、おじいさんをもてなしました。",
+          "reading": "ごちそうをたくさんだして、おじいさんをもてなしました。",
+          "translation": "맛있는 음식을 많이 내어 할아버지를 대접했습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "sentences": [
+        {
+          "id": "s12",
+          "text": "帰りに、雀は二つのつづらを見せました。",
+          "reading": "かえりに、すずめはふたつのつづらをみせました。",
+          "translation": "돌아갈 때 참새는 두 개의 상자를 보여주었습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s13",
+          "text": "「大きいつづらと小さいつづら、どちらがよいですか？」",
+          "reading": "「おおきいつづらとちいさいつづら、どちらがよいですか？」",
+          "translation": "\"큰 상자와 작은 상자, 어느 쪽이 좋으세요?\"",
+          "grammarNotes": [
+            {
+              "pattern": "どちら",
+              "range": [18, 21],
+              "explanation": "'어느 쪽'이라는 선택을 묻는 표현입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "sentences": [
+        {
+          "id": "s14",
+          "text": "おじいさんは小さいつづらを選びました。",
+          "reading": "おじいさんはちいさいつづらをえらびました。",
+          "translation": "할아버지는 작은 상자를 골랐습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s15",
+          "text": "家に帰って開けてみると、中には金銀財宝がぎっしり入っていました。",
+          "reading": "いえにかえってあけてみると、なかにはきんぎんざいほうがぎっしりはいっていました。",
+          "translation": "집에 돌아가 열어보니 안에는 금은보화가 가득 들어 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "ぎっしり",
+              "range": [23, 27],
+              "explanation": "'빽빽이', '가득'이라는 의미의 의태어입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "sentences": [
+        {
+          "id": "s16",
+          "text": "それを見たおばあさんは、欲を出して雀の家へ行きました。",
+          "reading": "それをみたおばあさんは、よくをだしてすずめのいえへいきました。",
+          "translation": "그것을 본 할머니는 욕심을 내어 참새의 집으로 갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "欲を出す",
+              "range": [12, 16],
+              "explanation": "'욕심을 내다'라는 관용 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "sentences": [
+        {
+          "id": "s17",
+          "text": "「私にも土産をおくれ！大きいつづらの方がいい！」",
+          "reading": "「わたしにもみやげをおくれ！おおきいつづらのほうがいい！」",
+          "translation": "\"나한테도 선물을 줘! 큰 상자가 좋아!\"",
+          "grammarNotes": [
+            {
+              "pattern": "～の方がいい",
+              "range": [20, 26],
+              "explanation": "'~쪽이 좋다'라는 선호를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "sentences": [
+        {
+          "id": "s18",
+          "text": "おばあさんは大きいつづらをもらって、急いで家に帰りました。",
+          "reading": "おばあさんはおおきいつづらをもらって、いそいでいえにかえりました。",
+          "translation": "할머니는 큰 상자를 받아서 서둘러 집으로 돌아갔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "急いで",
+              "range": [16, 19],
+              "explanation": "'서둘러', '급히'라는 의미입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "sentences": [
+        {
+          "id": "s19",
+          "text": "家に着くや否や、つづらを開けました。",
+          "reading": "いえにつくやいなや、つづらをあけました。",
+          "translation": "집에 도착하자마자 상자를 열었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～や否や",
+              "range": [4, 8],
+              "explanation": "'~하자마자'라는 의미의 문어적 표현입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        },
+        {
+          "id": "s20",
+          "text": "すると、中から蛇やムカデ、お化けが次々と飛び出してきました。",
+          "reading": "すると、なかからへびやむかで、おばけがつぎつぎととびだしてきました。",
+          "translation": "그러자 안에서 뱀이나 지네, 귀신이 잇따라 튀어나왔습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "次々と",
+              "range": [18, 21],
+              "explanation": "'잇따라', '연달아'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "sentences": [
+        {
+          "id": "s21",
+          "text": "おばあさんは怖くて腰を抜かしてしまいました。",
+          "reading": "おばあさんはこわくてこしをぬかしてしまいました。",
+          "translation": "할머니는 무서워서 주저앉아 버렸습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "腰を抜かす",
+              "range": [9, 14],
+              "explanation": "'주저앉다', '기가 꺾이다'라는 관용 표현입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        },
+        {
+          "id": "s22",
+          "text": "欲張ると良いことはありません、というお話でした。",
+          "reading": "よくばるとよいことはありません、というおはなしでした。",
+          "translation": "욕심을 부리면 좋은 일이 없다는 이야기였습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～と良いことはない",
+              "range": [4, 15],
+              "explanation": "'~하면 좋은 일이 없다'라는 교훈적 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "word": "心優しい", "reading": "こころやさしい", "meaning": "마음씨가 착한", "pos": "形容詞", "jlptLevel": "N3", "sentenceIds": ["s1"] },
+    { "word": "欲張り", "reading": "よくばり", "meaning": "욕심쟁이", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s1"] },
+    { "word": "傷つく", "reading": "きずつく", "meaning": "다치다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s2"] },
+    { "word": "雀", "reading": "すずめ", "meaning": "참새", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2", "s3", "s4", "s5", "s7", "s10", "s12", "s16"] },
+    { "word": "看病", "reading": "かんびょう", "meaning": "간호", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2"] },
+    { "word": "糊", "reading": "のり", "meaning": "풀", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s4"] },
+    { "word": "舌", "reading": "した", "meaning": "혀", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s5"] },
+    { "word": "はさみ", "reading": "はさみ", "meaning": "가위", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s5"] },
+    { "word": "切る", "reading": "きる", "meaning": "자르다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s5"] },
+    { "word": "探す", "reading": "さがす", "meaning": "찾다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s7"] },
+    { "word": "越える", "reading": "こえる", "meaning": "넘다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "渡る", "reading": "わたる", "meaning": "건너다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s9"] },
+    { "word": "迎える", "reading": "むかえる", "meaning": "맞이하다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s10"] },
+    { "word": "ごちそう", "reading": "ごちそう", "meaning": "맛있는 음식", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s11"] },
+    { "word": "もてなす", "reading": "もてなす", "meaning": "대접하다", "pos": "動詞", "jlptLevel": "N2", "sentenceIds": ["s11"] },
+    { "word": "つづら", "reading": "つづら", "meaning": "상자(등나무로 만든)", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s12", "s13", "s14", "s17", "s18", "s19"] },
+    { "word": "選ぶ", "reading": "えらぶ", "meaning": "고르다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s14"] },
+    { "word": "金銀財宝", "reading": "きんぎんざいほう", "meaning": "금은보화", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s15"] },
+    { "word": "欲", "reading": "よく", "meaning": "욕심", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s16"] },
+    { "word": "土産", "reading": "みやげ", "meaning": "선물", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s17"] },
+    { "word": "急ぐ", "reading": "いそぐ", "meaning": "서두르다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s18"] },
+    { "word": "蛇", "reading": "へび", "meaning": "뱀", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s20"] },
+    { "word": "ムカデ", "reading": "むかで", "meaning": "지네", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s20"] },
+    { "word": "お化け", "reading": "おばけ", "meaning": "귀신", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s20"] },
+    { "word": "怖い", "reading": "こわい", "meaning": "무섭다", "pos": "形容詞", "jlptLevel": "N5", "sentenceIds": ["s21"] },
+    { "word": "欲張る", "reading": "よくばる", "meaning": "욕심 부리다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s22"] }
+  ],
+  "grammarPoints": [
+    {
+      "id": "g1",
+      "pattern": "～てしまう",
+      "explanation": "'~해 버리다'라는 완료나 유감을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "食べてしまいました", "reading": "たべてしまいました", "translation": "먹어버렸습니다" }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "やっと",
+      "explanation": "'겨우', '드디어'라는 의미의 부사입니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "やっと見つけました", "reading": "やっとみつけました", "translation": "겨우 찾았습니다" }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "～の方がいい",
+      "explanation": "'~쪽이 좋다'라는 선호를 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "大きい方がいい", "reading": "おおきいほうがいい", "translation": "큰 쪽이 좋다" }
+      ]
+    }
+  ]
+}

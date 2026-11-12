@@ -1,0 +1,468 @@
+{
+  "id": "urashimataro",
+  "title": "浦島太郎",
+  "titleKo": "우라시마 타로",
+  "titleReading": "うらしまたろう",
+  "author": "楠山正雄",
+  "source": "青空文庫",
+  "sourceUrl": "https://www.aozora.gr.jp/cards/000329/files/18377_11969.html",
+  "difficulty": "N4",
+  "estimatedMinutes": 12,
+  "themes": ["바다", "용궁", "시간", "교훈"],
+  "summary": "거북이를 구해준 청년이 용궁을 방문하고 돌아왔을 때 벌어지는 이야기",
+  "summaryJa": "亀を助けた青年が竜宮を訪れ、帰ってきた時に起こる物語",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentences": [
+        {
+          "id": "s1",
+          "text": "昔々、浦島太郎という若い漁師がいました。",
+          "reading": "むかしむかし、うらしまたろうというわかいりょうしがいました。",
+          "translation": "옛날 옛적, 우라시마 타로라는 젊은 어부가 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～という",
+              "range": [8, 11],
+              "explanation": "'~라고 하는'이라는 의미로, 이름이나 명칭을 소개할 때 사용합니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "sentences": [
+        {
+          "id": "s2",
+          "text": "ある日、浜辺を歩いていると、子供たちが亀をいじめているのを見ました。",
+          "reading": "あるひ、はまべをあるいていると、こどもたちがかめをいじめているのをみました。",
+          "translation": "어느 날, 해변을 걷고 있으니 아이들이 거북이를 괴롭히는 것을 보았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～ているのを見る",
+              "range": [28, 35],
+              "explanation": "'~하고 있는 것을 보다'라는 의미로, 진행 중인 행동을 목격했음을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "sentences": [
+        {
+          "id": "s3",
+          "text": "「かわいそうに。その亀を放してあげなさい。」",
+          "reading": "「かわいそうに。そのかめをはなしてあげなさい。」",
+          "translation": "\"불쌍하구나. 그 거북이를 놓아주렴.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～てあげなさい",
+              "range": [14, 21],
+              "explanation": "'~해 주렴'이라는 의미의 부드러운 명령 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "太郎は子供たちにお金を渡して、亀を助けてあげました。",
+          "reading": "たろうはこどもたちにおかねをわたして、かめをたすけてあげました。",
+          "translation": "타로는 아이들에게 돈을 주고 거북이를 구해주었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～てあげる",
+              "range": [24, 29],
+              "explanation": "'~해 주다'라는 수수 표현으로, 다른 사람을 위해 행동함을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "sentences": [
+        {
+          "id": "s5",
+          "text": "数日後、亀が太郎の前に現れました。",
+          "reading": "すうじつご、かめがたろうのまえにあらわれました。",
+          "translation": "며칠 후, 거북이가 타로 앞에 나타났습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s6",
+          "text": "「助けていただいたお礼に、竜宮城へご案内しましょう。」",
+          "reading": "「たすけていただいたおれいに、りゅうぐうじょうへごあんないしましょう。」",
+          "translation": "\"구해주신 답례로 용궁성으로 안내해 드리겠습니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～ていただく",
+              "range": [1, 8],
+              "explanation": "'~해 주시다'라는 겸양어로, 상대방의 행동에 감사를 표합니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "お礼に",
+              "range": [9, 12],
+              "explanation": "'답례로', '보답으로'라는 의미입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "sentences": [
+        {
+          "id": "s7",
+          "text": "太郎は亀の背中に乗って、海の底へ向かいました。",
+          "reading": "たろうはかめのせなかにのって、うみのそこへむかいました。",
+          "translation": "타로는 거북이 등에 타고 바다 밑바닥으로 향했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～に乗る",
+              "range": [9, 12],
+              "explanation": "'~에 타다'라는 의미입니다.",
+              "jlptLevel": "N5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "sentences": [
+        {
+          "id": "s8",
+          "text": "竜宮城はとても美しい宮殿でした。",
+          "reading": "りゅうぐうじょうはとてもうつくしいきゅうでんでした。",
+          "translation": "용궁성은 매우 아름다운 궁전이었습니다.",
+          "grammarNotes": []
+        },
+        {
+          "id": "s9",
+          "text": "乙姫様が太郎を温かく迎えてくれました。",
+          "reading": "おとひめさまがたろうをあたたかくむかえてくれました。",
+          "translation": "오토히메 공주가 타로를 따뜻하게 맞이해 주었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～てくれる",
+              "range": [14, 19],
+              "explanation": "'~해 주다'라는 수수 표현으로, 화자에게 이익이 되는 행동을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "sentences": [
+        {
+          "id": "s10",
+          "text": "毎日、美味しい料理を食べ、美しい舞を見て、楽しく過ごしました。",
+          "reading": "まいにち、おいしいりょうりをたべ、うつくしいまいをみて、たのしくすごしました。",
+          "translation": "매일 맛있는 요리를 먹고, 아름다운 춤을 보며 즐겁게 지냈습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～を食べ、～を見て",
+              "range": [10, 23],
+              "explanation": "동사의 연결형으로, 여러 동작을 나열합니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "sentences": [
+        {
+          "id": "s11",
+          "text": "しかし、三日たつと、太郎は故郷が恋しくなりました。",
+          "reading": "しかし、みっかたつと、たろうはこきょうがこいしくなりました。",
+          "translation": "그러나 사흘이 지나자 타로는 고향이 그리워졌습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～くなる",
+              "range": [20, 24],
+              "explanation": "い형용사 + くなる는 '~해지다'라는 변화를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s12",
+          "text": "「乙姫様、私は故郷に帰らなければなりません。」",
+          "reading": "「おとひめさま、わたしはこきょうにかえらなければなりません。」",
+          "translation": "\"오토히메 공주님, 저는 고향에 돌아가야 합니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～なければならない",
+              "range": [16, 27],
+              "explanation": "'~해야 한다'라는 의무를 나타내는 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "sentences": [
+        {
+          "id": "s13",
+          "text": "乙姫様は悲しそうに言いました。",
+          "reading": "おとひめさまはかなしそうにいいました。",
+          "translation": "오토히메 공주는 슬픈 듯이 말했습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～そうに",
+              "range": [7, 10],
+              "explanation": "'~듯이', '~인 것처럼'이라는 양태를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        },
+        {
+          "id": "s14",
+          "text": "「これは玉手箱です。決して開けてはいけません。」",
+          "reading": "「これはたまてばこです。けっしてあけてはいけません。」",
+          "translation": "\"이것은 옥상자입니다. 절대로 열어서는 안 됩니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "決して～てはいけない",
+              "range": [11, 24],
+              "explanation": "'절대로 ~해서는 안 된다'라는 강한 금지를 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "sentences": [
+        {
+          "id": "s15",
+          "text": "太郎は玉手箱を受け取り、亀に乗って故郷へ帰りました。",
+          "reading": "たろうはたまてばこをうけとり、かめにのってこきょうへかえりました。",
+          "translation": "타로는 옥상자를 받아들고 거북이를 타고 고향으로 돌아갔습니다.",
+          "grammarNotes": []
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "sentences": [
+        {
+          "id": "s16",
+          "text": "しかし、故郷の景色は全く変わっていました。",
+          "reading": "しかし、こきょうのけしきはまったくかわっていました。",
+          "translation": "그러나 고향의 풍경은 완전히 변해 있었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "全く",
+              "range": [8, 10],
+              "explanation": "'완전히', '전혀'라는 의미의 부사입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        },
+        {
+          "id": "s17",
+          "text": "知っている人は誰もいませんでした。",
+          "reading": "しっているひとはだれもいませんでした。",
+          "translation": "아는 사람은 아무도 없었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "誰も～ない",
+              "range": [8, 17],
+              "explanation": "'아무도 ~없다'라는 전면 부정을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "sentences": [
+        {
+          "id": "s18",
+          "text": "「竜宮城では三日でしたが、この世界では三百年も経っていたのです。」",
+          "reading": "「りゅうぐうじょうではみっかでしたが、このせかいではさんびゃくねんもたっていたのです。」",
+          "translation": "\"용궁성에서는 사흘이었지만, 이 세상에서는 삼백 년이나 지나 있었던 것입니다.\"",
+          "grammarNotes": [
+            {
+              "pattern": "～も",
+              "range": [26, 27],
+              "explanation": "'~이나', '~씩이나'라는 의외의 많음을 나타냅니다.",
+              "jlptLevel": "N4"
+            },
+            {
+              "pattern": "～のです",
+              "range": [31, 35],
+              "explanation": "설명이나 이유를 나타내는 표현입니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "sentences": [
+        {
+          "id": "s19",
+          "text": "太郎は悲しみのあまり、玉手箱を開けてしまいました。",
+          "reading": "たろうはかなしみのあまり、たまてばこをあけてしまいました。",
+          "translation": "타로는 슬픔에 겨워 옥상자를 열어버리고 말았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～のあまり",
+              "range": [5, 9],
+              "explanation": "'~에 겨워', '너무 ~해서'라는 과도한 감정을 나타냅니다.",
+              "jlptLevel": "N2"
+            },
+            {
+              "pattern": "～てしまう",
+              "range": [19, 24],
+              "explanation": "'~해 버리다'라는 완료나 유감을 나타냅니다.",
+              "jlptLevel": "N4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "sentences": [
+        {
+          "id": "s20",
+          "text": "すると、白い煙が立ち上り、太郎はたちまち白髪の老人になってしまいました。",
+          "reading": "すると、しろいけむりがたちのぼり、たろうはたちまちしらがのろうじんになってしまいました。",
+          "translation": "그러자 하얀 연기가 피어오르고, 타로는 순식간에 백발의 노인이 되어버리고 말았습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "たちまち",
+              "range": [15, 19],
+              "explanation": "'순식간에', '금방'이라는 의미의 부사입니다.",
+              "jlptLevel": "N2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "sentences": [
+        {
+          "id": "s21",
+          "text": "玉手箱の中には、太郎の三百年分の歳月が入っていたのでした。",
+          "reading": "たまてばこのなかには、たろうのさんびゃくねんぶんのさいげつがはいっていたのでした。",
+          "translation": "옥상자 안에는 타로의 삼백 년 분의 세월이 들어 있었던 것이었습니다.",
+          "grammarNotes": [
+            {
+              "pattern": "～分",
+              "range": [16, 17],
+              "explanation": "'~분(만큼)'이라는 의미로, 양이나 분량을 나타냅니다.",
+              "jlptLevel": "N3"
+            },
+            {
+              "pattern": "～のでした",
+              "range": [27, 32],
+              "explanation": "과거 사실에 대한 설명을 나타내는 표현입니다.",
+              "jlptLevel": "N3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "word": "漁師", "reading": "りょうし", "meaning": "어부", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s1"] },
+    { "word": "浜辺", "reading": "はまべ", "meaning": "해변", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2"] },
+    { "word": "亀", "reading": "かめ", "meaning": "거북이", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s2", "s3", "s4", "s5", "s7", "s15"] },
+    { "word": "いじめる", "reading": "いじめる", "meaning": "괴롭히다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s2"] },
+    { "word": "放す", "reading": "はなす", "meaning": "놓아주다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s3"] },
+    { "word": "助ける", "reading": "たすける", "meaning": "구하다, 돕다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s4", "s6"] },
+    { "word": "現れる", "reading": "あらわれる", "meaning": "나타나다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s5"] },
+    { "word": "竜宮城", "reading": "りゅうぐうじょう", "meaning": "용궁성", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s6", "s8", "s18"] },
+    { "word": "案内", "reading": "あんない", "meaning": "안내", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s6"] },
+    { "word": "背中", "reading": "せなか", "meaning": "등", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s7"] },
+    { "word": "海", "reading": "うみ", "meaning": "바다", "pos": "名詞", "jlptLevel": "N5", "sentenceIds": ["s7"] },
+    { "word": "底", "reading": "そこ", "meaning": "바닥", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s7"] },
+    { "word": "宮殿", "reading": "きゅうでん", "meaning": "궁전", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s8"] },
+    { "word": "乙姫", "reading": "おとひめ", "meaning": "오토히메(용궁 공주)", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s9", "s12", "s13"] },
+    { "word": "迎える", "reading": "むかえる", "meaning": "맞이하다", "pos": "動詞", "jlptLevel": "N3", "sentenceIds": ["s9"] },
+    { "word": "料理", "reading": "りょうり", "meaning": "요리", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s10"] },
+    { "word": "舞", "reading": "まい", "meaning": "춤", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s10"] },
+    { "word": "故郷", "reading": "こきょう", "meaning": "고향", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s11", "s12", "s15", "s16"] },
+    { "word": "恋しい", "reading": "こいしい", "meaning": "그립다", "pos": "形容詞", "jlptLevel": "N2", "sentenceIds": ["s11"] },
+    { "word": "玉手箱", "reading": "たまてばこ", "meaning": "옥상자", "pos": "名詞", "jlptLevel": "N1", "sentenceIds": ["s14", "s15", "s19", "s21"] },
+    { "word": "決して", "reading": "けっして", "meaning": "절대로", "pos": "副詞", "jlptLevel": "N3", "sentenceIds": ["s14"] },
+    { "word": "開ける", "reading": "あける", "meaning": "열다", "pos": "動詞", "jlptLevel": "N5", "sentenceIds": ["s14", "s19"] },
+    { "word": "景色", "reading": "けしき", "meaning": "풍경", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s16"] },
+    { "word": "変わる", "reading": "かわる", "meaning": "변하다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s16"] },
+    { "word": "世界", "reading": "せかい", "meaning": "세계", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s18"] },
+    { "word": "経つ", "reading": "たつ", "meaning": "(시간이) 지나다", "pos": "動詞", "jlptLevel": "N4", "sentenceIds": ["s18"] },
+    { "word": "悲しみ", "reading": "かなしみ", "meaning": "슬픔", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s19"] },
+    { "word": "煙", "reading": "けむり", "meaning": "연기", "pos": "名詞", "jlptLevel": "N3", "sentenceIds": ["s20"] },
+    { "word": "白髪", "reading": "しらが", "meaning": "백발, 흰머리", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s20"] },
+    { "word": "老人", "reading": "ろうじん", "meaning": "노인", "pos": "名詞", "jlptLevel": "N4", "sentenceIds": ["s20"] },
+    { "word": "歳月", "reading": "さいげつ", "meaning": "세월", "pos": "名詞", "jlptLevel": "N2", "sentenceIds": ["s21"] }
+  ],
+  "grammarPoints": [
+    {
+      "id": "g1",
+      "pattern": "～という",
+      "explanation": "'~라고 하는'이라는 의미로, 이름이나 명칭을 소개할 때 사용합니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "浦島太郎という漁師", "reading": "うらしまたろうというりょうし", "translation": "우라시마 타로라는 어부" }
+      ]
+    },
+    {
+      "id": "g2",
+      "pattern": "～てあげる",
+      "explanation": "'~해 주다'라는 수수 표현으로, 다른 사람을 위해 행동함을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "助けてあげました", "reading": "たすけてあげました", "translation": "구해주었습니다" }
+      ]
+    },
+    {
+      "id": "g3",
+      "pattern": "～なければならない",
+      "explanation": "'~해야 한다'라는 의무를 나타내는 표현입니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "帰らなければなりません", "reading": "かえらなければなりません", "translation": "돌아가야 합니다" }
+      ]
+    },
+    {
+      "id": "g4",
+      "pattern": "～てはいけない",
+      "explanation": "'~해서는 안 된다'라는 금지를 나타내는 표현입니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "開けてはいけません", "reading": "あけてはいけません", "translation": "열어서는 안 됩니다" }
+      ]
+    },
+    {
+      "id": "g5",
+      "pattern": "～てしまう",
+      "explanation": "'~해 버리다'라는 완료나 유감을 나타냅니다.",
+      "jlptLevel": "N4",
+      "examples": [
+        { "sentence": "開けてしまいました", "reading": "あけてしまいました", "translation": "열어버리고 말았습니다" }
+      ]
+    }
+  ]
+}
