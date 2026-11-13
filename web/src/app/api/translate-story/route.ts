@@ -41,56 +41,48 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const apiKey = process.env.GEMINI_API_KEY;
+    const apiKey = process.env.OPENAI_API_KEY;
 
     if (!apiKey) {
-      console.error("GEMINI_API_KEY is not set");
+      console.error("OPENAI_API_KEY is not set");
       return NextResponse.json(
         { error: "API 키가 설정되지 않았습니다. 환경 변수를 확인해주세요." },
         { status: 500 }
       );
     }
 
-    const userMessage = `${SYSTEM_PROMPT}
-
-다음 한국어 텍스트를 일본어로 번역해주세요:
-
-${text.trim()}`;
-
-    const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`,
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          contents: [
-            {
-              parts: [
-                {
-                  text: userMessage,
-                },
-              ],
-            },
-          ],
-          generationConfig: {
-            temperature: 0.7,
-            maxOutputTokens: 4096,
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model: "gpt-4o-mini",
+        messages: [
+          {
+            role: "system",
+            content: SYSTEM_PROMPT,
           },
-        }),
-      }
-    );
+          {
+            role: "user",
+            content: `다음 한국어 텍스트를 일본어로 번역해주세요:\n\n${text.trim()}`,
+          },
+        ],
+        temperature: 0.7,
+        max_tokens: 4096,
+      }),
+    });
 
     if (!response.ok) {
       const errorText = await response.text();
-      console.error("Gemini API Error - Status:", response.status);
-      console.error("Gemini API Error - Body:", errorText);
+      console.error("OpenAI API Error - Status:", response.status);
+      console.error("OpenAI API Error - Body:", errorText);
       throw new Error(`AI API 요청 실패 (${response.status})`);
     }
 
     const data = await response.json();
-    const content = data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+    const content = data.choices?.[0]?.message?.content || "";
 
     // JSON 파싱 시도
     try {
