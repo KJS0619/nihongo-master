@@ -105,6 +105,25 @@ export default function StoryListPage() {
         </div>
       </div>
 
+      {/* 나만의 이야기 작성 버튼 */}
+      <div className="max-w-lg mx-auto px-4 pt-4">
+        <Link
+          href="/learn/story/create"
+          className="flex items-center gap-3 p-4 bg-gradient-to-r from-amber-500 to-orange-500 rounded-2xl text-white shadow-lg hover:shadow-xl transition-all"
+        >
+          <div className="w-12 h-12 rounded-xl bg-white/20 flex items-center justify-center">
+            <span className="text-2xl">✍️</span>
+          </div>
+          <div className="flex-1">
+            <h3 className="font-bold">나만의 이야기</h3>
+            <p className="text-sm text-white/80">한국어로 쓰면 일본어로 번역해드려요</p>
+          </div>
+          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          </svg>
+        </Link>
+      </div>
+
       {/* 이야기 목록 */}
       <main className="max-w-lg mx-auto px-4 py-4">
         {isLoading ? (
