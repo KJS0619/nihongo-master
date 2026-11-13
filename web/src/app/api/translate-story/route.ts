@@ -44,11 +44,14 @@ export async function POST(request: NextRequest) {
     const apiKey = process.env.ANTHROPIC_API_KEY;
 
     if (!apiKey) {
+      console.error("ANTHROPIC_API_KEY is not set");
       return NextResponse.json(
         { error: "API 키가 설정되지 않았습니다. 환경 변수를 확인해주세요." },
         { status: 500 }
       );
     }
+
+    console.log("API Key exists, length:", apiKey.length, "starts with:", apiKey.substring(0, 10));
 
     const userMessage = `다음 한국어 텍스트를 일본어로 번역해주세요:
 
@@ -75,9 +78,15 @@ ${text.trim()}`;
     });
 
     if (!response.ok) {
-      const errorData = await response.json();
-      console.error("Anthropic API Error:", errorData);
-      throw new Error(errorData.error?.message || "AI API 요청 실패");
+      const errorText = await response.text();
+      console.error("Anthropic API Error - Status:", response.status);
+      console.error("Anthropic API Error - Body:", errorText);
+      try {
+        const errorData = JSON.parse(errorText);
+        throw new Error(errorData.error?.message || `AI API 요청 실패 (${response.status})`);
+      } catch {
+        throw new Error(`AI API 요청 실패 (${response.status}): ${errorText.substring(0, 200)}`);
+      }
     }
 
     const data = await response.json();
