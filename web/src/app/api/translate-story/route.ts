@@ -41,56 +41,56 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const apiKey = process.env.ANTHROPIC_API_KEY;
+    const apiKey = process.env.GEMINI_API_KEY;
 
     if (!apiKey) {
-      console.error("ANTHROPIC_API_KEY is not set");
+      console.error("GEMINI_API_KEY is not set");
       return NextResponse.json(
         { error: "API 키가 설정되지 않았습니다. 환경 변수를 확인해주세요." },
         { status: 500 }
       );
     }
 
-    console.log("API Key exists, length:", apiKey.length, "starts with:", apiKey.substring(0, 10));
+    const userMessage = `${SYSTEM_PROMPT}
 
-    const userMessage = `다음 한국어 텍스트를 일본어로 번역해주세요:
+다음 한국어 텍스트를 일본어로 번역해주세요:
 
 ${text.trim()}`;
 
-    const response = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-api-key": apiKey,
-        "anthropic-version": "2023-06-01",
-      },
-      body: JSON.stringify({
-        model: "claude-3-haiku-20240307",
-        max_tokens: 4096,
-        system: SYSTEM_PROMPT,
-        messages: [
-          {
-            role: "user",
-            content: userMessage,
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [
+                {
+                  text: userMessage,
+                },
+              ],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.7,
+            maxOutputTokens: 4096,
           },
-        ],
-      }),
-    });
+        }),
+      }
+    );
 
     if (!response.ok) {
       const errorText = await response.text();
-      console.error("Anthropic API Error - Status:", response.status);
-      console.error("Anthropic API Error - Body:", errorText);
-      try {
-        const errorData = JSON.parse(errorText);
-        throw new Error(errorData.error?.message || `AI API 요청 실패 (${response.status})`);
-      } catch {
-        throw new Error(`AI API 요청 실패 (${response.status}): ${errorText.substring(0, 200)}`);
-      }
+      console.error("Gemini API Error - Status:", response.status);
+      console.error("Gemini API Error - Body:", errorText);
+      throw new Error(`AI API 요청 실패 (${response.status})`);
     }
 
     const data = await response.json();
-    const content = data.content[0]?.text || "";
+    const content = data.candidates?.[0]?.content?.parts?.[0]?.text || "";
 
     // JSON 파싱 시도
     try {
