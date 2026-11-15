@@ -22,6 +22,14 @@ interface BookData {
   rad: Record<string, string>;
 }
 
+interface EtymologyEntry {
+  category: string;
+  description: string;
+}
+interface EtymologyData {
+  kanji: Record<string, EtymologyEntry>;
+}
+
 type PairItem = { kind: "pair"; key: string; kr: string; d: PairData };
 type SameItem = { kind: "same"; key: string; ch: string; d: SameData };
 type Sheet =
@@ -131,9 +139,10 @@ const Cuts = ({ tops }: { tops: number[] }) => (
 );
 
 function SheetPages({
-  sheet, book, jpStrokes, sheetNo,
+  sheet, book, jpStrokes, sheetNo, etymology,
 }: {
   sheet: Sheet; book: BookData; jpStrokes: Map<string, string[]>; sheetNo: number;
+  etymology: EtymologyData | null;
 }) {
   const radName = (r: number) => book.rad[String(r)] ?? String(r);
 
@@ -167,6 +176,9 @@ function SheetPages({
                     {d.parts && <div className="hb-parts" lang="ja"><Mk text={d.parts} /></div>}
                     <div className="hb-what"><Mk text={d.what || "글자 모양의 일부가 바뀌었습니다."} /></div>
                     {d.why && <div className="hb-why"><span className="hb-wl">왜 이렇게 생겼나</span> <Mk text={d.why} /></div>}
+                    {etymology?.kanji[d.jp] && (
+                      <div className="hb-ety"><span className="hb-wl">{etymology.kanji[d.jp].category}</span> {etymology.kanji[d.jp].description}</div>
+                    )}
                     {d.tip && <div className="hb-tip">암기 팁 · <Mk text={d.tip} /></div>}
                   </div>
                 </div>
@@ -232,6 +244,9 @@ function SheetPages({
                     {d.sc}획 · {d.g ? `한자능력검정 ${d.g}` : "한자능력검정 급수 외"} · {d.jl ? `JLPT ${d.jl}` : "JLPT 목록 밖"}
                   </div>
                   {d.why && <div className="hb-why"><span className="hb-wl">字源</span> {d.why}</div>}
+                  {etymology?.kanji[it.ch] && (
+                    <div className="hb-ety"><span className="hb-wl">{etymology.kanji[it.ch].category}</span> {etymology.kanji[it.ch].description}</div>
+                  )}
                 </div>
               </div>
             </div>
@@ -292,6 +307,7 @@ const CSS = `
 .hb-parts{font-family:'Noto Serif JP',serif;font-size:14pt;margin-bottom:1.5mm}
 .hb-what{font-size:9.5pt;line-height:1.5;margin-bottom:1.5mm}
 .hb-why{font-size:9pt;line-height:1.5;margin-bottom:1.5mm;background:#f1f5f9;border-radius:1.5mm;padding:1.2mm 2.2mm}
+.hb-ety{font-size:8.5pt;line-height:1.4;margin-bottom:1.5mm;background:#fef3c7;border-radius:1.5mm;padding:1.2mm 2.2mm;color:#92400e}
 .hb-wl{font-weight:bold;color:#475569;margin-right:1mm}
 .hb-tip{font-size:9.5pt;font-weight:bold;background:#fef9c3;border-radius:1.5mm;padding:1mm 2.5mm}
 .hb-sbox{display:flex;box-sizing:border-box;width:186mm;height:49.5mm;border:0.6pt solid #cbd5e1;border-radius:3mm;background:#fff;overflow:hidden}
@@ -334,6 +350,7 @@ interface Props {
 export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)", allowInput = false, onClose }: Props) {
   const [book, setBook] = useState<BookData | null>(null);
   const [jpStrokes, setJpStrokes] = useState<Map<string, string[]>>(new Map());
+  const [etymology, setEtymology] = useState<EtymologyData | null>(null);
   const [error, setError] = useState("");
   const [custom, setCustom] = useState("");
   /** 한글 음절별로 사용자가 고른 한자(미조작이면 후보가 1개일 때만 자동 선택) */
@@ -353,8 +370,9 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
     Promise.all([
       fetch("/data/hanja_book.json").then((r) => r.json()),
       fetch("/data/kanji_master.json").then((r) => r.json()),
+      fetch("/data/kanji_etymology.json").then((r) => r.json()).catch(() => null),
     ])
-      .then(([b, m]: [BookData, { kanji: Kanji[] }]) => {
+      .then(([b, m, e]: [BookData, { kanji: Kanji[] }, EtymologyData | null]) => {
         if (!alive) return;
         const map = new Map<string, string[]>();
         m.kanji.forEach((k) => {
@@ -362,6 +380,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
         });
         setJpStrokes(map);
         setBook(b);
+        if (e) setEtymology(e);
       })
       .catch(() => alive && setError("한자 데이터를 불러오지 못했습니다."));
     return () => { alive = false; };
@@ -609,7 +628,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
                   </div>
                   <div className="overflow-x-auto border rounded-lg bg-gray-100 dark:bg-gray-900 p-2">
                     <div style={{ zoom: 0.5, display: "flex", gap: "8mm" }}>
-                      <SheetPages sheet={preview} book={book} jpStrokes={jpStrokes} sheetNo={previewIdx + 1} />
+                      <SheetPages sheet={preview} book={book} jpStrokes={jpStrokes} sheetNo={previewIdx + 1} etymology={etymology} />
                     </div>
                   </div>
                 </div>
@@ -637,7 +656,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
         createPortal(
           <div id="hb-print-root">
             {chunkSheets.map((s, i) => (
-              <SheetPages key={i} sheet={s} book={book} jpStrokes={jpStrokes} sheetNo={chunk * chunkSize + i + 1} />
+              <SheetPages key={i} sheet={s} book={book} jpStrokes={jpStrokes} sheetNo={chunk * chunkSize + i + 1} etymology={etymology} />
             ))}
           </div>,
           document.body
