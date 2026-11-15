@@ -245,8 +245,13 @@ interface KanjiModalProps {
   onSameSoundClick?: (sound: string) => void; // 같은 음 한자 보기 클릭 시
 }
 
-type TabType = "stroke" | "draw" | "compare";
+type TabType = "stroke" | "draw" | "compare" | "etymology";
 type CharVariant = "jp" | "kr";
+
+interface EtymologyData {
+  category: string;
+  description: string;
+}
 
 export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps) {
   const radicalInfo = kanji.radical ? RADICAL_MAP[kanji.radical] : null;
@@ -258,6 +263,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
   const [diffCategory, setDiffCategory] = useState<string | null>(null);
   const [isInReview, setIsInReview] = useState(false);
   const [justAdded, setJustAdded] = useState(false);
+  const [etymology, setEtymology] = useState<EtymologyData | null>(null);
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
@@ -294,6 +300,19 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
   }, [kanji.literal]);
 
   const hasDiff = koreanTraditional !== null;
+
+  // 어원 데이터 로드
+  useEffect(() => {
+    fetch("/data/kanji_etymology.json")
+      .then((res) => res.json())
+      .then((data) => {
+        const entry = data.kanji[kanji.literal];
+        if (entry) {
+          setEtymology(entry);
+        }
+      })
+      .catch((err) => console.error("Failed to load etymology data:", err));
+  }, [kanji.literal]);
 
   // ESC 키로 닫기
   useEffect(() => {
@@ -565,6 +584,29 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
               )}
             </button>
           )}
+
+          {/* 어원 탭 - 어원 데이터가 있을 때만 표시 */}
+          {etymology && (
+            <button
+              onClick={() => setActiveTab("etymology")}
+              className={clsx(
+                "flex-1 py-3 px-4 text-sm font-semibold transition-colors relative",
+                activeTab === "etymology"
+                  ? "text-amber-600 dark:text-amber-400"
+                  : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+              )}
+            >
+              <span className="flex items-center justify-center gap-2">
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                </svg>
+                어원
+              </span>
+              {activeTab === "etymology" && (
+                <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-600 dark:bg-amber-400" />
+              )}
+            </button>
+          )}
         </div>
 
         {/* 탭 콘텐츠 */}
@@ -711,6 +753,86 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
                   일본에서는 1946년 당용한자표(當用漢字表) 발표 이후 간략화된 신자체(新字體)를 사용합니다.
                   한국에서는 전통적인 정자(正字)를 유지하고 있습니다.
                 </p>
+              </div>
+            </div>
+          )}
+
+          {/* 어원 탭 콘텐츠 */}
+          {activeTab === "etymology" && etymology && (
+            <div className="py-4">
+              {/* 한자와 분류 */}
+              <div className="flex items-center justify-center gap-4 mb-6">
+                <div className="w-24 h-24 flex items-center justify-center bg-amber-50 dark:bg-amber-900/20 rounded-2xl border-2 border-amber-200 dark:border-amber-800">
+                  <span className="text-5xl font-bold text-gray-900 dark:text-white">
+                    {kanji.literal}
+                  </span>
+                </div>
+                <div className="flex flex-col">
+                  <span className="text-sm text-gray-500 dark:text-gray-400">형성 원리</span>
+                  <span className={clsx(
+                    "text-2xl font-bold",
+                    etymology.category === "상형" && "text-green-600 dark:text-green-400",
+                    etymology.category === "지사" && "text-blue-600 dark:text-blue-400",
+                    etymology.category === "회의" && "text-purple-600 dark:text-purple-400",
+                    etymology.category === "형성" && "text-amber-600 dark:text-amber-400",
+                    etymology.category === "전주" && "text-pink-600 dark:text-pink-400",
+                    etymology.category === "가차" && "text-gray-600 dark:text-gray-400"
+                  )}>
+                    {etymology.category}
+                  </span>
+                  <span className="text-xs text-gray-400 dark:text-gray-500">
+                    {etymology.category === "상형" && "象形 - 모양을 본뜸"}
+                    {etymology.category === "지사" && "指事 - 추상 개념 표현"}
+                    {etymology.category === "회의" && "會意 - 뜻을 합침"}
+                    {etymology.category === "형성" && "形聲 - 뜻 + 소리"}
+                    {etymology.category === "전주" && "轉注 - 의미 확장"}
+                    {etymology.category === "가차" && "假借 - 소리를 빌림"}
+                  </span>
+                </div>
+              </div>
+
+              {/* 설명 */}
+              <div className="p-4 bg-amber-50 dark:bg-amber-900/20 rounded-xl border border-amber-200 dark:border-amber-800">
+                <div className="flex items-start gap-3">
+                  <span className="text-2xl">📖</span>
+                  <div>
+                    <p className="text-base text-amber-900 dark:text-amber-100 font-medium leading-relaxed">
+                      {etymology.description}
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* 부수 정보 */}
+              {radicalInfo && (
+                <div className="mt-4 p-3 bg-gray-50 dark:bg-gray-800 rounded-lg">
+                  <div className="flex items-center gap-3">
+                    <span className="text-3xl text-gray-600 dark:text-gray-300">
+                      {radicalInfo.char}
+                    </span>
+                    <div>
+                      <p className="text-sm font-medium text-gray-700 dark:text-gray-300">
+                        부수 제{kanji.radical}번
+                      </p>
+                      <p className="text-xs text-gray-500 dark:text-gray-400">
+                        {radicalInfo.name}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* 육서(六書) 설명 */}
+              <div className="mt-6 text-xs text-gray-500 dark:text-gray-400">
+                <p className="font-medium mb-2">💡 한자의 6가지 형성 원리 (육서 六書)</p>
+                <div className="grid grid-cols-2 gap-2">
+                  <div><span className="text-green-600 dark:text-green-400 font-medium">상형</span>: 사물 모양을 본뜸 (日, 月, 山)</div>
+                  <div><span className="text-blue-600 dark:text-blue-400 font-medium">지사</span>: 추상 개념 표현 (上, 下, 一)</div>
+                  <div><span className="text-purple-600 dark:text-purple-400 font-medium">회의</span>: 뜻을 합쳐 새 의미 (休, 明, 森)</div>
+                  <div><span className="text-amber-600 dark:text-amber-400 font-medium">형성</span>: 뜻(의부)+소리(성부) (江, 請, 校)</div>
+                  <div><span className="text-pink-600 dark:text-pink-400 font-medium">전주</span>: 본뜻에서 파생</div>
+                  <div><span className="text-gray-600 dark:text-gray-400 font-medium">가차</span>: 소리만 빌림 (四, 萬)</div>
+                </div>
               </div>
             </div>
           )}
