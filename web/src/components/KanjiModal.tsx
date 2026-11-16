@@ -253,6 +253,11 @@ interface EtymologyData {
   description: string;
 }
 
+interface HanjaBookData {
+  same?: Record<string, { why?: string; hun?: string }>;
+  pairs?: Record<string, { why?: string }>;
+}
+
 export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps) {
   const radicalInfo = kanji.radical ? RADICAL_MAP[kanji.radical] : null;
   const sound = extractSound(kanji.korean_hun_eum);
@@ -264,6 +269,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
   const [isInReview, setIsInReview] = useState(false);
   const [justAdded, setJustAdded] = useState(false);
   const [etymology, setEtymology] = useState<EtymologyData | null>(null);
+  const [fallbackWhy, setFallbackWhy] = useState<string | null>(null);
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
@@ -301,14 +307,30 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
 
   const hasDiff = koreanTraditional !== null;
 
-  // 어원 데이터 로드
+  // 어원 데이터 로드 (kanji_etymology.json 우선, hanja_book.json fallback)
   useEffect(() => {
+    // 먼저 kanji_etymology.json에서 로드
     fetch("/data/kanji_etymology.json")
       .then((res) => res.json())
       .then((data) => {
         const entry = data.kanji[kanji.literal];
         if (entry) {
           setEtymology(entry);
+          setFallbackWhy(null);
+        } else {
+          // kanji_etymology에 없으면 hanja_book.json에서 why 필드 로드
+          setEtymology(null);
+          fetch("/data/hanja_book.json")
+            .then((res) => res.json())
+            .then((bookData: HanjaBookData) => {
+              const sameEntry = bookData.same?.[kanji.literal];
+              const pairEntry = bookData.pairs?.[kanji.literal];
+              const why = sameEntry?.why || pairEntry?.why;
+              if (why) {
+                setFallbackWhy(why);
+              }
+            })
+            .catch((err) => console.error("Failed to load hanja_book data:", err));
         }
       })
       .catch((err) => console.error("Failed to load etymology data:", err));
@@ -586,7 +608,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
           )}
 
           {/* 어원 탭 - 어원 데이터가 있을 때만 표시 */}
-          {etymology && (
+          {(etymology || fallbackWhy) && (
             <button
               onClick={() => setActiveTab("etymology")}
               className={clsx(
@@ -758,50 +780,82 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
           )}
 
           {/* 어원 탭 콘텐츠 */}
-          {activeTab === "etymology" && etymology && (
+          {activeTab === "etymology" && (etymology || fallbackWhy) && (
             <div className="py-4">
-              {/* 한자와 분류 */}
-              <div className="flex items-center justify-center gap-4 mb-6">
-                <div className="w-24 h-24 flex items-center justify-center bg-amber-50 dark:bg-amber-900/20 rounded-2xl border-2 border-amber-200 dark:border-amber-800">
-                  <span className="text-5xl font-bold text-gray-900 dark:text-white">
-                    {kanji.literal}
-                  </span>
-                </div>
-                <div className="flex flex-col">
-                  <span className="text-sm text-gray-500 dark:text-gray-400">형성 원리</span>
-                  <span className={clsx(
-                    "text-2xl font-bold",
-                    etymology.category === "상형" && "text-green-600 dark:text-green-400",
-                    etymology.category === "지사" && "text-blue-600 dark:text-blue-400",
-                    etymology.category === "회의" && "text-purple-600 dark:text-purple-400",
-                    etymology.category === "형성" && "text-amber-600 dark:text-amber-400",
-                    etymology.category === "전주" && "text-pink-600 dark:text-pink-400",
-                    etymology.category === "가차" && "text-gray-600 dark:text-gray-400"
-                  )}>
-                    {etymology.category}
-                  </span>
-                  <span className="text-xs text-gray-400 dark:text-gray-500">
-                    {etymology.category === "상형" && "象形 - 모양을 본뜸"}
-                    {etymology.category === "지사" && "指事 - 추상 개념 표현"}
-                    {etymology.category === "회의" && "會意 - 뜻을 합침"}
-                    {etymology.category === "형성" && "形聲 - 뜻 + 소리"}
-                    {etymology.category === "전주" && "轉注 - 의미 확장"}
-                    {etymology.category === "가차" && "假借 - 소리를 빌림"}
-                  </span>
-                </div>
-              </div>
-
-              {/* 설명 */}
-              <div className="p-4 bg-amber-50 dark:bg-amber-900/20 rounded-xl border border-amber-200 dark:border-amber-800">
-                <div className="flex items-start gap-3">
-                  <span className="text-2xl">📖</span>
-                  <div>
-                    <p className="text-base text-amber-900 dark:text-amber-100 font-medium leading-relaxed">
-                      {etymology.description}
-                    </p>
+              {/* etymology 데이터가 있을 때 - 풀 버전 */}
+              {etymology && (
+                <>
+                  {/* 한자와 분류 */}
+                  <div className="flex items-center justify-center gap-4 mb-6">
+                    <div className="w-24 h-24 flex items-center justify-center bg-amber-50 dark:bg-amber-900/20 rounded-2xl border-2 border-amber-200 dark:border-amber-800">
+                      <span className="text-5xl font-bold text-gray-900 dark:text-white">
+                        {kanji.literal}
+                      </span>
+                    </div>
+                    <div className="flex flex-col">
+                      <span className="text-sm text-gray-500 dark:text-gray-400">형성 원리</span>
+                      <span className={clsx(
+                        "text-2xl font-bold",
+                        etymology.category === "상형" && "text-green-600 dark:text-green-400",
+                        etymology.category === "지사" && "text-blue-600 dark:text-blue-400",
+                        etymology.category === "회의" && "text-purple-600 dark:text-purple-400",
+                        etymology.category === "형성" && "text-amber-600 dark:text-amber-400",
+                        etymology.category === "전주" && "text-pink-600 dark:text-pink-400",
+                        etymology.category === "가차" && "text-gray-600 dark:text-gray-400"
+                      )}>
+                        {etymology.category}
+                      </span>
+                      <span className="text-xs text-gray-400 dark:text-gray-500">
+                        {etymology.category === "상형" && "象形 - 모양을 본뜸"}
+                        {etymology.category === "지사" && "指事 - 추상 개념 표현"}
+                        {etymology.category === "회의" && "會意 - 뜻을 합침"}
+                        {etymology.category === "형성" && "形聲 - 뜻 + 소리"}
+                        {etymology.category === "전주" && "轉注 - 의미 확장"}
+                        {etymology.category === "가차" && "假借 - 소리를 빌림"}
+                      </span>
+                    </div>
                   </div>
-                </div>
-              </div>
+
+                  {/* 설명 */}
+                  <div className="p-4 bg-amber-50 dark:bg-amber-900/20 rounded-xl border border-amber-200 dark:border-amber-800">
+                    <div className="flex items-start gap-3">
+                      <span className="text-2xl">📖</span>
+                      <div>
+                        <p className="text-base text-amber-900 dark:text-amber-100 font-medium leading-relaxed">
+                          {etymology.description}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </>
+              )}
+
+              {/* fallbackWhy만 있을 때 - 간단 버전 */}
+              {!etymology && fallbackWhy && (
+                <>
+                  {/* 한자 표시 */}
+                  <div className="flex items-center justify-center mb-6">
+                    <div className="w-24 h-24 flex items-center justify-center bg-amber-50 dark:bg-amber-900/20 rounded-2xl border-2 border-amber-200 dark:border-amber-800">
+                      <span className="text-5xl font-bold text-gray-900 dark:text-white">
+                        {kanji.literal}
+                      </span>
+                    </div>
+                  </div>
+
+                  {/* 字源 설명 */}
+                  <div className="p-4 bg-amber-50 dark:bg-amber-900/20 rounded-xl border border-amber-200 dark:border-amber-800">
+                    <div className="flex items-start gap-3">
+                      <span className="text-2xl">📖</span>
+                      <div>
+                        <p className="text-xs text-amber-600 dark:text-amber-400 font-medium mb-1">字源 (자원)</p>
+                        <p className="text-base text-amber-900 dark:text-amber-100 font-medium leading-relaxed">
+                          {fallbackWhy}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </>
+              )}
 
               {/* 부수 정보 */}
               {radicalInfo && (
@@ -822,18 +876,20 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
                 </div>
               )}
 
-              {/* 육서(六書) 설명 */}
-              <div className="mt-6 text-xs text-gray-500 dark:text-gray-400">
-                <p className="font-medium mb-2">💡 한자의 6가지 형성 원리 (육서 六書)</p>
-                <div className="grid grid-cols-2 gap-2">
-                  <div><span className="text-green-600 dark:text-green-400 font-medium">상형</span>: 사물 모양을 본뜸 (日, 月, 山)</div>
-                  <div><span className="text-blue-600 dark:text-blue-400 font-medium">지사</span>: 추상 개념 표현 (上, 下, 一)</div>
-                  <div><span className="text-purple-600 dark:text-purple-400 font-medium">회의</span>: 뜻을 합쳐 새 의미 (休, 明, 森)</div>
-                  <div><span className="text-amber-600 dark:text-amber-400 font-medium">형성</span>: 뜻(의부)+소리(성부) (江, 請, 校)</div>
-                  <div><span className="text-pink-600 dark:text-pink-400 font-medium">전주</span>: 본뜻에서 파생</div>
-                  <div><span className="text-gray-600 dark:text-gray-400 font-medium">가차</span>: 소리만 빌림 (四, 萬)</div>
+              {/* 육서(六書) 설명 - etymology가 있을 때만 표시 */}
+              {etymology && (
+                <div className="mt-6 text-xs text-gray-500 dark:text-gray-400">
+                  <p className="font-medium mb-2">💡 한자의 6가지 형성 원리 (육서 六書)</p>
+                  <div className="grid grid-cols-2 gap-2">
+                    <div><span className="text-green-600 dark:text-green-400 font-medium">상형</span>: 사물 모양을 본뜸 (日, 月, 山)</div>
+                    <div><span className="text-blue-600 dark:text-blue-400 font-medium">지사</span>: 추상 개념 표현 (上, 下, 一)</div>
+                    <div><span className="text-purple-600 dark:text-purple-400 font-medium">회의</span>: 뜻을 합쳐 새 의미 (休, 明, 森)</div>
+                    <div><span className="text-amber-600 dark:text-amber-400 font-medium">형성</span>: 뜻(의부)+소리(성부) (江, 請, 校)</div>
+                    <div><span className="text-pink-600 dark:text-pink-400 font-medium">전주</span>: 본뜻에서 파생</div>
+                    <div><span className="text-gray-600 dark:text-gray-400 font-medium">가차</span>: 소리만 빌림 (四, 萬)</div>
+                  </div>
                 </div>
-              </div>
+              )}
             </div>
           )}
         </div>
