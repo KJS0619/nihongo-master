@@ -5,10 +5,32 @@ import Link from "next/link";
 export default function LearnPage() {
   const categories = [
     {
+      href: "/learn/kanji-room",
+      title: "한자 학습실",
+      subtitle: "漢字学習",
+      description: "매일 목표를 세우고 체계적으로 학습",
+      icon: "📚",
+      count: "일일 학습",
+      gradient: "from-indigo-500 to-purple-500",
+      features: ["목표 설정", "6단계 학습", "자동 복습", "통계"],
+      isNew: true,
+    },
+    {
+      href: "/learn/kanji-vocab",
+      title: "한자 한 장",
+      subtitle: "漢字単語帳",
+      description: "22일 커리큘럼으로 익히는 한자·어휘",
+      icon: "字",
+      count: "2,000+단어",
+      gradient: "from-amber-500 to-orange-500",
+      features: ["22일 커리큘럼", "플래시카드", "간격 반복", "연상 기억법"],
+      isNew: true,
+    },
+    {
       href: "/learn/kanji",
-      title: "한자",
-      subtitle: "漢字",
-      description: "상용한자 2,136자 완전정복",
+      title: "한자 사전",
+      subtitle: "漢字辞典",
+      description: "상용한자 2,136자 검색 및 탐색",
       icon: "🀄",
       count: "2,136자",
       gradient: "from-red-500 to-orange-500",
@@ -54,6 +76,16 @@ export default function LearnPage() {
       gradient: "from-amber-500 to-yellow-500",
       features: ["문장 분석", "AI 문법 설명", "TTS 읽기", "단어 학습"],
     },
+    {
+      href: "/learn/videos",
+      title: "영상 학습",
+      subtitle: "動画学習",
+      description: "일본어 학습 영상 모음",
+      icon: "🎬",
+      count: "영상",
+      gradient: "from-red-500 to-rose-500",
+      features: ["YouTube 영상", "학습 자료", "청취 연습"],
+    },
   ];
 
   return (
@@ -81,6 +113,9 @@ export default function LearnPage() {
                 <div className="flex items-baseline gap-2">
                   <h2 className="text-lg font-bold text-gray-900 dark:text-white">{cat.title}</h2>
                   <span className="text-sm text-gray-500 dark:text-gray-400">{cat.subtitle}</span>
+                  {"isNew" in cat && cat.isNew && (
+                    <span className="px-1.5 py-0.5 bg-red-500 text-white text-xs font-bold rounded">NEW</span>
+                  )}
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-300 mt-1">{cat.description}</p>
                 <p className="text-xs text-blue-600 dark:text-blue-400 font-medium mt-1">{cat.count}</p>

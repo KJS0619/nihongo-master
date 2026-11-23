@@ -4,6 +4,48 @@ import { useEffect, useCallback, useState, useMemo, useRef } from "react";
 import { Kanji, JLPT_COLORS } from "@/types/kanji";
 import clsx from "clsx";
 
+// YouTube 강좌 데이터 타입
+interface YoutubeLecture {
+  vol: number;
+  kanji?: string;
+  sound?: string;
+  sounds?: string[];
+  count: number;
+  videoId?: string;
+  parts?: { part: number; videoId: string }[];
+}
+
+interface YoutubeData {
+  playlists: {
+    vol1: { playlist_id: string; playlist_url: string };
+    vol2: { playlist_id: string; playlist_url: string };
+  };
+  vol1_lectures: YoutubeLecture[];
+  vol2_lectures: YoutubeLecture[];
+}
+
+// 비슷한 모양 그룹 데이터 타입
+interface ShapeGroup {
+  vol: number;
+  baseKanji: string;
+  count: number;
+  relatedKanji: string[];
+  description: string;
+}
+
+interface ShapeGroupsData {
+  version: string;
+  groups: ShapeGroup[];
+}
+
+// 페이지 매핑 데이터 타입
+interface PageMappingData {
+  version: string;
+  description: string;
+  vol1: Record<string, number>;
+  vol2: Record<string, number>;
+}
+
 // 강희자전 214 부수 매핑 (번호 → 부수 문자)
 const RADICAL_MAP: Record<number, { char: string; name: string }> = {
   1: { char: "一", name: "한 일" },
@@ -301,12 +343,12 @@ function getSubGroupKey(kanji: Kanji): string {
   return `${krSound} (${jaOn})`;
 }
 
-type TabType = "sound" | "choseong";
+type TabType = "sound" | "choseong" | "shape";
 
 interface SameSoundKanjiModalProps {
   kanjiList: Kanji[];
   onClose: () => void;
-  onKanjiClick?: (kanji: Kanji, fromTab: TabType) => void;
+  onKanjiClick?: (kanji: Kanji, fromTab: TabType, currentSound?: string | null) => void;
   initialSound?: string;
   initialTab?: TabType;
   onFlashcard?: (kanjiList: Kanji[], title: string, fromTab: TabType) => void;
@@ -329,6 +371,91 @@ export function SameSoundKanjiModal({
   const [searchQuery, setSearchQuery] = useState("");
   const [choseongSortAlpha, setChoseongSortAlpha] = useState(false); // false = 책 순서, true = 가나다순
   const initializedRef = useRef(false);
+  const [youtubeData, setYoutubeData] = useState<YoutubeData | null>(null);
+  const [showYoutubePopup, setShowYoutubePopup] = useState(false);
+  const [shapeGroupsData, setShapeGroupsData] = useState<ShapeGroupsData | null>(null);
+  const [selectedShapeGroup, setSelectedShapeGroup] = useState<ShapeGroup | null>(null);
+  const [pageMappingData, setPageMappingData] = useState<PageMappingData | null>(null);
+
+  // YouTube 강좌 데이터 로드
+  useEffect(() => {
+    fetch("/data/youtube_lectures.json")
+      .then((res) => res.json())
+      .then((data: YoutubeData) => setYoutubeData(data))
+      .catch((err) => console.error("Failed to load YouTube data:", err));
+  }, []);
+
+  // 페이지 매핑 데이터 로드
+  useEffect(() => {
+    fetch("/data/kanji_page_mapping.json")
+      .then((res) => res.json())
+      .then((data: PageMappingData) => setPageMappingData(data))
+      .catch((err) => console.error("Failed to load page mapping data:", err));
+  }, []);
+
+  // 비슷한 모양 그룹 데이터 로드
+  useEffect(() => {
+    fetch("/data/similar_shape_groups.json")
+      .then((res) => res.json())
+      .then((data: ShapeGroupsData) => {
+        setShapeGroupsData(data);
+        // 첫 번째 그룹 선택
+        if (data.groups.length > 0 && !selectedShapeGroup) {
+          setSelectedShapeGroup(data.groups[0]);
+        }
+      })
+      .catch((err) => console.error("Failed to load shape groups data:", err));
+  }, []);
+
+  // 현재 선택된 음에 해당하는 YouTube 강좌 찾기 (Vol.1)
+  const matchingYoutubeLecture = useMemo(() => {
+    if (!youtubeData || !selectedSound || activeTab !== "sound") return null;
+
+    // Vol.1에서 매칭되는 강좌 찾기 (videoId가 있는 것만)
+    for (const lecture of youtubeData.vol1_lectures) {
+      if (!lecture.videoId) continue;
+      // sound 필드로 직접 매칭 (1-59번 강좌)
+      if (lecture.sound === selectedSound) {
+        return { ...lecture, volume: 1 };
+      }
+      // sounds 배열로 매칭 (60-96번 강좌)
+      if (lecture.sounds && lecture.sounds.includes(selectedSound)) {
+        return { ...lecture, volume: 1 };
+      }
+    }
+    return null;
+  }, [youtubeData, selectedSound, activeTab]);
+
+  // 현재 선택된 비슷한 모양 그룹에 해당하는 YouTube 강좌 찾기 (Vol.2)
+  const matchingVol2Lecture = useMemo(() => {
+    if (!youtubeData || !selectedShapeGroup || activeTab !== "shape") return null;
+
+    // Vol.2에서 매칭되는 강좌 찾기
+    const lecture = youtubeData.vol2_lectures.find(l => l.vol === selectedShapeGroup.vol);
+    if (lecture && lecture.videoId) {
+      return { ...lecture, volume: 2 };
+    }
+    return null;
+  }, [youtubeData, selectedShapeGroup, activeTab]);
+
+  // YouTube 임베드 URL 생성 (개별 영상만 보여줌)
+  const getYoutubeEmbedUrl = useCallback((lecture: YoutubeLecture & { volume: number }) => {
+    if (!lecture.videoId) return "";
+    // 개별 비디오 ID로 임베드 (플레이리스트 없이 해당 영상만)
+    return `https://www.youtube.com/embed/${lecture.videoId}`;
+  }, []);
+
+  // YouTube 강좌가 있는 음 목록 (목록에 아이콘 표시용, videoId 있는 것만)
+  const soundsWithYoutube = useMemo(() => {
+    if (!youtubeData) return new Set<string>();
+    const sounds = new Set<string>();
+    for (const lecture of youtubeData.vol1_lectures) {
+      if (!lecture.videoId) continue;
+      if (lecture.sound) sounds.add(lecture.sound);
+      if (lecture.sounds) lecture.sounds.forEach(s => sounds.add(s));
+    }
+    return sounds;
+  }, [youtubeData]);
 
   // ========== 같은 음 탭 로직 ==========
   const kanjiBySound = useMemo(() => {
@@ -365,6 +492,13 @@ export function SameSoundKanjiModal({
       initializedRef.current = true;
     }
   }, [filteredSounds, initialSound, kanjiBySound, activeTab]);
+
+  // initialSound가 변경되면 selectedSound 동기화 (모달 재진입 시)
+  useEffect(() => {
+    if (initialSound && kanjiBySound[initialSound] && activeTab === "sound") {
+      setSelectedSound(initialSound);
+    }
+  }, [initialSound, kanjiBySound, activeTab]);
 
   const currentSoundKanji = useMemo(() => {
     if (selectedSound === null) return [];
@@ -436,6 +570,15 @@ export function SameSoundKanjiModal({
     return subGroups[selectedSubGroup] || [];
   }, [currentGroupKanji, selectedSubGroup, subGroups]);
 
+  // ========== 비슷한 모양 탭 로직 ==========
+  const currentShapeKanji = useMemo(() => {
+    if (!selectedShapeGroup) return [];
+    // relatedKanji 문자열 목록에서 kanjiData와 매칭되는 한자 찾기
+    return selectedShapeGroup.relatedKanji
+      .map(char => kanjiList.find(k => k.literal === char))
+      .filter((k): k is Kanji => k !== undefined);
+  }, [selectedShapeGroup, kanjiList]);
+
   // ========== 공통 핸들러 ==========
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -454,12 +597,35 @@ export function SameSoundKanjiModal({
 
   const handleKanjiClick = (kanji: Kanji) => {
     if (onKanjiClick) {
-      onKanjiClick(kanji, activeTab);
+      onKanjiClick(kanji, activeTab, selectedSound);
     }
   };
 
   // 현재 보이는 한자 목록
-  const currentKanjiList = activeTab === "sound" ? currentSoundKanji : displayKanjiList;
+  const currentKanjiList = useMemo(() => {
+    switch (activeTab) {
+      case "sound":
+        return currentSoundKanji;
+      case "choseong":
+        return displayKanjiList;
+      case "shape":
+        return currentShapeKanji;
+      default:
+        return [];
+    }
+  }, [activeTab, currentSoundKanji, displayKanjiList, currentShapeKanji]);
+
+  // 한자의 페이지 정보 가져오기
+  const getPageInfo = useCallback((kanjiChar: string): { vol: number; page: number } | null => {
+    if (!pageMappingData) return null;
+    if (pageMappingData.vol1[kanjiChar]) {
+      return { vol: 1, page: pageMappingData.vol1[kanjiChar] };
+    }
+    if (pageMappingData.vol2[kanjiChar]) {
+      return { vol: 2, page: pageMappingData.vol2[kanjiChar] };
+    }
+    return null;
+  }, [pageMappingData]);
 
   return (
     <div
@@ -477,8 +643,8 @@ export function SameSoundKanjiModal({
         {/* 헤더 */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-700">
           <h2 className="text-lg font-bold text-gray-900 dark:text-white flex items-center gap-2">
-            <span>{activeTab === "sound" ? "🔊" : "🔤"}</span>
-            {activeTab === "sound" ? "같은 음(音) 한자" : "초성별 한자"}
+            <span>{activeTab === "sound" ? "🔊" : activeTab === "choseong" ? "🔤" : "🔷"}</span>
+            {activeTab === "sound" ? "같은 음(音) 한자" : activeTab === "choseong" ? "초성별 한자" : "비슷한 모양 한자"}
           </h2>
           <button
             onClick={onClose}
@@ -506,7 +672,7 @@ export function SameSoundKanjiModal({
             <button
               onClick={() => setActiveTab("sound")}
               className={clsx(
-                "flex-1 py-2 px-4 rounded-lg text-sm font-medium transition-all",
+                "flex-1 py-2 px-3 rounded-lg text-sm font-medium transition-all",
                 activeTab === "sound"
                   ? "bg-orange-500 text-white shadow-md"
                   : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
@@ -517,13 +683,24 @@ export function SameSoundKanjiModal({
             <button
               onClick={() => setActiveTab("choseong")}
               className={clsx(
-                "flex-1 py-2 px-4 rounded-lg text-sm font-medium transition-all",
+                "flex-1 py-2 px-3 rounded-lg text-sm font-medium transition-all",
                 activeTab === "choseong"
                   ? "bg-blue-500 text-white shadow-md"
                   : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
               )}
             >
               🔤 초성별
+            </button>
+            <button
+              onClick={() => setActiveTab("shape")}
+              className={clsx(
+                "flex-1 py-2 px-3 rounded-lg text-sm font-medium transition-all",
+                activeTab === "shape"
+                  ? "bg-purple-500 text-white shadow-md"
+                  : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              )}
+            >
+              🔷 비슷한 모양
             </button>
           </div>
         </div>
@@ -558,7 +735,7 @@ export function SameSoundKanjiModal({
                 {sortedSounds.length}개 음 · {kanjiList.filter(k => k.korean_hun_eum).length}자
               </div>
             </div>
-          ) : (
+          ) : activeTab === "choseong" ? (
             <div className="flex items-center justify-between">
               <div className="text-sm text-gray-500 dark:text-gray-400">
                 {CHOSEONG_GROUPS.length}개 그룹 · {kanjiList.filter(k => k.korean_hun_eum).length}자
@@ -588,6 +765,15 @@ export function SameSoundKanjiModal({
                 </button>
               </div>
             </div>
+          ) : (
+            <div className="flex items-center justify-between">
+              <div className="text-sm text-gray-500 dark:text-gray-400">
+                {shapeGroupsData?.groups.length || 0}개 그룹 · Vol.2 비슷한 모양 한자
+              </div>
+              <div className="text-xs text-purple-600 dark:text-purple-400">
+                📺 YouTube 강좌 연동
+              </div>
+            </div>
           )}
         </div>
 
@@ -607,6 +793,7 @@ export function SameSoundKanjiModal({
                   <div className="space-y-0.5">
                     {filteredSounds.map((sound) => {
                       const count = kanjiBySound[sound]?.length || 0;
+                      const hasYoutube = soundsWithYoutube.has(sound);
                       return (
                         <button
                           key={sound}
@@ -618,7 +805,12 @@ export function SameSoundKanjiModal({
                               : "hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300"
                           )}
                         >
-                          <span className="text-lg font-bold">{sound}</span>
+                          <span className="flex items-center gap-1">
+                            <span className="text-lg font-bold">{sound}</span>
+                            {hasYoutube && (
+                              <span className="text-[10px]" title="YouTube 강좌 있음">▶️</span>
+                            )}
+                          </span>
                           <span
                             className={clsx(
                               "text-xs px-1.5 py-0.5 rounded-full",
@@ -634,7 +826,7 @@ export function SameSoundKanjiModal({
                     })}
                   </div>
                 </>
-              ) : (
+              ) : activeTab === "choseong" ? (
                 <>
                   <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
                     {choseongSortAlpha ? "📖 가나다순" : "📚 학습순서"} ({sortedChoseongGroups.length}개)
@@ -673,6 +865,65 @@ export function SameSoundKanjiModal({
                             >
                               {count}
                             </span>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              ) : (
+                /* 비슷한 모양 그룹 목록 */
+                <>
+                  <div className="text-xs font-medium text-gray-500 dark:text-gray-400 px-2 py-1 mb-1">
+                    Vol.2 순서 ({shapeGroupsData?.groups.length || 0}개)
+                  </div>
+                  <div className="space-y-0.5">
+                    {shapeGroupsData?.groups.map((group) => {
+                      const hasYoutube = youtubeData?.vol2_lectures.some(l => l.vol === group.vol && l.videoId);
+                      return (
+                        <button
+                          key={group.vol}
+                          onClick={() => setSelectedShapeGroup(group)}
+                          className={clsx(
+                            "w-full px-2 py-1.5 text-left rounded-lg transition-all",
+                            selectedShapeGroup?.vol === group.vol
+                              ? "bg-purple-500 text-white"
+                              : "hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300"
+                          )}
+                        >
+                          <div className="flex items-center justify-between">
+                            <div className="flex items-center gap-1.5">
+                              <span className={clsx(
+                                "text-[10px] w-5",
+                                selectedShapeGroup?.vol === group.vol
+                                  ? "text-purple-200"
+                                  : "text-gray-400 dark:text-gray-500"
+                              )}>
+                                {group.vol}
+                              </span>
+                              <span className="text-lg font-bold">{group.baseKanji}</span>
+                              {hasYoutube && (
+                                <span className="text-[10px]" title="YouTube 강좌 있음">▶️</span>
+                              )}
+                            </div>
+                            <span
+                              className={clsx(
+                                "text-[10px] px-1.5 py-0.5 rounded-full",
+                                selectedShapeGroup?.vol === group.vol
+                                  ? "bg-purple-400 text-white"
+                                  : "bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400"
+                              )}
+                            >
+                              {group.count}
+                            </span>
+                          </div>
+                          <div className={clsx(
+                            "text-[10px] mt-0.5 truncate",
+                            selectedShapeGroup?.vol === group.vol
+                              ? "text-purple-200"
+                              : "text-gray-500 dark:text-gray-400"
+                          )}>
+                            {group.description}
                           </div>
                         </button>
                       );
@@ -748,23 +999,32 @@ export function SameSoundKanjiModal({
                     <div className="flex items-center gap-3">
                       <span className={clsx(
                         "text-2xl font-bold",
-                        activeTab === "sound" ? "text-orange-500" : "text-blue-500"
+                        activeTab === "sound" ? "text-orange-500" : activeTab === "choseong" ? "text-blue-500" : "text-purple-500"
                       )}>
                         {activeTab === "sound"
                           ? selectedSound
-                          : (selectedSubGroup || selectedGroup?.label)
+                          : activeTab === "choseong"
+                            ? (selectedSubGroup || selectedGroup?.label)
+                            : selectedShapeGroup?.baseKanji
                         }
                       </span>
                       <div>
                         <p className="text-sm font-medium text-gray-900 dark:text-white">
                           {currentKanjiList.length}개의 한자
+                          {activeTab === "shape" && selectedShapeGroup && (
+                            <span className="ml-2 text-xs text-purple-500">
+                              Vol.2-{selectedShapeGroup.vol.toString().padStart(2, '0')}
+                            </span>
+                          )}
                         </p>
                         <p className="text-xs text-gray-500 dark:text-gray-400">
                           {activeTab === "sound"
                             ? "같은 음(音)을 가진 한자들"
-                            : selectedSubGroup
-                              ? "한국어 음 + 일본어 음독이 같은 한자들"
-                              : selectedGroup?.description
+                            : activeTab === "choseong"
+                              ? selectedSubGroup
+                                ? "한국어 음 + 일본어 음독이 같은 한자들"
+                                : selectedGroup?.description
+                              : selectedShapeGroup?.description
                           }
                         </p>
                       </div>
@@ -776,9 +1036,11 @@ export function SameSoundKanjiModal({
                           onClick={() => {
                             const title = activeTab === "sound"
                               ? `음 "${selectedSound}" 한자`
-                              : selectedSubGroup
-                                ? `${selectedSubGroup} 한자`
-                                : `${selectedGroup?.label} 한자`;
+                              : activeTab === "choseong"
+                                ? selectedSubGroup
+                                  ? `${selectedSubGroup} 한자`
+                                  : `${selectedGroup?.label} 한자`
+                                : `${selectedShapeGroup?.baseKanji} 비슷한 모양 한자`;
                             onFlashcard(currentKanjiList, title, activeTab);
                           }}
                           className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300 rounded-lg hover:bg-green-200 dark:hover:bg-green-900 transition-colors"
@@ -792,15 +1054,37 @@ export function SameSoundKanjiModal({
                           onClick={() => {
                             const title = activeTab === "sound"
                               ? `음 "${selectedSound}" 한자`
-                              : selectedSubGroup
-                                ? `${selectedSubGroup} 한자`
-                                : `${selectedGroup?.label} 한자`;
+                              : activeTab === "choseong"
+                                ? selectedSubGroup
+                                  ? `${selectedSubGroup} 한자`
+                                  : `${selectedGroup?.label} 한자`
+                                : `${selectedShapeGroup?.baseKanji} 비슷한 모양 한자`;
                             onPrint(currentKanjiList.map(k => k.literal), title, activeTab);
                           }}
                           className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
                           title="인쇄하기"
                         >
                           🖨️ 출력
+                        </button>
+                      )}
+                      {/* Vol.1 YouTube 버튼 (같은 음 탭) */}
+                      {matchingYoutubeLecture && (
+                        <button
+                          onClick={() => setShowYoutubePopup(true)}
+                          className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-red-100 dark:bg-red-900/50 text-red-700 dark:text-red-300 rounded-lg hover:bg-red-200 dark:hover:bg-red-900 transition-colors"
+                          title={`YouTube 강좌: Vol.1-${matchingYoutubeLecture.vol.toString().padStart(2, '0')} (${matchingYoutubeLecture.kanji || selectedSound}) - 1타 ${matchingYoutubeLecture.count}피`}
+                        >
+                          ▶️ 강좌
+                        </button>
+                      )}
+                      {/* Vol.2 YouTube 버튼 (비슷한 모양 탭) */}
+                      {matchingVol2Lecture && (
+                        <button
+                          onClick={() => setShowYoutubePopup(true)}
+                          className="flex items-center gap-1 px-2 py-1 text-xs font-medium bg-red-100 dark:bg-red-900/50 text-red-700 dark:text-red-300 rounded-lg hover:bg-red-200 dark:hover:bg-red-900 transition-colors"
+                          title={`YouTube 강좌: Vol.2-${matchingVol2Lecture.vol.toString().padStart(2, '0')} (${selectedShapeGroup?.baseKanji}) - ${matchingVol2Lecture.count}개 한자`}
+                        >
+                          ▶️ 강좌
                         </button>
                       )}
                     </div>
@@ -821,7 +1105,9 @@ export function SameSoundKanjiModal({
                           "bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700",
                           activeTab === "sound"
                             ? "hover:border-orange-400 hover:shadow-md"
-                            : "hover:border-blue-400 hover:shadow-md",
+                            : activeTab === "choseong"
+                              ? "hover:border-blue-400 hover:shadow-md"
+                              : "hover:border-purple-400 hover:shadow-md",
                           onKanjiClick && "cursor-pointer"
                         )}
                       >
@@ -858,11 +1144,23 @@ export function SameSoundKanjiModal({
                             "text-[9px] mt-0.5",
                             activeTab === "sound"
                               ? "text-orange-600 dark:text-orange-400"
-                              : "text-blue-600 dark:text-blue-400"
+                              : activeTab === "choseong"
+                                ? "text-blue-600 dark:text-blue-400"
+                                : "text-purple-600 dark:text-purple-400"
                           )}>
                             {radicalInfo.char}부
                           </span>
                         )}
+
+                        {/* 페이지 번호 */}
+                        {(() => {
+                          const pageInfo = getPageInfo(kanji.literal);
+                          return pageInfo ? (
+                            <span className="text-[8px] text-green-600 dark:text-green-400 mt-0.5 font-medium">
+                              📖 {pageInfo.vol}-{pageInfo.page.toString().padStart(3, '0')}
+                            </span>
+                          ) : null;
+                        })()}
                       </button>
                     );
                   })}
@@ -872,7 +1170,9 @@ export function SameSoundKanjiModal({
               <div className="flex items-center justify-center h-full text-gray-500 dark:text-gray-400">
                 {activeTab === "sound"
                   ? (filteredSounds.length === 0 ? "검색 결과가 없습니다" : "왼쪽에서 음을 선택하세요")
-                  : "왼쪽에서 그룹을 선택하세요"
+                  : activeTab === "choseong"
+                    ? "왼쪽에서 그룹을 선택하세요"
+                    : "왼쪽에서 비슷한 모양 그룹을 선택하세요"
                 }
               </div>
             )}
@@ -884,11 +1184,137 @@ export function SameSoundKanjiModal({
           <p className="text-xs text-gray-500 dark:text-gray-400 text-center">
             {activeTab === "sound"
               ? "같은 음(音)을 가진 한자를 모아서 학습하면 연상 기억에 도움이 됩니다"
-              : "한국어 초성 → 하위 그룹(음+カナ)으로 세분화하여 한일 음독 대응을 학습하세요"
+              : activeTab === "choseong"
+                ? "한국어 초성 → 하위 그룹(음+カナ)으로 세분화하여 한일 음독 대응을 학습하세요"
+                : "음은 다르지만 모양이 비슷한 한자를 모아서 학습합니다 (Vol.2 연동)"
             }
           </p>
         </div>
       </div>
+
+      {/* YouTube 팝업 모달 - Vol.1 (같은 음) */}
+      {showYoutubePopup && matchingYoutubeLecture && activeTab === "sound" && (
+        <div
+          className="fixed inset-0 z-[60] flex items-center justify-center bg-black/80"
+          onClick={() => setShowYoutubePopup(false)}
+        >
+          <div
+            className="relative w-full max-w-4xl mx-4 bg-gray-900 rounded-xl overflow-hidden shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* 헤더 */}
+            <div className="flex items-center justify-between px-4 py-3 bg-gray-800">
+              <div className="flex items-center gap-2">
+                <span className="text-red-500 text-lg">▶️</span>
+                <div>
+                  <h3 className="text-white font-bold">
+                    Vol.1-{matchingYoutubeLecture.vol.toString().padStart(2, '0')} / 1타 {matchingYoutubeLecture.count}피 &apos;{matchingYoutubeLecture.kanji || selectedSound}&apos;
+                  </h3>
+                  <p className="text-gray-400 text-xs">
+                    일본어한자 암기비법 - 하나를 알면 여럿을 안다
+                  </p>
+                </div>
+              </div>
+              <button
+                onClick={() => setShowYoutubePopup(false)}
+                className="p-2 rounded-lg hover:bg-gray-700 transition-colors"
+              >
+                <svg className="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+            {/* YouTube 임베드 */}
+            <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+              <iframe
+                className="absolute inset-0 w-full h-full"
+                src={getYoutubeEmbedUrl(matchingYoutubeLecture)}
+                title={`Vol.1-${matchingYoutubeLecture.vol} ${matchingYoutubeLecture.kanji || selectedSound}`}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            {/* 하단 정보 */}
+            <div className="px-4 py-3 bg-gray-800 flex items-center justify-between">
+              <p className="text-gray-400 text-sm">
+                💡 &apos;{matchingYoutubeLecture.kanji || selectedSound}&apos; 한자를 기반으로 {matchingYoutubeLecture.count}개의 한자를 학습합니다
+              </p>
+              {matchingYoutubeLecture.videoId && (
+                <a
+                  href={`https://www.youtube.com/watch?v=${matchingYoutubeLecture.videoId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-red-400 hover:text-red-300 transition-colors"
+                >
+                  YouTube에서 보기 →
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* YouTube 팝업 모달 - Vol.2 (비슷한 모양) */}
+      {showYoutubePopup && matchingVol2Lecture && activeTab === "shape" && selectedShapeGroup && (
+        <div
+          className="fixed inset-0 z-[60] flex items-center justify-center bg-black/80"
+          onClick={() => setShowYoutubePopup(false)}
+        >
+          <div
+            className="relative w-full max-w-4xl mx-4 bg-gray-900 rounded-xl overflow-hidden shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* 헤더 */}
+            <div className="flex items-center justify-between px-4 py-3 bg-gray-800">
+              <div className="flex items-center gap-2">
+                <span className="text-red-500 text-lg">▶️</span>
+                <div>
+                  <h3 className="text-white font-bold">
+                    Vol.2-{matchingVol2Lecture.vol.toString().padStart(2, '0')} / {matchingVol2Lecture.count}개 한자 &apos;{selectedShapeGroup.baseKanji}&apos;
+                  </h3>
+                  <p className="text-gray-400 text-xs">
+                    일본어한자 암기비법 - 음은 다르지만 모양이 비슷한 한자
+                  </p>
+                </div>
+              </div>
+              <button
+                onClick={() => setShowYoutubePopup(false)}
+                className="p-2 rounded-lg hover:bg-gray-700 transition-colors"
+              >
+                <svg className="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+            {/* YouTube 임베드 */}
+            <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+              <iframe
+                className="absolute inset-0 w-full h-full"
+                src={getYoutubeEmbedUrl(matchingVol2Lecture)}
+                title={`Vol.2-${matchingVol2Lecture.vol} ${selectedShapeGroup.baseKanji}`}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            {/* 하단 정보 */}
+            <div className="px-4 py-3 bg-gray-800 flex items-center justify-between">
+              <p className="text-gray-400 text-sm">
+                💡 &apos;{selectedShapeGroup.baseKanji}&apos; ({selectedShapeGroup.description})을 기반으로 {matchingVol2Lecture.count}개의 비슷한 모양 한자를 학습합니다
+              </p>
+              {matchingVol2Lecture.videoId && (
+                <a
+                  href={`https://www.youtube.com/watch?v=${matchingVol2Lecture.videoId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-red-400 hover:text-red-300 transition-colors"
+                >
+                  YouTube에서 보기 →
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

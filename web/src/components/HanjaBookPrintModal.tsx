@@ -30,6 +30,14 @@ interface EtymologyData {
   kanji: Record<string, EtymologyEntry>;
 }
 
+// 페이지 매핑 데이터 타입
+interface PageMappingData {
+  version: string;
+  description: string;
+  vol1: Record<string, number>;
+  vol2: Record<string, number>;
+}
+
 type PairItem = { kind: "pair"; key: string; kr: string; d: PairData };
 type SameItem = { kind: "same"; key: string; ch: string; d: SameData };
 type Sheet =
@@ -138,11 +146,23 @@ const Cuts = ({ tops }: { tops: number[] }) => (
   </>
 );
 
+/** 한자의 페이지 정보 가져오기 */
+function getPageInfo(kanji: string, pageMapping: PageMappingData | null): { vol: number; page: number } | null {
+  if (!pageMapping) return null;
+  if (pageMapping.vol1[kanji]) {
+    return { vol: 1, page: pageMapping.vol1[kanji] };
+  }
+  if (pageMapping.vol2[kanji]) {
+    return { vol: 2, page: pageMapping.vol2[kanji] };
+  }
+  return null;
+}
+
 function SheetPages({
-  sheet, book, jpStrokes, sheetNo, etymology,
+  sheet, book, jpStrokes, sheetNo, etymology, pageMapping,
 }: {
   sheet: Sheet; book: BookData; jpStrokes: Map<string, string[]>; sheetNo: number;
-  etymology: EtymologyData | null;
+  etymology: EtymologyData | null; pageMapping: PageMappingData | null;
 }) {
   const radName = (r: number) => book.rad[String(r)] ?? String(r);
 
@@ -156,11 +176,12 @@ function SheetPages({
             const d = it.d;
             const kun = d.kun.join(", ") + (d.kunMore ? " …" : "");
             const stroke = d.sk && d.sj ? `획수 ${d.sk}획 → ${d.sj}획` : "";
+            const pageInfo = getPageInfo(d.jp, pageMapping);
             return (
               <div className="hb-slot hb-pslot" key={it.key}>
                 <div className="hb-box">
                   <div className="hb-L">
-                    <span className="hb-no">{d.o} · 부수 {radName(d.rad)}</span>
+                    <span className="hb-no">{d.o} · 부수 {radName(d.rad)}{pageInfo && <> · <span style={{color: "#059669"}}>📖{pageInfo.vol}-{pageInfo.page.toString().padStart(3, '0')}</span></>}</span>
                     <div className="hb-pair">
                       <span className="hb-kr" lang="ko">{it.kr}</span>
                       <span className="hb-arr">→</span>
@@ -194,11 +215,12 @@ function SheetPages({
             const d = it.d;
             const js = jpStrokes.get(d.jp) ?? [];
             const size = cellSize([d.ks.length, js.length], 37);
+            const pageInfo = getPageInfo(d.jp, pageMapping);
             return (
               <div className="hb-slot hb-pslot" key={it.key}>
                 <div className="hb-bb hb-pbb">
                   <div className="hb-hd">
-                    <span className="hb-no2">{d.o}</span>
+                    <span className="hb-no2">{d.o}{pageInfo && <span style={{color: "#059669", marginLeft: "2mm"}}> 📖{pageInfo.vol}-{pageInfo.page.toString().padStart(3, '0')}</span>}</span>
                     <b className="hb-k" lang="ko">{it.kr}</b> → <b className="hb-j" lang="ja">{d.jp}</b>
                     &nbsp; {d.hun}{d.g && <span className="hb-gr">{d.g}</span>}
                   </div>
@@ -227,11 +249,12 @@ function SheetPages({
         {sheet.items.map((it) => {
           const d = it.d;
           const kun = d.kun.join(", ") + (d.kunMore ? " …" : "");
+          const pageInfo = getPageInfo(it.ch, pageMapping);
           return (
             <div className="hb-slot hb-sslot" key={it.key}>
               <div className="hb-sbox">
                 <div className="hb-sL">
-                  <span className="hb-no">{d.no} · 부수 {radName(d.rad)}</span>
+                  <span className="hb-no">{d.no} · 부수 {radName(d.rad)}{pageInfo && <> · <span style={{color: "#059669"}}>📖{pageInfo.vol}-{pageInfo.page.toString().padStart(3, '0')}</span></>}</span>
                   <div className="hb-ch" lang="ko">{it.ch}</div>
                 </div>
                 <div className="hb-sR">
@@ -260,11 +283,12 @@ function SheetPages({
           const d = it.d;
           const st = jpStrokes.get(it.ch) ?? [];
           const size = cellSize([st.length], 30);
+          const pageInfo = getPageInfo(it.ch, pageMapping);
           return (
             <div className="hb-slot hb-sslot" key={it.key}>
               <div className="hb-bb hb-sbb">
                 <div className="hb-hd">
-                  <span className="hb-no2s">{d.no} · 부수 {radName(d.rad)}</span>
+                  <span className="hb-no2s">{d.no} · 부수 {radName(d.rad)}{pageInfo && <span style={{color: "#059669", marginLeft: "2mm"}}> 📖{pageInfo.vol}-{pageInfo.page.toString().padStart(3, '0')}</span>}</span>
                   <b className="hb-ks" lang="ko">{it.ch}</b> &nbsp; {d.hun}{d.g && <span className="hb-gr">{d.g}</span>}
                 </div>
                 <div className="hb-lab" style={{ color: "#1e3a8a" }}>
@@ -351,6 +375,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
   const [book, setBook] = useState<BookData | null>(null);
   const [jpStrokes, setJpStrokes] = useState<Map<string, string[]>>(new Map());
   const [etymology, setEtymology] = useState<EtymologyData | null>(null);
+  const [pageMapping, setPageMapping] = useState<PageMappingData | null>(null);
   const [error, setError] = useState("");
   const [custom, setCustom] = useState("");
   /** 한글 음절별로 사용자가 고른 한자(미조작이면 후보가 1개일 때만 자동 선택) */
@@ -371,8 +396,9 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
       fetch("/data/hanja_book.json").then((r) => r.json()),
       fetch("/data/kanji_master.json").then((r) => r.json()),
       fetch("/data/kanji_etymology.json").then((r) => r.json()).catch(() => null),
+      fetch("/data/kanji_page_mapping.json").then((r) => r.json()).catch(() => null),
     ])
-      .then(([b, m, e]: [BookData, { kanji: Kanji[] }, EtymologyData | null]) => {
+      .then(([b, m, e, p]: [BookData, { kanji: Kanji[] }, EtymologyData | null, PageMappingData | null]) => {
         if (!alive) return;
         const map = new Map<string, string[]>();
         m.kanji.forEach((k) => {
@@ -381,6 +407,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
         setJpStrokes(map);
         setBook(b);
         if (e) setEtymology(e);
+        if (p) setPageMapping(p);
       })
       .catch(() => alive && setError("한자 데이터를 불러오지 못했습니다."));
     return () => { alive = false; };
@@ -628,7 +655,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
                   </div>
                   <div className="overflow-x-auto border rounded-lg bg-gray-100 dark:bg-gray-900 p-2">
                     <div style={{ zoom: 0.5, display: "flex", gap: "8mm" }}>
-                      <SheetPages sheet={preview} book={book} jpStrokes={jpStrokes} sheetNo={previewIdx + 1} etymology={etymology} />
+                      <SheetPages sheet={preview} book={book} jpStrokes={jpStrokes} sheetNo={previewIdx + 1} etymology={etymology} pageMapping={pageMapping} />
                     </div>
                   </div>
                 </div>
@@ -656,7 +683,7 @@ export function HanjaBookPrintModal({ chars, title = "한자책 출력(양면)",
         createPortal(
           <div id="hb-print-root">
             {chunkSheets.map((s, i) => (
-              <SheetPages key={i} sheet={s} book={book} jpStrokes={jpStrokes} sheetNo={chunk * chunkSize + i + 1} etymology={etymology} />
+              <SheetPages key={i} sheet={s} book={book} jpStrokes={jpStrokes} sheetNo={chunk * chunkSize + i + 1} etymology={etymology} pageMapping={pageMapping} />
             ))}
           </div>,
           document.body

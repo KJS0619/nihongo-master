@@ -1,0 +1,406 @@
+{
+  "version": "1.0.0",
+  "description": "Vol.2 비슷한 모양 한자 그룹 - 같은 component를 공유하는 한자들",
+  "total_groups": 57,
+  "groups": [
+    {
+      "vol": 1,
+      "baseKanji": "雨",
+      "count": 12,
+      "relatedKanji": ["雨", "雲", "雪", "雷", "電", "霧", "霜", "露", "震", "需", "霊", "霞"],
+      "description": "비 우 - 雨 부수 한자"
+    },
+    {
+      "vol": 2,
+      "baseKanji": "各",
+      "count": 11,
+      "relatedKanji": ["各", "格", "客", "略", "落", "絡", "路", "閣", "額", "酪", "駱"],
+      "description": "각 각 - 各 포함 한자"
+    },
+    {
+      "vol": 3,
+      "baseKanji": "耂",
+      "count": 7,
+      "relatedKanji": ["老", "考", "者", "孝", "教", "敬", "孝"],
+      "description": "늙을 로 - 耂 부수 한자"
+    },
+    {
+      "vol": 4,
+      "baseKanji": "者",
+      "count": 10,
+      "relatedKanji": ["者", "諸", "暑", "著", "署", "都", "賭", "緒", "儲", "煮"],
+      "description": "놈 자 - 者 포함 한자"
+    },
+    {
+      "vol": 5,
+      "baseKanji": "門",
+      "count": 15,
+      "relatedKanji": ["門", "問", "聞", "間", "開", "閉", "閣", "関", "闘", "闘", "閥", "閲", "閑", "閣", "蘭"],
+      "description": "문 문 - 門 부수 한자"
+    },
+    {
+      "vol": 6,
+      "baseKanji": "欠",
+      "count": 15,
+      "relatedKanji": ["欠", "次", "欲", "歌", "款", "欧", "歎", "軟", "飲", "吹", "炊", "歓", "欲", "欺", "歌"],
+      "description": "하품 흠 - 欠 부수 한자"
+    },
+    {
+      "vol": 7,
+      "baseKanji": "車",
+      "count": 18,
+      "relatedKanji": ["車", "軍", "転", "輪", "輸", "軽", "軌", "輝", "較", "軒", "軸", "載", "輩", "轄", "輯", "軟", "輪", "轟"],
+      "description": "수레 차 - 車 부수 한자"
+    },
+    {
+      "vol": 8,
+      "baseKanji": "寺",
+      "count": 8,
+      "relatedKanji": ["寺", "待", "持", "特", "時", "詩", "侍", "等"],
+      "description": "절 사 - 寺 포함 한자"
+    },
+    {
+      "vol": 9,
+      "baseKanji": "毎",
+      "count": 8,
+      "relatedKanji": ["毎", "海", "梅", "悔", "毒", "敏", "繁", "侮"],
+      "description": "매양 매 - 毎 포함 한자"
+    },
+    {
+      "vol": 10,
+      "baseKanji": "艮",
+      "count": 8,
+      "relatedKanji": ["艮", "良", "限", "根", "銀", "眼", "退", "痕"],
+      "description": "그칠 간 - 艮 포함 한자"
+    },
+    {
+      "vol": 11,
+      "baseKanji": "見",
+      "count": 7,
+      "relatedKanji": ["見", "視", "親", "規", "覧", "観", "覚"],
+      "description": "볼 견 - 見 부수 한자"
+    },
+    {
+      "vol": 12,
+      "baseKanji": "直",
+      "count": 5,
+      "relatedKanji": ["直", "値", "植", "殖", "置"],
+      "description": "곧을 직 - 直 포함 한자"
+    },
+    {
+      "vol": 13,
+      "baseKanji": "兄",
+      "count": 6,
+      "relatedKanji": ["兄", "況", "祝", "呪", "兌", "説"],
+      "description": "형 형 - 兄 포함 한자"
+    },
+    {
+      "vol": 14,
+      "baseKanji": "聿",
+      "count": 4,
+      "relatedKanji": ["筆", "律", "建", "書"],
+      "description": "붓 율 - 聿 포함 한자"
+    },
+    {
+      "vol": 15,
+      "baseKanji": "止",
+      "count": 5,
+      "relatedKanji": ["止", "正", "歩", "歴", "此"],
+      "description": "그칠 지 - 止 포함 한자"
+    },
+    {
+      "vol": 16,
+      "baseKanji": "歩",
+      "count": 5,
+      "relatedKanji": ["歩", "渉", "頻", "捗", "歩"],
+      "description": "걸을 보 - 歩 포함 한자"
+    },
+    {
+      "vol": 17,
+      "baseKanji": "目",
+      "count": 8,
+      "relatedKanji": ["目", "眼", "眠", "眺", "瞳", "督", "睡", "相"],
+      "description": "눈 목 - 目 부수 한자"
+    },
+    {
+      "vol": 18,
+      "baseKanji": "隹",
+      "count": 24,
+      "relatedKanji": ["雀", "雄", "雅", "集", "準", "進", "難", "雑", "権", "確", "獲", "護", "維", "唯", "催", "推", "堆", "誰", "離", "隻", "焦", "雇", "奪", "濯"],
+      "description": "새 추 - 隹 부수 한자"
+    },
+    {
+      "vol": 19,
+      "baseKanji": "里",
+      "count": 5,
+      "relatedKanji": ["里", "理", "野", "裏", "埋"],
+      "description": "마을 리 - 里 포함 한자"
+    },
+    {
+      "vol": 20,
+      "baseKanji": "蒦",
+      "count": 3,
+      "relatedKanji": ["穫", "獲", "護"],
+      "description": "빼앗을 확 - 蒦 포함 한자"
+    },
+    {
+      "vol": 21,
+      "baseKanji": "果",
+      "count": 3,
+      "relatedKanji": ["果", "課", "菓"],
+      "description": "열매 과 - 果 포함 한자"
+    },
+    {
+      "vol": 22,
+      "baseKanji": "責",
+      "count": 5,
+      "relatedKanji": ["責", "積", "績", "債", "漬"],
+      "description": "꾸짖을 책 - 責 포함 한자"
+    },
+    {
+      "vol": 23,
+      "baseKanji": "糸",
+      "count": 5,
+      "relatedKanji": ["糸", "紙", "線", "絵", "続"],
+      "description": "실 사 - 糸 부수 기초"
+    },
+    {
+      "vol": 24,
+      "baseKanji": "内",
+      "count": 4,
+      "relatedKanji": ["内", "納", "肉", "丙"],
+      "description": "안 내 - 内 포함 한자"
+    },
+    {
+      "vol": 25,
+      "baseKanji": "辰",
+      "count": 4,
+      "relatedKanji": ["辰", "振", "震", "唇"],
+      "description": "별 진 - 辰 포함 한자"
+    },
+    {
+      "vol": 26,
+      "baseKanji": "田",
+      "count": 9,
+      "relatedKanji": ["田", "男", "畑", "町", "界", "畳", "留", "略", "番"],
+      "description": "밭 전 - 田 부수 한자"
+    },
+    {
+      "vol": 27,
+      "baseKanji": "辛",
+      "count": 5,
+      "relatedKanji": ["辛", "新", "薪", "親", "辞"],
+      "description": "매울 신 - 辛 포함 한자"
+    },
+    {
+      "vol": 28,
+      "baseKanji": "売",
+      "count": 3,
+      "relatedKanji": ["売", "読", "続"],
+      "description": "팔 매 - 売 포함 한자"
+    },
+    {
+      "vol": 29,
+      "baseKanji": "京",
+      "count": 4,
+      "relatedKanji": ["京", "涼", "景", "鯨"],
+      "description": "서울 경 - 京 포함 한자"
+    },
+    {
+      "vol": 30,
+      "baseKanji": "力",
+      "count": 4,
+      "relatedKanji": ["力", "動", "働", "功"],
+      "description": "힘 력 - 力 부수 한자"
+    },
+    {
+      "vol": 31,
+      "baseKanji": "右",
+      "count": 4,
+      "relatedKanji": ["右", "若", "苦", "石"],
+      "description": "오른 우 - 右 모양 한자"
+    },
+    {
+      "vol": 32,
+      "baseKanji": "由",
+      "count": 8,
+      "relatedKanji": ["由", "油", "届", "届", "宙", "笛", "軸", "抽"],
+      "description": "말미암을 유 - 由 포함 한자"
+    },
+    {
+      "vol": 33,
+      "baseKanji": "吉",
+      "count": 4,
+      "relatedKanji": ["吉", "結", "詰", "喫"],
+      "description": "길할 길 - 吉 포함 한자"
+    },
+    {
+      "vol": 34,
+      "baseKanji": "害",
+      "count": 4,
+      "relatedKanji": ["害", "割", "憲", "轄"],
+      "description": "해할 해 - 害 포함 한자"
+    },
+    {
+      "vol": 35,
+      "baseKanji": "至",
+      "count": 4,
+      "relatedKanji": ["至", "致", "室", "到"],
+      "description": "이를 지 - 至 포함 한자"
+    },
+    {
+      "vol": 36,
+      "baseKanji": "乚",
+      "count": 5,
+      "relatedKanji": ["乱", "孔", "乞", "九", "礼"],
+      "description": "새 을 - 乚 모양 한자"
+    },
+    {
+      "vol": 37,
+      "baseKanji": "舌",
+      "count": 7,
+      "relatedKanji": ["舌", "話", "活", "括", "適", "敵", "滴"],
+      "description": "혀 설 - 舌 포함 한자"
+    },
+    {
+      "vol": 38,
+      "baseKanji": "免",
+      "count": 4,
+      "relatedKanji": ["免", "勉", "晩", "逸"],
+      "description": "면할 면 - 免 포함 한자"
+    },
+    {
+      "vol": 39,
+      "baseKanji": "刀",
+      "count": 4,
+      "relatedKanji": ["刀", "切", "分", "刃"],
+      "description": "칼 도 - 刀 부수 한자"
+    },
+    {
+      "vol": 40,
+      "baseKanji": "重",
+      "count": 8,
+      "relatedKanji": ["重", "動", "働", "種", "衝", "腫", "鍾", "憧"],
+      "description": "무거울 중 - 重 포함 한자"
+    },
+    {
+      "vol": 41,
+      "baseKanji": "羽",
+      "count": 6,
+      "relatedKanji": ["羽", "習", "翌", "翼", "翁", "翻"],
+      "description": "깃 우 - 羽 부수 한자"
+    },
+    {
+      "vol": 42,
+      "baseKanji": "濯",
+      "count": 3,
+      "relatedKanji": ["濯", "曜", "燿"],
+      "description": "빨래할 탁 - 濯 모양 한자"
+    },
+    {
+      "vol": 43,
+      "baseKanji": "虍",
+      "count": 8,
+      "relatedKanji": ["虎", "虐", "虚", "慮", "膚", "劇", "戯", "虜"],
+      "description": "범 호 - 虍 부수 한자"
+    },
+    {
+      "vol": 44,
+      "baseKanji": "或",
+      "count": 3,
+      "relatedKanji": ["或", "域", "惑"],
+      "description": "혹 혹 - 或 포함 한자"
+    },
+    {
+      "vol": 45,
+      "baseKanji": "世",
+      "count": 4,
+      "relatedKanji": ["世", "葉", "枼", "蝶"],
+      "description": "세상 세 - 世 포함 한자"
+    },
+    {
+      "vol": 46,
+      "baseKanji": "方",
+      "count": 5,
+      "relatedKanji": ["方", "放", "房", "防", "芳"],
+      "description": "모 방 - 方 포함 한자"
+    },
+    {
+      "vol": 47,
+      "baseKanji": "放",
+      "count": 3,
+      "relatedKanji": ["放", "激", "敵"],
+      "description": "놓을 방 - 放 포함 한자"
+    },
+    {
+      "vol": 48,
+      "baseKanji": "丈",
+      "count": 5,
+      "relatedKanji": ["丈", "仗", "杖", "状", "壮"],
+      "description": "어른 장 - 丈 포함 한자"
+    },
+    {
+      "vol": 49,
+      "baseKanji": "卩",
+      "count": 5,
+      "relatedKanji": ["印", "即", "卸", "御", "節"],
+      "description": "병부 절 - 卩 부수 한자"
+    },
+    {
+      "vol": 50,
+      "baseKanji": "干",
+      "count": 5,
+      "relatedKanji": ["干", "刊", "幹", "汗", "岸"],
+      "description": "방패 간 - 干 포함 한자"
+    },
+    {
+      "vol": 51,
+      "baseKanji": "共",
+      "count": 4,
+      "relatedKanji": ["共", "供", "港", "恭"],
+      "description": "함께 공 - 共 포함 한자"
+    },
+    {
+      "vol": 52,
+      "baseKanji": "云",
+      "count": 5,
+      "relatedKanji": ["云", "雲", "運", "魂", "芸"],
+      "description": "이를 운 - 云 포함 한자"
+    },
+    {
+      "vol": 53,
+      "baseKanji": "契",
+      "count": 3,
+      "relatedKanji": ["契", "喫", "潔"],
+      "description": "맺을 계 - 契 모양 한자 (헷갈리는 한자)"
+    },
+    {
+      "vol": 54,
+      "baseKanji": "酌",
+      "count": 5,
+      "relatedKanji": ["酌", "約", "的", "釣", "均"],
+      "description": "부을 작 - 勺 포함 한자 (헷갈리는 한자)"
+    },
+    {
+      "vol": 55,
+      "baseKanji": "圧",
+      "count": 5,
+      "relatedKanji": ["圧", "庄", "荘", "床", "店"],
+      "description": "누를 압 - 비슷한 모양 한자"
+    },
+    {
+      "vol": 56,
+      "baseKanji": "巻",
+      "count": 5,
+      "relatedKanji": ["巻", "券", "圏", "港", "選"],
+      "description": "두루마리 권 - 비슷한 모양 한자"
+    },
+    {
+      "vol": 57,
+      "baseKanji": "専",
+      "count": 5,
+      "relatedKanji": ["専", "博", "縛", "薄", "傳"],
+      "description": "오로지 전 - 비슷한 모양 한자"
+    }
+  ]
+}

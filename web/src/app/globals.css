@@ -156,3 +156,13 @@ body {
 .flashcard-back {
   transform: rotateY(180deg);
 }
+
+/* 스크롤바 숨기기 (모바일 가로 스크롤용) */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}

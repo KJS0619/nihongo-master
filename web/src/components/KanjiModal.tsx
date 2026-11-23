@@ -239,14 +239,32 @@ function extractSound(hunEum: string | null): string | null {
   return parts[parts.length - 1];
 }
 
+// 간단한 단어 타입 (JLPT 단어 데이터용)
+export interface SimpleWord {
+  word: string;
+  reading: string;
+  meaning: string;
+  jlpt: string;
+}
+
 interface KanjiModalProps {
   kanji: Kanji;
   onClose: () => void;
   onSameSoundClick?: (sound: string) => void; // 같은 음 한자 보기 클릭 시
+  onRadicalClick?: (radicalNumber: number) => void; // 부수 클릭 시
+  onWordClick?: (word: SimpleWord) => void; // 단어 클릭 시
 }
 
-type TabType = "stroke" | "draw" | "compare" | "etymology";
+type TabType = "stroke" | "draw" | "compare" | "etymology" | "words";
 type CharVariant = "jp" | "kr";
+
+// JLPT 단어 타입
+interface JlptWordSimple {
+  word: string;
+  reading: string;
+  meaning: string;
+  jlpt: string;
+}
 
 interface EtymologyData {
   category: string;
@@ -258,7 +276,7 @@ interface HanjaBookData {
   pairs?: Record<string, { why?: string }>;
 }
 
-export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps) {
+export function KanjiModal({ kanji, onClose, onSameSoundClick, onRadicalClick, onWordClick }: KanjiModalProps) {
   const radicalInfo = kanji.radical ? RADICAL_MAP[kanji.radical] : null;
   const sound = extractSound(kanji.korean_hun_eum);
   const [activeTab, setActiveTab] = useState<TabType>("stroke");
@@ -270,6 +288,8 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
   const [justAdded, setJustAdded] = useState(false);
   const [etymology, setEtymology] = useState<EtymologyData | null>(null);
   const [fallbackWhy, setFallbackWhy] = useState<string | null>(null);
+  const [jlptWords, setJlptWords] = useState<JlptWordSimple[]>([]);
+  const [wordsLoading, setWordsLoading] = useState(false);
 
   // 복습 목록에 있는지 확인
   useEffect(() => {
@@ -336,6 +356,26 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
       .catch((err) => console.error("Failed to load etymology data:", err));
   }, [kanji.literal]);
 
+  // JLPT 단어에서 해당 한자가 포함된 단어 로드
+  useEffect(() => {
+    async function loadRelatedWords() {
+      setWordsLoading(true);
+      try {
+        const response = await fetch("/data/jlpt_words.json");
+        const data = await response.json();
+        const allWords: JlptWordSimple[] = data.words || [];
+        // 현재 한자가 포함된 단어만 필터링
+        const filtered = allWords.filter((w) => w.word.includes(kanji.literal));
+        setJlptWords(filtered);
+      } catch (err) {
+        console.error("Failed to load JLPT words:", err);
+      } finally {
+        setWordsLoading(false);
+      }
+    }
+    loadRelatedWords();
+  }, [kanji.literal]);
+
   // ESC 키로 닫기
   useEffect(() => {
     const handleEsc = (e: KeyboardEvent) => {
@@ -360,7 +400,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
     >
       <div
         className={clsx(
-          "relative w-full sm:max-w-lg max-h-[90vh] overflow-y-auto",
+          "relative w-full sm:max-w-lg max-h-[90dvh] flex flex-col overflow-hidden",
           "bg-white dark:bg-gray-900 rounded-t-2xl sm:rounded-2xl",
           "shadow-2xl"
         )}
@@ -387,7 +427,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
         </button>
 
         {/* 헤더 */}
-        <div className="p-6 pb-4 border-b border-gray-200 dark:border-gray-700">
+        <div className="shrink-0 p-6 pb-4 border-b border-gray-200 dark:border-gray-700">
           <div className="flex items-start gap-4">
             {/* 한자 - 차이가 있으면 두 글자 표시 */}
             <div className="flex-shrink-0">
@@ -482,10 +522,18 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
                 <span className="px-2 py-0.5 text-xs font-medium bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded">
                   {kanji.stroke_count}획
                 </span>
-                {radicalInfo && (
-                  <span className="px-2 py-0.5 text-xs font-medium bg-purple-100 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 rounded" title={radicalInfo.name}>
+                {radicalInfo && kanji.radical && (
+                  <button
+                    onClick={() => onRadicalClick?.(kanji.radical!)}
+                    className={clsx(
+                      "px-2 py-0.5 text-xs font-medium rounded transition-all",
+                      "bg-purple-100 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300",
+                      onRadicalClick && "hover:bg-purple-200 dark:hover:bg-purple-800 hover:ring-2 hover:ring-purple-300 dark:hover:ring-purple-600 cursor-pointer"
+                    )}
+                    title={`${radicalInfo.name} - 클릭하여 연관 한자 보기`}
+                  >
                     {radicalInfo.char}부
-                  </span>
+                  </button>
                 )}
                 {kanji.frequency && (
                   <span className="px-2 py-0.5 text-xs font-medium bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded">
@@ -503,7 +551,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
         </div>
 
         {/* 독음 정보 */}
-        <div className="p-4 border-b border-gray-200 dark:border-gray-700 space-y-3">
+        <div className="shrink-0 p-4 border-b border-gray-200 dark:border-gray-700 space-y-3">
           {/* 음독 */}
           {kanji.ja_on.length > 0 && (
             <div className="flex items-start gap-3">
@@ -542,7 +590,7 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
         </div>
 
         {/* 탭 네비게이션 */}
-        <div className="flex border-b border-gray-200 dark:border-gray-700">
+        <div className="shrink-0 flex border-b border-gray-200 dark:border-gray-700">
           <button
             onClick={() => setActiveTab("stroke")}
             className={clsx(
@@ -629,10 +677,36 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
               )}
             </button>
           )}
+
+          {/* 관련 단어 탭 */}
+          <button
+            onClick={() => setActiveTab("words")}
+            className={clsx(
+              "flex-1 py-3 px-4 text-sm font-semibold transition-colors relative",
+              activeTab === "words"
+                ? "text-green-600 dark:text-green-400"
+                : "text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300"
+            )}
+          >
+            <span className="flex items-center justify-center gap-2">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+              </svg>
+              단어
+              {jlptWords.length > 0 && (
+                <span className="text-xs bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300 px-1.5 rounded-full">
+                  {jlptWords.length}
+                </span>
+              )}
+            </span>
+            {activeTab === "words" && (
+              <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-green-600 dark:bg-green-400" />
+            )}
+          </button>
         </div>
 
         {/* 탭 콘텐츠 */}
-        <div className="p-4">
+        <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-4">
           {/* 일본 신자체 선택 시 */}
           {(!hasDiff || charVariant === "jp") && (
             <>
@@ -892,10 +966,84 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick }: KanjiModalProps
               )}
             </div>
           )}
+
+          {/* 관련 단어 탭 콘텐츠 */}
+          {activeTab === "words" && (
+            <div className="py-2">
+              {wordsLoading ? (
+                <div className="flex items-center justify-center h-32">
+                  <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-green-600"></div>
+                </div>
+              ) : jlptWords.length === 0 ? (
+                <div className="text-center py-8 text-gray-500 dark:text-gray-400">
+                  <p className="text-lg mb-2">📚</p>
+                  <p>'{kanji.literal}' 한자가 포함된</p>
+                  <p>JLPT 단어가 없습니다</p>
+                </div>
+              ) : (
+                <div className="space-y-2">
+                  <p className="text-xs text-gray-500 dark:text-gray-400 mb-3">
+                    '{kanji.literal}' 한자가 포함된 JLPT 단어 {jlptWords.length}개
+                  </p>
+                  {jlptWords.map((word, idx) => (
+                    <button
+                      key={`${word.word}-${idx}`}
+                      onClick={() => onWordClick?.(word)}
+                      className={clsx(
+                        "w-full text-left p-3 rounded-lg transition-colors",
+                        "bg-gray-50 dark:bg-gray-800",
+                        "border border-gray-200 dark:border-gray-700",
+                        onWordClick && "hover:bg-green-50 dark:hover:bg-green-900/20 hover:border-green-300 dark:hover:border-green-700 cursor-pointer"
+                      )}
+                    >
+                      <div className="flex items-start justify-between">
+                        <div>
+                          <p className="text-lg font-bold text-gray-900 dark:text-white">
+                            {/* 해당 한자 하이라이트 */}
+                            {word.word.split("").map((char, charIdx) => (
+                              <span
+                                key={charIdx}
+                                className={char === kanji.literal ? "text-green-600 dark:text-green-400" : ""}
+                              >
+                                {char}
+                              </span>
+                            ))}
+                          </p>
+                          <p className="text-sm text-gray-500 dark:text-gray-400">
+                            {word.reading}
+                          </p>
+                          <p className="text-sm text-gray-700 dark:text-gray-300 mt-1">
+                            {word.meaning}
+                          </p>
+                        </div>
+                        <div className="flex items-center gap-1 flex-shrink-0">
+                          {word.jlpt && (
+                            <span
+                              className={clsx(
+                                "text-xs font-medium px-1.5 py-0.5 rounded text-white",
+                                JLPT_COLORS[word.jlpt]
+                              )}
+                            >
+                              {word.jlpt}
+                            </span>
+                          )}
+                          {onWordClick && (
+                            <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          )}
+                        </div>
+                      </div>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
         </div>
 
         {/* 하단 복습 버튼 */}
-        <div className="p-4 border-t border-gray-200 dark:border-gray-700">
+        <div className="sticky bottom-0 z-10 shrink-0 border-t border-gray-200 bg-white p-4 pb-[calc(1rem+env(safe-area-inset-bottom))] shadow-[0_-6px_16px_rgba(0,0,0,0.06)] dark:border-gray-700 dark:bg-gray-900">
           <button
             onClick={handleAddToReview}
             disabled={isInReview}

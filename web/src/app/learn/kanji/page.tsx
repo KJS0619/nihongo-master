@@ -5,12 +5,14 @@ import Link from "next/link";
 import { Kanji, KanjiData, JlptLevel, GradeFilter } from "@/types/kanji";
 import { FilterBar } from "@/components/FilterBar";
 import { KanjiGrid } from "@/components/KanjiGrid";
-import { KanjiModal } from "@/components/KanjiModal";
+import { KanjiModal, SimpleWord } from "@/components/KanjiModal";
+import { SimpleWordModal } from "@/components/SimpleWordModal";
 import { FlashcardModal } from "@/components/FlashcardModal";
 import { WordFlashcardModal } from "@/components/WordFlashcardModal";
 import { TopicKanjiModal } from "@/components/TopicKanjiModal";
 import { RadicalModal } from "@/components/RadicalModal";
 import { RadicalKanjiModal } from "@/components/RadicalKanjiModal";
+import { RadicalDetailModal } from "@/components/RadicalDetailModal";
 import { KanjiDiffModal } from "@/components/KanjiDiffModal";
 import { KokujiModal } from "@/components/KokujiModal";
 import { HanjaBookPrintModal } from "@/components/HanjaBookPrintModal";
@@ -46,6 +48,16 @@ export default function KanjiLearnPage() {
   const [showSameSound, setShowSameSound] = useState(false);
   const [initialSound, setInitialSound] = useState<string | undefined>(undefined);
   const [addedToReview, setAddedToReview] = useState(false);
+  const [showRadicalDetail, setShowRadicalDetail] = useState(false);
+  const [selectedRadicalNumber, setSelectedRadicalNumber] = useState<number | null>(null);
+  const [kanjiModalFromRadical, setKanjiModalFromRadical] = useState(false);
+
+  // 단어 모달 관련 상태
+  const [showWordModal, setShowWordModal] = useState(false);
+  const [selectedWord, setSelectedWord] = useState<SimpleWord | null>(null);
+  const [wordModalFromKanji, setWordModalFromKanji] = useState(false);
+  const [wordModalFromRadical, setWordModalFromRadical] = useState(false);
+  const [previousKanji, setPreviousKanji] = useState<Kanji | null>(null);
 
   // 초성별/같은음 모달에서 플래시카드/프린트/한자 연동용
   const [flashcardKanjiList, setFlashcardKanjiList] = useState<Kanji[] | null>(null);
@@ -54,13 +66,67 @@ export default function KanjiLearnPage() {
   const [printChars, setPrintChars] = useState<string[] | null>(null);
   const [printFromSameSound, setPrintFromSameSound] = useState(false);
   const [kanjiModalFromSameSound, setKanjiModalFromSameSound] = useState(false);
-  const [sameSoundTab, setSameSoundTab] = useState<"sound" | "choseong">("sound"); // 복귀할 탭 기억
+  const [sameSoundTab, setSameSoundTab] = useState<"sound" | "choseong" | "shape">("sound"); // 복귀할 탭 기억
 
   // 같은 음 한자 보기
   const handleSameSoundClick = (sound: string) => {
     setInitialSound(sound);
     setShowSameSound(true);
     setSelectedKanji(null); // KanjiModal 닫기
+  };
+
+  // 부수 클릭 시 부수 상세 모달 열기
+  const handleRadicalClick = (radicalNumber: number) => {
+    setSelectedRadicalNumber(radicalNumber);
+    setShowRadicalDetail(true);
+    setSelectedKanji(null); // KanjiModal 닫기
+  };
+
+  // 부수 상세 모달에서 한자 클릭 시
+  const handleKanjiFromRadical = (kanji: Kanji) => {
+    setShowRadicalDetail(false);
+    setKanjiModalFromRadical(true);
+    setSelectedKanji(kanji);
+  };
+
+  // KanjiModal에서 단어 클릭 시
+  const handleWordClick = (word: SimpleWord) => {
+    setPreviousKanji(selectedKanji); // 현재 한자 저장
+    setSelectedWord(word);
+    setWordModalFromKanji(true);
+    setSelectedKanji(null); // KanjiModal 닫기
+    setShowWordModal(true);
+  };
+
+  // 단어 모달에서 뒤로가기 (KanjiModal 또는 RadicalDetailModal로 돌아가기)
+  const handleWordModalBack = () => {
+    setShowWordModal(false);
+    setSelectedWord(null);
+    if (wordModalFromKanji && previousKanji) {
+      setSelectedKanji(previousKanji);
+      setWordModalFromKanji(false);
+    }
+    if (wordModalFromRadical) {
+      setShowRadicalDetail(true);
+      setWordModalFromRadical(false);
+    }
+  };
+
+  // RadicalDetailModal에서 단어 클릭 시
+  const handleWordClickFromRadical = (word: SimpleWord) => {
+    setSelectedWord(word);
+    setWordModalFromRadical(true);
+    setShowRadicalDetail(false);
+    setShowWordModal(true);
+  };
+
+  // 단어 모달에서 한자 클릭 시
+  const handleKanjiFromWord = (kanji: Kanji) => {
+    setShowWordModal(false);
+    setSelectedWord(null);
+    setWordModalFromKanji(false);
+    setPreviousKanji(null);
+    setSelectedKanji(kanji);
   };
 
   // 전체를 복습에 추가
@@ -274,8 +340,15 @@ export default function KanjiLearnPage() {
               setShowSameSound(true);
               setKanjiModalFromSameSound(false);
             }
+            // 부수 상세 모달에서 왔으면 다시 그 모달 열기
+            if (kanjiModalFromRadical) {
+              setShowRadicalDetail(true);
+              setKanjiModalFromRadical(false);
+            }
           }}
           onSameSoundClick={handleSameSoundClick}
+          onRadicalClick={handleRadicalClick}
+          onWordClick={handleWordClick}
         />
       )}
 
@@ -363,8 +436,9 @@ export default function KanjiLearnPage() {
         <SameSoundKanjiModal
           kanjiList={kanjiData}
           onClose={() => setShowSameSound(false)}
-          onKanjiClick={(k, fromTab) => {
+          onKanjiClick={(k, fromTab, currentSound) => {
             setSameSoundTab(fromTab);
+            if (currentSound) setInitialSound(currentSound);
             setShowSameSound(false);
             setKanjiModalFromSameSound(true);
             setSelectedKanji(k);
@@ -386,6 +460,34 @@ export default function KanjiLearnPage() {
             setShowSameSound(false);
             setShowHanjaBook(true);
           }}
+        />
+      )}
+
+      {showRadicalDetail && selectedRadicalNumber && (
+        <RadicalDetailModal
+          radicalNumber={selectedRadicalNumber}
+          kanjiList={kanjiData}
+          onClose={() => {
+            setShowRadicalDetail(false);
+            setSelectedRadicalNumber(null);
+          }}
+          onKanjiClick={handleKanjiFromRadical}
+          onWordClick={handleWordClickFromRadical}
+        />
+      )}
+
+      {showWordModal && selectedWord && (
+        <SimpleWordModal
+          word={selectedWord}
+          onClose={() => {
+            setShowWordModal(false);
+            setSelectedWord(null);
+            setWordModalFromKanji(false);
+            setWordModalFromRadical(false);
+            setPreviousKanji(null);
+          }}
+          onBack={(wordModalFromKanji || wordModalFromRadical) ? handleWordModalBack : undefined}
+          onKanjiClick={handleKanjiFromWord}
         />
       )}
     </div>
