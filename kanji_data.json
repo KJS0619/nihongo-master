@@ -12180,5 +12180,488 @@
    "ja": "商品を陳列します。",
    "ko": "상품을 진열합니다."
   }
+ },
+ {
+  "row": "な行",
+  "kanji": "名",
+  "jeongja": null,
+  "on": "ナ",
+  "kun": "な",
+  "sound": "명",
+  "meaning": "이름",
+  "rule": null,
+  "source": "상용1 p.116",
+  "examples": [
+   "名前（なまえ）",
+   "名所（めいしょ）"
+  ],
+  "examples_ko": [
+   "이름",
+   "명소"
+  ],
+  "sentence": {
+   "ja": "名前を書きます。",
+   "ko": "이름을 씁니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "内",
+  "jeongja": null,
+  "on": "ナイ",
+  "kun": "うち",
+  "sound": "내",
+  "meaning": "안",
+  "rule": null,
+  "source": "상용1 p.359",
+  "examples": [
+   "内部（ないぶ）",
+   "内容（ないよう）"
+  ],
+  "examples_ko": [
+   "내부",
+   "내용"
+  ],
+  "sentence": {
+   "ja": "内部を見学します。",
+   "ko": "내부를 견학합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "南",
+  "jeongja": null,
+  "on": "ナン",
+  "kun": "みなみ",
+  "sound": "남",
+  "meaning": "남녘",
+  "rule": null,
+  "source": "상용1 p.304",
+  "examples": [
+   "南北（なんぼく）",
+   "南極（なんきょく）"
+  ],
+  "examples_ko": [
+   "남북",
+   "남극"
+  ],
+  "sentence": {
+   "ja": "南に向かいます。",
+   "ko": "남쪽으로 향합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "難",
+  "jeongja": null,
+  "on": "ナン",
+  "kun": "むずかしい",
+  "sound": "난",
+  "meaning": "어려울",
+  "rule": null,
+  "source": "상용1 p.126",
+  "examples": [
+   "難民（なんみん）",
+   "災難（さいなん）"
+  ],
+  "examples_ko": [
+   "난민",
+   "재난"
+  ],
+  "sentence": {
+   "ja": "問題が難しいです。",
+   "ko": "문제가 어렵습니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "二",
+  "jeongja": null,
+  "on": "ニ",
+  "kun": "ふたつ",
+  "sound": "이",
+  "meaning": "두",
+  "rule": null,
+  "source": "상용1 p.032",
+  "examples": [
+   "二回（にかい）",
+   "二月（にがつ）"
+  ],
+  "examples_ko": [
+   "두 번",
+   "2월"
+  ],
+  "sentence": {
+   "ja": "二回目の挑戦です。",
+   "ko": "두 번째 도전입니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "肉",
+  "jeongja": null,
+  "on": "ニク",
+  "kun": "にく",
+  "sound": "육",
+  "meaning": "고기",
+  "rule": null,
+  "source": "상용1 p.063",
+  "examples": [
+   "肉体（にくたい）",
+   "牛肉（ぎゅうにく）"
+  ],
+  "examples_ko": [
+   "육체",
+   "쇠고기"
+  ],
+  "sentence": {
+   "ja": "肉を焼きます。",
+   "ko": "고기를 굽습니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "入",
+  "jeongja": null,
+  "on": "ニュウ",
+  "kun": "いれる",
+  "sound": "입",
+  "meaning": "들",
+  "rule": null,
+  "source": "상용1 p.070",
+  "examples": [
+   "入学（にゅうがく）",
+   "入場（にゅうじょう）"
+  ],
+  "examples_ko": [
+   "입학",
+   "입장"
+  ],
+  "sentence": {
+   "ja": "入学式に出ます。",
+   "ko": "입학식에 참석합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "乳",
+  "jeongja": null,
+  "on": "ニュウ",
+  "kun": "ちち",
+  "sound": "유",
+  "meaning": "젖",
+  "rule": null,
+  "source": "상용1 p.340",
+  "examples": [
+   "牛乳（ぎゅうにゅう）",
+   "乳児（にゅうじ）"
+  ],
+  "examples_ko": [
+   "우유",
+   "유아"
+  ],
+  "sentence": {
+   "ja": "牛乳を飲みます。",
+   "ko": "우유를 마십니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "任",
+  "jeongja": null,
+  "on": "ニン",
+  "kun": "まかせる",
+  "sound": "임",
+  "meaning": "맡길",
+  "rule": null,
+  "source": "상용1 p.419",
+  "examples": [
+   "任務（にんむ）",
+   "任命（にんめい）"
+  ],
+  "examples_ko": [
+   "임무",
+   "임명"
+  ],
+  "sentence": {
+   "ja": "任務を果たします。",
+   "ko": "임무를 다합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "認",
+  "jeongja": null,
+  "on": "ニン",
+  "kun": "みとめる",
+  "sound": "인",
+  "meaning": "알",
+  "rule": "인 → イン(인)",
+  "source": "상용1 p.272",
+  "examples": [
+   "認識（にんしき）",
+   "認定（にんてい）"
+  ],
+  "examples_ko": [
+   "인식",
+   "인정"
+  ],
+  "sentence": {
+   "ja": "問題を認識します。",
+   "ko": "문제를 인식합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "妊",
+  "jeongja": null,
+  "on": "ニン",
+  "kun": "—",
+  "sound": "임",
+  "meaning": "임신할",
+  "rule": null,
+  "source": "상용2 p.450",
+  "examples": [
+   "妊娠（にんしん）",
+   "妊婦（にんぷ）"
+  ],
+  "examples_ko": [
+   "임신",
+   "임산부"
+  ],
+  "sentence": {
+   "ja": "妊婦さんに席を譲ります。",
+   "ko": "임산부에게 자리를 양보합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "年",
+  "jeongja": null,
+  "on": "ネン",
+  "kun": "とし",
+  "sound": "년",
+  "meaning": "해",
+  "rule": null,
+  "source": "상용1 p.283",
+  "examples": [
+   "年齢（ねんれい）",
+   "去年（きょねん）"
+  ],
+  "examples_ko": [
+   "연령",
+   "작년"
+  ],
+  "sentence": {
+   "ja": "年齢を教えてください。",
+   "ko": "나이를 알려 주세요."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "熱",
+  "jeongja": null,
+  "on": "ネツ",
+  "kun": "あつい",
+  "sound": "열",
+  "meaning": "더울",
+  "rule": "열 → エツ(에츠)",
+  "source": "상용1 p.157",
+  "examples": [
+   "熱心（ねっしん）",
+   "熱中（ねっちゅう）"
+  ],
+  "examples_ko": [
+   "열심",
+   "열중"
+  ],
+  "sentence": {
+   "ja": "熱心に勉強します。",
+   "ko": "열심히 공부합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "念",
+  "jeongja": null,
+  "on": "ネン",
+  "kun": "—",
+  "sound": "념",
+  "meaning": "생각",
+  "rule": null,
+  "source": "상용1 p.375",
+  "examples": [
+   "信念（しんねん）",
+   "念願（ねんがん）"
+  ],
+  "examples_ko": [
+   "신념",
+   "염원"
+  ],
+  "sentence": {
+   "ja": "信念を持ちます。",
+   "ko": "신념을 가집니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "燃",
+  "jeongja": null,
+  "on": "ネン",
+  "kun": "もえる",
+  "sound": "연",
+  "meaning": "불탈",
+  "rule": "연 → エン(엔)",
+  "source": "상용1 p.162",
+  "examples": [
+   "燃料（ねんりょう）",
+   "燃焼（ねんしょう）"
+  ],
+  "examples_ko": [
+   "연료",
+   "연소"
+  ],
+  "sentence": {
+   "ja": "燃料を補給します。",
+   "ko": "연료를 보충합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "粘",
+  "jeongja": null,
+  "on": "ネン",
+  "kun": "ねばる",
+  "sound": "점",
+  "meaning": "끈끈할",
+  "rule": null,
+  "source": "상용2 p.109",
+  "examples": [
+   "粘土（ねんど）",
+   "粘り（ねばり）"
+  ],
+  "examples_ko": [
+   "점토",
+   "끈기"
+  ],
+  "sentence": {
+   "ja": "粘土で作ります。",
+   "ko": "점토로 만듭니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "農",
+  "jeongja": null,
+  "on": "ノウ",
+  "kun": "—",
+  "sound": "농",
+  "meaning": "농사",
+  "rule": null,
+  "source": "상용1 p.227",
+  "examples": [
+   "農業（のうぎょう）",
+   "農村（のうそん）"
+  ],
+  "examples_ko": [
+   "농업",
+   "농촌"
+  ],
+  "sentence": {
+   "ja": "農業を営みます。",
+   "ko": "농업을 합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "能",
+  "jeongja": null,
+  "on": "ノウ",
+  "kun": "—",
+  "sound": "능",
+  "meaning": "능할",
+  "rule": null,
+  "source": "상용1 p.398",
+  "examples": [
+   "能力（のうりょく）",
+   "性能（せいのう）"
+  ],
+  "examples_ko": [
+   "능력",
+   "성능"
+  ],
+  "sentence": {
+   "ja": "能力を伸ばします。",
+   "ko": "능력을 키웁니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "脳",
+  "jeongja": "腦",
+  "on": "ノウ",
+  "kun": "のう",
+  "sound": "뇌",
+  "meaning": "뇌",
+  "rule": null,
+  "source": "상용1 p.298",
+  "examples": [
+   "大脳（だいのう）",
+   "脳波（のうは）"
+  ],
+  "examples_ko": [
+   "대뇌",
+   "뇌파"
+  ],
+  "sentence": {
+   "ja": "大脳を研究します。",
+   "ko": "대뇌를 연구합니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "納",
+  "jeongja": null,
+  "on": "ノウ",
+  "kun": "おさめる",
+  "sound": "납",
+  "meaning": "바칠",
+  "rule": null,
+  "source": "상용1 p.359",
+  "examples": [
+   "納税（のうぜい）",
+   "納品（のうひん）"
+  ],
+  "examples_ko": [
+   "납세",
+   "납품"
+  ],
+  "sentence": {
+   "ja": "納税の期限です。",
+   "ko": "납세 기한입니다."
+  }
+ },
+ {
+  "row": "な行",
+  "kanji": "悩",
+  "jeongja": "惱",
+  "on": "ノウ",
+  "kun": "なやむ",
+  "sound": "뇌",
+  "meaning": "괴로워할",
+  "rule": null,
+  "source": "상용2 p.283",
+  "examples": [
+   "苦悩（くのう）",
+   "煩悩（ぼんのう）"
+  ],
+  "examples_ko": [
+   "고뇌",
+   "번뇌"
+  ],
+  "sentence": {
+   "ja": "悩みを話します。",
+   "ko": "고민을 이야기합니다."
+  }
  }
 ]
