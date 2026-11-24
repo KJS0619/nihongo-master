@@ -4,16 +4,16 @@
 
 ## 마지막 작업
 
-- や行 28자 추가 → 총 674자. 커밋 `412c3c8`, 푸시와 배포까지 완료.
+- ら行 62자 추가 → 총 736자. 데이터 병합과 PPT 재생성까지 완료 (커밋·푸시·배포는 다음 단계).
 
 ## 다음에 할 일
 
-1. ら行 데이터 작성: `kanji_rows/rows_ra_ro.py` (변수 `RA_RO_ROW`, 형식은 `rows_ya_yo.py`와 같음)
-2. 병합: `python kanji_rows/merge_rows.py rows_ra_ro RA_RO_ROW`
-3. 발음순 JSON 재생성: `python kanji_search.py --export-sorted` → `kanji_sound_order.json`을 `web/public/data/`로 복사
-4. PPT 재생성: `python build_deck.py`
-5. 커밋 → `git push origin main` → `cd web` 후 `npx vercel --prod --yes`
-6. 그다음은 わ행, 그리고 훈만 가진 한자.
+1. ら行 커밋 → `git push origin main` → `cd web` 후 `npx vercel --prod --yes`
+2. わ行 데이터 작성: `kanji_rows/rows_wa_wo.py` (변수 `WA_WO_ROW`, 형식은 `rows_ra_ro.py`와 같음)
+3. 병합: `python kanji_rows/merge_rows.py rows_wa_wo WA_WO_ROW`
+4. 발음순 JSON 재생성: `python kanji_search.py --export-sorted` → `kanji_sound_order.json`을 `web/public/data/`로 복사
+5. PPT 재생성: `python build_deck.py`
+6. 그다음은 훈만 가진 한자, 그리고 な・は・ま・や행의 나머지 음독.
 
 ## 현재 상태 (2026-11-24 기준)
 
@@ -31,9 +31,10 @@
 | は行 | 일부 완료 (ハ·ハイ·ハク·ハツ·ヒ·ヒン·フ·フク·フン·ヘイ·ヘキ·ホ·ホウ·ホク·ホン) | 54 |
 | ま行 | 일부 완료 (マ·マイ·マク·マツ·マン·ミ·ミン·ミョウ·ミャク·ム·メイ·メツ·メン·モ·モウ·モク·モン) | 41 |
 | や行 | 일부 완료 (ヤ·ヤク·ユ·ユウ·ヨ·ヨウ·ヨク) | 28 |
-| ら行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
+| ら行 | 완료 (ラ·ラク·ライ·ラン·リ·リク·リツ·リャク·リュウ·リョウ·リン·ルイ·レ·レイ·レキ·レツ·レン·ロ·ロウ·ロク) | 62 |
+| わ行, 훈만 가진 한자 | 미작업 | — |
 
-- 데이터 파일: `kanji_data.json` (총 674자)
+- 데이터 파일: `kanji_data.json` (총 736자)
 - 발음순 파일: `kanji_sound_order.json` (`python kanji_search.py --export-sorted` 로 생성)
 - 웹 사본: `web/public/data/kanji_sound_order.json` (복사 필요)
 - 웹 페이지: `web/src/app/learn/kanji-sound/page.tsx` (콤보박스 + 인쇄)
