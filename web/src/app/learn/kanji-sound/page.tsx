@@ -121,6 +121,9 @@ export default function KanjiSoundOrderPage() {
           >
             인쇄
           </button>
+          <Link href="/learn/kanji-print" className="text-sm text-blue-600 hover:underline">
+            큰 글씨 인쇄
+          </Link>
           <Link href="/learn" className="text-sm text-blue-600 hover:underline">
             학습 메뉴로
           </Link>
