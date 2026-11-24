@@ -16918,5 +16918,143 @@
    "ja": "鹿が走っています。",
    "ko": "사슴이 달리고 있습니다."
   }
+ },
+ {
+  "row": "わ行",
+  "kanji": "和",
+  "jeongja": null,
+  "on": "ワ",
+  "kun": "やわらぐ",
+  "sound": "화",
+  "meaning": "화할",
+  "rule": "화 → カ(카)",
+  "source": "상용1 p.140",
+  "examples": [
+   "平和（へいわ）",
+   "和食（わしょく）"
+  ],
+  "examples_ko": [
+   "평화",
+   "일본 음식"
+  ],
+  "sentence": {
+   "ja": "平和な世の中です。",
+   "ko": "평화로운 세상입니다."
+  }
+ },
+ {
+  "row": "わ行",
+  "kanji": "話",
+  "jeongja": null,
+  "on": "ワ",
+  "kun": "はなす",
+  "sound": "화",
+  "meaning": "말씀",
+  "rule": "화 → カ(카)",
+  "source": "상용1 p.220",
+  "examples": [
+   "会話（かいわ）",
+   "電話（でんわ）"
+  ],
+  "examples_ko": [
+   "회화",
+   "전화"
+  ],
+  "sentence": {
+   "ja": "会話の練習をします。",
+   "ko": "회화 연습을 합니다."
+  }
+ },
+ {
+  "row": "わ行",
+  "kanji": "湾",
+  "jeongja": "灣",
+  "on": "ワン",
+  "kun": "—",
+  "sound": "만",
+  "meaning": "물굽이",
+  "rule": null,
+  "source": "상용2 p.122",
+  "examples": [
+   "港湾（こうわん）",
+   "湾岸（わんがん）"
+  ],
+  "examples_ko": [
+   "항만",
+   "만 해안"
+  ],
+  "sentence": {
+   "ja": "湾岸を走ります。",
+   "ko": "만 해안을 달립니다."
+  }
+ },
+ {
+  "row": "わ行",
+  "kanji": "腕",
+  "jeongja": null,
+  "on": "ワン",
+  "kun": "うで",
+  "sound": "완",
+  "meaning": "팔뚝",
+  "rule": null,
+  "source": "상용2 p.388",
+  "examples": [
+   "手腕（しゅわん）",
+   "腕前（うでまえ）"
+  ],
+  "examples_ko": [
+   "수완",
+   "솜씨"
+  ],
+  "sentence": {
+   "ja": "腕前がいいです。",
+   "ko": "솜씨가 좋습니다."
+  }
+ },
+ {
+  "row": "わ行",
+  "kanji": "惑",
+  "jeongja": null,
+  "on": "ワク",
+  "kun": "まどう",
+  "sound": "혹",
+  "meaning": "미혹할",
+  "rule": null,
+  "source": "상용2 p.299",
+  "examples": [
+   "誘惑（ゆうわく）",
+   "当惑（とうわく）"
+  ],
+  "examples_ko": [
+   "유혹",
+   "당혹"
+  ],
+  "sentence": {
+   "ja": "誘惑に負けません。",
+   "ko": "유혹에 지지 않습니다."
+  }
+ },
+ {
+  "row": "わ行",
+  "kanji": "枠",
+  "jeongja": null,
+  "on": "ワク",
+  "kun": "わく",
+  "sound": "방",
+  "meaning": "틀",
+  "rule": null,
+  "source": "상용2 p.473",
+  "examples": [
+   "枠組み（わくぐみ）",
+   "窓枠（まどわく）"
+  ],
+  "examples_ko": [
+   "틀",
+   "창틀"
+  ],
+  "sentence": {
+   "ja": "枠の中に入れます。",
+   "ko": "틀 안에 넣습니다."
+  }
  }
 ]
