@@ -1123,7 +1123,7 @@
  {
   "row": "あ行",
   "kanji": "衛",
-  "jeongja": null,
+  "jeongja": "衞",
   "on": "エイ",
   "kun": "—",
   "sound": "위",
@@ -5123,7 +5123,7 @@
  {
   "row": "か行",
   "kanji": "教",
-  "jeongja": null,
+  "jeongja": "敎",
   "on": "キョウ",
   "kun": "おしえる",
   "sound": "교",
@@ -5997,7 +5997,7 @@
  {
   "row": "か行",
   "kanji": "茎",
-  "jeongja": null,
+  "jeongja": "莖",
   "on": "ケイ",
   "kun": "くき",
   "sound": "경",
@@ -6273,7 +6273,7 @@
  {
   "row": "か行",
   "kanji": "欠",
-  "jeongja": null,
+  "jeongja": "缺",
   "on": "ケツ",
   "kun": "かける",
   "sound": "흠",
@@ -12713,7 +12713,7 @@
  {
   "row": "は行",
   "kanji": "拝",
-  "jeongja": null,
+  "jeongja": "拜",
   "on": "ハイ",
   "kun": "おがむ",
   "sound": "배",
@@ -13012,7 +13012,7 @@
  {
   "row": "は行",
   "kanji": "秘",
-  "jeongja": null,
+  "jeongja": "祕",
   "on": "ヒ",
   "kun": "ひめる",
   "sound": "비",
@@ -13886,7 +13886,7 @@
  {
   "row": "は行",
   "kanji": "翻",
-  "jeongja": null,
+  "jeongja": "飜",
   "on": "ホン",
   "kun": "ひるがえす",
   "sound": "번",
@@ -16669,7 +16669,7 @@
  {
   "row": "ら行",
   "kanji": "錬",
-  "jeongja": null,
+  "jeongja": "鍊",
   "on": "レン",
   "kun": "—",
   "sound": "련",
@@ -17347,7 +17347,7 @@
  {
   "row": "か行",
   "kanji": "学",
-  "jeongja": null,
+  "jeongja": "學",
   "on": "ガク",
   "kun": "まなぶ",
   "sound": "학",
@@ -17697,7 +17697,7 @@
  {
   "row": "さ行",
   "kanji": "糸",
-  "jeongja": null,
+  "jeongja": "絲",
   "on": "シ",
   "kun": "いと",
   "sound": "사",
@@ -17907,7 +17907,7 @@
  {
   "row": "た行",
   "kanji": "読",
-  "jeongja": null,
+  "jeongja": "讀",
   "on": "ドク",
   "kun": "よむ",
   "sound": "독",
@@ -18075,7 +18075,7 @@
  {
   "row": "か行",
   "kanji": "画",
-  "jeongja": null,
+  "jeongja": "畫",
   "on": "ガ",
   "kun": "えがく",
   "sound": "화",
@@ -18089,7 +18089,7 @@
  {
   "row": "は行",
   "kanji": "売",
-  "jeongja": null,
+  "jeongja": "賣",
   "on": "バイ",
   "kun": "うる",
   "sound": "매",
@@ -18117,7 +18117,7 @@
  {
   "row": "た行",
   "kanji": "台",
-  "jeongja": null,
+  "jeongja": "臺",
   "on": "ダイ",
   "kun": "うてな",
   "sound": "대",
@@ -18173,7 +18173,7 @@
  {
   "row": "さ行",
   "kanji": "図",
-  "jeongja": null,
+  "jeongja": "圖",
   "on": "ズ",
   "kun": "え",
   "sound": "도",
@@ -18271,7 +18271,7 @@
  {
   "row": "た行",
   "kanji": "昼",
-  "jeongja": null,
+  "jeongja": "晝",
   "on": "チュウ",
   "kun": "ひる",
   "sound": "주",
@@ -18355,7 +18355,7 @@
  {
   "row": "さ行",
   "kanji": "姉",
-  "jeongja": null,
+  "jeongja": "姊",
   "on": "シ",
   "kun": "あね",
   "sound": "자",
@@ -18397,7 +18397,7 @@
  {
   "row": "た行",
   "kanji": "当",
-  "jeongja": null,
+  "jeongja": "當",
   "on": "トウ",
   "kun": "あたる",
   "sound": "당",
@@ -18453,7 +18453,7 @@
  {
   "row": "さ行",
   "kanji": "声",
-  "jeongja": null,
+  "jeongja": "聲",
   "on": "セイ",
   "kun": "こえ",
   "sound": "성",
@@ -18495,7 +18495,7 @@
  {
   "row": "か行",
   "kanji": "顔",
-  "jeongja": null,
+  "jeongja": "顏",
   "on": "ガン",
   "kun": "かお",
   "sound": "안",
@@ -18663,7 +18663,7 @@
  {
   "row": "は行",
   "kanji": "麦",
-  "jeongja": null,
+  "jeongja": "麥",
   "on": "バク",
   "kun": "むぎ",
   "sound": "맥",
@@ -18901,7 +18901,7 @@
  {
   "row": "さ行",
   "kanji": "真",
-  "jeongja": null,
+  "jeongja": "眞",
   "on": "シン",
   "kun": "ま",
   "sound": "진",
@@ -18915,7 +18915,7 @@
  {
   "row": "か行",
   "kanji": "研",
-  "jeongja": null,
+  "jeongja": "硏",
   "on": "ケン",
   "kun": "とぐ",
   "sound": "연",
@@ -19069,7 +19069,7 @@
  {
   "row": "さ行",
   "kanji": "実",
-  "jeongja": null,
+  "jeongja": "實",
   "on": "ジツ",
   "kun": "み",
   "sound": "실",
@@ -19139,7 +19139,7 @@
  {
   "row": "や行",
   "kanji": "予",
-  "jeongja": null,
+  "jeongja": "豫",
   "on": "ヨ",
   "kun": "あらかじめ",
   "sound": "여",
@@ -19279,7 +19279,7 @@
  {
   "row": "さ行",
   "kanji": "乗",
-  "jeongja": null,
+  "jeongja": "乘",
   "on": "ジョウ",
   "kun": "のる",
   "sound": "승",
@@ -19377,7 +19377,7 @@
  {
   "row": "か行",
   "kanji": "号",
-  "jeongja": null,
+  "jeongja": "號",
   "on": "ゴウ",
   "kun": "さけぶ",
   "sound": "호",
@@ -19503,7 +19503,7 @@
  {
   "row": "さ行",
   "kanji": "歯",
-  "jeongja": null,
+  "jeongja": "齒",
   "on": "シ",
   "kun": "よわい",
   "sound": "치",
@@ -19923,7 +19923,7 @@
  {
   "row": "か行",
   "kanji": "験",
-  "jeongja": null,
+  "jeongja": "驗",
   "on": "ケン",
   "kun": "あかし",
   "sound": "험",
@@ -19965,7 +19965,7 @@
  {
   "row": "さ行",
   "kanji": "続",
-  "jeongja": null,
+  "jeongja": "續",
   "on": "ゾク",
   "kun": "つづく",
   "sound": "속",
@@ -20007,7 +20007,7 @@
  {
   "row": "は行",
   "kanji": "変",
-  "jeongja": null,
+  "jeongja": "變",
   "on": "ヘン",
   "kun": "かわる",
   "sound": "변",
@@ -20035,7 +20035,7 @@
  {
   "row": "さ行",
   "kanji": "争",
-  "jeongja": null,
+  "jeongja": "爭",
   "on": "ソウ",
   "kun": "あらそう",
   "sound": "쟁",
@@ -20077,7 +20077,7 @@
  {
   "row": "さ行",
   "kanji": "残",
-  "jeongja": null,
+  "jeongja": "殘",
   "on": "ザン",
   "kun": "のこる",
   "sound": "잔",
@@ -20119,7 +20119,7 @@
  {
   "row": "た行",
   "kanji": "伝",
-  "jeongja": null,
+  "jeongja": "傳",
   "on": "デン",
   "kun": "つたわる",
   "sound": "전",
@@ -20217,7 +20217,7 @@
  {
   "row": "さ行",
   "kanji": "辞",
-  "jeongja": null,
+  "jeongja": "辭",
   "on": "ジ",
   "kun": "やめる",
   "sound": "사",
@@ -20315,7 +20315,7 @@
  {
   "row": "は行",
   "kanji": "辺",
-  "jeongja": null,
+  "jeongja": "邊",
   "on": "ヘン",
   "kun": "あたり",
   "sound": "변",
@@ -20385,7 +20385,7 @@
  {
   "row": "さ行",
   "kanji": "児",
-  "jeongja": null,
+  "jeongja": "兒",
   "on": "ジ",
   "kun": "こ",
   "sound": "아",
@@ -20399,7 +20399,7 @@
  {
   "row": "か行",
   "kanji": "芸",
-  "jeongja": null,
+  "jeongja": "藝",
   "on": "ゲイ",
   "kun": "うえる",
   "sound": "예",
@@ -20539,7 +20539,7 @@
  {
   "row": "さ行",
   "kanji": "浅",
-  "jeongja": null,
+  "jeongja": "淺",
   "on": "セン",
   "kun": "あさい",
   "sound": "천",
@@ -20595,7 +20595,7 @@
  {
   "row": "た行",
   "kanji": "灯",
-  "jeongja": null,
+  "jeongja": "燈",
   "on": "トウ",
   "kun": "ひ",
   "sound": "등",
@@ -20609,7 +20609,7 @@
  {
   "row": "か行",
   "kanji": "挙",
-  "jeongja": null,
+  "jeongja": "擧",
   "on": "キョ",
   "kun": "あげる",
   "sound": "거",
@@ -20833,7 +20833,7 @@
  {
   "row": "さ行",
   "kanji": "縄",
-  "jeongja": null,
+  "jeongja": "繩",
   "on": "ジョウ",
   "kun": "なわ",
   "sound": "승",
@@ -21029,7 +21029,7 @@
  {
   "row": "さ行",
   "kanji": "巣",
-  "jeongja": null,
+  "jeongja": "巢",
   "on": "ソウ",
   "kun": "す",
   "sound": "소",
@@ -21211,7 +21211,7 @@
  {
   "row": "さ行",
   "kanji": "増",
-  "jeongja": null,
+  "jeongja": "增",
   "on": "ゾウ",
   "kun": "ます",
   "sound": "증",
@@ -21267,7 +21267,7 @@
  {
   "row": "さ行",
   "kanji": "状",
-  "jeongja": null,
+  "jeongja": "狀",
   "on": "ジョウ",
   "kun": "—",
   "sound": "상",
@@ -21309,7 +21309,7 @@
  {
   "row": "た行",
   "kanji": "断",
-  "jeongja": null,
+  "jeongja": "斷",
   "on": "ダン",
   "kun": "たつ",
   "sound": "단",
@@ -21477,7 +21477,7 @@
  {
   "row": "さ行",
   "kanji": "絶",
-  "jeongja": null,
+  "jeongja": "絕",
   "on": "ゼツ",
   "kun": "たえる",
   "sound": "절",
@@ -21505,7 +21505,7 @@
  {
   "row": "さ行",
   "kanji": "雑",
-  "jeongja": null,
+  "jeongja": "雜",
   "on": "ザツ",
   "kun": "まじえる",
   "sound": "잡",
@@ -21533,7 +21533,7 @@
  {
   "row": "さ行",
   "kanji": "賛",
-  "jeongja": null,
+  "jeongja": "贊",
   "on": "サン",
   "kun": "たすける",
   "sound": "찬",
@@ -21603,7 +21603,7 @@
  {
   "row": "た行",
   "kanji": "団",
-  "jeongja": null,
+  "jeongja": "團",
   "on": "ダン",
   "kun": "かたまり",
   "sound": "단",
@@ -21645,7 +21645,7 @@
  {
   "row": "さ行",
   "kanji": "税",
-  "jeongja": null,
+  "jeongja": "稅",
   "on": "ゼイ",
   "kun": "—",
   "sound": "세",
@@ -21799,7 +21799,7 @@
  {
   "row": "か行",
   "kanji": "効",
-  "jeongja": null,
+  "jeongja": "效",
   "on": "コウ",
   "kun": "きく",
   "sound": "효",
@@ -21967,7 +21967,7 @@
  {
   "row": "は行",
   "kanji": "仏",
-  "jeongja": null,
+  "jeongja": "佛",
   "on": "ブツ",
   "kun": "ほとけ",
   "sound": "불",
@@ -22051,7 +22051,7 @@
  {
   "row": "か行",
   "kanji": "鉱",
-  "jeongja": null,
+  "jeongja": "鑛",
   "on": "コウ",
   "kun": "あらがね",
   "sound": "광",
@@ -22135,7 +22135,7 @@
  {
   "row": "さ行",
   "kanji": "証",
-  "jeongja": null,
+  "jeongja": "證",
   "on": "ショウ",
   "kun": "あかし",
   "sound": "증",
@@ -22163,7 +22163,7 @@
  {
   "row": "さ行",
   "kanji": "条",
-  "jeongja": null,
+  "jeongja": "條",
   "on": "ジョウ",
   "kun": "えだ",
   "sound": "조",
@@ -22177,7 +22177,7 @@
  {
   "row": "た行",
   "kanji": "独",
-  "jeongja": null,
+  "jeongja": "獨",
   "on": "ドク",
   "kun": "ひとり",
   "sound": "독",
@@ -22317,7 +22317,7 @@
  {
   "row": "さ行",
   "kanji": "属",
-  "jeongja": null,
+  "jeongja": "屬",
   "on": "ゾク",
   "kun": "さかん",
   "sound": "속",
@@ -22359,7 +22359,7 @@
  {
   "row": "さ行",
   "kanji": "舎",
-  "jeongja": null,
+  "jeongja": "舍",
   "on": "シャ",
   "kun": "やどる",
   "sound": "사",
@@ -22457,7 +22457,7 @@
  {
   "row": "さ行",
   "kanji": "済",
-  "jeongja": null,
+  "jeongja": "濟",
   "on": "サイ",
   "kun": "すむ",
   "sound": "제",
@@ -22499,7 +22499,7 @@
  {
   "row": "さ行",
   "kanji": "収",
-  "jeongja": null,
+  "jeongja": "收",
   "on": "シュウ",
   "kun": "おさめる",
   "sound": "수",
@@ -22569,7 +22569,7 @@
  {
   "row": "さ行",
   "kanji": "処",
-  "jeongja": null,
+  "jeongja": "處",
   "on": "ショ",
   "kun": "ところ",
   "sound": "처",
@@ -22779,7 +22779,7 @@
  {
   "row": "は行",
   "kanji": "晩",
-  "jeongja": null,
+  "jeongja": "晚",
   "on": "バン",
   "kun": "—",
   "sound": "만",
@@ -22793,7 +22793,7 @@
  {
   "row": "さ行",
   "kanji": "蔵",
-  "jeongja": null,
+  "jeongja": "藏",
   "on": "ゾウ",
   "kun": "くら",
   "sound": "장",
@@ -22821,7 +22821,7 @@
  {
   "row": "さ行",
   "kanji": "専",
-  "jeongja": null,
+  "jeongja": "專",
   "on": "セン",
   "kun": "もっぱら",
   "sound": "전",
@@ -22835,7 +22835,7 @@
  {
   "row": "さ行",
   "kanji": "将",
-  "jeongja": null,
+  "jeongja": "將",
   "on": "ショウ",
   "kun": "まさに",
   "sound": "장",
@@ -22849,7 +22849,7 @@
  {
   "row": "さ行",
   "kanji": "装",
-  "jeongja": null,
+  "jeongja": "裝",
   "on": "ソウ",
   "kun": "よそおう",
   "sound": "장",
@@ -22919,7 +22919,7 @@
  {
   "row": "た行",
   "kanji": "庁",
-  "jeongja": null,
+  "jeongja": "廳",
   "on": "チョウ",
   "kun": "やくしょ",
   "sound": "청",
@@ -22961,7 +22961,7 @@
  {
   "row": "か行",
   "kanji": "届",
-  "jeongja": null,
+  "jeongja": "屆",
   "on": "カイ",
   "kun": "とどける",
   "sound": "届",
@@ -22975,7 +22975,7 @@
  {
   "row": "さ行",
   "kanji": "臓",
-  "jeongja": null,
+  "jeongja": "臟",
   "on": "ゾウ",
   "kun": "はらわた",
   "sound": "장",
@@ -23031,7 +23031,7 @@
  {
   "row": "は行",
   "kanji": "宝",
-  "jeongja": null,
+  "jeongja": "寶",
   "on": "ホウ",
   "kun": "たから",
   "sound": "보",
@@ -23269,7 +23269,7 @@
  {
   "row": "さ行",
   "kanji": "従",
-  "jeongja": null,
+  "jeongja": "從",
   "on": "ジュウ",
   "kun": "したがう",
   "sound": "종",
@@ -23297,7 +23297,7 @@
  {
   "row": "か行",
   "kanji": "厳",
-  "jeongja": null,
+  "jeongja": "嚴",
   "on": "ゲン",
   "kun": "おごそか",
   "sound": "엄",
@@ -23535,7 +23535,7 @@
  {
   "row": "さ行",
   "kanji": "銭",
-  "jeongja": null,
+  "jeongja": "錢",
   "on": "セン",
   "kun": "ぜに",
   "sound": "전",
@@ -23591,7 +23591,7 @@
  {
   "row": "か行",
   "kanji": "郷",
-  "jeongja": null,
+  "jeongja": "鄕",
   "on": "キョウ",
   "kun": "さと",
   "sound": "향",
@@ -23661,7 +23661,7 @@
  {
   "row": "さ行",
   "kanji": "縦",
-  "jeongja": null,
+  "jeongja": "縱",
   "on": "ジュウ",
   "kun": "たて",
   "sound": "종",
@@ -23829,7 +23829,7 @@
  {
   "row": "さ行",
   "kanji": "蚕",
-  "jeongja": null,
+  "jeongja": "蠶",
   "on": "サン",
   "kun": "かいこ",
   "sound": "잠",
@@ -23927,7 +23927,7 @@
  {
   "row": "は行",
   "kanji": "抜",
-  "jeongja": null,
+  "jeongja": "拔",
   "on": "バツ",
   "kun": "ぬく",
   "sound": "발",
@@ -23955,7 +23955,7 @@
  {
   "row": "は行",
   "kanji": "払",
-  "jeongja": null,
+  "jeongja": "拂",
   "on": "フツ",
   "kun": "はらう",
   "sound": "불",
@@ -23969,7 +23969,7 @@
  {
   "row": "た行",
   "kanji": "遅",
-  "jeongja": null,
+  "jeongja": "遲",
   "on": "チ",
   "kun": "おくれる",
   "sound": "지",
@@ -24067,7 +24067,7 @@
  {
   "row": "さ行",
   "kanji": "緒",
-  "jeongja": null,
+  "jeongja": "緖",
   "on": "ショ",
   "kun": "お",
   "sound": "서",
@@ -24109,7 +24109,7 @@
  {
   "row": "さ行",
   "kanji": "寝",
-  "jeongja": null,
+  "jeongja": "寢",
   "on": "シン",
   "kun": "ねる",
   "sound": "침",
@@ -24123,7 +24123,7 @@
  {
   "row": "た行",
   "kanji": "盗",
-  "jeongja": null,
+  "jeongja": "盜",
   "on": "トウ",
   "kun": "ぬすむ",
   "sound": "도",
@@ -24333,7 +24333,7 @@
  {
   "row": "さ行",
   "kanji": "捜",
-  "jeongja": null,
+  "jeongja": "搜",
   "on": "ソウ",
   "kun": "さがす",
   "sound": "수",
@@ -24529,7 +24529,7 @@
  {
   "row": "さ行",
   "kanji": "触",
-  "jeongja": null,
+  "jeongja": "觸",
   "on": "ショク",
   "kun": "ふれる",
   "sound": "촉",
@@ -24641,7 +24641,7 @@
  {
   "row": "さ行",
   "kanji": "双",
-  "jeongja": null,
+  "jeongja": "雙",
   "on": "ソウ",
   "kun": "ふた",
   "sound": "쌍",
@@ -25005,7 +25005,7 @@
  {
   "row": "さ行",
   "kanji": "湿",
-  "jeongja": null,
+  "jeongja": "濕",
   "on": "シツ",
   "kun": "しめる",
   "sound": "습",
@@ -25019,7 +25019,7 @@
  {
   "row": "は行",
   "kanji": "瓶",
-  "jeongja": null,
+  "jeongja": "甁",
   "on": "ビン",
   "kun": "かめ",
   "sound": "병",
@@ -25047,7 +25047,7 @@
  {
   "row": "か行",
   "kanji": "缶",
-  "jeongja": null,
+  "jeongja": "罐",
   "on": "カン",
   "kun": "かま",
   "sound": "부",
@@ -25383,7 +25383,7 @@
  {
   "row": "か行",
   "kanji": "挟",
-  "jeongja": null,
+  "jeongja": "挾",
   "on": "キョウ",
   "kun": "はさむ",
   "sound": "협",
@@ -25523,7 +25523,7 @@
  {
   "row": "か行",
   "kanji": "撃",
-  "jeongja": null,
+  "jeongja": "擊",
   "on": "ゲキ",
   "kun": "うつ",
   "sound": "격",
@@ -25551,7 +25551,7 @@
  {
   "row": "さ行",
   "kanji": "渉",
-  "jeongja": null,
+  "jeongja": "涉",
   "on": "ショウ",
   "kun": "わたる",
   "sound": "섭",
@@ -25663,7 +25663,7 @@
  {
   "row": "ら行",
   "kanji": "郎",
-  "jeongja": null,
+  "jeongja": "郞",
   "on": "ロウ",
   "kun": "おとこ",
   "sound": "랑",
@@ -25705,7 +25705,7 @@
  {
   "row": "ら行",
   "kanji": "塁",
-  "jeongja": null,
+  "jeongja": "壘",
   "on": "ルイ",
   "kun": "とりで",
   "sound": "루",
@@ -25761,7 +25761,7 @@
  {
   "row": "は行",
   "kanji": "廃",
-  "jeongja": null,
+  "jeongja": "廢",
   "on": "ハイ",
   "kun": "すたれる",
   "sound": "폐",
@@ -25873,7 +25873,7 @@
  {
   "row": "た行",
   "kanji": "闘",
-  "jeongja": null,
+  "jeongja": "鬪",
   "on": "トウ",
   "kun": "たたかう",
   "sound": "투",
@@ -25943,7 +25943,7 @@
  {
   "row": "た行",
   "kanji": "聴",
-  "jeongja": null,
+  "jeongja": "聽",
   "on": "チョウ",
   "kun": "きく",
   "sound": "청",
@@ -25957,7 +25957,7 @@
  {
   "row": "た行",
   "kanji": "脱",
-  "jeongja": null,
+  "jeongja": "脫",
   "on": "ダツ",
   "kun": "ぬぐ",
   "sound": "탈",
@@ -26083,7 +26083,7 @@
  {
   "row": "あ行",
   "kanji": "為",
-  "jeongja": null,
+  "jeongja": "爲",
   "on": "イ",
   "kun": "ため",
   "sound": "위",
@@ -26125,7 +26125,7 @@
  {
   "row": "た行",
   "kanji": "徴",
-  "jeongja": null,
+  "jeongja": "徵",
   "on": "チョウ",
   "kun": "しるし",
   "sound": "징",
@@ -26139,7 +26139,7 @@
  {
   "row": "た行",
   "kanji": "弾",
-  "jeongja": null,
+  "jeongja": "彈",
   "on": "ダン",
   "kun": "ひく",
   "sound": "탄",
@@ -26167,7 +26167,7 @@
  {
   "row": "か行",
   "kanji": "拠",
-  "jeongja": null,
+  "jeongja": "據",
   "on": "キョ",
   "kun": "よる",
   "sound": "거",
@@ -26489,7 +26489,7 @@
  {
   "row": "は行",
   "kanji": "併",
-  "jeongja": null,
+  "jeongja": "倂",
   "on": "ヘイ",
   "kun": "あわせる",
   "sound": "병",
@@ -26573,7 +26573,7 @@
  {
   "row": "さ行",
   "kanji": "譲",
-  "jeongja": null,
+  "jeongja": "讓",
   "on": "ジョウ",
   "kun": "ゆずる",
   "sound": "양",
@@ -26587,7 +26587,7 @@
  {
   "row": "さ行",
   "kanji": "称",
-  "jeongja": null,
+  "jeongja": "稱",
   "on": "ショウ",
   "kun": "たたえる",
   "sound": "칭",
@@ -26657,7 +26657,7 @@
  {
   "row": "さ行",
   "kanji": "慎",
-  "jeongja": null,
+  "jeongja": "愼",
   "on": "シン",
   "kun": "つつしむ",
   "sound": "신",
@@ -26699,7 +26699,7 @@
  {
   "row": "さ行",
   "kanji": "渋",
-  "jeongja": null,
+  "jeongja": "澁",
   "on": "ジュウ",
   "kun": "しぶ",
   "sound": "삽",
@@ -26811,7 +26811,7 @@
  {
   "row": "た行",
   "kanji": "稲",
-  "jeongja": null,
+  "jeongja": "稻",
   "on": "トウ",
   "kun": "いね",
   "sound": "도",
@@ -26951,7 +26951,7 @@
  {
   "row": "や行",
   "kanji": "誉",
-  "jeongja": null,
+  "jeongja": "譽",
   "on": "ヨ",
   "kun": "ほまれ",
   "sound": "예",
@@ -26965,7 +26965,7 @@
  {
   "row": "さ行",
   "kanji": "騒",
-  "jeongja": null,
+  "jeongja": "騷",
   "on": "ソウ",
   "kun": "さわぐ",
   "sound": "소",
@@ -27007,7 +27007,7 @@
  {
   "row": "や行",
   "kanji": "揺",
-  "jeongja": null,
+  "jeongja": "搖",
   "on": "ヨウ",
   "kun": "ゆれる",
   "sound": "요",
@@ -27035,7 +27035,7 @@
  {
   "row": "ら行",
   "kanji": "隣",
-  "jeongja": null,
+  "jeongja": "鄰",
   "on": "リン",
   "kun": "となる",
   "sound": "린",
@@ -27077,7 +27077,7 @@
  {
   "row": "さ行",
   "kanji": "釈",
-  "jeongja": null,
+  "jeongja": "釋",
   "on": "シャク",
   "kun": "とく",
   "sound": "석",
@@ -27119,7 +27119,7 @@
  {
   "row": "た行",
   "kanji": "滞",
-  "jeongja": null,
+  "jeongja": "滯",
   "on": "タイ",
   "kun": "とどこおる",
   "sound": "체",
@@ -27273,7 +27273,7 @@
  {
   "row": "さ行",
   "kanji": "剤",
-  "jeongja": null,
+  "jeongja": "劑",
   "on": "ザイ",
   "kun": "かる",
   "sound": "제",
@@ -27287,7 +27287,7 @@
  {
   "row": "ら行",
   "kanji": "瀬",
-  "jeongja": null,
+  "jeongja": "瀨",
   "on": "ライ",
   "kun": "せ",
   "sound": "뢰",
@@ -27315,7 +27315,7 @@
  {
   "row": "さ行",
   "kanji": "斎",
-  "jeongja": null,
+  "jeongja": "齋",
   "on": "サイ",
   "kun": "とき",
   "sound": "재",
@@ -27385,7 +27385,7 @@
  {
   "row": "さ行",
   "kanji": "即",
-  "jeongja": null,
+  "jeongja": "卽",
   "on": "ソク",
   "kun": "つく",
   "sound": "즉",
@@ -27413,7 +27413,7 @@
  {
   "row": "か行",
   "kanji": "偽",
-  "jeongja": null,
+  "jeongja": "僞",
   "on": "ギ",
   "kun": "いつわる",
   "sound": "위",
@@ -27427,7 +27427,7 @@
  {
   "row": "は行",
   "kanji": "覇",
-  "jeongja": null,
+  "jeongja": "霸",
   "on": "ハ",
   "kun": "はたがしら",
   "sound": "패",
@@ -27497,7 +27497,7 @@
  {
   "row": "か行",
   "kanji": "犠",
-  "jeongja": null,
+  "jeongja": "犧",
   "on": "ギ",
   "kun": "いけにえ",
   "sound": "희",
@@ -27609,7 +27609,7 @@
  {
   "row": "さ行",
   "kanji": "斉",
-  "jeongja": null,
+  "jeongja": "齊",
   "on": "セイ",
   "kun": "そろう",
   "sound": "제",
@@ -27651,7 +27651,7 @@
  {
   "row": "か行",
   "kanji": "圏",
-  "jeongja": null,
+  "jeongja": "圈",
   "on": "ケン",
   "kun": "かこい",
   "sound": "권",
@@ -27707,7 +27707,7 @@
  {
   "row": "さ行",
   "kanji": "尽",
-  "jeongja": null,
+  "jeongja": "盡",
   "on": "ジン",
   "kun": "つきる",
   "sound": "진",
@@ -27749,7 +27749,7 @@
  {
   "row": "さ行",
   "kanji": "寿",
-  "jeongja": null,
+  "jeongja": "壽",
   "on": "ジュ",
   "kun": "ことぶき",
   "sound": "수",
@@ -28155,7 +28155,7 @@
  {
   "row": "か行",
   "kanji": "恒",
-  "jeongja": null,
+  "jeongja": "恆",
   "on": "コウ",
   "kun": "つね",
   "sound": "항",
@@ -28197,7 +28197,7 @@
  {
   "row": "さ行",
   "kanji": "曽",
-  "jeongja": null,
+  "jeongja": "曾",
   "on": "ソウ",
   "kun": "かつ",
   "sound": "증",
@@ -28239,7 +28239,7 @@
  {
   "row": "さ行",
   "kanji": "潜",
-  "jeongja": null,
+  "jeongja": "潛",
   "on": "セン",
   "kun": "ひそむ",
   "sound": "잠",
@@ -28267,7 +28267,7 @@
  {
   "row": "か行",
   "kanji": "岳",
-  "jeongja": null,
+  "jeongja": "嶽",
   "on": "ガク",
   "kun": "たけ",
   "sound": "악",
@@ -28281,7 +28281,7 @@
  {
   "row": "か行",
   "kanji": "概",
-  "jeongja": null,
+  "jeongja": "槪",
   "on": "ガイ",
   "kun": "おおむね",
   "sound": "개",
@@ -28379,7 +28379,7 @@
  {
   "row": "か行",
   "kanji": "狭",
-  "jeongja": null,
+  "jeongja": "狹",
   "on": "キョウ",
   "kun": "せまい",
   "sound": "협",
@@ -28421,7 +28421,7 @@
  {
   "row": "ら行",
   "kanji": "炉",
-  "jeongja": null,
+  "jeongja": "爐",
   "on": "ロ",
   "kun": "いろり",
   "sound": "로",
@@ -28547,7 +28547,7 @@
  {
   "row": "か行",
   "kanji": "寛",
-  "jeongja": null,
+  "jeongja": "寬",
   "on": "カン",
   "kun": "くつろぐ",
   "sound": "관",
@@ -28589,7 +28589,7 @@
  {
   "row": "さ行",
   "kanji": "浄",
-  "jeongja": null,
+  "jeongja": "淨",
   "on": "ジョウ",
   "kun": "きよめる",
   "sound": "정",
@@ -28603,7 +28603,7 @@
  {
   "row": "は行",
   "kanji": "没",
-  "jeongja": null,
+  "jeongja": "沒",
   "on": "ボツ",
   "kun": "おぼれる",
   "sound": "몰",
@@ -28659,7 +28659,7 @@
  {
   "row": "さ行",
   "kanji": "随",
-  "jeongja": null,
+  "jeongja": "隨",
   "on": "ズイ",
   "kun": "まにまに",
   "sound": "수",
@@ -28743,7 +28743,7 @@
  {
   "row": "さ行",
   "kanji": "壌",
-  "jeongja": null,
+  "jeongja": "壤",
   "on": "ジョウ",
   "kun": "つち",
   "sound": "양",
@@ -28785,7 +28785,7 @@
  {
   "row": "は行",
   "kanji": "舗",
-  "jeongja": null,
+  "jeongja": "舖",
   "on": "ホ",
   "kun": "—",
   "sound": "포",
@@ -28953,7 +28953,7 @@
  {
   "row": "さ行",
   "kanji": "奨",
-  "jeongja": null,
+  "jeongja": "奬",
   "on": "ショウ",
   "kun": "すすめる",
   "sound": "장",
@@ -28981,7 +28981,7 @@
  {
   "row": "さ行",
   "kanji": "剰",
-  "jeongja": null,
+  "jeongja": "剩",
   "on": "ジョウ",
   "kun": "あまつさえ",
   "sound": "잉",
@@ -28995,7 +28995,7 @@
  {
   "row": "た行",
   "kanji": "胆",
-  "jeongja": null,
+  "jeongja": "膽",
   "on": "タン",
   "kun": "きも",
   "sound": "담",
@@ -29009,7 +29009,7 @@
  {
   "row": "さ行",
   "kanji": "繊",
-  "jeongja": null,
+  "jeongja": "纖",
   "on": "セン",
   "kun": "—",
   "sound": "섬",
@@ -29037,7 +29037,7 @@
  {
   "row": "か行",
   "kanji": "虚",
-  "jeongja": null,
+  "jeongja": "虛",
   "on": "キョ",
   "kun": "むなしい",
   "sound": "허",
@@ -29051,7 +29051,7 @@
  {
   "row": "ら行",
   "kanji": "霊",
-  "jeongja": null,
+  "jeongja": "靈",
   "on": "レイ",
   "kun": "たま",
   "sound": "령",
@@ -29079,7 +29079,7 @@
  {
   "row": "さ行",
   "kanji": "惨",
-  "jeongja": null,
+  "jeongja": "慘",
   "on": "サン",
   "kun": "みじめ",
   "sound": "참",
@@ -29191,7 +29191,7 @@
  {
   "row": "ら行",
   "kanji": "滝",
-  "jeongja": null,
+  "jeongja": "瀧",
   "on": "ロウ",
   "kun": "たき",
   "sound": "롱",
@@ -29247,7 +29247,7 @@
  {
   "row": "さ行",
   "kanji": "荘",
-  "jeongja": null,
+  "jeongja": "莊",
   "on": "ソウ",
   "kun": "ほうき",
   "sound": "장",
@@ -29289,7 +29289,7 @@
  {
   "row": "か行",
   "kanji": "懐",
-  "jeongja": null,
+  "jeongja": "懷",
   "on": "カイ",
   "kun": "ふところ",
   "sound": "회",
@@ -29415,7 +29415,7 @@
  {
   "row": "か行",
   "kanji": "勲",
-  "jeongja": null,
+  "jeongja": "勳",
   "on": "クン",
   "kun": "いさお",
   "sound": "훈",
@@ -29513,7 +29513,7 @@
  {
   "row": "さ行",
   "kanji": "尚",
-  "jeongja": null,
+  "jeongja": "尙",
   "on": "ショウ",
   "kun": "なお",
   "sound": "상",
@@ -29541,7 +29541,7 @@
  {
   "row": "か行",
   "kanji": "顕",
-  "jeongja": null,
+  "jeongja": "顯",
   "on": "ケン",
   "kun": "あきらか",
   "sound": "현",
@@ -29653,7 +29653,7 @@
  {
   "row": "さ行",
   "kanji": "粛",
-  "jeongja": null,
+  "jeongja": "肅",
   "on": "シュク",
   "kun": "つつしむ",
   "sound": "숙",
@@ -29793,7 +29793,7 @@
  {
   "row": "さ行",
   "kanji": "践",
-  "jeongja": null,
+  "jeongja": "踐",
   "on": "セン",
   "kun": "ふむ",
   "sound": "천",
@@ -29877,7 +29877,7 @@
  {
   "row": "さ行",
   "kanji": "砕",
-  "jeongja": null,
+  "jeongja": "碎",
   "on": "サイ",
   "kun": "くだく",
   "sound": "쇄",
@@ -29891,7 +29891,7 @@
  {
   "row": "や行",
   "kanji": "謡",
-  "jeongja": null,
+  "jeongja": "謠",
   "on": "ヨウ",
   "kun": "うたい",
   "sound": "요",
@@ -29933,7 +29933,7 @@
  {
   "row": "ら行",
   "kanji": "鎌",
-  "jeongja": null,
+  "jeongja": "鐮",
   "on": "レン",
   "kun": "かま",
   "sound": "겸",
@@ -30129,7 +30129,7 @@
  {
   "row": "た行",
   "kanji": "鎮",
-  "jeongja": null,
+  "jeongja": "鎭",
   "on": "チン",
   "kun": "しずめる",
   "sound": "진",
@@ -30171,7 +30171,7 @@
  {
   "row": "あ行",
   "kanji": "殴",
-  "jeongja": null,
+  "jeongja": "毆",
   "on": "オウ",
   "kun": "なぐる",
   "sound": "구",
@@ -30255,7 +30255,7 @@
  {
   "row": "さ行",
   "kanji": "酔",
-  "jeongja": null,
+  "jeongja": "醉",
   "on": "スイ",
   "kun": "よう",
   "sound": "취",
@@ -30395,7 +30395,7 @@
  {
   "row": "さ行",
   "kanji": "髄",
-  "jeongja": null,
+  "jeongja": "髓",
   "on": "ズイ",
   "kun": "—",
   "sound": "수",
@@ -30423,7 +30423,7 @@
  {
   "row": "さ行",
   "kanji": "穂",
-  "jeongja": null,
+  "jeongja": "穗",
   "on": "スイ",
   "kun": "ほ",
   "sound": "수",
@@ -30437,7 +30437,7 @@
  {
   "row": "さ行",
   "kanji": "壮",
-  "jeongja": null,
+  "jeongja": "壯",
   "on": "ソウ",
   "kun": "さかん",
   "sound": "장",
@@ -30521,7 +30521,7 @@
  {
   "row": "た行",
   "kanji": "痴",
-  "jeongja": null,
+  "jeongja": "癡",
   "on": "チ",
   "kun": "しれる",
   "sound": "치",
@@ -30689,7 +30689,7 @@
  {
   "row": "ま行",
   "kanji": "弥",
-  "jeongja": null,
+  "jeongja": "彌",
   "on": "ミ",
   "kun": "や",
   "sound": "미",
@@ -30899,7 +30899,7 @@
  {
   "row": "さ行",
   "kanji": "獣",
-  "jeongja": null,
+  "jeongja": "獸",
   "on": "ジュウ",
   "kun": "けもの",
   "sound": "수",
@@ -31011,7 +31011,7 @@
  {
   "row": "か行",
   "kanji": "呉",
-  "jeongja": null,
+  "jeongja": "吳",
   "on": "ゴ",
   "kun": "くれる",
   "sound": "오",
@@ -31361,7 +31361,7 @@
  {
   "row": "さ行",
   "kanji": "粋",
-  "jeongja": null,
+  "jeongja": "粹",
   "on": "スイ",
   "kun": "いき",
   "sound": "수",
@@ -31459,7 +31459,7 @@
  {
   "row": "さ行",
   "kanji": "摂",
-  "jeongja": null,
+  "jeongja": "攝",
   "on": "セツ",
   "kun": "おさめる",
   "sound": "섭",
@@ -31571,7 +31571,7 @@
  {
   "row": "さ行",
   "kanji": "枢",
-  "jeongja": null,
+  "jeongja": "樞",
   "on": "スウ",
   "kun": "とぼそ",
   "sound": "추",
@@ -31893,7 +31893,7 @@
  {
   "row": "か行",
   "kanji": "峡",
-  "jeongja": null,
+  "jeongja": "峽",
   "on": "キョウ",
   "kun": "はざま",
   "sound": "협",
@@ -31949,7 +31949,7 @@
  {
   "row": "さ行",
   "kanji": "醸",
-  "jeongja": null,
+  "jeongja": "釀",
   "on": "ジョウ",
   "kun": "かもす",
   "sound": "양",
@@ -32033,7 +32033,7 @@
  {
   "row": "か行",
   "kanji": "薫",
-  "jeongja": null,
+  "jeongja": "薰",
   "on": "クン",
   "kun": "かおる",
   "sound": "훈",
@@ -32061,7 +32061,7 @@
  {
   "row": "ら行",
   "kanji": "猟",
-  "jeongja": null,
+  "jeongja": "獵",
   "on": "リョウ",
   "kun": "かり",
   "sound": "렵",
@@ -32215,7 +32215,7 @@
  {
   "row": "さ行",
   "kanji": "窃",
-  "jeongja": null,
+  "jeongja": "竊",
   "on": "セツ",
   "kun": "ぬすむ",
   "sound": "절",
@@ -32327,7 +32327,7 @@
  {
   "row": "か行",
   "kanji": "戯",
-  "jeongja": null,
+  "jeongja": "戲",
   "on": "ギ",
   "kun": "たわむれる",
   "sound": "희",
@@ -32509,7 +32509,7 @@
  {
   "row": "さ行",
   "kanji": "禅",
-  "jeongja": null,
+  "jeongja": "禪",
   "on": "ゼン",
   "kun": "しずか",
   "sound": "선",
@@ -32523,7 +32523,7 @@
  {
   "row": "さ行",
   "kanji": "嘱",
-  "jeongja": null,
+  "jeongja": "囑",
   "on": "ショク",
   "kun": "しょくする",
   "sound": "촉",
@@ -32565,7 +32565,7 @@
  {
   "row": "さ行",
   "kanji": "挿",
-  "jeongja": null,
+  "jeongja": "插",
   "on": "ソウ",
   "kun": "さす",
   "sound": "삽",
@@ -32691,7 +32691,7 @@
  {
   "row": "か行",
   "kanji": "暁",
-  "jeongja": null,
+  "jeongja": "曉",
   "on": "ギョウ",
   "kun": "あかつき",
   "sound": "효",
@@ -32817,7 +32817,7 @@
  {
   "row": "か行",
   "kanji": "渇",
-  "jeongja": null,
+  "jeongja": "渴",
   "on": "カツ",
   "kun": "かわく",
   "sound": "갈",
@@ -32887,7 +32887,7 @@
  {
   "row": "さ行",
   "kanji": "叙",
-  "jeongja": null,
+  "jeongja": "敍",
   "on": "ジョ",
   "kun": "ついず",
   "sound": "서",
@@ -32929,7 +32929,7 @@
  {
   "row": "た行",
   "kanji": "逓",
-  "jeongja": null,
+  "jeongja": "遞",
   "on": "テイ",
   "kun": "かわる",
   "sound": "체",
@@ -33293,7 +33293,7 @@
  {
   "row": "た行",
   "kanji": "鋳",
-  "jeongja": null,
+  "jeongja": "鑄",
   "on": "チュウ",
   "kun": "いる",
   "sound": "주",
@@ -33727,7 +33727,7 @@
  {
   "row": "は行",
   "kanji": "褒",
-  "jeongja": null,
+  "jeongja": "襃",
   "on": "ホウ",
   "kun": "ほめる",
   "sound": "포",
@@ -33825,7 +33825,7 @@
  {
   "row": "た行",
   "kanji": "堕",
-  "jeongja": null,
+  "jeongja": "墮",
   "on": "ダ",
   "kun": "おちる",
   "sound": "타",
@@ -33867,7 +33867,7 @@
  {
   "row": "さ行",
   "kanji": "桟",
-  "jeongja": null,
+  "jeongja": "棧",
   "on": "サン",
   "kun": "かけはし",
   "sound": "잔",
@@ -34231,7 +34231,7 @@
  {
   "row": "た行",
   "kanji": "勅",
-  "jeongja": null,
+  "jeongja": "敕",
   "on": "チョク",
   "kun": "いましめる",
   "sound": "칙",
@@ -34315,7 +34315,7 @@
  {
   "row": "ら行",
   "kanji": "楼",
-  "jeongja": null,
+  "jeongja": "樓",
   "on": "ロウ",
   "kun": "たかどの",
   "sound": "루",
@@ -34469,7 +34469,7 @@
  {
   "row": "あ行",
   "kanji": "艶",
-  "jeongja": null,
+  "jeongja": "艷",
   "on": "エン",
   "kun": "つや",
   "sound": "염",
@@ -34819,7 +34819,7 @@
  {
   "row": "ま行",
   "kanji": "麺",
-  "jeongja": null,
+  "jeongja": "麵",
   "on": "メン",
   "kun": "むぎこ",
   "sound": "면",
@@ -34889,7 +34889,7 @@
  {
   "row": "は行",
   "kanji": "蛮",
-  "jeongja": null,
+  "jeongja": "蠻",
   "on": "バン",
   "kun": "えびす",
   "sound": "만",
@@ -34931,7 +34931,7 @@
  {
   "row": "あ行",
   "kanji": "壱",
-  "jeongja": null,
+  "jeongja": "壹",
   "on": "イチ",
   "kun": "ひとつ",
   "sound": "일",
@@ -35239,7 +35239,7 @@
  {
   "row": "か行",
   "kanji": "倹",
-  "jeongja": null,
+  "jeongja": "儉",
   "on": "ケン",
   "kun": "つましい",
   "sound": "검",
@@ -35813,7 +35813,7 @@
  {
   "row": "さ行",
   "kanji": "痩",
-  "jeongja": null,
+  "jeongja": "瘦",
   "on": "ソウ",
   "kun": "やせる",
   "sound": "수",
@@ -36009,7 +36009,7 @@
  {
   "row": "な行",
   "kanji": "弐",
-  "jeongja": null,
+  "jeongja": "貳",
   "on": "ニ",
   "kun": "ふたつ",
   "sound": "이",
