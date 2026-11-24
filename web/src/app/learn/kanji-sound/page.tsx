@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import clsx from "clsx";
 import Link from "next/link";
 
 interface SoundEntry {
@@ -134,20 +135,29 @@ export default function KanjiSoundOrderPage() {
 
       <input
         type="search"
-        list="kana-options"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder="행 선택(あ, か … 훈만 가진 한자) 또는 한자·음·뜻 직접 검색"
         className="mb-4 w-full rounded border px-3 py-2 print:hidden"
       />
-      <datalist id="kana-options">
-        {KANA_OPTIONS.map((o) => (
-          <option key={o.label} value={o.label}>
-            {`${o.label} (${o.kata})`}
-          </option>
+      {/* 행 선택 버튼: 모든 행이 한눈에 보이도록 펼쳐서 표시 */}
+      <div className="mb-4 flex flex-wrap gap-2 print:hidden">
+        {[...KANA_OPTIONS.map((o) => o.label), KUN_ONLY_LABEL].map((label) => (
+          <button
+            key={label}
+            type="button"
+            onClick={() => setQuery(label)}
+            className={clsx(
+              "rounded border px-2.5 py-1 text-sm",
+              query === label
+                ? "bg-gray-900 text-white border-gray-900"
+                : "bg-white text-gray-800 hover:bg-gray-100"
+            )}
+          >
+            {label}
+          </button>
         ))}
-        <option value={KUN_ONLY_LABEL} />
-      </datalist>
+      </div>
 
       {error && (
         <p className="text-red-600">데이터를 불러오지 못했습니다: {error}</p>
