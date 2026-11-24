@@ -14510,5 +14510,989 @@
    "ko": "영어를 번역합니다."
   },
   "on_hangul": "호응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "麻",
+  "jeongja": null,
+  "on": "マ",
+  "kun": "あさ",
+  "sound": "마",
+  "meaning": "삼",
+  "rule": null,
+  "source": "상용2 p.059",
+  "examples": [
+   "麻痺（まひ）",
+   "麻酔（ますい）"
+  ],
+  "examples_ko": [
+   "마비",
+   "마취"
+  ],
+  "sentence": {
+   "ja": "麻酔をかけます。",
+   "ko": "마취를 합니다."
+  },
+  "on_hangul": "마"
+ },
+ {
+  "row": "ま行",
+  "kanji": "埋",
+  "jeongja": null,
+  "on": "マイ",
+  "kun": "うまる",
+  "sound": "매",
+  "meaning": "묻을",
+  "rule": null,
+  "source": "상용2 p.095",
+  "examples": [
+   "埋没（まいぼつ）",
+   "埋蔵（まいぞう）"
+  ],
+  "examples_ko": [
+   "매몰",
+   "매장"
+  ],
+  "sentence": {
+   "ja": "土に埋めます。",
+   "ko": "흙에 묻습니다."
+  },
+  "on_hangul": "마이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "妹",
+  "jeongja": null,
+  "on": "マイ",
+  "kun": "いもうと",
+  "sound": "매",
+  "meaning": "누이",
+  "rule": null,
+  "source": "상용1 p.388",
+  "examples": [
+   "姉妹（しまい）",
+   "妹分（いもうとぶん）"
+  ],
+  "examples_ko": [
+   "자매",
+   "여동생 같은 사이"
+  ],
+  "sentence": {
+   "ja": "妹と話します。",
+   "ko": "여동생과 이야기합니다."
+  },
+  "on_hangul": "마이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "枚",
+  "jeongja": null,
+  "on": "マイ",
+  "kun": "—",
+  "sound": "매",
+  "meaning": "낱",
+  "rule": null,
+  "source": "상용1 p.301",
+  "examples": [
+   "一枚（いちまい）",
+   "枚数（まいすう）"
+  ],
+  "examples_ko": [
+   "한 장",
+   "매수"
+  ],
+  "sentence": {
+   "ja": "紙を一枚もらいました。",
+   "ko": "종이를 한 장 받았습니다."
+  },
+  "on_hangul": "마이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "毎",
+  "jeongja": "每",
+  "on": "マイ",
+  "kun": "ごと",
+  "sound": "매",
+  "meaning": "매양",
+  "rule": null,
+  "source": "상용1 p.390",
+  "examples": [
+   "毎日（まいにち）",
+   "毎週（まいしゅう）"
+  ],
+  "examples_ko": [
+   "매일",
+   "매주"
+  ],
+  "sentence": {
+   "ja": "毎日練習します。",
+   "ko": "매일 연습합니다."
+  },
+  "on_hangul": "마이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "幕",
+  "jeongja": null,
+  "on": "マク",
+  "kun": "まく",
+  "sound": "막",
+  "meaning": "장막",
+  "rule": null,
+  "source": "상용1 p.115",
+  "examples": [
+   "開幕（かいまく）",
+   "天幕（てんまく）"
+  ],
+  "examples_ko": [
+   "개막",
+   "천막"
+  ],
+  "sentence": {
+   "ja": "大会が開幕しました。",
+   "ko": "대회가 개막했습니다."
+  },
+  "on_hangul": "마쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "膜",
+  "jeongja": null,
+  "on": "マク",
+  "kun": "—",
+  "sound": "막",
+  "meaning": "꺼풀",
+  "rule": null,
+  "source": "상용2 p.036",
+  "examples": [
+   "粘膜（ねんまく）",
+   "角膜（かくまく）"
+  ],
+  "examples_ko": [
+   "점막",
+   "각막"
+  ],
+  "sentence": {
+   "ja": "粘膜を保護します。",
+   "ko": "점막을 보호합니다."
+  },
+  "on_hangul": "마쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "末",
+  "jeongja": null,
+  "on": "マツ",
+  "kun": "すえ",
+  "sound": "말",
+  "meaning": "끝",
+  "rule": null,
+  "source": "상용1 p.135",
+  "examples": [
+   "末期（まっき）",
+   "年末（ねんまつ）"
+  ],
+  "examples_ko": [
+   "말기",
+   "연말"
+  ],
+  "sentence": {
+   "ja": "年末に帰ります。",
+   "ko": "연말에 돌아갑니다."
+  },
+  "on_hangul": "마츠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "松",
+  "jeongja": null,
+  "on": "マツ",
+  "kun": "まつ",
+  "sound": "송",
+  "meaning": "소나무",
+  "rule": null,
+  "source": "상용1 p.399",
+  "examples": [
+   "松林（まつばやし）",
+   "松竹梅（しょうちくばい）"
+  ],
+  "examples_ko": [
+   "송림",
+   "송죽매"
+  ],
+  "sentence": {
+   "ja": "松林を歩きます。",
+   "ko": "송림을 걷습니다."
+  },
+  "on_hangul": "마츠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "万",
+  "jeongja": "萬",
+  "on": "マン",
+  "kun": "よろず",
+  "sound": "만",
+  "meaning": "일만",
+  "rule": null,
+  "source": "상용1 p.036",
+  "examples": [
+   "万能（まんのう）",
+   "一万（いちまん）"
+  ],
+  "examples_ko": [
+   "만능",
+   "만(1만)"
+  ],
+  "sentence": {
+   "ja": "万能な道具です。",
+   "ko": "만능 도구입니다."
+  },
+  "on_hangul": "마응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "満",
+  "jeongja": "滿",
+  "on": "マン",
+  "kun": "みちる",
+  "sound": "만",
+  "meaning": "찰",
+  "rule": null,
+  "source": "상용1 p.360",
+  "examples": [
+   "満足（まんぞく）",
+   "満点（まんてん）"
+  ],
+  "examples_ko": [
+   "만족",
+   "만점"
+  ],
+  "sentence": {
+   "ja": "結果に満足します。",
+   "ko": "결과에 만족합니다."
+  },
+  "on_hangul": "마응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "漫",
+  "jeongja": null,
+  "on": "マン",
+  "kun": "—",
+  "sound": "만",
+  "meaning": "질펀할",
+  "rule": null,
+  "source": "상용2 p.356",
+  "examples": [
+   "漫画（まんが）",
+   "漫然（まんぜん）"
+  ],
+  "examples_ko": [
+   "만화",
+   "무심코"
+  ],
+  "sentence": {
+   "ja": "漫画を読みます。",
+   "ko": "만화를 읽습니다."
+  },
+  "on_hangul": "마응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "味",
+  "jeongja": null,
+  "on": "ミ",
+  "kun": "あじ",
+  "sound": "미",
+  "meaning": "맛",
+  "rule": null,
+  "source": "상용1 p.135 / 상용2 p.068",
+  "examples": [
+   "味覚（みかく）",
+   "味方（みかた）"
+  ],
+  "examples_ko": [
+   "미각",
+   "편·아군"
+  ],
+  "sentence": {
+   "ja": "味覚が鋭いです。",
+   "ko": "미각이 예민합니다."
+  },
+  "on_hangul": "미"
+ },
+ {
+  "row": "ま行",
+  "kanji": "未",
+  "jeongja": null,
+  "on": "ミ",
+  "kun": "いまだ",
+  "sound": "미",
+  "meaning": "아닐",
+  "rule": null,
+  "source": "상용1 p.135",
+  "examples": [
+   "未来（みらい）",
+   "未定（みてい）"
+  ],
+  "examples_ko": [
+   "미래",
+   "미정"
+  ],
+  "sentence": {
+   "ja": "未来を考えます。",
+   "ko": "미래를 생각합니다."
+  },
+  "on_hangul": "미"
+ },
+ {
+  "row": "ま行",
+  "kanji": "脈",
+  "jeongja": null,
+  "on": "ミャク",
+  "kun": "—",
+  "sound": "맥",
+  "meaning": "맥",
+  "rule": null,
+  "source": "상용1 p.131",
+  "examples": [
+   "動脈（どうみゃく）",
+   "静脈（じょうみゃく）"
+  ],
+  "examples_ko": [
+   "동맥",
+   "정맥"
+  ],
+  "sentence": {
+   "ja": "動脈を調べます。",
+   "ko": "동맥을 검사합니다."
+  },
+  "on_hangul": "먀쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "妙",
+  "jeongja": null,
+  "on": "ミョウ",
+  "kun": "—",
+  "sound": "묘",
+  "meaning": "묘할",
+  "rule": null,
+  "source": "상용2 p.431",
+  "examples": [
+   "巧妙（こうみょう）",
+   "絶妙（ぜつみょう）"
+  ],
+  "examples_ko": [
+   "교묘",
+   "절묘"
+  ],
+  "sentence": {
+   "ja": "巧妙な方法です。",
+   "ko": "교묘한 방법입니다."
+  },
+  "on_hangul": "묘우"
+ },
+ {
+  "row": "ま行",
+  "kanji": "民",
+  "jeongja": null,
+  "on": "ミン",
+  "kun": "たみ",
+  "sound": "민",
+  "meaning": "백성",
+  "rule": null,
+  "source": "상용1 p.093",
+  "examples": [
+   "民族（みんぞく）",
+   "住民（じゅうみん）"
+  ],
+  "examples_ko": [
+   "민족",
+   "주민"
+  ],
+  "sentence": {
+   "ja": "民族の文化です。",
+   "ko": "민족의 문화입니다."
+  },
+  "on_hangul": "미응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "眠",
+  "jeongja": null,
+  "on": "ミン",
+  "kun": "ねむる",
+  "sound": "면",
+  "meaning": "잘",
+  "rule": null,
+  "source": "상용2 p.181",
+  "examples": [
+   "睡眠（すいみん）",
+   "眠気（ねむけ）"
+  ],
+  "examples_ko": [
+   "수면",
+   "졸음"
+  ],
+  "sentence": {
+   "ja": "睡眠時間を確保します。",
+   "ko": "수면 시간을 확보합니다."
+  },
+  "on_hangul": "미응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "務",
+  "jeongja": null,
+  "on": "ム",
+  "kun": "つとめる",
+  "sound": "무",
+  "meaning": "힘쓸",
+  "rule": null,
+  "source": "상용1 p.306",
+  "examples": [
+   "事務所（じむしょ）",
+   "勤務（きんむ）"
+  ],
+  "examples_ko": [
+   "사무소",
+   "근무"
+  ],
+  "sentence": {
+   "ja": "事務所に行きます。",
+   "ko": "사무소에 갑니다."
+  },
+  "on_hangul": "무"
+ },
+ {
+  "row": "ま行",
+  "kanji": "夢",
+  "jeongja": null,
+  "on": "ム",
+  "kun": "ゆめ",
+  "sound": "몽",
+  "meaning": "꿈",
+  "rule": null,
+  "source": "상용1 p.090",
+  "examples": [
+   "夢中（むちゅう）",
+   "夢想（むそう）"
+  ],
+  "examples_ko": [
+   "몰두",
+   "몽상"
+  ],
+  "sentence": {
+   "ja": "夢中で遊びました。",
+   "ko": "정신없이 놀았습니다."
+  },
+  "on_hangul": "무"
+ },
+ {
+  "row": "ま行",
+  "kanji": "無",
+  "jeongja": "無",
+  "on": "ム",
+  "kun": "ない",
+  "sound": "무",
+  "meaning": "없을",
+  "rule": null,
+  "source": "상용1 p.163",
+  "examples": [
+   "無理（むり）",
+   "無料（むりょう）"
+  ],
+  "examples_ko": [
+   "무리",
+   "무료"
+  ],
+  "sentence": {
+   "ja": "無理はしないでください。",
+   "ko": "무리하지 마세요."
+  },
+  "on_hangul": "무"
+ },
+ {
+  "row": "ま行",
+  "kanji": "霧",
+  "jeongja": null,
+  "on": "ム",
+  "kun": "きり",
+  "sound": "무",
+  "meaning": "안개",
+  "rule": null,
+  "source": "상용2 p.493",
+  "examples": [
+   "濃霧（のうむ）",
+   "霧雨（きりさめ）"
+  ],
+  "examples_ko": [
+   "농무",
+   "안개비"
+  ],
+  "sentence": {
+   "ja": "濃霧で視界が悪いです。",
+   "ko": "짙은 안개로 시야가 나쁩니다."
+  },
+  "on_hangul": "무"
+ },
+ {
+  "row": "ま行",
+  "kanji": "命",
+  "jeongja": null,
+  "on": "メイ",
+  "kun": "いのち",
+  "sound": "명",
+  "meaning": "목숨",
+  "rule": null,
+  "source": "상용1 p.377",
+  "examples": [
+   "命令（めいれい）",
+   "命名（めいめい）"
+  ],
+  "examples_ko": [
+   "명령",
+   "명명"
+  ],
+  "sentence": {
+   "ja": "命令を守ります。",
+   "ko": "명령을 지킵니다."
+  },
+  "on_hangul": "메이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "明",
+  "jeongja": null,
+  "on": "メイ",
+  "kun": "あかるい",
+  "sound": "명",
+  "meaning": "밝을",
+  "rule": null,
+  "source": "상용1 p.107",
+  "examples": [
+   "明確（めいかく）",
+   "文明（ぶんめい）"
+  ],
+  "examples_ko": [
+   "명확",
+   "문명"
+  ],
+  "sentence": {
+   "ja": "明確な答えです。",
+   "ko": "명확한 답입니다."
+  },
+  "on_hangul": "메이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "盟",
+  "jeongja": null,
+  "on": "メイ",
+  "kun": "—",
+  "sound": "맹",
+  "meaning": "맹세",
+  "rule": null,
+  "source": "상용1 p.107",
+  "examples": [
+   "同盟（どうめい）",
+   "盟約（めいやく）"
+  ],
+  "examples_ko": [
+   "동맹",
+   "맹약"
+  ],
+  "sentence": {
+   "ja": "同盟を結びました。",
+   "ko": "동맹을 맺었습니다."
+  },
+  "on_hangul": "메이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "迷",
+  "jeongja": null,
+  "on": "メイ",
+  "kun": "まよう",
+  "sound": "미",
+  "meaning": "헤맬",
+  "rule": null,
+  "source": "상용1 p.146",
+  "examples": [
+   "迷惑（めいわく）",
+   "迷路（めいろ）"
+  ],
+  "examples_ko": [
+   "폐",
+   "미로"
+  ],
+  "sentence": {
+   "ja": "迷惑をかけました。",
+   "ko": "폐를 끼쳤습니다."
+  },
+  "on_hangul": "메이"
+ },
+ {
+  "row": "ま行",
+  "kanji": "滅",
+  "jeongja": "滅",
+  "on": "メツ",
+  "kun": "ほろびる",
+  "sound": "멸",
+  "meaning": "멸할",
+  "rule": null,
+  "source": "상용2 p.436",
+  "examples": [
+   "消滅（しょうめつ）",
+   "全滅（ぜんめつ）"
+  ],
+  "examples_ko": [
+   "소멸",
+   "전멸"
+  ],
+  "sentence": {
+   "ja": "危機が消滅しました。",
+   "ko": "위기가 사라졌습니다."
+  },
+  "on_hangul": "메츠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "免",
+  "jeongja": null,
+  "on": "メン",
+  "kun": "まぬかれる",
+  "sound": "면",
+  "meaning": "면할",
+  "rule": null,
+  "source": "상용1 p.185",
+  "examples": [
+   "免許（めんきょ）",
+   "免税（めんぜい）"
+  ],
+  "examples_ko": [
+   "면허",
+   "면세"
+  ],
+  "sentence": {
+   "ja": "運転免許を取ります。",
+   "ko": "운전면허를 땁니다."
+  },
+  "on_hangul": "메응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "綿",
+  "jeongja": null,
+  "on": "メン",
+  "kun": "わた",
+  "sound": "면",
+  "meaning": "솜",
+  "rule": null,
+  "source": "상용1 p.343",
+  "examples": [
+   "綿密（めんみつ）",
+   "綿花（めんか）"
+  ],
+  "examples_ko": [
+   "면밀",
+   "면화"
+  ],
+  "sentence": {
+   "ja": "綿密に計画します。",
+   "ko": "면밀하게 계획합니다."
+  },
+  "on_hangul": "메응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "面",
+  "jeongja": null,
+  "on": "メン",
+  "kun": "おも",
+  "sound": "면",
+  "meaning": "낯",
+  "rule": null,
+  "source": "상용1 p.059",
+  "examples": [
+   "面積（めんせき）",
+   "対面（たいめん）"
+  ],
+  "examples_ko": [
+   "면적",
+   "대면"
+  ],
+  "sentence": {
+   "ja": "面積を測ります。",
+   "ko": "면적을 잽니다."
+  },
+  "on_hangul": "메응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "模",
+  "jeongja": null,
+  "on": "モ",
+  "kun": "—",
+  "sound": "모",
+  "meaning": "본뜰",
+  "rule": null,
+  "source": "상용1 p.116",
+  "examples": [
+   "模範（もはん）",
+   "模様（もよう）"
+  ],
+  "examples_ko": [
+   "모범",
+   "무늬"
+  ],
+  "sentence": {
+   "ja": "模範的な行動です。",
+   "ko": "모범적인 행동입니다."
+  },
+  "on_hangul": "모"
+ },
+ {
+  "row": "ま行",
+  "kanji": "毛",
+  "jeongja": null,
+  "on": "モウ",
+  "kun": "け",
+  "sound": "모",
+  "meaning": "털",
+  "rule": null,
+  "source": "상용1 p.058",
+  "examples": [
+   "毛布（もうふ）",
+   "毛糸（けいと）"
+  ],
+  "examples_ko": [
+   "담요",
+   "털실"
+  ],
+  "sentence": {
+   "ja": "毛布をかけます。",
+   "ko": "담요를 덮습니다."
+  },
+  "on_hangul": "모우"
+ },
+ {
+  "row": "ま行",
+  "kanji": "猛",
+  "jeongja": null,
+  "on": "モウ",
+  "kun": "たけしい",
+  "sound": "맹",
+  "meaning": "사나울",
+  "rule": null,
+  "source": "상용2 p.432",
+  "examples": [
+   "猛烈（もうれつ）",
+   "猛獣（もうじゅう）"
+  ],
+  "examples_ko": [
+   "맹렬",
+   "맹수"
+  ],
+  "sentence": {
+   "ja": "猛烈な暑さです。",
+   "ko": "맹렬한 더위입니다."
+  },
+  "on_hangul": "모우"
+ },
+ {
+  "row": "ま行",
+  "kanji": "盲",
+  "jeongja": null,
+  "on": "モウ",
+  "kun": "めしい",
+  "sound": "맹",
+  "meaning": "눈멀",
+  "rule": null,
+  "source": "상용2 p.178",
+  "examples": [
+   "盲点（もうてん）",
+   "盲目（もうもく）"
+  ],
+  "examples_ko": [
+   "맹점",
+   "맹목"
+  ],
+  "sentence": {
+   "ja": "盲点に気づきました。",
+   "ko": "맹점을 깨달았습니다."
+  },
+  "on_hangul": "모우"
+ },
+ {
+  "row": "ま行",
+  "kanji": "網",
+  "jeongja": null,
+  "on": "モウ",
+  "kun": "あみ",
+  "sound": "망",
+  "meaning": "그물",
+  "rule": null,
+  "source": "상용2 p.357",
+  "examples": [
+   "網羅（もうら）",
+   "通信網（つうしんもう）"
+  ],
+  "examples_ko": [
+   "망라",
+   "통신망"
+  ],
+  "sentence": {
+   "ja": "情報を網羅します。",
+   "ko": "정보를 망라합니다."
+  },
+  "on_hangul": "모우"
+ },
+ {
+  "row": "ま行",
+  "kanji": "木",
+  "jeongja": null,
+  "on": "モク",
+  "kun": "き",
+  "sound": "목",
+  "meaning": "나무",
+  "rule": null,
+  "source": "상용1 p.044",
+  "examples": [
+   "木材（もくざい）",
+   "木曜（もくよう）"
+  ],
+  "examples_ko": [
+   "목재",
+   "목요일"
+  ],
+  "sentence": {
+   "ja": "木材を運びます。",
+   "ko": "목재를 옮깁니다."
+  },
+  "on_hangul": "모쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "目",
+  "jeongja": null,
+  "on": "モク",
+  "kun": "め",
+  "sound": "목",
+  "meaning": "눈",
+  "rule": null,
+  "source": "상용1 p.057",
+  "examples": [
+   "目標（もくひょう）",
+   "項目（こうもく）"
+  ],
+  "examples_ko": [
+   "목표",
+   "항목"
+  ],
+  "sentence": {
+   "ja": "目標を決めます。",
+   "ko": "목표를 정합니다."
+  },
+  "on_hangul": "모쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "黙",
+  "jeongja": "默",
+  "on": "モク",
+  "kun": "だまる",
+  "sound": "묵",
+  "meaning": "잠잠할",
+  "rule": null,
+  "source": "상용2 p.092",
+  "examples": [
+   "沈黙（ちんもく）",
+   "黙読（もくどく）"
+  ],
+  "examples_ko": [
+   "침묵",
+   "묵독"
+  ],
+  "sentence": {
+   "ja": "沈黙が続きました。",
+   "ko": "침묵이 이어졌습니다."
+  },
+  "on_hangul": "모쿠"
+ },
+ {
+  "row": "ま行",
+  "kanji": "問",
+  "jeongja": null,
+  "on": "モン",
+  "kun": "とう",
+  "sound": "문",
+  "meaning": "물을",
+  "rule": null,
+  "source": "상용1 p.325",
+  "examples": [
+   "問題（もんだい）",
+   "問答（もんどう）"
+  ],
+  "examples_ko": [
+   "문제",
+   "문답"
+  ],
+  "sentence": {
+   "ja": "問題を解きます。",
+   "ko": "문제를 풉니다."
+  },
+  "on_hangul": "모응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "紋",
+  "jeongja": null,
+  "on": "モン",
+  "kun": "—",
+  "sound": "문",
+  "meaning": "무늬",
+  "rule": null,
+  "source": "상용1 p.299",
+  "examples": [
+   "指紋（しもん）",
+   "紋章（もんしょう）"
+  ],
+  "examples_ko": [
+   "지문",
+   "문장"
+  ],
+  "sentence": {
+   "ja": "指紋を採ります。",
+   "ko": "지문을 채취합니다."
+  },
+  "on_hangul": "모응"
+ },
+ {
+  "row": "ま行",
+  "kanji": "門",
+  "jeongja": null,
+  "on": "モン",
+  "kun": "かど",
+  "sound": "문",
+  "meaning": "문",
+  "rule": null,
+  "source": "상용1 p.084",
+  "examples": [
+   "専門（せんもん）",
+   "校門（こうもん）"
+  ],
+  "examples_ko": [
+   "전문",
+   "교문"
+  ],
+  "sentence": {
+   "ja": "専門家に相談します。",
+   "ko": "전문가와 상담합니다."
+  },
+  "on_hangul": "모응"
  }
 ]
