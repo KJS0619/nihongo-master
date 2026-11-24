@@ -1,0 +1,4157 @@
+[
+ {
+  "row": "あ行",
+  "kanji": "亜",
+  "jeongja": "亞",
+  "on": "ア",
+  "kun": "—",
+  "sound": "아",
+  "meaning": "버금",
+  "rule": null,
+  "examples": [
+   "亜熱帯（あねったい）",
+   "亜流（ありゅう）"
+  ],
+  "source": "상용1 p.264",
+  "examples_ko": [
+   "아열대",
+   "아류"
+  ],
+  "sentence": {
+   "ja": "亜熱帯の気候です。",
+   "ko": "아열대 기후입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "哀",
+  "jeongja": null,
+  "on": "アイ",
+  "kun": "あわれ",
+  "sound": "애",
+  "meaning": "슬플",
+  "rule": "애 → アイ(아이)",
+  "examples": [
+   "哀愁（あいしゅう）",
+   "哀悼（あいとう）"
+  ],
+  "source": "상용2 p.364",
+  "examples_ko": [
+   "애수",
+   "애도"
+  ],
+  "sentence": {
+   "ja": "哀愁のある曲です。",
+   "ko": "애수가 깃든 곡입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "愛",
+  "jeongja": null,
+  "on": "アイ",
+  "kun": "いとしい",
+  "sound": "애",
+  "meaning": "사랑",
+  "rule": "애 → アイ(아이)",
+  "examples": [
+   "愛情（あいじょう）",
+   "愛用（あいよう）"
+  ],
+  "source": "상용1 p.246",
+  "examples_ko": [
+   "애정",
+   "애용"
+  ],
+  "sentence": {
+   "ja": "愛情を持って育てます。",
+   "ko": "애정을 가지고 키웁니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "挨",
+  "jeongja": null,
+  "on": "アイ",
+  "kun": "—",
+  "sound": "애",
+  "meaning": "밀칠",
+  "rule": "애 → アイ(아이)",
+  "examples": [
+   "挨拶（あいさつ）"
+  ],
+  "source": "상용2 p.312",
+  "examples_ko": [
+   "인사"
+  ],
+  "sentence": {
+   "ja": "挨拶をしましょう。",
+   "ko": "인사를 합시다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "曖",
+  "jeongja": null,
+  "on": "アイ",
+  "kun": "—",
+  "sound": "애",
+  "meaning": "가릴",
+  "rule": "애 → アイ(아이)",
+  "examples": [
+   "曖昧（あいまい）"
+  ],
+  "source": "상용2 p.262",
+  "examples_ko": [
+   "애매함"
+  ],
+  "sentence": {
+   "ja": "曖昧な答えでした。",
+   "ko": "애매한 대답이었습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "悪",
+  "jeongja": "惡",
+  "on": "アク",
+  "kun": "わるい",
+  "sound": "악",
+  "meaning": "악할",
+  "rule": null,
+  "examples": [
+   "悪意（あくい）",
+   "悪化（あっか）"
+  ],
+  "source": "상용1 p.265 / 상용1 p.265 / 상용1 p.265",
+  "examples_ko": [
+   "악의",
+   "악화"
+  ],
+  "sentence": {
+   "ja": "悪意はありません。",
+   "ko": "악의는 없습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "握",
+  "jeongja": null,
+  "on": "アク",
+  "kun": "にぎる",
+  "sound": "악",
+  "meaning": "쥘",
+  "rule": null,
+  "examples": [
+   "握手（あくしゅ）",
+   "握力（あくりょく）"
+  ],
+  "source": "상용2 p.246",
+  "examples_ko": [
+   "악수",
+   "악력"
+  ],
+  "sentence": {
+   "ja": "握手をしましょう。",
+   "ko": "악수합시다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "圧",
+  "jeongja": "壓",
+  "on": "アツ",
+  "kun": "—",
+  "sound": "압",
+  "meaning": "누를",
+  "rule": null,
+  "examples": [
+   "圧力（あつりょく）",
+   "圧迫（あっぱく）"
+  ],
+  "source": "상용1 p.155",
+  "examples_ko": [
+   "압력",
+   "압박"
+  ],
+  "sentence": {
+   "ja": "圧力が強いです。",
+   "ko": "압력이 셉니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "安",
+  "jeongja": null,
+  "on": "アン",
+  "kun": "やすい",
+  "sound": "안",
+  "meaning": "편안할",
+  "rule": null,
+  "examples": [
+   "安心（あんしん）",
+   "安全（あんぜん）"
+  ],
+  "source": "상용1 p.323",
+  "examples_ko": [
+   "안심",
+   "안전"
+  ],
+  "sentence": {
+   "ja": "安心してください。",
+   "ko": "안심하세요."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "暗",
+  "jeongja": null,
+  "on": "アン",
+  "kun": "くらい",
+  "sound": "암",
+  "meaning": "어두울",
+  "rule": null,
+  "examples": [
+   "暗記（あんき）",
+   "暗号（あんごう）"
+  ],
+  "source": "상용1 p.470",
+  "examples_ko": [
+   "암기",
+   "암호"
+  ],
+  "sentence": {
+   "ja": "暗記が得意です。",
+   "ko": "암기를 잘합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "案",
+  "jeongja": null,
+  "on": "アン",
+  "kun": "—",
+  "sound": "안",
+  "meaning": "책상",
+  "rule": null,
+  "examples": [
+   "案内（あんない）",
+   "案件（あんけん）"
+  ],
+  "source": "상용1 p.323",
+  "examples_ko": [
+   "안내",
+   "안건"
+  ],
+  "sentence": {
+   "ja": "案内しますね。",
+   "ko": "안내해 드릴게요."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "以",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "—",
+  "sound": "이",
+  "meaning": "써",
+  "rule": null,
+  "examples": [
+   "以上（いじょう）",
+   "以外（いがい）"
+  ],
+  "source": "상용1 p.371",
+  "examples_ko": [
+   "이상",
+   "이외"
+  ],
+  "sentence": {
+   "ja": "十歳以上です。",
+   "ko": "10살 이상입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "位",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "くらい",
+  "sound": "위",
+  "meaning": "자리",
+  "rule": null,
+  "examples": [
+   "地位（ちい）",
+   "位置（いち）"
+  ],
+  "source": "상용1 p.467",
+  "examples_ko": [
+   "지위",
+   "위치"
+  ],
+  "sentence": {
+   "ja": "地位が上がりました。",
+   "ko": "지위가 올라갔습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "依",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "よる",
+  "sound": "의",
+  "meaning": "의지할",
+  "rule": null,
+  "examples": [
+   "依頼（いらい）",
+   "依存（いぞん）"
+  ],
+  "source": "상용2 p.523",
+  "examples_ko": [
+   "의뢰",
+   "의존"
+  ],
+  "sentence": {
+   "ja": "依頼を受けました。",
+   "ko": "의뢰를 받았습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "医",
+  "jeongja": "醫",
+  "on": "イ",
+  "kun": "—",
+  "sound": "의",
+  "meaning": "의원",
+  "rule": null,
+  "examples": [
+   "医者（いしゃ）",
+   "医療（いりょう）"
+  ],
+  "source": "상용1 p.282",
+  "examples_ko": [
+   "의사",
+   "의료"
+  ],
+  "sentence": {
+   "ja": "医者に行きます。",
+   "ko": "병원(의사)에 갑니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "囲",
+  "jeongja": "圍",
+  "on": "イ",
+  "kun": "かこむ",
+  "sound": "위",
+  "meaning": "에워쌀",
+  "rule": null,
+  "examples": [
+   "範囲（はんい）",
+   "周囲（しゅうい）"
+  ],
+  "source": "상용1 p.147",
+  "examples_ko": [
+   "범위",
+   "주위"
+  ],
+  "sentence": {
+   "ja": "周囲を見回します。",
+   "ko": "주위를 둘러봅니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "委",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "ゆだねる",
+  "sound": "위",
+  "meaning": "맡길",
+  "rule": null,
+  "examples": [
+   "委員（いいん）",
+   "委託（いたく）"
+  ],
+  "source": "상용1 p.101",
+  "examples_ko": [
+   "위원",
+   "위탁"
+  ],
+  "sentence": {
+   "ja": "委員に選ばれました。",
+   "ko": "위원에 뽑혔습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "威",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "おどす",
+  "sound": "위",
+  "meaning": "위엄",
+  "rule": null,
+  "examples": [
+   "威力（いりょく）",
+   "威厳（いげん）"
+  ],
+  "source": "상용2 p.250",
+  "examples_ko": [
+   "위력",
+   "위엄"
+  ],
+  "sentence": {
+   "ja": "威力がすごいです。",
+   "ko": "위력이 대단합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "意",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "—",
+  "sound": "의",
+  "meaning": "뜻",
+  "rule": null,
+  "examples": [
+   "意味（いみ）",
+   "意見（いけん）"
+  ],
+  "source": "상용1 p.470",
+  "examples_ko": [
+   "의미",
+   "의견"
+  ],
+  "sentence": {
+   "ja": "意味がわかりますか。",
+   "ko": "뜻을 아시겠어요?"
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "慰",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "なぐさめる",
+  "sound": "위",
+  "meaning": "위로할",
+  "rule": null,
+  "examples": [
+   "慰安（いあん）",
+   "慰問（いもん）"
+  ],
+  "source": "상용2 p.249",
+  "examples_ko": [
+   "위안",
+   "위문"
+  ],
+  "sentence": {
+   "ja": "慰安会を開きます。",
+   "ko": "위안회를 엽니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "易",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "やさしい",
+  "sound": "이",
+  "meaning": "쉬울",
+  "rule": null,
+  "examples": [
+   "安易（あんい）",
+   "貿易（ぼうえき）"
+  ],
+  "source": "상용1 p.111 / 상용1 p.111 / 상용1 p.111",
+  "examples_ko": [
+   "안이(쉬움)",
+   "무역"
+  ],
+  "sentence": {
+   "ja": "安易に決めないでください。",
+   "ko": "쉽게 결정하지 마세요."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "異",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "こと",
+  "sound": "이",
+  "meaning": "다를",
+  "rule": null,
+  "examples": [
+   "異常（いじょう）",
+   "異議（いぎ）"
+  ],
+  "source": "상용1 p.122",
+  "examples_ko": [
+   "이상(다름)",
+   "이의"
+  ],
+  "sentence": {
+   "ja": "異常はありません。",
+   "ko": "이상은 없습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "移",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "うつる",
+  "sound": "이",
+  "meaning": "옮길",
+  "rule": null,
+  "examples": [
+   "移動（いどう）",
+   "移民（いみん）"
+  ],
+  "source": "상용1 p.141",
+  "examples_ko": [
+   "이동",
+   "이민"
+  ],
+  "sentence": {
+   "ja": "東京へ移動します。",
+   "ko": "도쿄로 이동합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "胃",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "—",
+  "sound": "위",
+  "meaning": "밥통",
+  "rule": null,
+  "examples": [
+   "胃腸（いちょう）",
+   "胃液（いえき）"
+  ],
+  "source": "상용1 p.142",
+  "examples_ko": [
+   "위장",
+   "위액"
+  ],
+  "sentence": {
+   "ja": "胃が痛いです。",
+   "ko": "위가 아픕니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "衣",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "ころも",
+  "sound": "의",
+  "meaning": "옷",
+  "rule": null,
+  "examples": [
+   "衣服（いふく）",
+   "衣装（いしょう）"
+  ],
+  "source": "상용1 p.082",
+  "examples_ko": [
+   "의복",
+   "의상"
+  ],
+  "sentence": {
+   "ja": "衣服を洗います。",
+   "ko": "옷을 빱니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "違",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "ちがう",
+  "sound": "위",
+  "meaning": "어긋날",
+  "rule": null,
+  "examples": [
+   "違反（いはん）",
+   "違和感（いわかん）"
+  ],
+  "source": "상용2 p.523",
+  "examples_ko": [
+   "위반",
+   "위화감"
+  ],
+  "sentence": {
+   "ja": "規則に違反しました。",
+   "ko": "규칙을 위반했습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "遺",
+  "jeongja": null,
+  "on": "イ",
+  "kun": "のこす",
+  "sound": "유",
+  "meaning": "남길",
+  "rule": null,
+  "examples": [
+   "遺産（いさん）",
+   "遺伝（いでん）"
+  ],
+  "source": "상용1 p.138",
+  "examples_ko": [
+   "유산",
+   "유전"
+  ],
+  "sentence": {
+   "ja": "遺産を相続します。",
+   "ko": "유산을 상속합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "域",
+  "jeongja": null,
+  "on": "イキ",
+  "kun": "—",
+  "sound": "역",
+  "meaning": "지경",
+  "rule": null,
+  "examples": [
+   "地域（ちいき）",
+   "区域（くいき）"
+  ],
+  "source": "상용1 p.289",
+  "examples_ko": [
+   "지역",
+   "구역"
+  ],
+  "sentence": {
+   "ja": "地域の人です。",
+   "ko": "지역 주민입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "育",
+  "jeongja": null,
+  "on": "イク",
+  "kun": "そだつ",
+  "sound": "육",
+  "meaning": "기를",
+  "rule": null,
+  "examples": [
+   "教育（きょういく）",
+   "育成（いくせい）"
+  ],
+  "source": "상용1 p.400",
+  "examples_ko": [
+   "교육",
+   "육성"
+  ],
+  "sentence": {
+   "ja": "教育は大切です。",
+   "ko": "교육은 중요합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "一",
+  "jeongja": null,
+  "on": "イチ",
+  "kun": "ひと",
+  "sound": "일",
+  "meaning": "한",
+  "rule": "일 → イチ/イツ(이치/이츠)",
+  "examples": [
+   "一番（いちばん）",
+   "一度（いちど）"
+  ],
+  "source": "상용1 p.032",
+  "examples_ko": [
+   "제일",
+   "한 번"
+  ],
+  "sentence": {
+   "ja": "一番にゴールしました。",
+   "ko": "1등으로 골인했습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "逸",
+  "jeongja": null,
+  "on": "イツ",
+  "kun": "—",
+  "sound": "일",
+  "meaning": "뛰어날",
+  "rule": "일 → イチ/イツ(이치/이츠)",
+  "examples": [
+   "逸品（いっぴん）",
+   "逸話（いつわ）"
+  ],
+  "source": "상용2 p.293",
+  "examples_ko": [
+   "일품",
+   "일화"
+  ],
+  "sentence": {
+   "ja": "逸品を買いました。",
+   "ko": "명품을 샀습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "印",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "しるし",
+  "sound": "인",
+  "meaning": "도장",
+  "rule": "인 → イン(인)",
+  "examples": [
+   "印刷（いんさつ）",
+   "印象（いんしょう）"
+  ],
+  "source": "상용1 p.468",
+  "examples_ko": [
+   "인쇄",
+   "인상"
+  ],
+  "sentence": {
+   "ja": "印刷してください。",
+   "ko": "인쇄해 주세요."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "員",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "—",
+  "sound": "원",
+  "meaning": "인원",
+  "rule": null,
+  "examples": [
+   "社員（しゃいん）",
+   "会員（かいいん）"
+  ],
+  "source": "상용1 p.200",
+  "examples_ko": [
+   "사원",
+   "회원"
+  ],
+  "sentence": {
+   "ja": "社員が集まります。",
+   "ko": "사원이 모입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "因",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "よる",
+  "sound": "인",
+  "meaning": "인할",
+  "rule": "인 → イン(인)",
+  "examples": [
+   "原因（げんいん）",
+   "因果（いんが）"
+  ],
+  "source": "상용1 p.443",
+  "examples_ko": [
+   "원인",
+   "인과"
+  ],
+  "sentence": {
+   "ja": "原因を調べます。",
+   "ko": "원인을 조사합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "引",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "ひく",
+  "sound": "인",
+  "meaning": "끌",
+  "rule": "인 → イン(인)",
+  "examples": [
+   "引力（いんりょく）",
+   "引用（いんよう）"
+  ],
+  "source": "상용1 p.280",
+  "examples_ko": [
+   "인력",
+   "인용"
+  ],
+  "sentence": {
+   "ja": "引き出しを開けます。",
+   "ko": "서랍을 엽니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "院",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "—",
+  "sound": "원",
+  "meaning": "집",
+  "rule": null,
+  "examples": [
+   "病院（びょういん）",
+   "入院（にゅういん）"
+  ],
+  "source": "상용1 p.319",
+  "examples_ko": [
+   "병원",
+   "입원"
+  ],
+  "sentence": {
+   "ja": "病院に入院します。",
+   "ko": "병원에 입원합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "陰",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "かげ",
+  "sound": "음",
+  "meaning": "그늘",
+  "rule": null,
+  "examples": [
+   "陰気（いんき）",
+   "陰謀（いんぼう）"
+  ],
+  "source": "상용2 p.413",
+  "examples_ko": [
+   "음기(음침함)",
+   "음모"
+  ],
+  "sentence": {
+   "ja": "陰気な天気です。",
+   "ko": "음산한 날씨입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "隠",
+  "jeongja": "隱",
+  "on": "イン",
+  "kun": "かくす",
+  "sound": "은",
+  "meaning": "숨을",
+  "rule": null,
+  "examples": [
+   "隠居（いんきょ）",
+   "隠語（いんご）"
+  ],
+  "source": "상용2 p.424",
+  "examples_ko": [
+   "은거",
+   "은어"
+  ],
+  "sentence": {
+   "ja": "隠れんぼをしましょう。",
+   "ko": "숨바꼭질을 합시다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "韻",
+  "jeongja": null,
+  "on": "イン",
+  "kun": "—",
+  "sound": "운",
+  "meaning": "운",
+  "rule": null,
+  "examples": [
+   "韻律（いんりつ）",
+   "押韻（おういん）"
+  ],
+  "source": "상용2 p.234",
+  "examples_ko": [
+   "운율",
+   "압운"
+  ],
+  "sentence": {
+   "ja": "韻律を学びます。",
+   "ko": "운율을 배웁니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "飲",
+  "jeongja": "飮",
+  "on": "イン",
+  "kun": "のむ",
+  "sound": "음",
+  "meaning": "마실",
+  "rule": null,
+  "examples": [
+   "飲食（いんしょく）",
+   "飲料（いんりょう）"
+  ],
+  "source": "상용1 p.443",
+  "examples_ko": [
+   "음식",
+   "음료"
+  ],
+  "sentence": {
+   "ja": "飲食店に行きます。",
+   "ko": "음식점에 갑니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "右",
+  "jeongja": null,
+  "on": "ウ",
+  "kun": "みぎ",
+  "sound": "우",
+  "meaning": "오른",
+  "rule": null,
+  "examples": [
+   "右翼（うよく）",
+   "右岸（うがん）"
+  ],
+  "source": "상용1 p.435",
+  "examples_ko": [
+   "우익",
+   "우안"
+  ],
+  "sentence": {
+   "ja": "右側に座ります。",
+   "ko": "오른쪽에 앉습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "宇",
+  "jeongja": null,
+  "on": "ウ",
+  "kun": "—",
+  "sound": "우",
+  "meaning": "집",
+  "rule": null,
+  "examples": [
+   "宇宙（うちゅう）"
+  ],
+  "source": "상용1 p.322",
+  "examples_ko": [
+   "우주"
+  ],
+  "sentence": {
+   "ja": "宇宙を見たいです。",
+   "ko": "우주를 보고 싶습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "羽",
+  "jeongja": null,
+  "on": "ウ",
+  "kun": "はね",
+  "sound": "우",
+  "meaning": "깃",
+  "rule": null,
+  "examples": [
+   "羽毛（うもう）",
+   "羽化（うか）"
+  ],
+  "source": "상용1 p.054",
+  "examples_ko": [
+   "깃털",
+   "우화"
+  ],
+  "sentence": {
+   "ja": "羽毛布団が暖かいです。",
+   "ko": "깃털 이불이 따뜻합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "雨",
+  "jeongja": null,
+  "on": "ウ",
+  "kun": "あめ",
+  "sound": "우",
+  "meaning": "비",
+  "rule": null,
+  "examples": [
+   "雨季（うき）",
+   "雨天（うてん）"
+  ],
+  "source": "상용1 p.040",
+  "examples_ko": [
+   "우기",
+   "우천"
+  ],
+  "sentence": {
+   "ja": "雨が降っています。",
+   "ko": "비가 내리고 있습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "運",
+  "jeongja": null,
+  "on": "ウン",
+  "kun": "はこぶ",
+  "sound": "운",
+  "meaning": "옮길",
+  "rule": null,
+  "examples": [
+   "運動（うんどう）",
+   "運命（うんめい）"
+  ],
+  "source": "상용1 p.366",
+  "examples_ko": [
+   "운동",
+   "운명"
+  ],
+  "sentence": {
+   "ja": "運動しましょう。",
+   "ko": "운동합시다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "雲",
+  "jeongja": null,
+  "on": "ウン",
+  "kun": "くも",
+  "sound": "운",
+  "meaning": "구름",
+  "rule": null,
+  "examples": [
+   "雲海（うんかい）",
+   "雲行き（くもゆき）"
+  ],
+  "source": "상용1 p.170",
+  "examples_ko": [
+   "운해",
+   "구름 모양"
+  ],
+  "sentence": {
+   "ja": "雲が多いです。",
+   "ko": "구름이 많습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "営",
+  "jeongja": "營",
+  "on": "エイ",
+  "kun": "いとなむ",
+  "sound": "영",
+  "meaning": "경영할",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "経営（けいえい）",
+   "営業（えいぎょう）"
+  ],
+  "source": "상용1 p.315",
+  "examples_ko": [
+   "경영",
+   "영업"
+  ],
+  "sentence": {
+   "ja": "営業時間は九時からです。",
+   "ko": "영업시간은 9시부터입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "影",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "かげ",
+  "sound": "영",
+  "meaning": "그림자",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "影響（えいきょう）",
+   "撮影（さつえい）"
+  ],
+  "source": "상용2 p.124",
+  "examples_ko": [
+   "영향",
+   "촬영"
+  ],
+  "sentence": {
+   "ja": "影響が大きいです。",
+   "ko": "영향이 큽니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "映",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "うつる",
+  "sound": "영",
+  "meaning": "비칠",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "映画（えいが）",
+   "映像（えいぞう）"
+  ],
+  "source": "상용1 p.447",
+  "examples_ko": [
+   "영화",
+   "영상"
+  ],
+  "sentence": {
+   "ja": "映画を見ました。",
+   "ko": "영화를 봤습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "栄",
+  "jeongja": "榮",
+  "on": "エイ",
+  "kun": "さかえる",
+  "sound": "영",
+  "meaning": "영화",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "栄養（えいよう）",
+   "栄光（えいこう）"
+  ],
+  "source": "상용1 p.129",
+  "examples_ko": [
+   "영양",
+   "영광"
+  ],
+  "sentence": {
+   "ja": "栄養をとりましょう。",
+   "ko": "영양을 섭취합시다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "永",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "ながい",
+  "sound": "영",
+  "meaning": "길",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "永遠（えいえん）",
+   "永久（えいきゅう）"
+  ],
+  "source": "상용1 p.166",
+  "examples_ko": [
+   "영원",
+   "영구"
+  ],
+  "sentence": {
+   "ja": "永遠に忘れません。",
+   "ko": "영원히 잊지 않겠습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "泳",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "およぐ",
+  "sound": "영",
+  "meaning": "헤엄칠",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "水泳（すいえい）",
+   "泳法（えいほう）"
+  ],
+  "source": "상용1 p.167",
+  "examples_ko": [
+   "수영",
+   "수영법"
+  ],
+  "sentence": {
+   "ja": "水泳を習っています。",
+   "ko": "수영을 배우고 있습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "英",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "—",
+  "sound": "영",
+  "meaning": "꽃부리",
+  "rule": "영 → エイ(에이)",
+  "examples": [
+   "英語（えいご）",
+   "英雄（えいゆう）"
+  ],
+  "source": "상용1 p.447",
+  "examples_ko": [
+   "영어",
+   "영웅"
+  ],
+  "sentence": {
+   "ja": "英語を勉強します。",
+   "ko": "영어를 공부합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "衛",
+  "jeongja": null,
+  "on": "エイ",
+  "kun": "—",
+  "sound": "위",
+  "meaning": "지킬",
+  "rule": null,
+  "examples": [
+   "衛生（えいせい）",
+   "衛星（えいせい）"
+  ],
+  "source": "상용1 p.057",
+  "examples_ko": [
+   "위생",
+   "위성"
+  ],
+  "sentence": {
+   "ja": "衛生に気をつけます。",
+   "ko": "위생에 주의합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "鋭",
+  "jeongja": "銳",
+  "on": "エイ",
+  "kun": "するどい",
+  "sound": "예",
+  "meaning": "날카로울",
+  "rule": null,
+  "examples": [
+   "鋭角（えいかく）",
+   "鋭敏（えいびん）"
+  ],
+  "source": "상용2 p.346",
+  "examples_ko": [
+   "예각",
+   "예민함"
+  ],
+  "sentence": {
+   "ja": "鋭い目つきです。",
+   "ko": "날카로운 눈빛입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "液",
+  "jeongja": null,
+  "on": "エキ",
+  "kun": "—",
+  "sound": "액",
+  "meaning": "진",
+  "rule": null,
+  "examples": [
+   "液体（えきたい）",
+   "液晶（えきしょう）"
+  ],
+  "source": "상용1 p.117",
+  "examples_ko": [
+   "액체",
+   "액정"
+  ],
+  "sentence": {
+   "ja": "液体を入れます。",
+   "ko": "액체를 넣습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "益",
+  "jeongja": null,
+  "on": "エキ",
+  "kun": "ます",
+  "sound": "익",
+  "meaning": "더할",
+  "rule": null,
+  "examples": [
+   "利益（りえき）",
+   "公益（こうえき）"
+  ],
+  "source": "상용1 p.334",
+  "examples_ko": [
+   "이익",
+   "공익"
+  ],
+  "sentence": {
+   "ja": "利益が増えました。",
+   "ko": "이익이 늘었습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "駅",
+  "jeongja": "驛",
+  "on": "エキ",
+  "kun": "—",
+  "sound": "역",
+  "meaning": "역",
+  "rule": null,
+  "examples": [
+   "駅前（えきまえ）",
+   "駅員（えきいん）"
+  ],
+  "source": "상용1 p.354",
+  "examples_ko": [
+   "역 앞",
+   "역원"
+  ],
+  "sentence": {
+   "ja": "駅前で待ちます。",
+   "ko": "역 앞에서 기다립니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "悦",
+  "jeongja": "悅",
+  "on": "エツ",
+  "kun": "—",
+  "sound": "열",
+  "meaning": "기쁠",
+  "rule": "열 → エツ(에츠)",
+  "examples": [
+   "喜悦（きえつ）",
+   "満悦（まんえつ）"
+  ],
+  "source": "상용2 p.438",
+  "examples_ko": [
+   "희열",
+   "만족"
+  ],
+  "sentence": {
+   "ja": "喜悦の表情です。",
+   "ko": "기쁨의 표정입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "越",
+  "jeongja": null,
+  "on": "エツ",
+  "kun": "こえる",
+  "sound": "월",
+  "meaning": "넘을",
+  "rule": null,
+  "examples": [
+   "越境（えっきょう）",
+   "優越（ゆうえつ）"
+  ],
+  "source": "상용2 p.494",
+  "examples_ko": [
+   "월경",
+   "우월"
+  ],
+  "sentence": {
+   "ja": "国境を越えます。",
+   "ko": "국경을 넘습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "閲",
+  "jeongja": "閱",
+  "on": "エツ",
+  "kun": "—",
+  "sound": "열",
+  "meaning": "볼",
+  "rule": "열 → エツ(에츠)",
+  "examples": [
+   "閲覧（えつらん）",
+   "検閲（けんえつ）"
+  ],
+  "source": "상용2 p.438",
+  "examples_ko": [
+   "열람",
+   "검열"
+  ],
+  "sentence": {
+   "ja": "閲覧室で読みます。",
+   "ko": "열람실에서 읽습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "円",
+  "jeongja": "圓",
+  "on": "エン",
+  "kun": "まるい",
+  "sound": "원",
+  "meaning": "둥글",
+  "rule": null,
+  "examples": [
+   "円満（えんまん）",
+   "円高（えんだか）"
+  ],
+  "source": "상용1 p.098 / 상용1 p.098",
+  "examples_ko": [
+   "원만",
+   "엔고"
+  ],
+  "sentence": {
+   "ja": "円満に解決しました。",
+   "ko": "원만하게 해결했습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "園",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "その",
+  "sound": "원",
+  "meaning": "동산",
+  "rule": null,
+  "examples": [
+   "公園（こうえん）",
+   "楽園（らくえん）"
+  ],
+  "source": "상용1 p.345",
+  "examples_ko": [
+   "공원",
+   "낙원"
+  ],
+  "sentence": {
+   "ja": "公園で遊びます。",
+   "ko": "공원에서 놉니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "塩",
+  "jeongja": "鹽",
+  "on": "エン",
+  "kun": "しお",
+  "sound": "염",
+  "meaning": "소금",
+  "rule": null,
+  "examples": [
+   "塩分（えんぶん）",
+   "食塩（しょくえん）"
+  ],
+  "source": "상용1 p.335",
+  "examples_ko": [
+   "소금기",
+   "식염"
+  ],
+  "sentence": {
+   "ja": "塩を少し入れます。",
+   "ko": "소금을 조금 넣습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "宴",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "うたげ",
+  "sound": "연",
+  "meaning": "잔치",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "宴会（えんかい）",
+   "祝宴（しゅくえん）"
+  ],
+  "source": "상용2 p.126",
+  "examples_ko": [
+   "연회",
+   "축하연"
+  ],
+  "sentence": {
+   "ja": "宴会を開きます。",
+   "ko": "연회를 엽니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "延",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "のびる",
+  "sound": "연",
+  "meaning": "늘일",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "延期（えんき）",
+   "延長（えんちょう）"
+  ],
+  "source": "상용1 p.459",
+  "examples_ko": [
+   "연기(늦춤)",
+   "연장"
+  ],
+  "sentence": {
+   "ja": "会議を延期します。",
+   "ko": "회의를 연기합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "援",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "—",
+  "sound": "원",
+  "meaning": "도울",
+  "rule": null,
+  "examples": [
+   "援助（えんじょ）",
+   "支援（しえん）"
+  ],
+  "source": "상용2 p.358",
+  "examples_ko": [
+   "원조",
+   "지원"
+  ],
+  "sentence": {
+   "ja": "援助をお願いします。",
+   "ko": "원조를 부탁합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "沿",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "そう",
+  "sound": "연",
+  "meaning": "따를",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "沿岸（えんがん）",
+   "沿線（えんせん）"
+  ],
+  "source": "상용1 p.170",
+  "examples_ko": [
+   "연안",
+   "연선"
+  ],
+  "sentence": {
+   "ja": "海岸に沿って歩きます。",
+   "ko": "해안을 따라 걷습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "演",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "—",
+  "sound": "연",
+  "meaning": "펼",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "演技（えんぎ）",
+   "演奏（えんそう）"
+  ],
+  "source": "상용1 p.225",
+  "examples_ko": [
+   "연기",
+   "연주"
+  ],
+  "sentence": {
+   "ja": "演技が上手です。",
+   "ko": "연기를 잘합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "炎",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "ほのお",
+  "sound": "염",
+  "meaning": "불꽃",
+  "rule": null,
+  "examples": [
+   "炎症（えんしょう）",
+   "炎上（えんじょう）"
+  ],
+  "source": "상용1 p.160",
+  "examples_ko": [
+   "염증",
+   "염상"
+  ],
+  "sentence": {
+   "ja": "炎が上がりました。",
+   "ko": "불꽃이 올랐습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "煙",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "けむり",
+  "sound": "연",
+  "meaning": "연기",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "煙突（えんとつ）",
+   "煙霧（えんむ）"
+  ],
+  "source": "상용2 p.327",
+  "examples_ko": [
+   "굴뚝",
+   "연무"
+  ],
+  "sentence": {
+   "ja": "煙突から煙が出ます。",
+   "ko": "굴뚝에서 연기가 나옵니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "縁",
+  "jeongja": "緣",
+  "on": "エン",
+  "kun": "ふち",
+  "sound": "연",
+  "meaning": "인연",
+  "rule": "연 → エン(엔)",
+  "examples": [
+   "縁故（えんこ）",
+   "縁側（えんがわ）"
+  ],
+  "source": "상용2 p.116",
+  "examples_ko": [
+   "인연",
+   "툇마루"
+  ],
+  "sentence": {
+   "ja": "縁側で休みます。",
+   "ko": "툇마루에서 쉽니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "遠",
+  "jeongja": null,
+  "on": "エン",
+  "kun": "とおい",
+  "sound": "원",
+  "meaning": "멀",
+  "rule": null,
+  "examples": [
+   "遠足（えんそく）",
+   "遠慮（えんりょ）"
+  ],
+  "source": "상용1 p.344",
+  "examples_ko": [
+   "소풍",
+   "사양"
+  ],
+  "sentence": {
+   "ja": "遠足に行きます。",
+   "ko": "소풍을 갑니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "応",
+  "jeongja": "應",
+  "on": "オウ",
+  "kun": "こたえる",
+  "sound": "응",
+  "meaning": "응할",
+  "rule": null,
+  "examples": [
+   "応援（おうえん）",
+   "応答（おうとう）"
+  ],
+  "source": "상용1 p.469",
+  "examples_ko": [
+   "응원",
+   "응답"
+  ],
+  "sentence": {
+   "ja": "応援してください。",
+   "ko": "응원해 주세요."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "押",
+  "jeongja": null,
+  "on": "オウ",
+  "kun": "おす",
+  "sound": "압",
+  "meaning": "누를",
+  "rule": null,
+  "examples": [
+   "押収（おうしゅう）",
+   "押印（おういん）"
+  ],
+  "source": "상용2 p.163",
+  "examples_ko": [
+   "압수",
+   "날인"
+  ],
+  "sentence": {
+   "ja": "押印をお願いします。",
+   "ko": "날인을 부탁드립니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "桜",
+  "jeongja": "櫻",
+  "on": "オウ",
+  "kun": "さくら",
+  "sound": "앵",
+  "meaning": "앵두나무",
+  "rule": null,
+  "examples": [
+   "桜花（おうか）",
+   "桜色（さくらいろ）"
+  ],
+  "source": "상용1 p.129",
+  "examples_ko": [
+   "벚꽃",
+   "벚꽃색"
+  ],
+  "sentence": {
+   "ja": "桜が咲きました。",
+   "ko": "벚꽃이 피었습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "横",
+  "jeongja": "橫",
+  "on": "オウ",
+  "kun": "よこ",
+  "sound": "횡",
+  "meaning": "가로",
+  "rule": null,
+  "examples": [
+   "横断（おうだん）",
+   "横顔（よこがお）"
+  ],
+  "source": null,
+  "examples_ko": [
+   "횡단",
+   "옆모습"
+  ],
+  "sentence": {
+   "ja": "横断歩道を渡ります。",
+   "ko": "횡단보도를 건넙니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "欧",
+  "jeongja": "歐",
+  "on": "オウ",
+  "kun": "—",
+  "sound": "구",
+  "meaning": "구라파",
+  "rule": null,
+  "examples": [
+   "欧米（おうべい）",
+   "欧州（おうしゅう）"
+  ],
+  "source": "상용2 p.281",
+  "examples_ko": [
+   "구미",
+   "유럽"
+  ],
+  "sentence": {
+   "ja": "欧州を旅行します。",
+   "ko": "유럽을 여행합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "王",
+  "jeongja": null,
+  "on": "オウ",
+  "kun": "—",
+  "sound": "왕",
+  "meaning": "임금",
+  "rule": "왕 → オウ(오우)",
+  "examples": [
+   "王様（おうさま）",
+   "王国（おうこく）"
+  ],
+  "source": "상용1 p.067",
+  "examples_ko": [
+   "왕",
+   "왕국"
+  ],
+  "sentence": {
+   "ja": "王様が来ました。",
+   "ko": "왕이 왔습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "皇",
+  "jeongja": null,
+  "on": "オウ",
+  "kun": "—",
+  "sound": "황",
+  "meaning": "임금",
+  "rule": null,
+  "examples": [
+   "皇室（こうしつ）",
+   "皇居（こうきょ）"
+  ],
+  "source": "상용1 p.404",
+  "examples_ko": [
+   "황실",
+   "황거"
+  ],
+  "sentence": {
+   "ja": "皇室の話です。",
+   "ko": "황실 이야기입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "黄",
+  "jeongja": "黃",
+  "on": "オウ",
+  "kun": "き",
+  "sound": "황",
+  "meaning": "누를",
+  "rule": null,
+  "examples": [
+   "黄金（おうごん）",
+   "黄色（きいろ）"
+  ],
+  "source": "상용1 p.120",
+  "examples_ko": [
+   "황금",
+   "노란색"
+  ],
+  "sentence": {
+   "ja": "黄色い花です。",
+   "ko": "노란 꽃입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "億",
+  "jeongja": null,
+  "on": "オク",
+  "kun": "—",
+  "sound": "억",
+  "meaning": "억",
+  "rule": null,
+  "examples": [
+   "億万（おくまん）",
+   "億円（おくえん）"
+  ],
+  "source": "상용1 p.470",
+  "examples_ko": [
+   "억만",
+   "억 엔"
+  ],
+  "sentence": {
+   "ja": "億円の家です。",
+   "ko": "억 엔짜리 집입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "奥",
+  "jeongja": "奧",
+  "on": "オク",
+  "kun": "おく",
+  "sound": "오",
+  "meaning": "속",
+  "rule": null,
+  "examples": [
+   "奥様（おくさま）",
+   "奥行き（おくゆき）"
+  ],
+  "source": "상용2 p.437",
+  "examples_ko": [
+   "안쪽",
+   "깊숙한 속"
+  ],
+  "sentence": {
+   "ja": "奥へ入ります。",
+   "ko": "안쪽으로 들어갑니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "屋",
+  "jeongja": null,
+  "on": "オク",
+  "kun": "や",
+  "sound": "옥",
+  "meaning": "집",
+  "rule": null,
+  "examples": [
+   "屋上（おくじょう）",
+   "屋内（おくない）"
+  ],
+  "source": "상용1 p.318",
+  "examples_ko": [
+   "옥상",
+   "실내"
+  ],
+  "sentence": {
+   "ja": "屋上へ行きます。",
+   "ko": "옥상에 갑니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "臆",
+  "jeongja": null,
+  "on": "オク",
+  "kun": "—",
+  "sound": "억",
+  "meaning": "가슴",
+  "rule": null,
+  "examples": [
+   "臆病（おくびょう）",
+   "臆測（おくそく）"
+  ],
+  "source": "상용2 p.507",
+  "examples_ko": [
+   "겁이 많음",
+   "추측"
+  ],
+  "sentence": {
+   "ja": "臆病ではありません。",
+   "ko": "겁이 많지 않습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "乙",
+  "jeongja": null,
+  "on": "オツ",
+  "kun": "—",
+  "sound": "을",
+  "meaning": "새",
+  "rule": null,
+  "examples": [
+   "乙女（おとめ）"
+  ],
+  "source": "상용2 p.506",
+  "examples_ko": [
+   "소녀"
+  ],
+  "sentence": {
+   "ja": "乙女が歌います。",
+   "ko": "소녀가 노래합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "恩",
+  "jeongja": null,
+  "on": "オン",
+  "kun": "—",
+  "sound": "은",
+  "meaning": "은혜",
+  "rule": null,
+  "examples": [
+   "恩人（おんじん）",
+   "恩返し（おんがえし）"
+  ],
+  "source": "상용1 p.159",
+  "examples_ko": [
+   "은인",
+   "은혜 갚음"
+  ],
+  "sentence": {
+   "ja": "恩人に感謝します。",
+   "ko": "은인에게 감사합니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "温",
+  "jeongja": "溫",
+  "on": "オン",
+  "kun": "あたたかい",
+  "sound": "온",
+  "meaning": "따뜻할",
+  "rule": null,
+  "examples": [
+   "温度（おんど）",
+   "温暖（おんだん）"
+  ],
+  "source": "상용1 p.108",
+  "examples_ko": [
+   "온도",
+   "온난"
+  ],
+  "sentence": {
+   "ja": "温度が高いです。",
+   "ko": "온도가 높습니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "穏",
+  "jeongja": "穩",
+  "on": "オン",
+  "kun": "おだやか",
+  "sound": "온",
+  "meaning": "평온할",
+  "rule": null,
+  "examples": [
+   "穏健（おんけん）",
+   "穏便（おんびん）"
+  ],
+  "source": "상용2 p.144",
+  "examples_ko": [
+   "온건",
+   "온화"
+  ],
+  "sentence": {
+   "ja": "穏やかな日です。",
+   "ko": "평온한 날입니다."
+  }
+ },
+ {
+  "row": "あ行",
+  "kanji": "音",
+  "jeongja": null,
+  "on": "オン",
+  "kun": "おと",
+  "sound": "음",
+  "meaning": "소리",
+  "rule": null,
+  "examples": [
+   "音楽（おんがく）",
+   "音声（おんせい）"
+  ],
+  "source": "상용1 p.465",
+  "examples_ko": [
+   "음악",
+   "음성"
+  ],
+  "sentence": {
+   "ja": "音楽を聞きます。",
+   "ko": "음악을 듣습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "仮",
+  "jeongja": "假",
+  "on": "カ",
+  "kun": "かり",
+  "sound": "가",
+  "meaning": "거짓",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "仮定（かてい）",
+   "仮面（かめん）"
+  ],
+  "source": "상용1 p.239",
+  "examples_ko": [
+   "가정",
+   "가면"
+  ],
+  "sentence": {
+   "ja": "仮の名前です。",
+   "ko": "임시 이름입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "何",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "なに",
+  "sound": "하",
+  "meaning": "어찌",
+  "rule": null,
+  "examples": [
+   "何回（なんかい）",
+   "何時（なんじ）"
+  ],
+  "source": "상용1 p.351",
+  "examples_ko": [
+   "몇 번",
+   "몇 시"
+  ],
+  "sentence": {
+   "ja": "何時ですか。",
+   "ko": "몇 시입니까?"
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "価",
+  "jeongja": "價",
+  "on": "カ",
+  "kun": "あたい",
+  "sound": "가",
+  "meaning": "값",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "価格（かかく）",
+   "価値（かち）"
+  ],
+  "source": "상용1 p.357",
+  "examples_ko": [
+   "가격",
+   "가치"
+  ],
+  "sentence": {
+   "ja": "価格が高いです。",
+   "ko": "가격이 비쌉니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "加",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "くわえる",
+  "sound": "가",
+  "meaning": "더할",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "追加（ついか）",
+   "加入（かにゅう）"
+  ],
+  "source": "상용1 p.250",
+  "examples_ko": [
+   "추가",
+   "가입"
+  ],
+  "sentence": {
+   "ja": "追加注文をします。",
+   "ko": "추가 주문을 합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "化",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "ばける",
+  "sound": "화",
+  "meaning": "될",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "文化（ぶんか）",
+   "変化（へんか）"
+  ],
+  "source": "상용1 p.336",
+  "examples_ko": [
+   "문화",
+   "변화"
+  ],
+  "sentence": {
+   "ja": "文化を学びます。",
+   "ko": "문화를 배웁니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "可",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "가",
+  "meaning": "옳을",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "可能（かのう）",
+   "許可（きょか）"
+  ],
+  "source": "상용1 p.099",
+  "examples_ko": [
+   "가능",
+   "허가"
+  ],
+  "sentence": {
+   "ja": "参加可能です。",
+   "ko": "참가가 가능합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "夏",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "なつ",
+  "sound": "하",
+  "meaning": "여름",
+  "rule": null,
+  "examples": [
+   "夏休み（なつやすみ）",
+   "夏至（げし）"
+  ],
+  "source": "상용1 p.352",
+  "examples_ko": [
+   "여름방학",
+   "하지"
+  ],
+  "sentence": {
+   "ja": "夏休みが来ます。",
+   "ko": "여름방학이 옵니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "嫁",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "よめ",
+  "sound": "가",
+  "meaning": "시집갈",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "花嫁（はなよめ）",
+   "嫁入り（よめいり）"
+  ],
+  "source": "상용2 p.275",
+  "examples_ko": [
+   "신부",
+   "시집감"
+  ],
+  "sentence": {
+   "ja": "花嫁が来ました。",
+   "ko": "신부가 왔습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "家",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "いえ",
+  "sound": "가",
+  "meaning": "집",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "家族（かぞく）",
+   "家具（かぐ）"
+  ],
+  "source": "상용1 p.250",
+  "examples_ko": [
+   "가족",
+   "가구"
+  ],
+  "sentence": {
+   "ja": "家族と住んでいます。",
+   "ko": "가족과 살고 있습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "寡",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "과",
+  "meaning": "적을",
+  "rule": null,
+  "examples": [
+   "寡黙（かもく）",
+   "寡占（かせん）"
+  ],
+  "source": "상용2 p.327",
+  "examples_ko": [
+   "과묵",
+   "과점"
+  ],
+  "sentence": {
+   "ja": "寡黙な人です。",
+   "ko": "과묵한 사람입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "暇",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "ひま",
+  "sound": "가",
+  "meaning": "틈",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "休暇（きゅうか）",
+   "余暇（よか）"
+  ],
+  "source": "상용2 p.253",
+  "examples_ko": [
+   "휴가",
+   "여가"
+  ],
+  "sentence": {
+   "ja": "暇な時間です。",
+   "ko": "한가한 시간입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "果",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "はたす",
+  "sound": "과",
+  "meaning": "실과",
+  "rule": null,
+  "examples": [
+   "結果（けっか）",
+   "効果（こうか）"
+  ],
+  "source": "상용1 p.147",
+  "examples_ko": [
+   "결과",
+   "효과"
+  ],
+  "sentence": {
+   "ja": "結果が出ました。",
+   "ko": "결과가 나왔습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "架",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "かける",
+  "sound": "가",
+  "meaning": "시렁",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "架空（かくう）",
+   "架橋（かきょう）"
+  ],
+  "source": "상용2 p.253",
+  "examples_ko": [
+   "가공",
+   "가교"
+  ],
+  "sentence": {
+   "ja": "橋を架けます。",
+   "ko": "다리를 놓습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "歌",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "うた",
+  "sound": "가",
+  "meaning": "노래",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "歌手（かしゅ）",
+   "歌謡（かよう）"
+  ],
+  "source": "상용1 p.391",
+  "examples_ko": [
+   "가수",
+   "노래"
+  ],
+  "sentence": {
+   "ja": "歌を歌います。",
+   "ko": "노래를 부릅니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "河",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "かわ",
+  "sound": "하",
+  "meaning": "물",
+  "rule": null,
+  "examples": [
+   "河川（かせん）",
+   "運河（うんが）"
+  ],
+  "source": "상용1 p.269",
+  "examples_ko": [
+   "하천",
+   "운하"
+  ],
+  "sentence": {
+   "ja": "河川を調べます。",
+   "ko": "하천을 조사합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "火",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "ひ",
+  "sound": "화",
+  "meaning": "불",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "火山（かざん）",
+   "火事（かじ）"
+  ],
+  "source": "상용1 p.041",
+  "examples_ko": [
+   "화산",
+   "화재"
+  ],
+  "sentence": {
+   "ja": "火を消します。",
+   "ko": "불을 끕니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "禍",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "わざわい",
+  "sound": "화",
+  "meaning": "재앙",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "禍根（かこん）",
+   "禍福（かふく）"
+  ],
+  "source": "상용2 p.263",
+  "examples_ko": [
+   "재난",
+   "화복"
+  ],
+  "sentence": {
+   "ja": "禍を避けます。",
+   "ko": "재앙을 피합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "科",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "과",
+  "meaning": "과목",
+  "rule": null,
+  "examples": [
+   "科学（かがく）",
+   "科目（かもく）"
+  ],
+  "source": "상용1 p.144",
+  "examples_ko": [
+   "과학",
+   "과목"
+  ],
+  "sentence": {
+   "ja": "科学を研究します。",
+   "ko": "과학을 연구합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "稼",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "かせぐ",
+  "sound": "가",
+  "meaning": "심을",
+  "rule": "가 → カ(카)",
+  "examples": [
+   "稼働（かどう）",
+   "稼業（かぎょう）"
+  ],
+  "source": "상용2 p.328",
+  "examples_ko": [
+   "근로",
+   "생업"
+  ],
+  "sentence": {
+   "ja": "稼ぎが多いです。",
+   "ko": "벌이가 많습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "箇",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "개",
+  "meaning": "낱",
+  "rule": "개 → カイ(카이)",
+  "examples": [
+   "箇所（かしょ）",
+   "箇条（かじょう）"
+  ],
+  "source": "상용2 p.191",
+  "examples_ko": [
+   "장소",
+   "조항"
+  ],
+  "sentence": {
+   "ja": "箇所を確認します。",
+   "ko": "개소를 확인합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "花",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "はな",
+  "sound": "화",
+  "meaning": "꽃",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "花火（はなび）",
+   "花瓶（かびん）"
+  ],
+  "source": "상용1 p.336",
+  "examples_ko": [
+   "불꽃놀이",
+   "꽃병"
+  ],
+  "sentence": {
+   "ja": "花が好きです。",
+   "ko": "꽃을 좋아합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "荷",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "に",
+  "sound": "하",
+  "meaning": "짐",
+  "rule": null,
+  "examples": [
+   "荷物（にもつ）",
+   "荷造り（にづくり）"
+  ],
+  "source": "상용1 p.351",
+  "examples_ko": [
+   "짐",
+   "짐 꾸리기"
+  ],
+  "sentence": {
+   "ja": "荷物を運びます。",
+   "ko": "짐을 옮깁니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "菓",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "과",
+  "meaning": "과자",
+  "rule": null,
+  "examples": [
+   "菓子（かし）",
+   "製菓（せいか）"
+  ],
+  "source": "상용2 p.066",
+  "examples_ko": [
+   "과자",
+   "제과"
+  ],
+  "sentence": {
+   "ja": "菓子を食べます。",
+   "ko": "과자를 먹습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "華",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "はな",
+  "sound": "화",
+  "meaning": "빛날",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "華麗（かれい）",
+   "華道（かどう）"
+  ],
+  "source": "상용2 p.055",
+  "examples_ko": [
+   "화려",
+   "꽃꽂이"
+  ],
+  "sentence": {
+   "ja": "華やかな服です。",
+   "ko": "화려한 옷입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "蚊",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "か",
+  "sound": "문",
+  "meaning": "모기",
+  "rule": null,
+  "examples": [
+   "蚊帳（かや）",
+   "蚊取り（かとり）"
+  ],
+  "source": "상용2 p.300",
+  "examples_ko": [
+   "모기장",
+   "모기 잡이"
+  ],
+  "sentence": {
+   "ja": "蚊に刺されました。",
+   "ko": "모기에 물렸습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "課",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "과",
+  "meaning": "공부할",
+  "rule": null,
+  "examples": [
+   "課題（かだい）",
+   "課長（かちょう）"
+  ],
+  "source": "상용1 p.148",
+  "examples_ko": [
+   "과제",
+   "과장"
+  ],
+  "sentence": {
+   "ja": "課題をします。",
+   "ko": "과제를 합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "貨",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "—",
+  "sound": "화",
+  "meaning": "재물",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "貨幣（かへい）",
+   "通貨（つうか）"
+  ],
+  "source": "상용1 p.336",
+  "examples_ko": [
+   "화폐",
+   "통화"
+  ],
+  "sentence": {
+   "ja": "貨物を送ります。",
+   "ko": "화물을 보냅니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "過",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "すぎる",
+  "sound": "과",
+  "meaning": "지날",
+  "rule": null,
+  "examples": [
+   "過去（かこ）",
+   "過程（かてい）"
+  ],
+  "source": "상용1 p.263",
+  "examples_ko": [
+   "과거",
+   "과정"
+  ],
+  "sentence": {
+   "ja": "過去を振り返ります。",
+   "ko": "과거를 돌아봅니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "靴",
+  "jeongja": null,
+  "on": "カ",
+  "kun": "くつ",
+  "sound": "화",
+  "meaning": "신",
+  "rule": "화 → カ(카)",
+  "examples": [
+   "靴下（くつした）",
+   "運動靴（うんどうぐつ）"
+  ],
+  "source": "상용2 p.257",
+  "examples_ko": [
+   "양말",
+   "운동화"
+  ],
+  "sentence": {
+   "ja": "靴を履きます。",
+   "ko": "신발을 신습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "介",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "—",
+  "sound": "개",
+  "meaning": "끼일",
+  "rule": "개 → カイ(카이)",
+  "examples": [
+   "紹介（しょうかい）",
+   "介護（かいご）"
+  ],
+  "source": "상용1 p.147",
+  "examples_ko": [
+   "소개",
+   "개호"
+  ],
+  "sentence": {
+   "ja": "介護をします。",
+   "ko": "간병을 합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "会",
+  "jeongja": "會",
+  "on": "カイ",
+  "kun": "あう",
+  "sound": "회",
+  "meaning": "모일",
+  "rule": null,
+  "examples": [
+   "会議（かいぎ）",
+   "会社（かいしゃ）"
+  ],
+  "source": null,
+  "examples_ko": [
+   "회의",
+   "회사"
+  ],
+  "sentence": {
+   "ja": "会議があります。",
+   "ko": "회의가 있습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "回",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "まわる",
+  "sound": "회",
+  "meaning": "돌",
+  "rule": null,
+  "examples": [
+   "回答（かいとう）",
+   "回転（かいてん）"
+  ],
+  "source": null,
+  "examples_ko": [
+   "회답",
+   "회전"
+  ],
+  "sentence": {
+   "ja": "回答を書きます。",
+   "ko": "답을 씁니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "壊",
+  "jeongja": "壞",
+  "on": "カイ",
+  "kun": "こわす",
+  "sound": "괴",
+  "meaning": "무너질",
+  "rule": null,
+  "examples": [
+   "破壊（はかい）",
+   "崩壊（ほうかい）"
+  ],
+  "source": "상용2 p.367",
+  "examples_ko": [
+   "파괴",
+   "붕괴"
+  ],
+  "sentence": {
+   "ja": "壁が壊れました。",
+   "ko": "벽이 무너졌습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "快",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "こころよい",
+  "sound": "쾌",
+  "meaning": "쾌할",
+  "rule": null,
+  "examples": [
+   "快適（かいてき）",
+   "快晴（かいせい）"
+  ],
+  "source": "상용1 p.447",
+  "examples_ko": [
+   "쾌적",
+   "쾌청"
+  ],
+  "sentence": {
+   "ja": "快適な部屋です。",
+   "ko": "쾌적한 방입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "怪",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "あやしい",
+  "sound": "괴",
+  "meaning": "괴이할",
+  "rule": null,
+  "examples": [
+   "怪物（かいぶつ）",
+   "怪談（かいだん）"
+  ],
+  "source": "상용2 p.214",
+  "examples_ko": [
+   "괴물",
+   "괴담"
+  ],
+  "sentence": {
+   "ja": "怪しい人です。",
+   "ko": "수상한 사람입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "悔",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "くやしい",
+  "sound": "회",
+  "meaning": "뉘우칠",
+  "rule": null,
+  "examples": [
+   "後悔（こうかい）",
+   "悔恨（かいこん）"
+  ],
+  "source": "상용2 p.432",
+  "examples_ko": [
+   "후회",
+   "회한"
+  ],
+  "sentence": {
+   "ja": "後悔はしません。",
+   "ko": "후회는 하지 않습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "戒",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "いましめる",
+  "sound": "계",
+  "meaning": "경계할",
+  "rule": null,
+  "examples": [
+   "戒律（かいりつ）",
+   "戒厳（かいげん）"
+  ],
+  "source": "상용1 p.288",
+  "examples_ko": [
+   "계율",
+   "계엄"
+  ],
+  "sentence": {
+   "ja": "戒めを守ります。",
+   "ko": "계율을 지킵니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "改",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "あらた",
+  "sound": "개",
+  "meaning": "고칠",
+  "rule": "개 → カイ(카이)",
+  "examples": [
+   "改善（かいぜん）",
+   "改革（かいかく）"
+  ],
+  "source": "상용1 p.402",
+  "examples_ko": [
+   "개선",
+   "개혁"
+  ],
+  "sentence": {
+   "ja": "改めて説明します。",
+   "ko": "다시 설명합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "械",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "—",
+  "sound": "계",
+  "meaning": "기계",
+  "rule": null,
+  "examples": [
+   "機械（きかい）",
+   "器械（きかい）"
+  ],
+  "source": "상용1 p.289",
+  "examples_ko": [
+   "기계",
+   "기구"
+  ],
+  "sentence": {
+   "ja": "機械が動きます。",
+   "ko": "기계가 움직입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "海",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "うみ",
+  "sound": "해",
+  "meaning": "바다",
+  "rule": null,
+  "examples": [
+   "海岸（かいがん）",
+   "海外（かいがい）"
+  ],
+  "source": "상용1 p.391",
+  "examples_ko": [
+   "해안",
+   "해외"
+  ],
+  "sentence": {
+   "ja": "海が見えます。",
+   "ko": "바다가 보입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "灰",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "はい",
+  "sound": "회",
+  "meaning": "재",
+  "rule": null,
+  "examples": [
+   "石灰（せっかい）",
+   "灰皿（はいざら）"
+  ],
+  "source": null,
+  "examples_ko": [
+   "석회",
+   "재떨이"
+  ],
+  "sentence": {
+   "ja": "灰が落ちました。",
+   "ko": "재가 떨어졌습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "界",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "—",
+  "sound": "계",
+  "meaning": "지경",
+  "rule": null,
+  "examples": [
+   "世界（せかい）",
+   "境界（きょうかい）"
+  ],
+  "source": "상용1 p.147",
+  "examples_ko": [
+   "세계",
+   "경계"
+  ],
+  "sentence": {
+   "ja": "世界を旅します。",
+   "ko": "세계를 여행합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "皆",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "みな",
+  "sound": "개",
+  "meaning": "다",
+  "rule": "개 → カイ(카이)",
+  "examples": [
+   "皆さん（みなさん）",
+   "皆様（みなさま）"
+  ],
+  "source": "상용1 p.430",
+  "examples_ko": [
+   "여러분",
+   "모두"
+  ],
+  "sentence": {
+   "ja": "皆さんこんにちは。",
+   "ko": "여러분 안녕하세요."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "絵",
+  "jeongja": "繪",
+  "on": "カイ",
+  "kun": "え",
+  "sound": "회",
+  "meaning": "그림",
+  "rule": null,
+  "examples": [
+   "絵画（かいが）",
+   "絵本（えほん）"
+  ],
+  "source": null,
+  "examples_ko": [
+   "그림",
+   "그림책"
+  ],
+  "sentence": {
+   "ja": "絵を描きます。",
+   "ko": "그림을 그립니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "解",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "とく",
+  "sound": "해",
+  "meaning": "풀",
+  "rule": null,
+  "examples": [
+   "解決（かいけつ）",
+   "解説（かいせつ）"
+  ],
+  "source": "상용1 p.084",
+  "examples_ko": [
+   "해결",
+   "해설"
+  ],
+  "sentence": {
+   "ja": "問題を解きます。",
+   "ko": "문제를 풉니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "開",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "ひらく",
+  "sound": "개",
+  "meaning": "열",
+  "rule": "개 → カイ(카이)",
+  "examples": [
+   "開始（かいし）",
+   "開発（かいはつ）"
+  ],
+  "source": "상용1 p.326",
+  "examples_ko": [
+   "시작",
+   "개발"
+  ],
+  "sentence": {
+   "ja": "店が開きます。",
+   "ko": "가게가 엽니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "階",
+  "jeongja": null,
+  "on": "カイ",
+  "kun": "—",
+  "sound": "계",
+  "meaning": "섬돌",
+  "rule": null,
+  "examples": [
+   "階段（かいだん）",
+   "階級（かいきゅう）"
+  ],
+  "source": "상용1 p.430",
+  "examples_ko": [
+   "계단",
+   "계급"
+  ],
+  "sentence": {
+   "ja": "階段を上ります。",
+   "ko": "계단을 올라갑니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "各",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "おのおの",
+  "sound": "각",
+  "meaning": "각각",
+  "rule": null,
+  "examples": [
+   "各地（かくち）",
+   "各国（かっこく）"
+  ],
+  "source": "상용1 p.275",
+  "examples_ko": [
+   "각지",
+   "각국"
+  ],
+  "sentence": {
+   "ja": "各国から来ました。",
+   "ko": "각국에서 왔습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "拡",
+  "jeongja": "擴",
+  "on": "カク",
+  "kun": "—",
+  "sound": "확",
+  "meaning": "넓힐",
+  "rule": null,
+  "examples": [
+   "拡大（かくだい）",
+   "拡張（かくちょう）"
+  ],
+  "source": "상용1 p.397",
+  "examples_ko": [
+   "확대",
+   "확장"
+  ],
+  "sentence": {
+   "ja": "画面を拡大します。",
+   "ko": "화면을 확대합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "核",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "—",
+  "sound": "핵",
+  "meaning": "씨",
+  "rule": null,
+  "examples": [
+   "核心（かくしん）",
+   "核兵器（かくへいき）"
+  ],
+  "source": "상용2 p.265",
+  "examples_ko": [
+   "핵심",
+   "핵무기"
+  ],
+  "sentence": {
+   "ja": "核心を話します。",
+   "ko": "핵심을 말합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "格",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "—",
+  "sound": "격",
+  "meaning": "격식",
+  "rule": null,
+  "examples": [
+   "合格（ごうかく）",
+   "格好（かっこう）"
+  ],
+  "source": "상용1 p.479",
+  "examples_ko": [
+   "합격",
+   "격식"
+  ],
+  "sentence": {
+   "ja": "合格しました。",
+   "ko": "합격했습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "獲",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "える",
+  "sound": "획",
+  "meaning": "얻을",
+  "rule": null,
+  "examples": [
+   "獲得（かくとく）",
+   "獲物（えもの）"
+  ],
+  "source": "상용2 p.157",
+  "examples_ko": [
+   "획득",
+   "노획물"
+  ],
+  "sentence": {
+   "ja": "賞を獲得しました。",
+   "ko": "상을 획득했습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "確",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "たしか",
+  "sound": "확",
+  "meaning": "굳을",
+  "rule": null,
+  "examples": [
+   "確認（かくにん）",
+   "確実（かくじつ）"
+  ],
+  "source": "상용1 p.192",
+  "examples_ko": [
+   "확인",
+   "확실"
+  ],
+  "sentence": {
+   "ja": "確認してください。",
+   "ko": "확인해 주세요."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "覚",
+  "jeongja": "覺",
+  "on": "カク",
+  "kun": "おぼえる",
+  "sound": "각",
+  "meaning": "깨달을",
+  "rule": null,
+  "examples": [
+   "感覚（かんかく）",
+   "覚悟（かくご）"
+  ],
+  "source": "상용1 p.070",
+  "examples_ko": [
+   "감각",
+   "각오"
+  ],
+  "sentence": {
+   "ja": "覚えてください。",
+   "ko": "기억해 주세요."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "角",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "かど",
+  "sound": "각",
+  "meaning": "뿔",
+  "rule": null,
+  "examples": [
+   "角度（かくど）",
+   "三角（さんかく）"
+  ],
+  "source": "상용1 p.052",
+  "examples_ko": [
+   "각도",
+   "삼각"
+  ],
+  "sentence": {
+   "ja": "角を曲がります。",
+   "ko": "모퉁이를 돕니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "較",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "—",
+  "sound": "교",
+  "meaning": "견줄",
+  "rule": null,
+  "examples": [
+   "比較（ひかく）",
+   "較差（かくさ）"
+  ],
+  "source": "상용2 p.286",
+  "examples_ko": [
+   "비교",
+   "격차"
+  ],
+  "sentence": {
+   "ja": "比較してください。",
+   "ko": "비교해 주세요."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "閣",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "—",
+  "sound": "각",
+  "meaning": "누각",
+  "rule": null,
+  "examples": [
+   "内閣（ないかく）",
+   "閣僚（かくりょう）"
+  ],
+  "source": "상용1 p.479",
+  "examples_ko": [
+   "내각",
+   "각료"
+  ],
+  "sentence": {
+   "ja": "内閣が決めました。",
+   "ko": "내각이 결정했습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "隔",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "へだてる",
+  "sound": "격",
+  "meaning": "사이뜰",
+  "rule": null,
+  "examples": [
+   "隔週（かくしゅう）",
+   "隔離（かくり）"
+  ],
+  "source": "상용2 p.353",
+  "examples_ko": [
+   "격주",
+   "격리"
+  ],
+  "sentence": {
+   "ja": "隔週で会議があります。",
+   "ko": "격주로 회의가 있습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "革",
+  "jeongja": null,
+  "on": "カク",
+  "kun": "かわ",
+  "sound": "혁",
+  "meaning": "가죽",
+  "rule": null,
+  "examples": [
+   "革命（かくめい）",
+   "皮革（ひかく）"
+  ],
+  "source": "상용1 p.063",
+  "examples_ko": [
+   "혁명",
+   "피혁"
+  ],
+  "sentence": {
+   "ja": "皮革製品です。",
+   "ko": "가죽 제품입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "割",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "わる",
+  "sound": "할",
+  "meaning": "나눌",
+  "rule": null,
+  "examples": [
+   "割合（わりあい）",
+   "割引（わりびき）"
+  ],
+  "source": "상용1 p.412",
+  "examples_ko": [
+   "비율",
+   "할인"
+  ],
+  "sentence": {
+   "ja": "割引がありました。",
+   "ko": "할인이 있었습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "喝",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "—",
+  "sound": "갈",
+  "meaning": "꾸짖을",
+  "rule": null,
+  "examples": [
+   "喝采（かっさい）",
+   "恐喝（きょうかつ）"
+  ],
+  "source": "상용2 p.220",
+  "examples_ko": [
+   "갈채",
+   "협박"
+  ],
+  "sentence": {
+   "ja": "喝采が起きました。",
+   "ko": "갈채가 터졌습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "括",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "くくる",
+  "sound": "괄",
+  "meaning": "묶을",
+  "rule": null,
+  "examples": [
+   "一括（いっかつ）",
+   "包括（ほうかつ）"
+  ],
+  "source": "상용2 p.189",
+  "examples_ko": [
+   "일괄",
+   "포괄"
+  ],
+  "sentence": {
+   "ja": "一括で払います。",
+   "ko": "일괄로 지불합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "活",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "いきる",
+  "sound": "활",
+  "meaning": "살",
+  "rule": null,
+  "examples": [
+   "生活（せいかつ）",
+   "活動（かつどう）"
+  ],
+  "source": "상용1 p.219",
+  "examples_ko": [
+   "생활",
+   "활동"
+  ],
+  "sentence": {
+   "ja": "生活が楽です。",
+   "ko": "생활이 편합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "滑",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "すべる",
+  "sound": "활",
+  "meaning": "미끄러울",
+  "rule": null,
+  "examples": [
+   "滑走（かっそう）",
+   "滑走路（かっそうろ）"
+  ],
+  "source": "상용2 p.262 / 상용2 p.262",
+  "examples_ko": [
+   "활주",
+   "활주로"
+  ],
+  "sentence": {
+   "ja": "滑って転びました。",
+   "ko": "미끄러져 넘어졌습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "轄",
+  "jeongja": null,
+  "on": "カツ",
+  "kun": "—",
+  "sound": "할",
+  "meaning": "다스릴",
+  "rule": null,
+  "examples": [
+   "管轄（かんかつ）",
+   "所轄（しょかつ）"
+  ],
+  "source": "상용2 p.218",
+  "examples_ko": [
+   "관할",
+   "소관"
+  ],
+  "sentence": {
+   "ja": "管轄の区域です。",
+   "ko": "관할 구역입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "刊",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "간",
+  "meaning": "새길",
+  "rule": null,
+  "examples": [
+   "刊行（かんこう）",
+   "週刊（しゅうかん）"
+  ],
+  "source": "상용1 p.113",
+  "examples_ko": [
+   "간행",
+   "주간"
+  ],
+  "sentence": {
+   "ja": "週刊誌を読みます。",
+   "ko": "주간지를 읽습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "勧",
+  "jeongja": "勸",
+  "on": "カン",
+  "kun": "すすめる",
+  "sound": "권",
+  "meaning": "권할",
+  "rule": null,
+  "examples": [
+   "勧告（かんこく）",
+   "勧誘（かんゆう）"
+  ],
+  "source": "상용2 p.159",
+  "examples_ko": [
+   "권고",
+   "권유"
+  ],
+  "sentence": {
+   "ja": "勧めます。",
+   "ko": "권합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "完",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "완",
+  "meaning": "완전할",
+  "rule": null,
+  "examples": [
+   "完成（かんせい）",
+   "完了（かんりょう）"
+  ],
+  "source": "상용1 p.262",
+  "examples_ko": [
+   "완성",
+   "완료"
+  ],
+  "sentence": {
+   "ja": "完成しました。",
+   "ko": "완성했습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "官",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "관",
+  "meaning": "벼슬",
+  "rule": null,
+  "examples": [
+   "官庁（かんちょう）",
+   "官僚（かんりょう）"
+  ],
+  "source": "상용1 p.316",
+  "examples_ko": [
+   "관청",
+   "관료"
+  ],
+  "sentence": {
+   "ja": "官庁に行きます。",
+   "ko": "관청에 갑니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "寒",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "さむい",
+  "sound": "한",
+  "meaning": "찰",
+  "rule": "한 → カン(칸)",
+  "examples": [
+   "寒冷（かんれい）",
+   "寒気（さむけ）"
+  ],
+  "source": "상용1 p.122",
+  "examples_ko": [
+   "한랭",
+   "한기"
+  ],
+  "sentence": {
+   "ja": "寒い冬です。",
+   "ko": "추운 겨울입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "巻",
+  "jeongja": "卷",
+  "on": "カン",
+  "kun": "まく",
+  "sound": "권",
+  "meaning": "책",
+  "rule": null,
+  "examples": [
+   "巻頭（かんとう）",
+   "巻物（まきもの）"
+  ],
+  "source": "상용1 p.248",
+  "examples_ko": [
+   "권두",
+   "두루마리"
+  ],
+  "sentence": {
+   "ja": "巻を読みます。",
+   "ko": "권을 읽습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "幹",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "みき",
+  "sound": "간",
+  "meaning": "줄기",
+  "rule": null,
+  "examples": [
+   "幹線（かんせん）",
+   "幹部（かんぶ）"
+  ],
+  "source": "상용1 p.199",
+  "examples_ko": [
+   "간선",
+   "간부"
+  ],
+  "sentence": {
+   "ja": "幹線道路です。",
+   "ko": "간선도로입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "患",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "わずらう",
+  "sound": "환",
+  "meaning": "근심",
+  "rule": null,
+  "examples": [
+   "患者（かんじゃ）",
+   "患部（かんぶ）"
+  ],
+  "source": "상용2 p.490",
+  "examples_ko": [
+   "환자",
+   "환부"
+  ],
+  "sentence": {
+   "ja": "患者さんです。",
+   "ko": "환자분입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "感",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "かんじる",
+  "sound": "감",
+  "meaning": "느낄",
+  "rule": "감 → カン(칸)",
+  "examples": [
+   "感動（かんどう）",
+   "感想（かんそう）"
+  ],
+  "source": "상용1 p.100",
+  "examples_ko": [
+   "감동",
+   "감상"
+  ],
+  "sentence": {
+   "ja": "感動しました。",
+   "ko": "감동했습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "慣",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "なれる",
+  "sound": "관",
+  "meaning": "익숙할",
+  "rule": null,
+  "examples": [
+   "習慣（しゅうかん）",
+   "慣例（かんれい）"
+  ],
+  "source": "상용1 p.200",
+  "examples_ko": [
+   "습관",
+   "관례"
+  ],
+  "sentence": {
+   "ja": "習慣を守ります。",
+   "ko": "습관을 지킵니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "歓",
+  "jeongja": "歡",
+  "on": "カン",
+  "kun": "よろこぶ",
+  "sound": "환",
+  "meaning": "기쁠",
+  "rule": null,
+  "examples": [
+   "歓迎（かんげい）",
+   "歓喜（かんき）"
+  ],
+  "source": "상용2 p.159",
+  "examples_ko": [
+   "환영",
+   "환희"
+  ],
+  "sentence": {
+   "ja": "歓迎します。",
+   "ko": "환영합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "汗",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "あせ",
+  "sound": "한",
+  "meaning": "땀",
+  "rule": "한 → カン(칸)",
+  "examples": [
+   "発汗（はっかん）",
+   "冷や汗（ひやあせ）"
+  ],
+  "source": "상용2 p.321",
+  "examples_ko": [
+   "발한",
+   "식은땀"
+  ],
+  "sentence": {
+   "ja": "汗をかきました。",
+   "ko": "땀을 흘렸습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "漢",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "한",
+  "meaning": "한수",
+  "rule": "한 → カン(칸)",
+  "examples": [
+   "漢字（かんじ）",
+   "漢方（かんぽう）"
+  ],
+  "source": "상용1 p.126",
+  "examples_ko": [
+   "한자",
+   "한방"
+  ],
+  "sentence": {
+   "ja": "漢字を覚えます。",
+   "ko": "한자를 외웁니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "環",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "환",
+  "meaning": "고리",
+  "rule": null,
+  "examples": [
+   "環境（かんきょう）",
+   "環状（かんじょう）"
+  ],
+  "source": "상용2 p.367",
+  "examples_ko": [
+   "환경",
+   "환상"
+  ],
+  "sentence": {
+   "ja": "環境を守ります。",
+   "ko": "환경을 지킵니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "甘",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "あまい",
+  "sound": "감",
+  "meaning": "달",
+  "rule": "감 → カン(칸)",
+  "examples": [
+   "甘味（かんみ）",
+   "甘露（かんろ）"
+  ],
+  "source": "상용1 p.440",
+  "examples_ko": [
+   "감미",
+   "감로"
+  ],
+  "sentence": {
+   "ja": "甘い味です。",
+   "ko": "단맛입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "監",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "감",
+  "meaning": "볼",
+  "rule": "감 → カン(칸)",
+  "examples": [
+   "監督（かんとく）",
+   "監視（かんし）"
+  ],
+  "source": "상용1 p.354",
+  "examples_ko": [
+   "감독",
+   "감시"
+  ],
+  "sentence": {
+   "ja": "監督が来ました。",
+   "ko": "감독이 왔습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "看",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "간",
+  "meaning": "볼",
+  "rule": null,
+  "examples": [
+   "看護（かんご）",
+   "看板（かんばん）"
+  ],
+  "source": "상용1 p.191",
+  "examples_ko": [
+   "간호",
+   "간판"
+  ],
+  "sentence": {
+   "ja": "看護師です。",
+   "ko": "간호사입니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "管",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "くだ",
+  "sound": "관",
+  "meaning": "대롱",
+  "rule": null,
+  "examples": [
+   "管理（かんり）",
+   "管制（かんせい）"
+  ],
+  "source": "상용1 p.316",
+  "examples_ko": [
+   "관리",
+   "관제"
+  ],
+  "sentence": {
+   "ja": "管理します。",
+   "ko": "관리합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "簡",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "—",
+  "sound": "간",
+  "meaning": "대쪽",
+  "rule": null,
+  "examples": [
+   "簡単（かんたん）",
+   "簡易（かんい）"
+  ],
+  "source": "상용1 p.327",
+  "examples_ko": [
+   "간단",
+   "간이"
+  ],
+  "sentence": {
+   "ja": "簡単です。",
+   "ko": "간단합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "観",
+  "jeongja": "觀",
+  "on": "カン",
+  "kun": "みる",
+  "sound": "관",
+  "meaning": "볼",
+  "rule": null,
+  "examples": [
+   "観光（かんこう）",
+   "観察（かんさつ）"
+  ],
+  "source": "상용1 p.191",
+  "examples_ko": [
+   "관광",
+   "관찰"
+  ],
+  "sentence": {
+   "ja": "観光に行きます。",
+   "ko": "관광을 갑니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "貫",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "つらぬく",
+  "sound": "관",
+  "meaning": "꿸",
+  "rule": null,
+  "examples": [
+   "貫通（かんつう）",
+   "貫徹（かんてつ）"
+  ],
+  "source": "상용1 p.199",
+  "examples_ko": [
+   "관통",
+   "관철"
+  ],
+  "sentence": {
+   "ja": "信念を貫きます。",
+   "ko": "신념을 관철합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "還",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "かえる",
+  "sound": "환",
+  "meaning": "돌아올",
+  "rule": null,
+  "examples": [
+   "還元（かんげん）",
+   "還付（かんぷ）"
+  ],
+  "source": "상용2 p.367",
+  "examples_ko": [
+   "환원",
+   "환부"
+  ],
+  "sentence": {
+   "ja": "還元します。",
+   "ko": "환원합니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "間",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "あいだ",
+  "sound": "간",
+  "meaning": "사이",
+  "rule": null,
+  "examples": [
+   "時間（じかん）",
+   "間隔（かんかく）"
+  ],
+  "source": "상용1 p.326",
+  "examples_ko": [
+   "시간",
+   "간격"
+  ],
+  "sentence": {
+   "ja": "時間がありません。",
+   "ko": "시간이 없습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "関",
+  "jeongja": "關",
+  "on": "カン",
+  "kun": "せき",
+  "sound": "관",
+  "meaning": "관계할",
+  "rule": null,
+  "examples": [
+   "関係（かんけい）",
+   "関心（かんしん）"
+  ],
+  "source": "상용1 p.327",
+  "examples_ko": [
+   "관계",
+   "관심"
+  ],
+  "sentence": {
+   "ja": "関係があります。",
+   "ko": "관계가 있습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "陥",
+  "jeongja": "陷",
+  "on": "カン",
+  "kun": "おちいる",
+  "sound": "함",
+  "meaning": "빠질",
+  "rule": null,
+  "examples": [
+   "陥落（かんらく）",
+   "陥没（かんぼつ）"
+  ],
+  "source": "상용2 p.045",
+  "examples_ko": [
+   "함락",
+   "함몰"
+  ],
+  "sentence": {
+   "ja": "穴に陥りました。",
+   "ko": "구멍에 빠졌습니다."
+  }
+ },
+ {
+  "row": "か行",
+  "kanji": "館",
+  "jeongja": null,
+  "on": "カン",
+  "kun": "やかた",
+  "sound": "관",
+  "meaning": "객사",
+  "rule": null,
+  "examples": [
+   "図書館（としょかん）",
+   "旅館（りょかん）"
+  ],
+  "source": "상용1 p.316",
+  "examples_ko": [
+   "도서관",
+   "여관"
+  ],
+  "sentence": {
+   "ja": "図書館へ行きます。",
+   "ko": "도서관에 갑니다."
+  }
+ }
+]

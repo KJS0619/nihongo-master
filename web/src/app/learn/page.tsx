@@ -37,6 +37,17 @@ export default function LearnPage() {
       features: ["JLPT N5~N1", "획순 애니메이션", "부수 214", "한일 자형 비교"],
     },
     {
+      href: "/learn/kanji-sound",
+      title: "한자 발음순",
+      subtitle: "五十音順",
+      description: "일본어 음독 가나 순서(五十音)로 보는 한자 목록",
+      icon: "あ",
+      count: "181자",
+      gradient: "from-teal-500 to-emerald-500",
+      features: ["五十音 정렬", "한국 정자", "예문·뜻", "검색"],
+      isNew: true,
+    },
+    {
       href: "/learn/words",
       title: "단어",
       subtitle: "単語",
