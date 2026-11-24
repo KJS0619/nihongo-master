@@ -977,13 +977,13 @@ export function KanjiModal({ kanji, onClose, onSameSoundClick, onRadicalClick, o
               ) : jlptWords.length === 0 ? (
                 <div className="text-center py-8 text-gray-500 dark:text-gray-400">
                   <p className="text-lg mb-2">📚</p>
-                  <p>'{kanji.literal}' 한자가 포함된</p>
+                  <p>&apos;{kanji.literal}&apos; 한자가 포함된</p>
                   <p>JLPT 단어가 없습니다</p>
                 </div>
               ) : (
                 <div className="space-y-2">
                   <p className="text-xs text-gray-500 dark:text-gray-400 mb-3">
-                    '{kanji.literal}' 한자가 포함된 JLPT 단어 {jlptWords.length}개
+                    &apos;{kanji.literal}&apos; 한자가 포함된 JLPT 단어 {jlptWords.length}개
                   </p>
                   {jlptWords.map((word, idx) => (
                     <button
