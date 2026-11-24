@@ -37,6 +37,7 @@ const KUN_ONLY_LABEL = "훈만 가진 한자";
 
 // 발음순(五十音) 행 구분: 음독의 첫 가나로 행을 정합니다.
 function rowOf(on: string): string {
+  if (!on || on === "—") return "훈만 가진 한자";
   const first = on.charAt(0);
   const map: Record<string, string> = {
     ア: "ア행", イ: "ア행", ウ: "ア행", エ: "ア행", オ: "ア행",

@@ -61,10 +61,16 @@ def main():
         if kanji in existing:
             skipped.append(kanji)
             continue
-        sound = hun.split()[-1]
-        meaning = hun[: -len(sound)].strip()
-        first = on[0]
-        row = ROW_OF.get(first, "기타")
+        parts = hun.split()
+        if len(parts) == 1:          # 한국 음 없이 뜻만 있는 경우 (훈만 가진 한자)
+            sound, meaning = "", hun
+        else:
+            sound = parts[-1]
+            meaning = hun[: -len(sound)].strip()
+        if on in ("", "—"):
+            row = "훈만 가진 한자"
+        else:
+            row = ROW_OF.get(on[0], "기타")
         source = " / ".join(
             f"{LABEL.get(x['category'], x['category'])} p.{x['page']}" for x in by.get(kanji, [])
         ) or None
