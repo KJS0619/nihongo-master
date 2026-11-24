@@ -18,6 +18,21 @@ interface SoundEntry {
   sentence?: { ja: string; ko: string } | null;
 }
 
+// 콤보박스 항목: 히라가나 행 이름 -> 음독 가타카나 시작 글자
+const KANA_OPTIONS: { label: string; kata: string }[] = [
+  ..."あいうえお".split("").map((c, i) => ({ label: c, kata: "アイウエオ"[i] })),
+  ..."かきくけこ".split("").map((c, i) => ({ label: c, kata: "カキクケコ"[i] })),
+  ..."さしすせそ".split("").map((c, i) => ({ label: c, kata: "サシスセソ"[i] })),
+  ..."たちつてと".split("").map((c, i) => ({ label: c, kata: "タチツテト"[i] })),
+  ..."なにぬねの".split("").map((c, i) => ({ label: c, kata: "ナニヌネノ"[i] })),
+  ..."はひふへほ".split("").map((c, i) => ({ label: c, kata: "ハヒフヘホ"[i] })),
+  ..."まみむめも".split("").map((c, i) => ({ label: c, kata: "マミムメモ"[i] })),
+  ..."やゆよ".split("").map((c, i) => ({ label: c, kata: "ヤユヨ"[i] })),
+  ..."らりるれろ".split("").map((c, i) => ({ label: c, kata: "ラリルレロ"[i] })),
+  ..."わ".split("").map((c) => ({ label: c, kata: "ワ" })),
+];
+const KUN_ONLY_LABEL = "훈만 가진 한자";
+
 // 발음순(五十音) 행 구분: 음독의 첫 가나로 행을 정합니다.
 function rowOf(on: string): string {
   const first = on.charAt(0);
@@ -54,6 +69,15 @@ export default function KanjiSoundOrderPage() {
   const filtered = useMemo(() => {
     const q = query.trim();
     if (!q) return entries;
+    // 콤보 항목(あ, か … 또는 훈만 가진 한자)과 정확히 같으면 행 필터
+    if (q === KUN_ONLY_LABEL) {
+      return entries.filter((e) => !e.on || e.on === "—");
+    }
+    const opt = KANA_OPTIONS.find((o) => o.label === q);
+    if (opt) {
+      return entries.filter((e) => e.on.startsWith(opt.kata));
+    }
+    // 그 밖의 입력은 자유 검색
     return entries.filter(
       (e) =>
         e.kanji.includes(q) ||
@@ -80,18 +104,36 @@ export default function KanjiSoundOrderPage() {
     <main className="mx-auto max-w-6xl p-6">
       <div className="mb-4 flex items-center justify-between">
         <h1 className="text-2xl font-bold">한자 발음순</h1>
-        <Link href="/learn" className="text-sm text-blue-600 hover:underline">
-          학습 메뉴로
-        </Link>
+        <div className="flex items-center gap-3 print:hidden">
+          <button
+            type="button"
+            onClick={() => window.print()}
+            className="rounded bg-gray-900 px-3 py-1.5 text-sm font-semibold text-white hover:bg-gray-700"
+          >
+            인쇄
+          </button>
+          <Link href="/learn" className="text-sm text-blue-600 hover:underline">
+            학습 메뉴로
+          </Link>
+        </div>
       </div>
 
       <input
         type="search"
+        list="kana-options"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="한자, 한국 음(예: 아), 일본 음(예: ア), 뜻 검색"
-        className="mb-4 w-full rounded border px-3 py-2"
+        placeholder="행 선택(あ, か … 훈만 가진 한자) 또는 한자·음·뜻 직접 검색"
+        className="mb-4 w-full rounded border px-3 py-2 print:hidden"
       />
+      <datalist id="kana-options">
+        {KANA_OPTIONS.map((o) => (
+          <option key={o.label} value={o.label}>
+            {`${o.label} (${o.kata})`}
+          </option>
+        ))}
+        <option value={KUN_ONLY_LABEL} />
+      </datalist>
 
       {error && (
         <p className="text-red-600">데이터를 불러오지 못했습니다: {error}</p>
@@ -104,7 +146,7 @@ export default function KanjiSoundOrderPage() {
           <h2 className="mb-3 border-b pb-1 text-lg font-semibold">{g.row}</h2>
           <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
             {g.items.map((e) => (
-              <article key={e.kanji + e.on} className="rounded-lg border p-4">
+              <article key={e.kanji + e.on} className="break-inside-avoid rounded-lg border p-4">
                 <div className="flex items-start gap-4">
                   <div className="text-center">
                     <div className="text-5xl font-bold">{e.kanji}</div>
