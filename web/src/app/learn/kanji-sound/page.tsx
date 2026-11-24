@@ -100,8 +100,17 @@ export default function KanjiSoundOrderPage() {
     return out;
   }, [filtered]);
 
+  // 인쇄용: PPT와 같이 한 페이지에 5자씩 세로 카드 5줄
+  const printPages = useMemo(() => {
+    const pages: SoundEntry[][] = [];
+    for (let i = 0; i < filtered.length; i += 5) pages.push(filtered.slice(i, i + 5));
+    return pages;
+  }, [filtered]);
+
   return (
-    <main className="mx-auto max-w-6xl p-6">
+    <>
+    <style>{`@media print { @page { size: A4 landscape; margin: 8mm; } body { background: #fff; } }`}</style>
+    <main className="mx-auto max-w-6xl p-6 print:hidden">
       <div className="mb-4 flex items-center justify-between">
         <h1 className="text-2xl font-bold">한자 발음순</h1>
         <div className="flex items-center gap-3 print:hidden">
@@ -196,5 +205,49 @@ export default function KanjiSoundOrderPage() {
         </section>
       ))}
     </main>
+
+    {/* 인쇄 전용: 한 페이지에 5자, 가로 A4에 세로 카드 5개 */}
+    <div className="hidden print:block">
+      {printPages.map((page, pi) => (
+        <section
+          key={pi}
+          className="grid grid-cols-5 gap-3 break-after-page"
+          style={{ height: "188mm" }}
+        >
+          {page.map((e) => (
+            <div
+              key={e.kanji + e.on}
+              className="flex flex-col items-center border border-gray-400 p-2 text-black"
+              style={{ height: "188mm" }}
+            >
+              <div className="text-6xl font-bold leading-none">{e.kanji}</div>
+              {e.jeongja && (
+                <div className="mt-1 text-3xl font-bold text-red-600">{e.jeongja}</div>
+              )}
+              <div className="mt-2 w-full text-left text-[11px] leading-5">
+                <div>음독 {e.on}</div>
+                <div>훈독 {e.kun}</div>
+                <div>뜻·음 {e.meaning} {e.sound}</div>
+                {e.rule && <div className="font-semibold text-blue-700">규칙 {e.rule}</div>}
+                {e.source && <div className="text-green-700">{e.source}</div>}
+                <div className="mt-1 font-semibold text-gray-600">예문·단어</div>
+                {e.examples.map((ex, i) => (
+                  <div key={ex}>
+                    {ex} <span className="text-gray-600">{e.examples_ko?.[i] ?? ""}</span>
+                  </div>
+                ))}
+                {e.sentence && (
+                  <div className="mt-1">
+                    <div>{e.sentence.ja}</div>
+                    <div className="text-gray-500">{e.sentence.ko}</div>
+                  </div>
+                )}
+              </div>
+            </div>
+          ))}
+        </section>
+      ))}
+    </div>
+    </>
   );
 }
