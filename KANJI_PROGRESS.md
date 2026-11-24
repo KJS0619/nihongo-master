@@ -2,6 +2,19 @@
 
 다음 세션에서 이어서 작업할 때 이 파일부터 읽으세요.
 
+## 마지막 작업
+
+- や行 28자 추가 → 총 674자. 커밋 `412c3c8`, 푸시와 배포까지 완료.
+
+## 다음에 할 일
+
+1. ら行 데이터 작성: `kanji_rows/rows_ra_ro.py` (변수 `RA_RO_ROW`, 형식은 `rows_ya_yo.py`와 같음)
+2. 병합: `python kanji_rows/merge_rows.py rows_ra_ro RA_RO_ROW`
+3. 발음순 JSON 재생성: `python kanji_search.py --export-sorted` → `kanji_sound_order.json`을 `web/public/data/`로 복사
+4. PPT 재생성: `python build_deck.py`
+5. 커밋 → `git push origin main` → `cd web` 후 `npx vercel --prod --yes`
+6. 그다음은 わ행, 그리고 훈만 가진 한자.
+
 ## 현재 상태 (2026-11-24 기준)
 
 | 행 | 상태 | 글자 수 |
