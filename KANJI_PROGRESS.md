@@ -10,9 +10,11 @@
 | か行 | 완료 | 91 |
 | き行 | 완료 (キ·キュウ·キョウ·キン·キャク·キツ) | 66 |
 | く行 | 일부 완료 (ク·クウ만 — 상용한자 전체 중 소수) | 6 |
-| け行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
+| け行 | 완료 (ケ·ケイ·ケツ·ケン) | 43 |
+| こ行 | 완료 (コ·コウ·コク·コン·コツ) | 37 |
+| さ行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
 
-- 데이터 파일: `kanji_data.json` (총 253자)
+- 데이터 파일: `kanji_data.json` (총 333자)
 - 발음순 파일: `kanji_sound_order.json` (`python kanji_search.py --export-sorted` 로 생성)
 - 웹 사본: `web/public/data/kanji_sound_order.json` (복사 필요)
 - 웹 페이지: `web/src/app/learn/kanji-sound/page.tsx` (콤보박스 + 인쇄)
@@ -26,9 +28,11 @@
 
 ## 다음 작업 순서
 
-1. 행 하나씩 데이터 작성: 예) `rows_ki_ku.py` 와 같은 형식의 튜플 리스트를 만들고 병합 스크립트로 `kanji_data.json`에 추가
+1. 행 하나씩 데이터 작성: `kanji_rows/rows_ke_ko.py` 와 같은 형식의 튜플 리스트(`KE_KO_ROW`)를 만듦
+   - 병합: `python kanji_rows/merge_rows.py rows_ke_ko KE_KO_ROW` (모듈 이름, 리스트 변수 이름 순서)
    - 병합 시 `source`는 원본 상용한자 파일 `sangyong_hanja_1_2_all (2).json` 에서 가져옴
    - 이미 있는 한자는 건너뜀
+   - 행 이름은 음독 첫 가나로 자동 결정 (キ→き行, ク→く行, ケ→け行, コ→こ行). 다른 행은 `merge_rows.py`의 매핑에 추가 필요
 2. `python kanji_search.py --export-sorted` 로 발음순 JSON 재생성
 3. `web/public/data/kanji_sound_order.json` 으로 복사
 4. `python build_deck.py` 로 PPT 재생성
