@@ -12953,6 +12953,30 @@
  },
  {
   "row": "な行",
+  "kanji": "忍",
+  "jeongja": null,
+  "on": "ニン",
+  "kun": "しのぶ",
+  "sound": "인",
+  "meaning": "참을",
+  "rule": "인 → イン(인)",
+  "source": "상용1 p.272",
+  "examples": [
+   "忍耐（にんたい）",
+   "残忍（ざんにん）"
+  ],
+  "examples_ko": [
+   "인내",
+   "잔인"
+  ],
+  "sentence": {
+   "ja": "忍耐強く待ちます。",
+   "ko": "인내심 있게 기다립니다."
+  },
+  "on_hangul": "니응"
+ },
+ {
+  "row": "な行",
   "kanji": "認",
   "jeongja": null,
   "on": "ニン",
@@ -12974,6 +12998,30 @@
    "ko": "문제를 인식합니다."
   },
   "on_hangul": "니응"
+ },
+ {
+  "row": "な行",
+  "kanji": "寧",
+  "jeongja": null,
+  "on": "ネイ",
+  "kun": "—",
+  "sound": "녕",
+  "meaning": "편안할",
+  "rule": null,
+  "source": "상용2 p.374",
+  "examples": [
+   "安寧（あんねい）",
+   "丁寧（ていねい）"
+  ],
+  "examples_ko": [
+   "안녕",
+   "정중함"
+  ],
+  "sentence": {
+   "ja": "丁寧に説明します。",
+   "ko": "정중하게 설명합니다."
+  },
+  "on_hangul": "네이"
  },
  {
   "row": "な行",
@@ -13116,6 +13164,30 @@
   "sentence": {
    "ja": "悩みを話します。",
    "ko": "고민을 이야기합니다."
+  },
+  "on_hangul": "노우"
+ },
+ {
+  "row": "な行",
+  "kanji": "濃",
+  "jeongja": null,
+  "on": "ノウ",
+  "kun": "こい",
+  "sound": "농",
+  "meaning": "짙을",
+  "rule": null,
+  "source": "상용2 p.196",
+  "examples": [
+   "濃厚（のうこう）",
+   "濃度（のうど）"
+  ],
+  "examples_ko": [
+   "농후",
+   "농도"
+  ],
+  "sentence": {
+   "ja": "味が濃厚です。",
+   "ko": "맛이 진합니다."
   },
   "on_hangul": "노우"
  },
