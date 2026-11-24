@@ -105,8 +105,13 @@ def build(entries, out_path):
                     lines.append((e["sentence"]["ko"], 11, False, GRAY))
                 add_text(s, x + 0.05, 1.05, 1.95, 6.8, lines)
 
+    # 페이지 번호 (예: 1/118) - 인쇄할 때 순서 확인용
+    total = len(prs.slides)
+    for idx, slide in enumerate(prs.slides, start=1):
+        add_text(slide, 9.9, 7.95, 1.6, 0.3, [(f"{idx}/{total}", 10, False, GRAY)])
+
     prs.save(out_path)
-    return len(prs.slides)
+    return total
 
 
 def main():
