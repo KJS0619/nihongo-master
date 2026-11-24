@@ -84,7 +84,7 @@ export default function KanjiSoundOrderPage() {
         (e.jeongja ?? "").includes(q) ||
         e.on.includes(q) ||
         e.sound.includes(q) ||
-        e.meaning.includes(q)
+        e.meaning.split(/[\s,·()]+/).includes(q)
     );
   }, [entries, query]);
 
