@@ -30,6 +30,16 @@ RULES = {
 }
 LABEL = {"상용한자1": "상용1", "상용한자2": "상용2"}
 
+# 음독 첫 가나 -> 행 이름 (五十音)
+ROW_OF = {}
+for _row, _chars in {
+    "あ行": "アイウエオ", "か行": "カキクケコ", "さ行": "サシスセソ", "た行": "タチツテト",
+    "な行": "ナニヌネノ", "は行": "ハヒフヘホ", "ま行": "マミムメモ", "や行": "ヤユヨ",
+    "ら行": "ラリルレロ", "わ行": "ワヲン",
+}.items():
+    for _c in _chars:
+        ROW_OF[_c] = _row
+
 
 def main():
     if len(sys.argv) != 3:
@@ -54,7 +64,7 @@ def main():
         sound = hun.split()[-1]
         meaning = hun[: -len(sound)].strip()
         first = on[0]
-        row = {"キ": "き行", "ク": "く行", "ケ": "け行", "コ": "こ行"}.get(first, "기타")
+        row = ROW_OF.get(first, "기타")
         source = " / ".join(
             f"{LABEL.get(x['category'], x['category'])} p.{x['page']}" for x in by.get(kanji, [])
         ) or None

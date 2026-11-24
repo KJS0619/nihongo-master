@@ -12,9 +12,10 @@
 | く行 | 일부 완료 (ク·クウ만 — 상용한자 전체 중 소수) | 6 |
 | け行 | 완료 (ケ·ケイ·ケツ·ケン) | 43 |
 | こ行 | 완료 (コ·コウ·コク·コン·コツ) | 37 |
-| さ行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
+| さ行 | 완료 (サ·サイ·サク·サツ·サン·シ·シキ·シツ·シャ·シュ·シュウ·ショウ·スイ·スウ·セイ·セキ·セツ·セン·ソ·ソウ·ソク) | 103 |
+| た行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
 
-- 데이터 파일: `kanji_data.json` (총 333자)
+- 데이터 파일: `kanji_data.json` (총 436자)
 - 발음순 파일: `kanji_sound_order.json` (`python kanji_search.py --export-sorted` 로 생성)
 - 웹 사본: `web/public/data/kanji_sound_order.json` (복사 필요)
 - 웹 페이지: `web/src/app/learn/kanji-sound/page.tsx` (콤보박스 + 인쇄)
