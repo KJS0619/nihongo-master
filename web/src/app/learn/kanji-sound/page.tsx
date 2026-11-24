@@ -38,7 +38,15 @@ const KUN_ONLY_LABEL = "훈만 가진 한자";
 // 발음순(五十音) 행 구분: 음독의 첫 가나로 행을 정합니다.
 function rowOf(on: string): string {
   if (!on || on === "—") return "훈만 가진 한자";
-  const first = on.charAt(0);
+  const DAKU: Record<string, string> = {
+    ガ: "カ", ギ: "キ", グ: "ク", ゲ: "ケ", ゴ: "コ",
+    ザ: "サ", ジ: "シ", ズ: "ス", ゼ: "セ", ゾ: "ソ",
+    ダ: "タ", ヂ: "チ", ヅ: "ツ", デ: "テ", ド: "ト",
+    バ: "ハ", ビ: "ヒ", ブ: "フ", ベ: "ヘ", ボ: "ホ",
+    パ: "ハ", ピ: "ヒ", プ: "フ", ペ: "ヘ", ポ: "ホ",
+    ヴ: "ウ",
+  };
+  const first = DAKU[on.charAt(0)] ?? on.charAt(0);
   const map: Record<string, string> = {
     ア: "ア행", イ: "ア행", ウ: "ア행", エ: "ア행", オ: "ア행",
     カ: "カ행", キ: "カ행", ク: "カ행", ケ: "カ행", コ: "カ행",

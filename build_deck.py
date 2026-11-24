@@ -123,6 +123,9 @@ def main():
 
     with open(args.data, encoding="utf-8") as f:
         entries = json.load(f)
+    # 발음순으로 정렬해야 행별 구분 장이 한 번만 나옵니다
+    from kanji_search import sort_by_reading
+    entries = sort_by_reading(entries)
     if args.row:
         entries = [e for e in entries if e["row"] == args.row]
     n = build(entries, args.out)
