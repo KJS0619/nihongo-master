@@ -1,0 +1,42 @@
+# 상용한자 발음순 학습 자료 — 진행 기록
+
+다음 세션에서 이어서 작업할 때 이 파일부터 읽으세요.
+
+## 현재 상태 (2026-11-24 기준)
+
+| 행 | 상태 | 글자 수 |
+|---|---|---|
+| あ行 | 완료 | 90 |
+| か行 | 완료 | 91 |
+| き行 | 완료 (キ·キュウ·キョウ·キン·キャク·キツ) | 66 |
+| く行 | 일부 완료 (ク·クウ만 — 상용한자 전체 중 소수) | 6 |
+| け行 ~ わ行, 훈만 가진 한자 | 미작업 | — |
+
+- 데이터 파일: `kanji_data.json` (총 253자)
+- 발음순 파일: `kanji_sound_order.json` (`python kanji_search.py --export-sorted` 로 생성)
+- 웹 사본: `web/public/data/kanji_sound_order.json` (복사 필요)
+- 웹 페이지: `web/src/app/learn/kanji-sound/page.tsx` (콤보박스 + 인쇄)
+- 인쇄용 PPT: `python build_deck.py` → `kanji_deck.pptx`
+
+## 글자 한 개에 들어가는 항목
+
+`kanji`, `on`(음독 가타카나), `kun`(훈독), `sound`(한국 음), `meaning`(한국 훈),
+`jeongja`(한국 정자, 모양이 다를 때만), `rule`(음 규칙, 대표 패턴만), `source`(상용1/2 쪽수),
+`examples` + `examples_ko`(예문 단어 2개와 뜻), `sentence`(예문 일본어 + 한국어 해석).
+
+## 다음 작업 순서
+
+1. 행 하나씩 데이터 작성: 예) `rows_ki_ku.py` 와 같은 형식의 튜플 리스트를 만들고 병합 스크립트로 `kanji_data.json`에 추가
+   - 병합 시 `source`는 원본 상용한자 파일 `sangyong_hanja_1_2_all (2).json` 에서 가져옴
+   - 이미 있는 한자는 건너뜀
+2. `python kanji_search.py --export-sorted` 로 발음순 JSON 재생성
+3. `web/public/data/kanji_sound_order.json` 으로 복사
+4. `python build_deck.py` 로 PPT 재생성
+5. `web/` 에서 `npm run build` (개발 서버를 끈 상태에서)
+
+## 주의
+
+- 정자(한국 표준 한자)는 원본 파일에 없습니다. 일본 상용한자와 모양이 다른 글자만 직접 적습니다 (예: 気→氣, 帰→歸, 亀→龜, 区→區, 駆→驅, 旧→舊, 既→旣).
+- 원본 파일의 같은 글자가 여러 음으로 중복되어 있을 수 있습니다 (예: 悪 아/악/오). 음독은 제가 정한 대표 음을 씁니다.
+- 예문과 한글 뜻은 직접 작성한 것이라 사전으로 한 번씩 확인하는 것을 권장합니다.
+- 상용한자 전체 2,136자 중 아직 채우지 않은 글자가 많습니다. 원본 파일(`sangyong_hanja_1_2_all (2).json`)의 글자 목록을 행별로 나눠서 진행하면 빠뜨림을 막을 수 있습니다.
