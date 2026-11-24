@@ -16,6 +16,7 @@ interface SoundEntry {
   examples: string[];
   examples_ko?: string[];
   sentence?: { ja: string; ko: string } | null;
+  on_hangul?: string; // 음독의 한글 표기 (예: キュウ -> 큐우)
 }
 
 // 콤보박스 항목: 히라가나 행 이름 -> 음독 가타카나 시작 글자
@@ -83,6 +84,7 @@ export default function KanjiSoundOrderPage() {
         e.kanji.includes(q) ||
         (e.jeongja ?? "").includes(q) ||
         e.on.includes(q) ||
+        (e.on_hangul ?? "").startsWith(q) ||
         e.sound.includes(q) ||
         e.meaning.split(/[\s,·()]+/).includes(q)
     );

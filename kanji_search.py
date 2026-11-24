@@ -103,9 +103,7 @@ def sort_by_reading(entries):
 
 def export_sorted(data_path=DEFAULT_DATA, out_path=None):
     """발음순으로 정렬된 JSON을 저장합니다 (다른 앱에서 바로 읽을 수 있음)."""
-    entries = sort_by_reading(load(data_path))
-    for e in entries:
-        e.pop("on_hangul", None)
+    entries = sort_by_reading(load(data_path))  # on_hangul 필드는 웹 검색용으로 함께 저장
     out_path = out_path or os.path.join(HERE, "kanji_sound_order.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(entries, f, ensure_ascii=False, indent=1)
