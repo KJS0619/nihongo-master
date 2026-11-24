@@ -15494,5 +15494,677 @@
    "ko": "전문가와 상담합니다."
   },
   "on_hangul": "모응"
+ },
+ {
+  "row": "や行",
+  "kanji": "夜",
+  "jeongja": null,
+  "on": "ヤ",
+  "kun": "よる",
+  "sound": "야",
+  "meaning": "밤",
+  "rule": null,
+  "source": "상용1 p.117",
+  "examples": [
+   "夜間（やかん）",
+   "深夜（しんや）"
+  ],
+  "examples_ko": [
+   "야간",
+   "심야"
+  ],
+  "sentence": {
+   "ja": "夜間に勉強します。",
+   "ko": "야간에 공부합니다."
+  },
+  "on_hangul": "야"
+ },
+ {
+  "row": "や行",
+  "kanji": "野",
+  "jeongja": null,
+  "on": "ヤ",
+  "kun": "の",
+  "sound": "야",
+  "meaning": "들",
+  "rule": null,
+  "source": "상용1 p.307",
+  "examples": [
+   "野原（のはら）",
+   "分野（ぶんや）"
+  ],
+  "examples_ko": [
+   "들판",
+   "분야"
+  ],
+  "sentence": {
+   "ja": "野原で遊びます。",
+   "ko": "들판에서 놉니다."
+  },
+  "on_hangul": "야"
+ },
+ {
+  "row": "や行",
+  "kanji": "役",
+  "jeongja": null,
+  "on": "ヤク",
+  "kun": "やく",
+  "sound": "역",
+  "meaning": "부릴",
+  "rule": null,
+  "source": "상용1 p.310",
+  "examples": [
+   "役割（やくわり）",
+   "役員（やくいん）"
+  ],
+  "examples_ko": [
+   "역할",
+   "임원"
+  ],
+  "sentence": {
+   "ja": "役割を果たします。",
+   "ko": "역할을 다합니다."
+  },
+  "on_hangul": "야쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "約",
+  "jeongja": null,
+  "on": "ヤク",
+  "kun": "—",
+  "sound": "약",
+  "meaning": "맺을",
+  "rule": null,
+  "source": "상용1 p.251",
+  "examples": [
+   "予約（よやく）",
+   "条約（じょうやく）"
+  ],
+  "examples_ko": [
+   "예약",
+   "조약"
+  ],
+  "sentence": {
+   "ja": "予約を取りました。",
+   "ko": "예약을 했습니다."
+  },
+  "on_hangul": "야쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "薬",
+  "jeongja": "藥",
+  "on": "ヤク",
+  "kun": "くすり",
+  "sound": "약",
+  "meaning": "약",
+  "rule": null,
+  "source": "상용1 p.173",
+  "examples": [
+   "薬品（やくひん）",
+   "薬局（やっきょく）"
+  ],
+  "examples_ko": [
+   "약품",
+   "약국"
+  ],
+  "sentence": {
+   "ja": "薬を飲みます。",
+   "ko": "약을 먹습니다."
+  },
+  "on_hangul": "야쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "訳",
+  "jeongja": "譯",
+  "on": "ヤク",
+  "kun": "わけ",
+  "sound": "역",
+  "meaning": "번역할",
+  "rule": null,
+  "source": "상용1 p.355",
+  "examples": [
+   "通訳（つうやく）",
+   "訳文（やくぶん）"
+  ],
+  "examples_ko": [
+   "통역",
+   "역문"
+  ],
+  "sentence": {
+   "ja": "英語を訳します。",
+   "ko": "영어를 번역합니다."
+  },
+  "on_hangul": "야쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "油",
+  "jeongja": null,
+  "on": "ユ",
+  "kun": "あぶら",
+  "sound": "유",
+  "meaning": "기름",
+  "rule": null,
+  "source": "상용1 p.483",
+  "examples": [
+   "石油（せきゆ）",
+   "油絵（あぶらえ）"
+  ],
+  "examples_ko": [
+   "석유",
+   "유화"
+  ],
+  "sentence": {
+   "ja": "油で揚げます。",
+   "ko": "기름에 튀깁니다."
+  },
+  "on_hangul": "유"
+ },
+ {
+  "row": "や行",
+  "kanji": "輸",
+  "jeongja": null,
+  "on": "ユ",
+  "kun": "—",
+  "sound": "수",
+  "meaning": "보낼",
+  "rule": null,
+  "source": "상용1 p.367",
+  "examples": [
+   "輸出（ゆしゅつ）",
+   "輸入（ゆにゅう）"
+  ],
+  "examples_ko": [
+   "수출",
+   "수입"
+  ],
+  "sentence": {
+   "ja": "輸出を増やします。",
+   "ko": "수출을 늘립니다."
+  },
+  "on_hangul": "유"
+ },
+ {
+  "row": "や行",
+  "kanji": "優",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "やさしい",
+  "sound": "우",
+  "meaning": "넉넉할",
+  "rule": null,
+  "source": "상용1 p.207",
+  "examples": [
+   "優秀（ゆうしゅう）",
+   "優先（ゆうせん）"
+  ],
+  "examples_ko": [
+   "우수",
+   "우선"
+  ],
+  "sentence": {
+   "ja": "成績が優秀です。",
+   "ko": "성적이 우수합니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "勇",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "いさむ",
+  "sound": "용",
+  "meaning": "날랠",
+  "rule": null,
+  "source": "상용1 p.307",
+  "examples": [
+   "勇気（ゆうき）",
+   "勇者（ゆうしゃ）"
+  ],
+  "examples_ko": [
+   "용기",
+   "용자"
+  ],
+  "sentence": {
+   "ja": "勇気を出します。",
+   "ko": "용기를 냅니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "友",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "とも",
+  "sound": "우",
+  "meaning": "벗",
+  "rule": null,
+  "source": "상용1 p.237",
+  "examples": [
+   "友人（ゆうじん）",
+   "友情（ゆうじょう）"
+  ],
+  "examples_ko": [
+   "친구",
+   "우정"
+  ],
+  "sentence": {
+   "ja": "友人と会います。",
+   "ko": "친구를 만납니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "有",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "ある",
+  "sound": "유",
+  "meaning": "있을",
+  "rule": null,
+  "source": "상용1 p.247",
+  "examples": [
+   "有名（ゆうめい）",
+   "有料（ゆうりょう）"
+  ],
+  "examples_ko": [
+   "유명",
+   "유료"
+  ],
+  "sentence": {
+   "ja": "有名な店です。",
+   "ko": "유명한 가게입니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "由",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "よし",
+  "sound": "유",
+  "meaning": "말미암을",
+  "rule": null,
+  "source": "상용1 p.483",
+  "examples": [
+   "理由（りゆう）",
+   "自由（じゆう）"
+  ],
+  "examples_ko": [
+   "이유",
+   "자유"
+  ],
+  "sentence": {
+   "ja": "理由を教えてください。",
+   "ko": "이유를 알려 주세요."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "遊",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "あそぶ",
+  "sound": "유",
+  "meaning": "놀",
+  "rule": null,
+  "source": "상용1 p.224",
+  "examples": [
+   "遊園地（ゆうえんち）",
+   "遊学（ゆうがく）"
+  ],
+  "examples_ko": [
+   "놀이공원",
+   "유학"
+  ],
+  "sentence": {
+   "ja": "遊園地に行きます。",
+   "ko": "놀이공원에 갑니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "郵",
+  "jeongja": null,
+  "on": "ユウ",
+  "kun": "—",
+  "sound": "우",
+  "meaning": "우편",
+  "rule": null,
+  "source": "상용1 p.124",
+  "examples": [
+   "郵便（ゆうびん）",
+   "郵送（ゆうそう）"
+  ],
+  "examples_ko": [
+   "우편",
+   "우송"
+  ],
+  "sentence": {
+   "ja": "郵便で送ります。",
+   "ko": "우편으로 보냅니다."
+  },
+  "on_hangul": "유우"
+ },
+ {
+  "row": "や行",
+  "kanji": "与",
+  "jeongja": "與",
+  "on": "ヨ",
+  "kun": "あたえる",
+  "sound": "여",
+  "meaning": "줄",
+  "rule": null,
+  "source": "상용1 p.219",
+  "examples": [
+   "参与（さんよ）",
+   "関与（かんよ）"
+  ],
+  "examples_ko": [
+   "참여",
+   "관여"
+  ],
+  "sentence": {
+   "ja": "会議に参与します。",
+   "ko": "회의에 참여합니다."
+  },
+  "on_hangul": "요"
+ },
+ {
+  "row": "や行",
+  "kanji": "余",
+  "jeongja": "餘",
+  "on": "ヨ",
+  "kun": "あまる",
+  "sound": "여",
+  "meaning": "남을",
+  "rule": null,
+  "source": "상용1 p.350",
+  "examples": [
+   "余裕（よゆう）",
+   "余計（よけい）"
+  ],
+  "examples_ko": [
+   "여유",
+   "쓸데없이 많음"
+  ],
+  "sentence": {
+   "ja": "時間に余裕があります。",
+   "ko": "시간에 여유가 있습니다."
+  },
+  "on_hangul": "요"
+ },
+ {
+  "row": "や行",
+  "kanji": "預",
+  "jeongja": null,
+  "on": "ヨ",
+  "kun": "あずける",
+  "sound": "예",
+  "meaning": "맡길",
+  "rule": null,
+  "source": "상용1 p.307",
+  "examples": [
+   "預金（よきん）",
+   "預かる（あずかる）"
+  ],
+  "examples_ko": [
+   "예금",
+   "맡다"
+  ],
+  "sentence": {
+   "ja": "預金を下ろします。",
+   "ko": "예금을 찾습니다."
+  },
+  "on_hangul": "요"
+ },
+ {
+  "row": "や行",
+  "kanji": "容",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "—",
+  "sound": "용",
+  "meaning": "얼굴",
+  "rule": null,
+  "source": "상용1 p.171",
+  "examples": [
+   "容器（ようき）",
+   "内容（ないよう）"
+  ],
+  "examples_ko": [
+   "용기",
+   "내용"
+  ],
+  "sentence": {
+   "ja": "容器に入れます。",
+   "ko": "용기에 담습니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "様",
+  "jeongja": "樣",
+  "on": "ヨウ",
+  "kun": "さま",
+  "sound": "양",
+  "meaning": "모양",
+  "rule": null,
+  "source": "상용1 p.183",
+  "examples": [
+   "様式（ようしき）",
+   "様子（ようす）"
+  ],
+  "examples_ko": [
+   "양식",
+   "모양"
+  ],
+  "sentence": {
+   "ja": "様式を統一します。",
+   "ko": "양식을 통일합니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "洋",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "—",
+  "sound": "양",
+  "meaning": "바다",
+  "rule": null,
+  "source": "상용1 p.180",
+  "examples": [
+   "西洋（せいよう）",
+   "洋食（ようしょく）"
+  ],
+  "examples_ko": [
+   "서양",
+   "양식"
+  ],
+  "sentence": {
+   "ja": "西洋の文化です。",
+   "ko": "서양의 문화입니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "葉",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "は",
+  "sound": "엽",
+  "meaning": "잎",
+  "rule": null,
+  "source": "상용1 p.439",
+  "examples": [
+   "言葉（ことば）",
+   "葉書（はがき）"
+  ],
+  "examples_ko": [
+   "말",
+   "엽서"
+  ],
+  "sentence": {
+   "ja": "言葉を選びます。",
+   "ko": "말을 고릅니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "要",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "いる",
+  "sound": "요",
+  "meaning": "요긴할",
+  "rule": null,
+  "source": "상용1 p.334",
+  "examples": [
+   "必要（ひつよう）",
+   "要点（ようてん）"
+  ],
+  "examples_ko": [
+   "필요",
+   "요점"
+  ],
+  "sentence": {
+   "ja": "必要な物です。",
+   "ko": "필요한 물건입니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "陽",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "—",
+  "sound": "양",
+  "meaning": "볕",
+  "rule": null,
+  "source": "상용1 p.112",
+  "examples": [
+   "陽気（ようき）",
+   "陽光（ようこう）"
+  ],
+  "examples_ko": [
+   "양기·명랑함",
+   "양광"
+  ],
+  "sentence": {
+   "ja": "陽気な人です。",
+   "ko": "명랑한 사람입니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "養",
+  "jeongja": null,
+  "on": "ヨウ",
+  "kun": "やしなう",
+  "sound": "양",
+  "meaning": "기를",
+  "rule": null,
+  "source": "상용1 p.182",
+  "examples": [
+   "養成（ようせい）",
+   "養分（ようぶん）"
+  ],
+  "examples_ko": [
+   "양성",
+   "양분"
+  ],
+  "sentence": {
+   "ja": "人材を養成します。",
+   "ko": "인재를 양성합니다."
+  },
+  "on_hangul": "요우"
+ },
+ {
+  "row": "や行",
+  "kanji": "欲",
+  "jeongja": null,
+  "on": "ヨク",
+  "kun": "ほっする",
+  "sound": "욕",
+  "meaning": "욕심",
+  "rule": null,
+  "source": "상용1 p.171",
+  "examples": [
+   "欲望（よくぼう）",
+   "食欲（しょくよく）"
+  ],
+  "examples_ko": [
+   "욕망",
+   "식욕"
+  ],
+  "sentence": {
+   "ja": "欲望を抑えます。",
+   "ko": "욕망을 억제합니다."
+  },
+  "on_hangul": "요쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "浴",
+  "jeongja": null,
+  "on": "ヨク",
+  "kun": "あびる",
+  "sound": "욕",
+  "meaning": "목욕할",
+  "rule": null,
+  "source": "상용1 p.171",
+  "examples": [
+   "浴室（よくしつ）",
+   "入浴（にゅうよく）"
+  ],
+  "examples_ko": [
+   "욕실",
+   "입욕"
+  ],
+  "sentence": {
+   "ja": "浴室を掃除します。",
+   "ko": "욕실을 청소합니다."
+  },
+  "on_hangul": "요쿠"
+ },
+ {
+  "row": "や行",
+  "kanji": "翌",
+  "jeongja": null,
+  "on": "ヨク",
+  "kun": "—",
+  "sound": "익",
+  "meaning": "다음",
+  "rule": null,
+  "source": "상용1 p.193",
+  "examples": [
+   "翌日（よくじつ）",
+   "翌年（よくねん）"
+  ],
+  "examples_ko": [
+   "이튿날",
+   "이듬해"
+  ],
+  "sentence": {
+   "ja": "翌日に出発します。",
+   "ko": "이튿날 출발합니다."
+  },
+  "on_hangul": "요쿠"
  }
 ]
