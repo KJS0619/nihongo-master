@@ -17242,9 +17242,18 @@
   "meaning": "사람",
   "rule": "인 → イン(인)",
   "source": "상용1 p.087",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "人間（にんげん）",
+   "日本人（にほんじん）"
+  ],
+  "examples_ko": [
+   "인간",
+   "일본인"
+  ],
+  "sentence": {
+   "ja": "人が集まります。",
+   "ko": "사람이 모입니다."
+  }
  },
  {
   "row": "た行",
@@ -17270,9 +17279,18 @@
   "meaning": "열",
   "rule": null,
   "source": "상용1 p.035",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "十分（じゅうぶん）",
+   "十日（とおか）"
+  ],
+  "examples_ko": [
+   "충분함",
+   "열흘"
+  ],
+  "sentence": {
+   "ja": "十分に休みました。",
+   "ko": "충분히 쉬었습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17284,9 +17302,18 @@
   "meaning": "날",
   "rule": null,
   "source": "상용1 p.071",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "出口（でぐち）",
+   "出発（しゅっぱつ）"
+  ],
+  "examples_ko": [
+   "출구",
+   "출발"
+  ],
+  "sentence": {
+   "ja": "駅の出口を探します。",
+   "ko": "역의 출구를 찾습니다."
+  }
  },
  {
   "row": "か行",
@@ -17344,9 +17371,18 @@
   "meaning": "위",
   "rule": null,
   "source": "상용1 p.097",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "上着（うわぎ）",
+   "向上（こうじょう）"
+  ],
+  "examples_ko": [
+   "겉옷",
+   "향상"
+  ],
+  "sentence": {
+   "ja": "上着を着ます。",
+   "ko": "겉옷을 입습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17358,9 +17394,18 @@
   "meaning": "넉",
   "rule": null,
   "source": "상용1 p.033",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "四季（しき）",
+   "四角（しかく）"
+  ],
+  "examples_ko": [
+   "사계절",
+   "사각형"
+  ],
+  "sentence": {
+   "ja": "四季の変化を感じます。",
+   "ko": "사계절의 변화를 느낍니다."
+  }
  },
  {
   "row": "か行",
@@ -17446,9 +17491,18 @@
   "meaning": "일곱",
   "rule": null,
   "source": "상용1 p.034",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "七夕（たなばた）",
+   "七色（なないろ）"
+  ],
+  "examples_ko": [
+   "칠석",
+   "일곱 빛깔"
+  ],
+  "sentence": {
+   "ja": "七色の虹が出ました。",
+   "ko": "일곱 빛깔 무지개가 떴습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17460,9 +17514,18 @@
   "meaning": "계집",
   "rule": null,
   "source": "상용1 p.088",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "女性（じょせい）",
+   "少女（しょうじょ）"
+  ],
+  "examples_ko": [
+   "여성",
+   "소녀"
+  ],
+  "sentence": {
+   "ja": "女性の代表です。",
+   "ko": "여성의 대표입니다."
+  }
  },
  {
   "row": "は行",
@@ -17488,9 +17551,18 @@
   "meaning": "먼저",
   "rule": null,
   "source": "상용1 p.177",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "先生（せんせい）",
+   "先月（せんげつ）"
+  ],
+  "examples_ko": [
+   "선생님",
+   "지난달"
+  ],
+  "sentence": {
+   "ja": "先生に質問します。",
+   "ko": "선생님께 질문합니다."
+  }
  },
  {
   "row": "た行",
@@ -17618,9 +17690,18 @@
   "meaning": "발",
   "rule": null,
   "source": "상용1 p.060",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "足首（あしくび）",
+   "満足（まんぞく）"
+  ],
+  "examples_ko": [
+   "발목",
+   "만족"
+  ],
+  "sentence": {
+   "ja": "足首を痛めました。",
+   "ko": "발목을 다쳤습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17632,9 +17713,18 @@
   "meaning": "글자",
   "rule": null,
   "source": "상용1 p.322",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "漢字（かんじ）",
+   "文字（もじ）"
+  ],
+  "examples_ko": [
+   "한자",
+   "문자"
+  ],
+  "sentence": {
+   "ja": "漢字を書きます。",
+   "ko": "한자를 씁니다."
+  }
  },
  {
   "row": "さ行",
@@ -17646,9 +17736,18 @@
   "meaning": "붉을",
   "rule": null,
   "source": "상용1 p.155",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "赤ちゃん（あかちゃん）",
+   "赤色（あかいろ）"
+  ],
+  "examples_ko": [
+   "아기",
+   "빨간색"
+  ],
+  "sentence": {
+   "ja": "赤い花が咲いています。",
+   "ko": "빨간 꽃이 피어 있습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17660,9 +17759,18 @@
   "meaning": "저녁",
   "rule": null,
   "source": "상용1 p.085 / 상용1 p.039",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "夕方（ゆうがた）",
+   "夕食（ゆうしょく）"
+  ],
+  "examples_ko": [
+   "저녁 무렵",
+   "저녁 식사"
+  ],
+  "sentence": {
+   "ja": "夕方に散歩します。",
+   "ko": "저녁 무렵 산책합니다."
+  }
  },
  {
   "row": "か行",
@@ -17697,9 +17805,18 @@
   "meaning": "돌",
   "rule": null,
   "source": "상용1 p.042",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "石鹸（せっけん）",
+   "宝石（ほうせき）"
+  ],
+  "examples_ko": [
+   "비누",
+   "보석"
+  ],
+  "sentence": {
+   "ja": "石を拾います。",
+   "ko": "돌을 줍니다."
+  }
  },
  {
   "row": "さ行",
@@ -17711,9 +17828,18 @@
   "meaning": "귀",
   "rule": null,
   "source": "상용1 p.064",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "耳鳴り（みみなり）",
+   "耳元（みみもと）"
+  ],
+  "examples_ko": [
+   "이명",
+   "귓가"
+  ],
+  "sentence": {
+   "ja": "耳をすませます。",
+   "ko": "귀를 기울입니다."
+  }
  },
  {
   "row": "さ行",
@@ -17725,9 +17851,18 @@
   "meaning": "마을",
   "rule": null,
   "source": "상용1 p.254",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "村人（むらびと）",
+   "農村（のうそん）"
+  ],
+  "examples_ko": [
+   "마을 사람",
+   "농촌"
+  ],
+  "sentence": {
+   "ja": "村に住んでいます。",
+   "ko": "마을에 살고 있습니다."
+  }
  },
  {
   "row": "さ行",
@@ -17739,9 +17874,18 @@
   "meaning": "숲",
   "rule": null,
   "source": "상용1 p.058",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "森林（しんりん）",
+   "森林浴（しんりんよく）"
+  ],
+  "examples_ko": [
+   "삼림",
+   "삼림욕"
+  ],
+  "sentence": {
+   "ja": "森の中を歩きます。",
+   "ko": "숲 속을 �}습니다."
+  }
  },
  {
   "row": "か行",
@@ -17776,9 +17920,18 @@
   "meaning": "실",
   "rule": null,
   "source": "상용1 p.046",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "毛糸（けいと）",
+   "糸口（いとぐち）"
+  ],
+  "examples_ko": [
+   "털실",
+   "실마리"
+  ],
+  "sentence": {
+   "ja": "毛糸でマフラーを編みます。",
+   "ko": "털실로 목도리를 뜹니다."
+  }
  },
  {
   "row": "は行",
@@ -17804,9 +17957,18 @@
   "meaning": "때",
   "rule": null,
   "source": "상용1 p.257",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "時間（じかん）",
+   "時計（とけい）"
+  ],
+  "examples_ko": [
+   "시간",
+   "시계"
+  ],
+  "sentence": {
+   "ja": "時間を守ります。",
+   "ko": "시간을 지킵니다."
+  }
  },
  {
   "row": "か行",
@@ -17841,9 +18003,18 @@
   "meaning": "앞",
   "rule": null,
   "source": "상용1 p.076",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "午前（ごぜん）",
+   "前半（ぜんはん）"
+  ],
+  "examples_ko": [
+   "오전",
+   "전반"
+  ],
+  "sentence": {
+   "ja": "前を見て歩きます。",
+   "ko": "앞을 보고 걷습니다."
+  }
  },
  {
   "row": "か行",
@@ -17924,9 +18095,18 @@
   "meaning": "글",
   "rule": null,
   "source": "상용1 p.231",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "書店（しょてん）",
+   "読書（どくしょ）"
+  ],
+  "examples_ko": [
+   "서점",
+   "독서"
+  ],
+  "sentence": {
+   "ja": "本を書店で買います。",
+   "ko": "책을 서점에서 삽니다."
+  }
  },
  {
   "row": "は行",
@@ -18003,9 +18183,18 @@
   "meaning": "먹을",
   "rule": null,
   "source": "상용1 p.464",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "食事（しょくじ）",
+   "食品（しょくひん）"
+  ],
+  "examples_ko": [
+   "식사",
+   "식품"
+  ],
+  "sentence": {
+   "ja": "食事の時間です。",
+   "ko": "식사 시간입니다."
+  }
  },
  {
   "row": "は行",
@@ -18073,9 +18262,18 @@
   "meaning": "스스로",
   "rule": null,
   "source": "상용1 p.064",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "自然（しぜん）",
+   "自分（じぶん）"
+  ],
+  "examples_ko": [
+   "자연",
+   "자신"
+  ],
+  "sentence": {
+   "ja": "自然を大切にします。",
+   "ko": "자연을 소중히 합니다."
+  }
  },
  {
   "row": "た行",
@@ -18101,9 +18299,18 @@
   "meaning": "새",
   "rule": null,
   "source": "상용1 p.475",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "新聞（しんぶん）",
+   "新幹線（しんかんせん）"
+  ],
+  "examples_ko": [
+   "신문",
+   "신칸센"
+  ],
+  "sentence": {
+   "ja": "新聞を読みます。",
+   "ko": "신문을 읽습니다."
+  }
  },
  {
   "row": "さ行",
@@ -18115,9 +18322,18 @@
   "meaning": "마당",
   "rule": null,
   "source": "상용1 p.112",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "会場（かいじょう）",
+   "場所（ばしょ）"
+  ],
+  "examples_ko": [
+   "회장",
+   "장소"
+  ],
+  "sentence": {
+   "ja": "会場に人が集まります。",
+   "ko": "회장에 사람들이 모입니다."
+  }
  },
  {
   "row": "か行",
@@ -18166,9 +18382,18 @@
   "meaning": "마음",
   "rule": null,
   "source": "상용1 p.062",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "安心（あんしん）",
+   "心配（しんぱい）"
+  ],
+  "examples_ko": [
+   "안심",
+   "걱정"
+  ],
+  "sentence": {
+   "ja": "心から感謝します。",
+   "ko": "마음에서 우러나와 감사합니다."
+  }
  },
  {
   "row": "か行",
@@ -18291,9 +18516,18 @@
   "meaning": "그칠",
   "rule": null,
   "source": "상용1 p.071",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "中止（ちゅうし）",
+   "禁止（きんし）"
+  ],
+  "examples_ko": [
+   "중지",
+   "금지"
+  ],
+  "sentence": {
+   "ja": "試合を中止します。",
+   "ko": "시합을 중지합니다."
+  }
  },
  {
   "row": "さ行",
@@ -18305,9 +18539,18 @@
   "meaning": "친할",
   "rule": null,
   "source": "상용1 p.475",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "親切（しんせつ）",
+   "両親（りょうしん）"
+  ],
+  "examples_ko": [
+   "친절",
+   "부모"
+  ],
+  "sentence": {
+   "ja": "親切な人です。",
+   "ko": "친절한 사람입니다."
+  }
  },
  {
   "row": "は行",
@@ -18333,9 +18576,18 @@
   "meaning": "그림",
   "rule": null,
   "source": "상용1 p.297",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "地図（ちず）",
+   "図書館（としょかん）"
+  ],
+  "examples_ko": [
+   "지도",
+   "도서관"
+  ],
+  "sentence": {
+   "ja": "地図を見ます。",
+   "ko": "지도를 봅니다."
+  }
  },
  {
   "row": "は行",
@@ -18361,9 +18613,18 @@
   "meaning": "봄",
   "rule": null,
   "source": "상용1 p.444",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "春休み（はるやすみ）",
+   "青春（せいしゅん）"
+  ],
+  "examples_ko": [
+   "봄방학",
+   "청춘"
+  ],
+  "sentence": {
+   "ja": "春になりました。",
+   "ko": "봄이 되었습니다."
+  }
  },
  {
   "row": "さ行",
@@ -18375,9 +18636,18 @@
   "meaning": "빛",
   "rule": null,
   "source": "상용1 p.186",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "景色（けしき）",
+   "色紙（しきし）"
+  ],
+  "examples_ko": [
+   "경치",
+   "색종이"
+  ],
+  "sentence": {
+   "ja": "色が好きです。",
+   "ko": "색을 좋아합니다."
+  }
  },
  {
   "row": "さ行",
@@ -18389,9 +18659,18 @@
   "meaning": "가을",
   "rule": null,
   "source": "상용1 p.140",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "秋分（しゅうぶん）",
+   "初秋（しょしゅう）"
+  ],
+  "examples_ko": [
+   "추분",
+   "초가을"
+  ],
+  "sentence": {
+   "ja": "秋が深まります。",
+   "ko": "가을이 깊어집니다."
+  }
  },
  {
   "row": "や行",
@@ -18542,9 +18821,18 @@
   "meaning": "언니",
   "rule": null,
   "source": "상용1 p.388",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "姉妹（しまい）",
+   "姉上（あねうえ）"
+  ],
+  "examples_ko": [
+   "자매",
+   "누님"
+  ],
+  "sentence": {
+   "ja": "姉と話します。",
+   "ko": "언니와 이야기합니다."
+  }
  },
  {
   "row": "か行",
@@ -18658,9 +18946,18 @@
   "meaning": "소리",
   "rule": null,
   "source": "상용1 p.415",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "声援（せいえん）",
+   "大声（おおごえ）"
+  ],
+  "examples_ko": [
+   "성원",
+   "큰 소리"
+  ],
+  "sentence": {
+   "ja": "大きな声で話します。",
+   "ko": "큰 소리로 말합니다."
+  }
  },
  {
   "row": "か行",
@@ -18732,9 +19029,18 @@
   "meaning": "갤",
   "rule": null,
   "source": "상용1 p.446",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "晴天（せいてん）",
+   "晴れ（はれ）"
+  ],
+  "examples_ko": [
+   "맑은 하늘",
+   "맑음"
+  ],
+  "sentence": {
+   "ja": "晴れた日に出かけます。",
+   "ko": "맑은 날에 외출합니다."
+  }
  },
  {
   "row": "さ行",
@@ -18746,9 +19052,18 @@
   "meaning": "눈",
   "rule": null,
   "source": "상용1 p.169",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "積雪（せきせつ）",
+   "雪合戦（ゆきがっせん）"
+  ],
+  "examples_ko": [
+   "적설",
+   "눈싸움"
+  ],
+  "sentence": {
+   "ja": "雪が降っています。",
+   "ko": "눈이 내리고 있습니다."
+  }
  },
  {
   "row": "ま行",
@@ -18797,9 +19112,18 @@
   "meaning": "가늘",
   "rule": null,
   "source": "상용1 p.146",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "細かい（こまかい）",
+   "詳細（しょうさい）"
+  ],
+  "examples_ko": [
+   "잘다",
+   "상세"
+  ],
+  "sentence": {
+   "ja": "細かい字です。",
+   "ko": "잔글씨입니다."
+  }
  },
  {
   "row": "か行",
