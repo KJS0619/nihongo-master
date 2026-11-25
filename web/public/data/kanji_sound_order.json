@@ -3001,9 +3001,18 @@
   "meaning": "아래",
   "rule": null,
   "source": "상용1 p.098",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "下校（げこう）",
+   "地下（ちか）"
+  ],
+  "examples_ko": [
+   "하교",
+   "지하"
+  ],
+  "sentence": {
+   "ja": "机の下に猫がいます。",
+   "ko": "책상 아래에 고양이가 있습니다."
+  },
   "on_hangul": "카"
  },
  {
@@ -5845,9 +5854,18 @@
   "meaning": "그림",
   "rule": "화 → カ(카)",
   "source": "상용1 p.225",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "計画（けいかく）",
+   "画面（がめん）"
+  ],
+  "examples_ko": [
+   "계획",
+   "화면"
+  ],
+  "sentence": {
+   "ja": "計画を立てます。",
+   "ko": "계획을 세웁니다."
+  },
   "on_hangul": "가"
  },
  {
@@ -5950,9 +5968,18 @@
   "meaning": "바깥",
   "rule": null,
   "source": "상용1 p.407",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "外国（がいこく）",
+   "外出（がいしゅつ）"
+  ],
+  "examples_ko": [
+   "외국",
+   "외출"
+  ],
+  "sentence": {
+   "ja": "外国へ行きます。",
+   "ko": "외국에 갑니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6100,9 +6127,18 @@
   "meaning": "배울",
   "rule": null,
   "source": "상용1 p.323",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "学校（がっこう）",
+   "学生（がくせい）"
+  ],
+  "examples_ko": [
+   "학교",
+   "학생"
+  ],
+  "sentence": {
+   "ja": "学校に行きます。",
+   "ko": "학교에 갑니다."
+  },
   "on_hangul": "가쿠"
  },
  {
@@ -6160,9 +6196,18 @@
   "meaning": "둥글",
   "rule": null,
   "source": "상용1 p.099",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "丸太（まるた）",
+   "丸暗記（まるあんき）"
+  ],
+  "examples_ko": [
+   "통나무",
+   "통째로 외움"
+  ],
+  "sentence": {
+   "ja": "丸暗記をします。",
+   "ko": "통째로 외웁니다."
+  },
   "on_hangul": "가응"
  },
  {
@@ -6190,9 +6235,18 @@
   "meaning": "바위",
   "rule": null,
   "source": "상용1 p.043",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "岩石（がんせき）",
+   "岩場（いわば）"
+  ],
+  "examples_ko": [
+   "암석",
+   "바위 지대"
+  ],
+  "sentence": {
+   "ja": "岩に登ります。",
+   "ko": "바위에 오릅니다."
+  },
   "on_hangul": "가응"
  },
  {
@@ -6265,9 +6319,18 @@
   "meaning": "얼굴",
   "rule": null,
   "source": "상용1 p.206",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "顔色（かおいろ）",
+   "顔立ち（かおだち）"
+  ],
+  "examples_ko": [
+   "안색",
+   "이목구비"
+  ],
+  "sentence": {
+   "ja": "顔色が悪いです。",
+   "ko": "안색이 나쁩니다."
+  },
   "on_hangul": "가응"
  },
  {
@@ -7375,9 +7438,18 @@
   "meaning": "쉴",
   "rule": null,
   "source": "상용1 p.128",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "休日（きゅうじつ）",
+   "休憩（きゅうけい）"
+  ],
+  "examples_ko": [
+   "휴일",
+   "휴식"
+  ],
+  "sentence": {
+   "ja": "明日は休みです。",
+   "ko": "내일은 쉽니다."
+  },
   "on_hangul": "큐우"
  },
  {
@@ -7459,9 +7531,18 @@
   "meaning": "활",
   "rule": null,
   "source": "상용1 p.074",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "弓道（きゅうどう）",
+   "弓矢（ゆみや）"
+  ],
+  "examples_ko": [
+   "궁도",
+   "활과 화살"
+  ],
+  "sentence": {
+   "ja": "弓道を習います。",
+   "ko": "궁도를 배웁니다."
+  },
   "on_hangul": "큐우"
  },
  {
@@ -7741,9 +7822,18 @@
   "meaning": "갈",
   "rule": null,
   "source": "상용1 p.155",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "去年（きょねん）",
+   "去就（きょしゅう）"
+  ],
+  "examples_ko": [
+   "작년",
+   "거취"
+  ],
+  "sentence": {
+   "ja": "去年の話です。",
+   "ko": "작년 이야기입니다."
+  },
   "on_hangul": "쿄"
  },
  {
@@ -9019,9 +9109,18 @@
   "meaning": "소",
   "rule": null,
   "source": "상용1 p.048",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "牛乳（ぎゅうにゅう）",
+   "牛肉（ぎゅうにく）"
+  ],
+  "examples_ko": [
+   "우유",
+   "쇠고기"
+  ],
+  "sentence": {
+   "ja": "牛乳を飲みます。",
+   "ko": "우유를 마십니다."
+  },
   "on_hangul": "규우"
  },
  {
@@ -9064,9 +9163,18 @@
   "meaning": "물고기",
   "rule": null,
   "source": "상용1 p.054",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "魚屋（さかなや）",
+   "金魚（きんぎょ）"
+  ],
+  "examples_ko": [
+   "생선가게",
+   "금붕어"
+  ],
+  "sentence": {
+   "ja": "魚を焼きます。",
+   "ko": "생선을 굽습니다."
+  },
   "on_hangul": "교"
  },
  {
@@ -9124,9 +9232,18 @@
   "meaning": "업",
   "rule": null,
   "source": "상용1 p.181 / 상용2 p.317",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "作業（さぎょう）",
+   "授業（じゅぎょう）"
+  ],
+  "examples_ko": [
+   "작업",
+   "수업"
+  ],
+  "sentence": {
+   "ja": "授業が始まります。",
+   "ko": "수업이 시작됩니다."
+  },
   "on_hangul": "교우"
  },
  {
@@ -9139,9 +9256,18 @@
   "meaning": "구슬",
   "rule": null,
   "source": "상용1 p.405",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "宝玉（ほうぎょく）",
+   "玉子（たまご）"
+  ],
+  "examples_ko": [
+   "보옥",
+   "달걀"
+  ],
+  "sentence": {
+   "ja": "玉子を割ります。",
+   "ko": "달걀을 깹니다."
+  },
   "on_hangul": "교쿠"
  },
  {
@@ -9169,9 +9295,18 @@
   "meaning": "은",
   "rule": null,
   "source": "상용1 p.100",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "銀色（ぎんいろ）",
+   "水銀（すいぎん）"
+  ],
+  "examples_ko": [
+   "은색",
+   "수은"
+  ],
+  "sentence": {
+   "ja": "銀色の車です。",
+   "ko": "은색 차입니다."
+  },
   "on_hangul": "기응"
  },
  {
@@ -9652,9 +9787,18 @@
   "meaning": "맏",
   "rule": null,
   "source": "상용1 p.091",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "兄弟（きょうだい）",
+   "義兄（ぎけい）"
+  ],
+  "examples_ko": [
+   "형제",
+   "의형"
+  ],
+  "sentence": {
+   "ja": "兄が来ます。",
+   "ko": "형이 옵니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -9754,9 +9898,18 @@
   "meaning": "형상",
   "rule": null,
   "source": "상용1 p.358",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "形式（けいしき）",
+   "三角形（さんかっけい）"
+  ],
+  "examples_ko": [
+   "형식",
+   "삼각형"
+  ],
+  "sentence": {
+   "ja": "形を変えます。",
+   "ko": "형태를 바꿉니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -10717,9 +10870,18 @@
   "meaning": "개",
   "rule": null,
   "source": "상용1 p.048",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "子犬（こいぬ）",
+   "番犬（ばんけん）"
+  ],
+  "examples_ko": [
+   "강아지",
+   "번견"
+  ],
+  "sentence": {
+   "ja": "子犬と遊びます。",
+   "ko": "강아지와 놉니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -10780,9 +10942,18 @@
   "meaning": "갈",
   "rule": "연 → エン(엔)",
   "source": "상용1 p.359",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "研修（けんしゅう）",
+   "研磨（けんま）"
+  ],
+  "examples_ko": [
+   "연수",
+   "연마"
+  ],
+  "sentence": {
+   "ja": "研修に参加します。",
+   "ko": "연수에 참가합니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -11125,9 +11296,18 @@
   "meaning": "달",
   "rule": null,
   "source": "상용1 p.039",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "来月（らいげつ）",
+   "満月（まんげつ）"
+  ],
+  "examples_ko": [
+   "다음 달",
+   "보름달"
+  ],
+  "sentence": {
+   "ja": "来月に引っ越します。",
+   "ko": "다음 달에 이사합니다."
+  },
   "on_hangul": "게츠"
  },
  {
@@ -11140,9 +11320,18 @@
   "meaning": "으뜸",
   "rule": null,
   "source": "상용1 p.248",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "元気（げんき）",
+   "元日（がんじつ）"
+  ],
+  "examples_ko": [
+   "기운",
+   "설날"
+  ],
+  "sentence": {
+   "ja": "元気ですか。",
+   "ko": "잘 지내세요?"
+  },
   "on_hangul": "게응"
  },
  {
@@ -11155,9 +11344,18 @@
   "meaning": "언덕",
   "rule": null,
   "source": "상용1 p.174",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "原料（げんりょう）",
+   "原稿（げんこう）"
+  ],
+  "examples_ko": [
+   "원료",
+   "원고"
+  ],
+  "sentence": {
+   "ja": "原料を買います。",
+   "ko": "원료를 삽니다."
+  },
   "on_hangul": "게응"
  },
  {
@@ -11290,9 +11488,18 @@
   "meaning": "말씀",
   "rule": null,
   "source": "상용1 p.068",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "言葉（ことば）",
+   "発言（はつげん）"
+  ],
+  "examples_ko": [
+   "말",
+   "발언"
+  ],
+  "sentence": {
+   "ja": "言葉を選びます。",
+   "ko": "말을 고릅니다."
+  },
   "on_hangul": "게응"
  },
  {
@@ -11905,9 +12112,18 @@
   "meaning": "입",
   "rule": null,
   "source": "상용1 p.058",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "入口（いりぐち）",
+   "窓口（まどぐち）"
+  ],
+  "examples_ko": [
+   "입구",
+   "창구"
+  ],
+  "sentence": {
+   "ja": "入口で待ちます。",
+   "ko": "입구에서 기다립니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -12529,9 +12745,18 @@
   "meaning": "생각할",
   "rule": null,
   "source": "상용1 p.385",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "考え（かんがえ）",
+   "参考（さんこう）"
+  ],
+  "examples_ko": [
+   "생각",
+   "참고"
+  ],
+  "sentence": {
+   "ja": "考えをまとめます。",
+   "ko": "생각을 정리합니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -12619,9 +12844,18 @@
   "meaning": "갈",
   "rule": null,
   "source": "상용1 p.483",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "旅行（りょこう）",
+   "銀行（ぎんこう）"
+  ],
+  "examples_ko": [
+   "여행",
+   "은행"
+  ],
+  "sentence": {
+   "ja": "銀行に行きます。",
+   "ko": "은행에 갑니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -12925,9 +13159,18 @@
   "meaning": "골",
   "rule": null,
   "source": "상용1 p.171",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "峡谷（きょうこく）",
+   "谷間（たにま）"
+  ],
+  "examples_ko": [
+   "협곡",
+   "골짜기"
+  ],
+  "sentence": {
+   "ja": "谷を渡ります。",
+   "ko": "계곡을 건넙니다."
+  },
   "on_hangul": "코쿠"
  },
  {
@@ -13018,9 +13261,18 @@
   "meaning": "이제",
   "rule": null,
   "source": "상용1 p.374",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "今日（きょう）",
+   "今度（こんど）"
+  ],
+  "examples_ko": [
+   "오늘",
+   "다음번"
+  ],
+  "sentence": {
+   "ja": "今日は晴れです。",
+   "ko": "오늘은 맑습니다."
+  },
   "on_hangul": "코응"
  },
  {
@@ -13258,9 +13510,18 @@
   "meaning": "다섯",
   "rule": null,
   "source": "상용1 p.033",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "五十（ごじゅう）",
+   "五月（ごがつ）"
+  ],
+  "examples_ko": [
+   "오십",
+   "5월"
+  ],
+  "sentence": {
+   "ja": "五時に起きます。",
+   "ko": "다섯 시에 일어납니다."
+  },
   "on_hangul": "고"
  },
  {
@@ -13273,9 +13534,18 @@
   "meaning": "낮",
   "rule": null,
   "source": "상용1 p.283",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "午前（ごぜん）",
+   "午後（ごご）"
+  ],
+  "examples_ko": [
+   "오전",
+   "오후"
+  ],
+  "sentence": {
+   "ja": "午後に会いましょう。",
+   "ko": "오후에 만납시다."
+  },
   "on_hangul": "고"
  },
  {
@@ -13348,9 +13618,18 @@
   "meaning": "말씀",
   "rule": null,
   "source": "상용1 p.216",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "日本語（にほんご）",
+   "言語（げんご）"
+  ],
+  "examples_ko": [
+   "일본어",
+   "언어"
+  ],
+  "sentence": {
+   "ja": "日本語を話します。",
+   "ko": "일본어를 합니다."
+  },
   "on_hangul": "고"
  },
  {
@@ -13438,9 +13717,18 @@
   "meaning": "합할",
   "rule": null,
   "source": "상용1 p.375",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "合計（ごうけい）",
+   "場合（ばあい）"
+  ],
+  "examples_ko": [
+   "합계",
+   "경우"
+  ],
+  "sentence": {
+   "ja": "合計を出します。",
+   "ko": "합계를 냅니다."
+  },
   "on_hangul": "고우"
  },
  {
