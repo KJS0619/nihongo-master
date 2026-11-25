@@ -35277,9 +35277,18 @@
   "meaning": "풍속",
   "rule": null,
   "source": "상용2 p.131",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "風俗（ふうぞく）",
+   "俗語（ぞくご）"
+  ],
+  "examples_ko": [
+   "풍속",
+   "속어"
+  ],
+  "sentence": {
+   "ja": "地域の風俗を調べます。",
+   "ko": "지역의 풍속을 조사합니다."
+  }
  },
  {
   "row": "は行",
@@ -35305,9 +35314,18 @@
   "meaning": "간사할",
   "rule": null,
   "source": "상용2 p.158",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "邪魔（じゃま）",
+   "邪気（じゃき）"
+  ],
+  "examples_ko": [
+   "방해",
+   "사기"
+  ],
+  "sentence": {
+   "ja": "邪魔をしないでください。",
+   "ko": "방해하지 마세요."
+  }
  },
  {
   "row": "さ行",
@@ -35319,9 +35337,18 @@
   "meaning": "수정",
   "rule": null,
   "source": "상용2 p.195",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "結晶（けっしょう）",
+   "水晶（すいしょう）"
+  ],
+  "examples_ko": [
+   "결정",
+   "수정"
+  ],
+  "sentence": {
+   "ja": "雪の結晶を観察します。",
+   "ko": "눈의 결정을 관찰합니다."
+  }
  },
  {
   "row": "は行",
@@ -35412,9 +35439,18 @@
   "meaning": "아이밸",
   "rule": null,
   "source": "상용2 p.046",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "妊娠（にんしん）",
+   "出産（しゅっさん）"
+  ],
+  "examples_ko": [
+   "임신",
+   "출산"
+  ],
+  "sentence": {
+   "ja": "妊娠の知識を学びます。",
+   "ko": "임신에 관한 지식을 배웁니다."
+  }
  },
  {
   "row": "は行",
@@ -35482,9 +35518,18 @@
   "meaning": "취할",
   "rule": null,
   "source": "상용2 p.472",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "酔い（よい）",
+   "麻酔（ますい）"
+  ],
+  "examples_ko": [
+   "취기",
+   "마취"
+  ],
+  "sentence": {
+   "ja": "酔いが醒めました。",
+   "ko": "취기가 가셨습니다."
+  }
  },
  {
   "row": "さ行",
@@ -35496,9 +35541,18 @@
   "meaning": "아낄",
   "rule": null,
   "source": "상용2 p.052",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "惜しい（おしい）",
+   "惜別（せきべつ）"
+  ],
+  "examples_ko": [
+   "아깝다",
+   "석별"
+  ],
+  "sentence": {
+   "ja": "惜しい結果でした。",
+   "ko": "아쉬운 결과였습니다."
+  }
  },
  {
   "row": "か行",
@@ -35556,9 +35610,18 @@
   "meaning": "윤택할",
   "rule": null,
   "source": "상용2 p.424",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "潤い（うるおい）",
+   "利潤（りじゅん）"
+  ],
+  "examples_ko": [
+   "윤기",
+   "이윤"
+  ],
+  "sentence": {
+   "ja": "喉を潤します。",
+   "ko": "목을 축입니다."
+  }
  },
  {
   "row": "た行",
@@ -35635,9 +35698,18 @@
   "meaning": "뽕나무",
   "rule": null,
   "source": "상용2 p.148",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "桑畑（くわばたけ）",
+   "桑の葉（くわのは）"
+  ],
+  "examples_ko": [
+   "뽕밭",
+   "뽕잎"
+  ],
+  "sentence": {
+   "ja": "桑の葉を蚕に与えます。",
+   "ko": "뽕잎을 누에에게 줍니다."
+  }
  },
  {
   "row": "さ行",
@@ -35649,9 +35721,18 @@
   "meaning": "골수",
   "rule": null,
   "source": "상용2 p.475",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "神髄（しんずい）",
+   "脊髄（せきずい）"
+  ],
+  "examples_ko": [
+   "신수",
+   "척수"
+  ],
+  "sentence": {
+   "ja": "脊髄の仕組みを学びます。",
+   "ko": "척수의 구조를 배웁니다."
+  }
  },
  {
   "row": "は行",
@@ -35677,9 +35758,18 @@
   "meaning": "이삭",
   "rule": null,
   "source": "상용2 p.394",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "稲穂（いなほ）",
+   "穂先（ほさき）"
+  ],
+  "examples_ko": [
+   "벼 이삭",
+   "이삭 끝"
+  ],
+  "sentence": {
+   "ja": "稲穂が実っています。",
+   "ko": "벼 이삭이 여물었습니다."
+  }
  },
  {
   "row": "さ行",
@@ -35691,9 +35781,18 @@
   "meaning": "씩씩할",
   "rule": null,
   "source": "상용1 p.329",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "壮大（そうだい）",
+   "健壮（けんそう）"
+  ],
+  "examples_ko": [
+   "웅장함",
+   "건장함"
+  ],
+  "sentence": {
+   "ja": "壮大な景色です。",
+   "ko": "웅장한 경치입니다."
+  }
  },
  {
   "row": "た行",
@@ -35928,9 +36027,18 @@
   "meaning": "쇠북",
   "rule": null,
   "source": "상용2 p.098",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "鐘（かね）",
+   "警鐘（けいしょう）"
+  ],
+  "examples_ko": [
+   "종",
+   "경종"
+  ],
+  "sentence": {
+   "ja": "鐘が鳴ります。",
+   "ko": "종이 울립니다."
+  }
  },
  {
   "row": "か行",
@@ -36025,9 +36133,18 @@
   "meaning": "거칠",
   "rule": null,
   "source": "상용2 p.462",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "粗末（そまつ）",
+   "粗雑（そざつ）"
+  ],
+  "examples_ko": [
+   "조잡함",
+   "조잡"
+  ],
+  "sentence": {
+   "ja": "粗末な道具です。",
+   "ko": "조잡한 도구입니다."
+  }
  },
  {
   "row": "た行",
@@ -36076,9 +36193,18 @@
   "meaning": "우산",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "傘（かさ）",
+   "日傘（ひがさ）"
+  ],
+  "examples_ko": [
+   "우산",
+   "양산"
+  ],
+  "sentence": {
+   "ja": "傘を広げます。",
+   "ko": "우산을 펼칩니다."
+  }
  },
  {
   "row": "か行",
@@ -36113,9 +36239,18 @@
   "meaning": "좇을",
   "rule": null,
   "source": "상용2 p.323",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "循環（じゅんかん）",
+   "循序（じゅんじょ）"
+  ],
+  "examples_ko": [
+   "순환",
+   "순서"
+  ],
+  "sentence": {
+   "ja": "水が循環します。",
+   "ko": "물이 순환합니다."
+  }
  },
  {
   "row": "た行",
@@ -36141,9 +36276,18 @@
   "meaning": "같을",
   "rule": null,
   "source": "상용2 p.507",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "如何（いかが）",
+   "欠如（けつじょ）"
+  ],
+  "examples_ko": [
+   "어떻게",
+   "결여"
+  ],
+  "sentence": {
+   "ja": "如何ですか。",
+   "ko": "어떠세요?"
+  }
  },
  {
   "row": "ら行",
@@ -36192,9 +36336,18 @@
   "meaning": "구슬",
   "rule": null,
   "source": "상용2 p.136",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "数珠（じゅず）",
+   "真珠（しんじゅ）"
+  ],
+  "examples_ko": [
+   "염주",
+   "진주"
+  ],
+  "sentence": {
+   "ja": "真珠のネックレスです。",
+   "ko": "진주 목걸이입니다."
+  }
  },
  {
   "row": "か行",
@@ -36243,9 +36396,18 @@
   "meaning": "짐승",
   "rule": null,
   "source": "상용2 p.146",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "野獣（やじゅう）",
+   "獣道（けものみち）"
+  ],
+  "examples_ko": [
+   "야수",
+   "짐승이 다니는 길"
+  ],
+  "sentence": {
+   "ja": "動物園で獣を見ます。",
+   "ko": "동물원에서 짐승을 봅니다."
+  }
  },
  {
   "row": "た行",
@@ -36271,9 +36433,18 @@
   "meaning": "장인",
   "rule": null,
   "source": "상용2 p.285",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "匠（たくみ）",
+   "名匠（めいしょう）"
+  ],
+  "examples_ko": [
+   "장인",
+   "명장"
+  ],
+  "sentence": {
+   "ja": "名匠の作品です。",
+   "ko": "명장의 작품입니다."
+  }
  },
  {
   "row": "さ行",
@@ -36285,9 +36456,18 @@
   "meaning": "뱀",
   "rule": null,
   "source": "상용2 p.171",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "蛇口（じゃぐち）",
+   "蛇（へび）"
+  ],
+  "examples_ko": [
+   "수도꼭지",
+   "뱀"
+  ],
+  "sentence": {
+   "ja": "蛇口をひねります。",
+   "ko": "수도꼭지를 틉니다."
+  }
  },
  {
   "row": "た行",
@@ -36327,9 +36507,18 @@
   "meaning": "중",
   "rule": null,
   "source": "상용2 p.107",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "僧侶（そうりょ）",
+   "高僧（こうそう）"
+  ],
+  "examples_ko": [
+   "승려",
+   "고승"
+  ],
+  "sentence": {
+   "ja": "僧侶が話します。",
+   "ko": "승려가 이야기합니다."
+  }
  },
  {
   "row": "た行",
@@ -36484,9 +36673,18 @@
   "meaning": "잘",
   "rule": null,
   "source": "상용2 p.067",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "睡眠（すいみん）",
+   "昏睡（こんすい）"
+  ],
+  "examples_ko": [
+   "수면",
+   "혼수"
+  ],
+  "sentence": {
+   "ja": "睡眠を十分にとります。",
+   "ko": "수면을 충분히 취합니다."
+  }
  },
  {
   "row": "さ行",
@@ -36498,9 +36696,18 @@
   "meaning": "섞일",
   "rule": null,
   "source": "상용2 p.053",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "錯覚（さっかく）",
+   "交錯（こうさく）"
+  ],
+  "examples_ko": [
+   "착각",
+   "교착"
+  ],
+  "sentence": {
+   "ja": "錯覚を起こしました。",
+   "ko": "착각을 했습니다."
+  }
  },
  {
   "row": "は行",
@@ -36526,9 +36733,18 @@
   "meaning": "감나무",
   "rule": null,
   "source": "상용2 p.371",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "柿（かき）",
+   "干し柿（ほしがき）"
+  ],
+  "examples_ko": [
+   "감",
+   "곶감"
+  ],
+  "sentence": {
+   "ja": "柿を食べます。",
+   "ko": "감을 먹습니다."
+  }
  },
  {
   "row": "ら行",
@@ -36642,9 +36858,18 @@
   "meaning": "콩팥",
   "rule": null,
   "source": "상용2 p.455",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "腎臓（じんぞう）",
+   "腎盂（じんう）"
+  ],
+  "examples_ko": [
+   "신장",
+   "신우"
+  ],
+  "sentence": {
+   "ja": "腎臓の検査を受けます。",
+   "ko": "신장 검사를 받습니다."
+  }
  },
  {
   "row": "か行",
@@ -36679,9 +36904,18 @@
   "meaning": "손바닥",
   "rule": null,
   "source": "상용2 p.511",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "掌握（しょうあく）",
+   "車掌（しゃしょう）"
+  ],
+  "examples_ko": [
+   "장악",
+   "차장"
+  ],
+  "sentence": {
+   "ja": "状況を掌握します。",
+   "ko": "상황을 장악합니다."
+  }
  },
  {
   "row": "ら行",
@@ -36707,9 +36941,18 @@
   "meaning": "냄새",
   "rule": null,
   "source": "상용2 p.185",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "悪臭（あくしゅう）",
+   "臭い（くさい）"
+  ],
+  "examples_ko": [
+   "악취",
+   "냄새나다"
+  ],
+  "sentence": {
+   "ja": "臭いを消します。",
+   "ko": "냄새를 없앱니다."
+  }
  },
  {
   "row": "は行",
@@ -36735,9 +36978,18 @@
   "meaning": "칼날",
   "rule": "인 → イン(인)",
   "source": "상용1 p.272",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "刃物（はもの）",
+   "刃先（はさき）"
+  ],
+  "examples_ko": [
+   "칼붙이",
+   "칼끝"
+  ],
+  "sentence": {
+   "ja": "刃物を研ぎます。",
+   "ko": "칼을 갑니다."
+  }
  },
  {
   "row": "は行",
@@ -36786,9 +37038,18 @@
   "meaning": "순수할",
   "rule": null,
   "source": "상용2 p.472",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "粋（いき）",
+   "抜粋（ばっすい）"
+  ],
+  "examples_ko": [
+   "세련됨",
+   "발췌"
+  ],
+  "sentence": {
+   "ja": "粋な服装です。",
+   "ko": "세련된 옷차림입니다."
+  }
  },
  {
   "row": "さ行",
@@ -36800,9 +37061,18 @@
   "meaning": "욕될",
   "rule": null,
   "source": "상용2 p.441",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "屈辱（くつじょく）",
+   "恥辱（ちじょく）"
+  ],
+  "examples_ko": [
+   "굴욕",
+   "치욕"
+  ],
+  "sentence": {
+   "ja": "屈辱に耐えます。",
+   "ko": "굴욕을 참습니다."
+  }
  },
  {
   "row": "あ行",
@@ -36874,9 +37144,18 @@
   "meaning": "불때",
   "rule": null,
   "source": "상용2 p.277",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "炊飯（すいはん）",
+   "炊事（すいじ）"
+  ],
+  "examples_ko": [
+   "취사",
+   "취사"
+  ],
+  "sentence": {
+   "ja": "ご飯を炊きます。",
+   "ko": "밥을 짓습니다."
+  }
  },
  {
   "row": "か行",
@@ -36911,9 +37190,18 @@
   "meaning": "섭취할",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "摂取（せっしゅ）",
+   "摂理（せつり）"
+  ],
+  "examples_ko": [
+   "섭취",
+   "섭리"
+  ],
+  "sentence": {
+   "ja": "栄養を摂取します。",
+   "ko": "영양을 섭취합니다."
+  }
  },
  {
   "row": "は行",
@@ -36939,9 +37227,18 @@
   "meaning": "남을",
   "rule": null,
   "source": "상용2 p.353",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "冗談（じょうだん）",
+   "冗長（じょうちょう）"
+  ],
+  "examples_ko": [
+   "농담",
+   "장황함"
+  ],
+  "sentence": {
+   "ja": "冗談を言います。",
+   "ko": "농담을 합니다."
+  }
  },
  {
   "row": "た行",
@@ -36967,9 +37264,18 @@
   "meaning": "사냥할",
   "rule": null,
   "source": "상용2 p.238",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "狩猟（しゅりょう）",
+   "紅葉狩り（もみじがり）"
+  ],
+  "examples_ko": [
+   "수렵",
+   "단풍놀이"
+  ],
+  "sentence": {
+   "ja": "紅葉狩りに行きます。",
+   "ko": "단풍놀이를 갑니다."
+  }
  },
  {
   "row": "さ行",
@@ -36981,9 +37287,18 @@
   "meaning": "붉을",
   "rule": null,
   "source": "상용1 p.040",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "朱色（しゅいろ）",
+   "朱印（しゅいん）"
+  ],
+  "examples_ko": [
+   "주홍색",
+   "주인"
+  ],
+  "sentence": {
+   "ja": "朱色の鳥居です。",
+   "ko": "주홍색 도리이입니다."
+  }
  },
  {
   "row": "か行",
@@ -37018,9 +37333,18 @@
   "meaning": "큰띠",
   "rule": null,
   "source": "상용2 p.198",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "紳士（しんし）",
+   "紳士服（しんしふく）"
+  ],
+  "examples_ko": [
+   "신사",
+   "신사복"
+  ],
+  "sentence": {
+   "ja": "紳士的な態度です。",
+   "ko": "신사적인 태도입니다."
+  }
  },
  {
   "row": "さ行",
