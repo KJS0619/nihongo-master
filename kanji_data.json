@@ -32270,9 +32270,18 @@
   "meaning": "거둘",
   "rule": null,
   "source": "상용2 p.156",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "収穫（しゅうかく）",
+   "漁獲（ぎょかく）"
+  ],
+  "examples_ko": [
+   "수확",
+   "어획"
+  ],
+  "sentence": {
+   "ja": "米の収穫が終わりました。",
+   "ko": "쌀 수확이 끝났습니다."
+  }
  },
  {
   "row": "か行",
@@ -32284,9 +32293,18 @@
   "meaning": "아름다울",
   "rule": "가 → カ(카)",
   "source": "상용2 p.110",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "佳作（かさく）",
+   "佳人（かじん）"
+  ],
+  "examples_ko": [
+   "가작",
+   "가인"
+  ],
+  "sentence": {
+   "ja": "佳作に選ばれました。",
+   "ko": "가작에 뽑혔습니다."
+  }
  },
  {
   "row": "さ行",
@@ -32340,9 +32358,18 @@
   "meaning": "해당할",
   "rule": null,
   "source": "상용2 p.265",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "該当（がいとう）",
+   "当該（とうがい）"
+  ],
+  "examples_ko": [
+   "해당",
+   "해당"
+  ],
+  "sentence": {
+   "ja": "該当者はいません。",
+   "ko": "해당자는 없습니다."
+  }
  },
  {
   "row": "は行",
@@ -32452,9 +32479,18 @@
   "meaning": "주릴",
   "rule": "기 → キ(키)",
   "source": "상용2 p.341",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "飢饉（ききん）",
+   "飢え（うえ）"
+  ],
+  "examples_ko": [
+   "기근",
+   "굶주림"
+  ],
+  "sentence": {
+   "ja": "飢えをしのぎます。",
+   "ko": "굶주림을 견딥니다."
+  }
  },
  {
   "row": "は行",
@@ -32559,9 +32595,18 @@
   "meaning": "성곽",
   "rule": null,
   "source": "상용2 p.502",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "城郭（じょうかく）",
+   "外郭（がいかく）"
+  ],
+  "examples_ko": [
+   "성곽",
+   "외곽"
+  ],
+  "sentence": {
+   "ja": "城郭を見学します。",
+   "ko": "성곽을 견학합니다."
+  }
  },
  {
   "row": "な行",
@@ -32657,9 +32702,18 @@
   "meaning": "유감",
   "rule": "감 → カン(칸)",
   "source": "상용2 p.302",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "遺憾（いかん）",
+   "憾み（うらみ）"
+  ],
+  "examples_ko": [
+   "유감",
+   "유감"
+  ],
+  "sentence": {
+   "ja": "遺憾に思います。",
+   "ko": "유감스럽게 생각합니다."
+  }
  },
  {
   "row": "か行",
@@ -32671,9 +32725,18 @@
   "meaning": "기내",
   "rule": "기 → キ(키)",
   "source": "상용2 p.359",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "近畿（きんき）",
+   "京畿（けいき）"
+  ],
+  "examples_ko": [
+   "긴키",
+   "경기"
+  ],
+  "sentence": {
+   "ja": "近畿地方を旅します。",
+   "ko": "긴키 지방을 여행합니다."
+  }
  },
  {
   "row": "ま行",
@@ -32699,9 +32762,18 @@
   "meaning": "맏",
   "rule": null,
   "source": "상용2 p.033",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "昆虫（こんちゅう）",
+   "昆布（こんぶ）"
+  ],
+  "examples_ko": [
+   "곤충",
+   "다시마"
+  ],
+  "sentence": {
+   "ja": "昆虫の観察をします。",
+   "ko": "곤충을 관찰합니다."
+  }
  },
  {
   "row": "さ行",
@@ -32741,9 +32813,18 @@
   "meaning": "궁둥이",
   "rule": null,
   "source": "상용2 p.243",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "尻尾（しっぽ）",
+   "尻込み（しりごみ）"
+  ],
+  "examples_ko": [
+   "꼬리",
+   "주저"
+  ],
+  "sentence": {
+   "ja": "猫の尻尾です。",
+   "ko": "고양이 꼬리입니다."
+  }
  },
  {
   "row": "さ行",
@@ -32769,9 +32850,18 @@
   "meaning": "탈",
   "rule": "기 → キ(키)",
   "source": "상용2 p.378",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "騎手（きしゅ）",
+   "騎士（きし）"
+  ],
+  "examples_ko": [
+   "기수",
+   "기사"
+  ],
+  "sentence": {
+   "ja": "騎手が馬に乗ります。",
+   "ko": "기수가 말에 탑니다."
+  }
  },
  {
   "row": "さ行",
@@ -32876,9 +32966,18 @@
   "meaning": "엉길",
   "rule": null,
   "source": "상용2 p.545",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "凝視（ぎょうし）",
+   "凝固（ぎょうこ）"
+  ],
+  "examples_ko": [
+   "응시",
+   "응고"
+  ],
+  "sentence": {
+   "ja": "一点を凝視します。",
+   "ko": "한 점을 응시합니다."
+  }
  },
  {
   "row": "は行",
@@ -33016,9 +33115,18 @@
   "meaning": "오나라",
   "rule": null,
   "source": "상용1 p.218",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "呉服（ごふく）",
+   "呉越（ごえつ）"
+  ],
+  "examples_ko": [
+   "옷감",
+   "오월"
+  ],
+  "sentence": {
+   "ja": "呉服店に行きます。",
+   "ko": "옷감 가게에 갑니다."
+  }
  },
  {
   "row": "は行",
@@ -33044,9 +33152,18 @@
   "meaning": "쉴",
   "rule": null,
   "source": "상용2 p.189",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "憩いの場（いこいのば）",
+   "小憩（しょうけい）"
+  ],
+  "examples_ko": [
+   "쉼터",
+   "잠깐 쉼"
+  ],
+  "sentence": {
+   "ja": "公園で憩います。",
+   "ko": "공원에서 쉽니다."
+  }
  },
  {
   "row": "か行",
@@ -33058,9 +33175,18 @@
   "meaning": "도랑",
   "rule": null,
   "source": "상용1 p.363 / 상용2 p.385",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "溝渠（こうきょ）",
+   "下水溝（げすいこう）"
+  ],
+  "examples_ko": [
+   "도랑",
+   "하수도"
+  ],
+  "sentence": {
+   "ja": "溝に水が流れます。",
+   "ko": "도랑에 물이 흐릅니다."
+  }
  },
  {
   "row": "か行",
@@ -33072,9 +33198,18 @@
   "meaning": "공손할",
   "rule": null,
   "source": "상용2 p.051",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "恭順（きょうじゅん）",
+   "恭賀（きょうが）"
+  ],
+  "examples_ko": [
+   "공순",
+   "삼가 축하함"
+  ],
+  "sentence": {
+   "ja": "恭しく頭を下げます。",
+   "ko": "공손히 고개를 숙입니다."
+  }
  },
  {
   "row": "か行",
@@ -33086,9 +33221,18 @@
   "meaning": "벨",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "刈り取り（かりとり）",
+   "草刈り（くさかり）"
+  ],
+  "examples_ko": [
+   "수확",
+   "풀베기"
+  ],
+  "sentence": {
+   "ja": "草刈りをします。",
+   "ko": "풀을 벱니다."
+  }
  },
  {
   "row": "さ行",
@@ -33170,9 +33314,18 @@
   "meaning": "넋",
   "rule": null,
   "source": "상용2 p.106",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "魂（たましい）",
+   "精魂（せいこん）"
+  ],
+  "examples_ko": [
+   "혼",
+   "정혼"
+  ],
+  "sentence": {
+   "ja": "心を込めた作品です。",
+   "ko": "마음을 담은 작품입니다."
+  }
  },
  {
   "row": "は行",
@@ -33226,9 +33379,18 @@
   "meaning": "굶주릴",
   "rule": null,
   "source": "상용2 p.150",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "饑餓（きが）",
+   "餓えた（うえた）"
+  ],
+  "examples_ko": [
+   "기아",
+   "굶주린"
+  ],
+  "sentence": {
+   "ja": "餓えた猫がいます。",
+   "ko": "굶주린 고양이가 있습니다."
+  }
  },
  {
   "row": "さ行",
@@ -33254,9 +33416,18 @@
   "meaning": "다할",
   "rule": null,
   "source": "상용2 p.308",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "窮屈（きゅうくつ）",
+   "困窮（こんきゅう）"
+  ],
+  "examples_ko": [
+   "답답함",
+   "곤궁"
+  ],
+  "sentence": {
+   "ja": "窮屈な服です。",
+   "ko": "답답한 옷입니다."
+  }
  },
  {
   "row": "さ行",
@@ -33352,9 +33523,18 @@
   "meaning": "마땅",
   "rule": null,
   "source": "상용2 p.338",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "適宜（てきぎ）",
+   "便宜（べんぎ）"
+  ],
+  "examples_ko": [
+   "적당히",
+   "편의"
+  ],
+  "sentence": {
+   "ja": "適宜ご利用ください。",
+   "ko": "적당히 이용해 주세요."
+  }
  },
  {
   "row": "さ行",
@@ -33417,9 +33597,18 @@
   "meaning": "줄",
   "rule": null,
   "source": "상용2 p.362",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "弦楽器（げんがっき）",
+   "弦（つる）"
+  ],
+  "examples_ko": [
+   "현악기",
+   "활시위"
+  ],
+  "sentence": {
+   "ja": "弦楽器を演奏します。",
+   "ko": "현악기를 연주합니다."
+  }
  },
  {
   "row": "た行",
@@ -33459,9 +33648,18 @@
   "meaning": "큰물",
   "rule": null,
   "source": "상용2 p.050",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "洪水（こうずい）",
+   "洪積（こうせき）"
+  ],
+  "examples_ko": [
+   "홍수",
+   "홍적"
+  ],
+  "sentence": {
+   "ja": "洪水の被害がありました。",
+   "ko": "홍수 피해가 있었습니다."
+  }
  },
  {
   "row": "さ行",
@@ -33557,9 +33755,18 @@
   "meaning": "소용돌이",
   "rule": null,
   "source": "상용2 p.155",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "渦巻き（うずまき）",
+   "渦中（かちゅう）"
+  ],
+  "examples_ko": [
+   "소용돌이",
+   "와중"
+  ],
+  "sentence": {
+   "ja": "水の渦を見ます。",
+   "ko": "물 소용돌이를 봅니다."
+  }
  },
  {
   "row": "さ行",
@@ -33627,9 +33834,18 @@
   "meaning": "북",
   "rule": null,
   "source": "상용2 p.089",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "太鼓（たいこ）",
+   "鼓動（こどう）"
+  ],
+  "examples_ko": [
+   "북",
+   "고동"
+  ],
+  "sentence": {
+   "ja": "太鼓を叩きます。",
+   "ko": "북을 칩니다."
+  }
  },
  {
   "row": "ら行",
@@ -33669,9 +33885,18 @@
   "meaning": "덩어리",
   "rule": null,
   "source": "상용2 p.105",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "金塊（きんかい）",
+   "塊（かたまり）"
+  ],
+  "examples_ko": [
+   "금괴",
+   "덩어리"
+  ],
+  "sentence": {
+   "ja": "雪の塊です。",
+   "ko": "눈덩이입니다."
+  }
  },
  {
   "row": "さ行",
@@ -33725,9 +33950,18 @@
   "meaning": "겨드랑이",
   "rule": null,
   "source": "상용2 p.276",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "脇役（わきやく）",
+   "脇道（わきみち）"
+  ],
+  "examples_ko": [
+   "조연",
+   "샛길"
+  ],
+  "sentence": {
+   "ja": "脇役を演じます。",
+   "ko": "조연을 연기합니다."
+  }
  },
  {
   "row": "さ行",
@@ -33753,9 +33987,18 @@
   "meaning": "솥",
   "rule": null,
   "source": "상용2 p.263",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "鍋料理（なべりょうり）",
+   "土鍋（どなべ）"
+  ],
+  "examples_ko": [
+   "전골 요리",
+   "뚝배기"
+  ],
+  "sentence": {
+   "ja": "鍋料理を食べます。",
+   "ko": "전골 요리를 먹습니다."
+  }
  },
  {
   "row": "さ行",
@@ -33809,9 +34052,18 @@
   "meaning": "바로잡을",
   "rule": null,
   "source": "상용2 p.069",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "糾明（きゅうめい）",
+   "紛糾（ふんきゅう）"
+  ],
+  "examples_ko": [
+   "규명",
+   "분규"
+  ],
+  "sentence": {
+   "ja": "原因を糾明します。",
+   "ko": "원인을 규명합니다."
+  }
  },
  {
   "row": "は行",
@@ -33851,9 +34103,18 @@
   "meaning": "황망할",
   "rule": null,
   "source": "상용2 p.436",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "慌ただしい（あわただしい）",
+   "恐慌（きょうこう）"
+  ],
+  "examples_ko": [
+   "어수선하다",
+   "공황"
+  ],
+  "sentence": {
+   "ja": "慌ただしい一日でした。",
+   "ko": "어수선한 하루였습니다."
+  }
  },
  {
   "row": "か行",
@@ -33865,9 +34126,18 @@
   "meaning": "즐길",
   "rule": null,
   "source": "상용2 p.087",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "娯楽（ごらく）",
+   "娯楽施設（ごらくしせつ）"
+  ],
+  "examples_ko": [
+   "오락",
+   "오락 시설"
+  ],
+  "sentence": {
+   "ja": "娯楽を楽しみます。",
+   "ko": "오락을 즐깁니다."
+  }
  },
  {
   "row": "ら行",
@@ -33907,9 +34177,18 @@
   "meaning": "골짜기",
   "rule": null,
   "source": "상용2 p.490",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "海峡（かいきょう）",
+   "峡谷（きょうこく）"
+  ],
+  "examples_ko": [
+   "해협",
+   "협곡"
+  ],
+  "sentence": {
+   "ja": "海峡を渡ります。",
+   "ko": "해협을 건넙니다."
+  }
  },
  {
   "row": "は行",
@@ -34033,9 +34312,18 @@
   "meaning": "저울",
   "rule": null,
   "source": "상용2 p.532",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "均衡（きんこう）",
+   "平衡（へいこう）"
+  ],
+  "examples_ko": [
+   "균형",
+   "평형"
+  ],
+  "sentence": {
+   "ja": "均衡が取れています。",
+   "ko": "균형이 잡혀 있습니다."
+  }
  },
  {
   "row": "か行",
@@ -34047,9 +34335,18 @@
   "meaning": "향기",
   "rule": null,
   "source": "상용2 p.100",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "薫風（くんぷう）",
+   "薫陶（くんとう）"
+  ],
+  "examples_ko": [
+   "훈풍",
+   "훈도"
+  ],
+  "sentence": {
+   "ja": "薫風が吹きます。",
+   "ko": "훈풍이 붑니다."
+  }
  },
  {
   "row": "か行",
@@ -34061,9 +34358,18 @@
   "meaning": "기와",
   "rule": null,
   "source": "상용2 p.440",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "瓦（かわら）",
+   "瓦礫（がれき）"
+  ],
+  "examples_ko": [
+   "기와",
+   "잔해"
+  ],
+  "sentence": {
+   "ja": "瓦屋根の家です。",
+   "ko": "기와지붕 집입니다."
+  }
  },
  {
   "row": "ら行",
@@ -34089,9 +34395,18 @@
   "meaning": "정성",
   "rule": null,
   "source": "상용2 p.459",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "約款（やっかん）",
+   "定款（ていかん）"
+  ],
+  "examples_ko": [
+   "약관",
+   "정관"
+  ],
+  "sentence": {
+   "ja": "約款を読みます。",
+   "ko": "약관을 읽습니다."
+  }
  },
  {
   "row": "た行",
@@ -34117,9 +34432,18 @@
   "meaning": "감히",
   "rule": "감 → カン(칸)",
   "source": "상용1 p.294 / 상용2 p.215",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "勇敢（ゆうかん）",
+   "果敢（かかん）"
+  ],
+  "examples_ko": [
+   "용감",
+   "과감"
+  ],
+  "sentence": {
+   "ja": "勇敢に挑戦します。",
+   "ko": "용감하게 도전합니다."
+  }
  },
  {
   "row": "か行",
