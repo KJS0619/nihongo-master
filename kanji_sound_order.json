@@ -3577,9 +3577,18 @@
   "meaning": "가혹할",
   "rule": "가 → カ(카)",
   "source": "상용2 p.328",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "苛立つ（いらだつ）",
+   "苛酷（かこく）"
+  ],
+  "examples_ko": [
+   "짜증나다",
+   "가혹"
+  ],
+  "sentence": {
+   "ja": "苛立ちを感じます。",
+   "ko": "짜증을 느낍니다."
+  },
   "on_hangul": "카"
  },
  {
@@ -4168,9 +4177,18 @@
   "meaning": "해서",
   "rule": null,
   "source": "상용2 p.469",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "楷書（かいしょ）",
+   "楷模（かいも）"
+  ],
+  "examples_ko": [
+   "해서",
+   "모범"
+  ],
+  "sentence": {
+   "ja": "楷書で書きます。",
+   "ko": "해서체로 씁니다."
+  },
   "on_hangul": "카이"
  },
  {
@@ -4207,9 +4225,18 @@
   "meaning": "무너질",
   "rule": null,
   "source": "상용2 p.167",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "潰れる（つぶれる）",
+   "潰す（つぶす）"
+  ],
+  "examples_ko": [
+   "찌그러지다",
+   "으깨다"
+  ],
+  "sentence": {
+   "ja": "果物を潰します。",
+   "ko": "과일을 으깹니다."
+  },
   "on_hangul": "카이"
  },
  {
@@ -4342,9 +4369,18 @@
   "meaning": "화할",
   "rule": null,
   "source": "상용2 p.469",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "俳諧（はいかい）",
+   "諧謔（かいぎゃく）"
+  ],
+  "examples_ko": [
+   "하이카이",
+   "해학"
+  ],
+  "sentence": {
+   "ja": "俳諧を読みます。",
+   "ko": "하이카이를 읽습니다."
+  },
   "on_hangul": "카이"
  },
  {
@@ -4429,9 +4465,18 @@
   "meaning": "놀랠",
   "rule": null,
   "source": "상용2 p.121",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "威嚇（いかく）",
+   "威嚇的（いかくてき）"
+  ],
+  "examples_ko": [
+   "위협",
+   "위협적"
+  ],
+  "sentence": {
+   "ja": "威嚇的な態度を避けます。",
+   "ko": "위협적인 태도를 피합니다."
+  },
   "on_hangul": "카쿠"
  },
  {
@@ -4516,9 +4561,18 @@
   "meaning": "껍질",
   "rule": null,
   "source": "상용2 p.320",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "地殻（ちかく）",
+   "貝殻（かいがら）"
+  ],
+  "examples_ko": [
+   "지각",
+   "조개껍데기"
+  ],
+  "sentence": {
+   "ja": "貝殻を拾います。",
+   "ko": "조개껍데기를 줍습니다."
+  },
   "on_hangul": "카쿠"
  },
  {
@@ -4891,9 +4945,18 @@
   "meaning": "목마를",
   "rule": null,
   "source": "상용2 p.220",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "渇水（かっすい）",
+   "渇望（かつぼう）"
+  ],
+  "examples_ko": [
+   "갈수",
+   "갈망"
+  ],
+  "sentence": {
+   "ja": "渇いた喉を潤します。",
+   "ko": "마른 목을 적십니다."
+  },
   "on_hangul": "카츠"
  },
  {
@@ -4954,9 +5017,18 @@
   "meaning": "갈색",
   "rule": null,
   "source": "상용2 p.220",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "褐色（かっしょく）",
+   "褐炭（かったん）"
+  ],
+  "examples_ko": [
+   "갈색",
+   "갈탄"
+  ],
+  "sentence": {
+   "ja": "褐色の瓶です。",
+   "ko": "갈색 병입니다."
+  },
   "on_hangul": "카츠"
  },
  {
@@ -4993,9 +5065,18 @@
   "meaning": "꿰미",
   "rule": null,
   "source": "상용2 p.490",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "串（くし）",
+   "串焼き（くしやき）"
+  ],
+  "examples_ko": [
+   "꼬챙이",
+   "꼬치구이"
+  ],
+  "sentence": {
+   "ja": "串焼きを食べます。",
+   "ko": "꼬치구이를 먹습니다."
+  },
   "on_hangul": "카응"
  },
  {
@@ -5152,9 +5233,18 @@
   "meaning": "견딜",
   "rule": "감 → カン(칸)",
   "source": "상용2 p.485",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "堪能（たんのう）",
+   "堪忍（かんにん）"
+  ],
+  "examples_ko": [
+   "만족",
+   "참음"
+  ],
+  "sentence": {
+   "ja": "旅行を堪能しました。",
+   "ko": "여행을 충분히 즐겼습니다."
+  },
   "on_hangul": "카응"
  },
  {
@@ -5479,9 +5569,18 @@
   "meaning": "관",
   "rule": null,
   "source": "상용2 p.313",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "石棺（せっかん）",
+   "棺（ひつぎ）"
+  ],
+  "examples_ko": [
+   "석관",
+   "관"
+  ],
+  "sentence": {
+   "ja": "石棺が発見されました。",
+   "ko": "석관이 발견되었습니다."
+  },
   "on_hangul": "카응"
  },
  {
@@ -5926,9 +6025,18 @@
   "meaning": "한가할",
   "rule": "한 → カン(칸)",
   "source": "상용2 p.334",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "閑静（かんせい）",
+   "閑散（かんさん）"
+  ],
+  "examples_ko": [
+   "한적함",
+   "한산"
+  ],
+  "sentence": {
+   "ja": "閑静な住宅街です。",
+   "ko": "한적한 주택가입니다."
+  },
   "on_hangul": "카응"
  },
  {
@@ -6085,9 +6193,18 @@
   "meaning": "어금니",
   "rule": null,
   "source": "상용1 p.052 / 상용2 p.535",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "象牙（ぞうげ）",
+   "牙（きば）"
+  ],
+  "examples_ko": [
+   "상아",
+   "이빨"
+  ],
+  "sentence": {
+   "ja": "象牙の細工です。",
+   "ko": "상아 공예품입니다."
+  },
   "on_hangul": "가"
  },
  {
@@ -6268,9 +6385,18 @@
   "meaning": "탄핵할",
   "rule": null,
   "source": "상용2 p.266",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "弾劾（だんがい）",
+   "弾劾裁判（だんがいさいばん）"
+  ],
+  "examples_ko": [
+   "탄핵",
+   "탄핵 재판"
+  ],
+  "sentence": {
+   "ja": "議会で弾劾が行われました。",
+   "ko": "의회에서 탄핵이 이루어졌습니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6331,9 +6457,18 @@
   "meaning": "낭떠러지",
   "rule": "애 → アイ(아이)",
   "source": "상용2 p.109",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "断崖（だんがい）",
+   "崖（がけ）"
+  ],
+  "examples_ko": [
+   "단애",
+   "절벽"
+  ],
+  "sentence": {
+   "ja": "崖の下を歩きます。",
+   "ko": "절벽 아래를 걷습니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6346,9 +6481,18 @@
   "meaning": "슬퍼할",
   "rule": "개 → カイ(카이)",
   "source": "상용2 p.535",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "感慨（かんがい）",
+   "憤慨（ふんがい）"
+  ],
+  "examples_ko": [
+   "감개",
+   "분개"
+  ],
+  "sentence": {
+   "ja": "感慨深い思いです。",
+   "ko": "감개무량한 마음입니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6409,9 +6553,18 @@
   "meaning": "덮을",
   "rule": "개 → カイ(카이)",
   "source": "상용2 p.516",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "天蓋（てんがい）",
+   "蓋（ふた）"
+  ],
+  "examples_ko": [
+   "천개",
+   "뚜껑"
+  ],
+  "sentence": {
+   "ja": "鍋の蓋を閉めます。",
+   "ko": "냄비 뚜껑을 닫습니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6472,9 +6625,18 @@
   "meaning": "뼈",
   "rule": null,
   "source": "상용2 p.265",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "遺骸（いがい）",
+   "形骸（けいがい）"
+  ],
+  "examples_ko": [
+   "유해",
+   "형해"
+  ],
+  "sentence": {
+   "ja": "遺骸を弔います。",
+   "ko": "유해를 애도합니다."
+  },
   "on_hangul": "가이"
  },
  {
@@ -6559,9 +6721,18 @@
   "meaning": "턱",
   "rule": null,
   "source": "상용2 p.202",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "顎（あご）",
+   "顎関節（がくかんせつ）"
+  ],
+  "examples_ko": [
+   "턱",
+   "턱관절"
+  ],
+  "sentence": {
+   "ja": "顎を上げます。",
+   "ko": "턱을 듭니다."
+  },
   "on_hangul": "가쿠"
  },
  {
@@ -6670,9 +6841,18 @@
   "meaning": "희롱할",
   "rule": null,
   "source": "상용2 p.233",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "玩具（がんぐ）",
+   "玩味（がんみ）"
+  ],
+  "examples_ko": [
+   "완구",
+   "완미"
+  ],
+  "sentence": {
+   "ja": "玩具で遊びます。",
+   "ko": "장난감으로 놉니다."
+  },
   "on_hangul": "가응"
  },
  {
@@ -7405,9 +7585,18 @@
   "meaning": "헐",
   "rule": null,
   "source": "상용2 p.320",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "毀損（きそん）",
+   "毀誉（きよ）"
+  ],
+  "examples_ko": [
+   "훼손",
+   "훼예"
+  ],
+  "sentence": {
+   "ja": "物を毀損してはいけません。",
+   "ko": "물건을 훼손해서는 안 됩니다."
+  },
   "on_hangul": "키"
  },
  {
@@ -8068,9 +8257,18 @@
   "meaning": "맡을",
   "rule": null,
   "source": "상용2 p.186",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "嗅覚（きゅうかく）",
+   "嗅ぎ分ける（かぎわける）"
+  ],
+  "examples_ko": [
+   "후각",
+   "냄새를 가려내다"
+  ],
+  "sentence": {
+   "ja": "嗅覚が鋭いです。",
+   "ko": "후각이 예민합니다."
+  },
   "on_hangul": "큐우"
  },
  {
@@ -8203,9 +8401,18 @@
   "meaning": "썩을",
   "rule": null,
   "source": "상용2 p.200",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "不朽（ふきゅう）",
+   "老朽（ろうきゅう）"
+  ],
+  "examples_ko": [
+   "불후",
+   "노후"
+  ],
+  "sentence": {
+   "ja": "老朽化した建物です。",
+   "ko": "노후화된 건물입니다."
+  },
   "on_hangul": "큐우"
  },
  {
@@ -8410,9 +8617,18 @@
   "meaning": "절구",
   "rule": null,
   "source": "상용1 p.337",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "石臼（いしうす）",
+   "臼（うす）"
+  ],
+  "examples_ko": [
+   "맷돌",
+   "절구"
+  ],
+  "sentence": {
+   "ja": "臼で餅をつきます。",
+   "ko": "절구로 떡을 칩니다."
+  },
   "on_hangul": "큐우"
  },
  {
@@ -8617,9 +8833,18 @@
   "meaning": "옷자락",
   "rule": null,
   "source": "상용2 p.245",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "裾野（すその）",
+   "裾（すそ）"
+  ],
+  "examples_ko": [
+   "산자락",
+   "옷자락"
+  ],
+  "sentence": {
+   "ja": "服の裾を直します。",
+   "ko": "옷자락을 고칩니다."
+  },
   "on_hangul": "쿄"
  },
  {
@@ -8680,9 +8905,18 @@
   "meaning": "누릴",
   "rule": null,
   "source": "상용1 p.453",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "享受（きょうじゅ）",
+   "享年（きょうねん）"
+  ],
+  "examples_ko": [
+   "향수",
+   "향년"
+  ],
+  "sentence": {
+   "ja": "平和を享受します。",
+   "ko": "평화를 누립니다."
+  },
   "on_hangul": "쿄우"
  },
  {
@@ -9103,9 +9337,18 @@
   "meaning": "바로잡을",
   "rule": null,
   "source": "상용2 p.498",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "矯正（きょうせい）",
+   "矯正器具（きょうせいきぐ）"
+  ],
+  "examples_ko": [
+   "교정",
+   "교정기구"
+  ],
+  "sentence": {
+   "ja": "歯の矯正をします。",
+   "ko": "치아 교정을 합니다."
+  },
   "on_hangul": "쿄우"
  },
  {
@@ -9310,9 +9553,18 @@
   "meaning": "뺨",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "頰（ほお）",
+   "頰張る（ほおばる）"
+  ],
+  "examples_ko": [
+   "뺨",
+   "볼이 미어지게 먹다"
+  ],
+  "sentence": {
+   "ja": "頰を赤くします。",
+   "ko": "뺨을 붉힙니다."
+  },
   "on_hangul": "쿄우"
  },
  {
@@ -9421,9 +9673,18 @@
   "meaning": "겨우",
   "rule": null,
   "source": "상용2 p.113",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "僅差（きんさ）",
+   "僅かな（わずかな）"
+  ],
+  "examples_ko": [
+   "근소한 차이",
+   "약간의"
+  ],
+  "sentence": {
+   "ja": "僅差で勝ちました。",
+   "ko": "근소한 차이로 이겼습니다."
+  },
   "on_hangul": "키응"
  },
  {
@@ -9484,9 +9745,18 @@
   "meaning": "수건",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "巾着（きんちゃく）",
+   "布巾（ふきん）"
+  ],
+  "examples_ko": [
+   "주머니",
+   "행주"
+  ],
+  "sentence": {
+   "ja": "巾着に入れます。",
+   "ko": "주머니에 넣습니다."
+  },
   "on_hangul": "키응"
  },
  {
@@ -9499,9 +9769,18 @@
   "meaning": "도끼",
   "rule": null,
   "source": "상용1 p.063",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "斤量（きんりょう）",
+   "斤（きん）"
+  ],
+  "examples_ko": [
+   "중량",
+   "근"
+  ],
+  "sentence": {
+   "ja": "斤で量ります。",
+   "ko": "근 단위로 잽니다."
+  },
   "on_hangul": "키응"
  },
  {
@@ -9754,9 +10033,18 @@
   "meaning": "재주",
   "rule": "기 → キ(키)",
   "source": "상용2 p.213",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "歌舞伎（かぶき）",
+   "伎楽（ぎがく）"
+  ],
+  "examples_ko": [
+   "가부키",
+   "기악"
+  ],
+  "sentence": {
+   "ja": "歌舞伎を見ます。",
+   "ko": "가부키를 봅니다."
+  },
   "on_hangul": "기"
  },
  {
@@ -9841,9 +10129,18 @@
   "meaning": "희롱할",
   "rule": null,
   "source": "상용2 p.142",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "遊戯（ゆうぎ）",
+   "戯曲（ぎきょく）"
+  ],
+  "examples_ko": [
+   "유희",
+   "희곡"
+  ],
+  "sentence": {
+   "ja": "戯曲を読みます。",
+   "ko": "희곡을 읽습니다."
+  },
   "on_hangul": "기"
  },
  {
@@ -9880,9 +10177,18 @@
   "meaning": "비길",
   "rule": null,
   "source": "상용2 p.363",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "模擬（もぎ）",
+   "擬人化（ぎじんか）"
+  ],
+  "examples_ko": [
+   "모의",
+   "의인화"
+  ],
+  "sentence": {
+   "ja": "模擬試験を受けます。",
+   "ko": "모의시험을 봅니다."
+  },
   "on_hangul": "기"
  },
  {
@@ -10207,9 +10513,18 @@
   "meaning": "새벽",
   "rule": null,
   "source": "상용2 p.479",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "暁（あかつき）",
+   "暁光（ぎょうこう）"
+  ],
+  "examples_ko": [
+   "새벽",
+   "새벽빛"
+  ],
+  "sentence": {
+   "ja": "暁の空が明るくなります。",
+   "ko": "새벽 하늘이 밝아집니다."
+  },
   "on_hangul": "교우"
  },
  {
@@ -10270,9 +10585,18 @@
   "meaning": "읊을",
   "rule": null,
   "source": "상용2 p.412",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "吟味（ぎんみ）",
+   "吟遊詩人（ぎんゆうしじん）"
+  ],
+  "examples_ko": [
+   "음미",
+   "음유시인"
+  ],
+  "sentence": {
+   "ja": "材料を吟味します。",
+   "ko": "재료를 음미합니다."
+  },
   "on_hangul": "기응"
  },
  {
@@ -10381,9 +10705,18 @@
   "meaning": "두려워할",
   "rule": null,
   "source": "상용2 p.167",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "危惧（きぐ）",
+   "惧れ（おそれ）"
+  ],
+  "examples_ko": [
+   "우려",
+   "두려움"
+  ],
+  "sentence": {
+   "ja": "危惧を感じます。",
+   "ko": "우려를 느낍니다."
+  },
   "on_hangul": "쿠"
  },
  {
@@ -10564,9 +10897,18 @@
   "meaning": "굴",
   "rule": null,
   "source": "상용2 p.249",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "洞窟（どうくつ）",
+   "岩窟（がんくつ）"
+  ],
+  "examples_ko": [
+   "동굴",
+   "암굴"
+  ],
+  "sentence": {
+   "ja": "洞窟を探検します。",
+   "ko": "동굴을 탐험합니다."
+  },
   "on_hangul": "쿠츠"
  },
  {
@@ -10723,9 +11065,18 @@
   "meaning": "근심",
   "rule": null,
   "source": "상용2 p.514",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "不虞（ふぐ）",
+   "虞犯（ぐはん）"
+  ],
+  "examples_ko": [
+   "뜻밖",
+   "우범"
+  ],
+  "sentence": {
+   "ja": "不虞の事態に備えます。",
+   "ko": "뜻밖의 사태에 대비합니다."
+  },
   "on_hangul": "구"
  },
  {
@@ -11170,9 +11521,18 @@
   "meaning": "깨달을",
   "rule": null,
   "source": "상용2 p.500",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "憧憬（どうけい）",
+   "憬れ（あこがれ）"
+  ],
+  "examples_ko": [
+   "동경",
+   "동경"
+  ],
+  "sentence": {
+   "ja": "憬れの人です。",
+   "ko": "동경하는 사람입니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -11305,9 +11665,18 @@
   "meaning": "상고할",
   "rule": null,
   "source": "상용2 p.346",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "稽古（けいこ）",
+   "滑稽（こっけい）"
+  ],
+  "examples_ko": [
+   "연습",
+   "우스꽝스러움"
+  ],
+  "sentence": {
+   "ja": "稽古を重ねます。",
+   "ko": "연습을 거듭합니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -11464,9 +11833,18 @@
   "meaning": "이를",
   "rule": null,
   "source": "상용2 p.280",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "参詣（さんけい）",
+   "詣で（もうで）"
+  ],
+  "examples_ko": [
+   "참배",
+   "참배"
+  ],
+  "sentence": {
+   "ja": "神社に参詣します。",
+   "ko": "신사에 참배합니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -11527,9 +11905,18 @@
   "meaning": "동안",
   "rule": null,
   "source": "상용2 p.177",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "近頃（ちかごろ）",
+   "頃（ころ）"
+  ],
+  "examples_ko": [
+   "요즘",
+   "무렵"
+  ],
+  "sentence": {
+   "ja": "近頃の出来事です。",
+   "ko": "요즘 일입니다."
+  },
   "on_hangul": "케이"
  },
  {
@@ -11758,9 +12145,18 @@
   "meaning": "검소할",
   "rule": null,
   "source": "상용2 p.417",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "倹約（けんやく）",
+   "倹素（けんそ）"
+  ],
+  "examples_ko": [
+   "검약",
+   "검소"
+  ],
+  "sentence": {
+   "ja": "倹約に努めます。",
+   "ko": "검약에 힘씁니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -12013,9 +12409,18 @@
   "meaning": "주먹",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "拳法（けんぽう）",
+   "握り拳（にぎりこぶし）"
+  ],
+  "examples_ko": [
+   "권법",
+   "주먹"
+  ],
+  "sentence": {
+   "ja": "握り拳を作ります。",
+   "ko": "주먹을 쥡니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -12196,9 +12601,18 @@
   "meaning": "고치",
   "rule": null,
   "source": "상용2 p.170",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "繭（まゆ）",
+   "繭糸（けんし）"
+  ],
+  "examples_ko": [
+   "고치",
+   "고치실"
+  ],
+  "sentence": {
+   "ja": "蚕の繭です。",
+   "ko": "누에고치입니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -12355,9 +12769,18 @@
   "meaning": "열쇠",
   "rule": null,
   "source": "상용2 p.206",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "鍵盤（けんばん）",
+   "鍵穴（かぎあな）"
+  ],
+  "examples_ko": [
+   "건반",
+   "열쇠 구멍"
+  ],
+  "sentence": {
+   "ja": "鍵をかけます。",
+   "ko": "열쇠를 잠급니다."
+  },
   "on_hangul": "케응"
  },
  {
@@ -12586,9 +13009,18 @@
   "meaning": "틈",
   "rule": null,
   "source": "상용2 p.032",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "隙間（すきま）",
+   "隙（ひま）"
+  ],
+  "examples_ko": [
+   "틈",
+   "틈·짬"
+  ],
+  "sentence": {
+   "ja": "隙間風が入ります。",
+   "ko": "틈새 바람이 들어옵니다."
+  },
   "on_hangul": "게키"
  },
  {
@@ -12841,9 +13273,18 @@
   "meaning": "뱃전",
   "rule": null,
   "source": "상용2 p.455",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "舷窓（げんそう）",
+   "左舷（さげん）"
+  ],
+  "examples_ko": [
+   "선창",
+   "좌현"
+  ],
+  "sentence": {
+   "ja": "船の舷側を見ます。",
+   "ko": "배의 현측을 봅니다."
+  },
   "on_hangul": "게응"
  },
  {
@@ -13240,9 +13681,18 @@
   "meaning": "막을",
   "rule": null,
   "source": "상용2 p.191",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "禁錮（きんこ）",
+   "禁錮刑（きんこけい）"
+  ],
+  "examples_ko": [
+   "금고",
+   "금고형"
+  ],
+  "sentence": {
+   "ja": "法律用語の意味を学びます。",
+   "ko": "법률 용어의 뜻을 배웁니다."
+  },
   "on_hangul": "코"
  },
  {
@@ -13351,9 +13801,18 @@
   "meaning": "제후",
   "rule": null,
   "source": "상용1 p.282",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "諸侯（しょこう）",
+   "侯爵（こうしゃく）"
+  ],
+  "examples_ko": [
+   "제후",
+   "후작"
+  ],
+  "sentence": {
+   "ja": "諸侯の話を読みます。",
+   "ko": "제후 이야기를 읽습니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -13486,9 +13945,18 @@
   "meaning": "구속할",
   "rule": null,
   "source": "상용2 p.219",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "勾玉（まがたま）",
+   "勾配（こうばい）"
+  ],
+  "examples_ko": [
+   "곡옥",
+   "경사"
+  ],
+  "sentence": {
+   "ja": "勾配がきつい坂です。",
+   "ko": "경사가 가파른 언덕입니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -13597,9 +14065,18 @@
   "meaning": "목구멍",
   "rule": null,
   "source": "상용2 p.311",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "喉元（のどもと）",
+   "喉薬（のどぐすり）"
+  ],
+  "examples_ko": [
+   "목 부위",
+   "목 약"
+  ],
+  "sentence": {
+   "ja": "喉が渇きました。",
+   "ko": "목이 말랐습니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -13612,9 +14089,18 @@
   "meaning": "구덩이",
   "rule": null,
   "source": "상용2 p.342",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "坑道（こうどう）",
+   "炭坑（たんこう）"
+  ],
+  "examples_ko": [
+   "갱도",
+   "탄광"
+  ],
+  "sentence": {
+   "ja": "坑道を歩きます。",
+   "ko": "갱도를 걷습니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -13651,9 +14137,18 @@
   "meaning": "구멍",
   "rule": null,
   "source": "상용2 p.435",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "孔子（こうし）",
+   "気孔（きこう）"
+  ],
+  "examples_ko": [
+   "공자",
+   "기공"
+  ],
+  "sentence": {
+   "ja": "孔子の教えを学びます。",
+   "ko": "공자의 가르침을 배웁니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -13738,9 +14233,18 @@
   "meaning": "곶",
   "rule": null,
   "source": "상용2 p.163",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "岬（みさき）",
+   "岬の灯台（みさきのとうだい）"
+  ],
+  "examples_ko": [
+   "곶",
+   "곶의 등대"
+  ],
+  "sentence": {
+   "ja": "岬の灯台が見えます。",
+   "ko": "곶의 등대가 보입니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -14089,9 +14593,18 @@
   "meaning": "도리",
   "rule": null,
   "source": "상용2 p.532",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "桁（けた）",
+   "桁違い（けたちがい）"
+  ],
+  "examples_ko": [
+   "도리",
+   "엄청난 차이"
+  ],
+  "sentence": {
+   "ja": "桁違いの金額です。",
+   "ko": "엄청난 금액입니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -14104,9 +14617,18 @@
   "meaning": "줄기",
   "rule": null,
   "source": "상용2 p.199",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "梗概（こうがい）",
+   "桔梗（ききょう）"
+  ],
+  "examples_ko": [
+   "개요",
+   "도라지"
+  ],
+  "sentence": {
+   "ja": "梗概を読みます。",
+   "ko": "개요를 읽습니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -14503,9 +15025,18 @@
   "meaning": "무지개",
   "rule": null,
   "source": "상용2 p.378",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "虹（にじ）",
+   "虹色（にじいろ）"
+  ],
+  "examples_ko": [
+   "무지개",
+   "무지갯빛"
+  ],
+  "sentence": {
+   "ja": "空に虹が出ました。",
+   "ko": "하늘에 무지개가 떴습니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -14662,9 +15193,18 @@
   "meaning": "삭힐",
   "rule": null,
   "source": "상용2 p.347",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "発酵（はっこう）",
+   "酵母（こうぼ）"
+  ],
+  "examples_ko": [
+   "발효",
+   "효모"
+  ],
+  "sentence": {
+   "ja": "発酵食品を作ります。",
+   "ko": "발효 식품을 만듭니다."
+  },
   "on_hangul": "코우"
  },
  {
@@ -15013,9 +15553,18 @@
   "meaning": "빌",
   "rule": null,
   "source": "상용2 p.040",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "乞う（こう）",
+   "乞い（こい）"
+  ],
+  "examples_ko": [
+   "구하다",
+   "간청"
+  ],
+  "sentence": {
+   "ja": "許しを乞います。",
+   "ko": "용서를 구합니다."
+  },
   "on_hangul": "코츠"
  },
  {
@@ -15100,9 +15649,18 @@
   "meaning": "개간할",
   "rule": null,
   "source": "상용2 p.536",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "開墾（かいこん）",
+   "墾田（こんでん）"
+  ],
+  "examples_ko": [
+   "개간",
+   "간전"
+  ],
+  "sentence": {
+   "ja": "開墾を始めます。",
+   "ko": "개간을 시작합니다."
+  },
   "on_hangul": "코응"
  },
  {
@@ -15139,9 +15697,18 @@
   "meaning": "한할",
   "rule": "한 → カン(칸)",
   "source": "상용2 p.533",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "痛恨（つうこん）",
+   "恨み（うらみ）"
+  ],
+  "examples_ko": [
+   "통한",
+   "원한"
+  ],
+  "sentence": {
+   "ja": "痛恨の極みです。",
+   "ko": "통한의 극치입니다."
+  },
   "on_hangul": "코응"
  },
  {
@@ -15250,9 +15817,18 @@
   "meaning": "흉터",
   "rule": null,
   "source": "상용2 p.533",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "痕跡（こんせき）",
+   "傷痕（きずあと）"
+  ],
+  "examples_ko": [
+   "흔적",
+   "상처 자국"
+  ],
+  "sentence": {
+   "ja": "足跡の痕跡があります。",
+   "ko": "발자국 흔적이 있습니다."
+  },
   "on_hangul": "코응"
  },
  {
@@ -15553,9 +16129,18 @@
   "meaning": "오만할",
   "rule": null,
   "source": "상용2 p.202",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "傲慢（ごうまん）",
+   "傲然（ごうぜん）"
+  ],
+  "examples_ko": [
+   "오만",
+   "오연"
+  ],
+  "sentence": {
+   "ja": "傲慢な態度です。",
+   "ko": "오만한 태도입니다."
+  },
   "on_hangul": "고우"
  },
  {
@@ -15640,9 +16225,18 @@
   "meaning": "칠",
   "rule": null,
   "source": "상용2 p.423",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "拷問（ごうもん）",
+   "拷問室（ごうもんしつ）"
+  ],
+  "examples_ko": [
+   "고문",
+   "고문실"
+  ],
+  "sentence": {
+   "ja": "歴史の本で拷問の記録を読みます。",
+   "ko": "역사책에서 고문 기록을 읽습니다."
+  },
   "on_hangul": "고우"
  },
  {
