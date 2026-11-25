@@ -27059,9 +27059,18 @@
   "meaning": "잘",
   "rule": null,
   "source": "상용2 p.204",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "寝室（しんしつ）",
+   "就寝（しゅうしん）"
+  ],
+  "examples_ko": [
+   "침실",
+   "취침"
+  ],
+  "sentence": {
+   "ja": "寝室で休みます。",
+   "ko": "침실에서 쉽니다."
+  }
  },
  {
   "row": "た行",
@@ -27110,9 +27119,18 @@
   "meaning": "불",
   "rule": null,
   "source": "상용2 p.276",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "吹雪（ふぶき）",
+   "吹奏楽（すいそうがく）"
+  ],
+  "examples_ko": [
+   "눈보라",
+   "취주악"
+  ],
+  "sentence": {
+   "ja": "風が吹きます。",
+   "ko": "바람이 붑니다."
+  }
  },
  {
   "row": "さ行",
@@ -27124,9 +27142,18 @@
   "meaning": "계집",
   "rule": null,
   "source": "상용2 p.537",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "娘（むすめ）",
+   "娘さん（むすめさん）"
+  ],
+  "examples_ko": [
+   "딸",
+   "따님"
+  ],
+  "sentence": {
+   "ja": "娘と出かけます。",
+   "ko": "딸과 외출합니다."
+  }
  },
  {
   "row": "た行",
@@ -27328,9 +27355,18 @@
   "meaning": "찾을",
   "rule": null,
   "source": "상용2 p.198",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "捜索（そうさく）",
+   "捜査（そうさ）"
+  ],
+  "examples_ko": [
+   "수색",
+   "수사"
+  ],
+  "sentence": {
+   "ja": "鍵を捜します。",
+   "ko": "열쇠를 찾습니다."
+  }
  },
  {
   "row": "は行",
@@ -27407,9 +27443,18 @@
   "meaning": "점칠",
   "rule": null,
   "source": "상용1 p.110",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "占領（せんりょう）",
+   "占い（うらない）"
+  ],
+  "examples_ko": [
+   "점령",
+   "점"
+  ],
+  "sentence": {
+   "ja": "占いを見ます。",
+   "ko": "점을 봅니다."
+  }
  },
  {
   "row": "さ行",
@@ -27421,9 +27466,18 @@
   "meaning": "펼",
   "rule": null,
   "source": "상용2 p.197",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "伸び（のび）",
+   "伸長（しんちょう）"
+  ],
+  "examples_ko": [
+   "성장",
+   "신장"
+  ],
+  "sentence": {
+   "ja": "背が伸びました。",
+   "ko": "키가 자랐습니다."
+  }
  },
  {
   "row": "は行",
@@ -27491,9 +27545,18 @@
   "meaning": "오를",
   "rule": null,
   "source": "상용2 p.241",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "上昇（じょうしょう）",
+   "昇格（しょうかく）"
+  ],
+  "examples_ko": [
+   "상승",
+   "승격"
+  ],
+  "sentence": {
+   "ja": "気温が上昇します。",
+   "ko": "기온이 상승합니다."
+  }
  },
  {
   "row": "か行",
@@ -27528,9 +27591,18 @@
   "meaning": "우레",
   "rule": null,
   "source": "상용2 p.065",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "地震（じしん）",
+   "震度（しんど）"
+  ],
+  "examples_ko": [
+   "지진",
+   "진도"
+  ],
+  "sentence": {
+   "ja": "地震に備えます。",
+   "ko": "지진에 대비합니다."
+  }
  },
  {
   "row": "さ行",
@@ -27542,9 +27614,18 @@
   "meaning": "닿을",
   "rule": null,
   "source": "상용2 p.169",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "触れる（ふれる）",
+   "感触（かんしょく）"
+  ],
+  "examples_ko": [
+   "닿다",
+   "감촉"
+  ],
+  "sentence": {
+   "ja": "手で触ります。",
+   "ko": "손으로 만집니다."
+  }
  },
  {
   "row": "さ行",
@@ -27556,9 +27637,18 @@
   "meaning": "서적",
   "rule": null,
   "source": "상용2 p.543",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "書籍（しょせき）",
+   "戸籍（こせき）"
+  ],
+  "examples_ko": [
+   "서적",
+   "호적"
+  ],
+  "sentence": {
+   "ja": "書籍を買います。",
+   "ko": "서적을 삽니다."
+  }
  },
  {
   "row": "あ行",
@@ -27593,9 +27683,18 @@
   "meaning": "자취",
   "rule": null,
   "source": "상용2 p.463",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "足跡（あしあと）",
+   "跡地（あとち）"
+  ],
+  "examples_ko": [
+   "발자국",
+   "부지"
+  ],
+  "sentence": {
+   "ja": "雪の上に足跡があります。",
+   "ko": "눈 위에 발자국이 있습니다."
+  }
  },
  {
   "row": "さ行",
@@ -27607,9 +27706,18 @@
   "meaning": "이을",
   "rule": null,
   "source": "상용2 p.271",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "紹介（しょうかい）",
+   "紹介状（しょうかいじょう）"
+  ],
+  "examples_ko": [
+   "소개",
+   "소개장"
+  ],
+  "sentence": {
+   "ja": "友人を紹介します。",
+   "ko": "친구를 소개합니다."
+  }
  },
  {
   "row": "さ行",
@@ -27621,9 +27729,18 @@
   "meaning": "보낼",
   "rule": null,
   "source": "상용2 p.107",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "贈り物（おくりもの）",
+   "寄贈（きぞう）"
+  ],
+  "examples_ko": [
+   "선물",
+   "기증"
+  ],
+  "sentence": {
+   "ja": "贈り物を用意します。",
+   "ko": "선물을 준비합니다."
+  }
  },
  {
   "row": "は行",
@@ -27672,9 +27789,18 @@
   "meaning": "쌍",
   "rule": null,
   "source": "상용2 p.210",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "双子（ふたご）",
+   "双方（そうほう）"
+  ],
+  "examples_ko": [
+   "쌍둥이",
+   "쌍방"
+  ],
+  "sentence": {
+   "ja": "双子の兄弟です。",
+   "ko": "쌍둥이 형제입니다."
+  }
  },
  {
   "row": "さ行",
@@ -27686,9 +27812,18 @@
   "meaning": "찌를",
   "rule": null,
   "source": "상용1 p.134",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "刺繍（ししゅう）",
+   "名刺（めいし）"
+  ],
+  "examples_ko": [
+   "자수",
+   "명함"
+  ],
+  "sentence": {
+   "ja": "名刺を交換します。",
+   "ko": "명함을 교환합니다."
+  }
  },
  {
   "row": "か行",
@@ -27774,9 +27909,18 @@
   "meaning": "평상",
   "rule": null,
   "source": "상용2 p.056",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "床（とこ）",
+   "床の間（とこのま）"
+  ],
+  "examples_ko": [
+   "잠자리",
+   "도코노마"
+  ],
+  "sentence": {
+   "ja": "床を整えます。",
+   "ko": "잠자리를 정돈합니다."
+  }
  },
  {
   "row": "さ行",
@@ -27788,9 +27932,18 @@
   "meaning": "부드러울",
   "rule": null,
   "source": "상용2 p.132",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "柔らかい（やわらかい）",
+   "柔道（じゅうどう）"
+  ],
+  "examples_ko": [
+   "부드럽다",
+   "유도"
+  ],
+  "sentence": {
+   "ja": "柔らかいパンです。",
+   "ko": "부드러운 빵입니다."
+  }
  },
  {
   "row": "た行",
@@ -27867,9 +28020,18 @@
   "meaning": "쓸",
   "rule": null,
   "source": "상용2 p.205",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "掃除（そうじ）",
+   "掃除機（そうじき）"
+  ],
+  "examples_ko": [
+   "청소",
+   "청소기"
+  ],
+  "sentence": {
+   "ja": "掃除機をかけます。",
+   "ko": "청소기를 돌립니다."
+  }
  },
  {
   "row": "か行",
@@ -28108,9 +28270,18 @@
   "meaning": "젖을",
   "rule": null,
   "source": "상용2 p.032",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "湿気（しっけ）",
+   "湿度（しつど）"
+  ],
+  "examples_ko": [
+   "습기",
+   "습도"
+  ],
+  "sentence": {
+   "ja": "湿度が高いです。",
+   "ko": "습도가 높습니다."
+  }
  },
  {
   "row": "は行",
@@ -28136,9 +28307,18 @@
   "meaning": "부를",
   "rule": null,
   "source": "상용1 p.273",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "召し上がる（めしあがる）",
+   "召集（しょうしゅう）"
+  ],
+  "examples_ko": [
+   "드시다",
+   "소집"
+  ],
+  "sentence": {
+   "ja": "どうぞお召し上がりください。",
+   "ko": "어서 드세요."
+  }
  },
  {
   "row": "か行",
@@ -28173,9 +28353,18 @@
   "meaning": "짝",
   "rule": null,
   "source": "상용2 p.156",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "隻眼（せきがん）",
+   "一隻（いっせき）"
+  ],
+  "examples_ko": [
+   "애꾸눈",
+   "한 척"
+  ],
+  "sentence": {
+   "ja": "船が一隻います。",
+   "ko": "배가 한 척 있습니다."
+  }
  },
  {
   "row": "さ行",
@@ -28187,9 +28376,18 @@
   "meaning": "기름",
   "rule": null,
   "source": "상용2 p.346",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "脂肪（しぼう）",
+   "脂質（ししつ）"
+  ],
+  "examples_ko": [
+   "지방",
+   "지질"
+  ],
+  "sentence": {
+   "ja": "脂肪を控えます。",
+   "ko": "지방을 줄입니다."
+  }
  },
  {
   "row": "か行",
@@ -28275,9 +28473,18 @@
   "meaning": "매울",
   "rule": null,
   "source": "상용1 p.474",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "辛い（からい）",
+   "辛口（からくち）"
+  ],
+  "examples_ko": [
+   "맵다",
+   "매운맛"
+  ],
+  "sentence": {
+   "ja": "この料理は辛いです。",
+   "ko": "이 요리는 맵습니다."
+  }
  },
  {
   "row": "ま行",
@@ -28303,9 +28510,18 @@
   "meaning": "성",
   "rule": null,
   "source": "상용2 p.434",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "姓名（せいめい）",
+   "旧姓（きゅうせい）"
+  ],
+  "examples_ko": [
+   "성명",
+   "구성"
+  ],
+  "sentence": {
+   "ja": "姓名を書きます。",
+   "ko": "성명을 씁니다."
+  }
  },
  {
   "row": "た行",
@@ -28345,9 +28561,18 @@
   "meaning": "겹칠",
   "rule": null,
   "source": "상용2 p.093",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "畳（たたみ）",
+   "重畳（ちょうじょう）"
+  ],
+  "examples_ko": [
+   "다다미",
+   "중첩"
+  ],
+  "sentence": {
+   "ja": "畳の部屋です。",
+   "ko": "다다미방입니다."
+  }
  },
  {
   "row": "は行",
@@ -28443,9 +28668,18 @@
   "meaning": "배",
   "rule": null,
   "source": "상용1 p.109",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "扁舟（へんしゅう）",
+   "舟（ふね）"
+  ],
+  "examples_ko": [
+   "작은 배",
+   "배"
+  ],
+  "sentence": {
+   "ja": "舟に乗ります。",
+   "ko": "배를 탑니다."
+  }
  },
  {
   "row": "は行",
@@ -28471,9 +28705,18 @@
   "meaning": "미워할",
   "rule": null,
   "source": "상용1 p.198",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "憎しみ（にくしみ）",
+   "愛憎（あいぞう）"
+  ],
+  "examples_ko": [
+   "증오",
+   "애증"
+  ],
+  "sentence": {
+   "ja": "憎しみを捨てます。",
+   "ko": "증오를 버립니다."
+  }
  },
  {
   "row": "か行",
@@ -28508,9 +28751,18 @@
   "meaning": "마를",
   "rule": null,
   "source": "상용2 p.383",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "乾燥（かんそう）",
+   "焦燥（しょうそう）"
+  ],
+  "examples_ko": [
+   "건조",
+   "초조"
+  ],
+  "sentence": {
+   "ja": "空気が乾燥しています。",
+   "ko": "공기가 건조합니다."
+  }
  },
  {
   "row": "か行",
@@ -28573,9 +28825,18 @@
   "meaning": "엿볼",
   "rule": null,
   "source": "상용2 p.457",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "伺う（うかがう）",
+   "伺候（しこう）"
+  ],
+  "examples_ko": [
+   "여쭙다",
+   "시중"
+  ],
+  "sentence": {
+   "ja": "明日お伺いします。",
+   "ko": "내일 찾아뵙겠습니다."
+  }
  },
  {
   "row": "た行",
@@ -28601,9 +28862,18 @@
   "meaning": "베풀",
   "rule": null,
   "source": "상용2 p.402",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "施設（しせつ）",
+   "実施（じっし）"
+  ],
+  "examples_ko": [
+   "시설",
+   "실시"
+  ],
+  "sentence": {
+   "ja": "施設を見学します。",
+   "ko": "시설을 견학합니다."
+  }
  },
  {
   "row": "さ行",
@@ -28615,9 +28885,18 @@
   "meaning": "고울",
   "rule": null,
   "source": "상용2 p.147",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "新鮮（しんせん）",
+   "鮮明（せんめい）"
+  ],
+  "examples_ko": [
+   "신선",
+   "선명"
+  ],
+  "sentence": {
+   "ja": "鮮やかな色です。",
+   "ko": "선명한 색입니다."
+  }
  },
  {
   "row": "さ行",
@@ -28629,9 +28908,18 @@
   "meaning": "살필",
   "rule": null,
   "source": "상용2 p.088",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "審査（しんさ）",
+   "審判（しんぱん）"
+  ],
+  "examples_ko": [
+   "심사",
+   "심판"
+  ],
+  "sentence": {
+   "ja": "審査を受けます。",
+   "ko": "심사를 받습니다."
+  }
  },
  {
   "row": "さ行",
@@ -28643,9 +28931,18 @@
   "meaning": "호소할",
   "rule": null,
   "source": "상용2 p.294",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "訴え（うったえ）",
+   "告訴（こくそ）"
+  ],
+  "examples_ko": [
+   "호소",
+   "고소"
+  ],
+  "sentence": {
+   "ja": "苦しみを訴えます。",
+   "ko": "괴로움을 호소합니다."
+  }
  },
  {
   "row": "か行",
@@ -28717,9 +29014,18 @@
   "meaning": "건널",
   "rule": null,
   "source": "상용2 p.054",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "交渉（こうしょう）",
+   "干渉（かんしょう）"
+  ],
+  "examples_ko": [
+   "교섭",
+   "간섭"
+  ],
+  "sentence": {
+   "ja": "条件を交渉します。",
+   "ko": "조건을 교섭합니다."
+  }
  },
  {
   "row": "か行",
@@ -28754,9 +29060,18 @@
   "meaning": "청할",
   "rule": null,
   "source": "상용2 p.452",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "申請（しんせい）",
+   "依頼（いらい）"
+  ],
+  "examples_ko": [
+   "신청",
+   "의뢰"
+  ],
+  "sentence": {
+   "ja": "申請書を出します。",
+   "ko": "신청서를 냅니다."
+  }
  },
  {
   "row": "か行",
@@ -28805,9 +29120,18 @@
   "meaning": "재촉할",
   "rule": null,
   "source": "상용2 p.155",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null
+  "examples": [
+   "催し（もよおし）",
+   "主催（しゅさい）"
+  ],
+  "examples_ko": [
+   "행사",
+   "주최"
+  ],
+  "sentence": {
+   "ja": "催しに参加します。",
+   "ko": "행사에 참가합니다."
+  }
  },
  {
   "row": "か行",
