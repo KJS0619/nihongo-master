@@ -269,9 +269,18 @@
   "meaning": "어두울",
   "rule": null,
   "source": "상용2 p.333",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "闇市（やみいち）",
+   "暗闇（くらやみ）"
+  ],
+  "examples_ko": [
+   "암시장",
+   "어둠"
+  ],
+  "sentence": {
+   "ja": "闇の中を歩きます。",
+   "ko": "어둠 속을 걷습니다."
+  },
   "on_hangul": "아응"
  },
  {
@@ -356,9 +365,18 @@
   "meaning": "클",
   "rule": null,
   "source": "상용2 p.458",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "偉大（いだい）",
+   "偉人（いじん）"
+  ],
+  "examples_ko": [
+   "위대",
+   "위인"
+  ],
+  "sentence": {
+   "ja": "偉人の伝記を読みます。",
+   "ko": "위인전을 읽습니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -467,9 +485,18 @@
   "meaning": "위로할",
   "rule": null,
   "source": "상용2 p.082",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "大尉（たいい）",
+   "中尉（ちゅうい）"
+  ],
+  "examples_ko": [
+   "대위",
+   "중위"
+  ],
+  "sentence": {
+   "ja": "大尉が報告しました。",
+   "ko": "대위가 보고했습니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -482,9 +509,18 @@
   "meaning": "무리",
   "rule": null,
   "source": "상용2 p.066",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "語彙（ごい）",
+   "語彙力（ごいりょく）"
+  ],
+  "examples_ko": [
+   "어휘",
+   "어휘력"
+  ],
+  "sentence": {
+   "ja": "語彙を増やします。",
+   "ko": "어휘를 늘립니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -569,9 +605,18 @@
   "meaning": "의자",
   "rule": null,
   "source": "상용2 p.161",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "椅子（いす）",
+   "安楽椅子（あんらくいす）"
+  ],
+  "examples_ko": [
+   "의자",
+   "안락의자"
+  ],
+  "sentence": {
+   "ja": "椅子に座ります。",
+   "ko": "의자에 앉습니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -584,9 +629,18 @@
   "meaning": "할",
   "rule": null,
   "source": "상용2 p.302",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "行為（こうい）",
+   "為替（かわせ）"
+  ],
+  "examples_ko": [
+   "행위",
+   "환"
+  ],
+  "sentence": {
+   "ja": "良い行為をします。",
+   "ko": "좋은 행위를 합니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -599,9 +653,18 @@
   "meaning": "두려울",
   "rule": null,
   "source": "상용2 p.514",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "畏怖（いふ）",
+   "畏敬（いけい）"
+  ],
+  "examples_ko": [
+   "외경",
+   "경외"
+  ],
+  "sentence": {
+   "ja": "大自然を畏れます。",
+   "ko": "대자연을 두려워합니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -662,9 +725,18 @@
   "meaning": "벼리",
   "rule": null,
   "source": "상용2 p.131",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "維持（いじ）",
+   "繊維（せんい）"
+  ],
+  "examples_ko": [
+   "유지",
+   "섬유"
+  ],
+  "sentence": {
+   "ja": "健康を維持します。",
+   "ko": "건강을 유지합니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -677,9 +749,18 @@
   "meaning": "씨",
   "rule": null,
   "source": "상용2 p.132",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "緯度（いど）",
+   "経緯（けいい）"
+  ],
+  "examples_ko": [
+   "위도",
+   "경위"
+  ],
+  "sentence": {
+   "ja": "緯度を確認します。",
+   "ko": "위도를 확인합니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -716,9 +797,18 @@
   "meaning": "시들",
   "rule": null,
   "source": "상용2 p.047",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "萎縮（いしゅく）",
+   "萎れる（しおれる）"
+  ],
+  "examples_ko": [
+   "위축",
+   "시들다"
+  ],
+  "sentence": {
+   "ja": "花が萎れます。",
+   "ko": "꽃이 시듭니다."
+  },
   "on_hangul": "이"
  },
  {
@@ -875,9 +965,18 @@
   "meaning": "하나",
   "rule": "일 → イチ/イツ(이치/이츠)",
   "source": "상용2 p.299",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "壱万円（いちまんえん）",
+   "壱番（いちばん）"
+  ],
+  "examples_ko": [
+   "1만 엔",
+   "1번"
+  ],
+  "sentence": {
+   "ja": "壱万円札を出します。",
+   "ko": "1만 엔권을 냅니다."
+  },
   "on_hangul": "이치"
  },
  {
@@ -938,9 +1037,18 @@
   "meaning": "목멜",
   "rule": "인 → イン(인)",
   "source": "상용2 p.267 / 상용2 p.287",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "咽喉（いんこう）",
+   "咽頭（いんとう）"
+  ],
+  "examples_ko": [
+   "인후",
+   "인두"
+  ],
+  "sentence": {
+   "ja": "咽喉が痛いです。",
+   "ko": "목구멍이 아픕니다."
+  },
   "on_hangul": "이응"
  },
  {
@@ -1001,9 +1109,18 @@
   "meaning": "혼인할",
   "rule": "인 → イン(인)",
   "source": "상용2 p.297",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "婚姻（こんいん）",
+   "姻戚（いんせき）"
+  ],
+  "examples_ko": [
+   "혼인",
+   "인척"
+  ],
+  "sentence": {
+   "ja": "婚姻届を出します。",
+   "ko": "혼인신고를 합니다."
+  },
   "on_hangul": "이응"
  },
  {
@@ -1040,9 +1157,18 @@
   "meaning": "음란할",
   "rule": null,
   "source": "상용2 p.433",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "淫雨（いんう）",
+   "長雨（ながあめ）"
+  ],
+  "examples_ko": [
+   "장맛비",
+   "장마"
+  ],
+  "sentence": {
+   "ja": "淫雨が続きます。",
+   "ko": "장맛비가 계속됩니다."
+  },
   "on_hangul": "이응"
  },
  {
@@ -1245,9 +1371,18 @@
   "meaning": "토란",
   "rule": null,
   "source": "상용2 p.514",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "里芋（さといも）",
+   "芋（いも）"
+  ],
+  "examples_ko": [
+   "토란",
+   "고구마·감자"
+  ],
+  "sentence": {
+   "ja": "芋を蒸します。",
+   "ko": "고구마를 찹니다."
+  },
   "on_hangul": "우"
  },
  {
@@ -1284,9 +1419,18 @@
   "meaning": "답답할",
   "rule": null,
   "source": "상용2 p.231",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "憂鬱（ゆううつ）",
+   "鬱陶しい（うっとうしい）"
+  ],
+  "examples_ko": [
+   "우울",
+   "갑갑하다"
+  ],
+  "sentence": {
+   "ja": "雨で気分が憂鬱です。",
+   "ko": "비 때문에 기분이 우울합니다."
+  },
   "on_hangul": "우츠"
  },
  {
@@ -1539,9 +1683,18 @@
   "meaning": "읊을",
   "rule": "영 → エイ(에이)",
   "source": "상용2 p.197",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "詠嘆（えいたん）",
+   "詠む（よむ）"
+  ],
+  "examples_ko": [
+   "영탄",
+   "읊다"
+  ],
+  "sentence": {
+   "ja": "短歌を詠みます。",
+   "ko": "단가를 읊습니다."
+  },
   "on_hangul": "에이"
  },
  {
@@ -1602,9 +1755,18 @@
   "meaning": "전염병",
   "rule": null,
   "source": "상용2 p.429",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "疫病（えきびょう）",
+   "免疫（めんえき）"
+  ],
+  "examples_ko": [
+   "역병",
+   "면역"
+  ],
+  "sentence": {
+   "ja": "免疫を高めます。",
+   "ko": "면역력을 높입니다."
+  },
   "on_hangul": "에키"
  },
  {
@@ -1689,9 +1851,18 @@
   "meaning": "뵐",
   "rule": null,
   "source": "상용2 p.221",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "謁見（えっけん）",
+   "拝謁（はいえつ）"
+  ],
+  "examples_ko": [
+   "알현",
+   "배알"
+  ],
+  "sentence": {
+   "ja": "王に謁見します。",
+   "ko": "왕을 알현합니다."
+  },
   "on_hangul": "에츠"
  },
  {
@@ -1752,9 +1923,18 @@
   "meaning": "나",
   "rule": null,
   "source": "상용2 p.364",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "俺（おれ）",
+   "俺たち（おれたち）"
+  ],
+  "examples_ko": [
+   "나(남성 자칭)",
+   "우리"
+  ],
+  "sentence": {
+   "ja": "俺は学生だ。",
+   "ko": "나는 학생이다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -1815,9 +1995,18 @@
   "meaning": "담",
   "rule": null,
   "source": "상용2 p.339",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "垣根（かきね）",
+   "垣間見る（かいまみる）"
+  ],
+  "examples_ko": [
+   "울타리",
+   "엿보다"
+  ],
+  "sentence": {
+   "ja": "垣根を直します。",
+   "ko": "울타리를 고칩니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -1854,9 +2043,18 @@
   "meaning": "아름다울",
   "rule": null,
   "source": "상용1 p.247",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "才媛（さいえん）",
+   "愛媛県（えひめけん）"
+  ],
+  "examples_ko": [
+   "재원",
+   "에히메현"
+  ],
+  "sentence": {
+   "ja": "愛媛県は四国にあります。",
+   "ko": "에히메현은 시코쿠에 있습니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -1869,9 +2067,18 @@
   "meaning": "굽이칠",
   "rule": null,
   "source": "상용2 p.359",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "宛先（あてさき）",
+   "宛名（あてな）"
+  ],
+  "examples_ko": [
+   "수신처",
+   "수신인 이름"
+  ],
+  "sentence": {
+   "ja": "宛先を書きます。",
+   "ko": "수신처를 씁니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -1932,9 +2139,18 @@
   "meaning": "원망할",
   "rule": null,
   "source": "상용2 p.478",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "怨念（おんねん）",
+   "怨恨（えんこん）"
+  ],
+  "examples_ko": [
+   "원념",
+   "원한"
+  ],
+  "sentence": {
+   "ja": "争いを怨むのはやめましょう。",
+   "ko": "싸움을 원망하는 것은 그만둡시다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -2067,9 +2283,18 @@
   "meaning": "원숭이",
   "rule": null,
   "source": "상용2 p.351",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "猿回し（さるまわし）",
+   "類人猿（るいじんえん）"
+  ],
+  "examples_ko": [
+   "원숭이 재주",
+   "유인원"
+  ],
+  "sentence": {
+   "ja": "動物園で猿を見ます。",
+   "ko": "동물원에서 원숭이를 봅니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -2106,9 +2331,18 @@
   "meaning": "고울",
   "rule": null,
   "source": "상용2 p.438",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "艶消し（つやけし）",
+   "艶やか（つややか）"
+  ],
+  "examples_ko": [
+   "무광",
+   "윤기 있는"
+  ],
+  "sentence": {
+   "ja": "髪に艶があります。",
+   "ko": "머리에 윤기가 있습니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -2145,9 +2379,18 @@
   "meaning": "납",
   "rule": "연 → エン(엔)",
   "source": "상용2 p.318",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "鉛筆（えんぴつ）",
+   "鉛直（えんちょく）"
+  ],
+  "examples_ko": [
+   "연필",
+   "연직"
+  ],
+  "sentence": {
+   "ja": "鉛筆で書きます。",
+   "ko": "연필로 씁니다."
+  },
   "on_hangul": "에응"
  },
  {
@@ -2160,9 +2403,18 @@
   "meaning": "더러울",
   "rule": null,
   "source": "상용2 p.193",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "汚染（おせん）",
+   "汚名（おめい）"
+  ],
+  "examples_ko": [
+   "오염",
+   "오명"
+  ],
+  "sentence": {
+   "ja": "水が汚染されました。",
+   "ko": "물이 오염되었습니다."
+  },
   "on_hangul": "오"
  },
  {
@@ -2175,9 +2427,18 @@
   "meaning": "오목할",
   "rule": null,
   "source": "상용2 p.408",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "凹凸（おうとつ）",
+   "凹面（おうめん）"
+  ],
+  "examples_ko": [
+   "요철",
+   "오목면"
+  ],
+  "sentence": {
+   "ja": "地面に凹凸があります。",
+   "ko": "땅에 요철이 있습니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2190,9 +2451,18 @@
   "meaning": "가운데",
   "rule": null,
   "source": "상용1 p.096",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "中央（ちゅうおう）",
+   "中央駅（ちゅうおうえき）"
+  ],
+  "examples_ko": [
+   "중앙",
+   "중앙역"
+  ],
+  "sentence": {
+   "ja": "駅は町の中央にあります。",
+   "ko": "역은 마을 중앙에 있습니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2205,9 +2475,18 @@
   "meaning": "갈",
   "rule": "왕 → オウ(오우)",
   "source": "상용1 p.092",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "往復（おうふく）",
+   "往来（おうらい）"
+  ],
+  "examples_ko": [
+   "왕복",
+   "왕래"
+  ],
+  "sentence": {
+   "ja": "駅まで往復します。",
+   "ko": "역까지 왕복합니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2268,9 +2547,18 @@
   "meaning": "왕성할",
   "rule": "왕 → オウ(오우)",
   "source": "상용2 p.420",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "旺盛（おうせい）",
+   "旺盛な食欲（おうせいなしょくよく）"
+  ],
+  "examples_ko": [
+   "왕성",
+   "왕성한 식욕"
+  ],
+  "sentence": {
+   "ja": "食欲が旺盛です。",
+   "ko": "식욕이 왕성합니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2355,9 +2643,18 @@
   "meaning": "때릴",
   "rule": null,
   "source": "상용2 p.282",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "殴り書き（なぐりがき）",
+   "殴り合い（なぐりあい）"
+  ],
+  "examples_ko": [
+   "휘갈겨 씀",
+   "주먹다짐"
+  ],
+  "sentence": {
+   "ja": "メモを殴り書きします。",
+   "ko": "메모를 휘갈겨 씁니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2418,9 +2715,18 @@
   "meaning": "늙은이",
   "rule": null,
   "source": "상용2 p.234",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "老翁（ろうおう）",
+   "翁（おきな）"
+  ],
+  "examples_ko": [
+   "노옹",
+   "노인"
+  ],
+  "sentence": {
+   "ja": "翁が歩いています。",
+   "ko": "노인이 걷고 있습니다."
+  },
   "on_hangul": "오우"
  },
  {
@@ -2529,9 +2835,18 @@
   "meaning": "기억할",
   "rule": null,
   "source": "상용2 p.517",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "記憶（きおく）",
+   "追憶（ついおく）"
+  ],
+  "examples_ko": [
+   "기억",
+   "추억"
+  ],
+  "sentence": {
+   "ja": "楽しい記憶です。",
+   "ko": "즐거운 기억입니다."
+  },
   "on_hangul": "오쿠"
  },
  {
