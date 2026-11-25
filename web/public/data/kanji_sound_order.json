@@ -16321,9 +16321,18 @@
   "meaning": "꾈",
   "rule": null,
   "source": "상용2 p.441",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "示唆（しさ）",
+   "教唆（きょうさ）"
+  ],
+  "examples_ko": [
+   "시사",
+   "교사"
+  ],
+  "sentence": {
+   "ja": "示唆に富む話です。",
+   "ko": "시사하는 바가 많은 이야기입니다."
+  },
   "on_hangul": "사"
  },
  {
@@ -16462,9 +16471,18 @@
   "meaning": "쇠사슬",
   "rule": null,
   "source": "상용2 p.115",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "鎖国（さこく）",
+   "連鎖（れんさ）"
+  ],
+  "examples_ko": [
+   "쇄국",
+   "연쇄"
+  ],
+  "sentence": {
+   "ja": "鎖が切れました。",
+   "ko": "쇠사슬이 끊어졌습니다."
+  },
   "on_hangul": "사"
  },
  {
@@ -16588,9 +16606,18 @@
   "meaning": "채색",
   "rule": null,
   "source": "상용2 p.418",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "色彩（しきさい）",
+   "多彩（たさい）"
+  ],
+  "examples_ko": [
+   "색채",
+   "다채"
+  ],
+  "sentence": {
+   "ja": "色彩が豊かです。",
+   "ko": "색채가 풍부합니다."
+  },
   "on_hangul": "사이"
  },
  {
@@ -16651,9 +16678,18 @@
   "meaning": "재계할",
   "rule": null,
   "source": "상용2 p.433",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "書斎（しょさい）",
+   "斎場（さいじょう）"
+  ],
+  "examples_ko": [
+   "서재",
+   "장례식장"
+  ],
+  "sentence": {
+   "ja": "書斎で本を読みます。",
+   "ko": "서재에서 책을 읽습니다."
+  },
   "on_hangul": "사이"
  },
  {
@@ -17653,9 +17689,18 @@
   "meaning": "약제",
   "rule": null,
   "source": "상용2 p.184",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "薬剤（やくざい）",
+   "洗剤（せんざい）"
+  ],
+  "examples_ko": [
+   "약제",
+   "세제"
+  ],
+  "sentence": {
+   "ja": "洗剤で洗います。",
+   "ko": "세제로 씻습니다."
+  },
   "on_hangul": "자이"
  },
  {
@@ -17803,9 +17848,18 @@
   "meaning": "잠깐",
   "rule": null,
   "source": "상용2 p.384",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "暫定（ざんてい）",
+   "暫時（ざんじ）"
+  ],
+  "examples_ko": [
+   "잠정",
+   "잠시"
+  ],
+  "sentence": {
+   "ja": "暫定の措置です。",
+   "ko": "잠정 조치입니다."
+  },
   "on_hangul": "자응"
  },
  {
@@ -18343,9 +18397,18 @@
   "meaning": "맛",
   "rule": null,
   "source": "상용1 p.335",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "旨い（うまい）",
+   "趣旨（しゅし）"
+  ],
+  "examples_ko": [
+   "맛있다",
+   "취지"
+  ],
+  "sentence": {
+   "ja": "この料理は旨いです。",
+   "ko": "이 요리는 맛있습니다."
+  },
   "on_hangul": "시"
  },
  {
@@ -18874,9 +18937,18 @@
   "meaning": "물을",
   "rule": null,
   "source": "상용2 p.266",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "諮問（しもん）",
+   "諮詢（しじゅん）"
+  ],
+  "examples_ko": [
+   "자문",
+   "자순"
+  ],
+  "sentence": {
+   "ja": "専門家に諮問します。",
+   "ko": "전문가에게 자문합니다."
+  },
   "on_hangul": "시"
  },
  {
@@ -19579,9 +19651,18 @@
   "meaning": "풀",
   "rule": null,
   "source": "상용2 p.380",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "釈明（しゃくめい）",
+   "解釈（かいしゃく）"
+  ],
+  "examples_ko": [
+   "해명",
+   "해석"
+  ],
+  "sentence": {
+   "ja": "言葉の解釈を考えます。",
+   "ko": "말의 해석을 생각합니다."
+  },
   "on_hangul": "샤쿠"
  },
  {
@@ -19729,9 +19810,18 @@
   "meaning": "다를",
   "rule": null,
   "source": "상용2 p.074",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "特殊（とくしゅ）",
+   "殊に（ことに）"
+  ],
+  "examples_ko": [
+   "특수",
+   "특히"
+  ],
+  "sentence": {
+   "ja": "特殊な機械です。",
+   "ko": "특수한 기계입니다."
+  },
   "on_hangul": "슈"
  },
  {
@@ -19813,9 +19903,18 @@
   "meaning": "뜻",
   "rule": null,
   "source": "상용2 p.211",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "趣味（しゅみ）",
+   "趣旨（しゅし）"
+  ],
+  "examples_ko": [
+   "취미",
+   "취지"
+  ],
+  "sentence": {
+   "ja": "趣味は読書です。",
+   "ko": "취미는 독서입니다."
+  },
   "on_hangul": "슈"
  },
  {
@@ -20263,9 +20362,18 @@
   "meaning": "엄습할",
   "rule": null,
   "source": "상용2 p.165",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "世襲（せしゅう）",
+   "襲名（しゅうめい）"
+  ],
+  "examples_ko": [
+   "세습",
+   "습명"
+  ],
+  "sentence": {
+   "ja": "伝統を世襲します。",
+   "ko": "전통을 세습합니다."
+  },
   "on_hangul": "슈우"
  },
  {
@@ -20560,9 +20668,18 @@
   "meaning": "눈깜짝일",
   "rule": null,
   "source": "상용2 p.521",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "瞬間（しゅんかん）",
+   "瞬時（しゅんじ）"
+  ],
+  "examples_ko": [
+   "순간",
+   "순식간"
+  ],
+  "sentence": {
+   "ja": "瞬間に決めます。",
+   "ko": "순간에 결정합니다."
+  },
   "on_hangul": "슈응"
  },
  {
@@ -21112,9 +21229,18 @@
   "meaning": "드러날",
   "rule": null,
   "source": "상용2 p.451",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "表彰（ひょうしょう）",
+   "顕彰（けんしょう）"
+  ],
+  "examples_ko": [
+   "표창",
+   "현창"
+  ],
+  "sentence": {
+   "ja": "功績を表彰します。",
+   "ko": "공적을 표창합니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21418,9 +21544,18 @@
   "meaning": "증세",
   "rule": null,
   "source": "상용2 p.542",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "症状（しょうじょう）",
+   "症例（しょうれい）"
+  ],
+  "examples_ko": [
+   "증상",
+   "증례"
+  ],
+  "sentence": {
+   "ja": "症状を医者に伝えます。",
+   "ko": "증상을 의사에게 전합니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21487,9 +21622,18 @@
   "meaning": "상서",
   "rule": null,
   "source": "상용2 p.147",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "吉祥（きっしょう）",
+   "祥瑞（しょうずい）"
+  ],
+  "examples_ko": [
+   "길상",
+   "상서로움"
+  ],
+  "sentence": {
+   "ja": "吉祥の印です。",
+   "ko": "길상의 표시입니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21715,9 +21859,18 @@
   "meaning": "자세할",
   "rule": null,
   "source": "상용2 p.148",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "詳細（しょうさい）",
+   "詳しい（くわしい）"
+  ],
+  "examples_ko": [
+   "상세",
+   "자세하다"
+  ],
+  "sentence": {
+   "ja": "詳細を確認します。",
+   "ko": "상세 내용을 확인합니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21871,9 +22024,18 @@
   "meaning": "불릴",
   "rule": null,
   "source": "상용2 p.185",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "増殖（ぞうしょく）",
+   "養殖（ようしょく）"
+  ],
+  "examples_ko": [
+   "증식",
+   "양식"
+  ],
+  "sentence": {
+   "ja": "魚を養殖します。",
+   "ko": "물고기를 양식합니다."
+  },
   "on_hangul": "쇼쿠"
  },
  {
@@ -22006,9 +22168,18 @@
   "meaning": "꾸밀",
   "rule": null,
   "source": "상용2 p.370",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "飾り（かざり）",
+   "装飾（そうしょく）"
+  ],
+  "examples_ko": [
+   "장식",
+   "장식"
+  ],
+  "sentence": {
+   "ja": "部屋を飾ります。",
+   "ko": "방을 꾸밉니다."
+  },
   "on_hangul": "쇼쿠"
  },
  {
@@ -23059,9 +23230,18 @@
   "meaning": "굴대",
   "rule": null,
   "source": "상용2 p.194",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "車軸（しゃじく）",
+   "中心軸（ちゅうしんじく）"
+  ],
+  "examples_ko": [
+   "차축",
+   "중심축"
+  ],
+  "sentence": {
+   "ja": "軸を中心に回ります。",
+   "ko": "축을 중심으로 돕니다."
+  },
   "on_hangul": "지쿠"
  },
  {
@@ -23245,9 +23425,18 @@
   "meaning": "목숨",
   "rule": null,
   "source": "상용2 p.239",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "寿命（じゅみょう）",
+   "長寿（ちょうじゅ）"
+  ],
+  "examples_ko": [
+   "수명",
+   "장수"
+  ],
+  "sentence": {
+   "ja": "寿命が延びました。",
+   "ko": "수명이 늘어났습니다."
+  },
   "on_hangul": "주"
  },
  {
@@ -23578,9 +23767,18 @@
   "meaning": "글방",
   "rule": null,
   "source": "상용2 p.502",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "塾（じゅく）",
+   "私塾（しじゅく）"
+  ],
+  "examples_ko": [
+   "학원",
+   "사설 학원"
+  ],
+  "sentence": {
+   "ja": "塾に通います。",
+   "ko": "학원에 다닙니다."
+  },
   "on_hangul": "주쿠"
  },
  {
@@ -23680,9 +23878,18 @@
   "meaning": "돌",
   "rule": null,
   "source": "상용2 p.133",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "巡回（じゅんかい）",
+   "巡査（じゅんさ）"
+  ],
+  "examples_ko": [
+   "순회",
+   "순경"
+  ],
+  "sentence": {
+   "ja": "会場を巡回します。",
+   "ko": "행사장을 순회합니다."
+  },
   "on_hangul": "주응"
  },
  {
@@ -23710,9 +23917,18 @@
   "meaning": "열흘",
   "rule": null,
   "source": "상용2 p.223",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "旬（しゅん）",
+   "上旬（じょうじゅん）"
+  ],
+  "examples_ko": [
+   "제철",
+   "상순"
+  ],
+  "sentence": {
+   "ja": "旬の野菜を食べます。",
+   "ko": "제철 채소를 먹습니다."
+  },
   "on_hangul": "주응"
  },
  {
@@ -23998,9 +24214,18 @@
   "meaning": "어른",
   "rule": null,
   "source": "상용2 p.304",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "丈夫（じょうぶ）",
+   "身の丈（みのたけ）"
+  ],
+  "examples_ko": [
+   "튼튼함",
+   "키"
+  ],
+  "sentence": {
+   "ja": "丈夫な靴です。",
+   "ko": "튼튼한 신발입니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -24265,9 +24490,18 @@
   "meaning": "깨끗할",
   "rule": null,
   "source": "상용2 p.298",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "浄化（じょうか）",
+   "清浄（せいじょう）"
+  ],
+  "examples_ko": [
+   "정화",
+   "청정"
+  ],
+  "sentence": {
+   "ja": "水を浄化します。",
+   "ko": "물을 정화합니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -24523,9 +24757,18 @@
   "meaning": "다할",
   "rule": null,
   "source": "상용2 p.206",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "尽力（じんりょく）",
+   "無尽（むじん）"
+  ],
+  "examples_ko": [
+   "진력",
+   "무진"
+  ],
+  "sentence": {
+   "ja": "尽力に感謝します。",
+   "ko": "진력에 감사합니다."
+  },
   "on_hangul": "지응"
  },
  {
@@ -24607,9 +24850,18 @@
   "meaning": "모름지기",
   "rule": null,
   "source": "상용2 p.176",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "必須（ひっす）",
+   "須らく（すべからく）"
+  ],
+  "examples_ko": [
+   "필수",
+   "모름지기"
+  ],
+  "sentence": {
+   "ja": "必須の資料です。",
+   "ko": "필수 자료입니다."
+  },
   "on_hangul": "스"
  },
  {
@@ -25270,9 +25522,18 @@
   "meaning": "가지런할",
   "rule": null,
   "source": "상용1 p.269",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "斉唱（せいしょう）",
+   "一斉（いっせい）"
+  ],
+  "examples_ko": [
+   "제창",
+   "일제히"
+  ],
+  "sentence": {
+   "ja": "一斉に歌います。",
+   "ko": "일제히 노래합니다."
+  },
   "on_hangul": "세이"
  },
  {
@@ -25381,9 +25642,18 @@
   "meaning": "희생",
   "rule": null,
   "source": "상용2 p.434",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "牲畜（せいちく）",
+   "犠牲（ぎせい）"
+  ],
+  "examples_ko": [
+   "가축",
+   "희생"
+  ],
+  "sentence": {
+   "ja": "牲畜を飼育します。",
+   "ko": "가축을 기릅니다."
+  },
   "on_hangul": "세이"
  },
  {
@@ -26242,9 +26512,18 @@
   "meaning": "신선",
   "rule": null,
   "source": "상용2 p.075",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "仙人（せんにん）",
+   "仙台（せんだい）"
+  ],
+  "examples_ko": [
+   "선인",
+   "센다이"
+  ],
+  "sentence": {
+   "ja": "仙台に行きます。",
+   "ko": "센다이에 갑니다."
+  },
   "on_hangul": "세응"
  },
  {
@@ -26566,9 +26845,18 @@
   "meaning": "잠길",
   "rule": null,
   "source": "상용2 p.503",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "潜水（せんすい）",
+   "潜在（せんざい）"
+  ],
+  "examples_ko": [
+   "잠수",
+   "잠재"
+  ],
+  "sentence": {
+   "ja": "海で潜水します。",
+   "ko": "바다에서 잠수합니다."
+  },
   "on_hangul": "세응"
  },
  {
@@ -27175,9 +27463,18 @@
   "meaning": "주춧돌",
   "rule": null,
   "source": "상용2 p.543",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "基礎（きそ）",
+   "礎石（そせき）"
+  ],
+  "examples_ko": [
+   "기초",
+   "초석"
+  ],
+  "sentence": {
+   "ja": "基礎を固めます。",
+   "ko": "기초를 다집니다."
+  },
   "on_hangul": "소"
  },
  {
@@ -27331,9 +27628,18 @@
   "meaning": "막을",
   "rule": null,
   "source": "상용2 p.463",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "阻止（そし）",
+   "阻害（そがい）"
+  ],
+  "examples_ko": [
+   "저지",
+   "저해"
+  ],
+  "sentence": {
+   "ja": "問題の発生を阻止します。",
+   "ko": "문제의 발생을 막습니다."
+  },
   "on_hangul": "소"
  },
  {
@@ -27742,9 +28048,18 @@
   "meaning": "일찍",
   "rule": null,
   "source": null,
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "曽祖父（そうそふ）",
+   "曽孫（そうそん）"
+  ],
+  "examples_ko": [
+   "증조부",
+   "증손"
+  ],
+  "sentence": {
+   "ja": "曽祖父の写真です。",
+   "ko": "증조부의 사진입니다."
+  },
   "on_hangul": "소우"
  },
  {
@@ -28267,9 +28582,18 @@
   "meaning": "곧",
   "rule": null,
   "source": "상용1 p.468",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "即座（そくざ）",
+   "即時（そくじ）"
+  ],
+  "examples_ko": [
+   "즉시",
+   "즉시"
+  ],
+  "sentence": {
+   "ja": "即座に返事をします。",
+   "ko": "즉시 답변합니다."
+  },
   "on_hangul": "소쿠"
  },
  {
