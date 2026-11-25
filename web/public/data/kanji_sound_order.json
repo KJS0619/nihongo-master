@@ -16384,9 +16384,18 @@
   "meaning": "조사할",
   "rule": null,
   "source": "상용1 p.449",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "調査（ちょうさ）",
+   "検査（けんさ）"
+  ],
+  "examples_ko": [
+   "조사",
+   "검사"
+  ],
+  "sentence": {
+   "ja": "調査の結果です。",
+   "ko": "조사 결과입니다."
+  },
   "on_hangul": "사"
  },
  {
@@ -16513,9 +16522,18 @@
   "meaning": "아내",
   "rule": null,
   "source": "상용1 p.388",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "夫妻（ふさい）",
+   "妻（つま）"
+  ],
+  "examples_ko": [
+   "부부",
+   "아내"
+  ],
+  "sentence": {
+   "ja": "妻と買い物に行きます。",
+   "ko": "아내와 장을 보러 갑니다."
+  },
   "on_hangul": "사이"
  },
  {
@@ -16582,9 +16600,18 @@
   "meaning": "캘",
   "rule": null,
   "source": "상용1 p.245",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "採用（さいよう）",
+   "採点（さいてん）"
+  ],
+  "examples_ko": [
+   "채용",
+   "채점"
+  ],
+  "sentence": {
+   "ja": "新しい人を採用します。",
+   "ko": "새 사람을 채용합니다."
+  },
   "on_hangul": "사이"
  },
  {
@@ -16861,9 +16888,18 @@
   "meaning": "사이",
   "rule": null,
   "source": "상용1 p.427",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "国際（こくさい）",
+   "実際（じっさい）"
+  ],
+  "examples_ko": [
+   "국제",
+   "실제"
+  ],
+  "sentence": {
+   "ja": "国際会議に出ます。",
+   "ko": "국제회의에 참석합니다."
+  },
   "on_hangul": "사이"
  },
  {
@@ -17440,9 +17476,18 @@
   "meaning": "도울",
   "rule": null,
   "source": "상용1 p.393",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "賛成（さんせい）",
+   "賛同（さんどう）"
+  ],
+  "examples_ko": [
+   "찬성",
+   "찬동"
+  ],
+  "sentence": {
+   "ja": "提案に賛成します。",
+   "ko": "제안에 찬성합니다."
+  },
   "on_hangul": "사응"
  },
  {
@@ -17515,9 +17560,18 @@
   "meaning": "있을",
   "rule": null,
   "source": "상용1 p.437",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "現在（げんざい）",
+   "在庫（ざいこ）"
+  ],
+  "examples_ko": [
+   "현재",
+   "재고"
+  ],
+  "sentence": {
+   "ja": "在庫を確認します。",
+   "ko": "재고를 확인합니다."
+  },
   "on_hangul": "자이"
  },
  {
@@ -17554,9 +17608,18 @@
   "meaning": "허물",
   "rule": null,
   "source": "상용1 p.432",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "罪悪感（ざいあくかん）",
+   "罪（つみ）"
+  ],
+  "examples_ko": [
+   "죄책감",
+   "죄"
+  ],
+  "sentence": {
+   "ja": "罪を反省します。",
+   "ko": "잘못을 반성합니다."
+  },
   "on_hangul": "자이"
  },
  {
@@ -17569,9 +17632,18 @@
   "meaning": "재물",
   "rule": null,
   "source": "상용1 p.259",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "財産（ざいさん）",
+   "財布（さいふ）"
+  ],
+  "examples_ko": [
+   "재산",
+   "지갑"
+  ],
+  "sentence": {
+   "ja": "財布を探します。",
+   "ko": "지갑을 찾습니다."
+  },
   "on_hangul": "자이"
  },
  {
@@ -17584,9 +17656,18 @@
   "meaning": "섞일",
   "rule": null,
   "source": "상용1 p.190",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "雑誌（ざっし）",
+   "雑談（ざつだん）"
+  ],
+  "examples_ko": [
+   "잡지",
+   "잡담"
+  ],
+  "sentence": {
+   "ja": "雑誌を読みます。",
+   "ko": "잡지를 읽습니다."
+  },
   "on_hangul": "자츠"
  },
  {
@@ -17731,9 +17812,18 @@
   "meaning": "사기",
   "rule": null,
   "source": "상용1 p.422",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "歴史（れきし）",
+   "史料（しりょう）"
+  ],
+  "examples_ko": [
+   "역사",
+   "사료"
+  ],
+  "sentence": {
+   "ja": "日本の歴史を学びます。",
+   "ko": "일본의 역사를 배웁니다."
+  },
   "on_hangul": "시"
  },
  {
@@ -18052,9 +18142,18 @@
   "meaning": "지탱할",
   "rule": null,
   "source": "상용1 p.239",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "支店（してん）",
+   "支持（しじ）"
+  ],
+  "examples_ko": [
+   "지점",
+   "지지"
+  ],
+  "sentence": {
+   "ja": "支店の場所を聞きます。",
+   "ko": "지점의 위치를 묻습니다."
+  },
   "on_hangul": "시"
  },
  {
@@ -18097,9 +18196,18 @@
   "meaning": "가지",
   "rule": null,
   "source": "상용1 p.239",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "枝豆（えだまめ）",
+   "枝葉（しよう）"
+  ],
+  "examples_ko": [
+   "풋콩",
+   "지엽"
+  ],
+  "sentence": {
+   "ja": "枝が折れました。",
+   "ko": "가지가 부러졌습니다."
+  },
   "on_hangul": "시"
  },
  {
@@ -18649,9 +18757,18 @@
   "meaning": "알",
   "rule": null,
   "source": "상용1 p.290",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "知識（ちしき）",
+   "常識（じょうしき）"
+  ],
+  "examples_ko": [
+   "지식",
+   "상식"
+  ],
+  "sentence": {
+   "ja": "知識を深めます。",
+   "ko": "지식을 깊게 합니다."
+  },
   "on_hangul": "시키"
  },
  {
@@ -20587,9 +20704,18 @@
   "meaning": "부를",
   "rule": null,
   "source": "상용1 p.273",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "招待（しょうたい）",
+   "招集（しょうしゅう）"
+  ],
+  "examples_ko": [
+   "초대",
+   "소집"
+  ],
+  "sentence": {
+   "ja": "友達を招待します。",
+   "ko": "친구를 초대합니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21079,9 +21205,18 @@
   "meaning": "상줄",
   "rule": null,
   "source": "상용1 p.454",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "賞品（しょうひん）",
+   "受賞（じゅしょう）"
+  ],
+  "examples_ko": [
+   "상품",
+   "수상"
+  ],
+  "sentence": {
+   "ja": "賞品をもらいました。",
+   "ko": "상품을 받았습니다."
+  },
   "on_hangul": "쇼우"
  },
  {
@@ -21208,9 +21343,18 @@
   "meaning": "직분",
   "rule": null,
   "source": "상용1 p.290",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "職場（しょくば）",
+   "就職（しゅうしょく）"
+  ],
+  "examples_ko": [
+   "직장",
+   "취직"
+  ],
+  "sentence": {
+   "ja": "職場で働きます。",
+   "ko": "직장에서 일합니다."
+  },
   "on_hangul": "쇼쿠"
  },
  {
@@ -21868,9 +22012,18 @@
   "meaning": "닮을",
   "rule": null,
   "source": "상용1 p.371",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "似合う（にあう）",
+   "類似（るいじ）"
+  ],
+  "examples_ko": [
+   "어울리다",
+   "유사"
+  ],
+  "sentence": {
+   "ja": "服が似合います。",
+   "ko": "옷이 잘 어울립니다."
+  },
   "on_hangul": "지"
  },
  {
@@ -22111,9 +22264,18 @@
   "meaning": "보일",
   "rule": null,
   "source": "상용1 p.067",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "指示（しじ）",
+   "表示（ひょうじ）"
+  ],
+  "examples_ko": [
+   "지시",
+   "표시"
+  ],
+  "sentence": {
+   "ja": "指示に従います。",
+   "ko": "지시에 따릅니다."
+  },
   "on_hangul": "지"
  },
  {
@@ -22672,9 +22834,18 @@
   "meaning": "재주",
   "rule": null,
   "source": "상용1 p.137",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "技術（ぎじゅつ）",
+   "手術（しゅじゅつ）"
+  ],
+  "examples_ko": [
+   "기술",
+   "수술"
+  ],
+  "sentence": {
+   "ja": "新しい技術を学びます。",
+   "ko": "새로운 기술을 배웁니다."
+  },
   "on_hangul": "주츠"
  },
  {
@@ -22687,9 +22858,18 @@
   "meaning": "베풀",
   "rule": null,
   "source": "상용1 p.136",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "記述（きじゅつ）",
+   "陳述（ちんじゅつ）"
+  ],
+  "examples_ko": [
+   "기술",
+   "진술"
+  ],
+  "sentence": {
+   "ja": "意見を述べます。",
+   "ko": "의견을 말합니다."
+  },
   "on_hangul": "주츠"
  },
  {
@@ -22777,9 +22957,18 @@
   "meaning": "준할",
   "rule": null,
   "source": "상용1 p.190",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "準備（じゅんび）",
+   "水準（すいじゅん）"
+  ],
+  "examples_ko": [
+   "준비",
+   "수준"
+  ],
+  "sentence": {
+   "ja": "準備を始めます。",
+   "ko": "준비를 시작합니다."
+  },
   "on_hangul": "주응"
  },
  {
@@ -23185,9 +23374,18 @@
   "meaning": "항상",
   "rule": null,
   "source": "상용1 p.454",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "日常（にちじょう）",
+   "通常（つうじょう）"
+  ],
+  "examples_ko": [
+   "일상",
+   "보통"
+  ],
+  "sentence": {
+   "ja": "日常の生活です。",
+   "ko": "일상생활입니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -23200,9 +23398,18 @@
   "meaning": "뜻",
   "rule": null,
   "source": "상용1 p.410",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "感情（かんじょう）",
+   "事情（じじょう）"
+  ],
+  "examples_ko": [
+   "감정",
+   "사정"
+  ],
+  "sentence": {
+   "ja": "感情を表します。",
+   "ko": "감정을 드러냅니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -23245,9 +23452,18 @@
   "meaning": "형상",
   "rule": null,
   "source": "상용1 p.329 / 상용1 p.329",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "状態（じょうたい）",
+   "状況（じょうきょう）"
+  ],
+  "examples_ko": [
+   "상태",
+   "상황"
+  ],
+  "sentence": {
+   "ja": "状態を報告します。",
+   "ko": "상태를 보고합니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -23974,9 +24190,18 @@
   "meaning": "형세",
   "rule": null,
   "source": "상용1 p.157",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "勢い（いきおい）",
+   "情勢（じょうせい）"
+  ],
+  "examples_ko": [
+   "기세",
+   "정세"
+  ],
+  "sentence": {
+   "ja": "勢いよく走ります。",
+   "ko": "기세 좋게 달립니다."
+  },
   "on_hangul": "세이"
  },
  {
@@ -24319,9 +24544,18 @@
   "meaning": "정할",
   "rule": null,
   "source": "상용1 p.410",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "精神（せいしん）",
+   "精密（せいみつ）"
+  ],
+  "examples_ko": [
+   "정신",
+   "정밀"
+  ],
+  "sentence": {
+   "ja": "精神を集中します。",
+   "ko": "정신을 집중합니다."
+  },
   "on_hangul": "세이"
  },
  {
@@ -24691,9 +24925,18 @@
   "meaning": "길쌈",
   "rule": null,
   "source": "상용1 p.411",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "成績（せいせき）",
+   "業績（ぎょうせき）"
+  ],
+  "examples_ko": [
+   "성적",
+   "업적"
+  ],
+  "sentence": {
+   "ja": "成績が上がりました。",
+   "ko": "성적이 올랐습니다."
+  },
   "on_hangul": "세키"
  },
  {
@@ -24721,9 +24964,18 @@
   "meaning": "꾸짖을",
   "rule": null,
   "source": "상용1 p.199",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "責任（せきにん）",
+   "責め（せめ）"
+  ],
+  "examples_ko": [
+   "책임",
+   "책망"
+  ],
+  "sentence": {
+   "ja": "責任を果たします。",
+   "ko": "책임을 다합니다."
+  },
   "on_hangul": "세키"
  },
  {
@@ -24946,9 +25198,18 @@
   "meaning": "베풀",
   "rule": null,
   "source": "상용1 p.311",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "設備（せつび）",
+   "施設（しせつ）"
+  ],
+  "examples_ko": [
+   "설비",
+   "시설"
+  ],
+  "sentence": {
+   "ja": "設備を点検します。",
+   "ko": "설비를 점검합니다."
+  },
   "on_hangul": "세츠"
  },
  {
@@ -25546,9 +25807,18 @@
   "meaning": "세금",
   "rule": null,
   "source": "상용1 p.392",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "税金（ぜいきん）",
+   "消費税（しょうひぜい）"
+  ],
+  "examples_ko": [
+   "세금",
+   "소비세"
+  ],
+  "sentence": {
+   "ja": "税金を払います。",
+   "ko": "세금을 냅니다."
+  },
   "on_hangul": "제이"
  },
  {
@@ -25561,9 +25831,18 @@
   "meaning": "끊을",
   "rule": null,
   "source": "상용1 p.186",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "絶対（ぜったい）",
+   "絶景（ぜっけい）"
+  ],
+  "examples_ko": [
+   "절대",
+   "절경"
+  ],
+  "sentence": {
+   "ja": "絶景を眺めます。",
+   "ko": "절경을 바라봅니다."
+  },
   "on_hangul": "제츠"
  },
  {
@@ -26863,9 +27142,18 @@
   "meaning": "헤아릴",
   "rule": null,
   "source": "상용1 p.277",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "測定（そくてい）",
+   "予測（よそく）"
+  ],
+  "examples_ko": [
+   "측정",
+   "예측"
+  ],
+  "sentence": {
+   "ja": "温度を測定します。",
+   "ko": "온도를 측정합니다."
+  },
   "on_hangul": "소쿠"
  },
  {
@@ -27004,9 +27292,18 @@
   "meaning": "덜",
   "rule": null,
   "source": "상용1 p.200",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "損害（そんがい）",
+   "損失（そんしつ）"
+  ],
+  "examples_ko": [
+   "손해",
+   "손실"
+  ],
+  "sentence": {
+   "ja": "損をしました。",
+   "ko": "손해를 봤습니다."
+  },
   "on_hangul": "소응"
  },
  {
@@ -27058,9 +27355,18 @@
   "meaning": "형상",
   "rule": null,
   "source": "상용1 p.050",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "画像（がぞう）",
+   "想像（そうぞう）"
+  ],
+  "examples_ko": [
+   "화상",
+   "상상"
+  ],
+  "sentence": {
+   "ja": "画像を保存します。",
+   "ko": "화상을 저장합니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -27073,9 +27379,18 @@
   "meaning": "더할",
   "rule": null,
   "source": "상용1 p.198",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "増加（ぞうか）",
+   "増税（ぞうぜい）"
+  ],
+  "examples_ko": [
+   "증가",
+   "증세"
+  ],
+  "sentence": {
+   "ja": "人数が増えました。",
+   "ko": "인원이 늘었습니다."
+  },
   "on_hangul": "조우"
  },
  {
@@ -27148,9 +27463,18 @@
   "meaning": "지을",
   "rule": null,
   "source": "상용1 p.370",
-  "examples": [],
-  "examples_ko": [],
-  "sentence": null,
+  "examples": [
+   "製造（せいぞう）",
+   "造船（ぞうせん）"
+  ],
+  "examples_ko": [
+   "제조",
+   "조선"
+  ],
+  "sentence": {
+   "ja": "製品を造ります。",
+   "ko": "제품을 만듭니다."
+  },
   "on_hangul": "조우"
  },
  {
