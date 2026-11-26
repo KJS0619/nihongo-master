@@ -1,0 +1,5142 @@
+[
+  {
+    "id": "1",
+    "word": "私",
+    "reading": "わたし",
+    "meaning": "나, 저",
+    "example_jp": "私は学生です。",
+    "example_furigana": "わたしはがくせいです。",
+    "example_ko": "나는 학생입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "2",
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "사람",
+    "example_jp": "あの人は優しいです。",
+    "example_furigana": "あのひとはやさしいです。",
+    "example_ko": "저 사람은 친절합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "3",
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "오늘",
+    "example_jp": "今日は天気がいいです。",
+    "example_furigana": "きょうはてんきがいいです。",
+    "example_ko": "오늘은 날씨가 좋습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "4",
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "내일",
+    "example_jp": "明日は友達と会います。",
+    "example_furigana": "あしたはともだちとあいます。",
+    "example_ko": "내일은 친구를 만납니다.",
+    "source": "openai"
+  },
+  {
+    "id": "5",
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "어제",
+    "example_jp": "昨日は映画を見ました。",
+    "example_furigana": "きのうはえいがをみました。",
+    "example_ko": "어제는 영화를 봤습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "6",
+    "word": "今",
+    "reading": "いま",
+    "meaning": "지금",
+    "example_jp": "今、勉強しています。",
+    "example_furigana": "いま、べんきょうしています。",
+    "example_ko": "지금 공부하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "7",
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "시간",
+    "example_jp": "時間が足りません。",
+    "example_furigana": "じかんがたりません。",
+    "example_ko": "시간이 부족합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "8",
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "매일",
+    "example_jp": "毎日運動しています。",
+    "example_furigana": "まいにちうんどうしています。",
+    "example_ko": "매일 운동하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "9",
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "아침",
+    "example_jp": "朝ごはんを食べます。",
+    "example_furigana": "あさごはんをたべます。",
+    "example_ko": "아침을 먹습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "10",
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "낮, 점심",
+    "example_jp": "昼に友達とランチです。",
+    "example_furigana": "ひるともだちとランチです。",
+    "example_ko": "낮에 친구와 점심입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "11",
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "밤",
+    "example_jp": "夜は星がきれいです。",
+    "example_furigana": "よるはほしがきれいです。",
+    "example_ko": "밤은 별이 아름답습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "12",
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "오전",
+    "example_jp": "午前中は忙しいです。",
+    "example_furigana": "ごぜんちゅうはいそがしいです。",
+    "example_ko": "오전 중에는 바쁩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "13",
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "오후",
+    "example_jp": "午後に会議があります。",
+    "example_furigana": "ごごにかいぎがあります。",
+    "example_ko": "오후에 회의가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "14",
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "학교",
+    "example_jp": "学校は楽しいです。",
+    "example_furigana": "がっこうはたのしいです。",
+    "example_ko": "학교는 재미있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "15",
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "회사",
+    "example_jp": "会社で働いています。",
+    "example_furigana": "かいしゃではたらいています。",
+    "example_ko": "회사에서 일하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "16",
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "일, 직장",
+    "example_jp": "仕事が終わりました。",
+    "example_furigana": "しごとがおわりました。",
+    "example_ko": "일이 끝났습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "17",
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "공부",
+    "example_jp": "日本語を勉強しています。",
+    "example_furigana": "にほんごをべんきょうしています。",
+    "example_ko": "일본어를 공부하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "18",
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "선생님",
+    "example_jp": "先生は親切です。",
+    "example_furigana": "せんせいはしんせつです。",
+    "example_ko": "선생님은 친절합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "19",
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "학생",
+    "example_jp": "学生は毎日勉強します。",
+    "example_furigana": "がくせいはまいにちべんきょうします。",
+    "example_ko": "학생은 매일 공부합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "20",
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "친구",
+    "example_jp": "友達と遊びます。",
+    "example_furigana": "ともだちとあそびます。",
+    "example_ko": "친구와 놉니다.",
+    "source": "openai"
+  },
+  {
+    "id": "21",
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "가족",
+    "example_jp": "家族と一緒にいます。",
+    "example_furigana": "かぞくといっしょにいます。",
+    "example_ko": "가족과 함께 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "22",
+    "word": "父",
+    "reading": "ちち",
+    "meaning": "아버지",
+    "example_jp": "父は仕事に行きました。",
+    "example_furigana": "ちちはしごとにいきました。",
+    "example_ko": "아버지는 일하러 갔습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "23",
+    "word": "母",
+    "reading": "はは",
+    "meaning": "어머니",
+    "example_jp": "母は料理が上手です。",
+    "example_furigana": "はははりょうりがじょうずです。",
+    "example_ko": "어머니는 요리를 잘하십니다.",
+    "source": "openai"
+  },
+  {
+    "id": "24",
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "형, 오빠",
+    "example_jp": "兄は大学生です。",
+    "example_furigana": "あにはだいがくせいです。",
+    "example_ko": "형은 대학생입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "25",
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "누나, 언니",
+    "example_jp": "姉は本を読んでいます。",
+    "example_furigana": "あねはほんをよんでいます。",
+    "example_ko": "누나는 책을 읽고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "26",
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": "남동생",
+    "example_jp": "弟はサッカーが好きです。",
+    "example_furigana": "おとうとはサッカーがすきです。",
+    "example_ko": "남동생은 축구를 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "27",
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "여동생",
+    "example_jp": "妹はとても可愛いです。",
+    "example_furigana": "いもうとはとてもかわいいです。",
+    "example_ko": "여동생은 매우 귀엽습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "28",
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "이름",
+    "example_jp": "私の名前は田中です。",
+    "example_furigana": "わたしのなまえはたなかです。",
+    "example_ko": "제 이름은 타나카입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "29",
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "전화",
+    "example_jp": "電話をかけます。",
+    "example_furigana": "でんわをかけます。",
+    "example_ko": "전화를 겁니다.",
+    "source": "openai"
+  },
+  {
+    "id": "30",
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "먹다",
+    "example_jp": "寿司を食べたいです。",
+    "example_furigana": "すしをたべたいです。",
+    "example_ko": "초밥을 먹고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "31",
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "마시다",
+    "example_jp": "水を飲みます。",
+    "example_furigana": "みずをのみます。",
+    "example_ko": "물을 마십니다.",
+    "source": "openai"
+  },
+  {
+    "id": "32",
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "가다",
+    "example_jp": "学校に行きます。",
+    "example_furigana": "がっこうにいきます。",
+    "example_ko": "학교에 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "33",
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "오다",
+    "example_jp": "友達が来ます。",
+    "example_furigana": "ともだちがきます。",
+    "example_ko": "친구가 옵니다.",
+    "source": "openai"
+  },
+  {
+    "id": "34",
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "돌아가다",
+    "example_jp": "家に帰ります。",
+    "example_furigana": "いえにかえります。",
+    "example_ko": "집에 돌아갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "35",
+    "word": "見る",
+    "reading": "みる",
+    "meaning": "보다",
+    "example_jp": "テレビを見るのが好きです。",
+    "example_furigana": "てれびをみるのがすきです。",
+    "example_ko": "TV 보는 것을 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "36",
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "듣다, 묻다",
+    "example_jp": "音楽を聞きます。",
+    "example_furigana": "おんがくをききます。",
+    "example_ko": "음악을 듣습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "37",
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "말하다",
+    "example_jp": "日本語を話します。",
+    "example_furigana": "にほんごをはなします。",
+    "example_ko": "일본어를 말합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "38",
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "읽다",
+    "example_jp": "本を読むのが好きです。",
+    "example_furigana": "ほんをよむのがすきです。",
+    "example_ko": "책 읽는 것을 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "39",
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "쓰다",
+    "example_jp": "手紙を書きます。",
+    "example_furigana": "てがみをかきます。",
+    "example_ko": "편지를 씁니다.",
+    "source": "openai"
+  },
+  {
+    "id": "40",
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "사다",
+    "example_jp": "新しい靴を買います。",
+    "example_furigana": "あたらしいくつをかいます。",
+    "example_ko": "새 신발을 삽니다.",
+    "source": "openai"
+  },
+  {
+    "id": "41",
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "알다, 이해하다",
+    "example_jp": "これは簡単だと分かります。",
+    "example_furigana": "これはかんたんだとわかります。",
+    "example_ko": "이것은 쉽다고 알겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "42",
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "높다, 비싸다",
+    "example_jp": "その本は高いです。",
+    "example_furigana": "そのほんはたかいです。",
+    "example_ko": "그 책은 비쌉니다.",
+    "source": "openai"
+  },
+  {
+    "id": "43",
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "싸다",
+    "example_jp": "この店は安いです。",
+    "example_furigana": "このみせはやすいです。",
+    "example_ko": "이 가게는 쌉니다.",
+    "source": "openai"
+  },
+  {
+    "id": "44",
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "새롭다",
+    "example_jp": "新しい車が欲しいです。",
+    "example_furigana": "あたらしいくるまがほしいです。",
+    "example_ko": "새 차가 갖고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "45",
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "오래되다",
+    "example_jp": "この本は古いです。",
+    "example_furigana": "このほんはふるいです。",
+    "example_ko": "이 책은 오래되었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "46",
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "크다",
+    "example_jp": "大きい犬がいます。",
+    "example_furigana": "おおきいいぬがいます。",
+    "example_ko": "큰 개가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "47",
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "작다",
+    "example_jp": "小さい猫が可愛いです。",
+    "example_furigana": "ちいさいねこがかわいいです。",
+    "example_ko": "작은 고양이가 귀엽습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "48",
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "많다",
+    "example_jp": "人が多いです。",
+    "example_furigana": "ひとがおおいです。",
+    "example_ko": "사람이 많습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "49",
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "적다",
+    "example_jp": "友達は少ないです。",
+    "example_furigana": "ともだちはすくないです。",
+    "example_ko": "친구는 적습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "50",
+    "word": "良い",
+    "reading": "よい",
+    "meaning": "좋다",
+    "example_jp": "良い天気ですね。",
+    "example_furigana": "よいてんきですね。",
+    "example_ko": "좋은 날씨네요.",
+    "source": "openai"
+  },
+  {
+    "id": "51",
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "나쁘다",
+    "example_jp": "その映画は悪いです。",
+    "example_furigana": "その映画(えいが)は悪(わる)いです。",
+    "example_ko": "그 영화는 나쁩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "52",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "meaning": "맛있다",
+    "example_jp": "この料理は美味しいです。",
+    "example_furigana": "この料理(りょうり)は美味(おい)しいです。",
+    "example_ko": "이 요리는 맛있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "53",
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "날씨",
+    "example_jp": "今日の天気はいいです。",
+    "example_furigana": "今日(きょう)の天気(てんき)はいいです。",
+    "example_ko": "오늘의 날씨는 좋습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "54",
+    "word": "水",
+    "reading": "みず",
+    "meaning": "물",
+    "example_jp": "水をください。",
+    "example_furigana": "水(みず)をください。",
+    "example_ko": "물 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "55",
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "책",
+    "example_jp": "この本は面白いです。",
+    "example_furigana": "この本(ほん)は面白(おもしろ)いです。",
+    "example_ko": "이 책은 재미있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "56",
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "영화",
+    "example_jp": "映画を見に行きます。",
+    "example_furigana": "映画(えいが)を見(み)に行(い)きます。",
+    "example_ko": "영화를 보러 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "57",
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "음악",
+    "example_jp": "音楽を聴くのが好きです。",
+    "example_furigana": "音楽(おんがく)を聴(き)くのが好き(すき)です。",
+    "example_ko": "음악 듣는 것을 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "58",
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "자동차",
+    "example_jp": "車で行きます。",
+    "example_furigana": "車(くるま)で行(い)きます。",
+    "example_ko": "차로 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "59",
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "전철",
+    "example_jp": "電車は遅れています。",
+    "example_furigana": "電車(でんしゃ)は遅(おく)れています。",
+    "example_ko": "전철이 지연되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "60",
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "역",
+    "example_jp": "駅で友達に会います。",
+    "example_furigana": "駅(えき)で友達(ともだち)に会(あ)います。",
+    "example_ko": "역에서 친구를 만납니다.",
+    "source": "openai"
+  },
+  {
+    "id": "61",
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "수업",
+    "example_jp": "授業は楽しいです。",
+    "example_furigana": "授業(じゅぎょう)は楽(たの)しいです。",
+    "example_ko": "수업은 즐겁습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "62",
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "질문",
+    "example_jp": "質問がありますか？",
+    "example_furigana": "質問(しつもん)がありますか？",
+    "example_ko": "질문이 있으신가요?",
+    "source": "openai"
+  },
+  {
+    "id": "63",
+    "word": "答え",
+    "reading": "こたえ",
+    "meaning": "대답, 답",
+    "example_jp": "答えは簡単です。",
+    "example_furigana": "答(こた)えは簡単(かんたん)です。",
+    "example_ko": "답은 간단합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "64",
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "의미",
+    "example_jp": "この言葉の意味は何ですか？",
+    "example_furigana": "この言葉(ことば)の意味(いみ)は何(なん)ですか？",
+    "example_ko": "이 단어의 의미는 무엇인가요?",
+    "source": "openai"
+  },
+  {
+    "id": "65",
+    "word": "問題",
+    "reading": "もんだい",
+    "meaning": "문제",
+    "example_jp": "問題を解きました。",
+    "example_furigana": "問題(もんだい)を解(と)きました。",
+    "example_ko": "문제를 풀었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "66",
+    "word": "試験",
+    "reading": "しけん",
+    "meaning": "시험",
+    "example_jp": "試験が近いです。",
+    "example_furigana": "試験(しけん)が近(ちか)いです。",
+    "example_ko": "시험이 가까워요.",
+    "source": "openai"
+  },
+  {
+    "id": "67",
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning": "연습",
+    "example_jp": "毎日練習します。",
+    "example_furigana": "毎日(まいにち)練習(れんしゅう)します。",
+    "example_ko": "매일 연습합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "68",
+    "word": "準備",
+    "reading": "じゅんび",
+    "meaning": "준비",
+    "example_jp": "準備ができました。",
+    "example_furigana": "準備(じゅんび)ができました。",
+    "example_ko": "준비가 되었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "69",
+    "word": "予定",
+    "reading": "よてい",
+    "meaning": "예정",
+    "example_jp": "明日の予定は何ですか？",
+    "example_furigana": "明日(あした)の予定(よてい)は何(なん)ですか？",
+    "example_ko": "내일의 예정은 무엇인가요?",
+    "source": "openai"
+  },
+  {
+    "id": "70",
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "계획",
+    "example_jp": "旅行の計画を立てました。",
+    "example_furigana": "旅行(りょこう)の計画(けいかく)を立(た)てました。",
+    "example_ko": "여행 계획을 세웠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "71",
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "약속",
+    "example_jp": "約束を守ります。",
+    "example_furigana": "約束(やくそく)を守(まも)ります。",
+    "example_ko": "약속을 지킵니다.",
+    "source": "openai"
+  },
+  {
+    "id": "72",
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "여행",
+    "example_jp": "来月旅行に行きます。",
+    "example_furigana": "来月(らいげつ)旅行(りょこう)に行(い)きます。",
+    "example_ko": "다음 달에 여행을 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "73",
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "경험",
+    "example_jp": "いい経験ができました。",
+    "example_furigana": "いい経験(けいけん)ができました。",
+    "example_ko": "좋은 경험을 했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "74",
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaning": "취미",
+    "example_jp": "趣味は読書です。",
+    "example_furigana": "趣味(しゅみ)は読書(どくしょ)です。",
+    "example_ko": "취미는 독서입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "75",
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "운동",
+    "example_jp": "運動は健康に良いです。",
+    "example_furigana": "運動(うんどう)は健康(けんこう)に良(よ)いです。",
+    "example_ko": "운동은 건강에 좋습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "76",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "산책",
+    "example_jp": "公園を散歩しました。",
+    "example_furigana": "公園(こうえん)を散歩(さんぽ)しました。",
+    "example_ko": "공원을 산책했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "77",
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "쇼핑",
+    "example_jp": "買い物に行きます。",
+    "example_furigana": "買(か)い物(もの)に行(い)きます。",
+    "example_ko": "쇼핑하러 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "78",
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "요리",
+    "example_jp": "料理が得意です。",
+    "example_furigana": "料理(りょうり)が得意(とくい)です。",
+    "example_ko": "요리가 특기입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "79",
+    "word": "食事",
+    "reading": "しょくじ",
+    "meaning": "식사",
+    "example_jp": "食事の時間です。",
+    "example_furigana": "食事(しょくじ)の時間(じかん)です。",
+    "example_ko": "식사 시간입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "80",
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning": "청소",
+    "example_jp": "掃除を手伝ってください。",
+    "example_furigana": "掃除(そうじ)を手伝(てつだ)ってください。",
+    "example_ko": "청소를 도와주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "81",
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning": "세탁",
+    "example_jp": "洗濯を忘れました。",
+    "example_furigana": "洗濯(せんたく)を忘(わす)れました。",
+    "example_ko": "세탁하는 것을 잊었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "82",
+    "word": "生活",
+    "reading": "せいかつ",
+    "meaning": "생활",
+    "example_jp": "楽しい生活をしています。",
+    "example_furigana": "楽(たの)しい生活(せいかつ)をしています。",
+    "example_ko": "즐거운 생활을 하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "83",
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "건강",
+    "example_jp": "健康が大切です。",
+    "example_furigana": "健康(けんこう)が大切(たいせつ)です。",
+    "example_ko": "건강이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "84",
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "병",
+    "example_jp": "病気になりました。",
+    "example_furigana": "病気(びょうき)になりました。",
+    "example_ko": "병에 걸렸습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "85",
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "병원",
+    "example_jp": "病院に行きます。",
+    "example_furigana": "病院(びょういん)に行(い)きます。",
+    "example_ko": "병원에 갑니다.",
+    "source": "openai"
+  },
+  {
+    "id": "86",
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "약",
+    "example_jp": "この薬は効きます。",
+    "example_furigana": "この薬(くすり)は効(き)きます。",
+    "example_ko": "이 약은 효과가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "87",
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "가게",
+    "example_jp": "あの店は安いです。",
+    "example_furigana": "あの店(みせ)は安(やす)いです。",
+    "example_ko": "저 가게는 저렴합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "88",
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "은행",
+    "example_jp": "銀行にお金を入れました。",
+    "example_furigana": "銀行(ぎんこう)にお金(おかね)を入(い)れました。",
+    "example_ko": "은행에 돈을 넣었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "89",
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "도서관",
+    "example_jp": "図書館で勉強します。",
+    "example_furigana": "図書館(としょかん)で勉強(べんきょう)します。",
+    "example_ko": "도서관에서 공부합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "90",
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "미술관",
+    "example_jp": "美術館に行きました。",
+    "example_furigana": "美術館(びじゅつかん)に行(い)きました。",
+    "example_ko": "미술관에 갔습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "91",
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "공원",
+    "example_jp": "公園で遊びましょう。",
+    "example_furigana": "公園(こうえん)で遊(あそ)びましょう。",
+    "example_ko": "공원에서 놀아요.",
+    "source": "openai"
+  },
+  {
+    "id": "92",
+    "word": "交通",
+    "reading": "こうつう",
+    "meaning": "교통",
+    "example_jp": "交通が便利です。",
+    "example_furigana": "交通(こうつう)が便利(べんり)です。",
+    "example_ko": "교통이 편리합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "93",
+    "word": "道",
+    "reading": "みち",
+    "meaning": "길",
+    "example_jp": "この道は狭いです。",
+    "example_furigana": "この道(みち)は狭(せま)いです。",
+    "example_ko": "이 길은 좁습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "94",
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "지도",
+    "example_jp": "地図を見ます。",
+    "example_furigana": "地図(ちず)を見(み)ます。",
+    "example_ko": "지도를 봅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "95",
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning": "장소",
+    "example_jp": "この場所は静かです。",
+    "example_furigana": "この場所(ばしょ)は静(しず)かです。",
+    "example_ko": "이 장소는 조용합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "96",
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "주소",
+    "example_jp": "住所を教えてください。",
+    "example_furigana": "住所(じゅうしょ)を教(おし)えてください。",
+    "example_ko": "주소를 알려주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "97",
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "번호",
+    "example_jp": "電話番号を確認しました。",
+    "example_furigana": "電話番号(でんわばんごう)を確認(かくにん)しました。",
+    "example_ko": "전화번호를 확인했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "98",
+    "word": "連絡",
+    "reading": "れんらく",
+    "meaning": "연락",
+    "example_jp": "連絡を取ります。",
+    "example_furigana": "連絡(れんらく)を取(と)ります。",
+    "example_ko": "연락하겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "99",
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "설명",
+    "example_jp": "この説明はわかりやすいです。",
+    "example_furigana": "この説明(せつめい)はわかりやすいです。",
+    "example_ko": "이 설명은 이해하기 쉽습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "100",
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "상담",
+    "example_jp": "友達に相談します。",
+    "example_furigana": "友達(ともだち)に相談(そうだん)します。",
+    "example_ko": "친구에게 상담합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "101",
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaning": "주의",
+    "example_jp": "道を渡るときは注意してください。",
+    "example_furigana": "道(みち)を渡(わた)るときは注意(ちゅうい)してくださいます。",
+    "example_ko": "길을 건널 때는 주의하세요.",
+    "source": "openai"
+  },
+  {
+    "id": "102",
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "걱정",
+    "example_jp": "明日の天気が心配です。",
+    "example_furigana": "明日(あした)の天気(てんき)が心配(しんぱい)です。",
+    "example_ko": "내일 날씨가 걱정이에요.",
+    "source": "openai"
+  },
+  {
+    "id": "103",
+    "word": "安心",
+    "reading": "あんしん",
+    "meaning": "안심",
+    "example_jp": "無事に帰れて安心しました。",
+    "example_furigana": "無事(ぶじ)に帰(かえ)れて安心(あんしん)しました。",
+    "example_ko": "무사히 돌아와서 안심했어요.",
+    "source": "openai"
+  },
+  {
+    "id": "104",
+    "word": "気持ち",
+    "reading": "きもち",
+    "meaning": "기분",
+    "example_jp": "今日は気持ちがいいです。",
+    "example_furigana": "今日(きょう)は気持(きも)ちがいいです。",
+    "example_ko": "오늘 기분이 좋습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "105",
+    "word": "思い出",
+    "reading": "おもいで",
+    "meaning": "추억",
+    "example_jp": "子供の頃の思い出があります。",
+    "example_furigana": "子供(こども)の頃(ころ)の思い出(おもいで)があります。",
+    "example_ko": "어릴 적의 추억이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "106",
+    "word": "考え",
+    "reading": "かんがえ",
+    "meaning": "생각",
+    "example_jp": "新しい考えを出しましょう。",
+    "example_furigana": "新(あたら)しい考(かんがえ)を出(だ)しましょう。",
+    "example_ko": "새로운 생각을 내봅시다.",
+    "source": "openai"
+  },
+  {
+    "id": "107",
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "정하다",
+    "example_jp": "旅行の日を決めました。",
+    "example_furigana": "旅行(りょこう)の日(ひ)を決(き)めました。",
+    "example_ko": "여행 날짜를 정했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "108",
+    "word": "届ける",
+    "reading": "とどける",
+    "meaning": "전달하다",
+    "example_jp": "手紙を届けます。",
+    "example_furigana": "手紙(てがみ)を届け(とど)けます。",
+    "example_ko": "편지를 전달합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "109",
+    "word": "届く",
+    "reading": "とどく",
+    "meaning": "도착하다",
+    "example_jp": "荷物が届きました。",
+    "example_furigana": "荷物(にもつ)が届(とど)きました。",
+    "example_ko": "짐이 도착했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "110",
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "보내다",
+    "example_jp": "友達にメールを送ります。",
+    "example_furigana": "友達(ともだち)にメールを送(おく)ります。",
+    "example_ko": "친구에게 메일을 보냅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "111",
+    "word": "受ける",
+    "reading": "うける",
+    "meaning": "받다",
+    "example_jp": "試験を受けます。",
+    "example_furigana": "試験(しけん)を受(う)けます。",
+    "example_ko": "시험을 봅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "112",
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "빌리다",
+    "example_jp": "本を借りたいです。",
+    "example_furigana": "本(ほん)を借(か)りたいです。",
+    "example_ko": "책을 빌리고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "113",
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "빌려주다",
+    "example_jp": "友達にお金を貸します。",
+    "example_furigana": "友達(ともだち)にお金(かね)を貸(か)します。",
+    "example_ko": "친구에게 돈을 빌려줍니다.",
+    "source": "openai"
+  },
+  {
+    "id": "114",
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "돌려주다",
+    "example_jp": "本を返します。",
+    "example_furigana": "本(ほん)を返(かえ)します。",
+    "example_ko": "책을 돌려줍니다.",
+    "source": "openai"
+  },
+  {
+    "id": "115",
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "잊다",
+    "example_jp": "約束を忘れました。",
+    "example_furigana": "約束(やくそく)を忘(わす)れました。",
+    "example_ko": "약속을 잊었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "116",
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "외우다, 기억하다",
+    "example_jp": "単語を覚えています。",
+    "example_furigana": "単語(たんご)を覚(おぼ)えています。",
+    "example_ko": "단어를 기억하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "117",
+    "word": "調べる",
+    "reading": "しらべる",
+    "meaning": "조사하다",
+    "example_jp": "情報を調べます。",
+    "example_furigana": "情報(じょうほう)を調(しら)べます。",
+    "example_ko": "정보를 조사합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "118",
+    "word": "比べる",
+    "reading": "くらべる",
+    "meaning": "비교하다",
+    "example_jp": "二つを比べてみてください。",
+    "example_furigana": "二(ふた)つを比(くら)べてみてください。",
+    "example_ko": "두 개를 비교해 보세요.",
+    "source": "openai"
+  },
+  {
+    "id": "119",
+    "word": "続ける",
+    "reading": "つづける",
+    "meaning": "계속하다",
+    "example_jp": "勉強を続けています。",
+    "example_furigana": "勉強(べんきょう)を続(つづ)けています。",
+    "example_ko": "공부를 계속하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "120",
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning": "시작하다",
+    "example_jp": "新しい仕事を始めました。",
+    "example_furigana": "新(あたら)しい仕事(しごと)を始(はじ)めました。",
+    "example_ko": "새로운 일을 시작했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "121",
+    "word": "案内",
+    "reading": "あんない",
+    "meaning": "안내",
+    "example_jp": "観光案内をします。",
+    "example_furigana": "観光(かんこう)案内(あんない)をします。",
+    "example_ko": "관광 안내를 합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "122",
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "영향",
+    "example_jp": "彼の意見に影響されました。",
+    "example_furigana": "彼(かれ)の意見(いけん)に影響(えいきょう)されました。",
+    "example_ko": "그의 의견에 영향을 받았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "123",
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "응원",
+    "example_jp": "チームを応援しています。",
+    "example_furigana": "チームを応援(おうえん)しています。",
+    "example_ko": "팀을 응원하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "124",
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "회의",
+    "example_jp": "会議は午後にあります。",
+    "example_furigana": "会議(かいぎ)は午後(ごご)にあります。",
+    "example_ko": "회의는 오후에 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "125",
+    "word": "会話",
+    "reading": "かいわ",
+    "meaning": "회화",
+    "example_jp": "日本語の会話を練習します。",
+    "example_furigana": "日本語(にほんご)の会話(かいわ)を練習(れんしゅう)します。",
+    "example_ko": "일본어 회화를 연습합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "126",
+    "word": "関係",
+    "reading": "かんけい",
+    "meaning": "관계",
+    "example_jp": "私たちは友達の関係です。",
+    "example_furigana": "私(わたし)たちは友達(ともだち)の関係(かんけい)です。",
+    "example_ko": "우리는 친구 관계입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "127",
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "환경",
+    "example_jp": "環境を大切にしましょう。",
+    "example_furigana": "環境(かんきょう)を大切(たいせつ)にしましょう。",
+    "example_ko": "환경을 소중히 합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "128",
+    "word": "規則",
+    "reading": "きそく",
+    "meaning": "규칙",
+    "example_jp": "学校の規則を守ります。",
+    "example_furigana": "学校(がっこう)の規則(きそく)を守(まも)ります。",
+    "example_ko": "학교 규칙을 지킵니다.",
+    "source": "openai"
+  },
+  {
+    "id": "129",
+    "word": "機会",
+    "reading": "きかい",
+    "meaning": "기회",
+    "example_jp": "良い機会を逃さないでください。",
+    "example_furigana": "良(よ)い機会(きかい)を逃(のが)さないでください。",
+    "example_ko": "좋은 기회를 놓치지 마세요.",
+    "source": "openai"
+  },
+  {
+    "id": "130",
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "기술",
+    "example_jp": "新しい技術が必要です。",
+    "example_furigana": "新(あたら)しい技術(ぎじゅつ)が必要(ひつよう)です。",
+    "example_ko": "새로운 기술이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "131",
+    "word": "共通",
+    "reading": "きょうつう",
+    "meaning": "공통",
+    "example_jp": "私たちには共通の趣味があります。",
+    "example_furigana": "私(わたし)たちには共通(きょうつう)の趣味(しゅみ)があります。",
+    "example_ko": "우리에게는 공통의 취미가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "132",
+    "word": "競争",
+    "reading": "きょうそう",
+    "meaning": "경쟁",
+    "example_jp": "競争が激しくなっています。",
+    "example_furigana": "競争(きょうそう)が激(はげ)しくなっています。",
+    "example_ko": "경쟁이 치열해지고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "133",
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "교육",
+    "example_jp": "教育は大切です。",
+    "example_furigana": "教育(きょういく)は大切(たいせつ)です。",
+    "example_ko": "교육은 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "134",
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "효과",
+    "example_jp": "この薬の効果はすぐに現れます。",
+    "example_furigana": "この薬(くすり)の効果(こうか)はすぐに現(あらわ)れます。",
+    "example_ko": "이 약의 효과는 곧 나타납니다.",
+    "source": "openai"
+  },
+  {
+    "id": "135",
+    "word": "講義",
+    "reading": "こうぎ",
+    "meaning": "강의",
+    "example_jp": "明日は講義があります。",
+    "example_furigana": "明日(あした)は講義(こうぎ)があります。",
+    "example_ko": "내일 강의가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "136",
+    "word": "行動",
+    "reading": "こうどう",
+    "meaning": "행동",
+    "example_jp": "行動が大切です。",
+    "example_furigana": "行動(こうどう)が大切(たいせつ)です。",
+    "example_ko": "행동이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "137",
+    "word": "国際",
+    "reading": "こくさい",
+    "meaning": "국제",
+    "example_jp": "国際問題について考えています。",
+    "example_furigana": "国際(こくさい)問題(もんだい)について考(かんが)えています。",
+    "example_ko": "국제 문제에 대해 생각하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "138",
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "재료",
+    "example_jp": "料理の材料を買いました。",
+    "example_furigana": "料理(りょうり)の材料(ざいりょう)を買(か)いました。",
+    "example_ko": "요리 재료를 구입했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "139",
+    "word": "参加",
+    "reading": "さんか",
+    "meaning": "참가",
+    "example_jp": "イベントに参加します。",
+    "example_furigana": "イベントに参加(さんか)します。",
+    "example_ko": "이벤트에 참가합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "140",
+    "word": "賛成",
+    "reading": "さんせい",
+    "meaning": "찬성",
+    "example_jp": "その意見に賛成です。",
+    "example_furigana": "その意見(いけん)に賛成(さんせい)です。",
+    "example_ko": "그 의견에 찬성입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "141",
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "사고",
+    "example_jp": "交通事故を見ました。",
+    "example_furigana": "交通(こうつう)事故(じこ)を見(み)ました。",
+    "example_ko": "교통사고를 봤습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "142",
+    "word": "事実",
+    "reading": "じじつ",
+    "meaning": "사실",
+    "example_jp": "それは事実です。",
+    "example_furigana": "それは事実(じじつ)です。",
+    "example_ko": "그것은 사실입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "143",
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "자연",
+    "example_jp": "自然が好きです。",
+    "example_furigana": "自然(しぜん)が好き(すき)です。",
+    "example_ko": "자연을 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "144",
+    "word": "失敗",
+    "reading": "しっぱい",
+    "meaning": "실패",
+    "example_jp": "失敗から学びます。",
+    "example_furigana": "失敗(しっぱい)から学(まな)びます。",
+    "example_ko": "실패에서 배웁니다.",
+    "source": "openai"
+  },
+  {
+    "id": "145",
+    "word": "実際",
+    "reading": "じっさい",
+    "meaning": "실제",
+    "example_jp": "実際に行ってみました。",
+    "example_furigana": "実際(じっさい)に行(い)ってみました。",
+    "example_ko": "실제로 가보았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "146",
+    "word": "社会",
+    "reading": "しゃかい",
+    "meaning": "사회",
+    "example_jp": "社会の問題を考えています。",
+    "example_furigana": "社会(しゃかい)の問題(もんだい)を考(かんが)えています。",
+    "example_ko": "사회의 문제를 생각하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "147",
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "습관",
+    "example_jp": "毎日運動する習慣があります。",
+    "example_furigana": "毎日(まいにち)運動(うんどう)する習慣(しゅうかん)があります。",
+    "example_ko": "매일 운동하는 습관이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "148",
+    "word": "収入",
+    "reading": "しゅうにゅう",
+    "meaning": "수입",
+    "example_jp": "私の収入は増えています。",
+    "example_furigana": "私(わたし)の収入(しゅうにゅう)は増(ふ)えています。",
+    "example_ko": "제 수입이 늘고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "149",
+    "word": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "출발",
+    "example_jp": "旅行の出発は明日です。",
+    "example_furigana": "旅行(りょこう)の出発(しゅっぱつ)は明日(あした)です。",
+    "example_ko": "여행 출발은 내일입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "150",
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "상황",
+    "example_jp": "状況を確認しましょう。",
+    "example_furigana": "状況(じょうきょう)を確認(かくにん)しましょう。",
+    "example_ko": "상황을 확인합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "151",
+    "word": "条件",
+    "reading": "じょうけん",
+    "meaning": "조건",
+    "example_jp": "この条件が必要です。",
+    "example_furigana": "この条件(じょうけん)が必要(ひつよう)です。",
+    "example_ko": "이 조건이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "152",
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "정보",
+    "example_jp": "新しい情報を教えてください。",
+    "example_furigana": "新(あたら)しい情報(じょうほう)を教(おし)えてください。",
+    "example_ko": "새로운 정보를 알려주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "153",
+    "word": "将来",
+    "reading": "しょうらい",
+    "meaning": "장래, 미래",
+    "example_jp": "将来の夢は何ですか。",
+    "example_furigana": "将来(しょうらい)の夢(ゆめ)は何(なん)ですか。",
+    "example_ko": "장래의 꿈은 무엇인가요?",
+    "source": "openai"
+  },
+  {
+    "id": "154",
+    "word": "職業",
+    "reading": "しょくぎょう",
+    "meaning": "직업",
+    "example_jp": "彼の職業は教師です。",
+    "example_furigana": "彼(かれ)の職業(しょくぎょう)は教師(きょうし)です。",
+    "example_ko": "그의 직업은 교사입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "155",
+    "word": "信頼",
+    "reading": "しんらい",
+    "meaning": "신뢰",
+    "example_jp": "彼女を信頼しています。",
+    "example_furigana": "彼女(かのじょ)を信頼(しんらい)しています。",
+    "example_ko": "그녀를 신뢰하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "156",
+    "word": "成功",
+    "reading": "せいこう",
+    "meaning": "성공",
+    "example_jp": "成功するために頑張ります。",
+    "example_furigana": "成功(せいこう)するために頑張(がんば)ります。",
+    "example_ko": "성공하기 위해 노력하겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "157",
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "성장",
+    "example_jp": "彼は成長しています。",
+    "example_furigana": "彼(かれ)は成長(せいちょう)しています。",
+    "example_ko": "그는 성장하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "158",
+    "word": "製品",
+    "reading": "せいひん",
+    "meaning": "제품",
+    "example_jp": "この製品は人気です。",
+    "example_furigana": "この製品(せいひん)は人気(にんき)です。",
+    "example_ko": "이 제품은 인기입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "159",
+    "word": "責任",
+    "reading": "せきにん",
+    "meaning": "책임",
+    "example_jp": "私には責任があります。",
+    "example_furigana": "私(わたし)には責任(せきにん)があります。",
+    "example_ko": "저에게는 책임이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "160",
+    "word": "選択",
+    "reading": "せんたく",
+    "meaning": "선택",
+    "example_jp": "選択肢が多いです。",
+    "example_furigana": "選択(せんたく)肢(し)が多(おお)いです。",
+    "example_ko": "선택지가 많습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "161",
+    "word": "対象",
+    "reading": "たいしょう",
+    "meaning": "대상",
+    "example_jp": "この研究の対象は学生です。",
+    "example_furigana": "この研究(けんきゅう)の対象(たいしょう)は学生(がくせい)です。",
+    "example_ko": "이 연구의 대상은 학생입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "162",
+    "word": "態度",
+    "reading": "たいど",
+    "meaning": "태도",
+    "example_jp": "彼の態度が気に入らない。",
+    "example_furigana": "彼(かれ)の態度(たいど)が気(き)に入(い)らない。",
+    "example_ko": "그의 태도가 마음에 들지 않아요.",
+    "source": "openai"
+  },
+  {
+    "id": "163",
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "meaning": "주목",
+    "example_jp": "この映画に注目しています。",
+    "example_furigana": "この映画(えいが)に注目(ちゅうもく)しています。",
+    "example_ko": "이 영화에 주목하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "164",
+    "word": "調査",
+    "reading": "ちょうさ",
+    "meaning": "조사",
+    "example_jp": "調査結果を待っています。",
+    "example_furigana": "調査(ちょうさ)結果(けっか)を待(ま)っています。",
+    "example_ko": "조사 결과를 기다리고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "165",
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "통역",
+    "example_jp": "彼は通訳をしています。",
+    "example_furigana": "彼(かれ)は通訳(つうやく)をしています。",
+    "example_ko": "그는 통역을 하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "166",
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "제안",
+    "example_jp": "新しい提案があります。",
+    "example_furigana": "新(あたら)しい提案(ていあん)があります。",
+    "example_ko": "새로운 제안이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "167",
+    "word": "適当",
+    "reading": "てきとう",
+    "meaning": "적당",
+    "example_jp": "適当な方法を見つけました。",
+    "example_furigana": "適当(てきとう)な方法(ほうほう)を見(み)つけました。",
+    "example_ko": "적당한 방법을 찾았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "168",
+    "word": "到着",
+    "reading": "とうちゃく",
+    "meaning": "도착",
+    "example_jp": "荷物はもう到着しました。",
+    "example_furigana": "荷物(にもつ)はもう到着(とうちゃく)しました。",
+    "example_ko": "짐은 이미 도착했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "169",
+    "word": "努力",
+    "reading": "どりょく",
+    "meaning": "노력",
+    "example_jp": "努力は必ず報われる。",
+    "example_furigana": "努力(どりょく)は必(かなら)ず報(むく)われる。",
+    "example_ko": "노력은 반드시 보답받는다.",
+    "source": "openai"
+  },
+  {
+    "id": "170",
+    "word": "内容",
+    "reading": "ないよう",
+    "meaning": "내용",
+    "example_jp": "この本の内容は面白いです。",
+    "example_furigana": "この本(ほん)の内容(ないよう)は面白(おもしろ)いです。",
+    "example_ko": "이 책의 내용은 재미있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "171",
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "입학",
+    "example_jp": "来年入学します。",
+    "example_furigana": "来年(らいねん)入学(にゅうがく)します。",
+    "example_ko": "내년에 입학합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "172",
+    "word": "能力",
+    "reading": "のうりょく",
+    "meaning": "능력",
+    "example_jp": "彼の能力は素晴らしいです。",
+    "example_furigana": "彼(かれ)の能力(のうりょく)は素晴(すば)らしいです。",
+    "example_ko": "그의 능력은 훌륭합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "173",
+    "word": "発見",
+    "reading": "はっけん",
+    "meaning": "발견",
+    "example_jp": "新しい発見をしました。",
+    "example_furigana": "新(あたら)しい発見(はっけん)をしました。",
+    "example_ko": "새로운 발견을 했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "174",
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "발표",
+    "example_jp": "明日発表があります。",
+    "example_furigana": "明日(あした)発表(はっぴょう)があります。",
+    "example_ko": "내일 발표가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "175",
+    "word": "反対",
+    "reading": "はんたい",
+    "meaning": "반대",
+    "example_jp": "彼はその意見に反対です。",
+    "example_furigana": "彼(かれ)はその意見(いけん)に反対(はんたい)です。",
+    "example_ko": "그는 그 의견에 반대입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "176",
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "판단",
+    "example_jp": "冷静に判断してください。",
+    "example_furigana": "冷静(れいせい)に判断(はんだん)してください。",
+    "example_ko": "냉정하게 판단해 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "177",
+    "word": "比較",
+    "reading": "ひかく",
+    "meaning": "비교",
+    "example_jp": "二つのデータを比較します。",
+    "example_furigana": "二(ふた)つのデータを比較(ひかく)します。",
+    "example_ko": "두 개의 데이터를 비교합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "178",
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning": "필요",
+    "example_jp": "これは必要な情報です。",
+    "example_furigana": "これは必要(ひつよう)な情報(じょうほう)です。",
+    "example_ko": "이것은 필요한 정보입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "179",
+    "word": "表現",
+    "reading": "ひょうげん",
+    "meaning": "표현",
+    "example_jp": "この表現が好きです。",
+    "example_furigana": "この表現(ひょうげん)が好き(すき)です。",
+    "example_ko": "이 표현이 마음에 듭니다.",
+    "source": "openai"
+  },
+  {
+    "id": "180",
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaning": "평가",
+    "example_jp": "彼は高く評価されています。",
+    "example_furigana": "彼(かれ)は高(たか)く評価(ひょうか)されています。",
+    "example_ko": "그는 높이 평가받고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "181",
+    "word": "普通",
+    "reading": "ふつう",
+    "meaning": "보통",
+    "example_jp": "彼は普通の人です。",
+    "example_furigana": "彼(かれ)は普通(ふつう)の人(ひと)です。",
+    "example_ko": "그는 보통 사람입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "182",
+    "word": "不満",
+    "reading": "ふまん",
+    "meaning": "불만",
+    "example_jp": "彼女は不満を言っています。",
+    "example_furigana": "彼女(かのじょ)は不満(ふまん)を言(い)っています。",
+    "example_ko": "그녀는 불만을 말하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "183",
+    "word": "文化",
+    "reading": "ぶんか",
+    "meaning": "문화",
+    "example_jp": "日本の文化が好きです。",
+    "example_furigana": "日本(にほん)の文化(ぶんか)が好き(すき)です。",
+    "example_ko": "일본의 문화를 좋아합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "184",
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "방법",
+    "example_jp": "効率的な方法を探しています。",
+    "example_furigana": "効率的(こうりつてき)な方法(ほうほう)を探(さが)しています。",
+    "example_ko": "효율적인 방법을 찾고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "185",
+    "word": "保険",
+    "reading": "ほけん",
+    "meaning": "보험",
+    "example_jp": "保険に入っていますか。",
+    "example_furigana": "保険(ほけん)に入(はい)っていますか。",
+    "example_ko": "보험에 가입하고 있나요?",
+    "source": "openai"
+  },
+  {
+    "id": "186",
+    "word": "満足",
+    "reading": "まんぞく",
+    "meaning": "만족",
+    "example_jp": "結果に満足しています。",
+    "example_furigana": "結果(けっか)に満足(まんぞく)しています。",
+    "example_ko": "결과에 만족하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "187",
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "목적",
+    "example_jp": "旅行の目的は何ですか。",
+    "example_furigana": "旅行(りょこう)の目的(もくてき)は何(なん)ですか。",
+    "example_ko": "여행의 목적은 무엇인가요?",
+    "source": "openai"
+  },
+  {
+    "id": "188",
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "약속",
+    "example_jp": "彼と約束があります。",
+    "example_furigana": "彼(かれ)と約束(やくそく)があります。",
+    "example_ko": "그와 약속이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "189",
+    "word": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "수출",
+    "example_jp": "日本は多くの製品を輸出しています。",
+    "example_furigana": "日本(にほん)は多(おお)くの製品(せいひん)を輸出(ゆしゅつ)しています。",
+    "example_ko": "일본은 많은 제품을 수출하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "190",
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "수입",
+    "example_jp": "この国は食品を輸入しています。",
+    "example_furigana": "この国(くに)は食品(しょくひん)を輸入(ゆにゅう)しています。",
+    "example_ko": "이 나라는 식품을 수입하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "191",
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "예산",
+    "example_jp": "予算が足りません。",
+    "example_furigana": "予算(よさん)が足(たり)ません。",
+    "example_ko": "예산이 부족합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "192",
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "이유",
+    "example_jp": "その理由を知っています。",
+    "example_furigana": "その理由(りゆう)を知(し)っています。",
+    "example_ko": "그 이유를 알고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "193",
+    "word": "利用",
+    "reading": "りよう",
+    "meaning": "이용",
+    "example_jp": "このサービスを利用しています。",
+    "example_furigana": "このサービスを利用(りよう)しています。",
+    "example_ko": "이 서비스를 이용하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "194",
+    "word": "連続",
+    "reading": "れんぞく",
+    "meaning": "연속",
+    "example_jp": "連続して映画を見ました。",
+    "example_furigana": "連続(れんぞく)して映画(えいが)を見(み)ました。",
+    "example_ko": "연속으로 영화를 보았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "195",
+    "word": "感動",
+    "reading": "かんどう",
+    "meaning": "감동",
+    "example_jp": "彼の話に感動しました。",
+    "example_furigana": "彼(かれ)の話(はなし)に感動(かんどう)しました。",
+    "example_ko": "그의 이야기 감동했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "196",
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "감사",
+    "example_jp": "皆さんに感謝しています。",
+    "example_furigana": "皆(みな)さんに感謝(かんしゃ)しています。",
+    "example_ko": "여러분에게 감사하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "197",
+    "word": "記録",
+    "reading": "きろく",
+    "meaning": "기록",
+    "example_jp": "彼は記録を更新しました。",
+    "example_furigana": "彼(かれ)は記録(きろく)を更新(こうしん)しました。",
+    "example_ko": "그는 기록을 갱신했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "198",
+    "word": "経済",
+    "reading": "けいざい",
+    "meaning": "경제",
+    "example_jp": "経済が成長しています。",
+    "example_furigana": "経済(けいざい)が成長(せいちょう)しています。",
+    "example_ko": "경제가 성장하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "199",
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "결과",
+    "example_jp": "試験の結果が出ました。",
+    "example_furigana": "試験(しけん)の結果(けっか)が出(で)ました。",
+    "example_ko": "시험 결과가 나왔습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "200",
+    "word": "現在",
+    "reading": "げんざい",
+    "meaning": "현재",
+    "example_jp": "現在は忙しいです。",
+    "example_furigana": "現在(げんざい)は忙(いそが)しいです。",
+    "example_ko": "현재는 바쁩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "201",
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "원인",
+    "example_jp": "彼の遅刻の原因は交通渋滞です。",
+    "example_furigana": "彼(かれ)の遅刻(ちこく)の原因(げんいん)は交通渋滞(こうつうじゅうたい)です。",
+    "example_ko": "그의 지각 원인은 교통 체증입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "202",
+    "word": "限界",
+    "reading": "げんかい",
+    "meaning": "한계",
+    "example_jp": "私の限界を超えないでください。",
+    "example_furigana": "私(わたし)の限界(げんかい)を超(こ)えないでください。",
+    "example_ko": "내 한계를 넘지 마세요.",
+    "source": "openai"
+  },
+  {
+    "id": "203",
+    "word": "交換",
+    "reading": "こうかん",
+    "meaning": "교환",
+    "example_jp": "この商品は他のものと交換できます。",
+    "example_furigana": "この商品(しょうひん)は他(ほか)のものと交換(こうかん)できます。",
+    "example_ko": "이 상품은 다른 것과 교환할 수 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "204",
+    "word": "広告",
+    "reading": "こうこく",
+    "meaning": "광고",
+    "example_jp": "テレビの広告を見ました。",
+    "example_furigana": "テレビの広告(こうこく)を見(み)ました。",
+    "example_ko": "텔레비전 광고를 보았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "205",
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "구조",
+    "example_jp": "この建物の構造は面白いです。",
+    "example_furigana": "この建物(たてもの)の構造(こうぞう)は面白(おもしろ)いです。",
+    "example_ko": "이 건물의 구조는 흥미롭습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "206",
+    "word": "最初",
+    "reading": "さいしょ",
+    "meaning": "최초, 처음",
+    "example_jp": "最初の印象は大切です。",
+    "example_furigana": "最初(さいしょ)の印象(いんしょう)は大切(たいせつ)です。",
+    "example_ko": "첫 인상은 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "207",
+    "word": "最後",
+    "reading": "さいご",
+    "meaning": "최후, 마지막",
+    "example_jp": "最後のチャンスです。",
+    "example_furigana": "最後(さいご)のチャンスです。",
+    "example_ko": "마지막 기회입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "208",
+    "word": "最近",
+    "reading": "さいきん",
+    "meaning": "최근",
+    "example_jp": "最近、新しい趣味を始めました。",
+    "example_furigana": "最近(さいきん)、新(あたら)しい趣味(しゅみ)を始(はじ)めました。",
+    "example_ko": "최근에 새로운 취미를 시작했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "209",
+    "word": "産業",
+    "reading": "さんぎょう",
+    "meaning": "산업",
+    "example_jp": "この地域の産業は発展しています。",
+    "example_furigana": "この地域(ちいき)の産業(さんぎょう)は発展(はってん)しています。",
+    "example_ko": "이 지역의 산업은 발전하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "210",
+    "word": "支援",
+    "reading": "しえん",
+    "meaning": "지원",
+    "example_jp": "彼はプロジェクトを支援しています。",
+    "example_furigana": "彼(かれ)はプロジェクトを支援(しえん)しています。",
+    "example_ko": "그는 프로젝트를 지원하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "211",
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "자격",
+    "example_jp": "この仕事には特別な資格が必要です。",
+    "example_furigana": "この仕事(しごと)には特別(とくべつ)な資格(しかく)が必要(ひつよう)です。",
+    "example_ko": "이 일에는 특별한 자격이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "212",
+    "word": "時代",
+    "reading": "じだい",
+    "meaning": "시대",
+    "example_jp": "この時代はテクノロジーが進化しています。",
+    "example_furigana": "この時代(じだい)はテクノロジーが進化(しんか)しています。",
+    "example_ko": "이 시대는 기술이 발전하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "213",
+    "word": "事業",
+    "reading": "じぎょう",
+    "meaning": "사업",
+    "example_jp": "新しい事業を始めたいです。",
+    "example_furigana": "新(あたら)しい事業(じぎょう)を始(はじ)めたいです。",
+    "example_ko": "새로운 사업을 시작하고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "214",
+    "word": "種類",
+    "reading": "しゅるい",
+    "meaning": "종류",
+    "example_jp": "この店には多くの種類の果物があります。",
+    "example_furigana": "この店(みせ)には多(おお)くの種類(しゅるい)の果物(くだもの)があります。",
+    "example_ko": "이 가게에는 다양한 종류의 과일이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "215",
+    "word": "招待",
+    "reading": "しょうたい",
+    "meaning": "초대",
+    "example_jp": "彼女は私をパーティーに招待しました。",
+    "example_furigana": "彼女(かのじょ)は私(わたし)をパーティーに招待(しょうたい)しました。",
+    "example_ko": "그녀는 나를 파티에 초대했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "216",
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "증상",
+    "example_jp": "風邪の症状が出てきました。",
+    "example_furigana": "風邪(かぜ)の症状(しょうじょう)が出(で)てきました。",
+    "example_ko": "감기의 증상이 나타났습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "217",
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "진보",
+    "example_jp": "技術が進歩していますね。",
+    "example_furigana": "技術(ぎじゅつ)が進歩(しんぽ)していますね。",
+    "example_ko": "기술이 발전하고 있네요.",
+    "source": "openai"
+  },
+  {
+    "id": "218",
+    "word": "世界",
+    "reading": "せかい",
+    "meaning": "세계",
+    "example_jp": "世界は広いです。",
+    "example_furigana": "世界(せかい)は広(ひろ)いです。",
+    "example_ko": "세계는 넓습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "219",
+    "word": "政治",
+    "reading": "せいじ",
+    "meaning": "정치",
+    "example_jp": "政治について話しましょう。",
+    "example_furigana": "政治(せいじ)について話(はな)しましょう。",
+    "example_ko": "정치에 대해 이야기합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "220",
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "설비",
+    "example_jp": "新しい設備が必要です。",
+    "example_furigana": "新(あたら)しい設備(せつび)が必要(ひつよう)です。",
+    "example_ko": "새로운 설비가 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "221",
+    "word": "組織",
+    "reading": "そしき",
+    "meaning": "조직",
+    "example_jp": "この組織はボランティアです。",
+    "example_furigana": "この組織(そしき)はボランティアです。",
+    "example_ko": "이 조직은 자원봉사입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "222",
+    "word": "存在",
+    "reading": "そんざい",
+    "meaning": "존재",
+    "example_jp": "彼の存在は大切です。",
+    "example_furigana": "彼(かれ)の存在(そんざい)は大切(たいせつ)です。",
+    "example_ko": "그의 존재는 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "223",
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "대책",
+    "example_jp": "新しい対策が必要です。",
+    "example_furigana": "新(あたら)しい対策(たいさく)が必要(ひつよう)です。",
+    "example_ko": "새로운 대책이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "224",
+    "word": "団体",
+    "reading": "だんたい",
+    "meaning": "단체",
+    "example_jp": "この団体に参加しています。",
+    "example_furigana": "この団体(だんたい)に参加(さんか)しています。",
+    "example_ko": "이 단체에 참가하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "225",
+    "word": "地域",
+    "reading": "ちいき",
+    "meaning": "지역",
+    "example_jp": "この地域は美しいです。",
+    "example_furigana": "この地域(ちいき)は美(うつく)しいです。",
+    "example_ko": "이 지역은 아름답습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "226",
+    "word": "程度",
+    "reading": "ていど",
+    "meaning": "정도",
+    "example_jp": "その程度なら大丈夫です。",
+    "example_furigana": "その程度(ていど)なら大丈夫(だいじょうぶ)です。",
+    "example_ko": "그 정도면 괜찮습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "227",
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaning": "전통",
+    "example_jp": "この祭りは伝統的です。",
+    "example_furigana": "この祭り(まつり)は伝統(でんとう)的(てき)です。",
+    "example_ko": "이 축제는 전통적입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "228",
+    "word": "同様",
+    "reading": "どうよう",
+    "meaning": "동양, 같은 방식",
+    "example_jp": "彼も同様の意見です。",
+    "example_furigana": "彼(かれ)も同様(どうよう)の意見(いけん)です。",
+    "example_ko": "그도 같은 의견입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "229",
+    "word": "独立",
+    "reading": "どくりつ",
+    "meaning": "독립",
+    "example_jp": "彼は独立した生活をしています。",
+    "example_furigana": "彼(かれ)は独立(どくりつ)した生活(せいかつ)をしています。",
+    "example_ko": "그는 독립적인 생활을 하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "230",
+    "word": "認める",
+    "reading": "みとめる",
+    "meaning": "인정하다",
+    "example_jp": "彼の努力を認めます。",
+    "example_furigana": "彼(かれ)の努力(どりょく)を認(みと)めます。",
+    "example_ko": "그의 노력을 인정합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "231",
+    "word": "犯罪",
+    "reading": "はんざい",
+    "meaning": "범죄",
+    "example_jp": "犯罪を防ぐための対策が必要です。",
+    "example_furigana": "犯罪(はんざい)を防(ふせ)ぐための対策(たいさく)が必要(ひつよう)です。",
+    "example_ko": "범죄를 막기 위한 대책이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "232",
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "피해",
+    "example_jp": "この台風の被害は大きいです。",
+    "example_furigana": "この台風(たいふう)の被害(ひがい)は大(おお)きいです。",
+    "example_ko": "이번 태풍의 피해는 큽니다.",
+    "source": "openai"
+  },
+  {
+    "id": "233",
+    "word": "否定",
+    "reading": "ひてい",
+    "meaning": "부정",
+    "example_jp": "彼の意見を否定しません。",
+    "example_furigana": "彼(かれ)の意見(いけん)を否定(ひてい)しません。",
+    "example_ko": "그의 의견을 부정하지 않습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "234",
+    "word": "批判",
+    "reading": "ひはん",
+    "meaning": "비판",
+    "example_jp": "彼のアイデアには批判があります。",
+    "example_furigana": "彼(かれ)のアイデアには批判(ひはん)があります。",
+    "example_ko": "그의 아이디어에는 비판이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "235",
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "복잡",
+    "example_jp": "この問題は複雑です。",
+    "example_furigana": "この問題(もんだい)は複雑(ふくざつ)です。",
+    "example_ko": "이 문제는 복잡합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "236",
+    "word": "分野",
+    "reading": "ぶんや",
+    "meaning": "분야",
+    "example_jp": "彼は科学の分野で働いています。",
+    "example_furigana": "彼(かれ)は科学(かがく)の分野(ぶんや)で働(はたら)いています。",
+    "example_ko": "그는 과학 분야에서 일하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "237",
+    "word": "変化",
+    "reading": "へんか",
+    "meaning": "변화",
+    "example_jp": "季節の変化が楽しみです。",
+    "example_furigana": "季節(きせつ)の変化(へんか)が楽しみ(たのしみ)です。",
+    "example_ko": "계절의 변화가 기대됩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "238",
+    "word": "報告",
+    "reading": "ほうこく",
+    "meaning": "보고",
+    "example_jp": "彼は進捗を報告します。",
+    "example_furigana": "彼(かれ)は進捗(しんちょく)を報告(ほうこく)します。",
+    "example_ko": "그는 진행 상황을 보고합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "239",
+    "word": "訪問",
+    "reading": "ほうもん",
+    "meaning": "방문",
+    "example_jp": "友達を訪問しました。",
+    "example_furigana": "友達(ともだち)を訪問(ほうもん)しました。",
+    "example_ko": "친구를 방문했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "240",
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "목표",
+    "example_jp": "私の目標は日本語を上達させることです。",
+    "example_furigana": "私(わたし)の目標(もくひょう)は日本語(にほんご)を上達(じょうたつ)させることです。",
+    "example_ko": "내 목표는 일본어 실력을 향상시키는 것입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "241",
+    "word": "問い合わせ",
+    "reading": "といあわせ",
+    "meaning": "문의",
+    "example_jp": "この件について問い合わせをしました。",
+    "example_furigana": "この件(けん)について問い合わせ(といあわせ)をしました。",
+    "example_ko": "이 건에 대해 문의를 했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "242",
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning": "유명",
+    "example_jp": "そのレストランはとても有名です。",
+    "example_furigana": "そのレストランはとても有名(ゆうめい)です。",
+    "example_ko": "그 레스토랑은 매우 유명합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "243",
+    "word": "要求",
+    "reading": "ようきゅう",
+    "meaning": "요구",
+    "example_jp": "彼は給料の要求をしました。",
+    "example_furigana": "彼(かれ)は給料(きゅうりょう)の要求(ようきゅう)をしました。",
+    "example_ko": "그는 급여 인상을 요구했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "244",
+    "word": "予測",
+    "reading": "よそく",
+    "meaning": "예측",
+    "example_jp": "天気予測が外れました。",
+    "example_furigana": "天気予測(てんきよそく)が外(はず)れました。",
+    "example_ko": "날씨 예측이 빗나갔습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "245",
+    "word": "歴史",
+    "reading": "れきし",
+    "meaning": "역사",
+    "example_jp": "日本の歴史は面白いです。",
+    "example_furigana": "日本(にほん)の歴史(れきし)は面白(おもしろ)いです。",
+    "example_ko": "일본의 역사는 흥미롭습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "246",
+    "word": "論文",
+    "reading": "ろんぶん",
+    "meaning": "논문",
+    "example_jp": "彼女は論文を書いています。",
+    "example_furigana": "彼女(かのじょ)は論文(ろんぶん)を書(か)いています。",
+    "example_ko": "그녀는 논문을 쓰고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "247",
+    "word": "面接",
+    "reading": "めんせつ",
+    "meaning": "면접",
+    "example_jp": "明日、面接があります。",
+    "example_furigana": "明日(あした)、面接(めんせつ)があります。",
+    "example_ko": "내일 면접이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "248",
+    "word": "印象",
+    "reading": "いんしょう",
+    "meaning": "인상",
+    "example_jp": "彼の第一印象は良かったです。",
+    "example_furigana": "彼(かれ)の第一(だいいち)印象(いんしょう)は良(よ)かったです。",
+    "example_ko": "그의 첫인상은 좋았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "249",
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "의견",
+    "example_jp": "あなたの意見を聞きたいです。",
+    "example_furigana": "あなたの意見(いけん)を聞(き)きたいです。",
+    "example_ko": "당신의 의견을 듣고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "250",
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "확인",
+    "example_jp": "この情報を確認してください。",
+    "example_furigana": "この情報(じょうほう)を確認(かくにん)してください。",
+    "example_ko": "이 정보를 확인해 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "251",
+    "word": "活動",
+    "reading": "かつどう",
+    "meaning": "활동",
+    "example_jp": "夏休みにはキャンプ活動をします。",
+    "example_furigana": "夏休み(なつやすみ)にはキャンプ活動(かつどう)をします。",
+    "example_ko": "여름 방학에는 캠프 활동을 합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "252",
+    "word": "完成",
+    "reading": "かんせい",
+    "meaning": "완성",
+    "example_jp": "プロジェクトが完成しました。",
+    "example_furigana": "プロジェクトが完成(かんせい)しました。",
+    "example_ko": "프로젝트가 완성되었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "253",
+    "word": "期間",
+    "reading": "きかん",
+    "meaning": "기간",
+    "example_jp": "この期間(きかん)は忙しいです。",
+    "example_furigana": "この期間(きかん)は忙(いそが)しいです。",
+    "example_ko": "이 기간은 바쁩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "254",
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "기대",
+    "example_jp": "彼に期待(きたい)しています。",
+    "example_furigana": "彼(かれ)に期待(きたい)しています。",
+    "example_ko": "그에게 기대하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "255",
+    "word": "基本",
+    "reading": "きほん",
+    "meaning": "기본",
+    "example_jp": "基本(きほん)を学ぶことが大事です。",
+    "example_furigana": "基本(きほん)を学(まな)ぶことが大事(だいじ)です。",
+    "example_ko": "기본을 배우는 것이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "256",
+    "word": "許可",
+    "reading": "きょか",
+    "meaning": "허가",
+    "example_jp": "先生の許可(きょか)をもらいました。",
+    "example_furigana": "先生(せんせい)の許可(きょか)をもらいました。",
+    "example_ko": "선생님의 허가를 받았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "257",
+    "word": "興味",
+    "reading": "きょうみ",
+    "meaning": "흥미",
+    "example_jp": "彼女は音楽に興味(きょうみ)があります。",
+    "example_furigana": "彼女(かのじょ)は音楽(おんがく)に興味(きょうみ)があります。",
+    "example_ko": "그녀는 음악에 흥미가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "258",
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "계약",
+    "example_jp": "新しい契約(けいやく)を結びました。",
+    "example_furigana": "新(あたら)しい契約(けいやく)を結(むす)びました。",
+    "example_ko": "새로운 계약을 체결했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "259",
+    "word": "研究",
+    "reading": "けんきゅう",
+    "meaning": "연구",
+    "example_jp": "彼は科学を研究(けんきゅう)しています。",
+    "example_furigana": "彼(かれ)は科学(かがく)を研究(けんきゅう)しています。",
+    "example_ko": "그는 과학을 연구하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "260",
+    "word": "合格",
+    "reading": "ごうかく",
+    "meaning": "합격",
+    "example_jp": "試験に合格(ごうかく)しました。",
+    "example_furigana": "試験(しけん)に合格(ごうかく)しました。",
+    "example_ko": "시험에 합격했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "261",
+    "word": "採用",
+    "reading": "さいよう",
+    "meaning": "채용",
+    "example_jp": "新しいスタッフを採用(さいよう)します。",
+    "example_furigana": "新(あたら)しいスタッフを採用(さいよう)します。",
+    "example_ko": "새로운 직원을 채용합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "262",
+    "word": "残念",
+    "reading": "ざんねん",
+    "meaning": "아쉬움, 유감",
+    "example_jp": "残念(ざんねん)ですが、行けません。",
+    "example_furigana": "残念(ざんねん)ですが、行(い)けません。",
+    "example_ko": "아쉽지만, 갈 수 없습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "263",
+    "word": "指示",
+    "reading": "しじ",
+    "meaning": "지시",
+    "example_jp": "指示(しじ)に従ってください。",
+    "example_furigana": "指示(しじ)に従(したが)ってください。",
+    "example_ko": "지시에 따라 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "264",
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meaning": "주장",
+    "example_jp": "彼の主張(しゅちょう)は正しい。",
+    "example_furigana": "彼(かれ)の主張(しゅちょう)は正(ただ)しい。",
+    "example_ko": "그의 주장은 맞습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "265",
+    "word": "承知",
+    "reading": "しょうち",
+    "meaning": "알겠습니다, 승낙",
+    "example_jp": "承知(しょうち)しました。",
+    "example_furigana": "承知(しょうち)しました。",
+    "example_ko": "알겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "266",
+    "word": "処理",
+    "reading": "しょり",
+    "meaning": "처리",
+    "example_jp": "データの処理(しょり)を行います。",
+    "example_furigana": "データの処理(しょり)を行(おこな)います。",
+    "example_ko": "데이터 처리를 진행합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "267",
+    "word": "申請",
+    "reading": "しんせい",
+    "meaning": "신청",
+    "example_jp": "ビザの申請(しんせい)をしました。",
+    "example_furigana": "ビザの申請(しんせい)をしました。",
+    "example_ko": "비자 신청을 했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "268",
+    "word": "推薦",
+    "reading": "すいせん",
+    "meaning": "추천",
+    "example_jp": "彼女を推薦(すいせん)します。",
+    "example_furigana": "彼女(かのじょ)を推薦(すいせん)します。",
+    "example_ko": "그녀를 추천합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "269",
+    "word": "対応",
+    "reading": "たいおう",
+    "meaning": "대응",
+    "example_jp": "問題に対応(たいおう)します。",
+    "example_furigana": "問題(もんだい)に対応(たいおう)します。",
+    "example_ko": "문제에 대응하겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "270",
+    "word": "達成",
+    "reading": "たっせい",
+    "meaning": "달성",
+    "example_jp": "目標を達成(たっせい)しました。",
+    "example_furigana": "目標(もくひょう)を達成(たっせい)しました。",
+    "example_ko": "목표를 달성했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "271",
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "담당",
+    "example_jp": "私はこのプロジェクトを担当(たんとう)しています。",
+    "example_furigana": "私はこのプロジェクトを担当(たんとう)しています。",
+    "example_ko": "저는 이 프로젝트를 담당하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "272",
+    "word": "地方",
+    "reading": "ちほう",
+    "meaning": "지방",
+    "example_jp": "地方(ちほう)の特産品が好きです。",
+    "example_furigana": "地方(ちほう)の特産品(とくさんひん)が好きです。",
+    "example_ko": "지방의 특산물이 좋아요.",
+    "source": "openai"
+  },
+  {
+    "id": "273",
+    "word": "中止",
+    "reading": "ちゅうし",
+    "meaning": "중지",
+    "example_jp": "イベントは中止(ちゅうし)になりました。",
+    "example_furigana": "イベントは中止(ちゅうし)になりました。",
+    "example_ko": "이벤트는 중지되었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "274",
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "통지",
+    "example_jp": "重要な通知(つうち)がありました。",
+    "example_furigana": "重要(じゅうよう)な通知(つうち)がありました。",
+    "example_ko": "중요한 통지가 있었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "275",
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "수속, 절차",
+    "example_jp": "手続き(てつづき)が必要です。",
+    "example_furigana": "手続き(てつづき)が必要(ひつよう)です。",
+    "example_ko": "절차가 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "276",
+    "word": "電子",
+    "reading": "でんし",
+    "meaning": "전자",
+    "example_jp": "電子(でんし)メールで送ります。",
+    "example_furigana": "電子(でんし)メールで送(おく)ります。",
+    "example_ko": "전자 메일로 보냅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "277",
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "등록",
+    "example_jp": "新しいアカウントを登録(とうろく)しました。",
+    "example_furigana": "新(あたら)しいアカウントを登録(とうろく)しました。",
+    "example_ko": "새로운 계정을 등록했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "278",
+    "word": "圧倒",
+    "reading": "あっとう",
+    "meaning": "압도",
+    "example_jp": "彼の才能に圧倒(あっとう)されました。",
+    "example_furigana": "彼(かれ)の才能(さいのう)に圧倒(あっとう)されました。",
+    "example_ko": "그의 재능에 압도되었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "279",
+    "word": "一致",
+    "reading": "いっち",
+    "meaning": "일치",
+    "example_jp": "意見が一致(いっち)しました。",
+    "example_furigana": "意見(いけん)が一致(いっち)しました。",
+    "example_ko": "의견이 일치했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "280",
+    "word": "委員",
+    "reading": "いいん",
+    "meaning": "위원",
+    "example_jp": "委員(いいん)として参加します。",
+    "example_furigana": "委員(いいん)として参加(さんか)します。",
+    "example_ko": "위원으로 참여합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "281",
+    "word": "遺伝",
+    "reading": "いでん",
+    "meaning": "유전",
+    "example_jp": "遺伝(いでん)の影響があります。",
+    "example_furigana": "遺伝(いでん)の影響(えいきょう)があります。",
+    "example_ko": "유전의 영향이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "282",
+    "word": "維持",
+    "reading": "いじ",
+    "meaning": "유지",
+    "example_jp": "健康を維持(いじ)することが大切です。",
+    "example_furigana": "健康(けんこう)を維持(いじ)することが大切(たいせつ)です。",
+    "example_ko": "건강을 유지하는 것이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "283",
+    "word": "依頼",
+    "reading": "いらい",
+    "meaning": "의뢰",
+    "example_jp": "仕事を依頼(いらい)しました。",
+    "example_furigana": "仕事(しごと)を依頼(いらい)しました。",
+    "example_ko": "일을 의뢰했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "284",
+    "word": "運営",
+    "reading": "うんえい",
+    "meaning": "운영",
+    "example_jp": "イベントを運営(うんえい)しています。",
+    "example_furigana": "イベントを運営(うんえい)しています。",
+    "example_ko": "이벤트를 운영하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "285",
+    "word": "影響力",
+    "reading": "えいきょうりょく",
+    "meaning": "영향력",
+    "example_jp": "彼は影響力(えいきょうりょく)があります。",
+    "example_furigana": "彼(かれ)は影響力(えいきょうりょく)があります。",
+    "example_ko": "그는 영향력이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "286",
+    "word": "援助",
+    "reading": "えんじょ",
+    "meaning": "원조",
+    "example_jp": "彼らは援助(えんじょ)を必要としています。",
+    "example_furigana": "彼ら(かれら)は援助(えんじょ)を必要(ひつよう)としています。",
+    "example_ko": "그들은 도움이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "287",
+    "word": "応募",
+    "reading": "おうぼ",
+    "meaning": "응모",
+    "example_jp": "この仕事に応募(おうぼ)しました。",
+    "example_furigana": "この仕事(しごと)に応募(おうぼ)しました。",
+    "example_ko": "이 일에 응모했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "288",
+    "word": "概念",
+    "reading": "がいねん",
+    "meaning": "개념",
+    "example_jp": "この概念(がいねん)は難しいです。",
+    "example_furigana": "この概念(がいねん)は難(むずか)しいです。",
+    "example_ko": "이 개념은 어렵습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "289",
+    "word": "拡大",
+    "reading": "かくだい",
+    "meaning": "확대",
+    "example_jp": "ビジネスを拡大(かくだい)します。",
+    "example_furigana": "ビジネスを拡大(かくだい)します。",
+    "example_ko": "비즈니스를 확대합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "290",
+    "word": "確率",
+    "reading": "かくりつ",
+    "meaning": "확률",
+    "example_jp": "当たる確率(かくりつ)が高いです。",
+    "example_furigana": "当(あ)たる確率(かくりつ)が高(たか)いです。",
+    "example_ko": "당첨 확률이 높습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "291",
+    "word": "過程",
+    "reading": "かてい",
+    "meaning": "과정",
+    "example_jp": "学ぶ過程(かてい)が大切です。",
+    "example_furigana": "学(まな)ぶ過程(かてい)が大切(たいせつ)です。",
+    "example_ko": "배우는 과정이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "292",
+    "word": "課題",
+    "reading": "かだい",
+    "meaning": "과제",
+    "example_jp": "この課題(かだい)を解決しましょう。",
+    "example_furigana": "この課題(かだい)を解決(かいけつ)しましょう。",
+    "example_ko": "이 과제를 해결합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "293",
+    "word": "活躍",
+    "reading": "かつやく",
+    "meaning": "활약",
+    "example_jp": "彼はスポーツで活躍(かつやく)しています。",
+    "example_furigana": "彼(かれ)はスポーツで活躍(かつやく)しています。",
+    "example_ko": "그는 스포츠에서 활약하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "294",
+    "word": "観察",
+    "reading": "かんさつ",
+    "meaning": "관찰",
+    "example_jp": "動物を観察(かんさつ)しました。",
+    "example_furigana": "動物(どうぶつ)を観察(かんさつ)しました。",
+    "example_ko": "동물을 관찰했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "295",
+    "word": "管理",
+    "reading": "かんり",
+    "meaning": "관리",
+    "example_jp": "プロジェクトを管理(かんり)します。",
+    "example_furigana": "プロジェクトを管理(かんり)します。",
+    "example_ko": "프로젝트를 관리합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "296",
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "기준",
+    "example_jp": "基準(きじゅん)を確認してください。",
+    "example_furigana": "基準(きじゅん)を確認(かくにん)してください。",
+    "example_ko": "기준을 확인해 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "297",
+    "word": "議論",
+    "reading": "ぎろん",
+    "meaning": "논의",
+    "example_jp": "この問題について議論(ぎろん)します。",
+    "example_furigana": "この問題(もんだい)について議論(ぎろん)します。",
+    "example_ko": "이 문제에 대해 논의합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "298",
+    "word": "苦労",
+    "reading": "くろう",
+    "meaning": "고생",
+    "example_jp": "彼女は苦労(くろう)しています。",
+    "example_furigana": "彼女(かのじょ)は苦労(くろう)しています。",
+    "example_ko": "그녀는 고생하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "299",
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "경향",
+    "example_jp": "最近の傾向(けいこう)を調べます。",
+    "example_furigana": "最近(さいきん)の傾向(けいこう)を調(しら)べます。",
+    "example_ko": "최근 경향을 조사합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "300",
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "현상",
+    "example_jp": "この現象(げんしょう)は面白いです。",
+    "example_furigana": "この現象(げんしょう)は面白(おもしろ)いです。",
+    "example_ko": "이 현상은 재미있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "301",
+    "word": "貢献",
+    "reading": "こうけん",
+    "meaning": "공헌",
+    "example_jp": "地域(ちいき)に貢献(こうけん)したいです。",
+    "example_furigana": "地域(ちいき)に貢献(こうけん)したいです。",
+    "example_ko": "지역에 공헌하고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "302",
+    "word": "工夫",
+    "reading": "くふう",
+    "meaning": "궁리, 연구",
+    "example_jp": "この問題(もんだい)に工夫(くふう)が必要(ひつよう)です。",
+    "example_furigana": "この問題(もんだい)に工夫(くふう)が必要(ひつよう)です。",
+    "example_ko": "이 문제에 궁리가 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "303",
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meaning": "근거",
+    "example_jp": "その意見(いけん)には根拠(こんきょ)があります。",
+    "example_furigana": "その意見(いけん)には根拠(こんきょ)があります。",
+    "example_ko": "그 의견에는 근거가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "304",
+    "word": "採点",
+    "reading": "さいてん",
+    "meaning": "채점",
+    "example_jp": "彼(かれ)は試験(しけん)を採点(さいてん)します。",
+    "example_furigana": "彼(かれ)は試験(しけん)を採点(さいてん)します。",
+    "example_ko": "그는 시험을 채점합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "305",
+    "word": "削減",
+    "reading": "さくげん",
+    "meaning": "삭감",
+    "example_jp": "費用(ひよう)を削減(さくげん)する方法(ほうほう)を考えます。",
+    "example_furigana": "費用(ひよう)を削減(さくげん)する方法(ほうほう)を考えます。",
+    "example_ko": "비용을 삭감하는 방법을 생각합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "306",
+    "word": "作成",
+    "reading": "さくせい",
+    "meaning": "작성",
+    "example_jp": "レポートを作成(さくせい)しました。",
+    "example_furigana": "レポートを作成(さくせい)しました。",
+    "example_ko": "보고서를 작성했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "307",
+    "word": "支持",
+    "reading": "しじ",
+    "meaning": "지지",
+    "example_jp": "彼(かれ)は私(わたし)を支持(しじ)しています。",
+    "example_furigana": "彼(かれ)は私(わたし)を支持(しじ)しています。",
+    "example_ko": "그는 나를 지지하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "308",
+    "word": "視点",
+    "reading": "してん",
+    "meaning": "시점",
+    "example_jp": "新しい視点(してん)が必要(ひつよう)です。",
+    "example_furigana": "新しい視点(してん)が必要(ひつよう)です。",
+    "example_ko": "새로운 시점이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "309",
+    "word": "実施",
+    "reading": "じっし",
+    "meaning": "실시",
+    "example_jp": "計画(けいかく)を実施(じっし)します。",
+    "example_furigana": "計画(けいかく)を実施(じっし)します。",
+    "example_ko": "계획을 실시합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "310",
+    "word": "実績",
+    "reading": "じっせき",
+    "meaning": "실적",
+    "example_jp": "彼(かれ)の実績(じっせき)は素晴らしいです。",
+    "example_furigana": "彼(かれ)の実績(じっせき)は素晴らしいです。",
+    "example_ko": "그의 실적은 훌륭합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "311",
+    "word": "充実",
+    "reading": "じゅうじつ",
+    "meaning": "충실",
+    "example_jp": "充実(じゅうじつ)した日々(ひび)を過ごしています。",
+    "example_furigana": "充実(じゅうじつ)した日々(ひび)を過ごしています。",
+    "example_ko": "충실한 날들을 보내고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "312",
+    "word": "重視",
+    "reading": "じゅうし",
+    "meaning": "중시",
+    "example_jp": "安全(あんぜん)を重視(じゅうし)しています。",
+    "example_furigana": "安全(あんぜん)を重視(じゅうし)しています。",
+    "example_ko": "안전을 중시하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "313",
+    "word": "集中",
+    "reading": "しゅうちゅう",
+    "meaning": "집중",
+    "example_jp": "仕事(しごと)に集中(しゅうちゅう)しています。",
+    "example_furigana": "仕事(しごと)に集中(しゅうちゅう)しています。",
+    "example_ko": "일에 집중하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "314",
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaning": "수정",
+    "example_jp": "文章(ぶんしょう)を修正(しゅうせい)しました。",
+    "example_furigana": "文章(ぶんしょう)を修正(しゅうせい)しました。",
+    "example_ko": "문장을 수정했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "315",
+    "word": "主義",
+    "reading": "しゅぎ",
+    "meaning": "주의",
+    "example_jp": "彼(かれ)は自由(じゆう)主義(しゅぎ)を信じています。",
+    "example_furigana": "彼(かれ)は自由(じゆう)主義(しゅぎ)を信じています。",
+    "example_ko": "그는 자유주의를 믿고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "316",
+    "word": "障害",
+    "reading": "しょうがい",
+    "meaning": "장애",
+    "example_jp": "障害(しょうがい)を乗り越えています。",
+    "example_furigana": "障害(しょうがい)を乗り越えています。",
+    "example_ko": "장애를 극복하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "317",
+    "word": "証明",
+    "reading": "しょうめい",
+    "meaning": "증명",
+    "example_jp": "その事実(じじつ)を証明(しょうめい)できます。",
+    "example_furigana": "その事実(じじつ)を証明(しょうめい)できます。",
+    "example_ko": "그 사실을 증명할 수 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "318",
+    "word": "人材",
+    "reading": "じんざい",
+    "meaning": "인재",
+    "example_jp": "優秀(ゆうしゅう)な人材(じんざい)を探しています。",
+    "example_furigana": "優秀(ゆうしゅう)な人材(じんざい)を探しています。",
+    "example_ko": "우수한 인재를 찾고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "319",
+    "word": "進行",
+    "reading": "しんこう",
+    "meaning": "진행",
+    "example_jp": "プロジェクトが進行(しんこう)中(ちゅう)です。",
+    "example_furigana": "プロジェクトが進行(しんこう)中(ちゅう)です。",
+    "example_ko": "프로젝트가 진행 중입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "320",
+    "word": "推進",
+    "reading": "すいしん",
+    "meaning": "추진",
+    "example_jp": "新しい政策(せいさく)を推進(すいしん)します。",
+    "example_furigana": "新しい政策(せいさく)を推進(すいしん)します。",
+    "example_ko": "새로운 정책을 추진합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "321",
+    "word": "制限",
+    "reading": "せいげん",
+    "meaning": "제한",
+    "example_jp": "時間(じかん)の制限(せいげん)があります。",
+    "example_furigana": "時間(じかん)の制限(せいげん)があります。",
+    "example_ko": "시간의 제한이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "322",
+    "word": "制度",
+    "reading": "せいど",
+    "meaning": "제도",
+    "example_jp": "その制度(せいど)は重要(じゅうよう)です。",
+    "example_furigana": "その制度(せいど)は重要(じゅうよう)です。",
+    "example_ko": "그 제도는 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "323",
+    "word": "設定",
+    "reading": "せってい",
+    "meaning": "설정",
+    "example_jp": "目標(もくひょう)を設定(せってい)しました。",
+    "example_furigana": "目標(もくひょう)を設定(せってい)しました。",
+    "example_ko": "목표를 설정했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "324",
+    "word": "絶対",
+    "reading": "ぜったい",
+    "meaning": "절대",
+    "example_jp": "それは絶対(ぜったい)に必要(ひつよう)です。",
+    "example_furigana": "それは絶対(ぜったい)に必要(ひつよう)です。",
+    "example_ko": "그것은 절대 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "325",
+    "word": "宣伝",
+    "reading": "せんでん",
+    "meaning": "선전",
+    "example_jp": "新商品(しんしょうひん)を宣伝(せんでん)します。",
+    "example_furigana": "新商品(しんしょうひん)を宣伝(せんでん)します。",
+    "example_ko": "신상품을 선전합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "326",
+    "word": "総合",
+    "reading": "そうごう",
+    "meaning": "종합",
+    "example_jp": "総合(そうごう)的(てき)な分析(ぶんせき)が必要です。",
+    "example_furigana": "総合(そうごう)的(てき)な分析(ぶんせき)が必要です。",
+    "example_ko": "종합적인 분석이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "327",
+    "word": "増加",
+    "reading": "ぞうか",
+    "meaning": "증가",
+    "example_jp": "利用者(りようしゃ)が増加(ぞうか)しています。",
+    "example_furigana": "利用者(りようしゃ)が増加(ぞうか)しています。",
+    "example_ko": "이용자가 증가하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "328",
+    "word": "創造",
+    "reading": "そうぞう",
+    "meaning": "창조",
+    "example_jp": "新しいアイデアを創造(そうぞう)します。",
+    "example_furigana": "新しいアイデアを創造(そうぞう)します。",
+    "example_ko": "새로운 아이디어를 창조합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "329",
+    "word": "測定",
+    "reading": "そくてい",
+    "meaning": "측정",
+    "example_jp": "温度(おんど)を測定(そくてい)します。",
+    "example_furigana": "温度(おんど)を測定(そくてい)します。",
+    "example_ko": "온도를 측정합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "330",
+    "word": "体験",
+    "reading": "たいけん",
+    "meaning": "체험",
+    "example_jp": "素晴らしい体験(たいけん)をしました。",
+    "example_furigana": "素晴らしい体験(たいけん)をしました。",
+    "example_ko": "멋진 체험을 했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "331",
+    "word": "対立",
+    "reading": "たいりつ",
+    "meaning": "대립",
+    "example_jp": "意見(いけん)が対立(たいりつ)しています。",
+    "example_furigana": "意見(いけん)が対立(たいりつ)しています。",
+    "example_ko": "의견이 대립하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "332",
+    "word": "単純",
+    "reading": "たんじゅん",
+    "meaning": "단순",
+    "example_jp": "その問題(もんだい)は単純(たんじゅん)です。",
+    "example_furigana": "その問題(もんだい)は単純(たんじゅん)です。",
+    "example_ko": "그 문제는 단순합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "333",
+    "word": "知識",
+    "reading": "ちしき",
+    "meaning": "지식",
+    "example_jp": "知識(ちしき)を増やしたいです。",
+    "example_furigana": "知識(ちしき)を増やしたいです。",
+    "example_ko": "지식을 늘리고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "334",
+    "word": "調整",
+    "reading": "ちょうせい",
+    "meaning": "조정",
+    "example_jp": "予定(よてい)を調整(ちょうせい)します。",
+    "example_furigana": "予定(よてい)を調整(ちょうせい)します。",
+    "example_ko": "일정을 조정합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "335",
+    "word": "追求",
+    "reading": "ついきゅう",
+    "meaning": "추구",
+    "example_jp": "目標(もくひょう)を追求(ついきゅう)します。",
+    "example_furigana": "目標(もくひょう)を追求(ついきゅう)します。",
+    "example_ko": "목표를 추구합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "336",
+    "word": "提供",
+    "reading": "ていきょう",
+    "meaning": "제공",
+    "example_jp": "情報(じょうほう)を提供(ていきょう)します。",
+    "example_furigana": "情報(じょうほう)を提供(ていきょう)します。",
+    "example_ko": "정보를 제공합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "337",
+    "word": "抵抗",
+    "reading": "ていこう",
+    "meaning": "저항",
+    "example_jp": "彼(かれ)は抵抗(ていこう)を感じています。",
+    "example_furigana": "彼(かれ)は抵抗(ていこう)を感じています。",
+    "example_ko": "그는 저항을 느끼고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "338",
+    "word": "定着",
+    "reading": "ていちゃく",
+    "meaning": "정착",
+    "example_jp": "新しい習慣(しゅうかん)が定着(ていちゃく)しました。",
+    "example_furigana": "新しい習慣(しゅうかん)が定着(ていちゃく)しました。",
+    "example_ko": "새로운 습관이 정착했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "339",
+    "word": "展開",
+    "reading": "てんかい",
+    "meaning": "전개",
+    "example_jp": "話(はなし)が展開(てんかい)しています。",
+    "example_furigana": "話(はなし)が展開(てんかい)しています。",
+    "example_ko": "이야기가 전개되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "340",
+    "word": "転換",
+    "reading": "てんかん",
+    "meaning": "전환",
+    "example_jp": "考え方(かんがえかた)を転換(てんかん)しました。",
+    "example_furigana": "考え方(かんがえかた)を転換(てんかん)しました。",
+    "example_ko": "사고방식을 전환했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "341",
+    "word": "投資",
+    "reading": "とうし",
+    "meaning": "투자",
+    "example_jp": "新しいプロジェクトに投資(とうし)します。",
+    "example_furigana": "新しいプロジェクトに投資(とうし)します。",
+    "example_ko": "새로운 프로젝트에 투자합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "342",
+    "word": "統一",
+    "reading": "とういつ",
+    "meaning": "통일",
+    "example_jp": "ルールを統一(とういつ)します。",
+    "example_furigana": "ルールを統一(とういつ)します。",
+    "example_ko": "규칙을 통일합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "343",
+    "word": "同意",
+    "reading": "どうい",
+    "meaning": "동의",
+    "example_jp": "彼(かれ)と同意(どうい)しました。",
+    "example_furigana": "彼(かれ)と同意(どうい)しました。",
+    "example_ko": "그와 동의했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "344",
+    "word": "特徴",
+    "reading": "とくちょう",
+    "meaning": "특징",
+    "example_jp": "この製品(せいひん)の特徴(とくちょう)は何(なに)ですか。",
+    "example_furigana": "この製品(せいひん)の特徴(とくちょう)は何(なに)ですか。",
+    "example_ko": "이 제품의 특징은 무엇인가요?",
+    "source": "openai"
+  },
+  {
+    "id": "345",
+    "word": "配慮",
+    "reading": "はいりょ",
+    "meaning": "배려",
+    "example_jp": "彼(かれ)は配慮(はいりょ)ができる人(ひと)です。",
+    "example_furigana": "彼(かれ)は配慮(はいりょ)ができる人(ひと)です。",
+    "example_ko": "그는 배려할 줄 아는 사람입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "346",
+    "word": "把握",
+    "reading": "はあく",
+    "meaning": "파악",
+    "example_jp": "この問題(もんだい)を把握(はあく)しました。",
+    "example_furigana": "この問題(もんだい)を把握(はあく)しました。",
+    "example_ko": "이 문제를 파악했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "347",
+    "word": "発展",
+    "reading": "はってん",
+    "meaning": "발전",
+    "example_jp": "この地域(ちいき)は発展(はってん)しています。",
+    "example_furigana": "この地域(ちいき)は発展(はってん)しています。",
+    "example_ko": "이 지역은 발전하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "348",
+    "word": "発揮",
+    "reading": "はっき",
+    "meaning": "발휘",
+    "example_jp": "才能(さいのう)を発揮(はっき)しましょう。",
+    "example_furigana": "才能(さいのう)を発揮(はっき)しましょう。",
+    "example_ko": "재능을 발휘합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "349",
+    "word": "範囲",
+    "reading": "はんい",
+    "meaning": "범위",
+    "example_jp": "この範囲(はんい)で探(さが)してください。",
+    "example_furigana": "この範囲(はんい)で探(さが)してください。",
+    "example_ko": "이 범위에서 찾아주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "350",
+    "word": "販売",
+    "reading": "はんばい",
+    "meaning": "판매",
+    "example_jp": "新製品(しんせいひん)の販売(はんばい)を開始(かいし)します。",
+    "example_furigana": "新製品(しんせいひん)の販売(はんばい)を開始(かいし)します。",
+    "example_ko": "신제품의 판매를 시작합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "351",
+    "word": "普及",
+    "reading": "ふきゅう",
+    "meaning": "보급",
+    "example_jp": "この技術は普及しています。",
+    "example_furigana": "このぎじゅつはふきゅうしています。",
+    "example_ko": "이 기술은 보급되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "352",
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "분석",
+    "example_jp": "データを分析する必要があります。",
+    "example_furigana": "データをぶんせきするひつようがあります。",
+    "example_ko": "데이터를 분석할 필요가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "353",
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "방침",
+    "example_jp": "新しい方針を決めました。",
+    "example_furigana": "あたらしいほうしんをきめました。",
+    "example_ko": "새로운 방침을 정했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "354",
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meaning": "본질",
+    "example_jp": "問題の本質を理解しましょう。",
+    "example_furigana": "もんだいのほんしつをりかいしましょう。",
+    "example_ko": "문제의 본질을 이해합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "355",
+    "word": "満たす",
+    "reading": "みたす",
+    "meaning": "채우다",
+    "example_jp": "条件を満たす必要があります。",
+    "example_furigana": "じょうけんをみたすひつようがあります。",
+    "example_ko": "조건을 충족할 필요가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "356",
+    "word": "無視",
+    "reading": "むし",
+    "meaning": "무시",
+    "example_jp": "彼の意見を無視しないでください。",
+    "example_furigana": "かれのいけんをむししないでください。",
+    "example_ko": "그의 의견을 무시하지 마세요.",
+    "source": "openai"
+  },
+  {
+    "id": "357",
+    "word": "明確",
+    "reading": "めいかく",
+    "meaning": "명확",
+    "example_jp": "明確な目標を持ちましょう。",
+    "example_furigana": "めいかくなもくひょうをもちましょう。",
+    "example_ko": "명확한 목표를 가집시다.",
+    "source": "openai"
+  },
+  {
+    "id": "358",
+    "word": "面倒",
+    "reading": "めんどう",
+    "meaning": "번거로움",
+    "example_jp": "面倒な作業が多いです。",
+    "example_furigana": "めんどうなさぎょうがおおいです。",
+    "example_ko": "번거로운 작업이 많습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "359",
+    "word": "優先",
+    "reading": "ゆうせん",
+    "meaning": "우선",
+    "example_jp": "この仕事を優先してください。",
+    "example_furigana": "このしごとをゆうせんしてください。",
+    "example_ko": "이 일을 우선 처리해 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "360",
+    "word": "容易",
+    "reading": "ようい",
+    "meaning": "용이",
+    "example_jp": "この問題は容易に解決できます。",
+    "example_furigana": "このもんだいはよういにかいけつできます。",
+    "example_ko": "이 문제는 용이하게 해결할 수 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "361",
+    "word": "要素",
+    "reading": "ようそ",
+    "meaning": "요소",
+    "example_jp": "成功には多くの要素があります。",
+    "example_furigana": "せいこうにはおおくのようそがあります。",
+    "example_ko": "성공에는 많은 요소가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "362",
+    "word": "理解",
+    "reading": "りかい",
+    "meaning": "이해",
+    "example_jp": "彼の気持ちを理解したいです。",
+    "example_furigana": "かれのきもちをりかいしたいです。",
+    "example_ko": "그의 마음을 이해하고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "363",
+    "word": "臨時",
+    "reading": "りんじ",
+    "meaning": "임시",
+    "example_jp": "臨時の会議が開かれます。",
+    "example_furigana": "りんじのかいぎがひらかれます。",
+    "example_ko": "임시 회의가 열립니다.",
+    "source": "openai"
+  },
+  {
+    "id": "364",
+    "word": "連携",
+    "reading": "れんけい",
+    "meaning": "연계",
+    "example_jp": "チームと連携して作業します。",
+    "example_furigana": "チームとれんけいしてさぎょうします。",
+    "example_ko": "팀과 연계하여 작업합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "365",
+    "word": "論理",
+    "reading": "ろんり",
+    "meaning": "논리",
+    "example_jp": "彼の論理は正しいです。",
+    "example_furigana": "かれのろんりはただしいです。",
+    "example_ko": "그의 논리는 맞습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "366",
+    "word": "哀悼",
+    "reading": "あいとう",
+    "meaning": "애도",
+    "example_jp": "彼の死を哀悼します。",
+    "example_furigana": "かれのしをあいとうします。",
+    "example_ko": "그의 죽음을 애도합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "367",
+    "word": "愛着",
+    "reading": "あいちゃく",
+    "meaning": "애착",
+    "example_jp": "この場所に愛着があります。",
+    "example_furigana": "このばしょにあいちゃくがあります。",
+    "example_ko": "이 장소에 애착이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "368",
+    "word": "曖昧",
+    "reading": "あいまい",
+    "meaning": "애매",
+    "example_jp": "その答えは曖昧です。",
+    "example_furigana": "そのこたえはあいまいです。",
+    "example_ko": "그 대답은 애매합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "369",
+    "word": "悪循環",
+    "reading": "あくじゅんかん",
+    "meaning": "악순환",
+    "example_jp": "これは悪循環を生んでいます。",
+    "example_furigana": "これはあくじゅんかんをうんでいます。",
+    "example_ko": "이것은 악순환을 초래하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "370",
+    "word": "圧迫",
+    "reading": "あっぱく",
+    "meaning": "압박",
+    "example_jp": "彼は圧迫感を感じています。",
+    "example_furigana": "かれはあっぱくかんをかんじています。",
+    "example_ko": "그는 압박감을 느끼고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "371",
+    "word": "暗示",
+    "reading": "あんじ",
+    "meaning": "암시",
+    "example_jp": "これは暗示に過ぎません。",
+    "example_furigana": "これはあんじにすぎません。",
+    "example_ko": "이것은 암시에 지나지 않습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "372",
+    "word": "意義",
+    "reading": "いぎ",
+    "meaning": "의의",
+    "example_jp": "このプロジェクトには大きな意義があります。",
+    "example_furigana": "このプロジェクトにはおおきなぎぎがあります。",
+    "example_ko": "이 프로젝트에는 큰 의의가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "373",
+    "word": "意識",
+    "reading": "いしき",
+    "meaning": "의식",
+    "example_jp": "環境問題を意識しましょう。",
+    "example_furigana": "かんきょうもんだいをいしきしましょう。",
+    "example_ko": "환경 문제를 의식합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "374",
+    "word": "一貫",
+    "reading": "いっかん",
+    "meaning": "일관",
+    "example_jp": "彼の姿勢は一貫しています。",
+    "example_furigana": "かれのしせいはいっかんしています。",
+    "example_ko": "그의 태도는 일관되어 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "375",
+    "word": "一端",
+    "reading": "いったん",
+    "meaning": "일단, 한 부분",
+    "example_jp": "問題の一端を知りたいです。",
+    "example_furigana": "もんだいのいったんをしりたいです。",
+    "example_ko": "문제의 일단을 알고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "376",
+    "word": "逸脱",
+    "reading": "いつだつ",
+    "meaning": "일탈",
+    "example_jp": "彼は計画から逸脱しました。",
+    "example_furigana": "かれはけいかくからいつだつしました。",
+    "example_ko": "그는 계획에서 일탈했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "377",
+    "word": "陰謀",
+    "reading": "いんぼう",
+    "meaning": "음모",
+    "example_jp": "陰謀があると言われています。",
+    "example_furigana": "いんぼうがあるといわれています。",
+    "example_ko": "음모가 있다고 합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "378",
+    "word": "迂回",
+    "reading": "うかい",
+    "meaning": "우회",
+    "example_jp": "迂回して進む必要があります。",
+    "example_furigana": "うかいしてすすむひつようがあります。",
+    "example_ko": "우회해서 진행할 필요가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "379",
+    "word": "鬱病",
+    "reading": "うつびょう",
+    "meaning": "우울증",
+    "example_jp": "彼は鬱病を患っています。",
+    "example_furigana": "かれはうつびょうをわずらっています。",
+    "example_ko": "그는 우울증을 앓고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "380",
+    "word": "栄光",
+    "reading": "えいこう",
+    "meaning": "영광",
+    "example_jp": "彼女は栄光を手にしました。",
+    "example_furigana": "かのじょはえいこうをてにしました。",
+    "example_ko": "그녀는 영광을 얻었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "381",
+    "word": "衛生",
+    "reading": "えいせい",
+    "meaning": "위생",
+    "example_jp": "衛生状態を改善することが大切です。",
+    "example_furigana": "えいせいじょうたいをかいぜんすることがたいせつです。",
+    "example_ko": "위생 상태를 개선하는 것이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "382",
+    "word": "円滑",
+    "reading": "えんかつ",
+    "meaning": "원활",
+    "example_jp": "円滑な進行が求められます。",
+    "example_furigana": "えんかつなしんこうがもとめられます。",
+    "example_ko": "원활한 진행이 요구됩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "383",
+    "word": "縁故",
+    "reading": "えんこ",
+    "meaning": "연고",
+    "example_jp": "彼とは縁故があります。",
+    "example_furigana": "かれとはえんこがあります。",
+    "example_ko": "그와는 연고가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "384",
+    "word": "応酬",
+    "reading": "おうしゅう",
+    "meaning": "응수, 주고받음",
+    "example_jp": "彼との応酬が続いています。",
+    "example_furigana": "かれとのおうしゅうがつづいています。",
+    "example_ko": "그와의 응수가 계속되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "385",
+    "word": "横断",
+    "reading": "おうだん",
+    "meaning": "횡단",
+    "example_jp": "道路を横断する際は注意が必要です。",
+    "example_furigana": "どうろをおうだんするさいはちゅういがひつようです。",
+    "example_ko": "도로를 횡단할 때는 주의가 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "386",
+    "word": "穏当",
+    "reading": "おんとう",
+    "meaning": "온당",
+    "example_jp": "穏当な意見を述べましょう。",
+    "example_furigana": "おんとうないけんをのべましょう。",
+    "example_ko": "온당한 의견을 말합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "387",
+    "word": "介入",
+    "reading": "かいにゅう",
+    "meaning": "개입",
+    "example_jp": "問題に介入するのは難しいです。",
+    "example_furigana": "もんだいにかいにゅうするのはむずかしいです。",
+    "example_ko": "문제에 개입하는 것은 어렵습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "388",
+    "word": "概略",
+    "reading": "がいりゃく",
+    "meaning": "개략",
+    "example_jp": "プロジェクトの概略を説明します。",
+    "example_furigana": "プロジェクトのがいりゃくをせつめいします。",
+    "example_ko": "프로젝트의 개요를 설명합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "389",
+    "word": "核心",
+    "reading": "かくしん",
+    "meaning": "핵심",
+    "example_jp": "問題の核心を突いています。",
+    "example_furigana": "もんだいのかくしんをついています。",
+    "example_ko": "문제의 핵심을 찌르고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "390",
+    "word": "格差",
+    "reading": "かくさ",
+    "meaning": "격차",
+    "example_jp": "経済格差が広がっています。",
+    "example_furigana": "けいざいかくさがひろがっています。",
+    "example_ko": "경제 격차가 확대되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "391",
+    "word": "確執",
+    "reading": "かくしつ",
+    "meaning": "확집, 갈등",
+    "example_jp": "家族の確執を解消したいです。",
+    "example_furigana": "かぞくのかくしつをかいしょうしたいです。",
+    "example_ko": "가족의 갈등을 해소하고 싶습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "392",
+    "word": "活性化",
+    "reading": "かっせいか",
+    "meaning": "활성화",
+    "example_jp": "地域の活性化を目指しています。",
+    "example_furigana": "ちいきのかっせいかをめざしています。",
+    "example_ko": "지역의 활성화를 목표로 하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "393",
+    "word": "簡潔",
+    "reading": "かんけつ",
+    "meaning": "간결",
+    "example_jp": "説明は簡潔にお願いします。",
+    "example_furigana": "せつめいはかんけつにおねがいします。",
+    "example_ko": "설명은 간결하게 부탁드립니다.",
+    "source": "openai"
+  },
+  {
+    "id": "394",
+    "word": "感慨",
+    "reading": "かんがい",
+    "meaning": "감개",
+    "example_jp": "久しぶりの再会に感慨深いです。",
+    "example_furigana": "ひさしぶりのさいかいにかんがいぶかいです。",
+    "example_ko": "오랜만의 재회에 감개무량합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "395",
+    "word": "勧告",
+    "reading": "かんこく",
+    "meaning": "권고",
+    "example_jp": "この勧告を真剣に受け止めてください。",
+    "example_furigana": "このかんこくをしんけんにうけとめてください。",
+    "example_ko": "이 권고를 진지하게 받아들여 주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "396",
+    "word": "慣行",
+    "reading": "かんこう",
+    "meaning": "관행",
+    "example_jp": "この慣行を見直す必要があります。",
+    "example_furigana": "このかんこうをみなおすひつようがあります。",
+    "example_ko": "이 관행을 재검토할 필요가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "397",
+    "word": "緩和",
+    "reading": "かんわ",
+    "meaning": "완화",
+    "example_jp": "緊張を緩和する方法を探しています。",
+    "example_furigana": "きんちょうをかんわするほうほうをさがしています。",
+    "example_ko": "긴장을 완화하는 방법을 찾고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "398",
+    "word": "基盤",
+    "reading": "きばん",
+    "meaning": "기반",
+    "example_jp": "この技術が基盤です。",
+    "example_furigana": "このぎじゅつがきばんです。",
+    "example_ko": "이 기술이 기반입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "399",
+    "word": "起源",
+    "reading": "きげん",
+    "meaning": "기원",
+    "example_jp": "この文化の起源を調べています。",
+    "example_furigana": "このぶんかのきげんをしらべています。",
+    "example_ko": "이 문화의 기원을 조사하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "400",
+    "word": "軌道",
+    "reading": "きどう",
+    "meaning": "궤도",
+    "example_jp": "新しい計画は軌道に乗りました。",
+    "example_furigana": "あたらしいけいかくはきどうにのりました。",
+    "example_ko": "새로운 계획이 궤도에 올랐습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "401",
+    "word": "犠牲",
+    "reading": "ぎせい",
+    "meaning": "희생",
+    "example_jp": "彼は家族のために犠牲になった。",
+    "example_furigana": "彼(かれ)は家族(かぞく)のために犠牲(ぎせい)になった。",
+    "example_ko": "그는 가족을 위해 희생했다.",
+    "source": "openai"
+  },
+  {
+    "id": "402",
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "의무",
+    "example_jp": "学生には勉強する義務がある。",
+    "example_furigana": "学生(がくせい)には勉強(べんきょう)する義務(ぎむ)がある。",
+    "example_ko": "학생에게는 공부할 의무가 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "403",
+    "word": "逆転",
+    "reading": "ぎゃくてん",
+    "meaning": "역전",
+    "example_jp": "試合は逆転の展開になった。",
+    "example_furigana": "試合(しあい)は逆転(ぎゃくてん)の展開(てんかい)になった。",
+    "example_ko": "경기는 역전의 전개가 되었다.",
+    "source": "openai"
+  },
+  {
+    "id": "404",
+    "word": "窮地",
+    "reading": "きゅうち",
+    "meaning": "궁지",
+    "example_jp": "彼は窮地に立たされている。",
+    "example_furigana": "彼(かれ)は窮地(きゅうち)に立たされている。",
+    "example_ko": "그는 궁지에 처해 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "405",
+    "word": "脅威",
+    "reading": "きょうい",
+    "meaning": "위협",
+    "example_jp": "テロは私たちにとって脅威だ。",
+    "example_furigana": "テロは私(わたし)たちにとって脅威(きょうい)だ。",
+    "example_ko": "테러는 우리에게 위협이다.",
+    "source": "openai"
+  },
+  {
+    "id": "406",
+    "word": "共感",
+    "reading": "きょうかん",
+    "meaning": "공감",
+    "example_jp": "彼の話に共感しました。",
+    "example_furigana": "彼(かれ)の話(はなし)に共感(きょうかん)しました。",
+    "example_ko": "그의 이야기에 공감했다.",
+    "source": "openai"
+  },
+  {
+    "id": "407",
+    "word": "強制",
+    "reading": "きょうせい",
+    "meaning": "강제",
+    "example_jp": "強制は良くないと思う。",
+    "example_furigana": "強制(きょうせい)は良(よ)くないと思(おも)う。",
+    "example_ko": "강제는 좋지 않다고 생각한다.",
+    "source": "openai"
+  },
+  {
+    "id": "408",
+    "word": "協調",
+    "reading": "きょうちょう",
+    "meaning": "협조",
+    "example_jp": "国際協調が必要です。",
+    "example_furigana": "国際(こくさい)協調(きょうちょう)が必要(ひつよう)です。",
+    "example_ko": "국제 협조가 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "409",
+    "word": "脅迫",
+    "reading": "きょうはく",
+    "meaning": "협박",
+    "example_jp": "脅迫は犯罪ですよ。",
+    "example_furigana": "脅迫(きょうはく)は犯罪(はんざい)ですよ。",
+    "example_ko": "협박은 범죄입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "410",
+    "word": "均衡",
+    "reading": "きんこう",
+    "meaning": "균형",
+    "example_jp": "力の均衡が保たれている。",
+    "example_furigana": "力(ちから)の均衡(きんこう)が保(たも)たれている。",
+    "example_ko": "힘의 균형이 유지되고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "411",
+    "word": "緊張",
+    "reading": "きんちょう",
+    "meaning": "긴장",
+    "example_jp": "緊張が高まってきた。",
+    "example_furigana": "緊張(きんちょう)が高(たか)まってきた。",
+    "example_ko": "긴장이 고조되고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "412",
+    "word": "空白",
+    "reading": "くうはく",
+    "meaning": "공백",
+    "example_jp": "その部分には空白があります。",
+    "example_furigana": "その部分(ぶぶん)には空白(くうはく)があります。",
+    "example_ko": "그 부분에는 공백이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "413",
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "meaning": "우연",
+    "example_jp": "偶然に彼に会った。",
+    "example_furigana": "偶然(ぐうぜん)に彼(かれ)に会(あ)った。",
+    "example_ko": "우연히 그를 만났다.",
+    "source": "openai"
+  },
+  {
+    "id": "414",
+    "word": "経緯",
+    "reading": "けいい",
+    "meaning": "경위",
+    "example_jp": "事件の経緯を説明します。",
+    "example_furigana": "事件(じけん)の経緯(けいい)を説明(せつめい)します。",
+    "example_ko": "사건의 경위를 설명하겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "415",
+    "word": "警戒",
+    "reading": "けいかい",
+    "meaning": "경계",
+    "example_jp": "警戒が必要な時期です。",
+    "example_furigana": "警戒(けいかい)が必要(ひつよう)な時期(じき)です。",
+    "example_ko": "경계가 필요한 시기입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "416",
+    "word": "啓発",
+    "reading": "けいはつ",
+    "meaning": "계발",
+    "example_jp": "この本は啓発的です。",
+    "example_furigana": "この本(ほん)は啓発(けいはつ)的(てき)です。",
+    "example_ko": "이 책은 계발적이다.",
+    "source": "openai"
+  },
+  {
+    "id": "417",
+    "word": "傑作",
+    "reading": "けっさく",
+    "meaning": "걸작",
+    "example_jp": "これは彼の傑作だと思う。",
+    "example_furigana": "これは彼(かれ)の傑作(けっさく)だと思(おも)う。",
+    "example_ko": "이것은 그의 걸작이라고 생각한다.",
+    "source": "openai"
+  },
+  {
+    "id": "418",
+    "word": "欠乏",
+    "reading": "けつぼう",
+    "meaning": "결핍",
+    "example_jp": "水の欠乏が問題です。",
+    "example_furigana": "水(みず)の欠乏(けつぼう)が問題(もんだい)です。",
+    "example_ko": "물의 결핍이 문제입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "419",
+    "word": "権威",
+    "reading": "けんい",
+    "meaning": "권위",
+    "example_jp": "彼はその分野の権威です。",
+    "example_furigana": "彼(かれ)はその分野(ぶんや)の権威(けんい)です。",
+    "example_ko": "그는 그 분야의 권위자이다.",
+    "source": "openai"
+  },
+  {
+    "id": "420",
+    "word": "見解",
+    "reading": "けんかい",
+    "meaning": "견해",
+    "example_jp": "私の見解は違います。",
+    "example_furigana": "私(わたし)の見解(けんかい)は違(ちが)います。",
+    "example_ko": "내 견해는 다릅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "421",
+    "word": "権限",
+    "reading": "けんげん",
+    "meaning": "권한",
+    "example_jp": "彼にはその権限があります。",
+    "example_furigana": "彼(かれ)にはその権限(けんげん)があります。",
+    "example_ko": "그에게는 그 권한이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "422",
+    "word": "献身",
+    "reading": "けんしん",
+    "meaning": "헌신",
+    "example_jp": "彼女は家族に献身している。",
+    "example_furigana": "彼女(かのじょ)は家族(かぞく)に献身(けんしん)している。",
+    "example_ko": "그녀는 가족에 헌신하고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "423",
+    "word": "顕著",
+    "reading": "けんちょ",
+    "meaning": "현저",
+    "example_jp": "彼の成長は顕著です。",
+    "example_furigana": "彼(かれ)の成長(せいちょう)は顕著(けんちょ)です。",
+    "example_ko": "그의 성장은 현저하다.",
+    "source": "openai"
+  },
+  {
+    "id": "424",
+    "word": "効率",
+    "reading": "こうりつ",
+    "meaning": "효율",
+    "example_jp": "この方法は効率が良い。",
+    "example_furigana": "この方法(ほうほう)は効率(こうりつ)が良(よ)い。",
+    "example_ko": "이 방법은 효율이 좋다.",
+    "source": "openai"
+  },
+  {
+    "id": "425",
+    "word": "合意",
+    "reading": "ごうい",
+    "meaning": "합의",
+    "example_jp": "私たちは合意に達しました。",
+    "example_furigana": "私(わたし)たちは合意(ごうい)に達(たっ)しました。",
+    "example_ko": "우리는 합의에 도달했다.",
+    "source": "openai"
+  },
+  {
+    "id": "426",
+    "word": "豪華",
+    "reading": "ごうか",
+    "meaning": "호화",
+    "example_jp": "そのホテルは豪華です。",
+    "example_furigana": "そのホテル(ほてる)は豪華(ごうか)です。",
+    "example_ko": "그 호텔은 호화롭다.",
+    "source": "openai"
+  },
+  {
+    "id": "427",
+    "word": "克服",
+    "reading": "こくふく",
+    "meaning": "극복",
+    "example_jp": "彼は困難を克服した。",
+    "example_furigana": "彼(かれ)は困難(こんなん)を克服(こくふく)した。",
+    "example_ko": "그는 어려움을 극복했다.",
+    "source": "openai"
+  },
+  {
+    "id": "428",
+    "word": "孤立",
+    "reading": "こりつ",
+    "meaning": "고립",
+    "example_jp": "彼は孤立していると感じた。",
+    "example_furigana": "彼(かれ)は孤立(こりつ)していると感(かん)じた。",
+    "example_ko": "그는 고립되어 있다고 느꼈다.",
+    "source": "openai"
+  },
+  {
+    "id": "429",
+    "word": "混乱",
+    "reading": "こんらん",
+    "meaning": "혼란",
+    "example_jp": "会議は混乱した。",
+    "example_furigana": "会議(かいぎ)は混乱(こんらん)した。",
+    "example_ko": "회의는 혼란스러웠다.",
+    "source": "openai"
+  },
+  {
+    "id": "430",
+    "word": "根幹",
+    "reading": "こんかん",
+    "meaning": "근간",
+    "example_jp": "教育は社会の根幹です。",
+    "example_furigana": "教育(きょういく)は社会(しゃかい)の根幹(こんかん)です。",
+    "example_ko": "교육은 사회의 근간이다.",
+    "source": "openai"
+  },
+  {
+    "id": "431",
+    "word": "差異",
+    "reading": "さい",
+    "meaning": "차이",
+    "example_jp": "文化の差異を理解しよう。",
+    "example_furigana": "文化(ぶんか)の差異(さい)を理解(りかい)しよう。",
+    "example_ko": "문화의 차이를 이해하자.",
+    "source": "openai"
+  },
+  {
+    "id": "432",
+    "word": "裁量",
+    "reading": "さいりょう",
+    "meaning": "재량",
+    "example_jp": "彼は裁量を持っています。",
+    "example_furigana": "彼(かれ)は裁量(さいりょう)を持(も)っています。",
+    "example_ko": "그는 재량을 가지고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "433",
+    "word": "錯覚",
+    "reading": "さっかく",
+    "meaning": "착각",
+    "example_jp": "それは錯覚かもしれません。",
+    "example_furigana": "それは錯覚(さっかく)かもしれません。",
+    "example_ko": "그것은 착각일지도 모릅니다.",
+    "source": "openai"
+  },
+  {
+    "id": "434",
+    "word": "賛否",
+    "reading": "さんぴ",
+    "meaning": "찬부",
+    "example_jp": "その提案には賛否が分かれた。",
+    "example_furigana": "その提案(ていあん)には賛否(さんぴ)が分(わ)かれた。",
+    "example_ko": "그 제안에는 찬반이 갈렸다.",
+    "source": "openai"
+  },
+  {
+    "id": "435",
+    "word": "自粛",
+    "reading": "じしゅく",
+    "meaning": "자숙",
+    "example_jp": "自粛が求められています。",
+    "example_furigana": "自粛(じしゅく)が求(もと)められています。",
+    "example_ko": "자숙이 요구되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "436",
+    "word": "持続",
+    "reading": "じぞく",
+    "meaning": "지속",
+    "example_jp": "持続可能な開発が重要です。",
+    "example_furigana": "持続(じぞく)可能(かのう)な開発(かいはつ)が重要(じゅうよう)です。",
+    "example_ko": "지속 가능한 개발이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "437",
+    "word": "失墜",
+    "reading": "しっつい",
+    "meaning": "실추",
+    "example_jp": "ブランドの失墜が心配です。",
+    "example_furigana": "ブランド(ぶらんど)の失墜(しっつい)が心配(しんぱい)です。",
+    "example_ko": "브랜드의 실추가 걱정이다.",
+    "source": "openai"
+  },
+  {
+    "id": "438",
+    "word": "執着",
+    "reading": "しゅうちゃく",
+    "meaning": "집착",
+    "example_jp": "彼女はそのことに執着している。",
+    "example_furigana": "彼女(かのじょ)はそのことに執着(しゅうちゃく)している。",
+    "example_ko": "그녀는 그 일에 집착하고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "439",
+    "word": "収束",
+    "reading": "しゅうそく",
+    "meaning": "수습",
+    "example_jp": "状況が収束に向かっています。",
+    "example_furigana": "状況(じょうきょう)が収束(しゅうそく)に向(む)かっています。",
+    "example_ko": "상황이 수습 방향으로 가고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "440",
+    "word": "終焉",
+    "reading": "しゅうえん",
+    "meaning": "종언",
+    "example_jp": "彼のキャリアは終焉を迎えた。",
+    "example_furigana": "彼(かれ)のキャリアは終焉(しゅうえん)を迎(むか)えた。",
+    "example_ko": "그의 경력은 종언을 맞이했다.",
+    "source": "openai"
+  },
+  {
+    "id": "441",
+    "word": "衝撃",
+    "reading": "しょうげき",
+    "meaning": "충격",
+    "example_jp": "そのニュースは衝撃的だった。",
+    "example_furigana": "そのニュース(にゅーす)は衝撃(しょうげき)的(てき)だった。",
+    "example_ko": "그 뉴스는 충격적이었다.",
+    "source": "openai"
+  },
+  {
+    "id": "442",
+    "word": "象徴",
+    "reading": "しょうちょう",
+    "meaning": "상징",
+    "example_jp": "彼は希望の象徴です。",
+    "example_furigana": "彼(かれ)は希望(きぼう)の象徴(しょうちょう)です。",
+    "example_ko": "그는 희망의 상징이다.",
+    "source": "openai"
+  },
+  {
+    "id": "443",
+    "word": "冗談",
+    "reading": "じょうだん",
+    "meaning": "농담",
+    "example_jp": "それは冗談だと思った。",
+    "example_furigana": "それは冗談(じょうだん)だと思(おも)った。",
+    "example_ko": "그것은 농담이라고 생각했다.",
+    "source": "openai"
+  },
+  {
+    "id": "444",
+    "word": "侵害",
+    "reading": "しんがい",
+    "meaning": "침해",
+    "example_jp": "権利の侵害は許されない。",
+    "example_furigana": "権利(けんり)の侵害(しんがい)は許(ゆる)されない。",
+    "example_ko": "권리의 침해는 용납될 수 없다.",
+    "source": "openai"
+  },
+  {
+    "id": "445",
+    "word": "真摯",
+    "reading": "しんし",
+    "meaning": "진지",
+    "example_jp": "彼は真摯に取り組んでいる。",
+    "example_furigana": "彼(かれ)は真摯(しんし)に取り組(とりく)んでいる。",
+    "example_ko": "그는 진지하게 임하고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "446",
+    "word": "浸透",
+    "reading": "しんとう",
+    "meaning": "침투",
+    "example_jp": "考えが浸透してきた。",
+    "example_furigana": "考え(かんがえ)が浸透(しんとう)してきた。",
+    "example_ko": "생각이 침투해왔다.",
+    "source": "openai"
+  },
+  {
+    "id": "447",
+    "word": "推移",
+    "reading": "すいい",
+    "meaning": "추이",
+    "example_jp": "経済は徐々に推移している。",
+    "example_furigana": "経済(けいざい)は徐(じょ)々(じょ)に推移(すいい)している。",
+    "example_ko": "경제는 점차 변화하고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "448",
+    "word": "趨勢",
+    "reading": "すうせい",
+    "meaning": "추세",
+    "example_jp": "市場の趨勢を見ています。",
+    "example_furigana": "市場(しじょう)の趨勢(すうせい)を見(み)ています。",
+    "example_ko": "시장의 추세를 보고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "449",
+    "word": "崇拝",
+    "reading": "すうはい",
+    "meaning": "숭배",
+    "example_jp": "彼女はその歌手を崇拝している。",
+    "example_furigana": "彼女(かのじょ)はその歌手(かしゅ)を崇拝(すうはい)している。",
+    "example_ko": "그녀는 그 가수를 숭배하고 있다.",
+    "source": "openai"
+  },
+  {
+    "id": "450",
+    "word": "整合",
+    "reading": "せいごう",
+    "meaning": "정합",
+    "example_jp": "意見の整合が取れました。",
+    "example_furigana": "意見(いけん)の整合(せいごう)が取(と)れました。",
+    "example_ko": "의견의 정합이 이루어졌습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "451",
+    "word": "精神",
+    "reading": "せいしん",
+    "meaning": "정신",
+    "example_jp": "精神を大事にしています。",
+    "example_furigana": "精神(せいしん)を大事(だいじ)にしています。",
+    "example_ko": "정신을 중요하게 생각하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "452",
+    "word": "誠実",
+    "reading": "せいじつ",
+    "meaning": "성실",
+    "example_jp": "彼は誠実な人です。",
+    "example_furigana": "彼(かれ)は誠実(せいじつ)な人(ひと)です。",
+    "example_ko": "그는 성실한 사람입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "453",
+    "word": "脆弱",
+    "reading": "ぜいじゃく",
+    "meaning": "취약",
+    "example_jp": "そのシステムは脆弱です。",
+    "example_furigana": "そのシステムは脆弱(ぜいじゃく)です。",
+    "example_ko": "그 시스템은 취약합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "454",
+    "word": "絶望",
+    "reading": "ぜつぼう",
+    "meaning": "절망",
+    "example_jp": "彼は絶望しています。",
+    "example_furigana": "彼(かれ)は絶望(ぜつぼう)しています。",
+    "example_ko": "그는 절망하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "455",
+    "word": "潜在",
+    "reading": "せんざい",
+    "meaning": "잠재",
+    "example_jp": "彼女は潜在能力があります。",
+    "example_furigana": "彼女(かのじょ)は潜在(せんざい)能力(のうりょく)があります。",
+    "example_ko": "그녀는 잠재 능력이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "456",
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "전제",
+    "example_jp": "それは前提です。",
+    "example_furigana": "それは前提(ぜんてい)です。",
+    "example_ko": "그것은 전제입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "457",
+    "word": "憎悪",
+    "reading": "ぞうお",
+    "meaning": "증오",
+    "example_jp": "彼の憎悪は理解できない。",
+    "example_furigana": "彼(かれ)の憎悪(ぞうお)は理解(りかい)できない。",
+    "example_ko": "그의 증오는 이해할 수 없다.",
+    "source": "openai"
+  },
+  {
+    "id": "458",
+    "word": "遡及",
+    "reading": "そきゅう",
+    "meaning": "소급",
+    "example_jp": "遡及が必要です。",
+    "example_furigana": "遡及(そきゅう)が必要(ひつよう)です。",
+    "example_ko": "소급이 필요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "459",
+    "word": "尊厳",
+    "reading": "そんげん",
+    "meaning": "존엄",
+    "example_jp": "人の尊厳を守る。",
+    "example_furigana": "人(ひと)の尊厳(そんげん)を守(まも)る。",
+    "example_ko": "사람의 존엄을 지킨다.",
+    "source": "openai"
+  },
+  {
+    "id": "460",
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaning": "타협",
+    "example_jp": "妥協は時に大事です。",
+    "example_furigana": "妥協(だきょう)は時(とき)に大事(だいじ)です。",
+    "example_ko": "타협은 때때로 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "461",
+    "word": "脱却",
+    "reading": "だっきゃく",
+    "meaning": "탈각",
+    "example_jp": "古い習慣から脱却しましょう。",
+    "example_furigana": "古(ふる)い習慣(しゅうかん)から脱却(だっきゃく)しましょう。",
+    "example_ko": "오래된 습관에서 탈각합시다.",
+    "source": "openai"
+  },
+  {
+    "id": "462",
+    "word": "妥当",
+    "reading": "だとう",
+    "meaning": "타당",
+    "example_jp": "その意見は妥当です。",
+    "example_furigana": "その意見(いけん)は妥当(だとう)です。",
+    "example_ko": "그 의견은 타당합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "463",
+    "word": "弾圧",
+    "reading": "だんあつ",
+    "meaning": "탄압",
+    "example_jp": "弾圧に反対します。",
+    "example_furigana": "弾圧(だんあつ)に反対(はんたい)します。",
+    "example_ko": "탄압에 반대합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "464",
+    "word": "秩序",
+    "reading": "ちつじょ",
+    "meaning": "질서",
+    "example_jp": "秩序を保つことが大切です。",
+    "example_furigana": "秩序(ちつじょ)を保(たも)つことが大切(たいせつ)です。",
+    "example_ko": "질서를 유지하는 것이 중요합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "465",
+    "word": "沈黙",
+    "reading": "ちんもく",
+    "meaning": "침묵",
+    "example_jp": "沈黙が続きました。",
+    "example_furigana": "沈黙(ちんもく)が続(つづ)きました。",
+    "example_ko": "침묵이 이어졌습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "466",
+    "word": "堤防",
+    "reading": "ていぼう",
+    "meaning": "제방",
+    "example_jp": "堤防が崩れそうです。",
+    "example_furigana": "堤防(ていぼう)が崩(くず)れそうです。",
+    "example_ko": "제방이 무너질 것 같습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "467",
+    "word": "徹底",
+    "reading": "てってい",
+    "meaning": "철저",
+    "example_jp": "徹底的に調査します。",
+    "example_furigana": "徹底(てってい)的(てき)に調査(ちょうさ)します。",
+    "example_ko": "철저하게 조사하겠습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "468",
+    "word": "透明",
+    "reading": "とうめい",
+    "meaning": "투명",
+    "example_jp": "この水は透明です。",
+    "example_furigana": "この水(みず)は透明(とうめい)です。",
+    "example_ko": "이 물은 투명합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "469",
+    "word": "同盟",
+    "reading": "どうめい",
+    "meaning": "동맹",
+    "example_jp": "二国は同盟を結びました。",
+    "example_furigana": "二国(にこく)は同盟(どうめい)を結(むす)びました。",
+    "example_ko": "두 나라는 동맹을 맺었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "470",
+    "word": "洞察",
+    "reading": "どうさつ",
+    "meaning": "통찰",
+    "example_jp": "彼の洞察は素晴らしい。",
+    "example_furigana": "彼(かれ)の洞察(どうさつ)は素晴(すば)らしい。",
+    "example_ko": "그의 통찰은 훌륭합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "471",
+    "word": "独占",
+    "reading": "どくせん",
+    "meaning": "독점",
+    "example_jp": "その会社が市場を独占しています。",
+    "example_furigana": "その会社(かいしゃ)が市場(しじょう)を独占(どくせん)しています。",
+    "example_ko": "그 회사가 시장을 독점하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "472",
+    "word": "突破",
+    "reading": "とっぱ",
+    "meaning": "돌파",
+    "example_jp": "敵の防御を突破しました。",
+    "example_furigana": "敵(てき)の防御(ぼうぎょ)を突破(とっぱ)しました。",
+    "example_ko": "적의 방어를 돌파했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "473",
+    "word": "内在",
+    "reading": "ないざい",
+    "meaning": "내재",
+    "example_jp": "問題は内在しています。",
+    "example_furigana": "問題(もんだい)は内在(ないざい)しています。",
+    "example_ko": "문제가 내재되어 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "474",
+    "word": "捏造",
+    "reading": "ねつぞう",
+    "meaning": "날조",
+    "example_jp": "捏造された情報に注意。",
+    "example_furigana": "捏造(ねつぞう)された情報(じょうほう)に注意(ちゅうい)。",
+    "example_ko": "날조된 정보에 주의하세요.",
+    "source": "openai"
+  },
+  {
+    "id": "475",
+    "word": "粘着",
+    "reading": "ねんちゃく",
+    "meaning": "점착",
+    "example_jp": "このテープは粘着性があります。",
+    "example_furigana": "このテープは粘着(ねんちゃく)性(せい)があります。",
+    "example_ko": "이 테이프는 점착성이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "476",
+    "word": "破壊",
+    "reading": "はかい",
+    "meaning": "파괴",
+    "example_jp": "自然を破壊してはいけない。",
+    "example_furigana": "自然(しぜん)を破壊(はかい)してはいけない。",
+    "example_ko": "자연을 파괴해서는 안 된다.",
+    "source": "openai"
+  },
+  {
+    "id": "477",
+    "word": "破綻",
+    "reading": "はたん",
+    "meaning": "파탄",
+    "example_jp": "計画が破綻しました。",
+    "example_furigana": "計画(けいかく)が破綻(はたん)しました。",
+    "example_ko": "계획이 파탄났습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "478",
+    "word": "発足",
+    "reading": "ほっそく",
+    "meaning": "발족",
+    "example_jp": "新しい団体が発足しました。",
+    "example_furigana": "新(あたら)しい団体(だんたい)が発足(ほっそく)しました。",
+    "example_ko": "새로운 단체가 발족했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "479",
+    "word": "波紋",
+    "reading": "はもん",
+    "meaning": "파문",
+    "example_jp": "その言葉は波紋を呼びました。",
+    "example_furigana": "その言葉(ことば)は波紋(はもん)を呼(よ)びました。",
+    "example_ko": "그 말은 파문을 일으켰습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "480",
+    "word": "反響",
+    "reading": "はんきょう",
+    "meaning": "반향",
+    "example_jp": "そのニュースは大きな反響を呼んだ。",
+    "example_furigana": "そのニュースは大(おお)きな反響(はんきょう)を呼(よ)んだ。",
+    "example_ko": "그 뉴스는 큰 반향을 일으켰다.",
+    "source": "openai"
+  },
+  {
+    "id": "481",
+    "word": "悲惨",
+    "reading": "ひさん",
+    "meaning": "비참",
+    "example_jp": "彼の状況は悲惨です。",
+    "example_furigana": "彼(かれ)の状況(じょうきょう)は悲惨(ひさん)です。",
+    "example_ko": "그의 상황은 비참합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "482",
+    "word": "秘訣",
+    "reading": "ひけつ",
+    "meaning": "비결",
+    "example_jp": "成功の秘訣を教えてください。",
+    "example_furigana": "成功(せいこう)の秘訣(ひけつ)を教(おし)えてください。",
+    "example_ko": "성공의 비결을 알려주세요.",
+    "source": "openai"
+  },
+  {
+    "id": "483",
+    "word": "必然",
+    "reading": "ひつぜん",
+    "meaning": "필연",
+    "example_jp": "それは必然の結果です。",
+    "example_furigana": "それは必然(ひつぜん)の結果(けっか)です。",
+    "example_ko": "그것은 필연적인 결과입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "484",
+    "word": "批評",
+    "reading": "ひひょう",
+    "meaning": "비평",
+    "example_jp": "彼の批評は鋭いです。",
+    "example_furigana": "彼(かれ)の批評(ひひょう)は鋭(するど)いです。",
+    "example_ko": "그의 비평은 날카롭습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "485",
+    "word": "風潮",
+    "reading": "ふうちょう",
+    "meaning": "풍조",
+    "example_jp": "最近の風潮が変わっています。",
+    "example_furigana": "最近(さいきん)の風潮(ふうちょう)が変(かわ)っています。",
+    "example_ko": "최근의 풍조가 변하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "486",
+    "word": "不可欠",
+    "reading": "ふかけつ",
+    "meaning": "불가결",
+    "example_jp": "彼はチームに不可欠です。",
+    "example_furigana": "彼(かれ)はチームに不可欠(ふかけつ)です。",
+    "example_ko": "그는 팀에 불가결합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "487",
+    "word": "不振",
+    "reading": "ふしん",
+    "meaning": "부진",
+    "example_jp": "経済が不振です。",
+    "example_furigana": "経済(けいざい)が不振(ふしん)です。",
+    "example_ko": "경제가 부진합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "488",
+    "word": "扶養",
+    "reading": "ふよう",
+    "meaning": "부양",
+    "example_jp": "子供を扶養しています。",
+    "example_furigana": "子供(こども)を扶養(ふよう)しています。",
+    "example_ko": "아이를 부양하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "489",
+    "word": "併用",
+    "reading": "へいよう",
+    "meaning": "병용",
+    "example_jp": "この薬は併用できます。",
+    "example_furigana": "この薬(くすり)は併用(へいよう)できます。",
+    "example_ko": "이 약은 병용할 수 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "490",
+    "word": "弊害",
+    "reading": "へいがい",
+    "meaning": "폐해",
+    "example_jp": "その政策には弊害があります。",
+    "example_furigana": "その政策(せいさく)には弊害(へいがい)があります。",
+    "example_ko": "그 정책에는 폐해가 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "491",
+    "word": "崩壊",
+    "reading": "ほうかい",
+    "meaning": "붕괴",
+    "example_jp": "経済が崩壊しました。",
+    "example_furigana": "経済(けいざい)が崩壊(ほうかい)しました。",
+    "example_ko": "경제가 붕괴했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "492",
+    "word": "放棄",
+    "reading": "ほうき",
+    "meaning": "포기",
+    "example_jp": "その計画を放棄します。",
+    "example_furigana": "その計画(けいかく)を放棄(ほうき)します。",
+    "example_ko": "그 계획을 포기합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "493",
+    "word": "補償",
+    "reading": "ほしょう",
+    "meaning": "보상",
+    "example_jp": "被害者に補償をします。",
+    "example_furigana": "被害者(ひがいしゃ)に補償(ほしょう)をします。",
+    "example_ko": "피해자에게 보상을 합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "494",
+    "word": "本能",
+    "reading": "ほんのう",
+    "meaning": "본능",
+    "example_jp": "それは本能的な行動です。",
+    "example_furigana": "それは本能(ほんのう)的(てき)な行動(こうどう)です。",
+    "example_ko": "그것은 본능적인 행동입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "495",
+    "word": "磨耗",
+    "reading": "まもう",
+    "meaning": "마모",
+    "example_jp": "道具が磨耗しています。",
+    "example_furigana": "道具(どうぐ)が磨耗(まもう)しています。",
+    "example_ko": "도구가 마모되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "496",
+    "word": "見込み",
+    "reading": "みこみ",
+    "meaning": "전망",
+    "example_jp": "来年の見込みは良いです。",
+    "example_furigana": "来年(らいねん)の見込み(みこみ)は良(よ)いです。",
+    "example_ko": "내년의 전망은 좋습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "497",
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaning": "모순",
+    "example_jp": "彼の言葉には矛盾があります。",
+    "example_furigana": "彼(かれ)の言葉(ことば)には矛盾(むじゅん)があります。",
+    "example_ko": "그의 말에는 모순이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "498",
+    "word": "名誉",
+    "reading": "めいよ",
+    "meaning": "명예",
+    "example_jp": "名誉を守るために戦います。",
+    "example_furigana": "名誉(めいよ)を守(まも)るため(ため)に戦(たたか)います。",
+    "example_ko": "명예를 지키기 위해 싸웁니다.",
+    "source": "openai"
+  },
+  {
+    "id": "499",
+    "word": "免除",
+    "reading": "めんじょ",
+    "meaning": "면제",
+    "example_jp": "その費用は免除されます。",
+    "example_furigana": "その費用(ひよう)は免除(めんじょ)されます。",
+    "example_ko": "그 비용은 면제됩니다.",
+    "source": "openai"
+  },
+  {
+    "id": "500",
+    "word": "模索",
+    "reading": "もさく",
+    "meaning": "모색",
+    "example_jp": "解決策を模索しています。",
+    "example_furigana": "解決策(かいけつさく)を模索(もさく)しています。",
+    "example_ko": "해결책을 모색하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "501",
+    "word": "黙認",
+    "reading": "もくにん",
+    "meaning": "묵인",
+    "example_jp": "彼はその行為を黙認しました。",
+    "example_furigana": "彼(かれ)はその行為(こうい)を黙認(もくにん)しました。",
+    "example_ko": "그는 그 행동을 묵인했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "502",
+    "word": "野心",
+    "reading": "やしん",
+    "meaning": "야심",
+    "example_jp": "彼女には大きな野心があります。",
+    "example_furigana": "彼女(かのじょ)には大(おお)きな野心(やしん)があります。",
+    "example_ko": "그녀는 큰 야심이 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "503",
+    "word": "誘惑",
+    "reading": "ゆうわく",
+    "meaning": "유혹",
+    "example_jp": "彼は誘惑に負けてしまった。",
+    "example_furigana": "彼(かれ)は誘惑(ゆうわく)に負け(まけ)てしまった。",
+    "example_ko": "그는 유혹에 지고 말았습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "504",
+    "word": "融合",
+    "reading": "ゆうごう",
+    "meaning": "융합",
+    "example_jp": "文化の融合が進んでいます。",
+    "example_furigana": "文化(ぶんか)の融合(ゆうごう)が進(すす)んでいます。",
+    "example_ko": "문화의 융합이 진행되고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "505",
+    "word": "擁護",
+    "reading": "ようご",
+    "meaning": "옹호",
+    "example_jp": "彼は友達を擁護しました。",
+    "example_furigana": "彼(かれ)は友達(ともだち)を擁護(ようご)しました。",
+    "example_ko": "그는 친구를 옹호했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "506",
+    "word": "抑圧",
+    "reading": "よくあつ",
+    "meaning": "억압",
+    "example_jp": "抑圧された感情が溢れた。",
+    "example_furigana": "抑圧(よくあつ)された感情(かんじょう)が溢(あふ)れた。",
+    "example_ko": "억압된 감정이 넘쳤습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "507",
+    "word": "来歴",
+    "reading": "らいれき",
+    "meaning": "내력",
+    "example_jp": "彼の来歴はとても興味深いです。",
+    "example_furigana": "彼(かれ)の来歴(らいれき)はとても興味深(きょうみぶか)いです。",
+    "example_ko": "그의 내력은 매우 흥미롭습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "508",
+    "word": "落胆",
+    "reading": "らくたん",
+    "meaning": "낙담",
+    "example_jp": "彼女は結果に落胆しました。",
+    "example_furigana": "彼女(かのじょ)は結果(けっか)に落胆(らくたん)しました。",
+    "example_ko": "그녀는 결과에 낙담했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "509",
+    "word": "乱用",
+    "reading": "らんよう",
+    "meaning": "남용",
+    "example_jp": "その権利の乱用は許されません。",
+    "example_furigana": "その権利(けんり)の乱用(らんよう)は許(ゆる)されません。",
+    "example_ko": "그 권리의 남용은 허용되지 않습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "510",
+    "word": "離脱",
+    "reading": "りだつ",
+    "meaning": "이탈",
+    "example_jp": "彼はグループから離脱しました。",
+    "example_furigana": "彼(かれ)はグループから離脱(りだつ)しました。",
+    "example_ko": "그는 그룹에서 이탈했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "511",
+    "word": "理念",
+    "reading": "りねん",
+    "meaning": "이념",
+    "example_jp": "彼の理念に共感します。",
+    "example_furigana": "彼(かれ)の理念(りねん)に共感(きょうかん)します。",
+    "example_ko": "그의 이념에 공감합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "512",
+    "word": "倫理",
+    "reading": "りんり",
+    "meaning": "윤리",
+    "example_jp": "倫理を考えながら行動します。",
+    "example_furigana": "倫理(りんり)を考(かんが)えながら行動(こうどう)します。",
+    "example_ko": "윤리를 고려하며 행동합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "513",
+    "word": "連帯",
+    "reading": "れんたい",
+    "meaning": "연대",
+    "example_jp": "私たちは連帯して問題を解決しました。",
+    "example_furigana": "私(わたし)たちは連帯(れんたい)して問題(もんだい)を解決(かいけつ)しました。",
+    "example_ko": "우리는 연대하여 문제를 해결했습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "514",
+    "word": "和解",
+    "reading": "わかい",
+    "meaning": "화해",
+    "example_jp": "二人は和解しました。",
+    "example_furigana": "二人(ふたり)は和解(わかい)しました。",
+    "example_ko": "두 사람은 화해했습니다.",
+    "source": "openai"
+  }
+]

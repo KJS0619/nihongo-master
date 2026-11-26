@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "word": "私",
+    "reading": "わたし",
+    "meaning": "나, 저",
+    "example_jp": "私は学生です。",
+    "example_furigana": "私は(わたしは)学生(がくせい)です。",
+    "example_ko": "나는 학생입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "2",
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "사람",
+    "example_jp": "あの人は優しいです。",
+    "example_furigana": "あの人(ひと)は優しい(やさしい)です。",
+    "example_ko": "저 사람은 친절합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "3",
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "오늘",
+    "example_jp": "今日はいい天気です。",
+    "example_furigana": "今日は(きょうは)いい天気(てんき)です。",
+    "example_ko": "오늘은 좋은 날씨입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "4",
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "내일",
+    "example_jp": "明日は友達に会います。",
+    "example_furigana": "明日(あした)は友達(ともだち)に会います(あいます)。",
+    "example_ko": "내일은 친구를 만납니다.",
+    "source": "openai"
+  },
+  {
+    "id": "5",
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "어제",
+    "example_jp": "昨日は映画を見ました。",
+    "example_furigana": "昨日(きのう)は映画(えいが)を見(み)ました。",
+    "example_ko": "어제는 영화를 봤습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "6",
+    "word": "今",
+    "reading": "いま",
+    "meaning": "지금",
+    "example_jp": "今は勉強中です。",
+    "example_furigana": "今(いま)は勉強中(べんきょうちゅう)です。",
+    "example_ko": "지금은 공부 중입니다.",
+    "source": "openai"
+  },
+  {
+    "id": "7",
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "시간",
+    "example_jp": "時間が足りないです。",
+    "example_furigana": "時間(じかん)が足(たり)りないです。",
+    "example_ko": "시간이 부족합니다.",
+    "source": "openai"
+  },
+  {
+    "id": "8",
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "매일",
+    "example_jp": "毎日運動しています。",
+    "example_furigana": "毎日(まいにち)運動(うんどう)しています。",
+    "example_ko": "매일 운동하고 있습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "9",
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "아침",
+    "example_jp": "朝ご飯を食べました。",
+    "example_furigana": "朝(あさ)ご飯(はん)を食(た)べました。",
+    "example_ko": "아침을 먹었습니다.",
+    "source": "openai"
+  },
+  {
+    "id": "10",
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "낮, 점심",
+    "example_jp": "昼ご飯は何ですか。",
+    "example_furigana": "昼(ひる)ご飯(はん)は何(なん)ですか。",
+    "example_ko": "점심은 뭐예요?",
+    "source": "openai"
+  }
+]
