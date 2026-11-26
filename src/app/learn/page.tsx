@@ -15,6 +15,16 @@ export default function LearnPage() {
       features: ["JLPT N5~N1", "획순 애니메이션", "부수 214", "한일 자형 비교"],
     },
     {
+      href: "/learn/videos",
+      title: "영상 학습",
+      subtitle: "動画学習",
+      description: "유튜브 영상으로 일본어를 학습하세요",
+      icon: "▶️",
+      count: "영상 모음",
+      gradient: "from-rose-500 to-red-500",
+      features: ["영상 재생", "직접 링크 추가", "나만의 목록"],
+    },
+    {
       href: "/learn/words",
       title: "단어",
       subtitle: "単語",
