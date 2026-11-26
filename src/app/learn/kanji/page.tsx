@@ -51,6 +51,11 @@ export default function KanjiLearnPage() {
         const response = await fetch("/data/kanji_master.json");
         const data: KanjiData = await response.json();
         setKanjiData(data.kanji);
+        const requestedKanji = new URLSearchParams(window.location.search).get("kanji");
+        if (requestedKanji) {
+          const linkedKanji = data.kanji.find((item) => item.literal === requestedKanji);
+          if (linkedKanji) setSelectedKanji(linkedKanji);
+        }
       } catch (error) {
         console.error("Failed to load kanji data:", error);
       } finally {
