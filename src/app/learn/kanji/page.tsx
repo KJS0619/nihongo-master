@@ -116,6 +116,7 @@ export default function KanjiLearnPage() {
     { label: "주제별", icon: "📚", onClick: () => setShowTopicKanji(true), gradient: "from-red-500 to-orange-500" },
     { label: "부수 214", icon: "🀄", onClick: () => setShowRadical(true), gradient: "from-purple-500 to-pink-500" },
     { label: "부수별", icon: "🔤", onClick: () => setShowRadicalKanji(true), gradient: "from-teal-500 to-cyan-500" },
+    { label: "한자 그림 모음", icon: "🖼️", onClick: () => window.open("https://hanja-gallery.vercel.app/", "_blank", "noopener,noreferrer"), gradient: "from-amber-500 to-orange-500" },
     { label: "한·일 차이", icon: "🔄", onClick: () => setShowKanjiDiff(true), gradient: "from-blue-500 to-purple-500" },
     { label: "국자", icon: "🇯🇵", onClick: () => setShowKokuji(true), gradient: "from-orange-500 to-red-500" },
     { label: "복습 테스트", icon: "🧠", onClick: () => setShowReviewTest(true), gradient: "from-emerald-500 to-green-500" },
