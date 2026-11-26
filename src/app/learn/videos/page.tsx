@@ -43,7 +43,7 @@ export default function VideosPage() {
       custom.forEach((video) => {
         if (video?.id && video?.title && video?.url && !byId.has(video.id)) byId.set(video.id, video);
       });
-      setVideos([...byId.values()]);
+      setVideos(Array.from(byId.values()));
     } catch {
       setVideos(DEFAULT_VIDEOS);
     }
